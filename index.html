@@ -174,8 +174,8 @@
             left: -50%;
             width: 200%;
             height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
-            animation: shine 3s infinite;
+            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.05), transparent); /* Adjusted opacity slightly for a subtle static highlight if desired, or remove background entirely */
+            /* animation: shine 3s infinite; */ /* Shine animation removed */
             pointer-events: none;
         }
 
@@ -351,8 +351,8 @@
             left: -50%;
             width: 200%;
             height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
-            animation: shine 2s infinite;
+            /* background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent); */ /* Shine animation and its background removed */
+            /* animation: shine 2s infinite; */ /* Shine animation removed */
             pointer-events: none;
         }
 
@@ -772,7 +772,7 @@
             
             <div class="user-input">
                 <input type="text" id="usernameInput" placeholder="Enter your Twitch username" />
-                <button class="btn btn-primary" onclick="loadUserData()">
+                <button class="btn btn-primary" id="loadUserDataBtn">
                     <i class="fas fa-search"></i>
                     Load Progress
                 </button>
@@ -806,10 +806,17 @@
         let achievements = [];
         let userProgress = null;
 
+        // DOM Element References
+        let usernameInputElement;
+        let contentElement;
+        let randomFooterMessageElement;
+        let loadUserDataButtonElement;
+
         // Random footer messages
         const footerMessages = [
             "Powered by a little energon, and a lot of luck",
             "Fueled by coffee and determination",
+            "Powered by JavaScript & CSS Magic", // Added original default here
             "Built with love and late-night coding",
             "Powered by pure streaming magic",
             "Made with chaos and good intentions",
@@ -826,10 +833,9 @@
         ];
 
         function setRandomFooterMessage() {
-            const messageEl = document.getElementById('randomFooterMessage');
-            if (messageEl) {
+            if (randomFooterMessageElement) {
                 const randomIndex = Math.floor(Math.random() * footerMessages.length);
-                messageEl.textContent = footerMessages[randomIndex];
+                randomFooterMessageElement.textContent = footerMessages[randomIndex];
             }
         }
 
@@ -850,7 +856,11 @@
         }
 
         async function loadUserData() {
-            const username = document.getElementById('usernameInput').value.trim();
+            if (!usernameInputElement) {
+                console.error("Username input element not found.");
+                return;
+            }
+            const username = usernameInputElement.value.trim();
             if (!username) {
                 showError("Please enter a username");
                 return;
@@ -866,35 +876,39 @@
 
             // Find user data
             const normalizedUsername = username.toLowerCase();
-            const userData = allData.users[normalizedUsername] || 
-                           Object.keys(allData.users).find(key => 
-                               key.toLowerCase() === normalizedUsername
-                           );
+            let userObject = allData.users[normalizedUsername]; // Try direct lookup
 
-            if (!userData && !allData.users[userData]) {
+            if (!userObject) { // If not found, try case-insensitive key search
+                const foundKey = Object.keys(allData.users).find(key =>
+                    key.toLowerCase() === normalizedUsername
+                );
+                if (foundKey) {
+                    userObject = allData.users[foundKey];
+                }
+            }
+
+            if (!userObject) {
                 showError(`No achievement data found for user "${username}". Make sure you've participated in chat!`);
                 return;
             }
 
             achievements = allData.achievements;
-            userProgress = allData.users[userData] || allData.users[normalizedUsername];
-            
             // Convert to expected format
             userProgress = {
-                Counters: userProgress.counters || {},
-                UnlockedAchievements: userProgress.unlockedAchievements || [],
-                LastUpdated: userProgress.lastUpdated || new Date().toISOString()
+                Counters: userObject.counters || {},
+                UnlockedAchievements: userObject.unlockedAchievements || [],
+                LastUpdated: userObject.lastUpdated || new Date().toISOString()
             };
 
             displayDashboard();
         }
 
         function showLoading() {
-            document.getElementById('content').innerHTML = '<div class="loading">Loading achievements</div>';
+            if(contentElement) contentElement.innerHTML = '<div class="loading">Loading achievements</div>';
         }
 
         function showError(message) {
-            document.getElementById('content').innerHTML = `<div class="error-message">${message}</div>`;
+            if(contentElement) contentElement.innerHTML = `<div class="error-message">${message}</div>`;
         }
 
         function displayDashboard() {
@@ -923,20 +937,28 @@
                 </div>
 
                 <div class="filter-tabs">
-                    <button class="filter-tab ${currentFilter === 'all' ? 'active' : ''}" onclick="setFilter('all')">All</button>
-                    <button class="filter-tab ${currentFilter === 'unlocked' ? 'active' : ''}" onclick="setFilter('unlocked')">Unlocked</button>
-                    <button class="filter-tab ${currentFilter === 'locked' ? 'active' : ''}" onclick="setFilter('locked')">Locked</button>
-                    <button class="filter-tab ${currentFilter === 'chat' ? 'active' : ''}" onclick="setFilter('chat')">Chat</button>
-                    <button class="filter-tab ${currentFilter === 'sub' ? 'active' : ''}" onclick="setFilter('sub')">Subscription</button>
-                    <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" onclick="setFilter('bits')">Bits</button>
+                    <button class="filter-tab ${currentFilter === 'all' ? 'active' : ''}" data-filter="all">All</button>
+                    <button class="filter-tab ${currentFilter === 'unlocked' ? 'active' : ''}" data-filter="unlocked">Unlocked</button>
+                    <button class="filter-tab ${currentFilter === 'locked' ? 'active' : ''}" data-filter="locked">Locked</button>
+                    <button class="filter-tab ${currentFilter === 'chat' ? 'active' : ''}" data-filter="chat">Chat</button>
+                    <button class="filter-tab ${currentFilter === 'sub' ? 'active' : ''}" data-filter="sub">Subscription</button>
+                    <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" data-filter="bits">Bits</button>
                 </div>
 
                 <div class="achievements-grid" id="achievementsGrid">
                     ${renderAchievements()}
                 </div>
             `;
+            if (contentElement) {
+                contentElement.innerHTML = content;
 
-            document.getElementById('content').innerHTML = content;
+                // Add event listeners to new filter tabs
+                contentElement.querySelectorAll('.filter-tab').forEach(button => {
+                    button.addEventListener('click', function() {
+                        setFilter(this.dataset.filter);
+                    });
+                });
+            }
         }
 
         function renderAchievements() {
@@ -950,7 +972,9 @@
             return filteredAchievements.map(achievement => {
                 const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
                 const currentValue = userProgress.Counters[achievement.Type] || 0;
-                const progress = Math.min((currentValue / achievement.RequiredValue) * 100, 100);
+                const requiredValue = achievement.RequiredValue;
+                const progress = Math.min((currentValue / requiredValue) * 100, 100);
+                const displayedCurrentValue = Math.min(currentValue, requiredValue);
 
                 return `
                     <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'}">
@@ -964,7 +988,7 @@
                         <div class="achievement-description">${achievement.Description}</div>
                         <div class="progress-bar">
                             <div class="progress-fill" style="width: ${progress}%"></div>
-                            <div class="progress-text">${currentValue}/${achievement.RequiredValue}</div>
+                            <div class="progress-text">${displayedCurrentValue}/${requiredValue}</div>
                         </div>
                         ${isUnlocked ? '<div class="unlock-date">✅ Unlocked!</div>' : ''}
                     </div>
@@ -979,14 +1003,27 @@
 
         // Handle Enter key in username input
         document.addEventListener('DOMContentLoaded', function() {
-            document.getElementById('usernameInput').addEventListener('keypress', function(e) {
-                if (e.key === 'Enter') {
-                    loadUserData();
-                }
-            });
+            // Initialize DOM element references
+            usernameInputElement = document.getElementById('usernameInput');
+            contentElement = document.getElementById('content');
+            randomFooterMessageElement = document.getElementById('randomFooterMessage');
+            loadUserDataButtonElement = document.getElementById('loadUserDataBtn');
 
-            // Set random footer message
-            setRandomFooterMessage();
+            if (usernameInputElement) {
+                usernameInputElement.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        loadUserData();
+                    }
+                });
+            }
+
+            if (loadUserDataButtonElement) {
+                loadUserDataButtonElement.addEventListener('click', loadUserData);
+            }
+
+            if (randomFooterMessageElement) {
+                setRandomFooterMessage(); // Set initial random footer message
+            }
         });
     </script>
 </body>
