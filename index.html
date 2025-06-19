@@ -1050,6 +1050,26 @@
                 return 'channelpoints';
             }
             
+            // Gift Sub category overrides
+            if (achievementName.includes('first gift') || 
+                achievementName.includes('kind soul') || 
+                achievementName.includes('caring friend') || 
+                achievementName.includes('thoughtful gifter') || 
+                achievementName.includes('community supporter') || 
+                achievementName.includes('gift champion') || 
+                achievementName.includes('community hero') || 
+                achievementName.includes('gift angel') || 
+                achievementName.includes('community patron') || 
+                achievementName.includes('stream guardian') || 
+                achievementName.includes('gift baron') || 
+                achievementName.includes('gift lord') || 
+                achievementName.includes('gift emperor') || 
+                achievementName.includes('gift deity') || 
+                achievementName.includes('gift transcendent') || 
+                achievementName.includes('gift omnipotent')) {
+                return 'giftsub';
+            }
+            
             // Default to the achievement's original type
             return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
         }
