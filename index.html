@@ -1005,6 +1005,7 @@
                 });
             }
         }
+        adjustSingleWordTitles(); // Call the new function after rendering
 
         // Helper function to map a single achievement to its HTML card
         function mapAchievementToHtml(achievement) {
@@ -1102,6 +1103,27 @@
             return html;
         }
 
+        // Function to adjust font size of single-word titles if they overflow
+        function adjustSingleWordTitles() {
+            // Use a slight delay to ensure rendering is complete
+            setTimeout(() => {
+                const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
+                const minFontSize = 10; // Minimum font size in pixels
+
+                titleElements.forEach(h3 => {
+                    const text = h3.textContent.trim();
+                    // Check if it's likely a single word (no spaces) and it's overflowing
+                    if (text.indexOf(' ') === -1 && h3.scrollWidth > h3.clientWidth) {
+                        let currentFontSize = parseFloat(window.getComputedStyle(h3).fontSize);
+                        // Reduce font size until it fits or hits the minimum
+                        while (h3.scrollWidth > h3.clientWidth && currentFontSize > minFontSize) {
+                            currentFontSize -= 0.5; // Reduce by 0.5px increments
+                            h3.style.fontSize = `${currentFontSize}px`;
+                        }
+                    }
+                });
+            }, 50); // Small delay (e.g., 50ms)
+        }
         function setFilter(filter) {
             currentFilter = filter;
             displayDashboard();
