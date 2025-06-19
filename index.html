@@ -1030,7 +1030,8 @@
             if (achievementName.includes('transformation rookie') || 
                 achievementName.includes('effect collector') || 
                 achievementName.includes('transformation master') || 
-                achievementName.includes('shape shifting legend')) {
+                achievementName.includes('shape shifting legend') ||
+                achievementName.includes('shapeshifting legend')) {
                 return 'effect';
             }
             
@@ -1039,6 +1040,14 @@
                 achievementName.includes('chat dj') || 
                 achievementName.includes('sound mixer')) {
                 return 'sound';
+            }
+            
+            // Channel Points category overrides
+            if (achievementName.includes('point spender') || 
+                achievementName.includes('big spender') || 
+                achievementName.includes('whale spender') || 
+                achievementName.includes('point millionaire')) {
+                return 'channelpoints';
             }
             
             // Default to the achievement's original type
