@@ -1184,10 +1184,22 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-06-19T20:35:38Z"
+    },
+    "turdtotrader": {
+      "counters": {
+        "chat": 18,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "chat_newbie",
+        "chat_talker"
+      ],
+      "lastUpdated": "2025-06-19T20:54:33Z"
     }
   },
-  "lastUpdated": "2025-06-19T19:36:12Z",
-  "totalUsers": 2,
+  "lastUpdated": "2025-06-19T19:55:30Z",
+  "totalUsers": 3,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
