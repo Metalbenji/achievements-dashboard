@@ -1163,32 +1163,19 @@
     }
   ],
   "users": {
-    "mattyuk937": {
-      "counters": {
-        "chat": 2,
-        "follow": 1,
-        "points_spent": 100,
-        "sounds": 1
-      },
-      "unlockedAchievements": [],
-      "lastUpdated": "2025-06-19T21:04:04Z"
-    },
     "metalbenji": {
       "counters": {
-        "chat": 30,
+        "chat": 1,
         "follow": 1
       },
       "unlockedAchievements": [
-        "chat_newbie",
-        "chat_talker",
-        "follow_supporter",
-        "chat_conversationalist"
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-19T21:35:21Z"
+      "lastUpdated": "2025-06-19T21:35:42Z"
     }
   },
-  "lastUpdated": "2025-06-19T20:35:21Z",
-  "totalUsers": 2,
+  "lastUpdated": "2025-06-19T20:35:42Z",
+  "totalUsers": 1,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
