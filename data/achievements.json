@@ -1165,28 +1165,28 @@
   "users": {
     "metalbenji": {
       "counters": {
-        "chat": 6,
-        "follow": 1
+        "follow": 1,
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-19T17:46:19Z"
+      "lastUpdated": "2025-06-19T20:29:52Z"
     },
-    "awildbubbles": {
+    "marcusmaximi": {
       "counters": {
-        "chat": 6,
+        "chat": 1,
         "follow": 1
       },
       "unlockedAchievements": [
-        "follow_supporter",
-        "chat_newbie"
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-19T17:44:31Z"
+      "lastUpdated": "2025-06-19T20:35:38Z"
     }
   },
-  "lastUpdated": "2025-06-19T16:53:14Z",
+  "lastUpdated": "2025-06-19T19:36:12Z",
   "totalUsers": 2,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
