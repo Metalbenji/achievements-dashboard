@@ -999,6 +999,7 @@
                     <button class="filter-tab ${currentFilter === 'channelpoints' ? 'active' : ''}" data-filter="channelpoints">Channel Points</button>
                     <button class="filter-tab ${currentFilter === 'giftsub' ? 'active' : ''}" data-filter="giftsub">Gift Sub</button>
                     <button class="filter-tab ${currentFilter === 'donations' ? 'active' : ''}" data-filter="donations">Donations</button>
+                    <button class="filter-tab ${currentFilter === 'bigdonation' ? 'active' : ''}" data-filter="bigdonation">Big Donations</button>
                     <button class="filter-tab ${currentFilter === 'giftbomb' ? 'active' : ''}" data-filter="giftbomb">Gift Bomb</button>
                 </div>
 
@@ -1080,13 +1081,17 @@
                 return 'giftsub';
             }
             
-            // Donations category overrides
+            // BIG DONATION category overrides (NEW - check for big donation first!)
             if (achievementName.includes('big heart') || 
                 achievementName.includes('regular big donor') || 
                 achievementName.includes('big donation champion') || 
                 achievementName.includes('big donation legend') || 
-                achievementName.includes('big donation master') || 
-                achievementName.includes('getting started') || 
+                achievementName.includes('big donation master')) {
+                return 'bigdonation'; // NEW category for counting big donations
+            }
+            
+            // Regular Donations category overrides (for total amount tracking)
+            if (achievementName.includes('getting started') || 
                 achievementName.includes('generous spirit') || 
                 achievementName.includes('kind contributor') || 
                 achievementName.includes('donation champion') || 
@@ -1134,13 +1139,15 @@
         // Helper function to map a single achievement to its HTML card
         function mapAchievementToHtml(achievement) {
             const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
-            // Use the special category mapping function
             const typeKey = getAchievementCategory(achievement);
-            const counterKey = typeKey === 'timewatched' ? 'timewatched' : 
-                              typeKey === 'channelpoints' ? 'channelpoints' : 
-                              typeKey === 'giftsub' ? 'giftsub' : 
-                              typeKey === 'giftbomb' ? 'giftbomb' : 
-                              typeKey;
+            
+            // Map category to counter key
+            let counterKey = typeKey;
+            if (typeKey === 'timewatched') counterKey = 'timewatched';
+            else if (typeKey === 'channelpoints') counterKey = 'channelpoints';
+            else if (typeKey === 'giftsub') counterKey = 'giftsub';
+            else if (typeKey === 'giftbomb') counterKey = 'giftbomb';
+            else if (typeKey === 'bigdonation') counterKey = 'big_donation'; // Map to the correct counter
             
             const currentValue = userProgress.Counters[counterKey] || 0;
             const requiredValue = achievement.RequiredValue;
@@ -1148,7 +1155,7 @@
             const displayedCurrentValue = Math.min(currentValue, requiredValue);
             
             // Check if this is a donation achievement for currency conversion
-            const isDonation = typeKey === 'donations';
+            const isDonation = typeKey === 'donations'; // Only regular donations show currency
             
             // Format the progress text with currency conversion if needed
             const currentDisplayValue = formatCurrencyValue(displayedCurrentValue, isDonation);
@@ -1179,7 +1186,7 @@
         function renderAchievements() {
             let html = '';
             // These should match the data-filter values for type filters and be lowercase
-            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'giftbomb']; 
+            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb']; 
 
             if (currentFilter === 'all') {
                 const groupedByType = {};
@@ -1209,6 +1216,7 @@
                     { key: 'channelpoints', name: 'Channel Points' },
                     { key: 'giftsub', name: 'Gift Sub' },
                     { key: 'donations', name: 'Donations' },
+                    { key: 'bigdonation', name: 'Big Donations' },
                     { key: 'giftbomb', name: 'Gift Bomb' }
                 ];
 
@@ -1255,6 +1263,7 @@
                             { key: 'channelpoints', name: 'Channel Points' },
                             { key: 'giftsub', name: 'Gift Sub' },
                             { key: 'donations', name: 'Donations' },
+                            { key: 'bigdonation', name: 'Big Donations' },
                             { key: 'giftbomb', name: 'Gift Bomb' }
                         ];
                         const groupInfo = groupDisplayOrder.find(g => g.key === currentFilter);
