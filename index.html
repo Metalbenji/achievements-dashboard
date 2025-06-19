@@ -1018,6 +1018,7 @@
         // Special category mapping for specific achievements
         function getAchievementCategory(achievement) {
             const achievementName = achievement.Name.toLowerCase();
+            const achievementDescription = achievement.Description ? achievement.Description.toLowerCase() : '';
             
             // Time Watched category overrides
             if (achievementName.includes('night owl') || 
@@ -1048,6 +1049,11 @@
                 achievementName.includes('whale spender') || 
                 achievementName.includes('point millionaire')) {
                 return 'channelpoints';
+            }
+            
+            // Gift Bomb category overrides - check description for "bomb"
+            if (achievementDescription.includes('bomb')) {
+                return 'giftbomb';
             }
             
             // Gift Sub category overrides
