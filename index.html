@@ -384,8 +384,8 @@
 
         .achievement-header {
             display: flex;
-            align-items: center;
-            gap: 20px;
+            align-items: flex-start; /* Align tops of icon and info block */
+            gap: 15px; /* Slightly adjusted gap */
             margin-bottom: 20px;
             position: relative;
             z-index: 1;
@@ -393,6 +393,7 @@
 
         .achievement-icon {
             font-size: 4rem;
+            flex-shrink: 0; /* Prevent icon from shrinking */
             filter: grayscale(100%);
             transition: all 0.3s ease;
             text-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
@@ -405,6 +406,11 @@
             animation: bounce 1s ease-in-out infinite alternate;
         }
 
+        .achievement-info {
+            flex-grow: 1; /* Allow info block to take available space */
+            min-width: 0; /* Crucial for allowing text to wrap correctly in a flex item */
+        }
+
         .achievement-info h3 {
             font-size: 1.5rem;
             margin-bottom: 8px;
@@ -414,6 +420,8 @@
             letter-spacing: 2px;
             text-shadow: 0 0 15px rgba(0, 212, 255, 0.8);
             font-family: 'Orbitron', monospace;
+            overflow-wrap: break-word; /* Allow long words to break and wrap */
+            word-wrap: break-word; /* Older alias for overflow-wrap */
         }
 
         .achievement-card.unlocked .achievement-info h3 {
@@ -472,6 +480,8 @@
             position: relative;
             z-index: 1;
             font-size: 1.1rem;
+            overflow-wrap: break-word; /* Allow long words to break and wrap */
+            word-wrap: break-word; /* Older alias for overflow-wrap */
         }
 
         .progress-bar {
