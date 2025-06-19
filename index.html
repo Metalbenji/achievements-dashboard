@@ -1070,6 +1070,25 @@
                 return 'giftsub';
             }
             
+            // Donations category overrides
+            if (achievementName.includes('big heart') || 
+                achievementName.includes('regular big donor') || 
+                achievementName.includes('big donation champion') || 
+                achievementName.includes('big donation legend') || 
+                achievementName.includes('big donation master') || 
+                achievementName.includes('getting started') || 
+                achievementName.includes('generous spirit') || 
+                achievementName.includes('kind contributor') || 
+                achievementName.includes('donation champion') || 
+                achievementName.includes('donation legend') || 
+                achievementName.includes('stream patron') || 
+                achievementName.includes('donation master') || 
+                achievementName.includes('donation deity') || 
+                achievementName.includes('transcendent supporter') ||
+                achievementName.includes('trancendent supporter')) {
+                return 'donations';
+            }
+            
             // Default to the achievement's original type
             return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
         }
