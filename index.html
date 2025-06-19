@@ -1106,39 +1106,55 @@
         // Function to adjust font size of single-word titles if they overflow
         function adjustSingleWordTitles() {
             // Use a slight delay to ensure rendering is complete
-             setTimeout(() => {
+            setTimeout(() => {
                 const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
                 const minFontSize = 10; // Minimum font size in pixels
 
                 titleElements.forEach(h3 => {
+                    // Reset inline font size to revert to CSS-defined size before recalculating
+                    // This is important if the function runs multiple times on the same elements (e.g., after filtering)
+                    h3.style.fontSize = ''; 
+
                     const text = h3.textContent.trim();
                     const isSingleWord = text.indexOf(' ') === -1;
-                    const originalFontSize = parseFloat(window.getComputedStyle(h3).fontSize);
-
-                    // Check if it's likely a single word (no spaces) and it's overflowing
+                    
                     if (isSingleWord) {
-                         // Temporarily remove wrapping to get true scrollWidth if it were on one line
-                        const originalOverflowWrap = h3.style.overflowWrap;
-                        const originalWordWrap = h3.style.wordWrap;
-                        h3.style.overflowWrap = 'normal'; 
-                        h3.style.wordWrap = 'normal'; 
+                        // Get the font size as defined by CSS (now that inline is cleared)
+                        const originalComputedStyle = window.getComputedStyle(h3);
+                        const originalFontSize = parseFloat(originalComputedStyle.fontSize);
 
-                        const isOverflowing = h3.scrollWidth > h3.clientWidth;
+                        // Store original inline styles we might change for measurement
+                        const originalInlineWhiteSpace = h3.style.whiteSpace;
+                        const originalInlineOverflowWrap = h3.style.overflowWrap; // Though CSS handles this, good practice
+                        const originalInlineWordWrap = h3.style.wordWrap;
 
-                        // Restore wrapping style immediately
-                        h3.style.overflowWrap = originalOverflowWrap;
-                        h3.style.wordWrap = originalWordWrap;
+                        // Temporarily force single line to measure true content width
+                        h3.style.whiteSpace = 'nowrap';
+                        h3.style.overflowWrap = 'normal'; // Prevent breaking during measurement
+                        h3.style.wordWrap = 'normal';
 
-                        if (isOverflowing) {
+                        const contentWidth = h3.scrollWidth; // Width if on one line
+                        const containerWidth = h3.clientWidth; // Available width
+
+                        // Restore original inline styles
+                        h3.style.whiteSpace = originalInlineWhiteSpace;
+                        h3.style.overflowWrap = originalInlineOverflowWrap;
+                        h3.style.wordWrap = originalInlineWordWrap;
+                        
+                        // Uncomment for debugging specific titles:
+                        // if (text.toLowerCase().includes("conversationalist")) {
+                        //     console.log(`Conversationalist: ContentW=${contentWidth}, ContainerW=${containerWidth}, OrigFS=${originalFontSize}`);
+                        // }
+
+                        if (contentWidth > containerWidth) { // Check if it overflows
                             const containerWidth = h3.clientWidth;
-                            const contentWidth = h3.scrollWidth; // This is the width if it were on one line
-                            let targetFontSize = (originalFontSize * containerWidth / contentWidth) * 0.98; // Calculate target size with a small buffer
+                            let targetFontSize = (originalFontSize * containerWidth / contentWidth) * 0.97; // Slightly more aggressive buffer
                             targetFontSize = Math.max(targetFontSize, minFontSize); // Ensure minimum size
                             h3.style.fontSize = `${targetFontSize}px`; // Apply the new font size
                         }
                     }
                 }); // End forEach
-            }, 100); // Increased delay (e.g., 100ms)
+            }, 150); // Slightly increased delay
         }
         function setFilter(filter) {
             currentFilter = filter;
