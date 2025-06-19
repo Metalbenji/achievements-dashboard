@@ -68,8 +68,8 @@
         .nav-content {
             display: flex;
             justify-content: space-between;
-            align-items: center;
-            max-width: 1400px;
+            align-items: center;            
+            max-width: 1700px; /* Increased max-width */
             margin: 0 auto;
         }
 
@@ -149,7 +149,7 @@
         .main-content {
             margin-top: 80px;
             padding: 2rem;
-            max-width: 1400px;
+            max-width: 1700px; /* Increased max-width */
             margin-left: auto;
             margin-right: auto;
             flex: 1;
@@ -327,7 +327,7 @@
         /* Achievement Cards - Styled like notification boxes */
         .achievements-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); /* Adjusted min-width for cards */
             gap: 25px;
         }
 
@@ -557,6 +557,31 @@
             animation: pulse 1.5s infinite;
         }
 
+        .achievement-group-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-top: 40px; /* Space above title */
+            margin-bottom: 20px; /* Space between title and grid */
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--border-color);
+            text-align: left;
+        }
+
+        /* Adjust first group title's top margin if it's the first element in its container */
+        #achievementsContainer > .achievement-group-title:first-child {
+            margin-top: 0;
+        }
+
+        .no-achievements-message {
+            text-align: center;
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            padding: 40px 20px;
+            background: var(--card-bg);
+            border-radius: 12px;
+            margin-top: 20px;
+        }
         /* Footer */
         .app-footer {
             background: rgba(15, 15, 20, 0.95);
@@ -945,7 +970,7 @@
                     <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" data-filter="bits">Bits</button>
                 </div>
 
-                <div class="achievements-grid" id="achievementsGrid">
+                <div id="achievementsContainer">
                     ${renderAchievements()}
                 </div>
             `;
@@ -961,39 +986,100 @@
             }
         }
 
-        function renderAchievements() {
-            const filteredAchievements = achievements.filter(achievement => {
-                if (currentFilter === 'all') return true;
-                if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
-                if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
-                return achievement.Type === currentFilter;
-            });
+        // Helper function to map a single achievement to its HTML card
+        function mapAchievementToHtml(achievement) {
+            const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
+            // Assuming achievement.Type from JSON is like "Chat", "Sub", "Bits"
+            // And counters are stored with lowercase keys like "chat", "sub", "bits"
+            const counterKey = achievement.Type.toLowerCase();
+            const currentValue = userProgress.Counters[counterKey] || 0;
+            const requiredValue = achievement.RequiredValue;
+            const progress = Math.min((currentValue / requiredValue) * 100, 100);
+            const displayedCurrentValue = Math.min(currentValue, requiredValue);
 
-            return filteredAchievements.map(achievement => {
-                const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
-                const currentValue = userProgress.Counters[achievement.Type] || 0;
-                const requiredValue = achievement.RequiredValue;
-                const progress = Math.min((currentValue / requiredValue) * 100, 100);
-                const displayedCurrentValue = Math.min(currentValue, requiredValue);
-
-                return `
-                    <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'}">
-                        <div class="achievement-header">
-                            <div class="achievement-icon">${achievement.Icon}</div>
-                            <div class="achievement-info">
-                                <h3>${achievement.Name}</h3>
-                                <span class="rarity rarity-${achievement.Rarity}">★ Rarity ${achievement.Rarity}</span>
-                            </div>
+            return `
+                <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'}">
+                    <div class="achievement-header">
+                        <div class="achievement-icon">${achievement.Icon}</div>
+                        <div class="achievement-info">
+                            <h3>${achievement.Name}</h3>
+                            <span class="rarity rarity-${achievement.Rarity}">★ Rarity ${achievement.Rarity}</span>
                         </div>
-                        <div class="achievement-description">${achievement.Description}</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: ${progress}%"></div>
-                            <div class="progress-text">${displayedCurrentValue}/${requiredValue}</div>
-                        </div>
-                        ${isUnlocked ? '<div class="unlock-date">✅ Unlocked!</div>' : ''}
                     </div>
-                `;
-            }).join('');
+                    <div class="achievement-description">${achievement.Description}</div>
+                    <div class="progress-bar">
+                        <div class="progress-fill" style="width: ${progress}%"></div>
+                        <div class="progress-text">${displayedCurrentValue}/${requiredValue}</div>
+                    </div>
+                    ${isUnlocked ? '<div class="unlock-date">✅ Unlocked!</div>' : ''}
+                </div>
+            `;
+        }
+
+        function renderAchievements() {
+            let html = '';
+            // These should match the data-filter values for type filters and be lowercase
+            const definedAchievementTypes = ['chat', 'sub', 'bits']; 
+
+            if (currentFilter === 'all') {
+                const groupedByType = {};
+                const miscellaneousAchievements = [];
+
+                achievements.forEach(ach => {
+                    const typeKey = ach.Type.toLowerCase();
+                    if (definedAchievementTypes.includes(typeKey)) {
+                        if (!groupedByType[typeKey]) {
+                            groupedByType[typeKey] = [];
+                        }
+                        groupedByType[typeKey].push(ach);
+                    } else {
+                        miscellaneousAchievements.push(ach);
+                    }
+                });
+
+                definedAchievementTypes.forEach(typeKey => {
+                    if (groupedByType[typeKey] && groupedByType[typeKey].length > 0) {
+                        const groupName = typeKey.charAt(0).toUpperCase() + typeKey.slice(1);
+                        html += `<h2 class="achievement-group-title">${groupName} Achievements</h2>`;
+                        html += '<div class="achievements-grid">';
+                        html += groupedByType[typeKey].map(ach => mapAchievementToHtml(ach)).join('');
+                        html += '</div>';
+                    }
+                });
+
+                if (miscellaneousAchievements.length > 0) {
+                    html += `<h2 class="achievement-group-title">Other Achievements</h2>`;
+                    html += '<div class="achievements-grid">';
+                    html += miscellaneousAchievements.map(ach => mapAchievementToHtml(ach)).join('');
+                    html += '</div>';
+                }
+
+                if (html === '' && achievements.length > 0) { // User has progress, but no achievements fit groups (edge case)
+                     html = '<p class="no-achievements-message">No achievements to display in defined categories.</p>';
+                } else if (html === '' && achievements.length === 0) {
+                     html = '<p class="no-achievements-message">No achievements are currently available.</p>';
+                }
+
+            } else { // Handle 'unlocked', 'locked', or specific type filters
+                const filteredAchievements = achievements.filter(achievement => {
+                    if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
+                    if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
+                    return achievement.Type.toLowerCase() === currentFilter;
+                });
+
+                if (filteredAchievements.length > 0) {
+                    if (definedAchievementTypes.includes(currentFilter)) {
+                         const groupName = currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
+                         html += `<h2 class="achievement-group-title">${groupName} Achievements</h2>`;
+                    }
+                    html += '<div class="achievements-grid">';
+                    html += filteredAchievements.map(ach => mapAchievementToHtml(ach)).join('');
+                    html += '</div>';
+                } else {
+                    html = '<p class="no-achievements-message">No achievements match this filter.</p>';
+                }
+            }
+            return html;
         }
 
         function setFilter(filter) {
