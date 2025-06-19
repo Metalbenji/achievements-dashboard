@@ -353,7 +353,7 @@
             pointer-events: none;
         }
 
-        /* Rarity-based achievement card glow colors (keeping original blue background) */
+        /* Rarity-specific border colors only - keeping original blue theme */
         .achievement-card.rarity-1 {
             border-color: #ffffff;
             box-shadow: 
@@ -380,57 +380,57 @@
             box-shadow: 
                 0 0 30px rgba(128, 0, 255, 0.5),
                 inset 0 0 20px rgba(0, 212, 255, 0.1);
-            animation: glow-purple-locked 1.5s ease-in-out infinite alternate;
         }
 
         .achievement-card.rarity-5 {
             border-color: #ff8000;
             box-shadow: 
-                0 0 40px rgba(255, 128, 0, 0.8),
+                0 0 30px rgba(255, 128, 0, 0.5),
                 inset 0 0 20px rgba(0, 212, 255, 0.1);
-            animation: glow-orange-locked 1.5s ease-in-out infinite alternate;
         }
 
+        /* Unlocked achievements - rarity border with gold inner glow */
         .achievement-card.unlocked.rarity-1 {
             border-color: #ffffff;
             box-shadow: 
-                0 0 40px rgba(255, 255, 255, 0.8),
+                0 0 30px rgba(255, 255, 255, 0.5),
                 inset 0 0 20px rgba(255, 215, 0, 0.1);
-            animation: glow-white 2s ease-in-out infinite alternate;
+            animation: glow 2s ease-in-out infinite alternate;
         }
 
         .achievement-card.unlocked.rarity-2 {
             border-color: #00ff00;
             box-shadow: 
-                0 0 40px rgba(0, 255, 0, 0.8),
+                0 0 30px rgba(0, 255, 0, 0.5),
                 inset 0 0 20px rgba(255, 215, 0, 0.1);
-            animation: glow-green 2s ease-in-out infinite alternate;
+            animation: glow 2s ease-in-out infinite alternate;
         }
 
         .achievement-card.unlocked.rarity-3 {
             border-color: #0080ff;
             box-shadow: 
-                0 0 40px rgba(0, 128, 255, 0.8),
+                0 0 30px rgba(0, 128, 255, 0.5),
                 inset 0 0 20px rgba(255, 215, 0, 0.1);
-            animation: glow-blue 2s ease-in-out infinite alternate;
+            animation: glow 2s ease-in-out infinite alternate;
         }
 
         .achievement-card.unlocked.rarity-4 {
             border-color: #8000ff;
             box-shadow: 
-                0 0 40px rgba(128, 0, 255, 0.8),
+                0 0 30px rgba(128, 0, 255, 0.5),
                 inset 0 0 20px rgba(255, 215, 0, 0.1);
-            animation: glow-purple 2s ease-in-out infinite alternate;
+            animation: glow 2s ease-in-out infinite alternate;
         }
 
         .achievement-card.unlocked.rarity-5 {
             border-color: #ff8000;
             box-shadow: 
-                0 0 50px rgba(255, 128, 0, 1.0),
+                0 0 30px rgba(255, 128, 0, 0.5),
                 inset 0 0 20px rgba(255, 215, 0, 0.1);
-            animation: glow-orange 2s ease-in-out infinite alternate;
+            animation: glow 2s ease-in-out infinite alternate;
         }
 
+        /* Locked achievements - dimmed rarity colors */
         .achievement-card.locked {
             opacity: 0.6;
         }
