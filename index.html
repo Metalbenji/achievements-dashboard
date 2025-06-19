@@ -800,7 +800,11 @@
     </footer>
 
     <script>
+        // Global variables
         let allData = null;
+        let currentFilter = 'all';
+        let achievements = [];
+        let userProgress = null;
 
         // Random footer messages
         const footerMessages = [
@@ -888,103 +892,3 @@
         function showLoading() {
             document.getElementById('content').innerHTML = '<div class="loading">Loading achievements</div>';
         }
-
-        function showError(message) {
-            document.getElementById('content').innerHTML = `<div class="error-message">${message}</div>`;
-        }
-
-        function displayDashboard() {
-            const unlockedCount = userProgress.UnlockedAchievements.length;
-            const totalCount = achievements.length;
-            const completionRate = ((unlockedCount / totalCount) * 100).toFixed(1);
-
-            const content = `
-                <div class="progress-overview">
-                    <div class="stat-card">
-                        <h3>🏆 Achievements</h3>
-                        <div class="number">${unlockedCount}/${totalCount}</div>
-                    </div>
-                    <div class="stat-card">
-                        <h3>📈 Completion</h3>
-                        <div class="number">${completionRate}%</div>
-                    </div>
-                    <div class="stat-card">
-                        <h3>💬 Messages</h3>
-                        <div class="number">${userProgress.Counters.chat || 0}</div>
-                    </div>
-                    <div class="stat-card">
-                        <h3>💰 Bits</h3>
-                        <div class="number">${userProgress.Counters.bits || 0}</div>
-                    </div>
-                </div>
-
-                <div class="filter-tabs">
-                    <button class="filter-tab ${currentFilter === 'all' ? 'active' : ''}" onclick="setFilter('all')">All</button>
-                    <button class="filter-tab ${currentFilter === 'unlocked' ? 'active' : ''}" onclick="setFilter('unlocked')">Unlocked</button>
-                    <button class="filter-tab ${currentFilter === 'locked' ? 'active' : ''}" onclick="setFilter('locked')">Locked</button>
-                    <button class="filter-tab ${currentFilter === 'chat' ? 'active' : ''}" onclick="setFilter('chat')">Chat</button>
-                    <button class="filter-tab ${currentFilter === 'sub' ? 'active' : ''}" onclick="setFilter('sub')">Subscription</button>
-                    <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" onclick="setFilter('bits')">Bits</button>
-                </div>
-
-                <div class="achievements-grid" id="achievementsGrid">
-                    ${renderAchievements()}
-                </div>
-            `;
-
-            document.getElementById('content').innerHTML = content;
-        }
-
-        function renderAchievements() {
-            const filteredAchievements = achievements.filter(achievement => {
-                if (currentFilter === 'all') return true;
-                if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
-                if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
-                return achievement.Type === currentFilter;
-            });
-
-            return filteredAchievements.map(achievement => {
-                const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
-                const currentValue = userProgress.Counters[achievement.Type] || 0;
-                const progress = Math.min((currentValue / achievement.RequiredValue) * 100, 100);
-
-                return `
-                    <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'}">
-                        <div class="achievement-header">
-                            <div class="achievement-icon">${achievement.Icon}</div>
-                            <div class="achievement-info">
-                                <h3>${achievement.Name}</h3>
-                                <span class="rarity rarity-${achievement.Rarity}">★ Rarity ${achievement.Rarity}</span>
-                            </div>
-                        </div>
-                        <div class="achievement-description">${achievement.Description}</div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: ${progress}%"></div>
-                            <div class="progress-text">${currentValue}/${achievement.RequiredValue}</div>
-                        </div>
-                        ${isUnlocked ? '<div class="unlock-date">✅ Unlocked!</div>' : ''}
-                    </div>
-                `;
-            }).join('');
-        }
-
-        let currentFilter = 'all';
-        let achievements = [];
-        let userProgress = null;
-
-        function setFilter(filter) {
-            currentFilter = filter;
-            displayDashboard();
-        }
-
-        // Handle Enter key in username input
-        document.addEventListener('DOMContentLoaded', function() {
-            document.getElementById('usernameInput').addEventListener('keypress', function(e) {
-                if (e.key === 'Enter') {
-                    loadUserData();
-                }
-            });
-
-            // Set random footer message
-            setRandomFooterMessage();
-        });
