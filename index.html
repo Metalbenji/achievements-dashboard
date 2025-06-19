@@ -1003,9 +1003,9 @@
                         setFilter(this.dataset.filter);
                     });
                 });
+                adjustSingleWordTitles(); // Call the function after rendering dashboard content
             }
         }
-        adjustSingleWordTitles(); // Call the new function after rendering
 
         // Helper function to map a single achievement to its HTML card
         function mapAchievementToHtml(achievement) {
@@ -1106,23 +1106,39 @@
         // Function to adjust font size of single-word titles if they overflow
         function adjustSingleWordTitles() {
             // Use a slight delay to ensure rendering is complete
-            setTimeout(() => {
+             setTimeout(() => {
                 const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
                 const minFontSize = 10; // Minimum font size in pixels
 
                 titleElements.forEach(h3 => {
                     const text = h3.textContent.trim();
+                    const isSingleWord = text.indexOf(' ') === -1;
+                    const originalFontSize = parseFloat(window.getComputedStyle(h3).fontSize);
+
                     // Check if it's likely a single word (no spaces) and it's overflowing
-                    if (text.indexOf(' ') === -1 && h3.scrollWidth > h3.clientWidth) {
-                        let currentFontSize = parseFloat(window.getComputedStyle(h3).fontSize);
-                        // Reduce font size until it fits or hits the minimum
-                        while (h3.scrollWidth > h3.clientWidth && currentFontSize > minFontSize) {
-                            currentFontSize -= 0.5; // Reduce by 0.5px increments
-                            h3.style.fontSize = `${currentFontSize}px`;
+                    if (isSingleWord) {
+                         // Temporarily remove wrapping to get true scrollWidth if it were on one line
+                        const originalOverflowWrap = h3.style.overflowWrap;
+                        const originalWordWrap = h3.style.wordWrap;
+                        h3.style.overflowWrap = 'normal'; 
+                        h3.style.wordWrap = 'normal'; 
+
+                        const isOverflowing = h3.scrollWidth > h3.clientWidth;
+
+                        // Restore wrapping style immediately
+                        h3.style.overflowWrap = originalOverflowWrap;
+                        h3.style.wordWrap = originalWordWrap;
+
+                        if (isOverflowing) {
+                            const containerWidth = h3.clientWidth;
+                            const contentWidth = h3.scrollWidth; // This is the width if it were on one line
+                            let targetFontSize = (originalFontSize * containerWidth / contentWidth) * 0.98; // Calculate target size with a small buffer
+                            targetFontSize = Math.max(targetFontSize, minFontSize); // Ensure minimum size
+                            h3.style.fontSize = `${targetFontSize}px`; // Apply the new font size
                         }
                     }
-                });
-            }, 50); // Small delay (e.g., 50ms)
+                }); // End forEach
+            }, 100); // Increased delay (e.g., 100ms)
         }
         function setFilter(filter) {
             currentFilter = filter;
