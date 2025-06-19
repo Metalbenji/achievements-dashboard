@@ -566,7 +566,7 @@
             color: #8000ff;
             border: 2px solid #8000ff;
             box-shadow: 0 0 15px rgba(128, 0, 255, 0.5);
-            animation: glow 1.5s ease-in-out infinite alternate;
+            animation: glow-purple 1.5s ease-in-out infinite alternate;
         }
 
         .rarity-5 {
@@ -840,6 +840,16 @@
 
             100% {
                 box-shadow: 0 0 40px rgba(from var(--rarity-5-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-5-main-color) r g b / 0.2);
+            }
+        }
+
+        @keyframes glow-purple {
+            0% {
+                box-shadow: 0 0 15px rgba(128, 0, 255, 0.5);
+            }
+
+            100% {
+                box-shadow: 0 0 25px rgba(128, 0, 255, 0.8), 0 0 10px rgba(200, 160, 255, 0.4);
             }
         }
 
