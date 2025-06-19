@@ -1327,8 +1327,8 @@
 
         // Currency conversion helper function (approximate conversion rate)
         function convertUSDtoGBP(usdAmount) {
-            // Using approximate conversion rate - you may want to update this periodically
-            const conversionRate = 0.79; // 1 USD = 0.79 GBP (approximate)
+            // Using approximate conversion rate from your C# code
+            const conversionRate = 0.8; // 1 USD = 0.80 GBP (as per your C# code)
             return Math.round(usdAmount * conversionRate * 100) / 100; // Round to 2 decimal places
         }
 
@@ -1367,20 +1367,34 @@
             else if (typeKey === 'bigdonation') counterKey = 'big_donation'; // Map to the correct counter
             else if (typeKey === 'donations') {
                 // Check if this is a count-based or amount-based donation achievement
-                counterKey = isDonationCountAchievement(achievement) ? 'donation_count' : 'donations';
+                // Use 'donations' for count achievements and 'total_donated' for amount achievements
+                counterKey = isDonationCountAchievement(achievement) ? 'donations' : 'total_donated';
             }
 
             const currentValue = userProgress.Counters[counterKey] || 0;
             const requiredValue = achievement.RequiredValue;
-            const progress = Math.min((currentValue / requiredValue) * 100, 100);
-            const displayedCurrentValue = Math.min(currentValue, requiredValue);
+            
+            // Special handling for total_donated which is stored in pence
+            let adjustedCurrentValue = currentValue;
+            let adjustedRequiredValue = requiredValue;
+            
+            if (counterKey === 'total_donated') {
+                // Convert pence to pounds for display
+                adjustedCurrentValue = currentValue / 100;
+                // Required value for total_donated achievements is already in dollars,
+                // so we convert to pounds (approximately 0.8 conversion rate as per your C# code)
+                adjustedRequiredValue = requiredValue * 0.8;
+            }
+            
+            const progress = Math.min((adjustedCurrentValue / adjustedRequiredValue) * 100, 100);
+            const displayedCurrentValue = Math.min(adjustedCurrentValue, adjustedRequiredValue);
 
             // Check if this is a donation AMOUNT achievement (not count) for currency conversion
             const isDonationAmount = typeKey === 'donations' && !isDonationCountAchievement(achievement);
 
             // Format the progress text with currency conversion if needed
-            const currentDisplayValue = formatCurrencyValue(displayedCurrentValue, isDonationAmount);
-            const requiredDisplayValue = formatCurrencyValue(requiredValue, isDonationAmount);
+            const currentDisplayValue = isDonationAmount ? `£${displayedCurrentValue.toFixed(2)}` : displayedCurrentValue.toString();
+            const requiredDisplayValue = isDonationAmount ? `£${adjustedRequiredValue.toFixed(2)}` : requiredValue.toString();
 
             // Convert currency in description for donation amount achievements
             const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonationAmount);
