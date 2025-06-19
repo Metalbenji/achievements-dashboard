@@ -1118,8 +1118,11 @@
 
                     const text = h3.textContent.trim();
                     const isSingleWord = text.indexOf(' ') === -1;
+                    const keywordsToShrink = ['transformation', 'transcendent'];
+                    const containsShrinkKeyword = keywordsToShrink.some(keyword => text.toLowerCase().includes(keyword));
 
-                    if (isSingleWord) {
+                    // Apply shrinking if it's a single word OR contains one of the specified keywords
+                    if (isSingleWord || containsShrinkKeyword) {
                         // Get the font size as defined by CSS (now that inline is cleared)
                         const originalComputedStyle = window.getComputedStyle(h3);
                         let currentFontSize = parseFloat(originalComputedStyle.fontSize);
@@ -1155,7 +1158,7 @@
                         
                         // Uncomment for debugging specific titles:
                         // if (text.toLowerCase().includes("conversationalist")) {
-                        //     console.log(`Conversationalist: scrollW=${h3.scrollWidth}, clientW=${h3.clientWidth}, finalFS=${h3.style.fontSize || currentFontSize}`);
+                        //     console.log(`${text}: scrollW=${h3.scrollWidth}, clientW=${h3.clientWidth}, finalFS=${h3.style.fontSize || currentFontSize}`);
                         // }
                     }
                 }); // End forEach
