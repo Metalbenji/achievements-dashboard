@@ -987,8 +987,7 @@
                     <button class="filter-tab ${currentFilter === 'locked' ? 'active' : ''}" data-filter="locked">Locked</button>
                     <button class="filter-tab ${currentFilter === 'chat' ? 'active' : ''}" data-filter="chat">Chat</button>
                     <button class="filter-tab ${currentFilter === 'sub' ? 'active' : ''}" data-filter="sub">Subscription</button>
-                    <button class="filter-tab ${currentFilter === 'giftedsub' ? 'active' : ''}" data-filter="giftedsub">Gifted Subs</button>
-                    <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" data-filter="bits">Donations</button>
+                    <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" data-filter="bits">Bits</button>
                 </div>
 
                 <div id="achievementsContainer">
@@ -1004,7 +1003,6 @@
                         setFilter(this.dataset.filter);
                     });
                 });
-                adjustSingleWordTitles(); // Call the function after rendering dashboard content
             }
         }
 
@@ -1041,10 +1039,8 @@
         function renderAchievements() {
             let html = '';
             // These should match the data-filter values for type filters and be lowercase
-            // Note: 'bits' filter will now include all donation-related types
-            const mainFilterTypes = ['chat', 'sub', 'giftedsub', 'bits']; 
-            const donationTypes = ['bits', 'donations', 'big_donation', 'total_donated'];
-            
+            const definedAchievementTypes = ['chat', 'sub', 'bits']; 
+
             if (currentFilter === 'all') {
                 const groupedByType = {};
                 const miscellaneousAchievements = [];
@@ -1052,22 +1048,13 @@
                 achievements.forEach(ach => {
                     const typeKey = ach.Type.toLowerCase();
                     if (definedAchievementTypes.includes(typeKey)) {
-                         // Group donation types together under 'bits' key for simplicity in grouping object
-                        const groupKey = donationTypes.includes(typeKey) ? 'bits' : typeKey;
                         if (!groupedByType[typeKey]) {
                             groupedByType[typeKey] = [];
                         }
                         groupedByType[typeKey].push(ach);
                     } else {
-                         // Also group other donation types here temporarily if they weren't in definedAchievementTypes
-                         // This ensures they don't end up in miscellaneous if we decide to group them later
-                         if (donationTypes.includes(typeKey)) {
-                             if (!groupedByType['bits']) groupedByType['bits'] = [];
-                             groupedByType['bits'].push(ach);
-                         } else {
                         miscellaneousAchievements.push(ach);
-                         }
-                    } // End if definedAchievementTypes
+                    }
                 });
 
                 definedAchievementTypes.forEach(typeKey => {
@@ -1095,15 +1082,11 @@
 
             } else { // Handle 'unlocked', 'locked', or specific type filters
                 const filteredAchievements = achievements.filter(achievement => {
-                    // Handle Unlocked/Locked filters
                     if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
                     if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
-                    
-                    // Handle specific type filters, including grouping all donation types under 'bits' filter
-                    if (currentFilter === 'bits') return donationTypes.includes(achievement.Type.toLowerCase());
-                    return achievement.Type.toLowerCase() === currentFilter; // Other specific types
+                    return achievement.Type.toLowerCase() === currentFilter;
                 });
-                
+
                 if (filteredAchievements.length > 0) {
                     if (definedAchievementTypes.includes(currentFilter)) {
                          const groupName = currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
@@ -1119,67 +1102,6 @@
             return html;
         }
 
-        // Function to adjust font size of single-word titles if they overflow
-        function adjustSingleWordTitles() {
-            // Use a slight delay to ensure rendering is complete
-            setTimeout(() => { // Increased timeout slightly
-                const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
-                const minFontSize = 10; // Minimum font size in pixels
-                const step = 0.5; // How much to decrease font size each iteration (in px)
-
-                titleElements.forEach(h3 => {
-                    // Reset inline font size to revert to CSS-defined size before recalculating
-                    // This is important if the function runs multiple times on the same elements (e.g., after filtering)
-                    h3.style.fontSize = ''; 
-
-                    const text = h3.textContent.trim();
-                    const isSingleWord = text.indexOf(' ') === -1;
-                    const keywordsToShrink = ['transformation', 'transcendent'];
-                    const containsShrinkKeyword = keywordsToShrink.some(keyword => text.toLowerCase().includes(keyword));
-
-                    // Apply shrinking if it's a single word OR contains one of the specified keywords
-                    if (isSingleWord || containsShrinkKeyword) {
-                        // Get the font size as defined by CSS (now that inline is cleared)
-                        const originalComputedStyle = window.getComputedStyle(h3);
-                        let currentFontSize = parseFloat(originalComputedStyle.fontSize);
-
-                        // Store original inline white-space style
-                        const originalInlineWhiteSpace = h3.style.whiteSpace;
-
-                        // Temporarily force single line to measure true content width
-                        h3.style.whiteSpace = 'nowrap';
-
-                        // Check for overflow
-                        if (h3.scrollWidth > h3.clientWidth) {
-                            // Iteratively reduce font size
-                            while (h3.scrollWidth > h3.clientWidth && currentFontSize > minFontSize) {
-                                currentFontSize -= step;
-                                if (currentFontSize < minFontSize) {
-                                    currentFontSize = minFontSize; // Don't go below min
-                                }
-                                h3.style.fontSize = `${currentFontSize}px`;
-                                
-                                // If we hit minFontSize and it's still overflowing, break to prevent infinite loop on impossible fits
-                                if (currentFontSize === minFontSize && h3.scrollWidth > h3.clientWidth) {
-                                    break; 
-                                }
-                            }
-                        }
-                        
-                        // Restore original inline white-space style.
-                        // This allows CSS `overflow-wrap: break-word` to take over if:
-                        // 1. It wasn't a single overflowing word initially.
-                        // 2. It was a single word, but even at minFontSize, it still overflowed.
-                        h3.style.whiteSpace = originalInlineWhiteSpace;
-                        
-                        // Uncomment for debugging specific titles:
-                        // if (text.toLowerCase().includes("conversationalist")) {
-                        //     console.log(`${text}: scrollW=${h3.scrollWidth}, clientW=${h3.clientWidth}, finalFS=${h3.style.fontSize || currentFontSize}`);
-                        // }
-                    }
-                }); // End forEach
-            }, 200); 
-        }
         function setFilter(filter) {
             currentFilter = filter;
             displayDashboard();
