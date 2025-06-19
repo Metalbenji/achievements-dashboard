@@ -327,7 +327,7 @@
         /* Achievement Cards - Styled like notification boxes */
         .achievements-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); /* Default: auto-fill columns >= 380px */
+            grid-template-columns: 1fr; /* Default: single column for mobile-first approach */
             gap: 25px;
         }
 
@@ -698,7 +698,21 @@
             50% { transform: scale(1.1); }
         }
 
-        /* Responsive */
+        /* Responsive Grid: Apply multi-column layouts for wider screens (Mobile-First) */
+        @media (min-width: 768px) { /* Tablets and small desktops */
+            .achievements-grid {
+                grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); /* Auto-fill columns */
+            }
+        }
+
+        @media (min-width: 1400px) { /* Large desktops - Aim for 4 columns */
+            .achievements-grid {
+                grid-template-columns: repeat(4, 1fr); /* Explicitly 4 columns */
+            }
+        }
+
+        /* General Responsive adjustments for smaller screens (<= 991px) */
+        /* Note: .achievements-grid single column is now handled by its default style above */
         @media (max-width: 991px) { /* Adjusted breakpoint for wider portrait/tablet support */
             .navbar {
                 padding: 1rem;
@@ -710,10 +724,6 @@
 
             .navbar-social-icons { 
                 display: none; 
-            }
-            
-            .achievements-grid { 
-                grid-template-columns: 1fr; 
             }
             
             .user-input {
