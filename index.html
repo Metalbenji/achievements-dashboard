@@ -27,6 +27,12 @@
             --danger: #ef4444;
             --achievement-gold: #ffd700;
             --neon-blue: #00d4ff;
+              /* Rarity Main Colors */
+            --rarity-1-main-color: #ffffff; /* White */
+            --rarity-2-main-color: #00ff00; /* Green */
+            --rarity-3-main-color: #0080ff; /* Blue */
+            --rarity-4-main-color: #8000ff; /* Purple */
+            --rarity-5-main-color: #ff8000; /* Orange */
         }
 
         body {
@@ -333,7 +339,9 @@
 
         .achievement-card {
             background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
-            border: 3px solid var(--neon-blue);
+             border-width: 3px;
+            border-style: solid;
+            border-color: var(--neon-blue); /* Default color, will be overridden by rarity classes */
             border-radius: 20px;
             padding: 25px;
             box-shadow: 
@@ -357,7 +365,6 @@
         }
 
         .achievement-card.unlocked {
-            border-color: var(--achievement-gold);
             box-shadow: 
                 0 0 30px rgba(255, 215, 0, 0.5),
                 inset 0 0 20px rgba(255, 215, 0, 0.1);
@@ -366,7 +373,6 @@
 
         .achievement-card.locked {
             opacity: 0.6;
-            border-color: rgba(0, 212, 255, 0.5);
             box-shadow: 
                 0 0 15px rgba(0, 212, 255, 0.2),
                 inset 0 0 10px rgba(0, 212, 255, 0.05);
