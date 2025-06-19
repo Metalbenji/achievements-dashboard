@@ -1034,6 +1034,13 @@
                 return 'effect';
             }
             
+            // Sound category overrides
+            if (achievementName.includes('sound pioneer') || 
+                achievementName.includes('chat dj') || 
+                achievementName.includes('sound mixer')) {
+                return 'sound';
+            }
+            
             // Default to the achievement's original type
             return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
         }
