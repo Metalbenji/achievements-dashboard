@@ -1307,6 +1307,24 @@
             return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
         }
 
+        // Check if this is a donation COUNT achievement (not amount)
+        function isDonationCountAchievement(achievement) {
+            const countBasedIds = [
+                'donation_first_timer',
+                'donation_kind',
+                'donation_caring',
+                'donation_frequent',
+                'donation_dedicated',
+                'donation_champion',
+                'donation_hero',
+                'donation_legend',
+                'donation_master',
+                'donation_god'
+            ];
+            
+            return countBasedIds.includes(achievement.Id);
+        }
+
         // Currency conversion helper function (approximate conversion rate)
         function convertUSDtoGBP(usdAmount) {
             // Using approximate conversion rate - you may want to update this periodically
@@ -1315,8 +1333,8 @@
         }
 
         // Format currency value for display
-        function formatCurrencyValue(value, isDonation) {
-            if (isDonation) {
+        function formatCurrencyValue(value, isDonationAmount) {
+            if (isDonationAmount) {
                 const gbpValue = convertUSDtoGBP(value);
                 return `£${gbpValue.toFixed(2)}`;
             }
@@ -1324,8 +1342,8 @@
         }
 
         // Convert USD to GBP in description text
-        function convertDescriptionCurrency(description, isDonation) {
-            if (!isDonation) return description;
+        function convertDescriptionCurrency(description, isDonationAmount) {
+            if (!isDonationAmount) return description;
 
             // Replace $X.XX or $X patterns with £ equivalent
             return description.replace(/\$(\d+(?:\.\d{2})?)/g, (match, amount) => {
@@ -1347,21 +1365,25 @@
             else if (typeKey === 'giftsub') counterKey = 'giftsub';
             else if (typeKey === 'giftbomb') counterKey = 'giftbomb';
             else if (typeKey === 'bigdonation') counterKey = 'big_donation'; // Map to the correct counter
+            else if (typeKey === 'donations') {
+                // Check if this is a count-based or amount-based donation achievement
+                counterKey = isDonationCountAchievement(achievement) ? 'donation_count' : 'donations';
+            }
 
             const currentValue = userProgress.Counters[counterKey] || 0;
             const requiredValue = achievement.RequiredValue;
             const progress = Math.min((currentValue / requiredValue) * 100, 100);
             const displayedCurrentValue = Math.min(currentValue, requiredValue);
 
-            // Check if this is a donation achievement for currency conversion
-            const isDonation = typeKey === 'donations'; // Only regular donations show currency
+            // Check if this is a donation AMOUNT achievement (not count) for currency conversion
+            const isDonationAmount = typeKey === 'donations' && !isDonationCountAchievement(achievement);
 
             // Format the progress text with currency conversion if needed
-            const currentDisplayValue = formatCurrencyValue(displayedCurrentValue, isDonation);
-            const requiredDisplayValue = formatCurrencyValue(requiredValue, isDonation);
+            const currentDisplayValue = formatCurrencyValue(displayedCurrentValue, isDonationAmount);
+            const requiredDisplayValue = formatCurrencyValue(requiredValue, isDonationAmount);
 
-            // Convert currency in description for donation achievements
-            const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonation);
+            // Convert currency in description for donation amount achievements
+            const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonationAmount);
 
             return `
                 <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'} rarity-color-${achievement.Rarity}">
