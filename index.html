@@ -987,7 +987,8 @@
                     <button class="filter-tab ${currentFilter === 'locked' ? 'active' : ''}" data-filter="locked">Locked</button>
                     <button class="filter-tab ${currentFilter === 'chat' ? 'active' : ''}" data-filter="chat">Chat</button>
                     <button class="filter-tab ${currentFilter === 'sub' ? 'active' : ''}" data-filter="sub">Subscription</button>
-                    <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" data-filter="bits">Bits</button>
+                    <button class="filter-tab ${currentFilter === 'giftedsub' ? 'active' : ''}" data-filter="giftedsub">Gifted Subs</button>
+                    <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" data-filter="bits">Donations</button>
                 </div>
 
                 <div id="achievementsContainer">
@@ -1040,8 +1041,10 @@
         function renderAchievements() {
             let html = '';
             // These should match the data-filter values for type filters and be lowercase
-            const definedAchievementTypes = ['chat', 'sub', 'bits']; 
-
+            // Note: 'bits' filter will now include all donation-related types
+            const mainFilterTypes = ['chat', 'sub', 'giftedsub', 'bits']; 
+            const donationTypes = ['bits', 'donations', 'big_donation', 'total_donated'];
+            
             if (currentFilter === 'all') {
                 const groupedByType = {};
                 const miscellaneousAchievements = [];
@@ -1049,13 +1052,22 @@
                 achievements.forEach(ach => {
                     const typeKey = ach.Type.toLowerCase();
                     if (definedAchievementTypes.includes(typeKey)) {
+                         // Group donation types together under 'bits' key for simplicity in grouping object
+                        const groupKey = donationTypes.includes(typeKey) ? 'bits' : typeKey;
                         if (!groupedByType[typeKey]) {
                             groupedByType[typeKey] = [];
                         }
                         groupedByType[typeKey].push(ach);
                     } else {
+                         // Also group other donation types here temporarily if they weren't in definedAchievementTypes
+                         // This ensures they don't end up in miscellaneous if we decide to group them later
+                         if (donationTypes.includes(typeKey)) {
+                             if (!groupedByType['bits']) groupedByType['bits'] = [];
+                             groupedByType['bits'].push(ach);
+                         } else {
                         miscellaneousAchievements.push(ach);
-                    }
+                         }
+                    } // End if definedAchievementTypes
                 });
 
                 definedAchievementTypes.forEach(typeKey => {
@@ -1083,11 +1095,15 @@
 
             } else { // Handle 'unlocked', 'locked', or specific type filters
                 const filteredAchievements = achievements.filter(achievement => {
+                    // Handle Unlocked/Locked filters
                     if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
                     if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
-                    return achievement.Type.toLowerCase() === currentFilter;
+                    
+                    // Handle specific type filters, including grouping all donation types under 'bits' filter
+                    if (currentFilter === 'bits') return donationTypes.includes(achievement.Type.toLowerCase());
+                    return achievement.Type.toLowerCase() === currentFilter; // Other specific types
                 });
-
+                
                 if (filteredAchievements.length > 0) {
                     if (definedAchievementTypes.includes(currentFilter)) {
                          const groupName = currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
