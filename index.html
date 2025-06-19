@@ -1119,6 +1119,18 @@
             return value.toString();
         }
 
+        // Convert USD to GBP in description text
+        function convertDescriptionCurrency(description, isDonation) {
+            if (!isDonation) return description;
+            
+            // Replace $X.XX or $X patterns with £ equivalent
+            return description.replace(/\$(\d+(?:\.\d{2})?)/g, (match, amount) => {
+                const usdAmount = parseFloat(amount);
+                const gbpValue = convertUSDtoGBP(usdAmount);
+                return `£${gbpValue.toFixed(2)}`;
+            });
+        }
+
         // Helper function to map a single achievement to its HTML card
         function mapAchievementToHtml(achievement) {
             const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
@@ -1141,6 +1153,9 @@
             // Format the progress text with currency conversion if needed
             const currentDisplayValue = formatCurrencyValue(displayedCurrentValue, isDonation);
             const requiredDisplayValue = formatCurrencyValue(requiredValue, isDonation);
+            
+            // Convert currency in description for donation achievements
+            const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonation);
 
             return `
                 <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'}">
@@ -1151,7 +1166,7 @@
                             <span class="rarity rarity-${achievement.Rarity}">★ Rarity ${achievement.Rarity}</span>
                         </div>
                     </div>
-                    <div class="achievement-description">${achievement.Description}</div>
+                    <div class="achievement-description">${convertedDescription}</div>
                     <div class="progress-bar">
                         <div class="progress-fill" style="width: ${progress}%"></div>
                         <div class="progress-text">${currentDisplayValue}/${requiredDisplayValue}</div>
