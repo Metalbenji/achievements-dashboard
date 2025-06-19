@@ -1106,31 +1106,93 @@
         // Function to adjust font size of single-word titles if they overflow
         function adjustSingleWordTitles() {
             // Use a slight delay to ensure rendering is complete
-             setTimeout(() => {
+            setTimeout(() => { // Increased timeout slightly
                 const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
                 const minFontSize = 10; // Minimum font size in pixels
+                const step = 0.5; // How much to decrease font size each iteration (in px)
 
                 titleElements.forEach(h3 => {
+                    // Reset inline font size to revert to CSS-defined size before recalculating
+                    // This is important if the function runs multiple times on the same elements (e.g., after filtering)
+                    h3.style.fontSize = ''; 
+
                     const text = h3.textContent.trim();
                     const isSingleWord = text.indexOf(' ') === -1;
-                    const originalFontSize = parseFloat(window.getComputedStyle(h3).fontSize);
+                    const keywordsToShrink = ['transformation', 'transcendent'];
+                    const containsShrinkKeyword = keywordsToShrink.some(keyword => text.toLowerCase().includes(keyword));
 
-                    // Check if it's likely a single word (no spaces) and it's overflowing
-                    if (isSingleWord) {
-                         // Temporarily remove wrapping to get true scrollWidth if it were on one line
-                        const originalOverflowWrap = h3.style.overflowWrap;
-                        const originalWordWrap = h3.style.wordWrap;
-                        h3.style.overflowWrap = 'normal'; 
-                        h3.style.wordWrap = 'normal'; 
+                    // Apply shrinking if it's a single word OR contains one of the specified keywords
+                    if (isSingleWord || containsShrinkKeyword) {
+                        // Get the font size as defined by CSS (now that inline is cleared)
+                        const originalComputedStyle = window.getComputedStyle(h3);
+                        let currentFontSize = parseFloat(originalComputedStyle.fontSize);
 
-                        const isOverflowing = h3.scrollWidth > h3.clientWidth;
+                        // Store original inline white-space style
+                        const originalInlineWhiteSpace = h3.style.whiteSpace;
 
-                        // Restore wrapping style immediately
-                        h3.style.overflowWrap = originalOverflowWrap;
-                        h3.style.wordWrap = originalWordWrap;
+                        // Temporarily force single line to measure true content width
+                        h3.style.whiteSpace = 'nowrap';
 
-                        if (isOverflowing) {
-                            const containerWidth = h3.clientWidth;
-                            const contentWidth = h3.scrollWidth; // This is the width if it were on one line
-                            let targetFontSize = (originalFontSize * containerWidth / contentWidth) * 0.98; // Calculate target size with a small buffer
-       
+                        // Check for overflow
+                        if (h3.scrollWidth > h3.clientWidth) {
+                            // Iteratively reduce font size
+                            while (h3.scrollWidth > h3.clientWidth && currentFontSize > minFontSize) {
+                                currentFontSize -= step;
+                                if (currentFontSize < minFontSize) {
+                                    currentFontSize = minFontSize; // Don't go below min
+                                }
+                                h3.style.fontSize = `${currentFontSize}px`;
+                                
+                                // If we hit minFontSize and it's still overflowing, break to prevent infinite loop on impossible fits
+                                if (currentFontSize === minFontSize && h3.scrollWidth > h3.clientWidth) {
+                                    break; 
+                                }
+                            }
+                        }
+                        
+                        // Restore original inline white-space style.
+                        // This allows CSS `overflow-wrap: break-word` to take over if:
+                        // 1. It wasn't a single overflowing word initially.
+                        // 2. It was a single word, but even at minFontSize, it still overflowed.
+                        h3.style.whiteSpace = originalInlineWhiteSpace;
+                        
+                        // Uncomment for debugging specific titles:
+                        // if (text.toLowerCase().includes("conversationalist")) {
+                        //     console.log(`${text}: scrollW=${h3.scrollWidth}, clientW=${h3.clientWidth}, finalFS=${h3.style.fontSize || currentFontSize}`);
+                        // }
+                    }
+                }); // End forEach
+            }, 200); 
+        }
+        function setFilter(filter) {
+            currentFilter = filter;
+            displayDashboard();
+        }
+
+        // Handle Enter key in username input
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize DOM element references
+            usernameInputElement = document.getElementById('usernameInput');
+            contentElement = document.getElementById('content');
+            randomFooterMessageElement = document.getElementById('randomFooterMessage');
+            loadUserDataButtonElement = document.getElementById('loadUserDataBtn');
+
+            if (usernameInputElement) {
+                usernameInputElement.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        loadUserData();
+                    }
+                });
+            }
+
+            if (loadUserDataButtonElement) {
+                loadUserDataButtonElement.addEventListener('click', loadUserData);
+            }
+
+            if (randomFooterMessageElement) {
+                setRandomFooterMessage(); // Set initial random footer message
+            }
+        });
+    </script>
+</body>
+</html>
