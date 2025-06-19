@@ -1015,6 +1015,29 @@
             }
         }
 
+        // Special category mapping for specific achievements
+        function getAchievementCategory(achievement) {
+            const achievementName = achievement.Name.toLowerCase();
+            
+            // Time Watched category overrides
+            if (achievementName.includes('night owl') || 
+                achievementName.includes('early bird') || 
+                achievementName.includes('weekend warrior')) {
+                return 'timewatched';
+            }
+            
+            // Effects category overrides
+            if (achievementName.includes('transformation rookie') || 
+                achievementName.includes('effect collector') || 
+                achievementName.includes('transformation master') || 
+                achievementName.includes('shape shifting legend')) {
+                return 'effect';
+            }
+            
+            // Default to the achievement's original type
+            return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
+        }
+
         // Currency conversion helper function (approximate conversion rate)
         function convertUSDtoGBP(usdAmount) {
             // Using approximate conversion rate - you may want to update this periodically
@@ -1034,13 +1057,13 @@
         // Helper function to map a single achievement to its HTML card
         function mapAchievementToHtml(achievement) {
             const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
-            // Normalize the achievement type for comparison
-            const typeKey = achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
+            // Use the special category mapping function
+            const typeKey = getAchievementCategory(achievement);
             const counterKey = typeKey === 'timewatched' ? 'timewatched' : 
                               typeKey === 'channelpoints' ? 'channelpoints' : 
                               typeKey === 'giftsub' ? 'giftsub' : 
                               typeKey === 'giftbomb' ? 'giftbomb' : 
-                              achievement.Type.toLowerCase();
+                              typeKey;
             
             const currentValue = userProgress.Counters[counterKey] || 0;
             const requiredValue = achievement.RequiredValue;
@@ -1083,7 +1106,7 @@
                 const miscellaneousAchievements = [];
 
                 achievements.forEach(ach => {
-                    const typeKey = ach.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
+                    const typeKey = getAchievementCategory(ach);
                     if (definedAchievementTypes.includes(typeKey)) {
                         if (!groupedByType[typeKey]) {
                             groupedByType[typeKey] = [];
@@ -1135,7 +1158,7 @@
                 const filteredAchievements = achievements.filter(achievement => {
                     if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
                     if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
-                    const typeKey = achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
+                    const typeKey = getAchievementCategory(achievement);
                     return typeKey === currentFilter;
                 });
 
