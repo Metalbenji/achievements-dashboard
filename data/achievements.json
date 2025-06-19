@@ -1172,11 +1172,22 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-19T11:09:38Z"
+      "lastUpdated": "2025-06-19T17:46:19Z"
+    },
+    "awildbubbles": {
+      "counters": {
+        "chat": 6,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-06-19T17:44:31Z"
     }
   },
-  "lastUpdated": "2025-06-19T10:09:43Z",
-  "totalUsers": 1,
+  "lastUpdated": "2025-06-19T16:53:14Z",
+  "totalUsers": 2,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
