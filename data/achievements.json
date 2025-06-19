@@ -1165,16 +1165,17 @@
   "users": {
     "metalbenji": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-19T21:35:43Z"
+      "lastUpdated": "2025-06-19T21:35:45Z"
     }
   },
-  "lastUpdated": "2025-06-19T20:35:43Z",
+  "lastUpdated": "2025-06-19T20:35:46Z",
   "totalUsers": 1,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
