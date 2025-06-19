@@ -988,6 +988,14 @@
                     <button class="filter-tab ${currentFilter === 'chat' ? 'active' : ''}" data-filter="chat">Chat</button>
                     <button class="filter-tab ${currentFilter === 'sub' ? 'active' : ''}" data-filter="sub">Subscription</button>
                     <button class="filter-tab ${currentFilter === 'bits' ? 'active' : ''}" data-filter="bits">Bits</button>
+                    <button class="filter-tab ${currentFilter === 'screenshot' ? 'active' : ''}" data-filter="screenshot">Screenshot</button>
+                    <button class="filter-tab ${currentFilter === 'timewatched' ? 'active' : ''}" data-filter="timewatched">Time Watched</button>
+                    <button class="filter-tab ${currentFilter === 'effect' ? 'active' : ''}" data-filter="effect">Effect</button>
+                    <button class="filter-tab ${currentFilter === 'sound' ? 'active' : ''}" data-filter="sound">Sound</button>
+                    <button class="filter-tab ${currentFilter === 'channelpoints' ? 'active' : ''}" data-filter="channelpoints">Channel Points</button>
+                    <button class="filter-tab ${currentFilter === 'giftsub' ? 'active' : ''}" data-filter="giftsub">Gift Sub</button>
+                    <button class="filter-tab ${currentFilter === 'donations' ? 'active' : ''}" data-filter="donations">Donations</button>
+                    <button class="filter-tab ${currentFilter === 'giftbomb' ? 'active' : ''}" data-filter="giftbomb">Gift Bomb</button>
                 </div>
 
                 <div id="achievementsContainer">
@@ -1007,16 +1015,44 @@
             }
         }
 
+        // Currency conversion helper function (approximate conversion rate)
+        function convertUSDtoGBP(usdAmount) {
+            // Using approximate conversion rate - you may want to update this periodically
+            const conversionRate = 0.79; // 1 USD = 0.79 GBP (approximate)
+            return Math.round(usdAmount * conversionRate * 100) / 100; // Round to 2 decimal places
+        }
+
+        // Format currency value for display
+        function formatCurrencyValue(value, isDonation) {
+            if (isDonation) {
+                const gbpValue = convertUSDtoGBP(value);
+                return `£${gbpValue.toFixed(2)}`;
+            }
+            return value.toString();
+        }
+
         // Helper function to map a single achievement to its HTML card
         function mapAchievementToHtml(achievement) {
             const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
-            // Assuming achievement.Type from JSON is like "Chat", "Sub", "Bits"
-            // And counters are stored with lowercase keys like "chat", "sub", "bits"
-            const counterKey = achievement.Type.toLowerCase();
+            // Normalize the achievement type for comparison
+            const typeKey = achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
+            const counterKey = typeKey === 'timewatched' ? 'timewatched' : 
+                              typeKey === 'channelpoints' ? 'channelpoints' : 
+                              typeKey === 'giftsub' ? 'giftsub' : 
+                              typeKey === 'giftbomb' ? 'giftbomb' : 
+                              achievement.Type.toLowerCase();
+            
             const currentValue = userProgress.Counters[counterKey] || 0;
             const requiredValue = achievement.RequiredValue;
             const progress = Math.min((currentValue / requiredValue) * 100, 100);
             const displayedCurrentValue = Math.min(currentValue, requiredValue);
+            
+            // Check if this is a donation achievement for currency conversion
+            const isDonation = typeKey === 'donations';
+            
+            // Format the progress text with currency conversion if needed
+            const currentDisplayValue = formatCurrencyValue(displayedCurrentValue, isDonation);
+            const requiredDisplayValue = formatCurrencyValue(requiredValue, isDonation);
 
             return `
                 <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'}">
@@ -1030,7 +1066,7 @@
                     <div class="achievement-description">${achievement.Description}</div>
                     <div class="progress-bar">
                         <div class="progress-fill" style="width: ${progress}%"></div>
-                        <div class="progress-text">${displayedCurrentValue}/${requiredValue}</div>
+                        <div class="progress-text">${currentDisplayValue}/${requiredDisplayValue}</div>
                     </div>
                     ${isUnlocked ? '<div class="unlock-date">✅ Unlocked!</div>' : ''}
                 </div>
@@ -1040,14 +1076,14 @@
         function renderAchievements() {
             let html = '';
             // These should match the data-filter values for type filters and be lowercase
-            const definedAchievementTypes = ['chat', 'sub', 'bits']; 
+            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'giftbomb']; 
 
             if (currentFilter === 'all') {
                 const groupedByType = {};
                 const miscellaneousAchievements = [];
 
                 achievements.forEach(ach => {
-                    const typeKey = ach.Type.toLowerCase();
+                    const typeKey = ach.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
                     if (definedAchievementTypes.includes(typeKey)) {
                         if (!groupedByType[typeKey]) {
                             groupedByType[typeKey] = [];
@@ -1058,12 +1094,26 @@
                     }
                 });
 
-                definedAchievementTypes.forEach(typeKey => {
-                    if (groupedByType[typeKey] && groupedByType[typeKey].length > 0) {
-                        const groupName = typeKey.charAt(0).toUpperCase() + typeKey.slice(1);
-                        html += `<h2 class="achievement-group-title">${groupName} Achievements</h2>`;
+                // Define the order and display names for achievement groups
+                const groupDisplayOrder = [
+                    { key: 'chat', name: 'Chat' },
+                    { key: 'sub', name: 'Subscription' },
+                    { key: 'bits', name: 'Bits' },
+                    { key: 'screenshot', name: 'Screenshot' },
+                    { key: 'timewatched', name: 'Time Watched' },
+                    { key: 'effect', name: 'Effect' },
+                    { key: 'sound', name: 'Sound' },
+                    { key: 'channelpoints', name: 'Channel Points' },
+                    { key: 'giftsub', name: 'Gift Sub' },
+                    { key: 'donations', name: 'Donations' },
+                    { key: 'giftbomb', name: 'Gift Bomb' }
+                ];
+
+                groupDisplayOrder.forEach(group => {
+                    if (groupedByType[group.key] && groupedByType[group.key].length > 0) {
+                        html += `<h2 class="achievement-group-title">${group.name} Achievements</h2>`;
                         html += '<div class="achievements-grid">';
-                        html += groupedByType[typeKey].map(ach => mapAchievementToHtml(ach)).join('');
+                        html += groupedByType[group.key].map(ach => mapAchievementToHtml(ach)).join('');
                         html += '</div>';
                     }
                 });
@@ -1085,13 +1135,28 @@
                 const filteredAchievements = achievements.filter(achievement => {
                     if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
                     if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
-                    return achievement.Type.toLowerCase() === currentFilter;
+                    const typeKey = achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
+                    return typeKey === currentFilter;
                 });
 
                 if (filteredAchievements.length > 0) {
                     if (definedAchievementTypes.includes(currentFilter)) {
-                         const groupName = currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
-                         html += `<h2 class="achievement-group-title">${groupName} Achievements</h2>`;
+                        const groupDisplayOrder = [
+                            { key: 'chat', name: 'Chat' },
+                            { key: 'sub', name: 'Subscription' },
+                            { key: 'bits', name: 'Bits' },
+                            { key: 'screenshot', name: 'Screenshot' },
+                            { key: 'timewatched', name: 'Time Watched' },
+                            { key: 'effect', name: 'Effect' },
+                            { key: 'sound', name: 'Sound' },
+                            { key: 'channelpoints', name: 'Channel Points' },
+                            { key: 'giftsub', name: 'Gift Sub' },
+                            { key: 'donations', name: 'Donations' },
+                            { key: 'giftbomb', name: 'Gift Bomb' }
+                        ];
+                        const groupInfo = groupDisplayOrder.find(g => g.key === currentFilter);
+                        const groupName = groupInfo ? groupInfo.name : currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
+                        html += `<h2 class="achievement-group-title">${groupName} Achievements</h2>`;
                     }
                     html += '<div class="achievements-grid">';
                     html += filteredAchievements.map(ach => mapAchievementToHtml(ach)).join('');
