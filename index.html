@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,12 +28,29 @@
             --danger: #ef4444;
             --achievement-gold: #ffd700;
             --neon-blue: #00d4ff;
-              /* Rarity Main Colors */
-            --rarity-1-main-color: #ffffff; /* White */
-            --rarity-2-main-color: #00ff00; /* Green */
-            --rarity-3-main-color: #0080ff; /* Blue */
-            --rarity-4-main-color: #8000ff; /* Purple */
-            --rarity-5-main-color: #ff8000; /* Orange */
+            /* Rarity Main Colors */
+            --rarity-1-main-color: #ffffff;
+            /* White */
+            --rarity-2-main-color: #00ff00;
+            /* Green */
+            --rarity-3-main-color: #0080ff;
+            /* Blue */
+            --rarity-4-main-color: #8000ff;
+            /* Purple */
+            --rarity-5-main-color: #ff8000;
+            /* Orange */
+
+            /* Rarity Glow Colors (RGBA) */
+            --rarity-1-glow-color: rgba(255, 255, 255, 0.5);
+            /* White with transparency */
+            --rarity-2-glow-color: rgba(0, 255, 0, 0.5);
+            /* Green with transparency */
+            --rarity-3-glow-color: rgba(0, 128, 255, 0.5);
+            /* Blue with transparency */
+            --rarity-4-glow-color: rgba(128, 0, 255, 0.5);
+            /* Purple with transparency */
+            --rarity-5-glow-color: rgba(255, 128, 0, 0.5);
+            /* Orange with transparency */
         }
 
         body {
@@ -74,8 +92,9 @@
         .nav-content {
             display: flex;
             justify-content: space-between;
-            align-items: center;            
-            max-width: 1700px; /* Increased max-width */
+            align-items: center;
+            max-width: 1700px;
+            /* Increased max-width */
             margin: 0 auto;
         }
 
@@ -125,26 +144,31 @@
             color: white;
             border-color: #9146ff;
         }
+
         .social-icon-button.kick:hover {
             background-color: #53fc18;
             color: black;
             border-color: #53fc18;
         }
+
         .social-icon-button.youtube:hover {
             background-color: #ff0000;
             color: white;
             border-color: #ff0000;
         }
+
         .social-icon-button.tiktok:hover {
             background-color: #010101;
             color: white;
             border-color: #010101;
         }
+
         .social-icon-button.x-twitter:hover {
             background-color: #000000;
             color: white;
             border-color: #000000;
         }
+
         .social-icon-button.kofi:hover {
             background-color: #FF5E5B;
             color: white;
@@ -155,7 +179,8 @@
         .main-content {
             margin-top: 80px;
             padding: 2rem;
-            max-width: 1700px; /* Increased max-width */
+            max-width: 1700px;
+            /* Increased max-width */
             margin-left: auto;
             margin-right: auto;
             flex: 1;
@@ -180,8 +205,10 @@
             left: -50%;
             width: 200%;
             height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.05), transparent); /* Adjusted opacity slightly for a subtle static highlight if desired, or remove background entirely */
-            /* animation: shine 3s infinite; */ /* Shine animation removed */
+            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.05), transparent);
+            /* Adjusted opacity slightly for a subtle static highlight if desired, or remove background entirely */
+            /* animation: shine 3s infinite; */
+            /* Shine animation removed */
             pointer-events: none;
         }
 
@@ -333,18 +360,20 @@
         /* Achievement Cards - Styled like notification boxes */
         .achievements-grid {
             display: grid;
-            grid-template-columns: 1fr; /* Default: single column for mobile-first approach */
+            grid-template-columns: 1fr;
+            /* Default: single column for mobile-first approach */
             gap: 25px;
         }
 
         .achievement-card {
             background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
-             border-width: 3px;
+            border-width: 3px;
             border-style: solid;
-            border-color: var(--neon-blue); /* Default color, will be overridden by rarity classes */
+            border-color: var(--neon-blue);
+            /* Default color, will be overridden by rarity classes */
             border-radius: 20px;
             padding: 25px;
-            box-shadow: 
+            box-shadow:
                 0 0 30px rgba(0, 212, 255, 0.5),
                 inset 0 0 20px rgba(0, 212, 255, 0.1);
             position: relative;
@@ -359,46 +388,100 @@
             left: -50%;
             width: 200%;
             height: 200%;
-            /* background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent); */ /* Shine animation and its background removed */
-            /* animation: shine 2s infinite; */ /* Shine animation removed */
+            /* background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent); */
+            /* Shine animation and its background removed */
+            /* animation: shine 2s infinite; */
+            /* Shine animation removed */
             pointer-events: none;
-        }
-
-        .achievement-card.unlocked {
-            box-shadow: 
-                0 0 30px rgba(255, 215, 0, 0.5),
-                inset 0 0 20px rgba(255, 215, 0, 0.1);
-            animation: glow 2s ease-in-out infinite alternate;
         }
 
         .achievement-card.locked {
             opacity: 0.6;
-            box-shadow: 
+            box-shadow:
                 0 0 15px rgba(0, 212, 255, 0.2),
                 inset 0 0 10px rgba(0, 212, 255, 0.05);
         }
 
         /* Rarity-specific border colors */
-        .achievement-card.rarity-color-1 { border-color: var(--rarity-1-main-color); }
-        .achievement-card.rarity-color-2 { border-color: var(--rarity-2-main-color); }
-        .achievement-card.rarity-color-3 { border-color: var(--rarity-3-main-color); }
-        .achievement-card.rarity-color-4 { border-color: var(--rarity-4-main-color); }
-        .achievement-card.rarity-color-5 { border-color: var(--rarity-5-main-color); }
+        .achievement-card.rarity-color-1 {
+            border-color: var(--rarity-1-main-color);
+        }
+
+        .achievement-card.rarity-color-2 {
+            border-color: var(--rarity-2-main-color);
+        }
+
+        .achievement-card.rarity-color-3 {
+            border-color: var(--rarity-3-main-color);
+        }
+
+        .achievement-card.rarity-color-4 {
+            border-color: var(--rarity-4-main-color);
+        }
+
+        .achievement-card.rarity-color-5 {
+            border-color: var(--rarity-5-main-color);
+        }
 
         .achievement-card:hover {
             transform: translateY(-5px);
         }
 
-        .achievement-card.unlocked:hover {
-            box-shadow: 
-                0 0 40px rgba(255, 215, 0, 0.7),
-                inset 0 0 25px rgba(255, 215, 0, 0.2);
+        /* Remove old generic gold hover for unlocked cards */
+        /* .achievement-card.unlocked:hover rule is removed */
+
+        /* Rarity-specific static glow for unlocked cards */
+        .achievement-card.unlocked.rarity-color-1 {
+            box-shadow: 0 0 30px rgba(from var(--rarity-1-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-1-main-color) r g b / 0.1);
+            animation: glow-rarity-1 2s ease-in-out infinite alternate;
+        }
+
+        .achievement-card.unlocked.rarity-color-1:hover {
+            box-shadow: 0 0 40px rgba(from var(--rarity-1-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-1-main-color) r g b / 0.2);
+        }
+
+        .achievement-card.unlocked.rarity-color-2 {
+            box-shadow: 0 0 30px rgba(from var(--rarity-2-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-2-main-color) r g b / 0.1);
+            animation: glow-rarity-2 2s ease-in-out infinite alternate;
+        }
+
+        .achievement-card.unlocked.rarity-color-2:hover {
+            box-shadow: 0 0 40px rgba(from var(--rarity-2-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-2-main-color) r g b / 0.2);
+        }
+
+        .achievement-card.unlocked.rarity-color-3 {
+            box-shadow: 0 0 30px rgba(from var(--rarity-3-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-3-main-color) r g b / 0.1);
+            animation: glow-rarity-3 2s ease-in-out infinite alternate;
+        }
+
+        .achievement-card.unlocked.rarity-color-3:hover {
+            box-shadow: 0 0 40px rgba(from var(--rarity-3-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-3-main-color) r g b / 0.2);
+        }
+
+        .achievement-card.unlocked.rarity-color-4 {
+            box-shadow: 0 0 30px rgba(from var(--rarity-4-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-4-main-color) r g b / 0.1);
+            animation: glow-rarity-4 2s ease-in-out infinite alternate;
+        }
+
+        .achievement-card.unlocked.rarity-color-4:hover {
+            box-shadow: 0 0 40px rgba(from var(--rarity-4-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-4-main-color) r g b / 0.2);
+        }
+
+        .achievement-card.unlocked.rarity-color-5 {
+            box-shadow: 0 0 30px rgba(from var(--rarity-5-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-5-main-color) r g b / 0.1);
+            animation: glow-rarity-5 2s ease-in-out infinite alternate;
+        }
+
+        .achievement-card.unlocked.rarity-color-5:hover {
+            box-shadow: 0 0 40px rgba(from var(--rarity-5-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-5-main-color) r g b / 0.2);
         }
 
         .achievement-header {
             display: flex;
-            align-items: flex-start; /* Align tops of icon and info block */
-            gap: 15px; /* Slightly adjusted gap */
+            align-items: flex-start;
+            /* Align tops of icon and info block */
+            gap: 15px;
+            /* Slightly adjusted gap */
             margin-bottom: 20px;
             position: relative;
             z-index: 1;
@@ -406,7 +489,8 @@
 
         .achievement-icon {
             font-size: 4rem;
-            flex-shrink: 0; /* Prevent icon from shrinking */
+            flex-shrink: 0;
+            /* Prevent icon from shrinking */
             filter: grayscale(100%);
             transition: all 0.3s ease;
             text-shadow: 0 0 15px rgba(255, 255, 255, 0.3);
@@ -420,8 +504,10 @@
         }
 
         .achievement-info {
-            flex-grow: 1; /* Allow info block to take available space */
-            min-width: 0; /* Crucial for allowing text to wrap correctly in a flex item */
+            flex-grow: 1;
+            /* Allow info block to take available space */
+            min-width: 0;
+            /* Crucial for allowing text to wrap correctly in a flex item */
         }
 
         .achievement-info h3 {
@@ -433,8 +519,10 @@
             letter-spacing: 2px;
             text-shadow: 0 0 15px rgba(0, 212, 255, 0.8);
             font-family: 'Orbitron', monospace;
-            overflow-wrap: break-word; /* Allow long words to break and wrap */
-            word-wrap: break-word; /* Older alias for overflow-wrap */
+            overflow-wrap: break-word;
+            /* Allow long words to break and wrap */
+            word-wrap: break-word;
+            /* Older alias for overflow-wrap */
         }
 
         .achievement-card.unlocked .achievement-info h3 {
@@ -453,31 +541,35 @@
             text-shadow: 0 0 10px currentColor;
         }
 
-        .rarity-1 { 
+        .rarity-1 {
             background: rgba(255, 255, 255, 0.2);
             color: #ffffff;
             border: 2px solid #ffffff;
         }
-        .rarity-2 { 
+
+        .rarity-2 {
             background: rgba(0, 255, 0, 0.2);
             color: #00ff00;
             border: 2px solid #00ff00;
             box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
         }
-        .rarity-3 { 
+
+        .rarity-3 {
             background: rgba(0, 128, 255, 0.2);
             color: #0080ff;
             border: 2px solid #0080ff;
             box-shadow: 0 0 15px rgba(0, 128, 255, 0.5);
         }
-        .rarity-4 { 
+
+        .rarity-4 {
             background: rgba(128, 0, 255, 0.2);
             color: #8000ff;
             border: 2px solid #8000ff;
             box-shadow: 0 0 15px rgba(128, 0, 255, 0.5);
             animation: glow 1.5s ease-in-out infinite alternate;
         }
-        .rarity-5 { 
+
+        .rarity-5 {
             background: rgba(255, 128, 0, 0.2);
             color: #ff8000;
             border: 2px solid #ff8000;
@@ -493,8 +585,10 @@
             position: relative;
             z-index: 1;
             font-size: 1.1rem;
-            overflow-wrap: break-word; /* Allow long words to break and wrap */
-            word-wrap: break-word; /* Older alias for overflow-wrap */
+            overflow-wrap: break-word;
+            /* Allow long words to break and wrap */
+            word-wrap: break-word;
+            /* Older alias for overflow-wrap */
         }
 
         .progress-bar {
@@ -584,15 +678,17 @@
             font-size: 1.8rem;
             font-weight: 700;
             color: var(--text-primary);
-            margin-top: 40px; /* Space above title */
-            margin-bottom: 20px; /* Space between title and grid */
+            margin-top: 40px;
+            /* Space above title */
+            margin-bottom: 20px;
+            /* Space between title and grid */
             padding-bottom: 10px;
             border-bottom: 2px solid var(--border-color);
             text-align: left;
         }
 
         /* Adjust first group title's top margin if it's the first element in its container */
-        #achievementsContainer > .achievement-group-title:first-child {
+        #achievementsContainer>.achievement-group-title:first-child {
             margin-top: 0;
         }
 
@@ -605,6 +701,7 @@
             border-radius: 12px;
             margin-top: 20px;
         }
+
         /* Footer */
         .app-footer {
             background: rgba(15, 15, 20, 0.95);
@@ -677,70 +774,157 @@
 
         /* Animations */
         @keyframes shine {
-            0% { transform: translateX(-100%) rotate(45deg); }
-            100% { transform: translateX(100%) rotate(45deg); }
+            0% {
+                transform: translateX(-100%) rotate(45deg);
+            }
+
+            100% {
+                transform: translateX(100%) rotate(45deg);
+            }
         }
 
         @keyframes glow {
-            0% { 
+            0% {
                 box-shadow: 0 0 30px rgba(255, 215, 0, 0.5), inset 0 0 20px rgba(255, 215, 0, 0.1);
             }
-            100% { 
+
+            100% {
                 box-shadow: 0 0 40px rgba(255, 215, 0, 0.8), inset 0 0 30px rgba(255, 215, 0, 0.2);
             }
         }
 
+        @keyframes glow-rarity-1 {
+            0% {
+                box-shadow: 0 0 30px rgba(from var(--rarity-1-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-1-main-color) r g b / 0.1);
+            }
+
+            100% {
+                box-shadow: 0 0 40px rgba(from var(--rarity-1-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-1-main-color) r g b / 0.2);
+            }
+        }
+
+        @keyframes glow-rarity-2 {
+            0% {
+                box-shadow: 0 0 30px rgba(from var(--rarity-2-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-2-main-color) r g b / 0.1);
+            }
+
+            100% {
+                box-shadow: 0 0 40px rgba(from var(--rarity-2-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-2-main-color) r g b / 0.2);
+            }
+        }
+
+        @keyframes glow-rarity-3 {
+            0% {
+                box-shadow: 0 0 30px rgba(from var(--rarity-3-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-3-main-color) r g b / 0.1);
+            }
+
+            100% {
+                box-shadow: 0 0 40px rgba(from var(--rarity-3-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-3-main-color) r g b / 0.2);
+            }
+        }
+
+        @keyframes glow-rarity-4 {
+            0% {
+                box-shadow: 0 0 30px rgba(from var(--rarity-4-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-4-main-color) r g b / 0.1);
+            }
+
+            100% {
+                box-shadow: 0 0 40px rgba(from var(--rarity-4-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-4-main-color) r g b / 0.2);
+            }
+        }
+
+        @keyframes glow-rarity-5 {
+            0% {
+                box-shadow: 0 0 30px rgba(from var(--rarity-5-main-color) r g b / 0.5), inset 0 0 20px rgba(from var(--rarity-5-main-color) r g b / 0.1);
+            }
+
+            100% {
+                box-shadow: 0 0 40px rgba(from var(--rarity-5-main-color) r g b / 0.7), inset 0 0 25px rgba(from var(--rarity-5-main-color) r g b / 0.2);
+            }
+        }
+
         @keyframes legendary-glow {
-            0% { 
+            0% {
                 box-shadow: 0 0 20px rgba(255, 128, 0, 0.4);
                 transform: scale(1);
             }
-            100% { 
+
+            100% {
                 box-shadow: 0 0 30px rgba(255, 128, 0, 0.8), 0 0 40px rgba(255, 215, 0, 0.3);
                 transform: scale(1.02);
             }
         }
 
         @keyframes bounce {
-            0% { transform: translateY(0) rotate(0deg); }
-            100% { transform: translateY(-15px) rotate(5deg); }
+            0% {
+                transform: translateY(0) rotate(0deg);
+            }
+
+            100% {
+                transform: translateY(-15px) rotate(5deg);
+            }
         }
 
         @keyframes progress-pulse-shine {
-            0%, 100% { 
+
+            0%,
+            100% {
                 opacity: 0.3;
             }
-            50% { 
+
+            50% {
                 opacity: 0.7;
             }
         }
 
         @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
-        }
 
-        @keyframes heartbeat {
-            0%, 100% { transform: scale(1); }
-            50% { transform: scale(1.1); }
-        }
+            0%,
+            100% {
+                opacity: 1;
+            }
 
-        /* Responsive Grid: Apply multi-column layouts for wider screens (Mobile-First) */
-        @media (min-width: 768px) { /* Tablets and small desktops */
-            .achievements-grid {
-                grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); /* Auto-fill columns */
+            50% {
+                opacity: 0.5;
             }
         }
 
-        @media (min-width: 1400px) { /* Large desktops - Aim for 4 columns */
+        @keyframes heartbeat {
+
+            0%,
+            100% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.1);
+            }
+        }
+
+        /* Responsive Grid: Apply multi-column layouts for wider screens (Mobile-First) */
+        @media (min-width: 768px) {
+
+            /* Tablets and small desktops */
             .achievements-grid {
-                grid-template-columns: repeat(4, 1fr); /* Explicitly 4 columns */
+                grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+                /* Auto-fill columns */
+            }
+        }
+
+        @media (min-width: 1400px) {
+
+            /* Large desktops - Aim for 4 columns */
+            .achievements-grid {
+                grid-template-columns: repeat(4, 1fr);
+                /* Explicitly 4 columns */
             }
         }
 
         /* General Responsive adjustments for smaller screens (<= 991px) */
         /* Note: .achievements-grid single column is now handled by its default style above */
-        @media (max-width: 991px) { /* Adjusted breakpoint for wider portrait/tablet support */
+        @media (max-width: 991px) {
+
+            /* Adjusted breakpoint for wider portrait/tablet support */
             .navbar {
                 padding: 1rem;
             }
@@ -749,10 +933,10 @@
                 padding: 1rem;
             }
 
-            .navbar-social-icons { 
-                display: none; 
+            .navbar-social-icons {
+                display: none;
             }
-            
+
             .user-input {
                 flex-direction: column;
                 align-items: center;
@@ -773,22 +957,23 @@
                 text-align: center;
             }
 
-            .app-footer { 
-                padding: 1rem; 
-                text-align: center; 
+            .app-footer {
+                padding: 1rem;
+                text-align: center;
             }
-            
-            .footer-content { 
-                flex-direction: column; 
-                gap: 0.5rem; 
+
+            .footer-content {
+                flex-direction: column;
+                gap: 0.5rem;
             }
-            
-            .footer-text { 
-                justify-content: center; 
+
+            .footer-text {
+                justify-content: center;
             }
         }
     </style>
 </head>
+
 <body>
     <!-- Navigation -->
     <nav class="navbar">
@@ -802,8 +987,7 @@
                     aria-label="Twitch">
                     <i class="fab fa-twitch"></i>
                 </a>
-                <a href="https://kick.com/metalbenji" target="_blank" class="social-icon-button kick"
-                    aria-label="Kick">
+                <a href="https://kick.com/metalbenji" target="_blank" class="social-icon-button kick" aria-label="Kick">
                     <i class="fas fa-k"></i>
                 </a>
                 <a href="https://www.youtube.com/@metalbenji" target="_blank" class="social-icon-button youtube"
@@ -831,7 +1015,7 @@
         <div class="header">
             <h1>🏆 Achievement Dashboard</h1>
             <p>Track your progress and unlock amazing achievements!</p>
-            
+
             <div class="user-input">
                 <input type="text" id="usernameInput" placeholder="Enter your Twitch username" />
                 <button class="btn btn-primary" id="loadUserDataBtn">
@@ -966,11 +1150,11 @@
         }
 
         function showLoading() {
-            if(contentElement) contentElement.innerHTML = '<div class="loading">Loading achievements</div>';
+            if (contentElement) contentElement.innerHTML = '<div class="loading">Loading achievements</div>';
         }
 
         function showError(message) {
-            if(contentElement) contentElement.innerHTML = `<div class="error-message">${message}</div>`;
+            if (contentElement) contentElement.innerHTML = `<div class="error-message">${message}</div>`;
         }
 
         function displayDashboard() {
@@ -1025,7 +1209,7 @@
 
                 // Add event listeners to new filter tabs
                 contentElement.querySelectorAll('.filter-tab').forEach(button => {
-                    button.addEventListener('click', function() {
+                    button.addEventListener('click', function () {
                         setFilter(this.dataset.filter);
                     });
                 });
@@ -1037,86 +1221,86 @@
         function getAchievementCategory(achievement) {
             const achievementName = achievement.Name.toLowerCase();
             const achievementDescription = achievement.Description ? achievement.Description.toLowerCase() : '';
-            
+
             // Time Watched category overrides
-            if (achievementName.includes('night owl') || 
-                achievementName.includes('early bird') || 
+            if (achievementName.includes('night owl') ||
+                achievementName.includes('early bird') ||
                 achievementName.includes('weekend warrior')) {
                 return 'timewatched';
             }
-            
+
             // Effects category overrides
-            if (achievementName.includes('transformation rookie') || 
-                achievementName.includes('effect collector') || 
-                achievementName.includes('transformation master') || 
+            if (achievementName.includes('transformation rookie') ||
+                achievementName.includes('effect collector') ||
+                achievementName.includes('transformation master') ||
                 (achievementName.includes('shape') && achievementName.includes('shifting') && achievementName.includes('legend')) ||
                 (achievementName.includes('shapeshifting') && achievementName.includes('legend'))) {
                 return 'effect';
             }
-            
+
             // Sound category overrides
-            if (achievementName.includes('sound pioneer') || 
-                achievementName.includes('chat dj') || 
+            if (achievementName.includes('sound pioneer') ||
+                achievementName.includes('chat dj') ||
                 achievementName.includes('sound mixer')) {
                 return 'sound';
             }
-            
+
             // Channel Points category overrides
-            if (achievementName.includes('point spender') || 
-                achievementName.includes('big spender') || 
-                achievementName.includes('whale spender') || 
+            if (achievementName.includes('point spender') ||
+                achievementName.includes('big spender') ||
+                achievementName.includes('whale spender') ||
                 achievementName.includes('point millionaire')) {
                 return 'channelpoints';
             }
-            
+
             // Gift Bomb category overrides - check description for "bomb"
             if (achievementDescription.includes('bomb')) {
                 return 'giftbomb';
             }
-            
+
             // Gift Sub category overrides
-            if (achievementName.includes('first gift') || 
-                achievementName.includes('kind soul') || 
-                achievementName.includes('caring friend') || 
-                achievementName.includes('thoughtful gifter') || 
-                achievementName.includes('community supporter') || 
-                achievementName.includes('gift champion') || 
-                achievementName.includes('community hero') || 
-                achievementName.includes('gift angel') || 
-                achievementName.includes('community patron') || 
-                achievementName.includes('stream guardian') || 
-                achievementName.includes('gift baron') || 
-                achievementName.includes('gift lord') || 
-                achievementName.includes('gift emperor') || 
-                achievementName.includes('gift deity') || 
-                achievementName.includes('gift transcendent') || 
+            if (achievementName.includes('first gift') ||
+                achievementName.includes('kind soul') ||
+                achievementName.includes('caring friend') ||
+                achievementName.includes('thoughtful gifter') ||
+                achievementName.includes('community supporter') ||
+                achievementName.includes('gift champion') ||
+                achievementName.includes('community hero') ||
+                achievementName.includes('gift angel') ||
+                achievementName.includes('community patron') ||
+                achievementName.includes('stream guardian') ||
+                achievementName.includes('gift baron') ||
+                achievementName.includes('gift lord') ||
+                achievementName.includes('gift emperor') ||
+                achievementName.includes('gift deity') ||
+                achievementName.includes('gift transcendent') ||
                 achievementName.includes('gift omnipotent')) {
                 return 'giftsub';
             }
-            
+
             // BIG DONATION category overrides (NEW - check for big donation first!)
-            if (achievementName.includes('big heart') || 
-                achievementName.includes('regular big donor') || 
-                achievementName.includes('big donation champion') || 
-                achievementName.includes('big donation legend') || 
+            if (achievementName.includes('big heart') ||
+                achievementName.includes('regular big donor') ||
+                achievementName.includes('big donation champion') ||
+                achievementName.includes('big donation legend') ||
                 achievementName.includes('big donation master')) {
                 return 'bigdonation'; // NEW category for counting big donations
             }
-            
+
             // Regular Donations category overrides (for total amount tracking)
-            if (achievementName.includes('getting started') || 
-                achievementName.includes('generous spirit') || 
-                achievementName.includes('kind contributor') || 
-                achievementName.includes('donation champion') || 
-                achievementName.includes('donation legend') || 
-                achievementName.includes('stream patron') || 
-                achievementName.includes('donation master') || 
-                achievementName.includes('donation deity') || 
+            if (achievementName.includes('getting started') ||
+                achievementName.includes('generous spirit') ||
+                achievementName.includes('kind contributor') ||
+                achievementName.includes('donation champion') ||
+                achievementName.includes('donation legend') ||
+                achievementName.includes('stream patron') ||
+                achievementName.includes('donation master') ||
+                achievementName.includes('donation deity') ||
                 achievementName.includes('transcendent supporter') ||
                 achievementName.includes('trancendent supporter')) {
                 return 'donations';
             }
-            
+
             // Default to the achievement's original type
             return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
         }
@@ -1140,7 +1324,7 @@
         // Convert USD to GBP in description text
         function convertDescriptionCurrency(description, isDonation) {
             if (!isDonation) return description;
-            
+
             // Replace $X.XX or $X patterns with £ equivalent
             return description.replace(/\$(\d+(?:\.\d{2})?)/g, (match, amount) => {
                 const usdAmount = parseFloat(amount);
@@ -1153,7 +1337,7 @@
         function mapAchievementToHtml(achievement) {
             const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
             const typeKey = getAchievementCategory(achievement);
-            
+
             // Map category to counter key
             let counterKey = typeKey;
             if (typeKey === 'timewatched') counterKey = 'timewatched';
@@ -1161,19 +1345,19 @@
             else if (typeKey === 'giftsub') counterKey = 'giftsub';
             else if (typeKey === 'giftbomb') counterKey = 'giftbomb';
             else if (typeKey === 'bigdonation') counterKey = 'big_donation'; // Map to the correct counter
-            
+
             const currentValue = userProgress.Counters[counterKey] || 0;
             const requiredValue = achievement.RequiredValue;
             const progress = Math.min((currentValue / requiredValue) * 100, 100);
             const displayedCurrentValue = Math.min(currentValue, requiredValue);
-            
+
             // Check if this is a donation achievement for currency conversion
             const isDonation = typeKey === 'donations'; // Only regular donations show currency
-            
+
             // Format the progress text with currency conversion if needed
             const currentDisplayValue = formatCurrencyValue(displayedCurrentValue, isDonation);
             const requiredDisplayValue = formatCurrencyValue(requiredValue, isDonation);
-            
+
             // Convert currency in description for donation achievements
             const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonation);
 
@@ -1199,7 +1383,7 @@
         function renderAchievements() {
             let html = '';
             // These should match the data-filter values for type filters and be lowercase
-            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb']; 
+            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb'];
 
             if (currentFilter === 'all') {
                 const groupedByType = {};
@@ -1250,9 +1434,9 @@
                 }
 
                 if (html === '' && achievements.length > 0) { // User has progress, but no achievements fit groups (edge case)
-                     html = '<p class="no-achievements-message">No achievements to display in defined categories.</p>';
+                    html = '<p class="no-achievements-message">No achievements to display in defined categories.</p>';
                 } else if (html === '' && achievements.length === 0) {
-                     html = '<p class="no-achievements-message">No achievements are currently available.</p>';
+                    html = '<p class="no-achievements-message">No achievements are currently available.</p>';
                 }
 
             } else { // Handle 'unlocked', 'locked', or specific type filters
@@ -1304,7 +1488,7 @@
                 titleElements.forEach(h3 => {
                     // Reset inline font size to revert to CSS-defined size before recalculating
                     // This is important if the function runs multiple times on the same elements (e.g., after filtering)
-                    h3.style.fontSize = ''; 
+                    h3.style.fontSize = '';
 
                     const text = h3.textContent.trim();
                     const isSingleWord = text.indexOf(' ') === -1;
@@ -1332,27 +1516,27 @@
                                     currentFontSize = minFontSize; // Don't go below min
                                 }
                                 h3.style.fontSize = `${currentFontSize}px`;
-                                
+
                                 // If we hit minFontSize and it's still overflowing, break to prevent infinite loop on impossible fits
                                 if (currentFontSize === minFontSize && h3.scrollWidth > h3.clientWidth) {
-                                    break; 
+                                    break;
                                 }
                             }
                         }
-                        
+
                         // Restore original inline white-space style.
                         // This allows CSS `overflow-wrap: break-word` to take over if:
                         // 1. It wasn't a single overflowing word initially.
                         // 2. It was a single word, but even at minFontSize, it still overflowed.
                         h3.style.whiteSpace = originalInlineWhiteSpace;
-                        
+
                         // Uncomment for debugging specific titles:
                         // if (text.toLowerCase().includes("conversationalist")) {
                         //     console.log(`${text}: scrollW=${h3.scrollWidth}, clientW=${h3.clientWidth}, finalFS=${h3.style.fontSize || currentFontSize}`);
                         // }
                     }
                 }); // End forEach
-            }, 200); 
+            }, 200);
         }
         function setFilter(filter) {
             currentFilter = filter;
@@ -1360,7 +1544,7 @@
         }
 
         // Handle Enter key in username input
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             // Initialize DOM element references
             usernameInputElement = document.getElementById('usernameInput');
             contentElement = document.getElementById('content');
@@ -1368,7 +1552,7 @@
             loadUserDataButtonElement = document.getElementById('loadUserDataBtn');
 
             if (usernameInputElement) {
-                usernameInputElement.addEventListener('keypress', function(e) {
+                usernameInputElement.addEventListener('keypress', function (e) {
                     if (e.key === 'Enter') {
                         loadUserData();
                     }
@@ -1385,4 +1569,5 @@
         });
     </script>
 </body>
+
 </html>
