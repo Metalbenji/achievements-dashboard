@@ -1030,8 +1030,8 @@
             if (achievementName.includes('transformation rookie') || 
                 achievementName.includes('effect collector') || 
                 achievementName.includes('transformation master') || 
-                achievementName.includes('shape shifting legend') ||
-                achievementName.includes('shapeshifting legend')) {
+                (achievementName.includes('shape') && achievementName.includes('shifting') && achievementName.includes('legend')) ||
+                (achievementName.includes('shapeshifting') && achievementName.includes('legend'))) {
                 return 'effect';
             }
             
