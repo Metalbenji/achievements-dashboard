@@ -1168,13 +1168,12 @@
         "chat": 5
       },
       "unlockedAchievements": [
-        "chat_newbie",
-        "chat_transcendent"
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-20T20:52:42Z"
+      "lastUpdated": "2025-06-20T21:03:50Z"
     }
   },
-  "lastUpdated": "2025-06-20T19:52:42Z",
+  "lastUpdated": "2025-06-20T20:03:51Z",
   "totalUsers": 1,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
