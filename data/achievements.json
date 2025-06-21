@@ -1429,15 +1429,18 @@
     },
     "metalbenji": {
       "counters": {
-        "points_spent": 2000
+        "points_spent": 2001,
+        "special_rewards": 2
       },
       "unlockedAchievements": [
-        "spender_bronze"
+        "spender_bronze",
+        "emperor_loyal",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-06-21T17:30:23Z"
+      "lastUpdated": "2025-06-21T17:31:35Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:30:24Z",
+  "lastUpdated": "2025-06-21T16:31:35Z",
   "totalUsers": 21,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
