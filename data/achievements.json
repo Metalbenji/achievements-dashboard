@@ -1558,16 +1558,27 @@
     "oxmacerxo": {
       "counters": {
         "points_spent": 400,
+        "follow": 1,
+        "chat": 2
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T19:15:23Z"
+    },
+    "syn__________": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T19:14:41Z"
+      "lastUpdated": "2025-06-21T19:16:21Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:14:41Z",
-  "totalUsers": 28,
+  "lastUpdated": "2025-06-21T18:16:21Z",
+  "totalUsers": 29,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
