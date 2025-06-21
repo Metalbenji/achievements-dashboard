@@ -1652,8 +1652,8 @@
       "counters": {
         "points_spent": 1750,
         "follow": 1,
-        "chat": 7,
-        "effects": 1,
+        "chat": 9,
+        "effects": 2,
         "screenshot": 1,
         "sounds": 1
       },
@@ -1666,7 +1666,7 @@
         "sound_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T19:55:55Z"
+      "lastUpdated": "2025-06-21T19:59:29Z"
     },
     "syn__________": {
       "counters": {
@@ -1702,10 +1702,19 @@
         "clip_first"
       ],
       "lastUpdated": "2025-06-21T19:53:35Z"
+    },
+    "epik__tv": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T20:08:25Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:55:55Z",
-  "totalUsers": 31,
+  "lastUpdated": "2025-06-21T19:08:25Z",
+  "totalUsers": 32,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
