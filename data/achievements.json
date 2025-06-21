@@ -1547,10 +1547,19 @@
         "sound_first"
       ],
       "lastUpdated": "2025-06-21T18:44:59Z"
+    },
+    "metalbenji": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T18:56:57Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:56:54Z",
-  "totalUsers": 27,
+  "lastUpdated": "2025-06-21T17:56:58Z",
+  "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
