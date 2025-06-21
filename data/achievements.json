@@ -1220,7 +1220,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 66
+        "chat": 67
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1229,7 +1229,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T17:52:23Z"
+      "lastUpdated": "2025-06-21T17:53:43Z"
     },
     "celran": {
       "counters": {
@@ -1494,7 +1494,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 2,
+        "chat": 3,
         "points_spent": 500,
         "interactive": 1
       },
@@ -1503,21 +1503,22 @@
         "weekend_warrior",
         "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T17:53:22Z"
+      "lastUpdated": "2025-06-21T17:53:55Z"
     },
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T17:52:36Z"
+      "lastUpdated": "2025-06-21T17:54:24Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:53:22Z",
+  "lastUpdated": "2025-06-21T16:54:25Z",
   "totalUsers": 27,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
