@@ -1406,10 +1406,11 @@
     "metalbenji": {
       "counters": {
         "chat": 6,
-        "points_spent": 20750,
+        "points_spent": 25150,
         "effects": 1,
         "sounds": 1,
-        "interactive": 1
+        "interactive": 1,
+        "special_rewards": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1418,9 +1419,10 @@
         "spender_bronze",
         "spender_silver",
         "sound_first",
-        "interactive_first"
+        "interactive_first",
+        "first_caller"
       ],
-      "lastUpdated": "2025-06-21T17:10:57Z"
+      "lastUpdated": "2025-06-21T17:12:30Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1435,7 +1437,7 @@
       "lastUpdated": "2025-06-21T16:56:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:10:57Z",
+  "lastUpdated": "2025-06-21T16:12:30Z",
   "totalUsers": 20,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
