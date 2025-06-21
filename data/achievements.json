@@ -1430,26 +1430,30 @@
     "metalbenji": {
       "counters": {
         "points_spent": 2001,
-        "special_rewards": 2
+        "special_rewards": 2,
+        "chat": 1
       },
       "unlockedAchievements": [
         "spender_bronze",
         "emperor_loyal",
-        "birthday_person"
+        "birthday_person",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T17:31:35Z"
+      "lastUpdated": "2025-06-21T17:33:44Z"
     },
     "adammmidders": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T17:33:24Z"
+      "lastUpdated": "2025-06-21T17:33:25Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:33:25Z",
+  "lastUpdated": "2025-06-21T16:33:44Z",
   "totalUsers": 22,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
