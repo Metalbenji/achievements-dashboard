@@ -1697,19 +1697,21 @@
       "counters": {
         "chat": 2,
         "clips": 1,
-        "sub": 1
+        "sub": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "clip_first",
-        "sub_first_month"
+        "sub_first_month",
+        "gift_starter"
       ],
-      "lastUpdated": "2025-06-21T20:32:55Z"
+      "lastUpdated": "2025-06-21T20:34:06Z"
     },
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 16,
+        "chat": 17,
         "points_spent": 500,
         "sounds": 1
       },
@@ -1720,21 +1722,21 @@
         "chat_talker",
         "sound_first"
       ],
-      "lastUpdated": "2025-06-21T20:27:06Z"
+      "lastUpdated": "2025-06-21T20:33:21Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T20:32:16Z"
+      "lastUpdated": "2025-06-21T20:33:22Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:32:56Z",
+  "lastUpdated": "2025-06-21T19:34:06Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
