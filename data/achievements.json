@@ -1179,13 +1179,15 @@
     },
     "flaminjurr": {
       "counters": {
-        "chat": 5
+        "chat": 6,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T13:19:19Z"
+      "lastUpdated": "2025-06-21T13:20:21Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1220,7 +1222,7 @@
       "lastUpdated": "2025-06-21T13:20:12Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:20:12Z",
+  "lastUpdated": "2025-06-21T12:20:21Z",
   "totalUsers": 5,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
