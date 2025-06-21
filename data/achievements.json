@@ -1727,16 +1727,18 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 4,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "gift_starter"
       ],
-      "lastUpdated": "2025-06-21T20:33:22Z"
+      "lastUpdated": "2025-06-21T20:35:47Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:34:06Z",
+  "lastUpdated": "2025-06-21T19:35:47Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
