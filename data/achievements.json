@@ -1633,7 +1633,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 30,
+        "chat": 31,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1647,7 +1647,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T21:44:06Z"
+      "lastUpdated": "2025-06-21T21:46:03Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -1714,7 +1714,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 65,
+        "chat": 77,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1723,9 +1723,10 @@
         "gift_starter",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
-      "lastUpdated": "2025-06-21T21:43:50Z"
+      "lastUpdated": "2025-06-21T22:00:02Z"
     },
     "metalbenji": {
       "counters": {
@@ -1748,7 +1749,7 @@
       "lastUpdated": "2025-06-21T21:00:41Z"
     }
   },
-  "lastUpdated": "2025-06-21T20:44:18Z",
+  "lastUpdated": "2025-06-21T21:00:02Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
