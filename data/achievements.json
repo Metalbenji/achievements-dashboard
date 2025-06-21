@@ -1284,7 +1284,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 8,
+        "chat": 9,
         "points_spent": 200,
         "effects": 1
       },
@@ -1293,7 +1293,7 @@
         "effect_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T15:31:37Z"
+      "lastUpdated": "2025-06-21T17:02:00Z"
     },
     "ramdon101": {
       "counters": {
@@ -1405,13 +1405,16 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 5
+        "chat": 6,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-21T17:00:15Z"
+      "lastUpdated": "2025-06-21T17:03:29Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1426,7 +1429,7 @@
       "lastUpdated": "2025-06-21T16:56:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:00:16Z",
+  "lastUpdated": "2025-06-21T16:03:29Z",
   "totalUsers": 20,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
