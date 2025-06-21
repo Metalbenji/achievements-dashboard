@@ -595,6 +595,96 @@
       "Rarity": 4
     },
     {
+      "Id": "clip_first",
+      "Name": "First Clip!",
+      "Description": "Create your first clip",
+      "Icon": "✂️",
+      "RequiredValue": 1,
+      "Type": "clips",
+      "Rarity": 1
+    },
+    {
+      "Id": "clip_enthusiast",
+      "Name": "Clip Enthusiast",
+      "Description": "Create 5 clips",
+      "Icon": "🎬",
+      "RequiredValue": 5,
+      "Type": "clips",
+      "Rarity": 2
+    },
+    {
+      "Id": "clip_collector",
+      "Name": "Clip Collector",
+      "Description": "Create 10 clips",
+      "Icon": "🎞️",
+      "RequiredValue": 10,
+      "Type": "clips",
+      "Rarity": 2
+    },
+    {
+      "Id": "clip_master",
+      "Name": "Clip Master",
+      "Description": "Create 25 clips",
+      "Icon": "🎥",
+      "RequiredValue": 25,
+      "Type": "clips",
+      "Rarity": 3
+    },
+    {
+      "Id": "clip_champion",
+      "Name": "Clip Champion",
+      "Description": "Create 50 clips",
+      "Icon": "🏆",
+      "RequiredValue": 50,
+      "Type": "clips",
+      "Rarity": 3
+    },
+    {
+      "Id": "clip_legend",
+      "Name": "Clip Legend",
+      "Description": "Create 100 clips",
+      "Icon": "🌟",
+      "RequiredValue": 100,
+      "Type": "clips",
+      "Rarity": 4
+    },
+    {
+      "Id": "clip_overlord",
+      "Name": "Clip Overlord",
+      "Description": "Create 250 clips",
+      "Icon": "👑",
+      "RequiredValue": 250,
+      "Type": "clips",
+      "Rarity": 4
+    },
+    {
+      "Id": "clip_deity",
+      "Name": "Clip Deity",
+      "Description": "Create 500 clips",
+      "Icon": "✨",
+      "RequiredValue": 500,
+      "Type": "clips",
+      "Rarity": 5
+    },
+    {
+      "Id": "clip_transcendent",
+      "Name": "Clip Transcendent",
+      "Description": "Create 750 clips",
+      "Icon": "💫",
+      "RequiredValue": 750,
+      "Type": "clips",
+      "Rarity": 5
+    },
+    {
+      "Id": "clip_immortal",
+      "Name": "Clip Immortal",
+      "Description": "Create 1000 clips",
+      "Icon": "♾️",
+      "RequiredValue": 1000,
+      "Type": "clips",
+      "Rarity": 5
+    },
+    {
       "Id": "interactive_first",
       "Name": "Interactive Pioneer",
       "Description": "Use your first interactive reward",
@@ -1229,7 +1319,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 88,
+        "chat": 90,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1241,7 +1331,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-06-21T19:39:27Z"
+      "lastUpdated": "2025-06-21T19:48:08Z"
     },
     "celran": {
       "counters": {
@@ -1562,7 +1652,7 @@
       "counters": {
         "points_spent": 950,
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "effects": 1,
         "screenshot": 1,
         "sounds": 1
@@ -1575,7 +1665,7 @@
         "screenshot_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-06-21T19:24:41Z"
+      "lastUpdated": "2025-06-21T19:48:59Z"
     },
     "syn__________": {
       "counters": {
@@ -1589,28 +1679,21 @@
       ],
       "lastUpdated": "2025-06-21T19:19:28Z"
     },
-    "metalbenji": {
-      "counters": {
-        "clips": 1
-      },
-      "unlockedAchievements": [],
-      "lastUpdated": "2025-06-21T19:19:46Z"
-    },
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T19:39:43Z"
+      "lastUpdated": "2025-06-21T19:48:25Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:39:43Z",
-  "totalUsers": 31,
-  "totalAchievements": 130,
+  "lastUpdated": "2025-06-21T18:49:41Z",
+  "totalUsers": 30,
+  "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
