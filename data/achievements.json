@@ -1297,14 +1297,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 15
+        "chat": 16
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:09:51Z"
+      "lastUpdated": "2025-06-21T17:25:10Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1382,14 +1382,14 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T17:21:52Z"
+      "lastUpdated": "2025-06-21T17:22:12Z"
     },
     "sealdancer": {
       "counters": {
@@ -1403,30 +1403,6 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-06-21T16:58:07Z"
-    },
-    "metalbenji": {
-      "counters": {
-        "chat": 7,
-        "points_spent": 25150,
-        "effects": 1,
-        "sounds": 1,
-        "interactive": 1,
-        "special_rewards": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "chat_newbie",
-        "effect_first",
-        "spender_bronze",
-        "spender_silver",
-        "sound_first",
-        "interactive_first",
-        "first_caller",
-        "birthday_person",
-        "vip_dreamer",
-        "emperor_loyal"
-      ],
-      "lastUpdated": "2025-06-21T17:15:13Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1452,8 +1428,8 @@
       "lastUpdated": "2025-06-21T17:18:35Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:21:52Z",
-  "totalUsers": 21,
+  "lastUpdated": "2025-06-21T16:26:49Z",
+  "totalUsers": 20,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
