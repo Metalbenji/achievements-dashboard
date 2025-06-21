@@ -1714,7 +1714,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 77,
+        "chat": 92,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1726,7 +1726,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-06-21T22:00:02Z"
+      "lastUpdated": "2025-06-21T22:10:09Z"
     },
     "metalbenji": {
       "counters": {
@@ -1747,10 +1747,19 @@
         "sound_first"
       ],
       "lastUpdated": "2025-06-21T21:00:41Z"
+    },
+    "purgemonster91": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T22:10:21Z"
     }
   },
-  "lastUpdated": "2025-06-21T21:00:02Z",
-  "totalUsers": 33,
+  "lastUpdated": "2025-06-21T21:10:21Z",
+  "totalUsers": 34,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
