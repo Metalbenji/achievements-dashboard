@@ -1652,7 +1652,7 @@
       "counters": {
         "points_spent": 1750,
         "follow": 1,
-        "chat": 15,
+        "chat": 16,
         "effects": 2,
         "screenshot": 1,
         "sounds": 1
@@ -1667,7 +1667,7 @@
         "spender_bronze",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T20:40:41Z"
+      "lastUpdated": "2025-06-21T20:41:34Z"
     },
     "syn__________": {
       "counters": {
@@ -1693,28 +1693,6 @@
       ],
       "lastUpdated": "2025-06-21T19:48:25Z"
     },
-    "metalbenji": {
-      "counters": {
-        "chat": 2,
-        "clips": 1,
-        "sub": 1,
-        "gift_subs": 1,
-        "bits": 100,
-        "points_spent": 350,
-        "screenshot": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "clip_first",
-        "sub_first_month",
-        "gift_starter",
-        "bits_tiny",
-        "bits_small",
-        "bits_regular",
-        "screenshot_first"
-      ],
-      "lastUpdated": "2025-06-21T20:41:14Z"
-    },
     "epik__tv": {
       "counters": {
         "follow": 1,
@@ -1734,7 +1712,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 26,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1745,11 +1723,11 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T20:41:16Z"
+      "lastUpdated": "2025-06-21T20:41:32Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:41:16Z",
-  "totalUsers": 33,
+  "lastUpdated": "2025-06-21T19:42:55Z",
+  "totalUsers": 32,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
