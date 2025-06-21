@@ -1346,15 +1346,16 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T15:28:04Z"
+      "lastUpdated": "2025-06-21T15:28:59Z"
     }
   },
-  "lastUpdated": "2025-06-21T14:28:04Z",
+  "lastUpdated": "2025-06-21T14:28:59Z",
   "totalUsers": 14,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
