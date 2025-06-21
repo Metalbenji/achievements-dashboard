@@ -1363,7 +1363,7 @@
       "counters": {
         "points_spent": 1600,
         "effects": 2,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "effect_first",
@@ -1371,7 +1371,7 @@
         "spender_bronze",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T19:35:21Z"
+      "lastUpdated": "2025-06-21T19:36:29Z"
     },
     "hairypawter": {
       "counters": {
@@ -1594,10 +1594,19 @@
       },
       "unlockedAchievements": [],
       "lastUpdated": "2025-06-21T19:19:46Z"
+    },
+    "initiis_novum": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T19:36:33Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:35:22Z",
-  "totalUsers": 30,
+  "lastUpdated": "2025-06-21T18:36:33Z",
+  "totalUsers": 31,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
