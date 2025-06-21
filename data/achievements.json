@@ -586,15 +586,6 @@
       "Rarity": 4
     },
     {
-      "Id": "biggest_fan",
-      "Name": "Benji's Biggest Fan",
-      "Description": "Redeem the 'Biggest Fan' reward to prove your loyalty!",
-      "Icon": "☝️",
-      "RequiredValue": 1,
-      "Type": "special_rewards",
-      "Rarity": 4
-    },
-    {
       "Id": "interactive_first",
       "Name": "Interactive Pioneer",
       "Description": "Use your first interactive reward",
@@ -1172,317 +1163,142 @@
     }
   ],
   "users": {
-    "rexxyxii": {
+    "metalbenji": {
       "counters": {
-        "points_spent": 101,
-        "special_rewards": 1,
-        "chat": 6,
-        "effects": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "effect_first",
-        "chat_newbie"
-      ],
-      "lastUpdated": "2025-06-21T13:18:58Z"
-    },
-    "flaminjurr": {
-      "counters": {
-        "chat": 12,
-        "follow": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "chat_newbie",
-        "follow_supporter",
-        "chat_talker"
-      ],
-      "lastUpdated": "2025-06-21T13:47:01Z"
-    },
-    "itzsilvah": {
-      "counters": {
-        "chat": 6,
-        "points_spent": 2300
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "spender_bronze",
-        "chat_newbie"
-      ],
-      "lastUpdated": "2025-06-21T13:18:40Z"
-    },
-    "notoriouskiwi": {
-      "counters": {
+        "chat": 13,
         "follow": 1,
-        "chat": 12,
-        "points_spent": 200,
-        "effects": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "effect_first",
-        "chat_talker"
-      ],
-      "lastUpdated": "2025-06-21T13:37:51Z"
-    },
-    "little_lilith_": {
-      "counters": {
-        "chat": 87,
-        "points_spent": 5000
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist",
-        "follow_supporter",
-        "spender_bronze",
-        "vip_dreamer"
-      ],
-      "lastUpdated": "2025-06-21T19:30:27Z"
-    },
-    "celran": {
-      "counters": {
-        "chat": 4,
-        "follow": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "follow_supporter"
-      ],
-      "lastUpdated": "2025-06-21T13:48:18Z"
-    },
-    "turdtotrader": {
-      "counters": {
-        "chat": 11,
-        "points_spent": 6200,
-        "screenshot": 1,
-        "effects": 2,
-        "sounds": 1,
-        "interactive": 2,
+        "points_spent": 2500,
         "special_rewards": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior",
         "chat_newbie",
-        "screenshot_first",
-        "effect_first",
+        "chat_talker",
+        "weekend_warrior",
+        "follow_supporter",
         "spender_bronze",
-        "sound_first",
-        "interactive_first",
         "first_caller",
         "birthday_person",
         "vip_dreamer",
-        "emperor_loyal",
-        "chat_talker"
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-06-21T15:27:18Z"
+      "lastUpdated": "2025-06-21T18:11:35Z"
     },
     "dmustain": {
       "counters": {
-        "chat": 7,
-        "points_spent": 1100,
-        "effects": 2
+        "chat": 12,
+        "follow": 1
       },
       "unlockedAchievements": [
+        "chat_newbie",
         "weekend_warrior",
-        "effect_first",
-        "spender_bronze",
-        "chat_newbie"
+        "follow_supporter",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T14:22:50Z"
+      "lastUpdated": "2025-06-21T16:08:55Z"
     },
     "miromaaldis": {
       "counters": {
-        "chat": 9,
-        "points_spent": 200,
-        "effects": 1
+        "chat": 8,
+        "follow": 1
       },
       "unlockedAchievements": [
+        "chat_newbie",
         "weekend_warrior",
-        "effect_first",
-        "chat_newbie"
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T17:02:00Z"
+      "lastUpdated": "2025-06-21T15:57:54Z"
+    },
+    "little_lilith_": {
+      "counters": {
+        "chat": 17,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "chat_newbie",
+        "chat_talker",
+        "weekend_warrior",
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T19:30:27Z"
+    },
+    "turdtotrader": {
+      "counters": {
+        "chat": 3,
+        "follow": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2025-06-21T15:27:19Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 27,
-        "points_spent": 350,
-        "screenshot": 1
+        "chat": 2,
+        "follow": 1
       },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist",
-        "screenshot_first"
-      ],
-      "lastUpdated": "2025-06-21T19:18:40Z"
+      "unlockedAchievements": [],
+      "lastUpdated": "2025-06-21T15:16:59Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 51,
-        "points_spent": 3100,
-        "interactive": 1
+        "follow": 1,
+        "chat": 9
       },
       "unlockedAchievements": [
-        "weekend_warrior",
         "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist",
-        "interactive_first",
-        "spender_bronze",
-        "biggest_fan"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T19:23:31Z"
+      "lastUpdated": "2025-06-21T16:07:58Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 3
+        "follow": 1
       },
-      "unlockedAchievements": [
-        "weekend_warrior"
-      ],
-      "lastUpdated": "2025-06-21T18:30:54Z"
+      "unlockedAchievements": [],
+      "lastUpdated": "2025-06-21T15:27:13Z"
     },
     "scoman07": {
       "counters": {
-        "chat": 13
+        "follow": 1,
+        "chat": 2
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2025-06-21T15:37:24Z"
+    },
+    "tawmae": {
+      "counters": {
+        "chat": 33,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "weekend_warrior",
+        "follow_supporter",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T15:34:09Z"
+      "lastUpdated": "2025-06-21T16:05:19Z"
     },
     "lottec": {
       "counters": {
+        "chat": 3,
         "points_spent": 1600,
-        "effects": 1,
-        "chat": 4
+        "effects": 1
       },
       "unlockedAchievements": [
         "effect_first",
         "weekend_warrior",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T19:35:04Z"
+      "lastUpdated": "2025-06-21T19:35:05Z"
     },
-    "hairypawter": {
+    "mistifi_": {
       "counters": {
-        "follow": 1,
-        "chat": 15,
-        "points_spent": 1300,
-        "interactive": 1,
-        "effects": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "interactive_first",
-        "spender_bronze",
-        "effect_first",
-        "chat_talker"
-      ],
-      "lastUpdated": "2025-06-21T16:35:18Z"
-    },
-    "tawmae": {
-      "counters": {
-        "chat": 41
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist"
-      ],
-      "lastUpdated": "2025-06-21T16:58:49Z"
-    },
-    "kripoje": {
-      "counters": {
-        "follow": 1,
-        "chat": 6
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie"
-      ],
-      "lastUpdated": "2025-06-21T17:22:12Z"
-    },
-    "sealdancer": {
-      "counters": {
-        "follow": 1,
-        "chat": 20
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker"
-      ],
-      "lastUpdated": "2025-06-21T16:58:07Z"
-    },
-    "incrediblebob": {
-      "counters": {
-        "follow": 1,
         "chat": 5
       },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie"
-      ],
-      "lastUpdated": "2025-06-21T16:56:40Z"
+      "unlockedAchievements": [],
+      "lastUpdated": "2025-06-21T15:52:40Z"
     },
-    "kaiiaryn": {
-      "counters": {
-        "follow": 1,
-        "chat": 2
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior"
-      ],
-      "lastUpdated": "2025-06-21T17:18:35Z"
-    },
-    "adammmidders": {
-      "counters": {
-        "follow": 1,
-        "chat": 18,
-        "points_spent": 5000,
-        "interactive": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "spender_bronze",
-        "interactive_first"
-      ],
-      "lastUpdated": "2025-06-21T18:47:03Z"
-    },
-    "mattyuk937": {
-      "counters": {
-        "follow": 1,
-        "chat": 26
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist"
-      ],
-      "lastUpdated": "2025-06-21T17:50:42Z"
-    },
-    "anzerou": {
+    "mistycal_eu": {
       "counters": {
         "follow": 1,
         "chat": 4
@@ -1491,112 +1307,11 @@
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T17:50:33Z"
-    },
-    "stevenbonk": {
-      "counters": {
-        "follow": 1,
-        "chat": 3,
-        "points_spent": 27000,
-        "sounds": 1,
-        "interactive": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "spender_bronze",
-        "emperor_loyal",
-        "spender_silver",
-        "sound_first",
-        "interactive_first"
-      ],
-      "lastUpdated": "2025-06-21T18:50:39Z"
-    },
-    "ailuridaerob": {
-      "counters": {
-        "follow": 1,
-        "chat": 3,
-        "points_spent": 500,
-        "interactive": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "interactive_first"
-      ],
-      "lastUpdated": "2025-06-21T17:53:55Z"
-    },
-    "redunt86": {
-      "counters": {
-        "follow": 1,
-        "chat": 7
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie"
-      ],
-      "lastUpdated": "2025-06-21T17:55:40Z"
-    },
-    "spoono__": {
-      "counters": {
-        "follow": 1,
-        "chat": 23,
-        "points_spent": 20000,
-        "sounds": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "spender_bronze",
-        "spender_silver",
-        "sound_first"
-      ],
-      "lastUpdated": "2025-06-21T19:05:50Z"
-    },
-    "oxmacerxo": {
-      "counters": {
-        "points_spent": 950,
-        "follow": 1,
-        "chat": 5,
-        "effects": 1,
-        "screenshot": 1,
-        "sounds": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "effect_first",
-        "screenshot_first",
-        "sound_first"
-      ],
-      "lastUpdated": "2025-06-21T19:24:41Z"
-    },
-    "syn__________": {
-      "counters": {
-        "follow": 1,
-        "chat": 7
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie"
-      ],
-      "lastUpdated": "2025-06-21T19:19:28Z"
-    },
-    "metalbenji": {
-      "counters": {
-        "clips": 1
-      },
-      "unlockedAchievements": [],
-      "lastUpdated": "2025-06-21T19:19:46Z"
+      "lastUpdated": "2025-06-21T16:09:30Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:35:04Z",
-  "totalUsers": 30,
-  "totalAchievements": 130,
+  "lastUpdated": "2025-06-21T18:35:05Z",
+  "totalUsers": 13,
+  "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
