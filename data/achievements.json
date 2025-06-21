@@ -1297,14 +1297,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 19
+        "chat": 20
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:48:01Z"
+      "lastUpdated": "2025-06-21T17:52:37Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1445,7 +1445,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1453,7 +1453,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:49:49Z"
+      "lastUpdated": "2025-06-21T17:52:56Z"
     },
     "mattyuk937": {
       "counters": {
@@ -1494,25 +1494,30 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
+        "chat": 2,
+        "points_spent": 500,
+        "interactive": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "interactive_first"
+      ],
+      "lastUpdated": "2025-06-21T17:53:22Z"
+    },
+    "redunt86": {
+      "counters": {
+        "follow": 1,
         "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T17:52:28Z"
-    },
-    "redunt86": {
-      "counters": {
-        "follow": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter"
-      ],
-      "lastUpdated": "2025-06-21T17:52:31Z"
+      "lastUpdated": "2025-06-21T17:52:36Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:52:31Z",
+  "lastUpdated": "2025-06-21T16:53:22Z",
   "totalUsers": 27,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
