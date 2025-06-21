@@ -1416,7 +1416,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 60,
+        "chat": 61,
         "points_spent": 3100,
         "interactive": 1
       },
@@ -1427,9 +1427,10 @@
         "chat_conversationalist",
         "interactive_first",
         "spender_bronze",
-        "biggest_fan"
+        "biggest_fan",
+        "night_owl"
       ],
-      "lastUpdated": "2025-06-21T21:20:22Z"
+      "lastUpdated": "2025-06-21T22:53:16Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1768,7 +1769,7 @@
       "lastUpdated": "2025-06-21T22:14:22Z"
     }
   },
-  "lastUpdated": "2025-06-21T21:52:59Z",
+  "lastUpdated": "2025-06-21T21:53:17Z",
   "totalUsers": 34,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
