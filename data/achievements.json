@@ -1445,6 +1445,18 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
+        "chat": 7
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-06-21T17:37:22Z"
+    },
+    "mattyuk937": {
+      "counters": {
+        "follow": 1,
         "chat": 5
       },
       "unlockedAchievements": [
@@ -1452,21 +1464,10 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T17:35:23Z"
-    },
-    "mattyuk937": {
-      "counters": {
-        "follow": 1,
-        "chat": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior"
-      ],
-      "lastUpdated": "2025-06-21T17:35:02Z"
+      "lastUpdated": "2025-06-21T17:38:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:35:23Z",
+  "lastUpdated": "2025-06-21T16:38:40Z",
   "totalUsers": 23,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
