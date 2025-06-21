@@ -1480,15 +1480,17 @@
     },
     "stevenbonk": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T17:49:06Z"
+      "lastUpdated": "2025-06-21T17:49:07Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:49:06Z",
+  "lastUpdated": "2025-06-21T16:49:07Z",
   "totalUsers": 25,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
