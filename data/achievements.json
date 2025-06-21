@@ -1220,7 +1220,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 58
+        "chat": 62
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1229,7 +1229,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T17:12:46Z"
+      "lastUpdated": "2025-06-21T17:48:41Z"
     },
     "celran": {
       "counters": {
@@ -1297,14 +1297,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 16
+        "chat": 19
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:25:10Z"
+      "lastUpdated": "2025-06-21T17:48:01Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1445,19 +1445,19 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T17:43:16Z"
+      "lastUpdated": "2025-06-21T17:48:30Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 24
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1465,11 +1465,20 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:43:47Z"
+      "lastUpdated": "2025-06-21T17:48:24Z"
+    },
+    "anzerou": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T17:48:58Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:43:47Z",
-  "totalUsers": 23,
+  "lastUpdated": "2025-06-21T16:48:58Z",
+  "totalUsers": 24,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
