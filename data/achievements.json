@@ -1239,7 +1239,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 43
+        "chat": 44
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1248,7 +1248,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T15:27:17Z"
+      "lastUpdated": "2025-06-21T15:27:38Z"
     },
     "celran": {
       "counters": {
@@ -1263,7 +1263,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 10,
+        "chat": 11,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1285,7 +1285,7 @@
         "emperor_loyal",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T14:11:56Z"
+      "lastUpdated": "2025-06-21T15:27:18Z"
     },
     "dmustain": {
       "counters": {
@@ -1326,14 +1326,14 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T15:26:56Z"
+      "lastUpdated": "2025-06-21T15:27:36Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1343,10 +1343,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-21T15:27:13Z"
+    },
+    "scoman07": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T15:28:04Z"
     }
   },
-  "lastUpdated": "2025-06-21T14:27:17Z",
-  "totalUsers": 13,
+  "lastUpdated": "2025-06-21T14:28:04Z",
+  "totalUsers": 14,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
