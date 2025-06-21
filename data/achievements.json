@@ -1317,15 +1317,18 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 44
+        "chat": 47,
+        "points_spent": 400,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T18:39:00Z"
+      "lastUpdated": "2025-06-21T18:53:29Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1483,7 +1486,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 2,
+        "chat": 3,
         "points_spent": 27000,
         "sounds": 1,
         "interactive": 1
@@ -1497,7 +1500,7 @@
         "sound_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T18:50:34Z"
+      "lastUpdated": "2025-06-21T18:50:39Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -1562,7 +1565,7 @@
       "lastUpdated": "2025-06-21T18:40:36Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:50:34Z",
+  "lastUpdated": "2025-06-21T17:53:29Z",
   "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
