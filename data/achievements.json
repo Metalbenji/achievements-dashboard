@@ -1513,21 +1513,6 @@
       ],
       "lastUpdated": "2025-06-21T17:55:40Z"
     },
-    "metalbenji": {
-      "counters": {
-        "points_spent": 2000,
-        "special_rewards": 1
-      },
-      "unlockedAchievements": [
-        "spender_bronze",
-        "first_caller",
-        "birthday_person",
-        "vip_dreamer",
-        "emperor_loyal",
-        "biggest_fan"
-      ],
-      "lastUpdated": "2025-06-21T18:18:34Z"
-    },
     "spoono__": {
       "counters": {
         "follow": 1,
@@ -1542,8 +1527,8 @@
       "lastUpdated": "2025-06-21T18:29:48Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:29:49Z",
-  "totalUsers": 28,
+  "lastUpdated": "2025-06-21T17:30:07Z",
+  "totalUsers": 27,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
