@@ -1167,14 +1167,15 @@
       "counters": {
         "points_spent": 101,
         "special_rewards": 1,
-        "chat": 4,
+        "chat": 5,
         "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "effect_first"
+        "effect_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T13:14:32Z"
+      "lastUpdated": "2025-06-21T13:17:39Z"
     },
     "flaminjurr": {
       "counters": {
@@ -1207,7 +1208,7 @@
       "lastUpdated": "2025-06-21T13:16:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:17:32Z",
+  "lastUpdated": "2025-06-21T12:17:39Z",
   "totalUsers": 4,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
