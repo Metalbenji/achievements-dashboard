@@ -1278,14 +1278,15 @@
     "dmustain": {
       "counters": {
         "chat": 2,
-        "points_spent": 300,
+        "points_spent": 1100,
         "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T14:07:51Z"
+      "lastUpdated": "2025-06-21T14:09:10Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1297,7 +1298,7 @@
       "lastUpdated": "2025-06-21T14:06:38Z"
     }
   },
-  "lastUpdated": "2025-06-21T13:07:51Z",
+  "lastUpdated": "2025-06-21T13:09:10Z",
   "totalUsers": 10,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
