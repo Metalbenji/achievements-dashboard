@@ -1441,7 +1441,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1449,7 +1449,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T18:31:26Z"
+      "lastUpdated": "2025-06-21T18:31:53Z"
     },
     "mattyuk937": {
       "counters": {
@@ -1528,16 +1528,18 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 5
+        "chat": 5,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T18:31:48Z"
+      "lastUpdated": "2025-06-21T18:32:05Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:31:48Z",
+  "lastUpdated": "2025-06-21T17:32:05Z",
   "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
