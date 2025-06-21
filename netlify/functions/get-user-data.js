@@ -18,7 +18,7 @@ exports.handler = async function(event) {
         }
 
         // Construct the path to the JSON file from the project root
-        const dataPath = path.join(__dirname, '../../data/achievements.json');
+        const dataPath = '/data/achievements.json';
         console.log("Data file path:", dataPath); // Log the constructed path
 
         let rawData;
