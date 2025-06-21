@@ -1420,7 +1420,9 @@
         "spender_silver",
         "sound_first",
         "interactive_first",
-        "first_caller"
+        "first_caller",
+        "birthday_person",
+        "vip_dreamer"
       ],
       "lastUpdated": "2025-06-21T17:12:30Z"
     },
@@ -1437,7 +1439,7 @@
       "lastUpdated": "2025-06-21T16:56:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:12:30Z",
+  "lastUpdated": "2025-06-21T16:12:31Z",
   "totalUsers": 20,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
