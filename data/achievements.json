@@ -1521,12 +1521,14 @@
         "weekend_warrior",
         "spender_bronze",
         "first_caller",
-        "birthday_person"
+        "birthday_person",
+        "vip_dreamer",
+        "emperor_loyal"
       ],
       "lastUpdated": "2025-06-21T18:11:35Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:11:36Z",
+  "lastUpdated": "2025-06-21T17:11:38Z",
   "totalUsers": 27,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
