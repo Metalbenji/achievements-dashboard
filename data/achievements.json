@@ -1167,7 +1167,7 @@
       "counters": {
         "points_spent": 101,
         "special_rewards": 1,
-        "chat": 5,
+        "chat": 6,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -1175,20 +1175,21 @@
         "effect_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T13:17:39Z"
+      "lastUpdated": "2025-06-21T13:18:58Z"
     },
     "flaminjurr": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T13:17:23Z"
+      "lastUpdated": "2025-06-21T13:19:19Z"
     },
     "itzsilvah": {
       "counters": {
-        "chat": 5,
+        "chat": 6,
         "points_spent": 2300
       },
       "unlockedAchievements": [
@@ -1196,7 +1197,7 @@
         "spender_bronze",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T13:17:32Z"
+      "lastUpdated": "2025-06-21T13:18:40Z"
     },
     "metalbenji": {
       "counters": {
@@ -1208,7 +1209,7 @@
       "lastUpdated": "2025-06-21T13:16:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:17:39Z",
+  "lastUpdated": "2025-06-21T12:19:20Z",
   "totalUsers": 4,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
