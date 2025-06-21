@@ -1309,14 +1309,15 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T18:55:07Z"
+      "lastUpdated": "2025-06-21T19:06:39Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1536,7 +1537,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 22,
+        "chat": 23,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1549,10 +1550,10 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-06-21T18:44:59Z"
+      "lastUpdated": "2025-06-21T19:05:50Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:02:00Z",
+  "lastUpdated": "2025-06-21T18:06:39Z",
   "totalUsers": 27,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
