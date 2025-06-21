@@ -586,6 +586,15 @@
       "Rarity": 4
     },
     {
+      "Id": "biggest_fan",
+      "Name": "Benji's Biggest Fan",
+      "Description": "Redeem the 'Biggest Fan' reward to prove your loyalty!",
+      "Icon": "☝️",
+      "RequiredValue": 1,
+      "Type": "special_rewards",
+      "Rarity": 4
+    },
+    {
       "Id": "interactive_first",
       "Name": "Interactive Pioneer",
       "Description": "Use your first interactive reward",
@@ -1427,21 +1436,6 @@
       ],
       "lastUpdated": "2025-06-21T17:18:35Z"
     },
-    "metalbenji": {
-      "counters": {
-        "points_spent": 2001,
-        "special_rewards": 2,
-        "chat": 5
-      },
-      "unlockedAchievements": [
-        "spender_bronze",
-        "emperor_loyal",
-        "birthday_person",
-        "weekend_warrior",
-        "chat_newbie"
-      ],
-      "lastUpdated": "2025-06-21T17:33:46Z"
-    },
     "adammmidders": {
       "counters": {
         "follow": 1,
@@ -1508,18 +1502,18 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T17:54:24Z"
+      "lastUpdated": "2025-06-21T17:55:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:54:25Z",
-  "totalUsers": 27,
-  "totalAchievements": 129,
+  "lastUpdated": "2025-06-21T17:10:49Z",
+  "totalUsers": 26,
+  "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
