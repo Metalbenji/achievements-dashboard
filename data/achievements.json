@@ -1724,10 +1724,20 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2025-06-21T20:46:32Z"
+    },
+    "metalbenji": {
+      "counters": {
+        "points_spent": 400,
+        "interactive": 1
+      },
+      "unlockedAchievements": [
+        "interactive_first"
+      ],
+      "lastUpdated": "2025-06-21T20:55:20Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:55:13Z",
-  "totalUsers": 32,
+  "lastUpdated": "2025-06-21T19:55:20Z",
+  "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
