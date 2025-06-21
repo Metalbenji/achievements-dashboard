@@ -1309,15 +1309,18 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 25
+        "chat": 25,
+        "points_spent": 350,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-06-21T19:06:39Z"
+      "lastUpdated": "2025-06-21T19:10:09Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1553,7 +1556,7 @@
       "lastUpdated": "2025-06-21T19:05:50Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:06:39Z",
+  "lastUpdated": "2025-06-21T18:10:09Z",
   "totalUsers": 27,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
