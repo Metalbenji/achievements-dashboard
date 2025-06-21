@@ -1426,22 +1426,10 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-21T17:18:35Z"
-    },
-    "metalbenji": {
-      "counters": {
-        "chat": 6,
-        "points_spent": 2000
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "chat_newbie",
-        "spender_bronze"
-      ],
-      "lastUpdated": "2025-06-21T17:28:00Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:28:00Z",
-  "totalUsers": 21,
+  "lastUpdated": "2025-06-21T16:29:58Z",
+  "totalUsers": 20,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
