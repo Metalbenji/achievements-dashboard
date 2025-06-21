@@ -1251,12 +1251,13 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T13:47:57Z"
+      "lastUpdated": "2025-06-21T13:56:19Z"
     },
     "dmustain": {
       "counters": {
@@ -1268,7 +1269,7 @@
       "lastUpdated": "2025-06-21T13:54:06Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:54:06Z",
+  "lastUpdated": "2025-06-21T12:56:19Z",
   "totalUsers": 9,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
