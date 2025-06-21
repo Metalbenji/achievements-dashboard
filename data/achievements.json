@@ -1185,15 +1185,17 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 1
+        "chat": 2,
+        "points_spent": 2300
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T13:12:37Z"
+      "lastUpdated": "2025-06-21T13:13:14Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:13:00Z",
+  "lastUpdated": "2025-06-21T12:13:14Z",
   "totalUsers": 3,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
