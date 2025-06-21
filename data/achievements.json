@@ -1297,14 +1297,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T16:37:01Z"
+      "lastUpdated": "2025-06-21T17:09:51Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1406,9 +1406,10 @@
     "metalbenji": {
       "counters": {
         "chat": 6,
-        "points_spent": 20350,
+        "points_spent": 20750,
         "effects": 1,
-        "sounds": 1
+        "sounds": 1,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1416,9 +1417,10 @@
         "effect_first",
         "spender_bronze",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T17:03:52Z"
+      "lastUpdated": "2025-06-21T17:10:57Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1433,7 +1435,7 @@
       "lastUpdated": "2025-06-21T16:56:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:03:52Z",
+  "lastUpdated": "2025-06-21T16:10:57Z",
   "totalUsers": 20,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
