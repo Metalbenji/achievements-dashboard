@@ -1252,12 +1252,13 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 7,
-        "points_spent": 3800,
+        "chat": 8,
+        "points_spent": 5800,
         "screenshot": 1,
         "effects": 2,
         "sounds": 1,
-        "interactive": 1
+        "interactive": 1,
+        "special_rewards": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1266,9 +1267,10 @@
         "effect_first",
         "spender_bronze",
         "sound_first",
-        "interactive_first"
+        "interactive_first",
+        "first_caller"
       ],
-      "lastUpdated": "2025-06-21T14:04:46Z"
+      "lastUpdated": "2025-06-21T14:05:09Z"
     },
     "dmustain": {
       "counters": {
@@ -1289,7 +1291,7 @@
       "lastUpdated": "2025-06-21T14:04:38Z"
     }
   },
-  "lastUpdated": "2025-06-21T13:04:46Z",
+  "lastUpdated": "2025-06-21T13:05:10Z",
   "totalUsers": 10,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
