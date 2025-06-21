@@ -1351,13 +1351,13 @@
       "counters": {
         "points_spent": 800,
         "effects": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "effect_first",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T18:11:38Z"
+      "lastUpdated": "2025-06-21T18:12:27Z"
     },
     "hairypawter": {
       "counters": {
@@ -1512,27 +1512,10 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-06-21T17:55:40Z"
-    },
-    "metalbenji": {
-      "counters": {
-        "chat": 1,
-        "points_spent": 2500,
-        "special_rewards": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "spender_bronze",
-        "first_caller",
-        "birthday_person",
-        "vip_dreamer",
-        "emperor_loyal",
-        "biggest_fan"
-      ],
-      "lastUpdated": "2025-06-21T18:11:35Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:11:38Z",
-  "totalUsers": 27,
+  "lastUpdated": "2025-06-21T17:15:14Z",
+  "totalUsers": 26,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
