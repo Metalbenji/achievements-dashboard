@@ -1750,15 +1750,18 @@
     },
     "purgemonster91": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-06-21T22:10:21Z"
     }
   },
-  "lastUpdated": "2025-06-21T21:10:21Z",
+  "lastUpdated": "2025-06-21T21:10:22Z",
   "totalUsers": 34,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
