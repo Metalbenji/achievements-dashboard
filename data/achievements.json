@@ -1722,7 +1722,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 193,
+        "chat": 200,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1733,9 +1733,10 @@
         "chat_talker",
         "chat_conversationalist",
         "night_owl",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-06-21T23:18:33Z"
+      "lastUpdated": "2025-06-21T23:24:37Z"
     },
     "metalbenji": {
       "counters": {
@@ -1783,7 +1784,7 @@
       "lastUpdated": "2025-06-21T23:18:54Z"
     }
   },
-  "lastUpdated": "2025-06-21T22:18:55Z",
+  "lastUpdated": "2025-06-21T22:24:37Z",
   "totalUsers": 35,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
