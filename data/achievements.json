@@ -1479,13 +1479,15 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 2,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T17:49:22Z"
+      "lastUpdated": "2025-06-21T18:32:39Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -1534,12 +1536,13 @@
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "spender_bronze"
+        "spender_bronze",
+        "emperor_loyal"
       ],
       "lastUpdated": "2025-06-21T18:32:05Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:32:05Z",
+  "lastUpdated": "2025-06-21T17:32:39Z",
   "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
