@@ -18,7 +18,9 @@ exports.handler = async function(event) {
         }
 
         // Construct the path to the JSON file from the project root
-        const dataPath = path.join(process.cwd(), 'achievement-dashboard/data/achievements.json');
+        // In Netlify, functions run from a different root. We need to navigate
+        // from the function's directory back to the project root and then to the data file.
+        const dataPath = path.join(__dirname, '..', 'achievement-dashboard/data/achievements.json');
         const rawData = fs.readFileSync(dataPath, 'utf-8');
         const allData = JSON.parse(rawData);
 
