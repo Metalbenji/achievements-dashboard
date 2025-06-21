@@ -1438,10 +1438,19 @@
         "birthday_person"
       ],
       "lastUpdated": "2025-06-21T17:31:35Z"
+    },
+    "adammmidders": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T17:33:24Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:31:35Z",
-  "totalUsers": 21,
+  "lastUpdated": "2025-06-21T16:33:25Z",
+  "totalUsers": 22,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
