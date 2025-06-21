@@ -1452,10 +1452,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-21T17:33:45Z"
+    },
+    "mattyuk937": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T17:34:09Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:33:46Z",
-  "totalUsers": 22,
+  "lastUpdated": "2025-06-21T16:34:09Z",
+  "totalUsers": 23,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
