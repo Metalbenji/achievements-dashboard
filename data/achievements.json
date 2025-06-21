@@ -1445,14 +1445,15 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:48:30Z"
+      "lastUpdated": "2025-06-21T17:49:21Z"
     },
     "mattyuk937": {
       "counters": {
@@ -1490,7 +1491,7 @@
       "lastUpdated": "2025-06-21T17:49:07Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:49:07Z",
+  "lastUpdated": "2025-06-21T16:49:21Z",
   "totalUsers": 25,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
