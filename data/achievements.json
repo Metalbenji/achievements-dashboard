@@ -1324,7 +1324,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 48,
+        "chat": 51,
         "points_spent": 3100,
         "interactive": 1
       },
@@ -1337,7 +1337,7 @@
         "spender_bronze",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-06-21T19:10:54Z"
+      "lastUpdated": "2025-06-21T19:23:31Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1557,16 +1557,18 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 400,
+        "points_spent": 500,
         "follow": 1,
-        "chat": 5
+        "chat": 5,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-21T19:20:04Z"
+      "lastUpdated": "2025-06-21T19:23:53Z"
     },
     "syn__________": {
       "counters": {
@@ -1588,7 +1590,7 @@
       "lastUpdated": "2025-06-21T19:19:46Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:20:04Z",
+  "lastUpdated": "2025-06-21T18:23:53Z",
   "totalUsers": 30,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
