@@ -1204,15 +1204,17 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 17
+        "chat": 17,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T15:04:36Z"
+      "lastUpdated": "2025-06-21T15:10:50Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1232,7 +1234,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 32
+        "chat": 33
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1240,7 +1242,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T15:07:38Z"
+      "lastUpdated": "2025-06-21T15:10:22Z"
     },
     "celran": {
       "counters": {
@@ -1314,16 +1316,16 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T15:09:07Z"
+      "lastUpdated": "2025-06-21T15:09:15Z"
     }
   },
-  "lastUpdated": "2025-06-21T14:09:07Z",
+  "lastUpdated": "2025-06-21T14:10:50Z",
   "totalUsers": 12,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
