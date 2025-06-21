@@ -1317,7 +1317,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 31
+        "chat": 32
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1325,7 +1325,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T18:34:45Z"
+      "lastUpdated": "2025-06-21T18:34:58Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1480,14 +1480,16 @@
       "counters": {
         "follow": 1,
         "chat": 2,
-        "points_spent": 22000
+        "points_spent": 22000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "spender_bronze",
         "emperor_loyal",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
       "lastUpdated": "2025-06-21T18:34:52Z"
     },
@@ -1533,19 +1535,21 @@
     "metalbenji": {
       "counters": {
         "chat": 5,
-        "points_spent": 4600
+        "points_spent": 4600,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "spender_bronze",
         "emperor_loyal",
-        "biggest_fan"
+        "biggest_fan",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-06-21T18:32:53Z"
+      "lastUpdated": "2025-06-21T18:35:41Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:34:52Z",
+  "lastUpdated": "2025-06-21T17:35:41Z",
   "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
