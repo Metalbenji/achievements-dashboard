@@ -1432,13 +1432,14 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "night_owl"
+        "night_owl",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T22:48:53Z"
+      "lastUpdated": "2025-06-21T22:49:42Z"
     },
     "scoman07": {
       "counters": {
@@ -1717,7 +1718,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 150,
+        "chat": 152,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1730,7 +1731,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-06-21T22:48:47Z"
+      "lastUpdated": "2025-06-21T22:49:22Z"
     },
     "metalbenji": {
       "counters": {
@@ -1766,7 +1767,7 @@
       "lastUpdated": "2025-06-21T22:14:22Z"
     }
   },
-  "lastUpdated": "2025-06-21T21:48:54Z",
+  "lastUpdated": "2025-06-21T21:49:43Z",
   "totalUsers": 34,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
