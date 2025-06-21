@@ -1730,7 +1730,8 @@
         "points_spent": 30750,
         "interactive": 1,
         "screenshot": 1,
-        "chat": 12
+        "chat": 12,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "interactive_first",
@@ -1738,12 +1739,14 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-06-21T21:00:40Z"
+      "lastUpdated": "2025-06-21T21:00:41Z"
     }
   },
-  "lastUpdated": "2025-06-21T20:00:40Z",
+  "lastUpdated": "2025-06-21T20:00:41Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
