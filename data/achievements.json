@@ -1253,18 +1253,22 @@
     "turdtotrader": {
       "counters": {
         "chat": 7,
-        "points_spent": 2850,
+        "points_spent": 3800,
         "screenshot": 1,
-        "effects": 2
+        "effects": 2,
+        "sounds": 1,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "screenshot_first",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T14:04:34Z"
+      "lastUpdated": "2025-06-21T14:04:46Z"
     },
     "dmustain": {
       "counters": {
@@ -1277,15 +1281,15 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T14:03:52Z"
+      "lastUpdated": "2025-06-21T14:04:38Z"
     }
   },
-  "lastUpdated": "2025-06-21T13:04:34Z",
+  "lastUpdated": "2025-06-21T13:04:46Z",
   "totalUsers": 10,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
