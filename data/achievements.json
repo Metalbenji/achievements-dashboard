@@ -1167,19 +1167,21 @@
       "counters": {
         "points_spent": 1,
         "special_rewards": 1,
-        "chat": 1
-      },
-      "unlockedAchievements": [],
-      "lastUpdated": "2025-06-21T13:08:19Z"
-    },
-    "flaminjurr": {
-      "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T13:10:04Z"
+      "lastUpdated": "2025-06-21T13:13:00Z"
+    },
+    "flaminjurr": {
+      "counters": {
+        "chat": 2
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T13:12:37Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1191,7 +1193,7 @@
       "lastUpdated": "2025-06-21T13:12:37Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:12:37Z",
+  "lastUpdated": "2025-06-21T12:13:00Z",
   "totalUsers": 3,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
