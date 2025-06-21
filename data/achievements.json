@@ -1650,9 +1650,9 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 950,
+        "points_spent": 1750,
         "follow": 1,
-        "chat": 6,
+        "chat": 7,
         "effects": 1,
         "screenshot": 1,
         "sounds": 1
@@ -1663,9 +1663,10 @@
         "chat_newbie",
         "effect_first",
         "screenshot_first",
-        "sound_first"
+        "sound_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T19:48:59Z"
+      "lastUpdated": "2025-06-21T19:55:55Z"
     },
     "syn__________": {
       "counters": {
@@ -1703,7 +1704,7 @@
       "lastUpdated": "2025-06-21T19:53:35Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:53:36Z",
+  "lastUpdated": "2025-06-21T18:55:55Z",
   "totalUsers": 31,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
