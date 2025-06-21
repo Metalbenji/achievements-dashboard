@@ -1772,15 +1772,18 @@
     },
     "ke1fire": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-06-21T23:18:54Z"
     }
   },
-  "lastUpdated": "2025-06-21T22:18:54Z",
+  "lastUpdated": "2025-06-21T22:18:55Z",
   "totalUsers": 35,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
