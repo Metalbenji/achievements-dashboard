@@ -1179,15 +1179,16 @@
     },
     "flaminjurr": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T13:20:57Z"
+      "lastUpdated": "2025-06-21T13:23:54Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1213,25 +1214,25 @@
     "notoriouskiwi": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T13:22:28Z"
+      "lastUpdated": "2025-06-21T13:23:05Z"
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T13:22:46Z"
+      "lastUpdated": "2025-06-21T13:23:42Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:22:46Z",
+  "lastUpdated": "2025-06-21T12:23:54Z",
   "totalUsers": 6,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
