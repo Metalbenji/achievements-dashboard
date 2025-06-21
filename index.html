@@ -1057,7 +1057,6 @@
 
     <script>
         // Global variables
-        let allData = null;
         let currentFilter = 'all';
         let achievements = [];
         let userProgress = null;
@@ -1096,67 +1095,49 @@
         }
 
         // Load data from JSON file
-        async function loadDataFromFile() {
-            try {
-                const response = await fetch('./data/achievements.json');
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
-                }
-                allData = await response.json();
-                return true;
-            } catch (error) {
-                console.error('Error loading data:', error);
-                showError("Failed to load achievement data. Please try again later.");
-                return false;
-            }
-        }
-
         async function loadUserData() {
-            if (!usernameInputElement) {
-                console.error("Username input element not found.");
-                return;
-            }
-            const username = usernameInputElement.value.trim();
-            if (!username) {
-                showError("Please enter a username");
-                return;
-            }
-
-            showLoading();
-
-            // Load data if not already loaded
-            if (!allData) {
-                const loaded = await loadDataFromFile();
-                if (!loaded) return;
-            }
-
-            // Find user data
-            const normalizedUsername = username.toLowerCase();
-            let userObject = allData.users[normalizedUsername]; // Try direct lookup
-
-            if (!userObject) { // If not found, try case-insensitive key search
-                const foundKey = Object.keys(allData.users).find(key =>
-                    key.toLowerCase() === normalizedUsername
-                );
-                if (foundKey) {
-                    userObject = allData.users[foundKey];
+            try {
+                if (!usernameInputElement) {
+                    console.error("Username input element not found.");
+                    return;
                 }
+                const username = usernameInputElement.value.trim();
+                if (!username) {
+                    showError("Please enter a username");
+                    return;
+                }
+
+                showLoading();
+
+                const response = await fetch('/.netlify/functions/get-user-data', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ username })
+                });
+
+                const data = await response.json();
+
+                if (!response.ok) {
+                    // Use the error message from the function if available
+                    throw new Error(data.error || `An error occurred. Status: ${response.status}`);
+                }
+
+                // The function returns data in the format we need
+                achievements = data.achievements;
+                userProgress = data.userProgress;
+
+                if (userProgress) {
+                    displayDashboard();
+                } else {
+                    // This path should not be hit if the function handles 404s, but is a good fallback
+                    showError(`No achievement data found for user "${username}".`);
+                }
+            } catch (error) {
+                console.error('Failed to load user data:', error);
+                showError(error.message);
             }
-
-            if (!userObject) {
-                showError(`No achievement data found for user "${username}". Make sure you've participated in chat!`);
-                return;
-            }
-
-            achievements = allData.achievements;
-            // Convert to expected format
-            userProgress = {
-                Counters: userObject.counters || {},
-                UnlockedAchievements: userObject.unlockedAchievements || [],
-                LastUpdated: userObject.lastUpdated || new Date().toISOString()
-            };
-
-            displayDashboard();
         }
 
         function showLoading() {
