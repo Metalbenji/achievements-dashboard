@@ -1469,16 +1469,27 @@
     },
     "anzerou": {
       "counters": {
+        "follow": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T17:48:59Z"
+    },
+    "stevenbonk": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T17:48:58Z"
+      "lastUpdated": "2025-06-21T17:49:06Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:48:58Z",
-  "totalUsers": 24,
+  "lastUpdated": "2025-06-21T16:49:06Z",
+  "totalUsers": 25,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
