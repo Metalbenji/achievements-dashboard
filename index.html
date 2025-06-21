@@ -1304,6 +1304,11 @@
                 return 'donations';
             }
 
+            // Clips category
+            if (achievement.Type.toLowerCase() === 'clips' || achievementName.includes('clip')) {
+                return 'clips';
+            }
+
             // Default to the achievement's original type
             return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
         }
@@ -1322,7 +1327,7 @@
                 'donation_master',
                 'donation_god'
             ];
-            
+
             return countBasedIds.includes(achievement.Id);
         }
 
@@ -1374,11 +1379,11 @@
 
             const currentValue = userProgress.Counters[counterKey] || 0;
             const requiredValue = achievement.RequiredValue;
-            
+
             // Special handling for total_donated which is stored in pence
             let adjustedCurrentValue = currentValue;
             let adjustedRequiredValue = requiredValue;
-            
+
             if (counterKey === 'total_donated') {
                 // Convert pence to pounds for display
                 adjustedCurrentValue = currentValue / 100;
@@ -1386,7 +1391,7 @@
                 // so we convert to pounds (approximately 0.8 conversion rate as per your C# code)
                 adjustedRequiredValue = requiredValue * 0.8;
             }
-            
+
             let progress;
             let displayedCurrentValue;
 
@@ -1396,7 +1401,7 @@
             } else {
                 progress = Math.min((adjustedCurrentValue / adjustedRequiredValue) * 100, 100);
                 displayedCurrentValue = Math.min(adjustedCurrentValue, adjustedRequiredValue);
-            }            
+            }
 
             // Check if this is a donation AMOUNT achievement (not count) for currency conversion
             const isDonationAmount = typeKey === 'donations' && !isDonationCountAchievement(achievement);
