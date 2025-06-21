@@ -1229,7 +1229,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 74
+        "chat": 76
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1238,7 +1238,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T18:30:41Z"
+      "lastUpdated": "2025-06-21T18:38:12Z"
     },
     "celran": {
       "counters": {
@@ -1317,7 +1317,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 32
+        "chat": 44
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1325,7 +1325,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T18:34:58Z"
+      "lastUpdated": "2025-06-21T18:39:00Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1522,7 +1522,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 19
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1530,13 +1530,14 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T18:34:40Z"
+      "lastUpdated": "2025-06-21T18:40:24Z"
     },
     "metalbenji": {
       "counters": {
         "chat": 5,
-        "points_spent": 4600,
-        "screenshot": 1
+        "points_spent": 9950,
+        "screenshot": 2,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1544,12 +1545,13 @@
         "spender_bronze",
         "emperor_loyal",
         "biggest_fan",
-        "screenshot_first"
+        "screenshot_first",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T18:35:41Z"
+      "lastUpdated": "2025-06-21T18:40:36Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:35:41Z",
+  "lastUpdated": "2025-06-21T17:40:37Z",
   "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
