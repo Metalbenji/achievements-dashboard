@@ -1232,7 +1232,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 25
+        "chat": 27
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1240,7 +1240,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T14:57:40Z"
+      "lastUpdated": "2025-06-21T15:00:14Z"
     },
     "celran": {
       "counters": {
@@ -1304,15 +1304,16 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T14:50:43Z"
+      "lastUpdated": "2025-06-21T15:03:45Z"
     }
   },
-  "lastUpdated": "2025-06-21T13:57:40Z",
+  "lastUpdated": "2025-06-21T14:03:45Z",
   "totalUsers": 11,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
