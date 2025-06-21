@@ -1350,12 +1350,14 @@
     "lottec": {
       "counters": {
         "points_spent": 800,
-        "effects": 1
+        "effects": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "effect_first"
+        "effect_first",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T16:08:16Z"
+      "lastUpdated": "2025-06-21T18:11:38Z"
     },
     "hairypawter": {
       "counters": {
@@ -1523,7 +1525,8 @@
         "first_caller",
         "birthday_person",
         "vip_dreamer",
-        "emperor_loyal"
+        "emperor_loyal",
+        "biggest_fan"
       ],
       "lastUpdated": "2025-06-21T18:11:35Z"
     }
