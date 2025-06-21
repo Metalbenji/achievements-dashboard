@@ -1229,7 +1229,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 87,
+        "chat": 88,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1241,7 +1241,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-06-21T19:30:27Z"
+      "lastUpdated": "2025-06-21T19:39:27Z"
     },
     "celran": {
       "counters": {
@@ -1363,7 +1363,7 @@
       "counters": {
         "points_spent": 1600,
         "effects": 2,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "effect_first",
@@ -1372,7 +1372,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T19:36:56Z"
+      "lastUpdated": "2025-06-21T19:37:28Z"
     },
     "hairypawter": {
       "counters": {
@@ -1599,16 +1599,17 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T19:36:33Z"
+      "lastUpdated": "2025-06-21T19:39:43Z"
     }
   },
-  "lastUpdated": "2025-06-21T18:36:56Z",
+  "lastUpdated": "2025-06-21T18:39:43Z",
   "totalUsers": 31,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
