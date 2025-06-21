@@ -1180,10 +1180,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-21T13:10:04Z"
+    },
+    "itzsilvah": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T13:12:37Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:10:05Z",
-  "totalUsers": 2,
+  "lastUpdated": "2025-06-21T12:12:37Z",
+  "totalUsers": 3,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
