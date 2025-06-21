@@ -1514,16 +1514,19 @@
     "metalbenji": {
       "counters": {
         "chat": 1,
-        "points_spent": 2500
+        "points_spent": 2500,
+        "special_rewards": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "spender_bronze"
+        "spender_bronze",
+        "first_caller",
+        "birthday_person"
       ],
       "lastUpdated": "2025-06-21T18:11:35Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:11:35Z",
+  "lastUpdated": "2025-06-21T17:11:36Z",
   "totalUsers": 27,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
