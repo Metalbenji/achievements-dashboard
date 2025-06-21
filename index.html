@@ -1386,15 +1386,24 @@
                 adjustedRequiredValue = requiredValue * 0.8;
             }
             
-            const progress = Math.min((adjustedCurrentValue / adjustedRequiredValue) * 100, 100);
-            const displayedCurrentValue = Math.min(adjustedCurrentValue, adjustedRequiredValue);
+            let progress;
+            let displayedCurrentValue;
+
+            if (isUnlocked) {
+                progress = 100;
+                displayedCurrentValue = adjustedRequiredValue;
+            } else {
+                progress = Math.min((adjustedCurrentValue / adjustedRequiredValue) * 100, 100);
+                displayedCurrentValue = Math.min(adjustedCurrentValue, adjustedRequiredValue);
+            }            
 
             // Check if this is a donation AMOUNT achievement (not count) for currency conversion
             const isDonationAmount = typeKey === 'donations' && !isDonationCountAchievement(achievement);
 
             // Format the progress text with currency conversion if needed
             const currentDisplayValue = isDonationAmount ? `£${displayedCurrentValue.toFixed(2)}` : displayedCurrentValue.toString();
-            const requiredDisplayValue = isDonationAmount ? `£${adjustedRequiredValue.toFixed(2)}` : requiredValue.toString();
+            const requiredDisplayValue = isDonationAmount ? `£${adjustedRequiredValue.toFixed(2)}` : adjustedRequiredValue.toString();
+
 
             // Convert currency in description for donation amount achievements
             const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonationAmount);
