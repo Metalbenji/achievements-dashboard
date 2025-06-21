@@ -1485,7 +1485,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 50
+        "chat": 55
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1493,7 +1493,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T20:27:44Z"
+      "lastUpdated": "2025-06-21T20:32:37Z"
     },
     "kripoje": {
       "counters": {
@@ -1696,13 +1696,15 @@
     "metalbenji": {
       "counters": {
         "chat": 2,
-        "clips": 1
+        "clips": 1,
+        "sub": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "clip_first"
+        "clip_first",
+        "sub_first_month"
       ],
-      "lastUpdated": "2025-06-21T20:14:22Z"
+      "lastUpdated": "2025-06-21T20:32:55Z"
     },
     "epik__tv": {
       "counters": {
@@ -1722,15 +1724,17 @@
     },
     "nicolaswuffwuff": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 3
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T20:30:28Z"
+      "lastUpdated": "2025-06-21T20:32:16Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:30:28Z",
+  "lastUpdated": "2025-06-21T19:32:56Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
