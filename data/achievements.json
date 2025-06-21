@@ -1321,13 +1321,14 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T15:24:16Z"
+      "lastUpdated": "2025-06-21T15:24:30Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1339,7 +1340,7 @@
       "lastUpdated": "2025-06-21T15:24:19Z"
     }
   },
-  "lastUpdated": "2025-06-21T14:24:19Z",
+  "lastUpdated": "2025-06-21T14:24:30Z",
   "totalUsers": 13,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
