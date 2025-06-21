@@ -1752,17 +1752,18 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T22:11:30Z"
+      "lastUpdated": "2025-06-21T22:13:25Z"
     }
   },
-  "lastUpdated": "2025-06-21T21:12:33Z",
+  "lastUpdated": "2025-06-21T21:13:25Z",
   "totalUsers": 34,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
