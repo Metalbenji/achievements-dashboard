@@ -1686,15 +1686,16 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "night_owl"
       ],
-      "lastUpdated": "2025-06-21T21:44:17Z"
+      "lastUpdated": "2025-06-21T22:19:48Z"
     },
     "epik__tv": {
       "counters": {
@@ -1715,7 +1716,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 106,
+        "chat": 110,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1728,7 +1729,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-06-21T22:17:45Z"
+      "lastUpdated": "2025-06-21T22:19:16Z"
     },
     "metalbenji": {
       "counters": {
@@ -1764,7 +1765,7 @@
       "lastUpdated": "2025-06-21T22:14:22Z"
     }
   },
-  "lastUpdated": "2025-06-21T21:18:04Z",
+  "lastUpdated": "2025-06-21T21:19:49Z",
   "totalUsers": 34,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
