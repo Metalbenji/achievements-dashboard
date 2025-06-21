@@ -3,4 +3,4 @@
 [functions]
   # This tells Netlify to include your data file in the function's deployment package.
   # The path is relative to the root of your project.
-  included_files = ["achievement-dashboard/data/achievements.json"]
+   included_files = ["data/achievements.json"]
