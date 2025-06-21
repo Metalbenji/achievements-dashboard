@@ -1727,16 +1727,18 @@
     },
     "metalbenji": {
       "counters": {
-        "points_spent": 400,
-        "interactive": 1
+        "points_spent": 750,
+        "interactive": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
-        "interactive_first"
+        "interactive_first",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-06-21T20:55:20Z"
+      "lastUpdated": "2025-06-21T20:55:34Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:55:20Z",
+  "lastUpdated": "2025-06-21T19:55:34Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
