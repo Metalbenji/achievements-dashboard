@@ -1215,7 +1215,9 @@
         "chat_conversationalist",
         "spender_bronze",
         "first_caller",
-        "birthday_person"
+        "birthday_person",
+        "vip_dreamer",
+        "emperor_loyal"
       ],
       "lastUpdated": "2025-06-21T15:10:51Z"
     },
@@ -1328,7 +1330,7 @@
       "lastUpdated": "2025-06-21T15:09:15Z"
     }
   },
-  "lastUpdated": "2025-06-21T14:10:51Z",
+  "lastUpdated": "2025-06-21T14:10:52Z",
   "totalUsers": 12,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
