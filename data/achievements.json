@@ -1205,16 +1205,19 @@
     "metalbenji": {
       "counters": {
         "chat": 17,
-        "points_spent": 2000
+        "points_spent": 2000,
+        "special_rewards": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "first_caller",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-06-21T15:10:50Z"
+      "lastUpdated": "2025-06-21T15:10:51Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1325,7 +1328,7 @@
       "lastUpdated": "2025-06-21T15:09:15Z"
     }
   },
-  "lastUpdated": "2025-06-21T14:10:50Z",
+  "lastUpdated": "2025-06-21T14:10:51Z",
   "totalUsers": 12,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
