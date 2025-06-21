@@ -1229,38 +1229,47 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 10
+        "chat": 14
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T13:47:12Z"
+      "lastUpdated": "2025-06-21T13:53:28Z"
     },
     "celran": {
       "counters": {
-        "chat": 2,
+        "chat": 4,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T13:44:08Z"
+      "lastUpdated": "2025-06-21T13:48:18Z"
     },
     "turdtotrader": {
       "counters": {
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T13:47:00Z"
+      "lastUpdated": "2025-06-21T13:47:57Z"
+    },
+    "dmustain": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T13:54:06Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:47:12Z",
-  "totalUsers": 8,
+  "lastUpdated": "2025-06-21T12:54:06Z",
+  "totalUsers": 9,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
