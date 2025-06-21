@@ -1220,7 +1220,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 57
+        "chat": 58
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1229,7 +1229,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T16:43:14Z"
+      "lastUpdated": "2025-06-21T17:12:46Z"
     },
     "celran": {
       "counters": {
@@ -1405,7 +1405,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 6,
+        "chat": 7,
         "points_spent": 25150,
         "effects": 1,
         "sounds": 1,
@@ -1422,9 +1422,10 @@
         "interactive_first",
         "first_caller",
         "birthday_person",
-        "vip_dreamer"
+        "vip_dreamer",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-06-21T17:12:30Z"
+      "lastUpdated": "2025-06-21T17:15:13Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1437,10 +1438,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-06-21T16:56:40Z"
+    },
+    "kaiiaryn": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T17:17:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:12:31Z",
-  "totalUsers": 20,
+  "lastUpdated": "2025-06-21T16:17:40Z",
+  "totalUsers": 21,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
