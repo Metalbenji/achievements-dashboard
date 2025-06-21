@@ -1302,12 +1302,15 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 4
+        "chat": 4,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-21T14:13:47Z"
+      "lastUpdated": "2025-06-21T15:25:20Z"
     },
     "ramdon101": {
       "counters": {
@@ -1340,7 +1343,7 @@
       "lastUpdated": "2025-06-21T15:24:19Z"
     }
   },
-  "lastUpdated": "2025-06-21T14:25:09Z",
+  "lastUpdated": "2025-06-21T14:25:20Z",
   "totalUsers": 13,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
