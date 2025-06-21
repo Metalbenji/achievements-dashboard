@@ -1407,15 +1407,18 @@
       "counters": {
         "chat": 6,
         "points_spent": 20350,
-        "effects": 1
+        "effects": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-06-21T17:03:51Z"
+      "lastUpdated": "2025-06-21T17:03:52Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1430,7 +1433,7 @@
       "lastUpdated": "2025-06-21T16:56:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:03:51Z",
+  "lastUpdated": "2025-06-21T16:03:52Z",
   "totalUsers": 20,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
