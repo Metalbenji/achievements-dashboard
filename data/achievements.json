@@ -1652,7 +1652,7 @@
       "counters": {
         "points_spent": 1750,
         "follow": 1,
-        "chat": 11,
+        "chat": 12,
         "effects": 2,
         "screenshot": 1,
         "sounds": 1
@@ -1667,7 +1667,7 @@
         "spender_bronze",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T20:36:17Z"
+      "lastUpdated": "2025-06-21T20:36:41Z"
     },
     "syn__________": {
       "counters": {
@@ -1731,19 +1731,20 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 10,
         "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "gift_starter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T20:36:10Z"
+      "lastUpdated": "2025-06-21T20:37:02Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:36:25Z",
+  "lastUpdated": "2025-06-21T19:37:02Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
