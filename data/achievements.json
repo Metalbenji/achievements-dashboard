@@ -1306,14 +1306,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 20
+        "chat": 21
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:52:37Z"
+      "lastUpdated": "2025-06-21T18:17:50Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1512,27 +1512,10 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-06-21T17:55:40Z"
-    },
-    "metalbenji": {
-      "counters": {
-        "chat": 5,
-        "points_spent": 2000,
-        "special_rewards": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "chat_newbie",
-        "spender_bronze",
-        "first_caller",
-        "birthday_person",
-        "vip_dreamer",
-        "emperor_loyal"
-      ],
-      "lastUpdated": "2025-06-21T18:15:57Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:15:59Z",
-  "totalUsers": 27,
+  "lastUpdated": "2025-06-21T17:18:05Z",
+  "totalUsers": 26,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
