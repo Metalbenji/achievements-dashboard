@@ -1319,7 +1319,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 93,
+        "chat": 96,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1331,7 +1331,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-06-21T21:13:32Z"
+      "lastUpdated": "2025-06-21T21:17:24Z"
     },
     "celran": {
       "counters": {
@@ -1346,7 +1346,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 11,
+        "chat": 14,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1368,7 +1368,7 @@
         "emperor_loyal",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T15:27:18Z"
+      "lastUpdated": "2025-06-21T21:17:06Z"
     },
     "dmustain": {
       "counters": {
@@ -1399,7 +1399,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 29,
+        "chat": 30,
         "points_spent": 350,
         "screenshot": 1
       },
@@ -1410,11 +1410,11 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-06-21T21:14:05Z"
+      "lastUpdated": "2025-06-21T21:16:25Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 55,
+        "chat": 60,
         "points_spent": 3100,
         "interactive": 1
       },
@@ -1427,7 +1427,7 @@
         "spender_bronze",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-06-21T21:13:47Z"
+      "lastUpdated": "2025-06-21T21:20:22Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1633,7 +1633,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 30,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1647,7 +1647,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T21:14:26Z"
+      "lastUpdated": "2025-06-21T21:44:06Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -1685,19 +1685,20 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T21:06:45Z"
+      "lastUpdated": "2025-06-21T21:44:17Z"
     },
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 18,
+        "chat": 19,
         "points_spent": 500,
         "sounds": 1
       },
@@ -1708,12 +1709,12 @@
         "chat_talker",
         "sound_first"
       ],
-      "lastUpdated": "2025-06-21T21:05:33Z"
+      "lastUpdated": "2025-06-21T21:36:56Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 36,
+        "chat": 65,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1724,7 +1725,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T21:12:12Z"
+      "lastUpdated": "2025-06-21T21:43:50Z"
     },
     "metalbenji": {
       "counters": {
@@ -1747,7 +1748,7 @@
       "lastUpdated": "2025-06-21T21:00:41Z"
     }
   },
-  "lastUpdated": "2025-06-21T20:14:26Z",
+  "lastUpdated": "2025-06-21T20:44:18Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
