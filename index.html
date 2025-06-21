@@ -1200,7 +1200,8 @@
                     <button class="filter-tab ${currentFilter === 'donations' ? 'active' : ''}" data-filter="donations">Donations</button>
                     <button class="filter-tab ${currentFilter === 'bigdonation' ? 'active' : ''}" data-filter="bigdonation">Big Donations</button>
                     <button class="filter-tab ${currentFilter === 'giftbomb' ? 'active' : ''}" data-filter="giftbomb">Gift Bomb</button>
-                </div>
+                    <button class="filter-tab ${currentFilter === 'clips' ? 'active' : ''}" data-filter="clips">Clips</button>
+                    </div>
 
                 <div id="achievementsContainer">
                     ${renderAchievements()}
@@ -1430,7 +1431,7 @@
         function renderAchievements() {
             let html = '';
             // These should match the data-filter values for type filters and be lowercase
-            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb'];
+            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb', 'clips'];
 
             if (currentFilter === 'all') {
                 const groupedByType = {};
@@ -1461,7 +1462,8 @@
                     { key: 'giftsub', name: 'Gift Sub' },
                     { key: 'donations', name: 'Donations' },
                     { key: 'bigdonation', name: 'Big Donations' },
-                    { key: 'giftbomb', name: 'Gift Bomb' }
+                    { key: 'giftbomb', name: 'Gift Bomb' },
+                    { key: 'clips', name: 'Clips' }
                 ];
 
                 groupDisplayOrder.forEach(group => {
@@ -1508,7 +1510,8 @@
                             { key: 'giftsub', name: 'Gift Sub' },
                             { key: 'donations', name: 'Donations' },
                             { key: 'bigdonation', name: 'Big Donations' },
-                            { key: 'giftbomb', name: 'Gift Bomb' }
+                            { key: 'giftbomb', name: 'Gift Bomb' },
+                            { key: 'clips', name: 'Clips' }
                         ];
                         const groupInfo = groupDisplayOrder.find(g => g.key === currentFilter);
                         const groupName = groupInfo ? groupInfo.name : currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
