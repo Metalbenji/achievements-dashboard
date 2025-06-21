@@ -1252,12 +1252,12 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 8,
-        "points_spent": 5800,
+        "chat": 9,
+        "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
         "sounds": 1,
-        "interactive": 1,
+        "interactive": 2,
         "special_rewards": 1
       },
       "unlockedAchievements": [
@@ -1270,30 +1270,34 @@
         "interactive_first",
         "first_caller",
         "birthday_person",
-        "vip_dreamer"
+        "vip_dreamer",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-06-21T14:05:09Z"
+      "lastUpdated": "2025-06-21T14:05:25Z"
     },
     "dmustain": {
       "counters": {
-        "chat": 2
+        "chat": 2,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-21T14:03:52Z"
+      "lastUpdated": "2025-06-21T14:07:51Z"
     },
     "miromaaldis": {
       "counters": {
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T14:04:38Z"
+      "lastUpdated": "2025-06-21T14:06:38Z"
     }
   },
-  "lastUpdated": "2025-06-21T13:05:10Z",
+  "lastUpdated": "2025-06-21T13:07:51Z",
   "totalUsers": 10,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
