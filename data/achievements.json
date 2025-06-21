@@ -1485,7 +1485,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 49
+        "chat": 50
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1493,7 +1493,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T20:23:54Z"
+      "lastUpdated": "2025-06-21T20:27:44Z"
     },
     "kripoje": {
       "counters": {
@@ -1707,7 +1707,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 13,
+        "chat": 16,
         "points_spent": 500,
         "sounds": 1
       },
@@ -1718,11 +1718,20 @@
         "chat_talker",
         "sound_first"
       ],
-      "lastUpdated": "2025-06-21T20:21:08Z"
+      "lastUpdated": "2025-06-21T20:27:06Z"
+    },
+    "nicolaswuffwuff": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T20:30:28Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:25:04Z",
-  "totalUsers": 32,
+  "lastUpdated": "2025-06-21T19:30:28Z",
+  "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
