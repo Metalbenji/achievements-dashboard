@@ -1306,14 +1306,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 22
+        "chat": 23
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T18:18:16Z"
+      "lastUpdated": "2025-06-21T18:18:38Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1523,13 +1523,23 @@
         "first_caller",
         "birthday_person",
         "vip_dreamer",
-        "emperor_loyal"
+        "emperor_loyal",
+        "biggest_fan"
       ],
       "lastUpdated": "2025-06-21T18:18:34Z"
+    },
+    "spoono__": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-21T18:19:28Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:18:36Z",
-  "totalUsers": 27,
+  "lastUpdated": "2025-06-21T17:19:28Z",
+  "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
 }
