@@ -1706,7 +1706,9 @@
         "clip_first",
         "sub_first_month",
         "gift_starter",
-        "bits_tiny"
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
       "lastUpdated": "2025-06-21T20:36:24Z"
     },
@@ -1741,7 +1743,7 @@
       "lastUpdated": "2025-06-21T20:36:10Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:36:24Z",
+  "lastUpdated": "2025-06-21T19:36:25Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
