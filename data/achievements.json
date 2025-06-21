@@ -1485,7 +1485,8 @@
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "spender_bronze"
+        "spender_bronze",
+        "emperor_loyal"
       ],
       "lastUpdated": "2025-06-21T18:32:39Z"
     },
@@ -1531,18 +1532,19 @@
     "metalbenji": {
       "counters": {
         "chat": 5,
-        "points_spent": 2000
+        "points_spent": 4600
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "spender_bronze",
-        "emperor_loyal"
+        "emperor_loyal",
+        "biggest_fan"
       ],
-      "lastUpdated": "2025-06-21T18:32:05Z"
+      "lastUpdated": "2025-06-21T18:32:53Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:32:39Z",
+  "lastUpdated": "2025-06-21T17:32:53Z",
   "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
