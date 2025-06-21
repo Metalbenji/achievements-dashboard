@@ -1727,22 +1727,23 @@
     },
     "metalbenji": {
       "counters": {
-        "points_spent": 750,
+        "points_spent": 30750,
         "interactive": 1,
         "screenshot": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "interactive_first",
         "screenshot_first",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-21T20:58:34Z"
+      "lastUpdated": "2025-06-21T21:00:40Z"
     }
   },
-  "lastUpdated": "2025-06-21T19:58:34Z",
+  "lastUpdated": "2025-06-21T20:00:40Z",
   "totalUsers": 33,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
