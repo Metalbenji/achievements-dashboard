@@ -1167,14 +1167,14 @@
       "counters": {
         "points_spent": 101,
         "special_rewards": 1,
-        "chat": 3,
+        "chat": 4,
         "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "effect_first"
       ],
-      "lastUpdated": "2025-06-21T13:14:06Z"
+      "lastUpdated": "2025-06-21T13:14:32Z"
     },
     "flaminjurr": {
       "counters": {
@@ -1195,10 +1195,19 @@
         "spender_bronze"
       ],
       "lastUpdated": "2025-06-21T13:13:17Z"
+    },
+    "metalbenji": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T13:14:42Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:14:06Z",
-  "totalUsers": 3,
+  "lastUpdated": "2025-06-21T12:14:42Z",
+  "totalUsers": 4,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
