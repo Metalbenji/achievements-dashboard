@@ -1214,14 +1214,17 @@
     "notoriouskiwi": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-21T13:23:56Z"
+      "lastUpdated": "2025-06-21T13:31:03Z"
     },
     "little_lilith_": {
       "counters": {
@@ -1233,7 +1236,7 @@
       "lastUpdated": "2025-06-21T13:23:42Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:23:57Z",
+  "lastUpdated": "2025-06-21T12:31:03Z",
   "totalUsers": 6,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
