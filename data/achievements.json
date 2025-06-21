@@ -1204,13 +1204,13 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T13:58:29Z"
+      "lastUpdated": "2025-06-21T14:02:14Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1230,14 +1230,14 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 15
+        "chat": 16
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T13:57:21Z"
+      "lastUpdated": "2025-06-21T14:03:57Z"
     },
     "celran": {
       "counters": {
@@ -1252,26 +1252,38 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 7
+        "chat": 7,
+        "points_spent": 400,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-06-21T13:56:26Z"
+      "lastUpdated": "2025-06-21T14:04:25Z"
     },
     "dmustain": {
+      "counters": {
+        "chat": 2
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-21T14:03:52Z"
+    },
+    "miromaaldis": {
       "counters": {
         "chat": 1
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T13:54:06Z"
+      "lastUpdated": "2025-06-21T14:03:52Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:58:29Z",
-  "totalUsers": 9,
+  "lastUpdated": "2025-06-21T13:04:25Z",
+  "totalUsers": 10,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
 }
