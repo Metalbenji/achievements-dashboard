@@ -1239,15 +1239,17 @@
     },
     "celran": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T13:43:33Z"
+      "lastUpdated": "2025-06-21T13:43:52Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:43:34Z",
+  "lastUpdated": "2025-06-21T12:43:52Z",
   "totalUsers": 7,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
