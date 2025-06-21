@@ -1431,29 +1431,30 @@
       "counters": {
         "points_spent": 2001,
         "special_rewards": 2,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "spender_bronze",
         "emperor_loyal",
         "birthday_person",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T17:33:44Z"
+      "lastUpdated": "2025-06-21T17:33:46Z"
     },
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T17:33:25Z"
+      "lastUpdated": "2025-06-21T17:33:45Z"
     }
   },
-  "lastUpdated": "2025-06-21T16:33:44Z",
+  "lastUpdated": "2025-06-21T16:33:46Z",
   "totalUsers": 22,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
