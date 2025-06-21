@@ -1441,17 +1441,19 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 15,
-        "points_spent": 5000
+        "chat": 18,
+        "points_spent": 5000,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "spender_bronze"
+        "spender_bronze",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T18:46:13Z"
+      "lastUpdated": "2025-06-21T18:47:03Z"
     },
     "mattyuk937": {
       "counters": {
@@ -1482,8 +1484,9 @@
       "counters": {
         "follow": 1,
         "chat": 2,
-        "points_spent": 22000,
-        "sounds": 1
+        "points_spent": 27000,
+        "sounds": 1,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1491,9 +1494,10 @@
         "spender_bronze",
         "emperor_loyal",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-06-21T18:34:52Z"
+      "lastUpdated": "2025-06-21T18:50:34Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -1558,7 +1562,7 @@
       "lastUpdated": "2025-06-21T18:40:36Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:46:13Z",
+  "lastUpdated": "2025-06-21T17:50:34Z",
   "totalUsers": 28,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
