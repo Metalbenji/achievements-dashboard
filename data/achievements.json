@@ -1204,13 +1204,14 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T14:02:14Z"
+      "lastUpdated": "2025-06-21T14:15:38Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1291,15 +1292,15 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T14:06:38Z"
+      "lastUpdated": "2025-06-21T14:13:47Z"
     }
   },
-  "lastUpdated": "2025-06-21T13:11:56Z",
+  "lastUpdated": "2025-06-21T13:15:38Z",
   "totalUsers": 10,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
