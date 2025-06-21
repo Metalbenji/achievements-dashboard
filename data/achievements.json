@@ -1210,15 +1210,17 @@
     },
     "notoriouskiwi": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T13:19:36Z"
+      "lastUpdated": "2025-06-21T13:20:12Z"
     }
   },
-  "lastUpdated": "2025-06-21T12:19:37Z",
+  "lastUpdated": "2025-06-21T12:20:12Z",
   "totalUsers": 5,
   "totalAchievements": 129,
   "generatedBy": "Streamer.bot Achievement System"
