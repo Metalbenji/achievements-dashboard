@@ -1520,12 +1520,15 @@
       },
       "unlockedAchievements": [
         "spender_bronze",
-        "first_caller"
+        "first_caller",
+        "birthday_person",
+        "vip_dreamer",
+        "emperor_loyal"
       ],
       "lastUpdated": "2025-06-21T18:18:34Z"
     }
   },
-  "lastUpdated": "2025-06-21T17:18:35Z",
+  "lastUpdated": "2025-06-21T17:18:36Z",
   "totalUsers": 27,
   "totalAchievements": 130,
   "generatedBy": "Streamer.bot Achievement System"
