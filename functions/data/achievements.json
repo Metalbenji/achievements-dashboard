@@ -1325,7 +1325,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 115,
+        "chat": 116,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1339,7 +1339,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-06-22T14:32:14Z"
+      "lastUpdated": "2025-06-22T14:39:29Z"
     },
     "celran": {
       "counters": {
@@ -1842,7 +1842,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1850,7 +1850,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T14:32:07Z"
+      "lastUpdated": "2025-06-22T14:33:06Z"
     },
     "qyainiana": {
       "counters": {
@@ -1878,10 +1878,10 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 350,
+        "points_spent": 750,
         "effects": 1,
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "effect_first",
@@ -1889,11 +1889,20 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-22T14:32:19Z"
+      "lastUpdated": "2025-06-22T14:33:47Z"
+    },
+    "s3n71": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-22T14:46:26Z"
     }
   },
-  "lastUpdated": "2025-06-22T13:32:19Z",
-  "totalUsers": 42,
+  "lastUpdated": "2025-06-22T13:46:26Z",
+  "totalUsers": 43,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
