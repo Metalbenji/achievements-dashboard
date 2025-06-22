@@ -1780,7 +1780,8 @@
         "spender_silver",
         "sound_first",
         "follow_supporter",
-        "sub_first_month"
+        "sub_first_month",
+        "sub_supporter"
       ],
       "lastUpdated": "2025-06-22T18:18:34Z"
     },
@@ -1951,7 +1952,7 @@
       "lastUpdated": "2025-06-22T17:35:53Z"
     }
   },
-  "lastUpdated": "2025-06-22T17:18:34Z",
+  "lastUpdated": "2025-06-22T17:18:36Z",
   "totalUsers": 47,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
