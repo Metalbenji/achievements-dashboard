@@ -20,7 +20,7 @@
     },
     {
       "Id": "chat_conversationalist",
-      "Name": "Conversationalist",
+      "Name": "Chatty Chatter",
       "Description": "Send 25 messages total",
       "Icon": "🗨️",
       "RequiredValue": 25,
@@ -1722,7 +1722,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 202,
+        "chat": 203,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1736,7 +1736,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-21T23:24:53Z"
+      "lastUpdated": "2025-06-21T23:25:01Z"
     },
     "metalbenji": {
       "counters": {
@@ -1796,7 +1796,7 @@
       "lastUpdated": "2025-06-21T23:24:59Z"
     }
   },
-  "lastUpdated": "2025-06-21T22:25:00Z",
+  "lastUpdated": "2025-06-22T08:59:39Z",
   "totalUsers": 36,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
