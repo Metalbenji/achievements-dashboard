@@ -410,7 +410,7 @@
             color: var(--neon-blue);
             font-weight: 900;
             text-transform: uppercase;
-            letter-spacing: clamp(0.5px, 0.5vw, 1px);
+            letter-spacing: clamp(0.5px, 0.8vw, 1.5px);
             text-shadow: 0 0 15px rgba(0, 212, 255, 0.8);
             font-family: 'Orbitron', monospace;
             overflow-wrap: break-word;
@@ -422,26 +422,31 @@
             -webkit-line-clamp: 3; /* Allow up to 3 lines */
             -webkit-box-orient: vertical;
             overflow: hidden;
-            /* Prevent awkward single word lines */
-            text-wrap: pretty; /* Modern browsers */
-            word-break: break-word;
             /* Better spacing for multi-line titles */
             max-height: calc(1.1em * 3 + 0.2em); /* 3 lines + small buffer */
+            /* Keep consistent styling */
+            word-spacing: 0.15em; /* Add slight spacing between words for readability */
         }
         
-        /* Specific handling for very long single words */
+        /* Specific handling for very long words - keeps uppercase but optimizes spacing */
         .achievement-info h3.long-word {
-            font-size: clamp(0.9rem, 2.2vw, 1.2rem);
-            letter-spacing: clamp(0.2px, 0.3vw, 0.5px);
-            text-transform: none; /* Remove uppercase for readability */
-            word-break: break-all; /* Break long words if necessary */
+            letter-spacing: clamp(0.2px, 0.4vw, 0.8px); /* Tighter spacing for long words */
+            word-spacing: 0.1em;
+            font-size: clamp(1rem, 2.4vw, 1.3rem); /* Slightly smaller but still prominent */
         }
         
-        /* Special class for compound words that should break intelligently */
-        .achievement-info h3.compound-word {
-            font-size: clamp(1rem, 2.5vw, 1.3rem);
-            text-transform: capitalize; /* Better than all caps for long compound words */
-            word-spacing: 0.1em; /* Add slight spacing between words */
+        /* For titles with multiple long words */
+        .achievement-info h3.multi-long-words {
+            letter-spacing: clamp(0.3px, 0.6vw, 1px);
+            word-spacing: 0.2em; /* More space between words */
+            line-height: 1.05; /* Tighter line height for multi-line */
+        }
+        
+        /* For extremely long single words that need strategic breaking */
+        .achievement-info h3.break-long-word {
+            letter-spacing: clamp(0.1px, 0.3vw, 0.6px);
+            word-break: break-all; /* Only used as last resort */
+            font-size: clamp(0.95rem, 2.2vw, 1.25rem);
         }
 
         .achievement-card.unlocked .achievement-info h3 {
@@ -1327,75 +1332,120 @@
 
                 titleElements.forEach(h3 => {
                     // Reset any previous classes and inline styles
-                    h3.classList.remove('long-word', 'compound-word');
+                    h3.classList.remove('long-word', 'multi-long-words', 'break-long-word');
                     h3.style.fontSize = '';
-                    h3.style.textTransform = '';
                     h3.style.letterSpacing = '';
+                    h3.style.wordSpacing = '';
+                    h3.innerHTML = h3.textContent; // Reset any HTML modifications
 
                     const text = h3.textContent.trim();
                     const words = text.split(/\s+/);
                     const longestWord = words.reduce((a, b) => a.length > b.length ? a : b, '');
+                    const totalLength = text.replace(/\s/g, '').length;
                     
-                    // Categorize the title type
-                    if (words.length === 1 && text.length > 20) {
-                        // Very long single word
-                        h3.classList.add('long-word');
-                        
-                        // Try to add soft breaks for compound words
-                        if (/[A-Z]/.test(text.slice(1))) { // Has capitals after first letter (camelCase/PascalCase)
-                            const breakableText = text.replace(/([a-z])([A-Z])/g, '$1<wbr>$2');
-                            h3.innerHTML = breakableText;
+                    // Strategy 1: Analyze the content type
+                    if (words.length === 1) {
+                        // Single word handling
+                        if (text.length > 18) {
+                            // Very long single word - try strategic breaking with invisible characters
+                            h3.classList.add('break-long-word');
+                            
+                            // Add zero-width spaces at natural break points for compound words
+                            let breakableText = text;
+                            
+                            // Common compound word patterns (keeping original case)
+                            breakableText = breakableText.replace(/([a-z])([A-Z])/g, '$1​$2'); // Zero-width space
+                            breakableText = breakableText.replace(/(TRANS)(FORMATION)/gi, '$1​$2');
+                            breakableText = breakableText.replace(/(TRANS)(CENDENT)/gi, '$1​$2');
+                            breakableText = breakableText.replace(/(CONVERSATION)(ALIST)/gi, '$1​$2');
+                            breakableText = breakableText.replace(/(SHAPE)(SHIFTING)/gi, '$1​$2');
+                            breakableText = breakableText.replace(/(EXTRA)(ORDINARY)/gi, '$1​$2');
+                            
+                            // For technical terms or repeated patterns
+                            breakableText = breakableText.replace(/(.{8})(.{4,})/g, '$1​$2'); // Every 8 chars if word is long enough
+                            
+                            if (breakableText !== text) {
+                                h3.innerHTML = breakableText;
+                            }
+                        } else if (text.length > 12) {
+                            // Moderately long single word
+                            h3.classList.add('long-word');
                         }
-                    } else if (words.length <= 3 && longestWord.length > 12) {
+                    } else if (words.length <= 4 && longestWord.length > 10) {
                         // Short phrase with long words
-                        h3.classList.add('compound-word');
-                    } else if (words.length > 4) {
-                        // Many words - use better line breaking
-                        h3.style.textWrap = 'balance'; // Modern browsers
-                        h3.style.lineHeight = '1.05';
+                        h3.classList.add('multi-long-words');
+                    } else if (totalLength > 40) {
+                        // Many words, long total length
+                        h3.classList.add('multi-long-words');
                     }
                     
-                    // Special cases for common problematic words
-                    const problematicWords = [
-                        'transformation', 'transcendent', 'conversationalist', 
-                        'shapeshifting', 'revolutionary', 'extraordinary'
-                    ];
-                    
-                    if (problematicWords.some(word => text.toLowerCase().includes(word))) {
-                        h3.classList.add('compound-word');
+                    // Strategy 2: Container-based adjustment
+                    // Give browser a moment to render the changes
+                    setTimeout(() => {
+                        const containerWidth = h3.clientWidth;
+                        const scrollWidth = h3.scrollWidth;
                         
-                        // Add word break opportunities for these specific long words
-                        let adjustedText = text;
-                        adjustedText = adjustedText.replace(/transformation/gi, 'trans<wbr>formation');
-                        adjustedText = adjustedText.replace(/transcendent/gi, 'trans<wbr>cendent');
-                        adjustedText = adjustedText.replace(/conversationalist/gi, 'conversation<wbr>alist');
-                        adjustedText = adjustedText.replace(/shapeshifting/gi, 'shape<wbr>shifting');
-                        adjustedText = adjustedText.replace(/revolutionary/gi, 'revolu<wbr>tionary');
-                        adjustedText = adjustedText.replace(/extraordinary/gi, 'extra<wbr>ordinary');
-                        
-                        if (adjustedText !== text) {
-                            h3.innerHTML = adjustedText;
+                        if (scrollWidth > containerWidth * 1.15) { // 15% tolerance
+                            // Still overflowing after class application
+                            
+                            if (words.length === 1 && !h3.classList.contains('break-long-word')) {
+                                // Single word that needs more aggressive breaking
+                                h3.classList.add('break-long-word');
+                                
+                                // More aggressive zero-width space insertion
+                                let aggressiveBreak = text;
+                                // Insert break opportunities every 6-8 characters for very long words
+                                if (text.length > 15) {
+                                    aggressiveBreak = text.replace(/(.{6,8})/g, '$1​');
+                                }
+                                h3.innerHTML = aggressiveBreak;
+                            } else {
+                                // Multi-word overflow - adjust spacing
+                                h3.style.letterSpacing = 'clamp(0.1px, 0.2vw, 0.4px)';
+                                h3.style.wordSpacing = '0.05em';
+                                h3.style.fontSize = 'clamp(0.9rem, 2.1vw, 1.2rem)';
+                            }
                         }
-                    }
-                    
-                    // Final check: if still overflowing, apply emergency measures
-                    const containerWidth = h3.parentElement.clientWidth;
-                    if (h3.scrollWidth > containerWidth * 1.1) { // 10% tolerance
-                        h3.style.fontSize = 'clamp(0.8rem, 2vw, 1.1rem)';
-                        h3.style.letterSpacing = '0.3px';
-                        h3.style.lineHeight = '1';
                         
-                        // For extreme cases, add ellipsis as last resort
-                        if (h3.scrollWidth > containerWidth * 1.3) {
-                            h3.style.display = '-webkit-box';
-                            h3.style.webkitLineClamp = '2';
-                            h3.style.webkitBoxOrient = 'vertical';
-                            h3.style.overflow = 'hidden';
-                            h3.title = text; // Show full text on hover
-                        }
-                    }
+                        // Strategy 3: Final overflow check with tooltip fallback
+                        setTimeout(() => {
+                            if (h3.scrollWidth > h3.clientWidth * 1.2) {
+                                // Extreme case - add tooltip and ensure no layout break
+                                h3.title = `${text} (Full text - click to expand)`;
+                                h3.style.cursor = 'help';
+                                
+                                // Ensure it fits by any means necessary
+                                h3.style.fontSize = 'clamp(0.8rem, 1.8vw, 1.1rem)';
+                                h3.style.letterSpacing = '0.1px';
+                                h3.style.wordSpacing = '0.02em';
+                                
+                                // Click handler to show full text in a subtle way
+                                h3.addEventListener('click', function(e) {
+                                    const originalHTML = this.innerHTML;
+                                    const originalClasses = [...this.classList];
+                                    
+                                    // Temporarily show full text with adjusted styling
+                                    this.style.fontSize = 'clamp(0.7rem, 1.6vw, 0.95rem)';
+                                    this.style.lineHeight = '1';
+                                    this.style.webkitLineClamp = '4';
+                                    this.style.maxHeight = 'calc(1em * 4 + 0.2em)';
+                                    
+                                    // Reset after 3 seconds
+                                    setTimeout(() => {
+                                        this.innerHTML = originalHTML;
+                                        this.className = '';
+                                        originalClasses.forEach(cls => this.classList.add(cls));
+                                        this.style.fontSize = '';
+                                        this.style.lineHeight = '';
+                                        this.style.webkitLineClamp = '3';
+                                        this.style.maxHeight = 'calc(1.1em * 3 + 0.2em)';
+                                    }, 3000);
+                                });
+                            }
+                        }, 50);
+                    }, 50);
                 });
-            }, 250); // Slightly longer timeout for layout settling
+            }, 250);
         }
 
         function setFilter(filter) {
