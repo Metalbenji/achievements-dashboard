@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Achievement Dashboard</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&display=swap">
     <style>
@@ -415,38 +415,10 @@
             font-family: 'Orbitron', monospace;
             overflow-wrap: break-word;
             word-wrap: break-word;
-            hyphens: auto;
             line-height: 1.1;
-            /* Smart text handling */
-            display: -webkit-box;
-            -webkit-line-clamp: 3; /* Allow up to 3 lines */
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-            /* Better spacing for multi-line titles */
-            max-height: calc(1.1em * 3 + 0.2em); /* 3 lines + small buffer */
-            /* Keep consistent styling */
-            word-spacing: 0.15em; /* Add slight spacing between words for readability */
-        }
-        
-        /* Specific handling for very long words - keeps uppercase but optimizes spacing */
-        .achievement-info h3.long-word {
-            letter-spacing: clamp(0.2px, 0.4vw, 0.8px); /* Tighter spacing for long words */
-            word-spacing: 0.1em;
-            font-size: clamp(1rem, 2.4vw, 1.3rem); /* Slightly smaller but still prominent */
-        }
-        
-        /* For titles with multiple long words */
-        .achievement-info h3.multi-long-words {
-            letter-spacing: clamp(0.3px, 0.6vw, 1px);
-            word-spacing: 0.2em; /* More space between words */
-            line-height: 1.05; /* Tighter line height for multi-line */
-        }
-        
-        /* For extremely long single words that need strategic breaking */
-        .achievement-info h3.break-long-word {
-            letter-spacing: clamp(0.1px, 0.3vw, 0.6px);
-            word-break: break-all; /* Only used as last resort */
-            font-size: clamp(0.95rem, 2.2vw, 1.25rem);
+            /* Allow natural text wrapping */
+            hyphens: auto;
+            word-spacing: 0.15em;
         }
 
         .achievement-card.unlocked .achievement-info h3 {
@@ -770,8 +742,6 @@
             .achievement-info h3 {
                 font-size: clamp(1rem, 4vw, 1.2rem);
                 line-height: 1.05;
-                -webkit-line-clamp: 2; /* Limit to 2 lines on small screens */
-                max-height: calc(1.05em * 2 + 0.1em);
             }
             
             .achievement-card {
@@ -793,8 +763,6 @@
                 font-size: clamp(0.9rem, 2.5vw, 1.1rem);
                 line-height: 1;
                 margin-bottom: 6px;
-                -webkit-line-clamp: 2;
-                max-height: calc(1em * 2 + 0.1em);
             }
         }
         
@@ -841,26 +809,26 @@
                 Achievement Dashboard
             </div>
             <div class="navbar-social-icons">
-                <a href="https://www.twitch.tv/metalbenji" target="_blank" class="social-icon-button twitch"
+                <a href="https://www.twitch.tv/metalbenji" target="_blank" rel="noopener noreferrer" class="social-icon-button twitch"
                     aria-label="Twitch">
                     <i class="fab fa-twitch"></i>
                 </a>
-                <a href="https://kick.com/metalbenji" target="_blank" class="social-icon-button kick" aria-label="Kick">
+                <a href="https://kick.com/metalbenji" target="_blank" rel="noopener noreferrer" class="social-icon-button kick" aria-label="Kick">
                     <i class="fas fa-k"></i>
                 </a>
-                <a href="https://www.youtube.com/@metalbenji" target="_blank" class="social-icon-button youtube"
+                <a href="https://www.youtube.com/@metalbenji" target="_blank" rel="noopener noreferrer" class="social-icon-button youtube"
                     aria-label="YouTube">
                     <i class="fab fa-youtube"></i>
                 </a>
-                <a href="https://www.tiktok.com/@metalbenjigaming" target="_blank" class="social-icon-button tiktok"
+                <a href="https://www.tiktok.com/@metalbenjigaming" target="_blank" rel="noopener noreferrer" class="social-icon-button tiktok"
                     aria-label="TikTok">
                     <i class="fab fa-tiktok"></i>
                 </a>
-                <a href="https://x.com/MetalBenji" target="_blank" class="social-icon-button x-twitter"
+                <a href="https://x.com/MetalBenji" target="_blank" rel="noopener noreferrer" class="social-icon-button x-twitter"
                     aria-label="X (formerly Twitter)">
                     <i class="fab fa-x-twitter"></i>
                 </a>
-                <a href="https://ko-fi.com/metalbenji" target="_blank" class="social-icon-button kofi"
+                <a href="https://ko-fi.com/metalbenji" target="_blank" rel="noopener noreferrer" class="social-icon-button kofi"
                     aria-label="Buy me a beer">
                     <i class="fas fa-beer"></i>
                 </a>
@@ -935,6 +903,20 @@
             "Fueled by chat encouragement"
         ];
 
+        // Security helper to prevent XSS by escaping HTML special characters.
+        function escapeHTML(str) {
+            if (typeof str !== 'string') return str;
+            return str.replace(/[&<>"']/g, function(match) {
+                return {
+                    '&': '&amp;',
+                    '<': '&lt;',
+                    '>': '&gt;',
+                    '"': '&quot;',
+                    "'": '&#39;'
+                }[match];
+            });
+        }
+
         function setRandomFooterMessage() {
             if (randomFooterMessageElement) {
                 const randomIndex = Math.floor(Math.random() * footerMessages.length);
@@ -977,7 +959,7 @@
                 if (userProgress) {
                     displayDashboard();
                 } else {
-                    showError(`No achievement data found for user "${username}".`);
+                    showError(`No achievement data found for user "${username}".`); // showError will handle escaping
                 }
             } catch (error) {
                 console.error('Failed to load user data:', error);
@@ -990,13 +972,13 @@
         }
 
         function showError(message) {
-            if (contentElement) contentElement.innerHTML = `<div class="error-message">${message}</div>`;
+            if (contentElement) contentElement.innerHTML = `<div class="error-message">${escapeHTML(message)}</div>`;
         }
 
         function displayDashboard() {
             const unlockedCount = userProgress.UnlockedAchievements.length;
             const totalCount = achievements.length;
-            const completionRate = ((unlockedCount / totalCount) * 100).toFixed(1);
+            const completionRate = totalCount > 0 ? ((unlockedCount / totalCount) * 100).toFixed(1) : "0.0";
 
             const content = `
                 <div class="progress-overview">
@@ -1045,85 +1027,47 @@
             }
         }
 
+        const achievementCategorization = {
+            timewatched: ['night owl', 'early bird', 'weekend warrior'],
+            effect: ['transformation rookie', 'effect collector', 'transformation master', 'shapeshifting legend'],
+            sound: ['sound pioneer', 'chat dj', 'sound mixer'],
+            channelpoints: ['point spender', 'big spender', 'whale spender', 'point millionaire'],
+            giftsub: [
+                'first gift', 'kind soul', 'caring friend', 'thoughtful gifter', 'community supporter',
+                'gift champion', 'community hero', 'gift angel', 'community patron', 'stream guardian',
+                'gift baron', 'gift lord', 'gift emperor', 'gift deity', 'gift transcendent', 'gift omnipotent'
+            ],
+            bigdonation: [
+                'big heart', 'regular big donor', 'big donation champion', 'big donation legend', 'big donation master'
+            ],
+            donations: [
+                'getting started', 'generous spirit', 'kind contributor', 'donation champion', 'donation legend',
+                'stream patron', 'donation master', 'donation deity', 'transcendent supporter', 'trancendent supporter'
+            ],
+            clips: ['clip']
+        };
+
         function getAchievementCategory(achievement) {
             const achievementName = achievement.Name.toLowerCase();
             const achievementDescription = achievement.Description ? achievement.Description.toLowerCase() : '';
 
-            if (achievementName.includes('night owl') ||
-                achievementName.includes('early bird') ||
-                achievementName.includes('weekend warrior')) {
-                return 'timewatched';
-            }
-
-            if (achievementName.includes('transformation rookie') ||
-                achievementName.includes('effect collector') ||
-                achievementName.includes('transformation master') ||
-                (achievementName.includes('shape') && achievementName.includes('shifting') && achievementName.includes('legend')) ||
-                (achievementName.includes('shapeshifting') && achievementName.includes('legend'))) {
-                return 'effect';
-            }
-
-            if (achievementName.includes('sound pioneer') ||
-                achievementName.includes('chat dj') ||
-                achievementName.includes('sound mixer')) {
-                return 'sound';
-            }
-
-            if (achievementName.includes('point spender') ||
-                achievementName.includes('big spender') ||
-                achievementName.includes('whale spender') ||
-                achievementName.includes('point millionaire')) {
-                return 'channelpoints';
+            // Check keywords first
+            for (const [category, keywords] of Object.entries(achievementCategorization)) {
+                if (keywords.some(keyword => achievementName.includes(keyword))) {
+                    return category;
+                }
             }
 
             if (achievementDescription.includes('bomb')) {
                 return 'giftbomb';
             }
 
-            if (achievementName.includes('first gift') ||
-                achievementName.includes('kind soul') ||
-                achievementName.includes('caring friend') ||
-                achievementName.includes('thoughtful gifter') ||
-                achievementName.includes('community supporter') ||
-                achievementName.includes('gift champion') ||
-                achievementName.includes('community hero') ||
-                achievementName.includes('gift angel') ||
-                achievementName.includes('community patron') ||
-                achievementName.includes('stream guardian') ||
-                achievementName.includes('gift baron') ||
-                achievementName.includes('gift lord') ||
-                achievementName.includes('gift emperor') ||
-                achievementName.includes('gift deity') ||
-                achievementName.includes('gift transcendent') ||
-                achievementName.includes('gift omnipotent')) {
-                return 'giftsub';
-            }
-
-            if (achievementName.includes('big heart') ||
-                achievementName.includes('regular big donor') ||
-                achievementName.includes('big donation champion') ||
-                achievementName.includes('big donation legend') ||
-                achievementName.includes('big donation master')) {
-                return 'bigdonation';
-            }
-
-            if (achievementName.includes('getting started') ||
-                achievementName.includes('generous spirit') ||
-                achievementName.includes('kind contributor') ||
-                achievementName.includes('donation champion') ||
-                achievementName.includes('donation legend') ||
-                achievementName.includes('stream patron') ||
-                achievementName.includes('donation master') ||
-                achievementName.includes('donation deity') ||
-                achievementName.includes('transcendent supporter') ||
-                achievementName.includes('trancendent supporter')) {
-                return 'donations';
-            }
-
-            if (achievement.Type.toLowerCase() === 'clips' || achievementName.includes('clip')) {
+            // Handle cases where the Type field is the primary source
+            if (achievement.Type.toLowerCase() === 'clips') {
                 return 'clips';
             }
 
+            // Fallback to the achievement's Type property
             return achievement.Type.toLowerCase().replace(/\s+/g, '').replace('-', '').replace('_', '');
         }
 
@@ -1171,6 +1115,13 @@
             const isUnlocked = userProgress.UnlockedAchievements.includes(achievement.Id);
             const typeKey = getAchievementCategory(achievement);
 
+            // Security: Validate rarity to prevent attribute injection.
+            const rarity = parseInt(achievement.Rarity, 10);
+            if (isNaN(rarity) || rarity < 1 || rarity > 5) {
+                console.error('Invalid rarity value for achievement:', achievement.Name, achievement.Rarity);
+                return ''; // Don't render a card with invalid data.
+            }
+
             let counterKey = typeKey;
             if (typeKey === 'timewatched') counterKey = 'timewatched';
             else if (typeKey === 'channelpoints') counterKey = 'channelpoints';
@@ -1211,15 +1162,15 @@
             const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonationAmount);
 
             return `
-                <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'} rarity-color-${achievement.Rarity}">
+                <div class="achievement-card ${isUnlocked ? 'unlocked' : 'locked'} rarity-color-${rarity}">
                     <div class="achievement-header">
-                        <div class="achievement-icon">${achievement.Icon}</div>
+                        <div class="achievement-icon">${escapeHTML(achievement.Icon)}</div>
                         <div class="achievement-info">
-                            <h3>${achievement.Name}</h3>
-                            <span class="rarity rarity-${achievement.Rarity}">★ Rarity ${achievement.Rarity}</span>
+                            <h3>${escapeHTML(achievement.Name)}</h3>
+                            <span class="rarity rarity-${rarity}">★ Rarity ${rarity}</span>
                         </div>
                     </div>
-                    <div class="achievement-description">${convertedDescription}</div>
+                    <div class="achievement-description">${escapeHTML(convertedDescription)}</div>
                     <div class="progress-bar">
                         <div class="progress-fill" style="width: ${progress}%"></div>
                         <div class="progress-text">${currentDisplayValue}/${requiredDisplayValue}</div>
@@ -1327,125 +1278,17 @@
         }
 
         function adjustSingleWordTitles() {
+            // Simple function that just handles basic overflow if needed
             setTimeout(() => {
                 const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
-
+                
                 titleElements.forEach(h3 => {
-                    // Reset any previous classes and inline styles
-                    h3.classList.remove('long-word', 'multi-long-words', 'break-long-word');
-                    h3.style.fontSize = '';
-                    h3.style.letterSpacing = '';
-                    h3.style.wordSpacing = '';
-                    h3.innerHTML = h3.textContent; // Reset any HTML modifications
-
-                    const text = h3.textContent.trim();
-                    const words = text.split(/\s+/);
-                    const longestWord = words.reduce((a, b) => a.length > b.length ? a : b, '');
-                    const totalLength = text.replace(/\s/g, '').length;
-                    
-                    // Strategy 1: Analyze the content type
-                    if (words.length === 1) {
-                        // Single word handling
-                        if (text.length > 18) {
-                            // Very long single word - try strategic breaking with invisible characters
-                            h3.classList.add('break-long-word');
-                            
-                            // Add zero-width spaces at natural break points for compound words
-                            let breakableText = text;
-                            
-                            // Common compound word patterns (keeping original case)
-                            breakableText = breakableText.replace(/([a-z])([A-Z])/g, '$1​$2'); // Zero-width space
-                            breakableText = breakableText.replace(/(TRANS)(FORMATION)/gi, '$1​$2');
-                            breakableText = breakableText.replace(/(TRANS)(CENDENT)/gi, '$1​$2');
-                            breakableText = breakableText.replace(/(CONVERSATION)(ALIST)/gi, '$1​$2');
-                            breakableText = breakableText.replace(/(SHAPE)(SHIFTING)/gi, '$1​$2');
-                            breakableText = breakableText.replace(/(EXTRA)(ORDINARY)/gi, '$1​$2');
-                            
-                            // For technical terms or repeated patterns
-                            breakableText = breakableText.replace(/(.{8})(.{4,})/g, '$1​$2'); // Every 8 chars if word is long enough
-                            
-                            if (breakableText !== text) {
-                                h3.innerHTML = breakableText;
-                            }
-                        } else if (text.length > 12) {
-                            // Moderately long single word
-                            h3.classList.add('long-word');
-                        }
-                    } else if (words.length <= 4 && longestWord.length > 10) {
-                        // Short phrase with long words
-                        h3.classList.add('multi-long-words');
-                    } else if (totalLength > 40) {
-                        // Many words, long total length
-                        h3.classList.add('multi-long-words');
+                    // Simple check - if text is overflowing significantly, just add a tooltip
+                    if (h3.scrollWidth > h3.clientWidth * 1.2) {
+                        h3.title = h3.textContent; // Show full text on hover
                     }
-                    
-                    // Strategy 2: Container-based adjustment
-                    // Give browser a moment to render the changes
-                    setTimeout(() => {
-                        const containerWidth = h3.clientWidth;
-                        const scrollWidth = h3.scrollWidth;
-                        
-                        if (scrollWidth > containerWidth * 1.15) { // 15% tolerance
-                            // Still overflowing after class application
-                            
-                            if (words.length === 1 && !h3.classList.contains('break-long-word')) {
-                                // Single word that needs more aggressive breaking
-                                h3.classList.add('break-long-word');
-                                
-                                // More aggressive zero-width space insertion
-                                let aggressiveBreak = text;
-                                // Insert break opportunities every 6-8 characters for very long words
-                                if (text.length > 15) {
-                                    aggressiveBreak = text.replace(/(.{6,8})/g, '$1​');
-                                }
-                                h3.innerHTML = aggressiveBreak;
-                            } else {
-                                // Multi-word overflow - adjust spacing
-                                h3.style.letterSpacing = 'clamp(0.1px, 0.2vw, 0.4px)';
-                                h3.style.wordSpacing = '0.05em';
-                                h3.style.fontSize = 'clamp(0.9rem, 2.1vw, 1.2rem)';
-                            }
-                        }
-                        
-                        // Strategy 3: Final overflow check with tooltip fallback
-                        setTimeout(() => {
-                            if (h3.scrollWidth > h3.clientWidth * 1.2) {
-                                // Extreme case - add tooltip and ensure no layout break
-                                h3.title = `${text} (Full text - click to expand)`;
-                                h3.style.cursor = 'help';
-                                
-                                // Ensure it fits by any means necessary
-                                h3.style.fontSize = 'clamp(0.8rem, 1.8vw, 1.1rem)';
-                                h3.style.letterSpacing = '0.1px';
-                                h3.style.wordSpacing = '0.02em';
-                                
-                                // Click handler to show full text in a subtle way
-                                h3.addEventListener('click', function(e) {
-                                    const originalHTML = this.innerHTML;
-                                    const originalClasses = [...this.classList];
-                                    
-                                    // Temporarily show full text with adjusted styling
-                                    this.style.fontSize = 'clamp(0.7rem, 1.6vw, 0.95rem)';
-                                    this.style.lineHeight = '1';
-                                    this.style.webkitLineClamp = '4';
-                                    this.style.maxHeight = 'calc(1em * 4 + 0.2em)';
-                                    
-                                    // Reset after 3 seconds
-                                    setTimeout(() => {
-                                        this.innerHTML = originalHTML;
-                                        this.className = '';
-                                        originalClasses.forEach(cls => this.classList.add(cls));
-                                        this.style.fontSize = '';
-                                        this.style.lineHeight = '';
-                                        this.style.webkitLineClamp = '3';
-                                        this.style.maxHeight = 'calc(1.1em * 3 + 0.2em)';
-                                    }, 3000);
-                                });
-                            }
-                        }, 50);
-                    }, 50);
                 });
-            }, 250);
+            }, 100);
         }
 
         function setFilter(filter) {
