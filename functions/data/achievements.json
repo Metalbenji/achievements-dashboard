@@ -1264,7 +1264,7 @@
   "users": {
     "rexxyxii": {
       "counters": {
-        "points_spent": 101,
+        "points_spent": 102,
         "special_rewards": 1,
         "chat": 6,
         "effects": 1
@@ -1272,9 +1272,10 @@
       "unlockedAchievements": [
         "weekend_warrior",
         "effect_first",
-        "chat_newbie"
+        "chat_newbie",
+        "first_caller"
       ],
-      "lastUpdated": "2025-06-21T13:18:58Z"
+      "lastUpdated": "2025-06-22T10:46:04Z"
     },
     "flaminjurr": {
       "counters": {
@@ -1743,7 +1744,7 @@
         "points_spent": 30750,
         "interactive": 1,
         "screenshot": 1,
-        "chat": 12,
+        "chat": 13,
         "sounds": 1,
         "follow": 1
       },
@@ -1758,7 +1759,7 @@
         "sound_first",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T10:43:58Z"
+      "lastUpdated": "2025-06-22T10:44:00Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1798,7 +1799,7 @@
       "lastUpdated": "2025-06-21T23:24:59Z"
     }
   },
-  "lastUpdated": "2025-06-22T09:43:59Z",
+  "lastUpdated": "2025-06-22T09:46:05Z",
   "totalUsers": 36,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
