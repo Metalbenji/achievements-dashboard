@@ -1406,7 +1406,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 32,
+        "chat": 33,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1
@@ -1426,7 +1426,8 @@
       "counters": {
         "chat": 62,
         "points_spent": 3100,
-        "interactive": 1
+        "interactive": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1436,9 +1437,10 @@
         "interactive_first",
         "spender_bronze",
         "biggest_fan",
-        "night_owl"
+        "night_owl",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T22:54:03Z"
+      "lastUpdated": "2025-06-22T11:06:24Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1666,10 +1668,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 1750,
+        "points_spent": 2550,
         "follow": 1,
-        "chat": 20,
-        "effects": 2,
+        "chat": 21,
+        "effects": 3,
         "screenshot": 1,
         "sounds": 1
       },
@@ -1683,7 +1685,7 @@
         "spender_bronze",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T11:03:34Z"
+      "lastUpdated": "2025-06-22T11:06:05Z"
     },
     "syn__________": {
       "counters": {
@@ -1817,7 +1819,7 @@
       "lastUpdated": "2025-06-22T10:49:59Z"
     }
   },
-  "lastUpdated": "2025-06-22T10:03:39Z",
+  "lastUpdated": "2025-06-22T10:06:24Z",
   "totalUsers": 37,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
