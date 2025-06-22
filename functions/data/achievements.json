@@ -1744,7 +1744,8 @@
         "interactive": 1,
         "screenshot": 1,
         "chat": 12,
-        "sounds": 1
+        "sounds": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "interactive_first",
@@ -1754,9 +1755,10 @@
         "chat_talker",
         "spender_bronze",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T21:00:41Z"
+      "lastUpdated": "2025-06-22T10:43:58Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1796,7 +1798,7 @@
       "lastUpdated": "2025-06-21T23:24:59Z"
     }
   },
-  "lastUpdated": "2025-06-22T08:59:39Z",
+  "lastUpdated": "2025-06-22T09:43:59Z",
   "totalUsers": 36,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
