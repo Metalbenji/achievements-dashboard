@@ -1929,15 +1929,17 @@
     },
     "gwinniejones": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-22T16:39:13Z"
+      "lastUpdated": "2025-06-22T16:39:14Z"
     }
   },
-  "lastUpdated": "2025-06-22T15:39:13Z",
+  "lastUpdated": "2025-06-22T15:39:14Z",
   "totalUsers": 46,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
