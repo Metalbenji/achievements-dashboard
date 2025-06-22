@@ -1382,7 +1382,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "points_spent": 1100,
         "effects": 2,
         "follow": 1
@@ -1392,9 +1392,10 @@
         "effect_first",
         "spender_bronze",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T13:00:47Z"
+      "lastUpdated": "2025-06-22T13:38:54Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1740,7 +1741,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 229,
+        "chat": 238,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1754,7 +1755,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-22T12:32:47Z"
+      "lastUpdated": "2025-06-22T13:38:30Z"
     },
     "metalbenji": {
       "counters": {
@@ -1865,7 +1866,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1873,10 +1874,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T13:04:45Z"
+      "lastUpdated": "2025-06-22T13:38:36Z"
     }
   },
-  "lastUpdated": "2025-06-22T12:04:45Z",
+  "lastUpdated": "2025-06-22T12:38:54Z",
   "totalUsers": 41,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
