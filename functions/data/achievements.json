@@ -1733,7 +1733,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 213,
+        "chat": 214,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1747,7 +1747,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-22T11:10:23Z"
+      "lastUpdated": "2025-06-22T11:10:47Z"
     },
     "metalbenji": {
       "counters": {
@@ -1819,10 +1819,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-22T10:49:59Z"
+    },
+    "mistifi_": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-22T11:15:28Z"
     }
   },
-  "lastUpdated": "2025-06-22T10:10:33Z",
-  "totalUsers": 37,
+  "lastUpdated": "2025-06-22T10:15:28Z",
+  "totalUsers": 38,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
