@@ -405,17 +405,43 @@
         }
 
         .achievement-info h3 {
-            font-size: clamp(1.2rem, 3vw, 1.5rem);
+            font-size: clamp(1.1rem, 2.8vw, 1.4rem);
             margin-bottom: 8px;
             color: var(--neon-blue);
             font-weight: 900;
             text-transform: uppercase;
-            letter-spacing: 1px;
+            letter-spacing: clamp(0.5px, 0.5vw, 1px);
             text-shadow: 0 0 15px rgba(0, 212, 255, 0.8);
             font-family: 'Orbitron', monospace;
             overflow-wrap: break-word;
             word-wrap: break-word;
-            line-height: 1.2;
+            hyphens: auto;
+            line-height: 1.1;
+            /* Smart text handling */
+            display: -webkit-box;
+            -webkit-line-clamp: 3; /* Allow up to 3 lines */
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            /* Prevent awkward single word lines */
+            text-wrap: pretty; /* Modern browsers */
+            word-break: break-word;
+            /* Better spacing for multi-line titles */
+            max-height: calc(1.1em * 3 + 0.2em); /* 3 lines + small buffer */
+        }
+        
+        /* Specific handling for very long single words */
+        .achievement-info h3.long-word {
+            font-size: clamp(0.9rem, 2.2vw, 1.2rem);
+            letter-spacing: clamp(0.2px, 0.3vw, 0.5px);
+            text-transform: none; /* Remove uppercase for readability */
+            word-break: break-all; /* Break long words if necessary */
+        }
+        
+        /* Special class for compound words that should break intelligently */
+        .achievement-info h3.compound-word {
+            font-size: clamp(1rem, 2.5vw, 1.3rem);
+            text-transform: capitalize; /* Better than all caps for long compound words */
+            word-spacing: 0.1em; /* Add slight spacing between words */
         }
 
         .achievement-card.unlocked .achievement-info h3 {
@@ -730,6 +756,57 @@
             color: #ff6b6b;
             animation: heartbeat 1.5s ease-in-out infinite;
             font-size: 0.9rem;
+        }
+
+        /* Add some additional responsive typography utilities */
+        
+        /* Better handling for mobile portrait mode */
+        @media (max-width: 480px) and (orientation: portrait) {
+            .achievement-info h3 {
+                font-size: clamp(1rem, 4vw, 1.2rem);
+                line-height: 1.05;
+                -webkit-line-clamp: 2; /* Limit to 2 lines on small screens */
+                max-height: calc(1.05em * 2 + 0.1em);
+            }
+            
+            .achievement-card {
+                padding: clamp(15px, 5vw, 20px);
+            }
+            
+            .achievement-header {
+                gap: clamp(10px, 3vw, 12px);
+            }
+            
+            .achievement-icon {
+                font-size: clamp(2.5rem, 8vw, 3.5rem);
+            }
+        }
+        
+        /* Better handling for landscape mobile and small tablets */
+        @media (max-height: 600px) and (orientation: landscape) {
+            .achievement-info h3 {
+                font-size: clamp(0.9rem, 2.5vw, 1.1rem);
+                line-height: 1;
+                margin-bottom: 6px;
+                -webkit-line-clamp: 2;
+                max-height: calc(1em * 2 + 0.1em);
+            }
+        }
+        
+        /* Enhanced support for CSS that might not be available in all browsers */
+        @supports not (text-wrap: balance) {
+            .achievement-info h3 {
+                /* Fallback for browsers without text-wrap support */
+                word-spacing: 0.1em;
+            }
+        }
+        
+        @supports not (text-wrap: pretty) {
+            .achievement-info h3 {
+                /* Enhanced word breaking for older browsers */
+                word-break: break-word;
+                overflow-wrap: anywhere;
+            }
         }
 
         /* Print styles */
@@ -1247,43 +1324,78 @@
         function adjustSingleWordTitles() {
             setTimeout(() => {
                 const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
-                const minFontSize = 10;
-                const step = 0.5;
 
                 titleElements.forEach(h3 => {
+                    // Reset any previous classes and inline styles
+                    h3.classList.remove('long-word', 'compound-word');
                     h3.style.fontSize = '';
+                    h3.style.textTransform = '';
+                    h3.style.letterSpacing = '';
 
                     const text = h3.textContent.trim();
-                    const isSingleWord = text.indexOf(' ') === -1;
-                    const keywordsToShrink = ['transformation', 'transcendent'];
-                    const containsShrinkKeyword = keywordsToShrink.some(keyword => text.toLowerCase().includes(keyword));
-
-                    if (isSingleWord || containsShrinkKeyword) {
-                        const originalComputedStyle = window.getComputedStyle(h3);
-                        let currentFontSize = parseFloat(originalComputedStyle.fontSize);
-
-                        const originalInlineWhiteSpace = h3.style.whiteSpace;
-
-                        h3.style.whiteSpace = 'nowrap';
-
-                        if (h3.scrollWidth > h3.clientWidth) {
-                            while (h3.scrollWidth > h3.clientWidth && currentFontSize > minFontSize) {
-                                currentFontSize -= step;
-                                if (currentFontSize < minFontSize) {
-                                    currentFontSize = minFontSize;
-                                }
-                                h3.style.fontSize = `${currentFontSize}px`;
-
-                                if (currentFontSize === minFontSize && h3.scrollWidth > h3.clientWidth) {
-                                    break;
-                                }
-                            }
+                    const words = text.split(/\s+/);
+                    const longestWord = words.reduce((a, b) => a.length > b.length ? a : b, '');
+                    
+                    // Categorize the title type
+                    if (words.length === 1 && text.length > 20) {
+                        // Very long single word
+                        h3.classList.add('long-word');
+                        
+                        // Try to add soft breaks for compound words
+                        if (/[A-Z]/.test(text.slice(1))) { // Has capitals after first letter (camelCase/PascalCase)
+                            const breakableText = text.replace(/([a-z])([A-Z])/g, '$1<wbr>$2');
+                            h3.innerHTML = breakableText;
                         }
-
-                        h3.style.whiteSpace = originalInlineWhiteSpace;
+                    } else if (words.length <= 3 && longestWord.length > 12) {
+                        // Short phrase with long words
+                        h3.classList.add('compound-word');
+                    } else if (words.length > 4) {
+                        // Many words - use better line breaking
+                        h3.style.textWrap = 'balance'; // Modern browsers
+                        h3.style.lineHeight = '1.05';
+                    }
+                    
+                    // Special cases for common problematic words
+                    const problematicWords = [
+                        'transformation', 'transcendent', 'conversationalist', 
+                        'shapeshifting', 'revolutionary', 'extraordinary'
+                    ];
+                    
+                    if (problematicWords.some(word => text.toLowerCase().includes(word))) {
+                        h3.classList.add('compound-word');
+                        
+                        // Add word break opportunities for these specific long words
+                        let adjustedText = text;
+                        adjustedText = adjustedText.replace(/transformation/gi, 'trans<wbr>formation');
+                        adjustedText = adjustedText.replace(/transcendent/gi, 'trans<wbr>cendent');
+                        adjustedText = adjustedText.replace(/conversationalist/gi, 'conversation<wbr>alist');
+                        adjustedText = adjustedText.replace(/shapeshifting/gi, 'shape<wbr>shifting');
+                        adjustedText = adjustedText.replace(/revolutionary/gi, 'revolu<wbr>tionary');
+                        adjustedText = adjustedText.replace(/extraordinary/gi, 'extra<wbr>ordinary');
+                        
+                        if (adjustedText !== text) {
+                            h3.innerHTML = adjustedText;
+                        }
+                    }
+                    
+                    // Final check: if still overflowing, apply emergency measures
+                    const containerWidth = h3.parentElement.clientWidth;
+                    if (h3.scrollWidth > containerWidth * 1.1) { // 10% tolerance
+                        h3.style.fontSize = 'clamp(0.8rem, 2vw, 1.1rem)';
+                        h3.style.letterSpacing = '0.3px';
+                        h3.style.lineHeight = '1';
+                        
+                        // For extreme cases, add ellipsis as last resort
+                        if (h3.scrollWidth > containerWidth * 1.3) {
+                            h3.style.display = '-webkit-box';
+                            h3.style.webkitLineClamp = '2';
+                            h3.style.webkitBoxOrient = 'vertical';
+                            h3.style.overflow = 'hidden';
+                            h3.title = text; // Show full text on hover
+                        }
                     }
                 });
-            }, 200);
+            }, 250); // Slightly longer timeout for layout settling
         }
 
         function setFilter(filter) {
