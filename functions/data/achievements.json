@@ -1471,7 +1471,7 @@
       "counters": {
         "points_spent": 2100,
         "effects": 2,
-        "chat": 12,
+        "chat": 16,
         "sounds": 1,
         "follow": 1
       },
@@ -1484,7 +1484,7 @@
         "sound_first",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T11:36:18Z"
+      "lastUpdated": "2025-06-22T11:38:00Z"
     },
     "hairypawter": {
       "counters": {
@@ -1737,7 +1737,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 219,
+        "chat": 221,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1751,7 +1751,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-22T11:34:54Z"
+      "lastUpdated": "2025-06-22T11:36:54Z"
     },
     "metalbenji": {
       "counters": {
@@ -1838,18 +1838,27 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-22T11:34:56Z"
+      "lastUpdated": "2025-06-22T11:39:28Z"
+    },
+    "qyainiana": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-22T11:43:00Z"
     }
   },
-  "lastUpdated": "2025-06-22T10:36:18Z",
-  "totalUsers": 39,
+  "lastUpdated": "2025-06-22T10:43:00Z",
+  "totalUsers": 40,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
