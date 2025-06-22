@@ -1325,7 +1325,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 102,
+        "chat": 106,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1339,7 +1339,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-06-22T12:00:35Z"
+      "lastUpdated": "2025-06-22T12:32:27Z"
     },
     "celran": {
       "counters": {
@@ -1382,7 +1382,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 7,
+        "chat": 8,
         "points_spent": 1100,
         "effects": 2,
         "follow": 1
@@ -1473,7 +1473,7 @@
       "counters": {
         "points_spent": 2100,
         "effects": 2,
-        "chat": 16,
+        "chat": 19,
         "sounds": 1,
         "follow": 1
       },
@@ -1486,7 +1486,7 @@
         "sound_first",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T11:38:00Z"
+      "lastUpdated": "2025-06-22T12:32:59Z"
     },
     "hairypawter": {
       "counters": {
@@ -1739,7 +1739,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 223,
+        "chat": 229,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1753,7 +1753,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-22T12:17:05Z"
+      "lastUpdated": "2025-06-22T12:32:47Z"
     },
     "metalbenji": {
       "counters": {
@@ -1840,14 +1840,15 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T11:39:28Z"
+      "lastUpdated": "2025-06-22T12:35:25Z"
     },
     "qyainiana": {
       "counters": {
@@ -1861,7 +1862,7 @@
       "lastUpdated": "2025-06-22T11:43:45Z"
     }
   },
-  "lastUpdated": "2025-06-22T11:17:08Z",
+  "lastUpdated": "2025-06-22T11:35:25Z",
   "totalUsers": 40,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
