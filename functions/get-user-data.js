@@ -11,27 +11,35 @@ exports.handler = async (event, context) => {
     const rawData = fs.readFileSync(dataPath, 'utf8');
     console.log("File read successfully");
     
-    const data = JSON.parse(rawData);
-    console.log("Data parsed successfully, entries:", Object.keys(data).length);
+    const fullData = JSON.parse(rawData);
+    console.log("Data parsed successfully");
     
-    // Debug: Log all usernames in the data
-    const usernames = Object.keys(data);
-    console.log("All usernames in data:", usernames);
-    
-    // Debug: Log a sample entry structure
-    if (usernames.length > 0) {
-      const firstUser = usernames[0];
-      console.log("Sample user structure:", firstUser, "->", JSON.stringify(data[firstUser], null, 2));
+    // Check if the file has the expected structure
+    if (fullData.users) {
+      console.log("Found users section with", Object.keys(fullData.users).length, "users");
+      console.log("Usernames:", Object.keys(fullData.users));
+      
+      // Return only the users section so frontend can access data[username] directly
+      return {
+        statusCode: 200,
+        headers: {
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+        },
+        body: JSON.stringify(fullData.users)
+      };
+    } else {
+      // Fallback: if no users section, return the full data
+      console.log("No users section found, returning full data");
+      return {
+        statusCode: 200,
+        headers: {
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+        },
+        body: JSON.stringify(fullData)
+      };
     }
-    
-    return {
-      statusCode: 200,
-      headers: {
-        'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': '*',
-      },
-      body: JSON.stringify(data)
-    };
     
   } catch (error) {
     console.error("Function error:", error);
