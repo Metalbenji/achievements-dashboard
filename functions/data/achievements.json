@@ -1267,15 +1267,17 @@
         "points_spent": 102,
         "special_rewards": 1,
         "chat": 6,
-        "effects": 1
+        "effects": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "effect_first",
         "chat_newbie",
-        "first_caller"
+        "first_caller",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T10:46:04Z"
+      "lastUpdated": "2025-06-22T10:46:16Z"
     },
     "flaminjurr": {
       "counters": {
@@ -1641,7 +1643,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 31,
+        "chat": 32,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1655,7 +1657,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T21:46:03Z"
+      "lastUpdated": "2025-06-22T10:46:08Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -1799,7 +1801,7 @@
       "lastUpdated": "2025-06-21T23:24:59Z"
     }
   },
-  "lastUpdated": "2025-06-22T09:46:05Z",
+  "lastUpdated": "2025-06-22T09:46:16Z",
   "totalUsers": 36,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
