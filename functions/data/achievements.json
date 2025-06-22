@@ -1408,7 +1408,8 @@
       "counters": {
         "chat": 32,
         "points_spent": 350,
-        "screenshot": 1
+        "screenshot": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1416,9 +1417,10 @@
         "chat_talker",
         "chat_conversationalist",
         "screenshot_first",
-        "night_owl"
+        "night_owl",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T22:53:43Z"
+      "lastUpdated": "2025-06-22T11:03:39Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1666,7 +1668,7 @@
       "counters": {
         "points_spent": 1750,
         "follow": 1,
-        "chat": 17,
+        "chat": 20,
         "effects": 2,
         "screenshot": 1,
         "sounds": 1
@@ -1681,7 +1683,7 @@
         "spender_bronze",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T10:59:49Z"
+      "lastUpdated": "2025-06-22T11:03:34Z"
     },
     "syn__________": {
       "counters": {
@@ -1728,7 +1730,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 207,
+        "chat": 208,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1742,7 +1744,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-22T10:59:11Z"
+      "lastUpdated": "2025-06-22T11:02:01Z"
     },
     "metalbenji": {
       "counters": {
@@ -1815,7 +1817,7 @@
       "lastUpdated": "2025-06-22T10:49:59Z"
     }
   },
-  "lastUpdated": "2025-06-22T10:00:27Z",
+  "lastUpdated": "2025-06-22T10:03:39Z",
   "totalUsers": 37,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
