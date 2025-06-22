@@ -1325,7 +1325,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 97,
+        "chat": 100,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1336,9 +1336,10 @@
         "follow_supporter",
         "spender_bronze",
         "vip_dreamer",
-        "night_owl"
+        "night_owl",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-06-21T22:18:04Z"
+      "lastUpdated": "2025-06-22T11:10:32Z"
     },
     "celran": {
       "counters": {
@@ -1650,7 +1651,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 33,
+        "chat": 34,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1664,7 +1665,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-22T10:57:45Z"
+      "lastUpdated": "2025-06-22T11:09:49Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -1732,7 +1733,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 210,
+        "chat": 213,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1746,7 +1747,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-22T11:07:46Z"
+      "lastUpdated": "2025-06-22T11:10:23Z"
     },
     "metalbenji": {
       "counters": {
@@ -1820,7 +1821,7 @@
       "lastUpdated": "2025-06-22T10:49:59Z"
     }
   },
-  "lastUpdated": "2025-06-22T10:08:05Z",
+  "lastUpdated": "2025-06-22T10:10:33Z",
   "totalUsers": 37,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
