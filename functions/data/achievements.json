@@ -1661,7 +1661,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 35,
+        "chat": 37,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1675,7 +1675,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-22T17:28:04Z"
+      "lastUpdated": "2025-06-22T17:39:35Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -1767,7 +1767,8 @@
         "screenshot": 1,
         "chat": 13,
         "sounds": 1,
-        "follow": 1
+        "follow": 1,
+        "sub": 4
       },
       "unlockedAchievements": [
         "interactive_first",
@@ -1778,9 +1779,10 @@
         "spender_bronze",
         "spender_silver",
         "sound_first",
-        "follow_supporter"
+        "follow_supporter",
+        "sub_first_month"
       ],
-      "lastUpdated": "2025-06-22T10:44:00Z"
+      "lastUpdated": "2025-06-22T18:18:34Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1949,7 +1951,7 @@
       "lastUpdated": "2025-06-22T17:35:53Z"
     }
   },
-  "lastUpdated": "2025-06-22T16:35:53Z",
+  "lastUpdated": "2025-06-22T17:18:34Z",
   "totalUsers": 47,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
