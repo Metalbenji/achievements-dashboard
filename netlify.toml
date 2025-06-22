@@ -1,6 +1,8 @@
-# This is the Netlify configuration file.
-
 [functions]
-  # This tells Netlify to include your data file in the function's deployment package.
-  # The path is relative to the root of your project.
-   included_files = ["data/achievements.json"]
+  # Directory with serverless functions, including background
+  # functions, to deploy. This is relative to the base directory
+  # if one has been set, or the root directory if
+  # a base hasn't been set.
+  directory = "functions/"
+  # Include all files in the data folder within functions
+  included_files = ["functions/data/**"]
