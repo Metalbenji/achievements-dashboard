@@ -1325,7 +1325,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 126,
+        "chat": 127,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1339,7 +1339,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-06-22T15:54:30Z"
+      "lastUpdated": "2025-06-22T15:58:05Z"
     },
     "celran": {
       "counters": {
@@ -1450,7 +1450,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 6,
+        "chat": 7,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1459,7 +1459,7 @@
         "chat_newbie",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T15:57:18Z"
+      "lastUpdated": "2025-06-22T15:57:20Z"
     },
     "scoman07": {
       "counters": {
@@ -1681,7 +1681,7 @@
       "counters": {
         "points_spent": 2550,
         "follow": 1,
-        "chat": 23,
+        "chat": 25,
         "effects": 3,
         "screenshot": 1,
         "sounds": 1
@@ -1694,9 +1694,10 @@
         "screenshot_first",
         "sound_first",
         "spender_bronze",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-22T11:18:30Z"
+      "lastUpdated": "2025-06-22T16:00:55Z"
     },
     "syn__________": {
       "counters": {
@@ -1743,7 +1744,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 264,
+        "chat": 267,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1757,7 +1758,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-22T15:55:25Z"
+      "lastUpdated": "2025-06-22T16:00:55Z"
     },
     "metalbenji": {
       "counters": {
@@ -1896,7 +1897,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1904,7 +1905,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T15:55:23Z"
+      "lastUpdated": "2025-06-22T16:00:18Z"
     },
     "umenneske94": {
       "counters": {
@@ -1918,7 +1919,7 @@
       "lastUpdated": "2025-06-22T15:35:31Z"
     }
   },
-  "lastUpdated": "2025-06-22T14:57:18Z",
+  "lastUpdated": "2025-06-22T15:00:56Z",
   "totalUsers": 44,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
