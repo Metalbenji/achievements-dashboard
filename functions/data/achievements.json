@@ -1325,7 +1325,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 130,
+        "chat": 133,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1339,7 +1339,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-06-22T16:22:00Z"
+      "lastUpdated": "2025-06-22T17:28:49Z"
     },
     "celran": {
       "counters": {
@@ -1450,7 +1450,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 7,
+        "chat": 9,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1459,7 +1459,7 @@
         "chat_newbie",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T15:57:20Z"
+      "lastUpdated": "2025-06-22T16:45:08Z"
     },
     "scoman07": {
       "counters": {
@@ -1661,7 +1661,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 34,
+        "chat": 35,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1675,13 +1675,13 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-22T11:09:49Z"
+      "lastUpdated": "2025-06-22T17:28:04Z"
     },
     "oxmacerxo": {
       "counters": {
         "points_spent": 2550,
         "follow": 1,
-        "chat": 26,
+        "chat": 27,
         "effects": 3,
         "screenshot": 1,
         "sounds": 1
@@ -1697,7 +1697,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-22T16:23:15Z"
+      "lastUpdated": "2025-06-22T16:42:30Z"
     },
     "syn__________": {
       "counters": {
@@ -1897,7 +1897,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 18
+        "chat": 20
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1905,7 +1905,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T16:00:18Z"
+      "lastUpdated": "2025-06-22T17:01:47Z"
     },
     "umenneske94": {
       "counters": {
@@ -1938,10 +1938,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-06-22T16:40:02Z"
+    },
+    "ppjackson69": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-22T17:35:53Z"
     }
   },
-  "lastUpdated": "2025-06-22T15:40:03Z",
-  "totalUsers": 46,
+  "lastUpdated": "2025-06-22T16:35:53Z",
+  "totalUsers": 47,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
