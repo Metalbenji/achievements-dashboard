@@ -1266,7 +1266,7 @@
       "counters": {
         "points_spent": 102,
         "special_rewards": 1,
-        "chat": 6,
+        "chat": 7,
         "effects": 1,
         "follow": 1
       },
@@ -1294,15 +1294,17 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 6,
-        "points_spent": 2300
+        "chat": 7,
+        "points_spent": 2300,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "spender_bronze",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T13:18:40Z"
+      "lastUpdated": "2025-06-22T10:49:34Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1799,10 +1801,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-21T23:24:59Z"
+    },
+    "insidematt": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-22T10:49:58Z"
     }
   },
-  "lastUpdated": "2025-06-22T09:46:16Z",
-  "totalUsers": 36,
+  "lastUpdated": "2025-06-22T09:49:58Z",
+  "totalUsers": 37,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
