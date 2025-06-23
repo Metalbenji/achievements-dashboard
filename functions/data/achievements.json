@@ -1962,7 +1962,7 @@
         "points_spent": 800,
         "effects": 1,
         "follow": 1,
-        "chat": 12,
+        "chat": 13,
         "sub": 23
       },
       "unlockedAchievements": [
@@ -1979,11 +1979,20 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-23T18:50:39Z"
+      "lastUpdated": "2025-06-23T18:51:08Z"
+    },
+    "cheerfulprophet": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-23T18:51:14Z"
     }
   },
-  "lastUpdated": "2025-06-23T17:51:04Z",
-  "totalUsers": 48,
+  "lastUpdated": "2025-06-23T17:51:14Z",
+  "totalUsers": 49,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
