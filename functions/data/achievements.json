@@ -1563,14 +1563,14 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-23T20:37:32Z"
+      "lastUpdated": "2025-06-23T20:54:20Z"
     },
     "adammmidders": {
       "counters": {
@@ -1636,8 +1636,8 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 18,
-        "points_spent": 501,
+        "chat": 23,
+        "points_spent": 1001,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -1646,9 +1646,10 @@
         "interactive_first",
         "chat_newbie",
         "chat_talker",
-        "first_caller"
+        "first_caller",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-23T20:39:15Z"
+      "lastUpdated": "2025-06-23T20:58:31Z"
     },
     "redunt86": {
       "counters": {
@@ -1992,7 +1993,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 20,
+        "chat": 22,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2002,10 +2003,10 @@
         "bits_tiny",
         "bits_small"
       ],
-      "lastUpdated": "2025-06-23T20:40:21Z"
+      "lastUpdated": "2025-06-23T20:56:38Z"
     }
   },
-  "lastUpdated": "2025-06-23T19:40:21Z",
+  "lastUpdated": "2025-06-23T19:58:31Z",
   "totalUsers": 49,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
