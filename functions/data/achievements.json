@@ -1635,7 +1635,7 @@
       "counters": {
         "follow": 1,
         "chat": 10,
-        "points_spent": 500,
+        "points_spent": 501,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -1643,9 +1643,10 @@
         "weekend_warrior",
         "interactive_first",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "first_caller"
       ],
-      "lastUpdated": "2025-06-23T20:22:25Z"
+      "lastUpdated": "2025-06-23T20:22:43Z"
     },
     "redunt86": {
       "counters": {
@@ -1999,7 +2000,7 @@
       "lastUpdated": "2025-06-23T19:33:18Z"
     }
   },
-  "lastUpdated": "2025-06-23T19:22:25Z",
+  "lastUpdated": "2025-06-23T19:22:43Z",
   "totalUsers": 49,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
