@@ -1952,10 +1952,20 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-22T17:35:53Z"
+    },
+    "loopylolly": {
+      "counters": {
+        "points_spent": 800,
+        "effects": 1
+      },
+      "unlockedAchievements": [
+        "effect_first"
+      ],
+      "lastUpdated": "2025-06-23T18:45:19Z"
     }
   },
-  "lastUpdated": "2025-06-22T17:18:37Z",
-  "totalUsers": 47,
+  "lastUpdated": "2025-06-23T17:45:20Z",
+  "totalUsers": 48,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
