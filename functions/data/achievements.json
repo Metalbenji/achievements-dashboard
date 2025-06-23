@@ -1850,7 +1850,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 18,
+        "chat": 21,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -1858,9 +1858,10 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "spender_bronze"
+        "spender_bronze",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-06-23T18:47:05Z"
+      "lastUpdated": "2025-06-23T18:49:21Z"
     },
     "qyainiana": {
       "counters": {
@@ -1960,7 +1961,7 @@
         "points_spent": 800,
         "effects": 1,
         "follow": 1,
-        "chat": 6,
+        "chat": 10,
         "sub": 23
       },
       "unlockedAchievements": [
@@ -1974,12 +1975,13 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-23T18:47:02Z"
+      "lastUpdated": "2025-06-23T18:49:43Z"
     }
   },
-  "lastUpdated": "2025-06-23T17:47:05Z",
+  "lastUpdated": "2025-06-23T17:49:43Z",
   "totalUsers": 48,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
