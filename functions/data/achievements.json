@@ -1562,13 +1562,13 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-23T18:51:59Z"
+      "lastUpdated": "2025-06-23T19:42:56Z"
     },
     "adammmidders": {
       "counters": {
@@ -1728,18 +1728,20 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 19,
-        "points_spent": 500,
-        "sounds": 1
+        "chat": 20,
+        "points_spent": 600,
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "sound_first"
+        "sound_first",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-21T21:36:56Z"
+      "lastUpdated": "2025-06-23T19:48:39Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -1984,17 +1986,17 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-23T19:20:11Z"
+      "lastUpdated": "2025-06-23T19:33:18Z"
     }
   },
-  "lastUpdated": "2025-06-23T18:20:11Z",
+  "lastUpdated": "2025-06-23T18:48:39Z",
   "totalUsers": 49,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
