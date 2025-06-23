@@ -1562,13 +1562,13 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-21T17:18:35Z"
+      "lastUpdated": "2025-06-23T18:51:59Z"
     },
     "adammmidders": {
       "counters": {
@@ -1962,7 +1962,7 @@
         "points_spent": 800,
         "effects": 1,
         "follow": 1,
-        "chat": 13,
+        "chat": 15,
         "sub": 23
       },
       "unlockedAchievements": [
@@ -1979,19 +1979,21 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-23T18:51:08Z"
+      "lastUpdated": "2025-06-23T18:53:23Z"
     },
     "cheerfulprophet": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-23T18:51:14Z"
+      "lastUpdated": "2025-06-23T19:02:37Z"
     }
   },
-  "lastUpdated": "2025-06-23T17:51:14Z",
+  "lastUpdated": "2025-06-23T18:02:37Z",
   "totalUsers": 49,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
