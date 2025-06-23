@@ -1476,7 +1476,7 @@
       "counters": {
         "points_spent": 2100,
         "effects": 2,
-        "chat": 21,
+        "chat": 25,
         "sounds": 1,
         "follow": 1
       },
@@ -1487,9 +1487,10 @@
         "chat_newbie",
         "chat_talker",
         "sound_first",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-23T20:21:48Z"
+      "lastUpdated": "2025-06-23T20:39:11Z"
     },
     "hairypawter": {
       "counters": {
@@ -1772,7 +1773,7 @@
         "points_spent": 30750,
         "interactive": 1,
         "screenshot": 1,
-        "chat": 13,
+        "chat": 14,
         "sounds": 1,
         "follow": 1,
         "sub": 4
@@ -1792,7 +1793,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-06-22T18:18:34Z"
+      "lastUpdated": "2025-06-23T20:38:03Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1991,17 +1992,17 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 19
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-23T20:36:54Z"
+      "lastUpdated": "2025-06-23T20:39:06Z"
     }
   },
-  "lastUpdated": "2025-06-23T19:37:32Z",
+  "lastUpdated": "2025-06-23T19:39:12Z",
   "totalUsers": 49,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
