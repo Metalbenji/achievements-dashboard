@@ -1956,15 +1956,17 @@
     "loopylolly": {
       "counters": {
         "points_spent": 800,
-        "effects": 1
+        "effects": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "effect_first"
+        "effect_first",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-23T18:45:19Z"
+      "lastUpdated": "2025-06-23T18:45:23Z"
     }
   },
-  "lastUpdated": "2025-06-23T17:45:20Z",
+  "lastUpdated": "2025-06-23T17:45:23Z",
   "totalUsers": 48,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
