@@ -1958,7 +1958,7 @@
         "points_spent": 800,
         "effects": 1,
         "follow": 1,
-        "chat": 1,
+        "chat": 5,
         "sub": 23
       },
       "unlockedAchievements": [
@@ -1970,12 +1970,14 @@
         "sub_dedicated",
         "sub_committed",
         "sub_veteran",
-        "sub_champion"
+        "sub_champion",
+        "sub_platinum",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-23T18:46:03Z"
+      "lastUpdated": "2025-06-23T18:47:00Z"
     }
   },
-  "lastUpdated": "2025-06-23T17:46:07Z",
+  "lastUpdated": "2025-06-23T17:47:01Z",
   "totalUsers": 48,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
