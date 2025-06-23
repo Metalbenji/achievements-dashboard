@@ -2017,10 +2017,12 @@
     },
     "devinespiritgm": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
       "lastUpdated": "2025-06-23T22:04:18Z"
     }
