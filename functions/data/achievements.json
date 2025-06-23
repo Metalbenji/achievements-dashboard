@@ -1266,7 +1266,7 @@
       "counters": {
         "points_spent": 102,
         "special_rewards": 1,
-        "chat": 7,
+        "chat": 8,
         "effects": 1,
         "follow": 1
       },
@@ -1277,7 +1277,7 @@
         "first_caller",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T10:46:16Z"
+      "lastUpdated": "2025-06-23T21:51:28Z"
     },
     "flaminjurr": {
       "counters": {
@@ -1592,7 +1592,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 26
+        "chat": 29
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1601,7 +1601,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-21T17:50:42Z"
+      "lastUpdated": "2025-06-23T21:54:00Z"
     },
     "anzerou": {
       "counters": {
@@ -1638,7 +1638,7 @@
         "follow": 1,
         "chat": 23,
         "points_spent": 1001,
-        "interactive": 1
+        "interactive": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1649,7 +1649,7 @@
         "first_caller",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-06-23T20:58:31Z"
+      "lastUpdated": "2025-06-23T20:58:32Z"
     },
     "redunt86": {
       "counters": {
@@ -1753,7 +1753,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 277,
+        "chat": 284,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1767,7 +1767,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-23T19:51:50Z"
+      "lastUpdated": "2025-06-23T21:38:27Z"
     },
     "metalbenji": {
       "counters": {
@@ -1938,12 +1938,12 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-22T16:20:53Z"
+      "lastUpdated": "2025-06-23T21:32:46Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2004,10 +2004,19 @@
         "bits_small"
       ],
       "lastUpdated": "2025-06-23T20:56:38Z"
+    },
+    "chevelletv": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-23T21:56:56Z"
     }
   },
-  "lastUpdated": "2025-06-23T19:58:31Z",
-  "totalUsers": 49,
+  "lastUpdated": "2025-06-23T20:56:56Z",
+  "totalUsers": 50,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
