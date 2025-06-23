@@ -1476,7 +1476,7 @@
       "counters": {
         "points_spent": 2100,
         "effects": 2,
-        "chat": 25,
+        "chat": 29,
         "sounds": 1,
         "follow": 1
       },
@@ -1490,7 +1490,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-23T20:39:11Z"
+      "lastUpdated": "2025-06-23T20:39:37Z"
     },
     "hairypawter": {
       "counters": {
@@ -1636,7 +1636,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 17,
+        "chat": 18,
         "points_spent": 501,
         "interactive": 1
       },
@@ -1648,7 +1648,7 @@
         "chat_talker",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-23T20:29:29Z"
+      "lastUpdated": "2025-06-23T20:39:15Z"
     },
     "redunt86": {
       "counters": {
@@ -1992,17 +1992,20 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 20,
+        "bits": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "bits_tiny",
+        "bits_small"
       ],
-      "lastUpdated": "2025-06-23T20:39:06Z"
+      "lastUpdated": "2025-06-23T20:40:21Z"
     }
   },
-  "lastUpdated": "2025-06-23T19:39:12Z",
+  "lastUpdated": "2025-06-23T19:40:21Z",
   "totalUsers": 49,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
