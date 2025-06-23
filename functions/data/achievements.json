@@ -1968,12 +1968,14 @@
         "sub_supporter",
         "sub_loyal",
         "sub_dedicated",
-        "sub_committed"
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion"
       ],
       "lastUpdated": "2025-06-23T18:46:03Z"
     }
   },
-  "lastUpdated": "2025-06-23T17:46:06Z",
+  "lastUpdated": "2025-06-23T17:46:07Z",
   "totalUsers": 48,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
