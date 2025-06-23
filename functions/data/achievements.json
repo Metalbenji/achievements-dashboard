@@ -1753,7 +1753,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 284,
+        "chat": 295,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1767,7 +1767,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-06-23T21:38:27Z"
+      "lastUpdated": "2025-06-23T22:04:02Z"
     },
     "metalbenji": {
       "counters": {
@@ -2007,16 +2007,26 @@
     },
     "chevelletv": {
       "counters": {
+        "follow": 1,
+        "chat": 3
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-23T21:57:12Z"
+    },
+    "devinespiritgm": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-23T21:56:56Z"
+      "lastUpdated": "2025-06-23T22:04:18Z"
     }
   },
-  "lastUpdated": "2025-06-23T20:56:56Z",
-  "totalUsers": 50,
+  "lastUpdated": "2025-06-23T21:04:18Z",
+  "totalUsers": 51,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
