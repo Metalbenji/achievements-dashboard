@@ -2030,16 +2030,27 @@
     },
     "bludshed187": {
       "counters": {
+        "follow": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T08:25:03Z"
+    },
+    "mistycal_eu": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T08:25:02Z"
+      "lastUpdated": "2025-06-28T08:25:15Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:25:03Z",
-  "totalUsers": 52,
+  "lastUpdated": "2025-06-28T07:25:15Z",
+  "totalUsers": 53,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
