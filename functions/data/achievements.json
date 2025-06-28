@@ -1290,7 +1290,7 @@
     },
     "flaminjurr": {
       "counters": {
-        "chat": 17,
+        "chat": 19,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1299,7 +1299,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T11:50:54Z"
+      "lastUpdated": "2025-06-28T15:36:52Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1767,7 +1767,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 348,
+        "chat": 349,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1782,7 +1782,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T15:33:41Z"
+      "lastUpdated": "2025-06-28T15:39:19Z"
     },
     "metalbenji": {
       "counters": {
@@ -1863,7 +1863,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1871,7 +1871,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T15:34:02Z"
+      "lastUpdated": "2025-06-28T15:38:01Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2061,8 +2061,8 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 12,
-        "points_spent": 850,
+        "chat": 13,
+        "points_spent": 1050,
         "sounds": 1,
         "effects": 1
       },
@@ -2072,9 +2072,10 @@
         "chat_newbie",
         "sound_first",
         "chat_talker",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-28T15:19:47Z"
+      "lastUpdated": "2025-06-28T15:42:59Z"
     },
     "andilippi": {
       "counters": {
@@ -2308,7 +2309,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T14:34:02Z",
+  "lastUpdated": "2025-06-28T14:43:00Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
