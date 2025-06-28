@@ -2247,7 +2247,8 @@
     },
     "djindjarinttv": {
       "counters": {
-        "sub": 14
+        "sub": 14,
+        "follow": 1
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2255,12 +2256,14 @@
         "sub_loyal",
         "sub_dedicated",
         "sub_committed",
-        "sub_veteran"
+        "sub_veteran",
+        "sub_champion",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T12:05:30Z"
+      "lastUpdated": "2025-06-28T12:05:46Z"
     }
   },
-  "lastUpdated": "2025-06-28T11:05:34Z",
+  "lastUpdated": "2025-06-28T11:05:46Z",
   "totalUsers": 68,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
