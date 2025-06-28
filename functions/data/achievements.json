@@ -1602,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 73,
+        "chat": 74,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1613,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T10:49:47Z"
+      "lastUpdated": "2025-06-28T11:28:39Z"
     },
     "anzerou": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 315,
+        "chat": 321,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T10:06:06Z"
+      "lastUpdated": "2025-06-28T11:28:50Z"
     },
     "metalbenji": {
       "counters": {
@@ -1953,12 +1953,12 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-23T21:32:46Z"
+      "lastUpdated": "2025-06-28T10:58:04Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2056,7 +2056,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "points_spent": 500,
         "sounds": 1
       },
@@ -2067,7 +2067,7 @@
         "sound_first",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T10:55:20Z"
+      "lastUpdated": "2025-06-28T10:55:30Z"
     },
     "andilippi": {
       "counters": {
@@ -2117,15 +2117,16 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T10:26:03Z"
+      "lastUpdated": "2025-06-28T11:29:19Z"
     },
     "maximusis_": {
       "counters": {
@@ -2165,7 +2166,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 11,
+        "chat": 15,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2174,7 +2175,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T10:53:01Z"
+      "lastUpdated": "2025-06-28T11:13:16Z"
     },
     "justflip": {
       "counters": {
@@ -2232,7 +2233,7 @@
       "lastUpdated": "2025-06-28T10:33:51Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:55:21Z",
+  "lastUpdated": "2025-06-28T10:29:19Z",
   "totalUsers": 66,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
