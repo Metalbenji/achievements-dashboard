@@ -1929,7 +1929,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 26
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1938,7 +1938,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T10:43:44Z"
+      "lastUpdated": "2025-06-28T10:45:07Z"
     },
     "umenneske94": {
       "counters": {
@@ -2161,15 +2161,16 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 7,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T10:39:21Z"
+      "lastUpdated": "2025-06-28T10:48:38Z"
     },
     "justflip": {
       "counters": {
@@ -2227,7 +2228,7 @@
       "lastUpdated": "2025-06-28T10:33:51Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:43:44Z",
+  "lastUpdated": "2025-06-28T09:48:38Z",
   "totalUsers": 66,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
