@@ -1391,9 +1391,9 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 18,
-        "points_spent": 1100,
-        "effects": 2,
+        "chat": 22,
+        "points_spent": 1400,
+        "effects": 3,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1404,7 +1404,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T13:26:48Z"
+      "lastUpdated": "2025-06-28T15:10:22Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1459,7 +1459,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 18,
+        "chat": 19,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1469,7 +1469,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T13:53:33Z"
+      "lastUpdated": "2025-06-28T14:07:31Z"
     },
     "scoman07": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 338,
+        "chat": 342,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T13:53:22Z"
+      "lastUpdated": "2025-06-28T15:10:47Z"
     },
     "metalbenji": {
       "counters": {
@@ -2059,17 +2059,19 @@
       "counters": {
         "follow": 1,
         "chat": 11,
-        "points_spent": 500,
-        "sounds": 1
+        "points_spent": 850,
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "sound_first",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-28T10:55:30Z"
+      "lastUpdated": "2025-06-28T15:15:26Z"
     },
     "andilippi": {
       "counters": {
@@ -2170,7 +2172,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 15,
+        "chat": 24,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2179,7 +2181,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T11:13:16Z"
+      "lastUpdated": "2025-06-28T15:11:50Z"
     },
     "justflip": {
       "counters": {
@@ -2303,7 +2305,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T12:59:46Z",
+  "lastUpdated": "2025-06-28T14:15:26Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
