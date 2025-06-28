@@ -2202,12 +2202,13 @@
         "sub_loyal",
         "sub_dedicated",
         "sub_committed",
-        "sub_veteran"
+        "sub_veteran",
+        "sub_champion"
       ],
       "lastUpdated": "2025-06-28T10:23:55Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:23:59Z",
+  "lastUpdated": "2025-06-28T09:24:00Z",
   "totalUsers": 65,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
