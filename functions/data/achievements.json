@@ -2289,15 +2289,17 @@
     },
     "suze_o_0": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-06-28T13:10:20Z"
     }
   },
-  "lastUpdated": "2025-06-28T12:10:20Z",
+  "lastUpdated": "2025-06-28T12:10:21Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
