@@ -2251,12 +2251,14 @@
       },
       "unlockedAchievements": [
         "sub_first_month",
-        "sub_supporter"
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated"
       ],
       "lastUpdated": "2025-06-28T12:05:30Z"
     }
   },
-  "lastUpdated": "2025-06-28T11:05:31Z",
+  "lastUpdated": "2025-06-28T11:05:33Z",
   "totalUsers": 68,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
