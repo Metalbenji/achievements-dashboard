@@ -2041,15 +2041,17 @@
     },
     "mistycal_eu": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T08:25:15Z"
+      "lastUpdated": "2025-06-28T08:25:16Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:25:15Z",
+  "lastUpdated": "2025-06-28T07:25:16Z",
   "totalUsers": 53,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
