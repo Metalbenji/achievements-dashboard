@@ -1264,9 +1264,9 @@
   "users": {
     "rexxyxii": {
       "counters": {
-        "points_spent": 102,
+        "points_spent": 103,
         "special_rewards": 1,
-        "chat": 8,
+        "chat": 9,
         "effects": 1,
         "follow": 1
       },
@@ -1277,7 +1277,7 @@
         "first_caller",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-23T21:51:28Z"
+      "lastUpdated": "2025-06-28T08:11:25Z"
     },
     "flaminjurr": {
       "counters": {
@@ -1592,16 +1592,18 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 29
+        "chat": 30,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "first_caller"
       ],
-      "lastUpdated": "2025-06-23T21:54:00Z"
+      "lastUpdated": "2025-06-28T08:16:49Z"
     },
     "anzerou": {
       "counters": {
@@ -1774,7 +1776,7 @@
         "points_spent": 30750,
         "interactive": 1,
         "screenshot": 1,
-        "chat": 14,
+        "chat": 15,
         "sounds": 1,
         "follow": 1,
         "sub": 4
@@ -1794,7 +1796,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-06-23T20:38:03Z"
+      "lastUpdated": "2025-06-28T08:08:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2027,7 +2029,7 @@
       "lastUpdated": "2025-06-23T22:04:18Z"
     }
   },
-  "lastUpdated": "2025-06-23T21:04:18Z",
+  "lastUpdated": "2025-06-28T07:16:50Z",
   "totalUsers": 51,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
