@@ -1602,7 +1602,9 @@
         "sub_loyal",
         "sub_dedicated",
         "sub_committed",
-        "sub_veteran"
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum"
       ],
       "lastUpdated": "2025-06-28T17:02:10Z"
     },
@@ -2342,7 +2344,7 @@
       "lastUpdated": "2025-06-28T16:47:41Z"
     }
   },
-  "lastUpdated": "2025-06-28T16:02:14Z",
+  "lastUpdated": "2025-06-28T16:02:15Z",
   "totalUsers": 72,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
