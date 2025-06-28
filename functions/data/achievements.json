@@ -1277,7 +1277,9 @@
         "chat_newbie",
         "first_caller",
         "follow_supporter",
-        "sub_first_month"
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal"
       ],
       "lastUpdated": "2025-06-28T08:57:00Z"
     },
@@ -2099,7 +2101,7 @@
       "lastUpdated": "2025-06-28T08:53:57Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:57:00Z",
+  "lastUpdated": "2025-06-28T07:57:01Z",
   "totalUsers": 57,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
