@@ -1266,7 +1266,7 @@
       "counters": {
         "points_spent": 103,
         "special_rewards": 1,
-        "chat": 10,
+        "chat": 11,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -1286,7 +1286,7 @@
         "sub_champion",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T08:57:59Z"
+      "lastUpdated": "2025-06-28T09:01:47Z"
     },
     "flaminjurr": {
       "counters": {
@@ -1459,16 +1459,17 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "night_owl",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T16:45:08Z"
+      "lastUpdated": "2025-06-28T09:10:05Z"
     },
     "scoman07": {
       "counters": {
@@ -1601,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 49,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1612,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T08:38:47Z"
+      "lastUpdated": "2025-06-28T08:58:12Z"
     },
     "anzerou": {
       "counters": {
@@ -2106,7 +2107,7 @@
       "lastUpdated": "2025-06-28T08:53:57Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:57:59Z",
+  "lastUpdated": "2025-06-28T08:10:05Z",
   "totalUsers": 57,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
