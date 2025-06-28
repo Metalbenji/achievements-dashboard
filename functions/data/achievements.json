@@ -1985,9 +1985,9 @@
     "loopylolly": {
       "counters": {
         "points_spent": 1600,
-        "effects": 1,
+        "effects": 2,
         "follow": 1,
-        "chat": 16,
+        "chat": 17,
         "sub": 23
       },
       "unlockedAchievements": [
@@ -2003,9 +2003,10 @@
         "sub_platinum",
         "chat_newbie",
         "chat_talker",
-        "spender_bronze"
+        "spender_bronze",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T13:40:49Z"
+      "lastUpdated": "2025-06-28T13:40:53Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -2300,7 +2301,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T12:40:49Z",
+  "lastUpdated": "2025-06-28T12:40:53Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
