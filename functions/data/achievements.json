@@ -2347,18 +2347,27 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T17:26:55Z"
+      "lastUpdated": "2025-06-28T17:28:18Z"
+    },
+    "vincent_mchale": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-28T17:30:02Z"
     }
   },
-  "lastUpdated": "2025-06-28T16:26:55Z",
-  "totalUsers": 73,
+  "lastUpdated": "2025-06-28T16:30:02Z",
+  "totalUsers": 74,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
