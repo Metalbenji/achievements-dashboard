@@ -1602,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 74,
+        "chat": 75,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1613,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T11:28:39Z"
+      "lastUpdated": "2025-06-28T11:29:28Z"
     },
     "anzerou": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 321,
+        "chat": 322,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T11:28:50Z"
+      "lastUpdated": "2025-06-28T11:29:34Z"
     },
     "metalbenji": {
       "counters": {
@@ -2117,7 +2117,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 28
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2126,7 +2126,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T11:29:19Z"
+      "lastUpdated": "2025-06-28T11:29:47Z"
     },
     "maximusis_": {
       "counters": {
@@ -2231,10 +2231,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-06-28T10:33:51Z"
+    },
+    "mrmeanor_": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T11:29:49Z"
     }
   },
-  "lastUpdated": "2025-06-28T10:29:19Z",
-  "totalUsers": 66,
+  "lastUpdated": "2025-06-28T10:29:50Z",
+  "totalUsers": 67,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
