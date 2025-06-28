@@ -1459,7 +1459,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 13,
+        "chat": 14,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1469,7 +1469,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:27:06Z"
+      "lastUpdated": "2025-06-28T09:42:53Z"
     },
     "scoman07": {
       "counters": {
@@ -1602,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 57,
+        "chat": 59,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1613,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T09:21:34Z"
+      "lastUpdated": "2025-06-28T09:46:16Z"
     },
     "anzerou": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 308,
+        "chat": 312,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T09:29:03Z"
+      "lastUpdated": "2025-06-28T09:47:11Z"
     },
     "metalbenji": {
       "counters": {
@@ -1929,7 +1929,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 22
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1937,7 +1937,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:16:30Z"
+      "lastUpdated": "2025-06-28T09:42:59Z"
     },
     "umenneske94": {
       "counters": {
@@ -2111,7 +2111,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2119,11 +2119,20 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:32:40Z"
+      "lastUpdated": "2025-06-28T09:47:15Z"
+    },
+    "maximusis_": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T09:47:18Z"
     }
   },
-  "lastUpdated": "2025-06-28T08:32:40Z",
-  "totalUsers": 58,
+  "lastUpdated": "2025-06-28T08:47:18Z",
+  "totalUsers": 59,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
