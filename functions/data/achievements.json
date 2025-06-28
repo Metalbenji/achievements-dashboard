@@ -1268,16 +1268,18 @@
         "special_rewards": 1,
         "chat": 9,
         "effects": 1,
-        "follow": 1
+        "follow": 1,
+        "sub": 11
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "effect_first",
         "chat_newbie",
         "first_caller",
-        "follow_supporter"
+        "follow_supporter",
+        "sub_first_month"
       ],
-      "lastUpdated": "2025-06-28T08:11:25Z"
+      "lastUpdated": "2025-06-28T08:57:00Z"
     },
     "flaminjurr": {
       "counters": {
@@ -2087,15 +2089,17 @@
     },
     "haggisneepsandpotatoes": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 2
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T08:53:32Z"
+      "lastUpdated": "2025-06-28T08:53:57Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:53:33Z",
+  "lastUpdated": "2025-06-28T07:57:00Z",
   "totalUsers": 57,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
