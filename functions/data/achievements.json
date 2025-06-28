@@ -1439,7 +1439,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 78,
+        "chat": 79,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1
@@ -1455,7 +1455,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T17:07:29Z"
+      "lastUpdated": "2025-06-28T17:18:48Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1585,7 +1585,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 26,
         "points_spent": 5000,
         "interactive": 1,
         "sub": 22
@@ -1607,7 +1607,7 @@
         "sub_platinum",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T17:11:37Z"
+      "lastUpdated": "2025-06-28T17:14:01Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2343,10 +2343,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-06-28T16:47:41Z"
+    },
+    "earthkrigare": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-28T17:25:29Z"
     }
   },
-  "lastUpdated": "2025-06-28T16:11:37Z",
-  "totalUsers": 72,
+  "lastUpdated": "2025-06-28T16:25:29Z",
+  "totalUsers": 73,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
