@@ -1459,7 +1459,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 11,
+        "chat": 12,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1469,7 +1469,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:10:43Z"
+      "lastUpdated": "2025-06-28T09:14:29Z"
     },
     "scoman07": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 297,
+        "chat": 300,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1778,9 +1778,10 @@
         "chat_conversationalist",
         "night_owl",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T09:13:11Z"
+      "lastUpdated": "2025-06-28T09:14:36Z"
     },
     "metalbenji": {
       "counters": {
@@ -2108,7 +2109,7 @@
       "lastUpdated": "2025-06-28T08:53:57Z"
     }
   },
-  "lastUpdated": "2025-06-28T08:13:43Z",
+  "lastUpdated": "2025-06-28T08:14:36Z",
   "totalUsers": 57,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
