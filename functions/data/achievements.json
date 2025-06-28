@@ -2180,10 +2180,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-28T10:08:37Z"
+    },
+    "awildbubbles": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-28T10:22:09Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:16:40Z",
-  "totalUsers": 63,
+  "lastUpdated": "2025-06-28T09:22:09Z",
+  "totalUsers": 64,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
