@@ -2249,7 +2249,7 @@
       "counters": {
         "sub": 14,
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2260,12 +2260,13 @@
         "sub_veteran",
         "sub_champion",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T12:05:46Z"
+      "lastUpdated": "2025-06-28T12:07:02Z"
     }
   },
-  "lastUpdated": "2025-06-28T11:05:46Z",
+  "lastUpdated": "2025-06-28T11:07:03Z",
   "totalUsers": 68,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
