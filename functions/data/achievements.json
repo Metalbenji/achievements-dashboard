@@ -1439,7 +1439,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 64,
+        "chat": 69,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1
@@ -1455,7 +1455,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-22T11:06:31Z"
+      "lastUpdated": "2025-06-28T10:10:03Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2134,15 +2134,18 @@
     "stunnergr": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 14,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2025-06-28T09:55:51Z"
+      "lastUpdated": "2025-06-28T10:10:09Z"
     },
     "wowbrolly": {
       "counters": {
@@ -2167,16 +2170,16 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T10:06:49Z"
+      "lastUpdated": "2025-06-28T10:08:37Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:06:50Z",
+  "lastUpdated": "2025-06-28T09:10:10Z",
   "totalUsers": 63,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
