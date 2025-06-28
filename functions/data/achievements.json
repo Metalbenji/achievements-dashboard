@@ -2346,15 +2346,17 @@
     },
     "earthkrigare": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T17:25:29Z"
+      "lastUpdated": "2025-06-28T17:25:30Z"
     }
   },
-  "lastUpdated": "2025-06-28T16:25:29Z",
+  "lastUpdated": "2025-06-28T16:25:30Z",
   "totalUsers": 73,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
