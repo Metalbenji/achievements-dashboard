@@ -2056,7 +2056,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 500,
         "sounds": 1
       },
@@ -2064,9 +2064,10 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "sound_first"
+        "sound_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T10:54:58Z"
+      "lastUpdated": "2025-06-28T10:55:20Z"
     },
     "andilippi": {
       "counters": {
@@ -2231,7 +2232,7 @@
       "lastUpdated": "2025-06-28T10:33:51Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:54:58Z",
+  "lastUpdated": "2025-06-28T09:55:21Z",
   "totalUsers": 66,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
