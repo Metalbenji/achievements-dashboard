@@ -2203,12 +2203,14 @@
         "sub_dedicated",
         "sub_committed",
         "sub_veteran",
-        "sub_champion"
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond"
       ],
       "lastUpdated": "2025-06-28T10:23:55Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:24:00Z",
+  "lastUpdated": "2025-06-28T09:24:01Z",
   "totalUsers": 65,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
