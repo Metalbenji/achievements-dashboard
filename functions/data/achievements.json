@@ -1667,14 +1667,15 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T17:55:40Z"
+      "lastUpdated": "2025-06-28T15:17:31Z"
     },
     "spoono__": {
       "counters": {
@@ -2305,7 +2306,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T14:15:26Z",
+  "lastUpdated": "2025-06-28T14:17:31Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
