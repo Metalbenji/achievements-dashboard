@@ -1484,9 +1484,9 @@
     },
     "lottec": {
       "counters": {
-        "points_spent": 2100,
-        "effects": 2,
-        "chat": 29,
+        "points_spent": 2900,
+        "effects": 3,
+        "chat": 34,
         "sounds": 1,
         "follow": 1
       },
@@ -1500,7 +1500,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-23T20:39:37Z"
+      "lastUpdated": "2025-06-28T12:15:04Z"
     },
     "hairypawter": {
       "counters": {
@@ -1602,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 85,
+        "chat": 86,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1613,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T12:04:10Z"
+      "lastUpdated": "2025-06-28T12:15:22Z"
     },
     "anzerou": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 333,
+        "chat": 335,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T11:55:16Z"
+      "lastUpdated": "2025-06-28T12:14:33Z"
     },
     "metalbenji": {
       "counters": {
@@ -2264,10 +2264,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-06-28T12:07:02Z"
+    },
+    "khazan67": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T12:30:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T11:07:03Z",
-  "totalUsers": 68,
+  "lastUpdated": "2025-06-28T11:30:26Z",
+  "totalUsers": 69,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
