@@ -1597,7 +1597,8 @@
         "chat_talker",
         "spender_bronze",
         "interactive_first",
-        "sub_first_month"
+        "sub_first_month",
+        "sub_supporter"
       ],
       "lastUpdated": "2025-06-28T17:02:10Z"
     },
@@ -2337,7 +2338,7 @@
       "lastUpdated": "2025-06-28T16:47:41Z"
     }
   },
-  "lastUpdated": "2025-06-28T16:02:11Z",
+  "lastUpdated": "2025-06-28T16:02:12Z",
   "totalUsers": 72,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
