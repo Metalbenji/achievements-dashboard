@@ -1421,7 +1421,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 43,
+        "chat": 47,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1
@@ -1435,7 +1435,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T13:41:45Z"
+      "lastUpdated": "2025-06-28T16:25:05Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1767,8 +1767,11 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 349,
-        "gift_subs": 1
+        "chat": 351,
+        "gift_subs": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 339,
+        "largest_gift_bomb": 339
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1780,9 +1783,10 @@
         "night_owl",
         "chat_regular",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "gift_bomb_5"
       ],
-      "lastUpdated": "2025-06-28T15:39:19Z"
+      "lastUpdated": "2025-06-28T16:25:25Z"
     },
     "metalbenji": {
       "counters": {
@@ -1863,7 +1867,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1871,7 +1875,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T15:38:01Z"
+      "lastUpdated": "2025-06-28T15:49:15Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2064,7 +2068,7 @@
         "chat": 13,
         "points_spent": 1050,
         "sounds": 1,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2075,7 +2079,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-06-28T15:42:59Z"
+      "lastUpdated": "2025-06-28T15:43:00Z"
     },
     "andilippi": {
       "counters": {
@@ -2138,14 +2142,14 @@
     },
     "maximusis_": {
       "counters": {
-        "chat": 2,
+        "chat": 3,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T13:59:46Z"
+      "lastUpdated": "2025-06-28T16:24:56Z"
     },
     "stunnergr": {
       "counters": {
@@ -2309,7 +2313,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T14:43:00Z",
+  "lastUpdated": "2025-06-28T15:25:25Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
