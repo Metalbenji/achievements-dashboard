@@ -1592,7 +1592,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 30,
+        "chat": 39,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1603,7 +1603,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T08:16:49Z"
+      "lastUpdated": "2025-06-28T08:23:04Z"
     },
     "anzerou": {
       "counters": {
@@ -2027,10 +2027,19 @@
         "night_owl"
       ],
       "lastUpdated": "2025-06-23T22:04:18Z"
+    },
+    "bludshed187": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-28T08:25:02Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:16:50Z",
-  "totalUsers": 51,
+  "lastUpdated": "2025-06-28T07:25:03Z",
+  "totalUsers": 52,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
