@@ -1598,7 +1598,9 @@
         "spender_bronze",
         "interactive_first",
         "sub_first_month",
-        "sub_supporter"
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated"
       ],
       "lastUpdated": "2025-06-28T17:02:10Z"
     },
@@ -2338,7 +2340,7 @@
       "lastUpdated": "2025-06-28T16:47:41Z"
     }
   },
-  "lastUpdated": "2025-06-28T16:02:12Z",
+  "lastUpdated": "2025-06-28T16:02:13Z",
   "totalUsers": 72,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
