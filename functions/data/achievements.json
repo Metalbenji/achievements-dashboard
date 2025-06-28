@@ -1486,7 +1486,7 @@
       "counters": {
         "points_spent": 2900,
         "effects": 3,
-        "chat": 34,
+        "chat": 35,
         "sounds": 1,
         "follow": 1
       },
@@ -1500,7 +1500,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T12:15:04Z"
+      "lastUpdated": "2025-06-28T15:19:23Z"
     },
     "hairypawter": {
       "counters": {
@@ -1767,7 +1767,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 342,
+        "chat": 344,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1782,7 +1782,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T15:10:47Z"
+      "lastUpdated": "2025-06-28T15:25:26Z"
     },
     "metalbenji": {
       "counters": {
@@ -1863,13 +1863,14 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-22T11:18:35Z"
+      "lastUpdated": "2025-06-28T15:31:18Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2059,7 +2060,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 11,
+        "chat": 12,
         "points_spent": 850,
         "sounds": 1,
         "effects": 1
@@ -2072,7 +2073,7 @@
         "chat_talker",
         "effect_first"
       ],
-      "lastUpdated": "2025-06-28T15:15:26Z"
+      "lastUpdated": "2025-06-28T15:19:47Z"
     },
     "andilippi": {
       "counters": {
@@ -2306,7 +2307,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T14:17:31Z",
+  "lastUpdated": "2025-06-28T14:31:18Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
