@@ -1281,7 +1281,9 @@
         "sub_supporter",
         "sub_loyal",
         "sub_dedicated",
-        "sub_committed"
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion"
       ],
       "lastUpdated": "2025-06-28T08:57:00Z"
     },
@@ -2103,7 +2105,7 @@
       "lastUpdated": "2025-06-28T08:53:57Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:57:02Z",
+  "lastUpdated": "2025-06-28T07:57:03Z",
   "totalUsers": 57,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
