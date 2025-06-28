@@ -1459,7 +1459,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 14,
+        "chat": 15,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1469,7 +1469,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:42:53Z"
+      "lastUpdated": "2025-06-28T10:50:03Z"
     },
     "scoman07": {
       "counters": {
@@ -1602,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 71,
+        "chat": 73,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1613,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T10:43:23Z"
+      "lastUpdated": "2025-06-28T10:49:47Z"
     },
     "anzerou": {
       "counters": {
@@ -1929,7 +1929,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 26
+        "chat": 27
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1938,7 +1938,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T10:45:07Z"
+      "lastUpdated": "2025-06-28T10:50:26Z"
     },
     "umenneske94": {
       "counters": {
@@ -2056,14 +2056,17 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 9,
+        "points_spent": 500,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "sound_first"
       ],
-      "lastUpdated": "2025-06-28T08:34:50Z"
+      "lastUpdated": "2025-06-28T10:54:58Z"
     },
     "andilippi": {
       "counters": {
@@ -2161,7 +2164,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 10,
+        "chat": 11,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2170,7 +2173,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T10:48:38Z"
+      "lastUpdated": "2025-06-28T10:53:01Z"
     },
     "justflip": {
       "counters": {
@@ -2228,7 +2231,7 @@
       "lastUpdated": "2025-06-28T10:33:51Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:48:38Z",
+  "lastUpdated": "2025-06-28T09:54:58Z",
   "totalUsers": 66,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
