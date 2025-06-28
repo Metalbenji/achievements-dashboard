@@ -2277,16 +2277,18 @@
     },
     "ineedmoarmoney": {
       "counters": {
-        "chat": 5
+        "chat": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T13:06:24Z"
+      "lastUpdated": "2025-06-28T13:06:33Z"
     }
   },
-  "lastUpdated": "2025-06-28T12:06:24Z",
+  "lastUpdated": "2025-06-28T12:06:33Z",
   "totalUsers": 70,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
