@@ -2200,12 +2200,14 @@
         "sub_first_month",
         "sub_supporter",
         "sub_loyal",
-        "sub_dedicated"
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran"
       ],
       "lastUpdated": "2025-06-28T10:23:55Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:23:58Z",
+  "lastUpdated": "2025-06-28T09:23:59Z",
   "totalUsers": 65,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
