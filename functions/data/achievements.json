@@ -1391,7 +1391,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 16,
+        "chat": 17,
         "points_spent": 1100,
         "effects": 2,
         "follow": 1
@@ -1404,7 +1404,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T14:29:28Z"
+      "lastUpdated": "2025-06-28T13:01:05Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1602,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 90,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1613,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T12:46:50Z"
+      "lastUpdated": "2025-06-28T12:47:47Z"
     },
     "anzerou": {
       "counters": {
@@ -2234,7 +2234,7 @@
     },
     "mrmeanor_": {
       "counters": {
-        "chat": 25,
+        "chat": 36,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2244,7 +2244,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T12:46:58Z"
+      "lastUpdated": "2025-06-28T13:04:29Z"
     },
     "djindjarinttv": {
       "counters": {
@@ -2274,10 +2274,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-06-28T12:31:23Z"
+    },
+    "ineedmoarmoney": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T13:05:28Z"
     }
   },
-  "lastUpdated": "2025-06-28T11:46:59Z",
-  "totalUsers": 69,
+  "lastUpdated": "2025-06-28T12:05:29Z",
+  "totalUsers": 70,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
