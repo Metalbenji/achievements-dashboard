@@ -2134,7 +2134,7 @@
     "stunnergr": {
       "counters": {
         "follow": 1,
-        "chat": 15,
+        "chat": 16,
         "points_spent": 200,
         "effects": 1
       },
@@ -2145,7 +2145,7 @@
         "chat_talker",
         "effect_first"
       ],
-      "lastUpdated": "2025-06-28T10:10:35Z"
+      "lastUpdated": "2025-06-28T10:28:40Z"
     },
     "wowbrolly": {
       "counters": {
@@ -2196,7 +2196,7 @@
       "counters": {
         "sub": 25,
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2211,19 +2211,22 @@
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T10:24:12Z"
+      "lastUpdated": "2025-06-28T10:28:23Z"
     },
     "conkek": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T10:28:18Z"
+      "lastUpdated": "2025-06-28T10:33:07Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:28:18Z",
+  "lastUpdated": "2025-06-28T09:33:07Z",
   "totalUsers": 66,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
