@@ -2112,7 +2112,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2120,7 +2120,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:47:15Z"
+      "lastUpdated": "2025-06-28T10:26:03Z"
     },
     "maximusis_": {
       "counters": {
@@ -2195,7 +2195,8 @@
     "majesty81": {
       "counters": {
         "sub": 25,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2207,13 +2208,23 @@
         "sub_champion",
         "sub_platinum",
         "sub_diamond",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-06-28T10:24:12Z"
+    },
+    "conkek": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-28T10:28:18Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:24:12Z",
-  "totalUsers": 65,
+  "lastUpdated": "2025-06-28T09:28:18Z",
+  "totalUsers": 66,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
