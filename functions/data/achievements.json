@@ -1602,7 +1602,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 82,
+        "chat": 85,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1613,7 +1613,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T11:36:26Z"
+      "lastUpdated": "2025-06-28T12:04:10Z"
     },
     "anzerou": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 329,
+        "chat": 333,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T11:41:48Z"
+      "lastUpdated": "2025-06-28T11:55:16Z"
     },
     "metalbenji": {
       "counters": {
@@ -2234,18 +2234,29 @@
     },
     "mrmeanor_": {
       "counters": {
-        "chat": 10
+        "chat": 14,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T11:42:05Z"
+      "lastUpdated": "2025-06-28T11:46:33Z"
+    },
+    "djindjarinttv": {
+      "counters": {
+        "sub": 14
+      },
+      "unlockedAchievements": [
+        "sub_first_month"
+      ],
+      "lastUpdated": "2025-06-28T12:05:30Z"
     }
   },
-  "lastUpdated": "2025-06-28T10:42:05Z",
-  "totalUsers": 67,
+  "lastUpdated": "2025-06-28T11:05:31Z",
+  "totalUsers": 68,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
