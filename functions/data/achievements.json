@@ -1266,7 +1266,7 @@
       "counters": {
         "points_spent": 103,
         "special_rewards": 1,
-        "chat": 9,
+        "chat": 10,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -1283,9 +1283,10 @@
         "sub_dedicated",
         "sub_committed",
         "sub_veteran",
-        "sub_champion"
+        "sub_champion",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T08:57:00Z"
+      "lastUpdated": "2025-06-28T08:57:59Z"
     },
     "flaminjurr": {
       "counters": {
@@ -2105,7 +2106,7 @@
       "lastUpdated": "2025-06-28T08:53:57Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:57:03Z",
+  "lastUpdated": "2025-06-28T07:57:59Z",
   "totalUsers": 57,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
