@@ -1794,7 +1794,9 @@
         "gift_bomb_50",
         "gift_bomb_75",
         "gift_bomb_100",
-        "gift_bomb_150"
+        "gift_bomb_150",
+        "gift_bomb_200",
+        "gift_bombs_first"
       ],
       "lastUpdated": "2025-06-28T16:25:25Z"
     },
@@ -2323,7 +2325,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T15:25:32Z",
+  "lastUpdated": "2025-06-28T15:25:34Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
