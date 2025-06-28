@@ -2183,16 +2183,27 @@
     },
     "awildbubbles": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-06-28T10:22:09Z"
+    },
+    "majesty81": {
+      "counters": {
+        "sub": 25
+      },
+      "unlockedAchievements": [
+        "sub_first_month"
+      ],
+      "lastUpdated": "2025-06-28T10:23:55Z"
     }
   },
-  "lastUpdated": "2025-06-28T09:22:09Z",
-  "totalUsers": 64,
+  "lastUpdated": "2025-06-28T09:23:56Z",
+  "totalUsers": 65,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
