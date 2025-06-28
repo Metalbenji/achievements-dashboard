@@ -2123,16 +2123,25 @@
     },
     "maximusis_": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T09:47:18Z"
+      "lastUpdated": "2025-06-28T09:47:36Z"
+    },
+    "stunnergr": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-28T09:49:53Z"
     }
   },
-  "lastUpdated": "2025-06-28T08:47:18Z",
-  "totalUsers": 59,
+  "lastUpdated": "2025-06-28T08:49:53Z",
+  "totalUsers": 60,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
