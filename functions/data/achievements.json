@@ -2076,18 +2076,27 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T08:52:23Z"
+      "lastUpdated": "2025-06-28T08:53:17Z"
+    },
+    "haggisneepsandpotatoes": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-06-28T08:53:32Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:52:23Z",
-  "totalUsers": 56,
+  "lastUpdated": "2025-06-28T07:53:33Z",
+  "totalUsers": 57,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
