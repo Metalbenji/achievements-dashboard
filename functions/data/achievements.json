@@ -1391,7 +1391,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 17,
+        "chat": 18,
         "points_spent": 1100,
         "effects": 2,
         "follow": 1
@@ -1404,7 +1404,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T13:01:05Z"
+      "lastUpdated": "2025-06-28T13:26:48Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1984,7 +1984,7 @@
     },
     "loopylolly": {
       "counters": {
-        "points_spent": 800,
+        "points_spent": 1600,
         "effects": 1,
         "follow": 1,
         "chat": 16,
@@ -2002,9 +2002,10 @@
         "sub_champion",
         "sub_platinum",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-06-23T19:06:18Z"
+      "lastUpdated": "2025-06-28T13:40:49Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -2277,7 +2278,7 @@
     },
     "ineedmoarmoney": {
       "counters": {
-        "chat": 6,
+        "chat": 8,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2285,21 +2286,21 @@
         "chat_newbie",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T13:08:08Z"
+      "lastUpdated": "2025-06-28T13:12:01Z"
     },
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T13:10:20Z"
+      "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T12:10:21Z",
+  "lastUpdated": "2025-06-28T12:40:49Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
