@@ -1421,7 +1421,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 42,
+        "chat": 43,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1
@@ -1435,7 +1435,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T08:38:36Z"
+      "lastUpdated": "2025-06-28T13:41:45Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1459,7 +1459,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 16,
+        "chat": 18,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1469,7 +1469,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T13:07:12Z"
+      "lastUpdated": "2025-06-28T13:53:33Z"
     },
     "scoman07": {
       "counters": {
@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 336,
+        "chat": 338,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T13:07:37Z"
+      "lastUpdated": "2025-06-28T13:53:22Z"
     },
     "metalbenji": {
       "counters": {
@@ -1987,7 +1987,7 @@
         "points_spent": 1600,
         "effects": 2,
         "follow": 1,
-        "chat": 17,
+        "chat": 24,
         "sub": 23
       },
       "unlockedAchievements": [
@@ -2006,7 +2006,7 @@
         "spender_bronze",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T13:40:53Z"
+      "lastUpdated": "2025-06-28T13:49:08Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -2132,12 +2132,14 @@
     },
     "maximusis_": {
       "counters": {
-        "chat": 2
+        "chat": 2,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T09:47:36Z"
+      "lastUpdated": "2025-06-28T13:59:46Z"
     },
     "stunnergr": {
       "counters": {
@@ -2301,7 +2303,7 @@
       "lastUpdated": "2025-06-28T13:10:25Z"
     }
   },
-  "lastUpdated": "2025-06-28T12:40:53Z",
+  "lastUpdated": "2025-06-28T12:59:46Z",
   "totalUsers": 71,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
