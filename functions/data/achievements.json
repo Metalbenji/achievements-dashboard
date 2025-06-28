@@ -1766,7 +1766,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 312,
+        "chat": 313,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -1781,7 +1781,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-06-28T09:47:11Z"
+      "lastUpdated": "2025-06-28T09:53:14Z"
     },
     "metalbenji": {
       "counters": {
@@ -1962,14 +1962,15 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:51:44Z"
+      "lastUpdated": "2025-06-28T09:53:50Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2133,28 +2134,29 @@
     "stunnergr": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:51:55Z"
+      "lastUpdated": "2025-06-28T09:54:19Z"
     },
     "wowbrolly": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T09:51:17Z"
+      "lastUpdated": "2025-06-28T09:52:14Z"
     }
   },
-  "lastUpdated": "2025-06-28T08:51:55Z",
+  "lastUpdated": "2025-06-28T08:54:20Z",
   "totalUsers": 61,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
