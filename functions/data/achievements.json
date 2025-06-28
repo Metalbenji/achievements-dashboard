@@ -1592,7 +1592,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 44,
+        "chat": 45,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1603,7 +1603,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T08:33:13Z"
+      "lastUpdated": "2025-06-28T08:36:29Z"
     },
     "anzerou": {
       "counters": {
@@ -2053,16 +2053,27 @@
     },
     "andilippi": {
       "counters": {
+        "follow": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T08:36:19Z"
+    },
+    "gngrwow": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T08:36:19Z"
+      "lastUpdated": "2025-06-28T08:37:00Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:36:19Z",
-  "totalUsers": 54,
+  "lastUpdated": "2025-06-28T07:37:01Z",
+  "totalUsers": 55,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
