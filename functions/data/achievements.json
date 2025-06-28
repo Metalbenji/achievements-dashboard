@@ -2326,15 +2326,16 @@
     },
     "hero_zappz": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T16:45:00Z"
+      "lastUpdated": "2025-06-28T16:47:10Z"
     }
   },
-  "lastUpdated": "2025-06-28T15:45:00Z",
+  "lastUpdated": "2025-06-28T15:47:10Z",
   "totalUsers": 72,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
