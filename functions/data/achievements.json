@@ -1412,7 +1412,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 41,
+        "chat": 42,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1
@@ -1426,7 +1426,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T08:36:18Z"
+      "lastUpdated": "2025-06-28T08:38:36Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1592,7 +1592,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 45,
+        "chat": 48,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1603,7 +1603,7 @@
         "chat_conversationalist",
         "first_caller"
       ],
-      "lastUpdated": "2025-06-28T08:36:29Z"
+      "lastUpdated": "2025-06-28T08:38:47Z"
     },
     "anzerou": {
       "counters": {
@@ -2054,26 +2054,37 @@
     "andilippi": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T08:36:19Z"
+      "lastUpdated": "2025-06-28T08:37:21Z"
     },
     "gngrwow": {
+      "counters": {
+        "follow": 1,
+        "chat": 2
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T08:37:28Z"
+    },
+    "timoted": {
       "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-06-28T08:37:00Z"
+      "lastUpdated": "2025-06-28T08:41:56Z"
     }
   },
-  "lastUpdated": "2025-06-28T07:37:01Z",
-  "totalUsers": 55,
+  "lastUpdated": "2025-06-28T07:41:56Z",
+  "totalUsers": 56,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
