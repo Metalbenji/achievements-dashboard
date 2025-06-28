@@ -1929,7 +1929,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 24
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1937,7 +1937,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:42:59Z"
+      "lastUpdated": "2025-06-28T09:56:16Z"
     },
     "umenneske94": {
       "counters": {
@@ -1962,7 +1962,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1970,7 +1970,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:53:50Z"
+      "lastUpdated": "2025-06-28T10:01:29Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2134,7 +2134,7 @@
     "stunnergr": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2142,22 +2142,31 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T09:54:19Z"
+      "lastUpdated": "2025-06-28T09:55:51Z"
     },
     "wowbrolly": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T09:52:14Z"
+      "lastUpdated": "2025-06-28T10:01:26Z"
+    },
+    "william_murdurface": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-06-28T10:03:22Z"
     }
   },
-  "lastUpdated": "2025-06-28T08:54:20Z",
-  "totalUsers": 61,
+  "lastUpdated": "2025-06-28T09:03:22Z",
+  "totalUsers": 62,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
 }
