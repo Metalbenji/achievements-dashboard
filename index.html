@@ -1088,6 +1088,14 @@
             return countBasedIds.includes(achievement.Id);
         }
 
+        function isGiftBombCountAchievement(achievement) {
+            // This logic mirrors the backend.
+            // Achievements for the number of bombs dropped have the type "gift_bombs".
+            // Achievements for the size of a single bomb have the type "gift_bomb_size".
+            // We check the achievement's 'Type' property from the database.
+            return achievement.Type.toLowerCase() === 'gift_bombs';
+        }
+
         function convertUSDtoGBP(usdAmount) {
             const conversionRate = 0.8;
             return Math.round(usdAmount * conversionRate * 100) / 100;
@@ -1122,13 +1130,14 @@
                 return ''; // Don't render a card with invalid data.
             }
 
-            let counterKey = typeKey;
-            if (typeKey === 'timewatched') counterKey = 'timewatched';
-            else if (typeKey === 'channelpoints') counterKey = 'channelpoints';
-            else if (typeKey === 'giftsub') counterKey = 'giftsub';
-            else if (typeKey === 'giftbomb') counterKey = 'giftbomb';
-            else if (typeKey === 'bigdonation') counterKey = 'big_donation';
-            else if (typeKey === 'donations') {
+            let counterKey = typeKey; // Default behavior
+            if (typeKey === 'giftbomb') {
+                // Use the new helper to pick the right counter for gift bomb achievements.
+                // 'gift_bombs' for the count, 'largest_gift_bomb' for the size.
+                counterKey = isGiftBombCountAchievement(achievement) ? 'gift_bombs' : 'largest_gift_bomb';
+            } else if (typeKey === 'bigdonation') {
+                counterKey = 'big_donation';
+            } else if (typeKey === 'donations') {
                 counterKey = isDonationCountAchievement(achievement) ? 'donations' : 'total_donated';
             }
 
