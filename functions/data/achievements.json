@@ -1819,7 +1819,7 @@
         "sounds": 1,
         "follow": 1,
         "sub": 4,
-        "gift_subs": 1
+        "gift_subs": 2
       },
       "unlockedAchievements": [
         "interactive_first",
@@ -1835,9 +1835,10 @@
         "sub_supporter",
         "sub_loyal",
         "sub_dedicated",
-        "gift_starter"
+        "gift_starter",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-07-01T19:27:30Z"
+      "lastUpdated": "2025-07-01T19:27:41Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2368,7 +2369,7 @@
       "lastUpdated": "2025-06-28T17:30:02Z"
     }
   },
-  "lastUpdated": "2025-07-01T18:27:30Z",
+  "lastUpdated": "2025-07-01T18:27:41Z",
   "totalUsers": 74,
   "totalAchievements": 140,
   "generatedBy": "Streamer.bot Achievement System"
