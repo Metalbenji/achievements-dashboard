@@ -1304,6 +1304,24 @@
       "RequiredValue": 50,
       "Type": "raid",
       "Rarity": 5
+    },
+    {
+      "Id": "bday2025_attend",
+      "Name": "Birthday Bash Guest 2025",
+      "Description": "Attended MetalBenji's Birthday Bash stream event in July 2025!",
+      "Icon": "🎉",
+      "RequiredValue": 1,
+      "Type": "bday",
+      "Rarity": 2
+    },
+    {
+      "Id": "bday2025_support",
+      "Name": "Birthday Bash Supporter 2025",
+      "Description": "Supported the stream during the 2025 Birthday Bash event. Thank you!",
+      "Icon": "🎂",
+      "RequiredValue": 1,
+      "Type": "bday",
+      "Rarity": 3
     }
   ],
   "users": {
@@ -1855,38 +1873,6 @@
       ],
       "lastUpdated": "2025-06-28T16:29:32Z"
     },
-    "metalbenji": {
-      "counters": {
-        "points_spent": 30750,
-        "interactive": 1,
-        "screenshot": 1,
-        "chat": 25,
-        "sounds": 1,
-        "follow": 1,
-        "sub": 4,
-        "gift_subs": 3
-      },
-      "unlockedAchievements": [
-        "interactive_first",
-        "screenshot_first",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "spender_bronze",
-        "spender_silver",
-        "sound_first",
-        "follow_supporter",
-        "sub_first_month",
-        "sub_supporter",
-        "sub_loyal",
-        "sub_dedicated",
-        "gift_starter",
-        "gift_kind",
-        "gift_caring",
-        "chat_conversationalist"
-      ],
-      "lastUpdated": "2025-07-02T19:45:43Z"
-    },
     "purgemonster91": {
       "counters": {
         "follow": 1,
@@ -2414,10 +2400,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-06-28T17:30:02Z"
+    },
+    "metalbenji": {
+      "counters": {
+        "chat": 5
+      },
+      "unlockedAchievements": [
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-07-02T20:03:40Z"
     }
   },
-  "lastUpdated": "2025-07-02T18:45:44Z",
+  "lastUpdated": "2025-07-02T19:03:40Z",
   "totalUsers": 74,
-  "totalAchievements": 145,
+  "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
