@@ -985,6 +985,7 @@
                     <button class="filter-tab ${currentFilter === 'giftbomb' ? 'active' : ''}" data-filter="giftbomb">Gift Bomb</button>
                     <button class="filter-tab ${currentFilter === 'clips' ? 'active' : ''}" data-filter="clips">Clips</button>
                     <button class="filter-tab ${currentFilter === 'raid' ? 'active' : ''}" data-filter="raid">Raids</button>
+                    <button class="filter-tab ${currentFilter === 'bday' ? 'active' : ''}" data-filter="bday">Birthday Bash</button>
                 </div>
 
                 <div id="achievementsContainer">
@@ -1168,7 +1169,7 @@
 
         function renderAchievements() {
             let html = '';
-            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb', 'clips', 'raid'];
+            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb', 'clips', 'raid', 'bday'];
 
             if (currentFilter === 'all') {
                 const groupedByType = {};
@@ -1200,7 +1201,8 @@
                     { key: 'bigdonation', name: 'Big Donations' },
                     { key: 'giftbomb', name: 'Gift Bomb' },
                     { key: 'clips', name: 'Clips' },
-                    { key: 'raid', name: 'Raids' }
+                    { key: 'raid', name: 'Raids' },
+                    { key: 'bday', name: 'Birthday Bash 2025' }
                 ];
 
                 groupDisplayOrder.forEach(group => {
@@ -1249,7 +1251,8 @@
                             { key: 'bigdonation', name: 'Big Donations' },
                             { key: 'giftbomb', name: 'Gift Bomb' },
                             { key: 'clips', name: 'Clips' },
-                            { key: 'raid', name: 'Raids' }
+                            { key: 'raid', name: 'Raids' },
+                            { key: 'bday', name: 'Birthday Bash 2025' }
                         ];
                         const groupInfo = groupDisplayOrder.find(g => g.key === currentFilter);
                         const groupName = groupInfo ? groupInfo.name : currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
