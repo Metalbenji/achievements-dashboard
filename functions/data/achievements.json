@@ -1259,6 +1259,51 @@
       "RequiredValue": 500,
       "Type": "gift_bomb_size",
       "Rarity": 5
+    },
+    {
+      "Id": "raid_tier1_captain",
+      "Name": "Raid Captain",
+      "Description": "Lead your raiding party to this channel for the first time. Welcome, commander!",
+      "Icon": "🏴‍☠️",
+      "RequiredValue": 1,
+      "Type": "raid",
+      "Rarity": 1
+    },
+    {
+      "Id": "raid_tier2_seasoned",
+      "Name": "Seasoned Raider",
+      "Description": "Lead 5 successful raids to this channel. Your banner is a welcome sight!",
+      "Icon": "⚔️",
+      "RequiredValue": 5,
+      "Type": "raid",
+      "Rarity": 2
+    },
+    {
+      "Id": "raid_tier3_commander",
+      "Name": "Raid Commander",
+      "Description": "Command 10 raids into this harbor. Your strategic support is legendary.",
+      "Icon": "🛡️",
+      "RequiredValue": 10,
+      "Type": "raid",
+      "Rarity": 3
+    },
+    {
+      "Id": "raid_tier4_warlord",
+      "Name": "Warlord of the Raids",
+      "Description": "A true Warlord! You have led 25 raiding parties to victory here.",
+      "Icon": "👑",
+      "RequiredValue": 25,
+      "Type": "raid",
+      "Rarity": 4
+    },
+    {
+      "Id": "raid_tier5_conqueror",
+      "Name": "Legendary Conqueror",
+      "Description": "Your name is sung in the halls of legend. 50 raids! Your loyalty is unmatched.",
+      "Icon": "🏆",
+      "RequiredValue": 50,
+      "Type": "raid",
+      "Rarity": 5
     }
   ],
   "users": {
@@ -1815,7 +1860,7 @@
         "points_spent": 30750,
         "interactive": 1,
         "screenshot": 1,
-        "chat": 15,
+        "chat": 25,
         "sounds": 1,
         "follow": 1,
         "sub": 4,
@@ -1837,9 +1882,10 @@
         "sub_dedicated",
         "gift_starter",
         "gift_kind",
-        "gift_caring"
+        "gift_caring",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-01T19:27:54Z"
+      "lastUpdated": "2025-07-02T19:45:43Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2370,8 +2416,8 @@
       "lastUpdated": "2025-06-28T17:30:02Z"
     }
   },
-  "lastUpdated": "2025-07-01T18:27:54Z",
+  "lastUpdated": "2025-07-02T18:45:44Z",
   "totalUsers": 74,
-  "totalAchievements": 140,
+  "totalAchievements": 145,
   "generatedBy": "Streamer.bot Achievement System"
 }
