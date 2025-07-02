@@ -74,14 +74,6 @@
             z-index: -1;
         }
 
-        /* Container System for Better Responsive Control */
-        .container {
-            width: 100%;
-            max-width: var(--max-width-mobile);
-            margin: 0 auto;
-            padding: 0 clamp(1rem, 3vw, 2rem);
-        }
-
         /* Navigation */
         .navbar {
             position: fixed;
@@ -585,10 +577,6 @@
         
         /* Small tablets and large phones */
         @media (min-width: 480px) {
-            :root {
-                --max-width-mobile: var(--max-width-tablet);
-            }
-            
             .user-input {
                 flex-direction: row;
             }
@@ -601,10 +589,6 @@
 
         /* Tablets */
         @media (min-width: 768px) {
-            :root {
-                --max-width-mobile: var(--max-width-desktop);
-            }
-            
             .achievements-grid {
                 grid-template-columns: repeat(auto-fit, minmax(var(--card-min-width), 1fr));
             }
@@ -620,10 +604,6 @@
 
         /* Desktop */
         @media (min-width: 1024px) {
-            :root {
-                --max-width-mobile: var(--max-width-large);
-            }
-            
             .achievements-grid {
                 grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
             }
@@ -631,10 +611,6 @@
 
         /* Large desktop */
         @media (min-width: 1400px) {
-            :root {
-                --max-width-mobile: var(--max-width-ultrawide);
-            }
-            
             .achievements-grid {
                 grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
                 max-width: 100%;
@@ -643,8 +619,7 @@
 
         /* Ultrawide screens */
         @media (min-width: 1800px) {
-            :root {
-                --max-width-mobile: var(--max-width-superwide);
+            :root { 
                 --grid-gap: 30px;
             }
             
@@ -1009,6 +984,7 @@
                     <button class="filter-tab ${currentFilter === 'bigdonation' ? 'active' : ''}" data-filter="bigdonation">Big Donations</button>
                     <button class="filter-tab ${currentFilter === 'giftbomb' ? 'active' : ''}" data-filter="giftbomb">Gift Bomb</button>
                     <button class="filter-tab ${currentFilter === 'clips' ? 'active' : ''}" data-filter="clips">Clips</button>
+                    <button class="filter-tab ${currentFilter === 'raid' ? 'active' : ''}" data-filter="raid">Raids</button>
                 </div>
 
                 <div id="achievementsContainer">
@@ -1044,7 +1020,8 @@
                 'getting started', 'generous spirit', 'kind contributor', 'donation champion', 'donation legend',
                 'stream patron', 'donation master', 'donation deity', 'transcendent supporter', 'trancendent supporter'
             ],
-            clips: ['clip']
+            clips: ['clip'],
+            raid: ['raid captain', 'seasoned raider', 'raid commander', 'warlord of the raids', 'legendary conqueror']
         };
 
         function getAchievementCategory(achievement) {
@@ -1191,7 +1168,7 @@
 
         function renderAchievements() {
             let html = '';
-            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb', 'clips'];
+            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb', 'clips', 'raid'];
 
             if (currentFilter === 'all') {
                 const groupedByType = {};
@@ -1222,7 +1199,8 @@
                     { key: 'donations', name: 'Donations' },
                     { key: 'bigdonation', name: 'Big Donations' },
                     { key: 'giftbomb', name: 'Gift Bomb' },
-                    { key: 'clips', name: 'Clips' }
+                    { key: 'clips', name: 'Clips' },
+                    { key: 'raid', name: 'Raids' }
                 ];
 
                 groupDisplayOrder.forEach(group => {
@@ -1270,7 +1248,8 @@
                             { key: 'donations', name: 'Donations' },
                             { key: 'bigdonation', name: 'Big Donations' },
                             { key: 'giftbomb', name: 'Gift Bomb' },
-                            { key: 'clips', name: 'Clips' }
+                            { key: 'clips', name: 'Clips' },
+                            { key: 'raid', name: 'Raids' }
                         ];
                         const groupInfo = groupDisplayOrder.find(g => g.key === currentFilter);
                         const groupName = groupInfo ? groupInfo.name : currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
