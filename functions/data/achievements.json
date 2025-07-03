@@ -1234,33 +1234,6 @@
       "Rarity": 5
     },
     {
-      "Id": "gift_bomb_150",
-      "Name": "Mythical Explosion",
-      "Description": "Drop a 150 sub gift bomb",
-      "Icon": "🔥",
-      "RequiredValue": 150,
-      "Type": "gift_bomb_size",
-      "Rarity": 5
-    },
-    {
-      "Id": "gift_bomb_200",
-      "Name": "God of Gifting",
-      "Description": "Drop a 200 sub gift bomb",
-      "Icon": "⭐",
-      "RequiredValue": 200,
-      "Type": "gift_bomb_size",
-      "Rarity": 5
-    },
-    {
-      "Id": "gift_bomb_500",
-      "Name": "Gift Apocalypse",
-      "Description": "Drop a 500 sub gift bomb",
-      "Icon": "🌌",
-      "RequiredValue": 500,
-      "Type": "gift_bomb_size",
-      "Rarity": 5
-    },
-    {
       "Id": "raid_tier1_captain",
       "Name": "Raid Captain",
       "Description": "Lead your raiding party to this channel for the first time. Welcome, commander!",
@@ -2403,18 +2376,18 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 12
+        "chat": 22
       },
       "unlockedAchievements": [
         "chat_newbie",
         "chat_talker",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-02T22:18:06Z"
+      "lastUpdated": "2025-07-02T22:18:08Z"
     }
   },
-  "lastUpdated": "2025-07-02T21:18:06Z",
+  "lastUpdated": "2025-07-03T05:50:23Z",
   "totalUsers": 74,
-  "totalAchievements": 147,
+  "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
