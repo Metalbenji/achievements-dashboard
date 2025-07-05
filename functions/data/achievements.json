@@ -1370,7 +1370,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 149,
+        "chat": 150,
         "points_spent": 5400
       },
       "unlockedAchievements": [
@@ -1384,7 +1384,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-05T12:03:29Z"
+      "lastUpdated": "2025-07-05T12:34:11Z"
     },
     "celran": {
       "counters": {
@@ -1564,7 +1564,8 @@
       "counters": {
         "chat": 58,
         "follow": 1,
-        "points_spent": 2000
+        "points_spent": 2000,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1572,9 +1573,10 @@
         "chat_talker",
         "chat_conversationalist",
         "follow_supporter",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-05T12:33:47Z"
+      "lastUpdated": "2025-07-05T12:33:48Z"
     },
     "kripoje": {
       "counters": {
@@ -1655,8 +1657,9 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 123,
-        "points_spent": 1
+        "chat": 125,
+        "points_spent": 102,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1665,9 +1668,10 @@
         "chat_talker",
         "chat_conversationalist",
         "first_caller",
-        "chat_regular"
+        "chat_regular",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-05T12:33:43Z"
+      "lastUpdated": "2025-07-05T12:34:34Z"
     },
     "anzerou": {
       "counters": {
@@ -2419,7 +2423,7 @@
       "lastUpdated": "2025-07-05T12:31:44Z"
     }
   },
-  "lastUpdated": "2025-07-05T11:33:47Z",
+  "lastUpdated": "2025-07-05T11:34:34Z",
   "totalUsers": 76,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
