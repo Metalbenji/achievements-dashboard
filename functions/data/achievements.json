@@ -2316,7 +2316,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2335,7 +2335,7 @@
         "sub_master",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T21:08:56Z"
+      "lastUpdated": "2025-07-05T21:08:59Z"
     },
     "majesty81": {
       "counters": {
@@ -2575,17 +2575,19 @@
       "counters": {
         "follow": 1,
         "chat": 6,
-        "points_spent": 201,
-        "effects": 1
+        "points_spent": 551,
+        "effects": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "birthday_person",
         "effect_first",
-        "chat_newbie"
+        "chat_newbie",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-07-05T20:41:48Z"
+      "lastUpdated": "2025-07-05T21:13:43Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -2599,7 +2601,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T20:08:56Z",
+  "lastUpdated": "2025-07-05T20:13:44Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
