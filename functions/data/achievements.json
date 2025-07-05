@@ -2575,7 +2575,7 @@
       "counters": {
         "follow": 1,
         "chat": 6,
-        "points_spent": 551,
+        "points_spent": 2551,
         "effects": 1,
         "screenshot": 1
       },
@@ -2585,9 +2585,10 @@
         "birthday_person",
         "effect_first",
         "chat_newbie",
-        "screenshot_first"
+        "screenshot_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-05T21:13:43Z"
+      "lastUpdated": "2025-07-05T21:17:02Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -2601,7 +2602,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T20:13:44Z",
+  "lastUpdated": "2025-07-05T20:17:02Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
