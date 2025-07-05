@@ -2154,7 +2154,8 @@
         "points_spent": 1050,
         "sounds": 1,
         "effects": 2,
-        "sub": 39
+        "sub": 39,
+        "bits": 1000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2174,9 +2175,14 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "sub_master"
+        "sub_master",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular",
+        "bits_steady",
+        "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-05T17:54:48Z"
+      "lastUpdated": "2025-07-05T17:56:29Z"
     },
     "andilippi": {
       "counters": {
@@ -2525,7 +2531,7 @@
       "lastUpdated": "2025-07-05T17:55:38Z"
     }
   },
-  "lastUpdated": "2025-07-05T16:56:31Z",
+  "lastUpdated": "2025-07-05T16:56:33Z",
   "totalUsers": 80,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
