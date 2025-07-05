@@ -1965,14 +1965,14 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T15:02:41Z"
+      "lastUpdated": "2025-07-05T15:05:46Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2464,10 +2464,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-07-05T13:51:44Z"
+    },
+    "roffelonator": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-05T15:09:26Z"
     }
   },
-  "lastUpdated": "2025-07-05T14:02:41Z",
-  "totalUsers": 77,
+  "lastUpdated": "2025-07-05T14:09:27Z",
+  "totalUsers": 78,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
