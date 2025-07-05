@@ -2376,19 +2376,20 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 22,
+        "chat": 23,
         "follow": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
         "chat_talker",
         "night_owl",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T08:49:41Z"
+      "lastUpdated": "2025-07-05T08:49:43Z"
     }
   },
-  "lastUpdated": "2025-07-05T07:49:42Z",
+  "lastUpdated": "2025-07-05T07:49:43Z",
   "totalUsers": 74,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
