@@ -2150,7 +2150,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 13,
+        "chat": 14,
         "points_spent": 1050,
         "sounds": 1,
         "effects": 2,
@@ -2176,7 +2176,7 @@
         "sub_elite",
         "sub_master"
       ],
-      "lastUpdated": "2025-07-05T17:11:36Z"
+      "lastUpdated": "2025-07-05T17:12:24Z"
     },
     "andilippi": {
       "counters": {
@@ -2203,14 +2203,15 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T08:53:17Z"
+      "lastUpdated": "2025-07-05T17:13:08Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -2512,7 +2513,7 @@
       "lastUpdated": "2025-07-05T16:01:05Z"
     }
   },
-  "lastUpdated": "2025-07-05T16:11:45Z",
+  "lastUpdated": "2025-07-05T16:13:09Z",
   "totalUsers": 79,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
