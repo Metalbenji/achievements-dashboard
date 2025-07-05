@@ -1339,7 +1339,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "points_spent": 5100,
         "follow": 1
       },
@@ -1348,9 +1348,10 @@
         "spender_bronze",
         "chat_newbie",
         "follow_supporter",
-        "biggest_fan"
+        "biggest_fan",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T11:00:27Z"
+      "lastUpdated": "2025-07-05T14:42:11Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1399,7 +1400,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 25,
+        "chat": 27,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1424,7 +1425,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T14:39:42Z"
+      "lastUpdated": "2025-07-05T14:39:47Z"
     },
     "dmustain": {
       "counters": {
@@ -1849,7 +1850,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 369,
+        "chat": 370,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1880,7 +1881,7 @@
         "gift_bomb_200",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-05T14:39:21Z"
+      "lastUpdated": "2025-07-05T14:41:33Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2464,7 +2465,7 @@
       "lastUpdated": "2025-07-05T13:51:44Z"
     }
   },
-  "lastUpdated": "2025-07-05T13:39:42Z",
+  "lastUpdated": "2025-07-05T13:42:11Z",
   "totalUsers": 77,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
