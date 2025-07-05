@@ -1444,7 +1444,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "points_spent": 200,
         "effects": 1,
         "follow": 1
@@ -1453,7 +1453,8 @@
         "weekend_warrior",
         "effect_first",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_talker"
       ],
       "lastUpdated": "2025-07-05T11:32:13Z"
     },
