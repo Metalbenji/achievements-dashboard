@@ -1852,7 +1852,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 390,
+        "chat": 392,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1886,7 +1886,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T18:17:07Z"
+      "lastUpdated": "2025-07-05T20:30:54Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2561,16 +2561,18 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-07-05T20:27:14Z"
+      "lastUpdated": "2025-07-05T20:31:20Z"
     }
   },
-  "lastUpdated": "2025-07-05T19:30:42Z",
+  "lastUpdated": "2025-07-05T19:31:20Z",
   "totalUsers": 83,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
