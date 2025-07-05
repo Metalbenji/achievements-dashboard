@@ -1479,7 +1479,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 84,
+        "chat": 85,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1506,7 +1506,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-05T12:40:32Z"
+      "lastUpdated": "2025-07-05T13:26:49Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1556,10 +1556,11 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 16,
+        "chat": 17,
         "points_spent": 1300,
         "interactive": 1,
-        "effects": 1
+        "effects": 1,
+        "sub": 22
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1568,13 +1569,21 @@
         "interactive_first",
         "spender_bronze",
         "effect_first",
-        "chat_talker"
+        "chat_talker",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum"
       ],
-      "lastUpdated": "2025-07-05T13:17:12Z"
+      "lastUpdated": "2025-07-05T13:18:19Z"
     },
     "tawmae": {
       "counters": {
-        "chat": 58,
+        "chat": 59,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -1588,7 +1597,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T12:33:48Z"
+      "lastUpdated": "2025-07-05T13:29:16Z"
     },
     "kripoje": {
       "counters": {
@@ -2046,10 +2055,10 @@
     },
     "loopylolly": {
       "counters": {
-        "points_spent": 1600,
-        "effects": 2,
+        "points_spent": 2400,
+        "effects": 3,
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "sub": 23
       },
       "unlockedAchievements": [
@@ -2066,9 +2075,10 @@
         "chat_newbie",
         "chat_talker",
         "spender_bronze",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T13:49:08Z"
+      "lastUpdated": "2025-07-05T13:30:49Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -2435,7 +2445,7 @@
       "lastUpdated": "2025-07-05T12:31:44Z"
     }
   },
-  "lastUpdated": "2025-07-05T12:17:40Z",
+  "lastUpdated": "2025-07-05T12:30:49Z",
   "totalUsers": 76,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
