@@ -1732,7 +1732,7 @@
       "counters": {
         "follow": 1,
         "chat": 41,
-        "points_spent": 2851,
+        "points_spent": 2852,
         "interactive": 3,
         "effects": 3
       },
@@ -1747,7 +1747,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T17:14:16Z"
+      "lastUpdated": "2025-07-05T20:23:14Z"
     },
     "redunt86": {
       "counters": {
@@ -2547,16 +2547,29 @@
     },
     "lumina_crabs": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T20:23:08Z"
+      "lastUpdated": "2025-07-05T20:23:09Z"
+    },
+    "thunderhowlerr": {
+      "counters": {
+        "follow": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-05T20:27:14Z"
     }
   },
-  "lastUpdated": "2025-07-05T19:23:08Z",
-  "totalUsers": 82,
+  "lastUpdated": "2025-07-05T19:27:15Z",
+  "totalUsers": 83,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
