@@ -1427,7 +1427,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 25,
+        "chat": 26,
         "points_spent": 1400,
         "effects": 3,
         "follow": 1
@@ -1441,11 +1441,11 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T12:48:18Z"
+      "lastUpdated": "2025-07-05T12:49:12Z"
     },
     "miromaaldis": {
       "counters": {
-        "chat": 13,
+        "chat": 14,
         "points_spent": 400,
         "effects": 2,
         "follow": 1
@@ -1457,7 +1457,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-05T12:03:26Z"
+      "lastUpdated": "2025-07-05T13:17:16Z"
     },
     "ramdon101": {
       "counters": {
@@ -1556,7 +1556,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 15,
+        "chat": 16,
         "points_spent": 1300,
         "interactive": 1,
         "effects": 1
@@ -1570,7 +1570,7 @@
         "effect_first",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T16:35:18Z"
+      "lastUpdated": "2025-07-05T13:17:12Z"
     },
     "tawmae": {
       "counters": {
@@ -2435,7 +2435,7 @@
       "lastUpdated": "2025-07-05T12:31:44Z"
     }
   },
-  "lastUpdated": "2025-07-05T11:48:18Z",
+  "lastUpdated": "2025-07-05T12:17:36Z",
   "totalUsers": 76,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
