@@ -1370,7 +1370,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 151,
+        "chat": 154,
         "points_spent": 5400
       },
       "unlockedAchievements": [
@@ -1384,7 +1384,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-05T12:35:54Z"
+      "lastUpdated": "2025-07-05T12:45:58Z"
     },
     "celran": {
       "counters": {
@@ -1427,7 +1427,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 24,
+        "chat": 25,
         "points_spent": 1400,
         "effects": 3,
         "follow": 1
@@ -1438,9 +1438,10 @@
         "spender_bronze",
         "chat_newbie",
         "follow_supporter",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T16:27:33Z"
+      "lastUpdated": "2025-07-05T12:48:18Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1478,10 +1479,11 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 80,
+        "chat": 84,
         "points_spent": 3100,
         "interactive": 1,
-        "follow": 1
+        "follow": 1,
+        "sub": 31
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1492,9 +1494,19 @@
         "spender_bronze",
         "biggest_fan",
         "night_owl",
-        "follow_supporter"
+        "follow_supporter",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite"
       ],
-      "lastUpdated": "2025-07-05T12:35:41Z"
+      "lastUpdated": "2025-07-05T12:40:32Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1523,9 +1535,9 @@
     },
     "lottec": {
       "counters": {
-        "points_spent": 2900,
-        "effects": 3,
-        "chat": 35,
+        "points_spent": 3700,
+        "effects": 4,
+        "chat": 37,
         "sounds": 1,
         "follow": 1
       },
@@ -1539,7 +1551,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T15:19:23Z"
+      "lastUpdated": "2025-07-05T12:38:33Z"
     },
     "hairypawter": {
       "counters": {
@@ -1657,7 +1669,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 125,
+        "chat": 129,
         "points_spent": 102,
         "effects": 1
       },
@@ -1671,7 +1683,7 @@
         "chat_regular",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T12:34:34Z"
+      "lastUpdated": "2025-07-05T12:38:52Z"
     },
     "anzerou": {
       "counters": {
@@ -2423,7 +2435,7 @@
       "lastUpdated": "2025-07-05T12:31:44Z"
     }
   },
-  "lastUpdated": "2025-07-05T11:36:13Z",
+  "lastUpdated": "2025-07-05T11:48:18Z",
   "totalUsers": 76,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
