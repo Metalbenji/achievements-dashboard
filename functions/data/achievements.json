@@ -1429,7 +1429,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 28,
+        "chat": 29,
         "points_spent": 1700,
         "effects": 4,
         "follow": 1
@@ -1444,7 +1444,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T23:08:29Z"
+      "lastUpdated": "2025-07-05T23:10:40Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1513,7 +1513,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 23,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1521,9 +1521,10 @@
         "night_owl",
         "chat_newbie",
         "follow_supporter",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T23:08:21Z"
+      "lastUpdated": "2025-07-05T23:10:43Z"
     },
     "scoman07": {
       "counters": {
@@ -1540,7 +1541,7 @@
       "counters": {
         "points_spent": 3700,
         "effects": 4,
-        "chat": 43,
+        "chat": 44,
         "sounds": 1,
         "follow": 1
       },
@@ -1555,7 +1556,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T22:58:27Z"
+      "lastUpdated": "2025-07-05T23:10:39Z"
     },
     "hairypawter": {
       "counters": {
@@ -1856,7 +1857,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 420,
+        "chat": 424,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1890,7 +1891,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T23:07:50Z"
+      "lastUpdated": "2025-07-05T23:09:28Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2607,7 +2608,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T22:08:30Z",
+  "lastUpdated": "2025-07-05T22:10:44Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
