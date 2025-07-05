@@ -1463,7 +1463,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 76,
+        "chat": 77,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1
@@ -1477,7 +1477,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-05T20:29:22Z"
+      "lastUpdated": "2025-07-05T20:30:37Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2549,13 +2549,14 @@
     "lumina_crabs": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T20:29:18Z"
+      "lastUpdated": "2025-07-05T20:30:42Z"
     },
     "thunderhowlerr": {
       "counters": {
@@ -2569,7 +2570,7 @@
       "lastUpdated": "2025-07-05T20:27:14Z"
     }
   },
-  "lastUpdated": "2025-07-05T19:30:36Z",
+  "lastUpdated": "2025-07-05T19:30:42Z",
   "totalUsers": 83,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
