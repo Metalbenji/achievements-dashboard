@@ -1463,7 +1463,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 75,
+        "chat": 76,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1
@@ -1477,7 +1477,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-05T14:30:29Z"
+      "lastUpdated": "2025-07-05T20:29:22Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1818,7 +1818,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1827,7 +1827,7 @@
         "chat_talker",
         "night_owl"
       ],
-      "lastUpdated": "2025-06-21T22:28:11Z"
+      "lastUpdated": "2025-07-05T20:30:13Z"
     },
     "epik__tv": {
       "counters": {
@@ -2153,7 +2153,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "points_spent": 1050,
         "sounds": 1,
         "effects": 2,
@@ -2185,9 +2185,10 @@
         "bits_regular",
         "bits_steady",
         "bits_dedicated",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T18:16:19Z"
+      "lastUpdated": "2025-07-05T20:30:36Z"
     },
     "andilippi": {
       "counters": {
@@ -2548,13 +2549,13 @@
     "lumina_crabs": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T20:23:09Z"
+      "lastUpdated": "2025-07-05T20:29:18Z"
     },
     "thunderhowlerr": {
       "counters": {
@@ -2568,7 +2569,7 @@
       "lastUpdated": "2025-07-05T20:27:14Z"
     }
   },
-  "lastUpdated": "2025-07-05T19:27:15Z",
+  "lastUpdated": "2025-07-05T19:30:36Z",
   "totalUsers": 83,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
