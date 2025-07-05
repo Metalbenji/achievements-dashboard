@@ -1370,7 +1370,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 133,
+        "chat": 136,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -1384,7 +1384,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-06-22T17:28:49Z"
+      "lastUpdated": "2025-07-05T11:13:25Z"
     },
     "celran": {
       "counters": {
@@ -1648,7 +1648,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 90,
+        "chat": 100,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1657,9 +1657,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "first_caller"
+        "first_caller",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-06-28T12:47:47Z"
+      "lastUpdated": "2025-07-05T11:13:48Z"
     },
     "anzerou": {
       "counters": {
@@ -1813,7 +1814,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 354,
+        "chat": 358,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1844,7 +1845,7 @@
         "gift_bomb_200",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-06-28T16:29:32Z"
+      "lastUpdated": "2025-07-05T11:13:29Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2389,7 +2390,7 @@
       "lastUpdated": "2025-07-05T08:49:43Z"
     }
   },
-  "lastUpdated": "2025-07-05T07:49:43Z",
+  "lastUpdated": "2025-07-05T10:13:48Z",
   "totalUsers": 74,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
