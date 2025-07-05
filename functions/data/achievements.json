@@ -1539,7 +1539,7 @@
       "counters": {
         "points_spent": 3700,
         "effects": 4,
-        "chat": 37,
+        "chat": 38,
         "sounds": 1,
         "follow": 1
       },
@@ -1551,9 +1551,10 @@
         "chat_talker",
         "sound_first",
         "follow_supporter",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-05T12:38:33Z"
+      "lastUpdated": "2025-07-05T22:36:40Z"
     },
     "hairypawter": {
       "counters": {
@@ -1680,7 +1681,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 160,
+        "chat": 164,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1697,7 +1698,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T22:05:36Z"
+      "lastUpdated": "2025-07-05T22:17:00Z"
     },
     "anzerou": {
       "counters": {
@@ -1786,7 +1787,7 @@
       "counters": {
         "points_spent": 3350,
         "follow": 1,
-        "chat": 31,
+        "chat": 35,
         "effects": 4,
         "screenshot": 1,
         "sounds": 1
@@ -1803,7 +1804,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T22:04:49Z"
+      "lastUpdated": "2025-07-05T22:36:01Z"
     },
     "syn__________": {
       "counters": {
@@ -1854,7 +1855,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 397,
+        "chat": 404,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1888,7 +1889,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T21:47:51Z"
+      "lastUpdated": "2025-07-05T22:35:54Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2604,7 +2605,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T21:05:36Z",
+  "lastUpdated": "2025-07-05T21:36:41Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
