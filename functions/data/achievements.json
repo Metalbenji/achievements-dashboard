@@ -1680,7 +1680,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 143,
+        "chat": 144,
         "points_spent": 652,
         "effects": 2,
         "sounds": 2
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T17:24:27Z"
+      "lastUpdated": "2025-07-05T17:46:44Z"
     },
     "anzerou": {
       "counters": {
@@ -2150,7 +2150,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 16,
+        "chat": 19,
         "points_spent": 1050,
         "sounds": 1,
         "effects": 2,
@@ -2176,7 +2176,7 @@
         "sub_elite",
         "sub_master"
       ],
-      "lastUpdated": "2025-07-05T17:36:52Z"
+      "lastUpdated": "2025-07-05T17:52:12Z"
     },
     "andilippi": {
       "counters": {
@@ -2514,15 +2514,18 @@
     },
     "domtok1": {
       "counters": {
-        "chat": 1
+        "chat": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T17:41:52Z"
+      "lastUpdated": "2025-07-05T17:52:29Z"
     }
   },
-  "lastUpdated": "2025-07-05T16:41:52Z",
+  "lastUpdated": "2025-07-05T16:52:30Z",
   "totalUsers": 80,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
