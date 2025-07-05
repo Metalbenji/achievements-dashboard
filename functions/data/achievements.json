@@ -1562,17 +1562,19 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 56,
-        "follow": 1
+        "chat": 58,
+        "follow": 1,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "follow_supporter"
+        "follow_supporter",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-05T12:31:26Z"
+      "lastUpdated": "2025-07-05T12:33:47Z"
     },
     "kripoje": {
       "counters": {
@@ -1653,7 +1655,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 120,
+        "chat": 123,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1665,7 +1667,7 @@
         "first_caller",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-05T12:00:57Z"
+      "lastUpdated": "2025-07-05T12:33:43Z"
     },
     "anzerou": {
       "counters": {
@@ -2407,15 +2409,17 @@
     },
     "bongo1986": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T12:31:43Z"
+      "lastUpdated": "2025-07-05T12:31:44Z"
     }
   },
-  "lastUpdated": "2025-07-05T11:31:44Z",
+  "lastUpdated": "2025-07-05T11:33:47Z",
   "totalUsers": 76,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
