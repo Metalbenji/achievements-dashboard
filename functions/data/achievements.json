@@ -1732,8 +1732,9 @@
       "counters": {
         "follow": 1,
         "chat": 41,
-        "points_spent": 1501,
-        "interactive": 3
+        "points_spent": 1701,
+        "interactive": 3,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1743,9 +1744,10 @@
         "chat_talker",
         "first_caller",
         "spender_bronze",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-05T17:05:21Z"
+      "lastUpdated": "2025-07-05T17:11:44Z"
     },
     "redunt86": {
       "counters": {
@@ -2151,7 +2153,8 @@
         "chat": 13,
         "points_spent": 1050,
         "sounds": 1,
-        "effects": 2
+        "effects": 2,
+        "sub": 39
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2160,9 +2163,20 @@
         "sound_first",
         "chat_talker",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "sub_master"
       ],
-      "lastUpdated": "2025-06-28T15:43:00Z"
+      "lastUpdated": "2025-07-05T17:11:36Z"
     },
     "andilippi": {
       "counters": {
@@ -2498,7 +2512,7 @@
       "lastUpdated": "2025-07-05T16:01:05Z"
     }
   },
-  "lastUpdated": "2025-07-05T16:11:44Z",
+  "lastUpdated": "2025-07-05T16:11:45Z",
   "totalUsers": 79,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
