@@ -2561,7 +2561,7 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 4,
+        "chat": 5,
         "points_spent": 201,
         "effects": 1
       },
@@ -2569,21 +2569,24 @@
         "follow_supporter",
         "weekend_warrior",
         "birthday_person",
-        "effect_first"
+        "effect_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T20:33:18Z"
+      "lastUpdated": "2025-07-05T20:34:50Z"
     },
     "bubbly_pink93": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T20:34:09Z"
+      "lastUpdated": "2025-07-05T20:34:10Z"
     }
   },
-  "lastUpdated": "2025-07-05T19:34:09Z",
+  "lastUpdated": "2025-07-05T19:34:50Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
