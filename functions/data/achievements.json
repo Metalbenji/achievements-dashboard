@@ -1852,7 +1852,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 392,
+        "chat": 393,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1886,7 +1886,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T20:30:54Z"
+      "lastUpdated": "2025-07-05T20:45:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2153,8 +2153,8 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 25,
-        "points_spent": 1050,
+        "chat": 26,
+        "points_spent": 1450,
         "sounds": 1,
         "effects": 2,
         "sub": 39,
@@ -2188,7 +2188,7 @@
         "raid_tier1_captain",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T20:30:36Z"
+      "lastUpdated": "2025-07-05T20:47:24Z"
     },
     "andilippi": {
       "counters": {
@@ -2561,7 +2561,7 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 201,
         "effects": 1
       },
@@ -2572,21 +2572,21 @@
         "effect_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T20:34:50Z"
+      "lastUpdated": "2025-07-05T20:41:48Z"
     },
     "bubbly_pink93": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T20:34:10Z"
+      "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T19:34:50Z",
+  "lastUpdated": "2025-07-05T19:55:03Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
