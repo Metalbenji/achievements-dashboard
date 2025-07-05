@@ -1680,10 +1680,10 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 137,
-        "points_spent": 552,
+        "chat": 139,
+        "points_spent": 652,
         "effects": 2,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T15:34:36Z"
+      "lastUpdated": "2025-07-05T16:49:48Z"
     },
     "anzerou": {
       "counters": {
@@ -1732,8 +1732,8 @@
       "counters": {
         "follow": 1,
         "chat": 41,
-        "points_spent": 1001,
-        "interactive": 2
+        "points_spent": 1501,
+        "interactive": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1745,7 +1745,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T15:35:44Z"
+      "lastUpdated": "2025-07-05T17:05:21Z"
     },
     "redunt86": {
       "counters": {
@@ -2007,16 +2007,27 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 27
+        "chat": 32,
+        "sub": 32
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite"
       ],
-      "lastUpdated": "2025-06-28T10:50:26Z"
+      "lastUpdated": "2025-07-05T16:47:41Z"
     },
     "umenneske94": {
       "counters": {
@@ -2487,7 +2498,7 @@
       "lastUpdated": "2025-07-05T16:01:05Z"
     }
   },
-  "lastUpdated": "2025-07-05T15:29:17Z",
+  "lastUpdated": "2025-07-05T16:11:37Z",
   "totalUsers": 79,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
