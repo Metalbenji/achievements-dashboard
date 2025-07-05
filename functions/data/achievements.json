@@ -1339,7 +1339,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 10,
+        "chat": 11,
         "points_spent": 5100,
         "follow": 1
       },
@@ -1351,7 +1351,7 @@
         "biggest_fan",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-05T14:42:11Z"
+      "lastUpdated": "2025-07-05T14:51:16Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1680,7 +1680,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 132,
+        "chat": 134,
         "points_spent": 552,
         "effects": 2,
         "sounds": 1
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T14:35:37Z"
+      "lastUpdated": "2025-07-05T15:02:16Z"
     },
     "anzerou": {
       "counters": {
@@ -1965,13 +1965,14 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-22T11:43:45Z"
+      "lastUpdated": "2025-07-05T15:02:41Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2465,7 +2466,7 @@
       "lastUpdated": "2025-07-05T13:51:44Z"
     }
   },
-  "lastUpdated": "2025-07-05T13:42:11Z",
+  "lastUpdated": "2025-07-05T14:02:41Z",
   "totalUsers": 77,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
