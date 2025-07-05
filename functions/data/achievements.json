@@ -1339,7 +1339,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 11,
+        "chat": 12,
         "points_spent": 5100,
         "follow": 1
       },
@@ -1351,7 +1351,7 @@
         "biggest_fan",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-05T14:51:16Z"
+      "lastUpdated": "2025-07-05T15:35:14Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1680,7 +1680,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 134,
+        "chat": 137,
         "points_spent": 552,
         "effects": 2,
         "sounds": 1
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T15:02:16Z"
+      "lastUpdated": "2025-07-05T15:34:36Z"
     },
     "anzerou": {
       "counters": {
@@ -1731,7 +1731,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 41,
         "points_spent": 1001,
         "interactive": 2
       },
@@ -1745,7 +1745,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T09:19:40Z"
+      "lastUpdated": "2025-07-05T15:35:44Z"
     },
     "redunt86": {
       "counters": {
@@ -1850,7 +1850,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 370,
+        "chat": 375,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1881,7 +1881,7 @@
         "gift_bomb_200",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-05T14:41:33Z"
+      "lastUpdated": "2025-07-05T15:43:40Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2398,7 +2398,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 22
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2406,7 +2406,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-05T14:31:21Z"
+      "lastUpdated": "2025-07-05T15:19:39Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -2467,17 +2467,26 @@
     },
     "roffelonator": {
       "counters": {
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T15:13:46Z"
+      "lastUpdated": "2025-07-05T15:23:35Z"
+    },
+    "mortygen": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-05T16:01:05Z"
     }
   },
-  "lastUpdated": "2025-07-05T14:13:46Z",
-  "totalUsers": 78,
+  "lastUpdated": "2025-07-05T15:01:05Z",
+  "totalUsers": 79,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
