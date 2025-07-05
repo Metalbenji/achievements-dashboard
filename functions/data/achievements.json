@@ -1539,7 +1539,7 @@
       "counters": {
         "points_spent": 3700,
         "effects": 4,
-        "chat": 38,
+        "chat": 41,
         "sounds": 1,
         "follow": 1
       },
@@ -1554,7 +1554,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T22:36:40Z"
+      "lastUpdated": "2025-07-05T22:39:33Z"
     },
     "hairypawter": {
       "counters": {
@@ -1855,7 +1855,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 404,
+        "chat": 407,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1889,7 +1889,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T22:35:54Z"
+      "lastUpdated": "2025-07-05T22:40:05Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1973,14 +1973,15 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-05T21:43:05Z"
+      "lastUpdated": "2025-07-05T22:45:05Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2605,7 +2606,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T21:36:41Z",
+  "lastUpdated": "2025-07-05T21:45:06Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
