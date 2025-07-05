@@ -1371,7 +1371,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 164,
+        "chat": 165,
         "points_spent": 5400
       },
       "unlockedAchievements": [
@@ -1385,7 +1385,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-05T14:27:10Z"
+      "lastUpdated": "2025-07-05T17:57:24Z"
     },
     "celran": {
       "counters": {
@@ -1852,11 +1852,13 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 382,
+        "chat": 385,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
-        "largest_gift_bomb": 339
+        "largest_gift_bomb": 339,
+        "points_spent": 800,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1881,9 +1883,10 @@
         "gift_bomb_100",
         "gift_bomb_150",
         "gift_bomb_200",
-        "gift_bombs_first"
+        "gift_bombs_first",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-05T17:54:57Z"
+      "lastUpdated": "2025-07-05T18:09:42Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2150,12 +2153,13 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 20,
+        "chat": 21,
         "points_spent": 1050,
         "sounds": 1,
         "effects": 2,
         "sub": 39,
-        "bits": 1000
+        "bits": 1000,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2180,9 +2184,10 @@
         "bits_small",
         "bits_regular",
         "bits_steady",
-        "bits_dedicated"
+        "bits_dedicated",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-07-05T17:56:29Z"
+      "lastUpdated": "2025-07-05T17:58:03Z"
     },
     "andilippi": {
       "counters": {
@@ -2531,7 +2536,7 @@
       "lastUpdated": "2025-07-05T17:55:38Z"
     }
   },
-  "lastUpdated": "2025-07-05T16:56:33Z",
+  "lastUpdated": "2025-07-05T17:09:42Z",
   "totalUsers": 80,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
