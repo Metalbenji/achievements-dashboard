@@ -1481,7 +1481,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 91,
+        "chat": 94,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1508,7 +1508,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-05T14:39:38Z"
+      "lastUpdated": "2025-07-05T20:57:12Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1681,9 +1681,9 @@
       "counters": {
         "follow": 1,
         "chat": 156,
-        "points_spent": 652,
+        "points_spent": 752,
         "effects": 2,
-        "sounds": 2
+        "sounds": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T20:23:00Z"
+      "lastUpdated": "2025-07-05T20:55:49Z"
     },
     "anzerou": {
       "counters": {
@@ -1852,7 +1852,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 393,
+        "chat": 396,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1886,7 +1886,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T20:45:14Z"
+      "lastUpdated": "2025-07-05T21:08:42Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2316,13 +2316,26 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5,
+        "sub": 40
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "sub_master",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T10:24:02Z"
+      "lastUpdated": "2025-07-05T21:08:56Z"
     },
     "majesty81": {
       "counters": {
@@ -2586,7 +2599,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T19:55:08Z",
+  "lastUpdated": "2025-07-05T20:08:56Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
