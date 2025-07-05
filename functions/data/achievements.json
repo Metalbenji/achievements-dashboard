@@ -1680,7 +1680,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 144,
+        "chat": 145,
         "points_spent": 652,
         "effects": 2,
         "sounds": 2
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T17:46:44Z"
+      "lastUpdated": "2025-07-05T17:54:22Z"
     },
     "anzerou": {
       "counters": {
@@ -1852,7 +1852,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 380,
+        "chat": 382,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1883,7 +1883,7 @@
         "gift_bomb_200",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-05T16:22:05Z"
+      "lastUpdated": "2025-07-05T17:54:57Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2150,7 +2150,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 19,
+        "chat": 20,
         "points_spent": 1050,
         "sounds": 1,
         "effects": 2,
@@ -2176,7 +2176,7 @@
         "sub_elite",
         "sub_master"
       ],
-      "lastUpdated": "2025-07-05T17:52:12Z"
+      "lastUpdated": "2025-07-05T17:54:48Z"
     },
     "andilippi": {
       "counters": {
@@ -2514,7 +2514,7 @@
     },
     "domtok1": {
       "counters": {
-        "chat": 5,
+        "chat": 7,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2522,10 +2522,10 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T17:52:29Z"
+      "lastUpdated": "2025-07-05T17:55:38Z"
     }
   },
-  "lastUpdated": "2025-07-05T16:52:30Z",
+  "lastUpdated": "2025-07-05T16:56:29Z",
   "totalUsers": 80,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
