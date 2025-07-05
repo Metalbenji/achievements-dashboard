@@ -1680,7 +1680,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 148,
+        "chat": 150,
         "points_spent": 652,
         "effects": 2,
         "sounds": 2
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T18:16:50Z"
+      "lastUpdated": "2025-07-05T20:18:49Z"
     },
     "anzerou": {
       "counters": {
@@ -2456,7 +2456,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 23,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2464,9 +2464,10 @@
         "chat_talker",
         "night_owl",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T08:49:43Z"
+      "lastUpdated": "2025-07-05T20:19:13Z"
     },
     "sprockettrap": {
       "counters": {
@@ -2545,7 +2546,7 @@
       "lastUpdated": "2025-07-05T18:18:01Z"
     }
   },
-  "lastUpdated": "2025-07-05T17:18:01Z",
+  "lastUpdated": "2025-07-05T19:19:13Z",
   "totalUsers": 81,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
