@@ -1850,7 +1850,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 375,
+        "chat": 380,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1881,7 +1881,7 @@
         "gift_bomb_200",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-05T15:43:40Z"
+      "lastUpdated": "2025-07-05T16:22:05Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2477,15 +2477,17 @@
     },
     "mortygen": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-07-05T16:01:05Z"
     }
   },
-  "lastUpdated": "2025-07-05T15:01:05Z",
+  "lastUpdated": "2025-07-05T15:29:10Z",
   "totalUsers": 79,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
