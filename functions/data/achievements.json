@@ -1429,7 +1429,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 27,
+        "chat": 28,
         "points_spent": 1700,
         "effects": 4,
         "follow": 1
@@ -1441,9 +1441,10 @@
         "chat_newbie",
         "follow_supporter",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-05T14:31:07Z"
+      "lastUpdated": "2025-07-05T23:08:29Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1512,7 +1513,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 21,
+        "chat": 23,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1522,7 +1523,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-05T12:12:32Z"
+      "lastUpdated": "2025-07-05T23:08:21Z"
     },
     "scoman07": {
       "counters": {
@@ -1539,7 +1540,7 @@
       "counters": {
         "points_spent": 3700,
         "effects": 4,
-        "chat": 41,
+        "chat": 43,
         "sounds": 1,
         "follow": 1
       },
@@ -1554,7 +1555,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T22:39:33Z"
+      "lastUpdated": "2025-07-05T22:58:27Z"
     },
     "hairypawter": {
       "counters": {
@@ -1787,7 +1788,7 @@
       "counters": {
         "points_spent": 3350,
         "follow": 1,
-        "chat": 35,
+        "chat": 36,
         "effects": 4,
         "screenshot": 1,
         "sounds": 1
@@ -1804,7 +1805,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T22:36:01Z"
+      "lastUpdated": "2025-07-05T22:53:31Z"
     },
     "syn__________": {
       "counters": {
@@ -1855,7 +1856,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 407,
+        "chat": 420,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1889,7 +1890,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T22:40:05Z"
+      "lastUpdated": "2025-07-05T23:07:50Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2606,7 +2607,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T21:45:06Z",
+  "lastUpdated": "2025-07-05T22:08:30Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
