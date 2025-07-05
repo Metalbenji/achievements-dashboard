@@ -1680,7 +1680,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 145,
+        "chat": 148,
         "points_spent": 652,
         "effects": 2,
         "sounds": 2
@@ -1696,7 +1696,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-05T17:54:22Z"
+      "lastUpdated": "2025-07-05T18:16:50Z"
     },
     "anzerou": {
       "counters": {
@@ -1852,7 +1852,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 385,
+        "chat": 390,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1886,7 +1886,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T18:09:42Z"
+      "lastUpdated": "2025-07-05T18:17:07Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2153,7 +2153,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 21,
+        "chat": 24,
         "points_spent": 1050,
         "sounds": 1,
         "effects": 2,
@@ -2187,7 +2187,7 @@
         "bits_dedicated",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-07-05T17:58:03Z"
+      "lastUpdated": "2025-07-05T18:16:19Z"
     },
     "andilippi": {
       "counters": {
@@ -2525,7 +2525,7 @@
     },
     "domtok1": {
       "counters": {
-        "chat": 7,
+        "chat": 8,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2533,11 +2533,20 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T17:55:38Z"
+      "lastUpdated": "2025-07-05T18:16:41Z"
+    },
+    "filou1974": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-05T18:18:01Z"
     }
   },
-  "lastUpdated": "2025-07-05T17:09:42Z",
-  "totalUsers": 80,
+  "lastUpdated": "2025-07-05T17:18:01Z",
+  "totalUsers": 81,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
