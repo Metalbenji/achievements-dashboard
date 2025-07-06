@@ -1400,7 +1400,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 41,
+        "chat": 43,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1425,11 +1425,11 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T11:57:35Z"
+      "lastUpdated": "2025-07-06T12:12:38Z"
     },
     "dmustain": {
       "counters": {
-        "chat": 30,
+        "chat": 32,
         "points_spent": 1800,
         "effects": 4,
         "follow": 1,
@@ -1446,7 +1446,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-06T12:10:14Z"
+      "lastUpdated": "2025-07-06T12:12:02Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1517,7 +1517,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 29,
+        "chat": 30,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1528,11 +1528,11 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:08:39Z"
+      "lastUpdated": "2025-07-06T12:11:54Z"
     },
     "scoman07": {
       "counters": {
-        "chat": 27,
+        "chat": 28,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1542,13 +1542,13 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:10:52Z"
+      "lastUpdated": "2025-07-06T12:12:28Z"
     },
     "lottec": {
       "counters": {
         "points_spent": 3700,
         "effects": 4,
-        "chat": 47,
+        "chat": 49,
         "sounds": 1,
         "follow": 1
       },
@@ -1563,7 +1563,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T12:09:07Z"
+      "lastUpdated": "2025-07-06T12:12:09Z"
     },
     "hairypawter": {
       "counters": {
@@ -1691,7 +1691,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 175,
+        "chat": 178,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1708,7 +1708,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T12:11:07Z"
+      "lastUpdated": "2025-07-06T12:12:52Z"
     },
     "anzerou": {
       "counters": {
@@ -1998,9 +1998,9 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 30,
-        "bits": 126,
-        "raid": 4
+        "chat": 32,
+        "bits": 245,
+        "raid": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2011,9 +2011,10 @@
         "bits_tiny",
         "bits_small",
         "raid_tier1_captain",
-        "bits_regular"
+        "bits_regular",
+        "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-07-06T12:11:21Z"
+      "lastUpdated": "2025-07-06T12:12:57Z"
     },
     "warl0c13": {
       "counters": {
@@ -2732,7 +2733,7 @@
       "lastUpdated": "2025-07-06T12:08:13Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:11:21Z",
+  "lastUpdated": "2025-07-06T11:12:57Z",
   "totalUsers": 91,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
