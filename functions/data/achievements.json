@@ -1737,7 +1737,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 47,
+        "chat": 48,
         "points_spent": 3352,
         "interactive": 4,
         "effects": 3
@@ -1753,7 +1753,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-06T09:17:45Z"
+      "lastUpdated": "2025-07-06T09:51:38Z"
     },
     "redunt86": {
       "counters": {
@@ -2625,18 +2625,19 @@
     "ryanstephenson232": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-06T09:46:22Z"
+      "lastUpdated": "2025-07-06T09:52:52Z"
     },
     "sarcissa": {
       "counters": {
         "sub": 40,
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2650,12 +2651,14 @@
         "sub_diamond",
         "sub_elite",
         "sub_master",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-06T09:49:01Z"
+      "lastUpdated": "2025-07-06T09:54:01Z"
     }
   },
-  "lastUpdated": "2025-07-06T08:49:01Z",
+  "lastUpdated": "2025-07-06T08:54:01Z",
   "totalUsers": 87,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
