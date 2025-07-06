@@ -1532,7 +1532,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 31,
+        "chat": 32,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1542,7 +1542,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:13:25Z"
+      "lastUpdated": "2025-07-06T12:14:15Z"
     },
     "lottec": {
       "counters": {
@@ -2601,7 +2601,7 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 3251,
         "effects": 4,
         "screenshot": 1,
@@ -2627,9 +2627,10 @@
         "gift_bomb_50",
         "gift_bomb_75",
         "gift_bomb_100",
-        "gift_bombs_first"
+        "gift_bombs_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T12:14:08Z"
+      "lastUpdated": "2025-07-06T12:14:18Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -2759,7 +2760,7 @@
       "lastUpdated": "2025-07-06T12:14:12Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:14:13Z",
+  "lastUpdated": "2025-07-06T11:14:19Z",
   "totalUsers": 92,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
