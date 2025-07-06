@@ -2686,10 +2686,30 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-07-06T11:31:33Z"
+    },
+    "arpi_89": {
+      "counters": {
+        "sub": 30,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T11:52:02Z"
     }
   },
-  "lastUpdated": "2025-07-06T10:51:43Z",
-  "totalUsers": 89,
+  "lastUpdated": "2025-07-06T10:52:03Z",
+  "totalUsers": 90,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
