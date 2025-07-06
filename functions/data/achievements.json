@@ -2785,12 +2785,14 @@
     },
     "misukonna": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-06T13:23:06Z"
+      "lastUpdated": "2025-07-06T13:23:07Z"
     }
   },
   "lastUpdated": "2025-07-06T12:23:07Z",
