@@ -1371,7 +1371,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 165,
+        "chat": 170,
         "points_spent": 5400
       },
       "unlockedAchievements": [
@@ -1385,7 +1385,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-05T17:57:24Z"
+      "lastUpdated": "2025-07-06T13:13:25Z"
     },
     "celran": {
       "counters": {
@@ -1486,7 +1486,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 94,
+        "chat": 96,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1513,7 +1513,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-05T20:57:12Z"
+      "lastUpdated": "2025-07-06T13:15:25Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1691,7 +1691,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 185,
+        "chat": 188,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1708,7 +1708,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T12:37:02Z"
+      "lastUpdated": "2025-07-06T12:45:45Z"
     },
     "anzerou": {
       "counters": {
@@ -1865,7 +1865,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 445,
+        "chat": 449,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -1899,7 +1899,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-06T12:40:39Z"
+      "lastUpdated": "2025-07-06T12:44:25Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1999,7 +1999,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 64,
+        "chat": 82,
         "bits": 390,
         "raid": 16,
         "points_spent": 800,
@@ -2020,7 +2020,7 @@
         "bits_steady",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-06T12:40:51Z"
+      "lastUpdated": "2025-07-06T13:01:55Z"
     },
     "warl0c13": {
       "counters": {
@@ -2573,15 +2573,18 @@
     },
     "domtok1": {
       "counters": {
-        "chat": 8,
-        "follow": 1
+        "chat": 9,
+        "follow": 1,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-05T18:16:41Z"
+      "lastUpdated": "2025-07-06T13:15:59Z"
     },
     "filou1974": {
       "counters": {
@@ -2778,7 +2781,7 @@
       "lastUpdated": "2025-07-06T12:20:37Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:40:51Z",
+  "lastUpdated": "2025-07-06T12:16:00Z",
   "totalUsers": 93,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
