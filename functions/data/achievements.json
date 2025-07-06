@@ -1371,7 +1371,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 170,
+        "chat": 172,
         "points_spent": 5400
       },
       "unlockedAchievements": [
@@ -1385,7 +1385,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-06T13:13:25Z"
+      "lastUpdated": "2025-07-06T13:16:52Z"
     },
     "celran": {
       "counters": {
@@ -1691,7 +1691,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 188,
+        "chat": 189,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1708,7 +1708,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T12:45:45Z"
+      "lastUpdated": "2025-07-06T13:18:40Z"
     },
     "anzerou": {
       "counters": {
@@ -2575,16 +2575,18 @@
       "counters": {
         "chat": 9,
         "follow": 1,
-        "points_spent": 200,
-        "effects": 1
+        "points_spent": 300,
+        "effects": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "effect_first"
+        "effect_first",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-06T13:15:59Z"
+      "lastUpdated": "2025-07-06T13:19:03Z"
     },
     "filou1974": {
       "counters": {
@@ -2781,7 +2783,7 @@
       "lastUpdated": "2025-07-06T12:20:37Z"
     }
   },
-  "lastUpdated": "2025-07-06T12:16:00Z",
+  "lastUpdated": "2025-07-06T12:19:03Z",
   "totalUsers": 93,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
