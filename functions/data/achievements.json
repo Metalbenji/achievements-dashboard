@@ -2763,12 +2763,14 @@
     },
     "mulquero": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-06T12:15:48Z"
+      "lastUpdated": "2025-07-06T12:15:49Z"
     }
   },
   "lastUpdated": "2025-07-06T11:15:49Z",
