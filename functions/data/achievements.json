@@ -262,6 +262,33 @@
       "Rarity": 5
     },
     {
+      "Id": "sub_tier1",
+      "Name": "Tier 1 Supporter",
+      "Description": "Subscribe at Tier 1. Welcome to the inner circle!",
+      "Icon": "🥉",
+      "RequiredValue": 1,
+      "Type": "sub_tier",
+      "Rarity": 2
+    },
+    {
+      "Id": "sub_tier2",
+      "Name": "Tier 2 Champion",
+      "Description": "Subscribe at Tier 2. Your support is immense!",
+      "Icon": "🥈",
+      "RequiredValue": 1,
+      "Type": "sub_tier",
+      "Rarity": 3
+    },
+    {
+      "Id": "sub_tier3",
+      "Name": "Tier 3 Legend",
+      "Description": "Subscribe at Tier 3. You are a true legend of this channel!",
+      "Icon": "🥇",
+      "RequiredValue": 1,
+      "Type": "sub_tier",
+      "Rarity": 4
+    },
+    {
       "Id": "bits_tiny",
       "Name": "Tiny Tipper",
       "Description": "Donate 5 bits total",
@@ -2828,8 +2855,8 @@
       "lastUpdated": "2025-07-06T17:18:42Z"
     }
   },
-  "lastUpdated": "2025-07-06T16:18:43Z",
+  "lastUpdated": "2025-07-06T16:31:11Z",
   "totalUsers": 96,
-  "totalAchievements": 144,
+  "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
