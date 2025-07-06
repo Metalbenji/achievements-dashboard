@@ -1326,7 +1326,7 @@
     },
     "flaminjurr": {
       "counters": {
-        "chat": 19,
+        "chat": 20,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1335,7 +1335,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T15:36:52Z"
+      "lastUpdated": "2025-07-06T13:20:58Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2573,7 +2573,7 @@
     },
     "domtok1": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
@@ -2584,9 +2584,10 @@
         "follow_supporter",
         "chat_newbie",
         "effect_first",
-        "sound_first"
+        "sound_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T13:19:03Z"
+      "lastUpdated": "2025-07-06T13:21:13Z"
     },
     "filou1974": {
       "counters": {
@@ -2783,7 +2784,7 @@
       "lastUpdated": "2025-07-06T12:20:37Z"
     }
   },
-  "lastUpdated": "2025-07-06T12:19:03Z",
+  "lastUpdated": "2025-07-06T12:21:13Z",
   "totalUsers": 93,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
