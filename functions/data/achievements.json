@@ -1430,9 +1430,10 @@
     "dmustain": {
       "counters": {
         "chat": 30,
-        "points_spent": 1700,
+        "points_spent": 1800,
         "effects": 4,
-        "follow": 1
+        "follow": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1442,9 +1443,10 @@
         "follow_supporter",
         "chat_talker",
         "chat_conversationalist",
-        "night_owl"
+        "night_owl",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-05T23:10:46Z"
+      "lastUpdated": "2025-07-06T12:10:14Z"
     },
     "miromaaldis": {
       "counters": {
@@ -2724,7 +2726,7 @@
       "lastUpdated": "2025-07-06T12:08:13Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:10:13Z",
+  "lastUpdated": "2025-07-06T11:10:14Z",
   "totalUsers": 91,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
