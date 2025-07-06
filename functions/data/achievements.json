@@ -1339,7 +1339,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 12,
+        "chat": 13,
         "points_spent": 5100,
         "follow": 1
       },
@@ -1351,7 +1351,7 @@
         "biggest_fan",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-05T15:35:14Z"
+      "lastUpdated": "2025-07-06T12:13:59Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1691,7 +1691,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 178,
+        "chat": 179,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1708,7 +1708,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T12:12:52Z"
+      "lastUpdated": "2025-07-06T12:13:43Z"
     },
     "anzerou": {
       "counters": {
@@ -2455,13 +2455,13 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T13:10:25Z"
+      "lastUpdated": "2025-07-06T12:13:58Z"
     },
     "hero_zappz": {
       "counters": {
@@ -2497,7 +2497,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 26,
+        "chat": 27,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2508,7 +2508,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T20:19:28Z"
+      "lastUpdated": "2025-07-06T12:13:50Z"
     },
     "sprockettrap": {
       "counters": {
@@ -2601,10 +2601,13 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 7,
+        "chat": 9,
         "points_spent": 3251,
         "effects": 4,
-        "screenshot": 1
+        "screenshot": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 111,
+        "largest_gift_bomb": 111
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2613,9 +2616,20 @@
         "effect_first",
         "chat_newbie",
         "screenshot_first",
-        "spender_bronze"
+        "spender_bronze",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bomb_75",
+        "gift_bomb_100",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-06T12:09:40Z"
+      "lastUpdated": "2025-07-06T12:14:08Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -2732,10 +2746,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-06T12:08:13Z"
+    },
+    "lunamists": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T12:14:12Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:13:42Z",
-  "totalUsers": 91,
+  "lastUpdated": "2025-07-06T11:14:12Z",
+  "totalUsers": 92,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
