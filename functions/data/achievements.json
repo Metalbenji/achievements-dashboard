@@ -1532,7 +1532,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 26,
+        "chat": 27,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1542,7 +1542,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:10:41Z"
+      "lastUpdated": "2025-07-06T12:10:52Z"
     },
     "lottec": {
       "counters": {
@@ -1691,7 +1691,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 174,
+        "chat": 175,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1708,7 +1708,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T12:10:19Z"
+      "lastUpdated": "2025-07-06T12:11:07Z"
     },
     "anzerou": {
       "counters": {
@@ -1999,8 +1999,8 @@
       "counters": {
         "follow": 1,
         "chat": 30,
-        "bits": 25,
-        "raid": 1
+        "bits": 126,
+        "raid": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2010,9 +2010,10 @@
         "chat_conversationalist",
         "bits_tiny",
         "bits_small",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "bits_regular"
       ],
-      "lastUpdated": "2025-07-06T12:10:39Z"
+      "lastUpdated": "2025-07-06T12:11:21Z"
     },
     "warl0c13": {
       "counters": {
@@ -2731,7 +2732,7 @@
       "lastUpdated": "2025-07-06T12:08:13Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:10:50Z",
+  "lastUpdated": "2025-07-06T11:11:21Z",
   "totalUsers": 91,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
