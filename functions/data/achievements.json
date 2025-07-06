@@ -1530,16 +1530,17 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 23,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T10:27:51Z"
+      "lastUpdated": "2025-07-06T12:08:10Z"
     },
     "lottec": {
       "counters": {
@@ -1994,7 +1995,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 26
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2003,7 +2004,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:03:16Z"
+      "lastUpdated": "2025-07-06T12:04:58Z"
     },
     "warl0c13": {
       "counters": {
@@ -2711,7 +2712,7 @@
       "lastUpdated": "2025-07-06T11:52:03Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:03:17Z",
+  "lastUpdated": "2025-07-06T11:08:11Z",
   "totalUsers": 90,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
