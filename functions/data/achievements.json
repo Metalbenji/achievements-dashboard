@@ -1528,7 +1528,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 14,
+        "chat": 17,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1537,7 +1537,7 @@
         "chat_talker",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-06T09:18:35Z"
+      "lastUpdated": "2025-07-06T09:37:43Z"
     },
     "lottec": {
       "counters": {
@@ -2613,16 +2613,27 @@
     },
     "kurenaii": {
       "counters": {
+        "follow": 1,
+        "chat": 3
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-06T09:36:02Z"
+    },
+    "ryanstephenson232": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-06T09:31:56Z"
+      "lastUpdated": "2025-07-06T09:45:14Z"
     }
   },
-  "lastUpdated": "2025-07-06T08:31:56Z",
-  "totalUsers": 85,
+  "lastUpdated": "2025-07-06T08:45:15Z",
+  "totalUsers": 86,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
