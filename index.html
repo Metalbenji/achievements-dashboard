@@ -1026,6 +1026,11 @@
         };
 
         function getAchievementCategory(achievement) {
+            const type = achievement.Type.toLowerCase();
+            if (type === 'sub' || type === 'sub_tier') {
+                return 'sub';
+            }
+
             const achievementName = achievement.Name.toLowerCase();
             const achievementDescription = achievement.Description ? achievement.Description.toLowerCase() : '';
 
