@@ -2632,10 +2632,31 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-06T09:46:22Z"
+    },
+    "sarcissa": {
+      "counters": {
+        "sub": 40,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "sub_master",
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T09:49:01Z"
     }
   },
-  "lastUpdated": "2025-07-06T08:48:49Z",
-  "totalUsers": 86,
+  "lastUpdated": "2025-07-06T08:49:01Z",
+  "totalUsers": 87,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
