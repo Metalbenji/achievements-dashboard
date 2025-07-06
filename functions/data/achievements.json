@@ -1431,7 +1431,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 35,
+        "chat": 37,
         "points_spent": 2100,
         "effects": 5,
         "follow": 1,
@@ -1448,7 +1448,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-06T13:39:16Z"
+      "lastUpdated": "2025-07-06T15:54:23Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1470,7 +1470,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 84,
+        "chat": 85,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1
@@ -1484,7 +1484,7 @@
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-06T13:39:24Z"
+      "lastUpdated": "2025-07-06T15:51:21Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1798,12 +1798,12 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 6100,
+        "points_spent": 8400,
         "follow": 1,
-        "chat": 47,
-        "effects": 8,
+        "chat": 52,
+        "effects": 9,
         "screenshot": 1,
-        "sounds": 1,
+        "sounds": 2,
         "bits": 69,
         "raid": 1
       },
@@ -1823,7 +1823,7 @@
         "bits_regular",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-07-06T15:03:31Z"
+      "lastUpdated": "2025-07-06T15:47:08Z"
     },
     "syn__________": {
       "counters": {
@@ -1840,7 +1840,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1849,7 +1849,7 @@
         "chat_talker",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T20:30:13Z"
+      "lastUpdated": "2025-07-06T15:54:58Z"
     },
     "epik__tv": {
       "counters": {
@@ -1874,7 +1874,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 452,
+        "chat": 463,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -1908,7 +1908,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-06T14:01:57Z"
+      "lastUpdated": "2025-07-06T15:40:09Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1962,7 +1962,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 30,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1973,7 +1973,7 @@
         "first_caller",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:21:31Z"
+      "lastUpdated": "2025-07-06T15:43:57Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2033,8 +2033,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 1100,
-        "effects": 2,
+        "points_spent": 1200,
+        "effects": 3,
         "follow": 1,
         "chat": 16
       },
@@ -2046,7 +2046,7 @@
         "spender_bronze",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T14:50:44Z"
+      "lastUpdated": "2025-07-06T15:20:38Z"
     },
     "s3n71": {
       "counters": {
@@ -2491,7 +2491,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 48
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2500,7 +2500,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T15:08:37Z"
+      "lastUpdated": "2025-07-06T15:49:24Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -2513,7 +2513,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 27,
+        "chat": 30,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2524,7 +2524,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:13:50Z"
+      "lastUpdated": "2025-07-06T17:17:30Z"
     },
     "sprockettrap": {
       "counters": {
@@ -2817,10 +2817,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2025-07-06T14:49:42Z"
+    },
+    "dragoncrusaders369": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T17:18:42Z"
     }
   },
-  "lastUpdated": "2025-07-06T14:08:37Z",
-  "totalUsers": 95,
+  "lastUpdated": "2025-07-06T16:18:43Z",
+  "totalUsers": 96,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
