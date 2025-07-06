@@ -1326,7 +1326,7 @@
     },
     "flaminjurr": {
       "counters": {
-        "chat": 23,
+        "chat": 24,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1335,7 +1335,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T13:22:37Z"
+      "lastUpdated": "2025-07-06T13:52:08Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1798,7 +1798,7 @@
       "counters": {
         "points_spent": 4950,
         "follow": 1,
-        "chat": 42,
+        "chat": 44,
         "effects": 6,
         "screenshot": 1,
         "sounds": 1
@@ -1815,7 +1815,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T10:52:28Z"
+      "lastUpdated": "2025-07-06T13:55:30Z"
     },
     "syn__________": {
       "counters": {
@@ -2797,7 +2797,7 @@
     },
     "voidzdefiler": {
       "counters": {
-        "chat": 25,
+        "chat": 26,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2807,10 +2807,10 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T13:50:05Z"
+      "lastUpdated": "2025-07-06T13:52:41Z"
     }
   },
-  "lastUpdated": "2025-07-06T12:50:06Z",
+  "lastUpdated": "2025-07-06T12:56:20Z",
   "totalUsers": 95,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
