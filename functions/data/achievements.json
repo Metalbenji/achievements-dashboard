@@ -1528,7 +1528,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 13,
+        "chat": 14,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2610,10 +2610,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-05T20:35:23Z"
+    },
+    "kurenaii": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T09:31:56Z"
     }
   },
-  "lastUpdated": "2025-07-06T08:18:35Z",
-  "totalUsers": 84,
+  "lastUpdated": "2025-07-06T08:31:56Z",
+  "totalUsers": 85,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
