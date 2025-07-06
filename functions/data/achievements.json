@@ -1339,7 +1339,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 13,
+        "chat": 15,
         "points_spent": 5100,
         "follow": 1
       },
@@ -1351,7 +1351,7 @@
         "biggest_fan",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T12:13:59Z"
+      "lastUpdated": "2025-07-06T12:14:27Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1532,7 +1532,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 32,
+        "chat": 33,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1542,7 +1542,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:14:15Z"
+      "lastUpdated": "2025-07-06T12:14:40Z"
     },
     "lottec": {
       "counters": {
@@ -1998,7 +1998,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 33,
+        "chat": 34,
         "bits": 245,
         "raid": 10
       },
@@ -2015,7 +2015,7 @@
         "raid_tier2_seasoned",
         "raid_tier3_commander"
       ],
-      "lastUpdated": "2025-07-06T12:13:31Z"
+      "lastUpdated": "2025-07-06T12:14:43Z"
     },
     "warl0c13": {
       "counters": {
@@ -2342,7 +2342,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 6,
+        "chat": 8,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2361,7 +2361,7 @@
         "sub_master",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-05T21:08:59Z"
+      "lastUpdated": "2025-07-06T12:14:57Z"
     },
     "majesty81": {
       "counters": {
@@ -2455,13 +2455,14 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-06T12:13:58Z"
+      "lastUpdated": "2025-07-06T12:14:59Z"
     },
     "hero_zappz": {
       "counters": {
@@ -2751,16 +2752,16 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-06T12:14:12Z"
+      "lastUpdated": "2025-07-06T12:14:39Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:14:19Z",
+  "lastUpdated": "2025-07-06T11:14:59Z",
   "totalUsers": 92,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
