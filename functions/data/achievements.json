@@ -1400,7 +1400,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 37,
+        "chat": 41,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1425,7 +1425,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T11:42:58Z"
+      "lastUpdated": "2025-07-06T11:57:35Z"
     },
     "dmustain": {
       "counters": {
@@ -1515,7 +1515,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 27,
+        "chat": 28,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1526,7 +1526,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T09:48:22Z"
+      "lastUpdated": "2025-07-06T11:59:52Z"
     },
     "scoman07": {
       "counters": {
@@ -1994,15 +1994,16 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T11:51:31Z"
+      "lastUpdated": "2025-07-06T12:03:16Z"
     },
     "warl0c13": {
       "counters": {
@@ -2589,8 +2590,8 @@
       "counters": {
         "follow": 1,
         "chat": 6,
-        "points_spent": 2901,
-        "effects": 3,
+        "points_spent": 3251,
+        "effects": 4,
         "screenshot": 1
       },
       "unlockedAchievements": [
@@ -2602,7 +2603,7 @@
         "screenshot_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-05T21:23:58Z"
+      "lastUpdated": "2025-07-06T12:01:39Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -2690,7 +2691,8 @@
     "arpi_89": {
       "counters": {
         "sub": 30,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2703,12 +2705,13 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-06T11:52:02Z"
+      "lastUpdated": "2025-07-06T11:52:03Z"
     }
   },
-  "lastUpdated": "2025-07-06T10:52:03Z",
+  "lastUpdated": "2025-07-06T11:03:17Z",
   "totalUsers": 90,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
