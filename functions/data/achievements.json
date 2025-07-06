@@ -1998,7 +1998,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 34,
+        "chat": 35,
         "bits": 245,
         "raid": 10
       },
@@ -2015,7 +2015,7 @@
         "raid_tier2_seasoned",
         "raid_tier3_commander"
       ],
-      "lastUpdated": "2025-07-06T12:14:43Z"
+      "lastUpdated": "2025-07-06T12:15:29Z"
     },
     "warl0c13": {
       "counters": {
@@ -2342,7 +2342,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 8,
+        "chat": 9,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2361,7 +2361,7 @@
         "sub_master",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-06T12:14:57Z"
+      "lastUpdated": "2025-07-06T12:15:46Z"
     },
     "majesty81": {
       "counters": {
@@ -2602,12 +2602,12 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "points_spent": 3251,
         "effects": 4,
         "screenshot": 1,
-        "gift_bombs": 2,
-        "total_gift_bomb_subs": 121,
+        "gift_bombs": 3,
+        "total_gift_bomb_subs": 126,
         "largest_gift_bomb": 111
       },
       "unlockedAchievements": [
@@ -2629,9 +2629,10 @@
         "gift_bomb_75",
         "gift_bomb_100",
         "gift_bombs_first",
-        "chat_talker"
+        "chat_talker",
+        "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-07-06T12:15:02Z"
+      "lastUpdated": "2025-07-06T12:15:30Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -2759,10 +2760,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-06T12:14:39Z"
+    },
+    "mulquero": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T12:15:48Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:15:23Z",
-  "totalUsers": 92,
+  "lastUpdated": "2025-07-06T11:15:49Z",
+  "totalUsers": 93,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
