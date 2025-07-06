@@ -1998,16 +1998,19 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 30
+        "chat": 30,
+        "bits": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "bits_tiny",
+        "bits_small"
       ],
-      "lastUpdated": "2025-07-06T12:09:12Z"
+      "lastUpdated": "2025-07-06T12:10:37Z"
     },
     "warl0c13": {
       "counters": {
@@ -2726,7 +2729,7 @@
       "lastUpdated": "2025-07-06T12:08:13Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:10:38Z",
+  "lastUpdated": "2025-07-06T11:10:39Z",
   "totalUsers": 91,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
