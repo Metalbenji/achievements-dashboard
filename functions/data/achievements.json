@@ -1528,7 +1528,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 17,
+        "chat": 23,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1537,7 +1537,7 @@
         "chat_talker",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-06T09:37:43Z"
+      "lastUpdated": "2025-07-06T10:27:51Z"
     },
     "lottec": {
       "counters": {
@@ -1685,7 +1685,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 167,
+        "chat": 170,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1702,7 +1702,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T10:03:29Z"
+      "lastUpdated": "2025-07-06T10:36:00Z"
     },
     "anzerou": {
       "counters": {
@@ -2497,13 +2497,13 @@
     "sprockettrap": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T11:48:43Z"
+      "lastUpdated": "2025-07-06T10:20:41Z"
     },
     "bongo1986": {
       "counters": {
@@ -2660,10 +2660,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-07-06T09:58:11Z"
+    },
+    "camm_23": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T10:43:29Z"
     }
   },
-  "lastUpdated": "2025-07-06T09:20:37Z",
-  "totalUsers": 87,
+  "lastUpdated": "2025-07-06T09:43:29Z",
+  "totalUsers": 88,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
