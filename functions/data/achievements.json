@@ -1429,7 +1429,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 34,
+        "chat": 35,
         "points_spent": 1800,
         "effects": 4,
         "follow": 1,
@@ -1446,7 +1446,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-06T12:30:16Z"
+      "lastUpdated": "2025-07-06T13:23:17Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1486,7 +1486,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 96,
+        "chat": 100,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1511,9 +1511,10 @@
         "sub_champion",
         "sub_platinum",
         "sub_diamond",
-        "sub_elite"
+        "sub_elite",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-07-06T13:15:25Z"
+      "lastUpdated": "2025-07-06T13:28:23Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1865,7 +1866,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 449,
+        "chat": 450,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -1899,7 +1900,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-06T12:44:25Z"
+      "lastUpdated": "2025-07-06T13:27:58Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2795,7 +2796,7 @@
       "lastUpdated": "2025-07-06T13:23:07Z"
     }
   },
-  "lastUpdated": "2025-07-06T12:23:07Z",
+  "lastUpdated": "2025-07-06T12:28:23Z",
   "totalUsers": 94,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
