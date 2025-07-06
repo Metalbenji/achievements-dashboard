@@ -2710,10 +2710,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-06T11:52:03Z"
+    },
+    "ppodsedly97": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T12:08:13Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:08:11Z",
-  "totalUsers": 90,
+  "lastUpdated": "2025-07-06T11:08:13Z",
+  "totalUsers": 91,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
