@@ -1326,7 +1326,7 @@
     },
     "flaminjurr": {
       "counters": {
-        "chat": 20,
+        "chat": 23,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1335,7 +1335,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T13:20:58Z"
+      "lastUpdated": "2025-07-06T13:22:37Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2573,10 +2573,10 @@
     },
     "domtok1": {
       "counters": {
-        "chat": 10,
+        "chat": 12,
         "follow": 1,
-        "points_spent": 300,
-        "effects": 1,
+        "points_spent": 400,
+        "effects": 2,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -2587,7 +2587,7 @@
         "sound_first",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T13:21:13Z"
+      "lastUpdated": "2025-07-06T13:22:57Z"
     },
     "filou1974": {
       "counters": {
@@ -2782,10 +2782,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-06T12:20:37Z"
+    },
+    "misukonna": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-06T13:23:06Z"
     }
   },
-  "lastUpdated": "2025-07-06T12:21:13Z",
-  "totalUsers": 93,
+  "lastUpdated": "2025-07-06T12:23:07Z",
+  "totalUsers": 94,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
