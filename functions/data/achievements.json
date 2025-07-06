@@ -1486,7 +1486,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 100,
+        "chat": 101,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1514,7 +1514,7 @@
         "sub_elite",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-06T13:28:23Z"
+      "lastUpdated": "2025-07-06T13:28:39Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2794,10 +2794,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-06T13:23:07Z"
+    },
+    "voidzdefiler": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-06T13:28:46Z"
     }
   },
-  "lastUpdated": "2025-07-06T12:28:23Z",
-  "totalUsers": 94,
+  "lastUpdated": "2025-07-06T12:28:46Z",
+  "totalUsers": 95,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
