@@ -2674,15 +2674,18 @@
     },
     "akiraownz": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-06T11:28:49Z"
+      "lastUpdated": "2025-07-06T11:30:15Z"
     }
   },
-  "lastUpdated": "2025-07-06T10:28:49Z",
+  "lastUpdated": "2025-07-06T10:30:15Z",
   "totalUsers": 89,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
