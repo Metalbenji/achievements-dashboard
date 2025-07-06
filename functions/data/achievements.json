@@ -1429,7 +1429,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 29,
+        "chat": 30,
         "points_spent": 1700,
         "effects": 4,
         "follow": 1
@@ -1444,7 +1444,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T23:10:40Z"
+      "lastUpdated": "2025-07-05T23:10:46Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1541,7 +1541,7 @@
       "counters": {
         "points_spent": 3700,
         "effects": 4,
-        "chat": 44,
+        "chat": 45,
         "sounds": 1,
         "follow": 1
       },
@@ -1556,7 +1556,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T23:10:39Z"
+      "lastUpdated": "2025-07-05T23:10:47Z"
     },
     "hairypawter": {
       "counters": {
@@ -1857,7 +1857,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 424,
+        "chat": 426,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1891,7 +1891,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T23:09:28Z"
+      "lastUpdated": "2025-07-05T23:10:50Z"
     },
     "purgemonster91": {
       "counters": {
@@ -1945,15 +1945,17 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 19,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "first_caller"
       ],
-      "lastUpdated": "2025-07-05T11:54:50Z"
+      "lastUpdated": "2025-07-06T09:03:03Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2608,7 +2610,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-05T22:10:44Z",
+  "lastUpdated": "2025-07-06T08:03:04Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
