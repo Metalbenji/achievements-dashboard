@@ -1400,7 +1400,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 27,
+        "chat": 35,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1425,7 +1425,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-05T14:39:47Z"
+      "lastUpdated": "2025-07-06T10:49:27Z"
     },
     "dmustain": {
       "counters": {
@@ -1789,10 +1789,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 4150,
+        "points_spent": 4950,
         "follow": 1,
-        "chat": 40,
-        "effects": 5,
+        "chat": 42,
+        "effects": 6,
         "screenshot": 1,
         "sounds": 1
       },
@@ -1808,7 +1808,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T10:13:10Z"
+      "lastUpdated": "2025-07-06T10:52:28Z"
     },
     "syn__________": {
       "counters": {
@@ -1859,7 +1859,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 426,
+        "chat": 427,
         "gift_subs": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 339,
@@ -1893,7 +1893,7 @@
         "gift_bombs_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T23:10:50Z"
+      "lastUpdated": "2025-07-06T11:13:12Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2022,7 +2022,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 32,
+        "chat": 37,
         "sub": 32
       },
       "unlockedAchievements": [
@@ -2042,7 +2042,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-05T16:47:41Z"
+      "lastUpdated": "2025-07-06T11:27:36Z"
     },
     "umenneske94": {
       "counters": {
@@ -2663,16 +2663,27 @@
     },
     "camm_23": {
       "counters": {
+        "follow": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-06T10:43:30Z"
+    },
+    "akiraownz": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-06T10:43:29Z"
+      "lastUpdated": "2025-07-06T11:28:49Z"
     }
   },
-  "lastUpdated": "2025-07-06T09:43:29Z",
-  "totalUsers": 88,
+  "lastUpdated": "2025-07-06T10:28:49Z",
+  "totalUsers": 89,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
 }
