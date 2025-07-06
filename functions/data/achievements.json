@@ -1400,7 +1400,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 35,
+        "chat": 37,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1425,7 +1425,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T10:49:27Z"
+      "lastUpdated": "2025-07-06T11:42:58Z"
     },
     "dmustain": {
       "counters": {
@@ -1448,8 +1448,8 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 14,
-        "points_spent": 400,
+        "chat": 16,
+        "points_spent": 3300,
         "effects": 2,
         "follow": 1
       },
@@ -1458,9 +1458,10 @@
         "effect_first",
         "chat_newbie",
         "follow_supporter",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-05T13:17:16Z"
+      "lastUpdated": "2025-07-06T11:43:27Z"
     },
     "ramdon101": {
       "counters": {
@@ -2372,7 +2373,7 @@
     "conkek": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2380,7 +2381,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T11:36:29Z"
+      "lastUpdated": "2025-07-06T11:41:43Z"
     },
     "mrmeanor_": {
       "counters": {
@@ -2686,7 +2687,7 @@
       "lastUpdated": "2025-07-06T11:31:33Z"
     }
   },
-  "lastUpdated": "2025-07-06T10:36:30Z",
+  "lastUpdated": "2025-07-06T10:43:27Z",
   "totalUsers": 89,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
