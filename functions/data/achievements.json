@@ -1685,7 +1685,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 164,
+        "chat": 167,
         "points_spent": 752,
         "effects": 2,
         "sounds": 3
@@ -1702,7 +1702,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-05T22:17:00Z"
+      "lastUpdated": "2025-07-06T10:03:29Z"
     },
     "anzerou": {
       "counters": {
@@ -1737,7 +1737,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 50,
         "points_spent": 3352,
         "interactive": 4,
         "effects": 3
@@ -1753,7 +1753,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-06T09:51:38Z"
+      "lastUpdated": "2025-07-06T10:00:40Z"
     },
     "redunt86": {
       "counters": {
@@ -1789,10 +1789,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 3350,
+        "points_spent": 4150,
         "follow": 1,
         "chat": 39,
-        "effects": 4,
+        "effects": 5,
         "screenshot": 1,
         "sounds": 1
       },
@@ -1808,7 +1808,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T09:55:37Z"
+      "lastUpdated": "2025-07-06T09:57:15Z"
     },
     "syn__________": {
       "counters": {
@@ -2249,7 +2249,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 48
+        "chat": 52
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2258,7 +2258,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T11:39:53Z"
+      "lastUpdated": "2025-07-06T10:03:49Z"
     },
     "maximusis_": {
       "counters": {
@@ -2382,7 +2382,7 @@
     },
     "mrmeanor_": {
       "counters": {
-        "chat": 40,
+        "chat": 46,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2392,7 +2392,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T09:48:27Z"
+      "lastUpdated": "2025-07-06T10:03:54Z"
     },
     "djindjarinttv": {
       "counters": {
@@ -2626,20 +2626,21 @@
     "ryanstephenson232": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T09:56:39Z"
+      "lastUpdated": "2025-07-06T10:04:45Z"
     },
     "sarcissa": {
       "counters": {
         "sub": 40,
         "follow": 1,
-        "chat": 6
+        "chat": 8
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2657,10 +2658,10 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-06T09:54:07Z"
+      "lastUpdated": "2025-07-06T09:58:11Z"
     }
   },
-  "lastUpdated": "2025-07-06T08:56:39Z",
+  "lastUpdated": "2025-07-06T09:04:45Z",
   "totalUsers": 87,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
