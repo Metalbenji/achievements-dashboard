@@ -1400,7 +1400,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 43,
+        "chat": 45,
         "points_spent": 6200,
         "screenshot": 1,
         "effects": 2,
@@ -1425,7 +1425,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:12:38Z"
+      "lastUpdated": "2025-07-06T12:13:03Z"
     },
     "dmustain": {
       "counters": {
@@ -1517,7 +1517,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 30,
+        "chat": 31,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1528,11 +1528,11 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:11:54Z"
+      "lastUpdated": "2025-07-06T12:12:59Z"
     },
     "scoman07": {
       "counters": {
-        "chat": 28,
+        "chat": 31,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1542,7 +1542,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-06T12:12:28Z"
+      "lastUpdated": "2025-07-06T12:13:25Z"
     },
     "lottec": {
       "counters": {
@@ -1998,9 +1998,9 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 32,
+        "chat": 33,
         "bits": 245,
-        "raid": 9
+        "raid": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2012,9 +2012,10 @@
         "bits_small",
         "raid_tier1_captain",
         "bits_regular",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "raid_tier3_commander"
       ],
-      "lastUpdated": "2025-07-06T12:12:57Z"
+      "lastUpdated": "2025-07-06T12:13:31Z"
     },
     "warl0c13": {
       "counters": {
@@ -2733,7 +2734,7 @@
       "lastUpdated": "2025-07-06T12:08:13Z"
     }
   },
-  "lastUpdated": "2025-07-06T11:12:57Z",
+  "lastUpdated": "2025-07-06T11:13:35Z",
   "totalUsers": 91,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
