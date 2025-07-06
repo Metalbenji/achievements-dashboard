@@ -1528,14 +1528,16 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 13
+        "chat": 13,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-06-21T15:34:09Z"
+      "lastUpdated": "2025-07-06T09:18:35Z"
     },
     "lottec": {
       "counters": {
@@ -1735,9 +1737,9 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 41,
-        "points_spent": 2852,
-        "interactive": 3,
+        "chat": 47,
+        "points_spent": 3352,
+        "interactive": 4,
         "effects": 3
       },
       "unlockedAchievements": [
@@ -1751,7 +1753,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T20:23:14Z"
+      "lastUpdated": "2025-07-06T09:17:45Z"
     },
     "redunt86": {
       "counters": {
@@ -1945,7 +1947,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 19,
+        "chat": 23,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1955,7 +1957,7 @@
         "chat_talker",
         "first_caller"
       ],
-      "lastUpdated": "2025-07-06T09:03:03Z"
+      "lastUpdated": "2025-07-06T09:08:45Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2610,7 +2612,7 @@
       "lastUpdated": "2025-07-05T20:35:23Z"
     }
   },
-  "lastUpdated": "2025-07-06T08:03:04Z",
+  "lastUpdated": "2025-07-06T08:18:35Z",
   "totalUsers": 84,
   "totalAchievements": 144,
   "generatedBy": "Streamer.bot Achievement System"
