@@ -2857,15 +2857,17 @@
     },
     "daddysaffy": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-08T19:30:11Z"
+      "lastUpdated": "2025-07-08T19:35:07Z"
     }
   },
-  "lastUpdated": "2025-07-08T18:30:12Z",
+  "lastUpdated": "2025-07-08T18:35:07Z",
   "totalUsers": 97,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
