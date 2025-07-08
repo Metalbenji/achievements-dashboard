@@ -1578,7 +1578,7 @@
       "counters": {
         "points_spent": 3700,
         "effects": 4,
-        "chat": 50,
+        "chat": 51,
         "sounds": 1,
         "follow": 1
       },
@@ -1593,7 +1593,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-06T12:31:22Z"
+      "lastUpdated": "2025-07-08T19:10:51Z"
     },
     "hairypawter": {
       "counters": {
@@ -1794,7 +1794,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1802,7 +1802,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-28T15:17:31Z"
+      "lastUpdated": "2025-07-08T19:17:59Z"
     },
     "spoono__": {
       "counters": {
@@ -1966,7 +1966,7 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1974,7 +1974,7 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-08T19:02:30Z"
+      "lastUpdated": "2025-07-08T19:04:29Z"
     },
     "insidematt": {
       "counters": {
@@ -2854,10 +2854,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-07-06T17:18:42Z"
+    },
+    "daddysaffy": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-08T19:30:11Z"
     }
   },
-  "lastUpdated": "2025-07-08T18:02:31Z",
-  "totalUsers": 96,
+  "lastUpdated": "2025-07-08T18:30:12Z",
+  "totalUsers": 97,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
