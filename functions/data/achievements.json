@@ -1515,7 +1515,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 107,
+        "chat": 112,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1543,7 +1543,7 @@
         "sub_elite",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-08T19:40:47Z"
+      "lastUpdated": "2025-07-12T12:56:46Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1576,9 +1576,9 @@
     },
     "lottec": {
       "counters": {
-        "points_spent": 3700,
-        "effects": 4,
-        "chat": 51,
+        "points_spent": 4500,
+        "effects": 5,
+        "chat": 52,
         "sounds": 1,
         "follow": 1
       },
@@ -1593,7 +1593,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-08T19:10:51Z"
+      "lastUpdated": "2025-07-12T12:45:49Z"
     },
     "hairypawter": {
       "counters": {
@@ -1721,7 +1721,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 193,
+        "chat": 196,
         "points_spent": 753,
         "effects": 2,
         "sounds": 3
@@ -1738,7 +1738,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-12T12:30:36Z"
+      "lastUpdated": "2025-07-12T12:57:33Z"
     },
     "anzerou": {
       "counters": {
@@ -2222,7 +2222,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 31,
         "points_spent": 1750,
         "sounds": 1,
         "effects": 3,
@@ -2257,7 +2257,7 @@
         "raid_tier1_captain",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-12T12:29:45Z"
+      "lastUpdated": "2025-07-12T12:56:51Z"
     },
     "andilippi": {
       "counters": {
@@ -2883,18 +2883,27 @@
     },
     "coffeedrankah": {
       "counters": {
-        "chat": 2,
+        "chat": 3,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-12T12:38:29Z"
+      "lastUpdated": "2025-07-12T12:44:51Z"
+    },
+    "ziralythvictoria": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-12T12:58:05Z"
     }
   },
-  "lastUpdated": "2025-07-12T11:39:03Z",
-  "totalUsers": 100,
+  "lastUpdated": "2025-07-12T11:58:06Z",
+  "totalUsers": 101,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
