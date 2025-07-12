@@ -1366,9 +1366,10 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 16,
-        "points_spent": 5100,
-        "follow": 1
+        "chat": 19,
+        "points_spent": 8100,
+        "follow": 1,
+        "sub": 13
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1376,9 +1377,17 @@
         "chat_newbie",
         "follow_supporter",
         "biggest_fan",
-        "chat_talker"
+        "chat_talker",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion"
       ],
-      "lastUpdated": "2025-07-06T12:16:56Z"
+      "lastUpdated": "2025-07-12T14:45:07Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1915,12 +1924,12 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 498,
+        "chat": 499,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
         "largest_gift_bomb": 339,
-        "points_spent": 800,
+        "points_spent": 1150,
         "effects": 1,
         "sub": 37
       },
@@ -1960,9 +1969,10 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "sub_master"
+        "sub_master",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-12T14:39:39Z"
+      "lastUpdated": "2025-07-12T14:45:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2932,7 +2942,7 @@
       "lastUpdated": "2025-07-12T12:59:44Z"
     }
   },
-  "lastUpdated": "2025-07-12T13:39:48Z",
+  "lastUpdated": "2025-07-12T13:45:14Z",
   "totalUsers": 101,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
