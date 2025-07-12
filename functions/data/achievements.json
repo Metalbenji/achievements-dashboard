@@ -2023,15 +2023,16 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "night_owl"
+        "night_owl",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-06T10:08:36Z"
+      "lastUpdated": "2025-07-12T12:39:02Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2882,17 +2883,17 @@
     },
     "coffeedrankah": {
       "counters": {
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-12T12:36:55Z"
+      "lastUpdated": "2025-07-12T12:38:29Z"
     }
   },
-  "lastUpdated": "2025-07-12T11:36:55Z",
+  "lastUpdated": "2025-07-12T11:39:03Z",
   "totalUsers": 100,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
