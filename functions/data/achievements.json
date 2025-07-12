@@ -2351,7 +2351,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 63
+        "chat": 69
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2360,7 +2360,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-12T17:45:53Z"
+      "lastUpdated": "2025-07-12T18:16:19Z"
     },
     "maximusis_": {
       "counters": {
@@ -2954,10 +2954,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-12T17:22:22Z"
+    },
+    "elphiee": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-12T18:17:09Z"
     }
   },
-  "lastUpdated": "2025-07-12T16:48:01Z",
-  "totalUsers": 102,
+  "lastUpdated": "2025-07-12T17:17:09Z",
+  "totalUsers": 103,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
