@@ -1558,7 +1558,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 36,
+        "chat": 37,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1569,7 +1569,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-12T17:40:24Z"
+      "lastUpdated": "2025-07-12T17:46:18Z"
     },
     "scoman07": {
       "counters": {
@@ -1733,7 +1733,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 225,
+        "chat": 227,
         "points_spent": 753,
         "effects": 2,
         "sounds": 3,
@@ -1762,7 +1762,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-07-12T17:43:24Z"
+      "lastUpdated": "2025-07-12T17:46:14Z"
     },
     "anzerou": {
       "counters": {
@@ -1880,14 +1880,15 @@
     "syn__________": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T16:25:22Z"
+      "lastUpdated": "2025-07-12T17:48:01Z"
     },
     "initiis_novum": {
       "counters": {
@@ -2350,7 +2351,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 59
+        "chat": 63
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2359,7 +2360,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-12T17:43:58Z"
+      "lastUpdated": "2025-07-12T17:45:53Z"
     },
     "maximusis_": {
       "counters": {
@@ -2955,7 +2956,7 @@
       "lastUpdated": "2025-07-12T17:22:22Z"
     }
   },
-  "lastUpdated": "2025-07-12T16:44:39Z",
+  "lastUpdated": "2025-07-12T16:48:01Z",
   "totalUsers": 102,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
