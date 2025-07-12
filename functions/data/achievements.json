@@ -1398,7 +1398,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 201,
+        "chat": 202,
         "points_spent": 6200,
         "effects": 1
       },
@@ -1415,7 +1415,7 @@
         "effect_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-12T14:36:33Z"
+      "lastUpdated": "2025-07-12T14:39:38Z"
     },
     "celran": {
       "counters": {
@@ -1915,13 +1915,14 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 495,
+        "chat": 498,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
         "largest_gift_bomb": 339,
         "points_spent": 800,
-        "effects": 1
+        "effects": 1,
+        "sub": 37
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1947,9 +1948,21 @@
         "gift_bomb_150",
         "gift_bomb_200",
         "gift_bombs_first",
-        "effect_first"
+        "effect_first",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "sub_master"
       ],
-      "lastUpdated": "2025-07-08T21:55:39Z"
+      "lastUpdated": "2025-07-12T14:39:39Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2919,7 +2932,7 @@
       "lastUpdated": "2025-07-12T12:59:44Z"
     }
   },
-  "lastUpdated": "2025-07-12T13:37:42Z",
+  "lastUpdated": "2025-07-12T13:39:45Z",
   "totalUsers": 101,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
