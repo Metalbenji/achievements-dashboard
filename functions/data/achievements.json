@@ -1929,9 +1929,10 @@
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
         "largest_gift_bomb": 339,
-        "points_spent": 1150,
-        "effects": 1,
-        "sub": 37
+        "points_spent": 1250,
+        "effects": 2,
+        "sub": 37,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1970,9 +1971,10 @@
         "sub_diamond",
         "sub_elite",
         "sub_master",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-12T14:45:14Z"
+      "lastUpdated": "2025-07-12T14:45:27Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2942,7 +2944,7 @@
       "lastUpdated": "2025-07-12T12:59:44Z"
     }
   },
-  "lastUpdated": "2025-07-12T13:45:14Z",
+  "lastUpdated": "2025-07-12T13:45:27Z",
   "totalUsers": 101,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
