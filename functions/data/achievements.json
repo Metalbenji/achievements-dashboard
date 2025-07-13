@@ -3037,7 +3037,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 99,
+        "chat": 100,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3048,9 +3048,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T13:26:24Z"
+      "lastUpdated": "2025-07-13T13:26:58Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3116,7 +3117,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:26:43Z",
+  "lastUpdated": "2025-07-13T12:26:59Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
