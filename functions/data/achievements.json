@@ -1508,7 +1508,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 120,
+        "chat": 124,
         "points_spent": 2850,
         "screenshot": 1,
         "follow": 1,
@@ -1541,11 +1541,11 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-13T11:17:27Z"
+      "lastUpdated": "2025-07-13T11:24:18Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 131,
+        "chat": 133,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1573,7 +1573,7 @@
         "sub_elite",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T11:16:44Z"
+      "lastUpdated": "2025-07-13T11:19:57Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1608,7 +1608,7 @@
       "counters": {
         "points_spent": 4500,
         "effects": 5,
-        "chat": 53,
+        "chat": 55,
         "sounds": 1,
         "follow": 1
       },
@@ -1623,7 +1623,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-13T11:17:16Z"
+      "lastUpdated": "2025-07-13T11:26:13Z"
     },
     "hairypawter": {
       "counters": {
@@ -2152,10 +2152,11 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 43,
+        "chat": 49,
         "sub": 32,
         "points_spent": 2400,
-        "interactive": 1
+        "interactive": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2174,9 +2175,10 @@
         "sub_diamond",
         "sub_elite",
         "interactive_first",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-13T11:18:02Z"
+      "lastUpdated": "2025-07-13T11:24:06Z"
     },
     "umenneske94": {
       "counters": {
@@ -3025,7 +3027,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 29,
+        "chat": 38,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -3035,7 +3037,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T11:17:46Z"
+      "lastUpdated": "2025-07-13T11:26:16Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3050,7 +3052,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T10:18:02Z",
+  "lastUpdated": "2025-07-13T10:27:17Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
