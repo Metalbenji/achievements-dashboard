@@ -1490,7 +1490,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 16,
+        "chat": 18,
         "points_spent": 3300,
         "effects": 2,
         "follow": 1
@@ -1504,7 +1504,7 @@
         "spender_bronze",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-07-06T11:43:27Z"
+      "lastUpdated": "2025-07-13T11:35:18Z"
     },
     "ramdon101": {
       "counters": {
@@ -1545,7 +1545,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 133,
+        "chat": 135,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1573,7 +1573,7 @@
         "sub_elite",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T11:19:57Z"
+      "lastUpdated": "2025-07-13T11:35:01Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1687,15 +1687,16 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T11:30:46Z"
+      "lastUpdated": "2025-07-13T11:35:18Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2152,7 +2153,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 50,
+        "chat": 51,
         "sub": 32,
         "points_spent": 2400,
         "interactive": 1,
@@ -2180,7 +2181,7 @@
         "sound_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-07-13T11:28:26Z"
+      "lastUpdated": "2025-07-13T11:35:15Z"
     },
     "umenneske94": {
       "counters": {
@@ -3055,7 +3056,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T10:33:39Z",
+  "lastUpdated": "2025-07-13T10:35:19Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
