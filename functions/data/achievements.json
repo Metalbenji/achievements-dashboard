@@ -1508,8 +1508,8 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 114,
-        "points_spent": 850,
+        "chat": 115,
+        "points_spent": 1650,
         "screenshot": 1,
         "follow": 1,
         "sub": 43,
@@ -1536,9 +1536,10 @@
         "sub_diamond",
         "sub_elite",
         "sub_master",
-        "sound_first"
+        "sound_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-13T10:53:59Z"
+      "lastUpdated": "2025-07-13T10:54:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3018,7 +3019,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 8,
+        "chat": 9,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -3026,7 +3027,7 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-13T10:52:52Z"
+      "lastUpdated": "2025-07-13T10:54:02Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3041,7 +3042,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T09:53:59Z",
+  "lastUpdated": "2025-07-13T09:54:26Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
