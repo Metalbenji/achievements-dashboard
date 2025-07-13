@@ -1628,7 +1628,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 44,
+        "chat": 46,
         "points_spent": 2100,
         "interactive": 1,
         "effects": 2,
@@ -1652,7 +1652,7 @@
         "sub_platinum",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T13:15:27Z"
+      "lastUpdated": "2025-07-13T13:19:01Z"
     },
     "tawmae": {
       "counters": {
@@ -1754,7 +1754,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 265,
+        "chat": 267,
         "points_spent": 754,
         "effects": 2,
         "sounds": 3,
@@ -1793,7 +1793,7 @@
         "gift_bomb_30",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-13T13:14:34Z"
+      "lastUpdated": "2025-07-13T13:19:05Z"
     },
     "anzerou": {
       "counters": {
@@ -2608,7 +2608,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 52
+        "chat": 54
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2617,7 +2617,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T13:18:20Z"
+      "lastUpdated": "2025-07-13T13:19:31Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3036,7 +3036,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 86,
+        "chat": 88,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3049,7 +3049,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-13T13:18:15Z"
+      "lastUpdated": "2025-07-13T13:19:13Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3084,13 +3084,13 @@
     "m0hmoh21": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-13T13:18:19Z"
+      "lastUpdated": "2025-07-13T13:19:21Z"
     },
     "helvyni": {
       "counters": {
@@ -3100,10 +3100,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-13T13:18:25Z"
+    },
+    "aandaais": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:18:25Z",
-  "totalUsers": 111,
+  "lastUpdated": "2025-07-13T12:19:44Z",
+  "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
