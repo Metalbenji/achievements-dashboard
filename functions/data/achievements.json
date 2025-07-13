@@ -1759,7 +1759,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 276,
+        "chat": 277,
         "points_spent": 1904,
         "effects": 4,
         "sounds": 3,
@@ -1799,7 +1799,7 @@
         "gift_bombs_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-13T21:10:49Z"
+      "lastUpdated": "2025-07-13T21:37:55Z"
     },
     "anzerou": {
       "counters": {
@@ -1965,7 +1965,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 554,
+        "chat": 556,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2015,7 +2015,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-13T21:32:47Z"
+      "lastUpdated": "2025-07-13T21:49:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2046,7 +2046,7 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2055,7 +2055,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T21:34:00Z"
+      "lastUpdated": "2025-07-13T21:40:09Z"
     },
     "insidematt": {
       "counters": {
@@ -2293,13 +2293,14 @@
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "night_owl"
+        "night_owl",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-23T22:04:18Z"
+      "lastUpdated": "2025-07-13T21:55:43Z"
     },
     "bludshed187": {
       "counters": {
@@ -3125,7 +3126,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T20:34:00Z",
+  "lastUpdated": "2025-07-13T20:55:43Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
