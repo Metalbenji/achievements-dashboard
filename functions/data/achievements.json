@@ -3024,10 +3024,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-07-13T10:50:23Z"
+    },
+    "hopetusurvive": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-13T10:50:36Z"
     }
   },
-  "lastUpdated": "2025-07-13T09:50:23Z",
-  "totalUsers": 106,
+  "lastUpdated": "2025-07-13T09:50:36Z",
+  "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
