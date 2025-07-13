@@ -1545,12 +1545,13 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 142,
-        "points_spent": 33800,
-        "interactive": 2,
+        "chat": 144,
+        "points_spent": 35100,
+        "interactive": 3,
         "follow": 1,
         "sub": 31,
-        "effects": 1
+        "effects": 3,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1574,9 +1575,10 @@
         "sub_elite",
         "chat_regular",
         "effect_first",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-13T13:56:45Z"
+      "lastUpdated": "2025-07-13T14:11:37Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1884,9 +1886,9 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 9200,
+        "points_spent": 10000,
         "follow": 1,
-        "chat": 59,
+        "chat": 62,
         "effects": 10,
         "screenshot": 1,
         "sounds": 2,
@@ -1908,9 +1910,10 @@
         "bits_small",
         "bits_regular",
         "raid_tier1_captain",
-        "effect_collector"
+        "effect_collector",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-07-12T17:44:38Z"
+      "lastUpdated": "2025-07-13T14:15:25Z"
     },
     "syn__________": {
       "counters": {
@@ -3040,7 +3043,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 128,
+        "chat": 137,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3054,7 +3057,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T13:56:41Z"
+      "lastUpdated": "2025-07-13T14:14:47Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3121,7 +3124,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:56:46Z",
+  "lastUpdated": "2025-07-13T13:15:26Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
