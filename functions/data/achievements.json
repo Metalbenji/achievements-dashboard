@@ -3128,15 +3128,18 @@
     },
     "teshinator95": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-07-13T22:03:13Z"
     }
   },
-  "lastUpdated": "2025-07-13T21:03:13Z",
+  "lastUpdated": "2025-07-13T21:03:14Z",
   "totalUsers": 113,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
