@@ -1509,10 +1509,11 @@
     "ramdon101": {
       "counters": {
         "chat": 114,
-        "points_spent": 350,
+        "points_spent": 850,
         "screenshot": 1,
         "follow": 1,
-        "sub": 43
+        "sub": 43,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1534,9 +1535,10 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "sub_master"
+        "sub_master",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-13T10:34:31Z"
+      "lastUpdated": "2025-07-13T10:53:59Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3039,7 +3041,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T09:53:51Z",
+  "lastUpdated": "2025-07-13T09:53:59Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
