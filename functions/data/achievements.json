@@ -1733,8 +1733,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 227,
-        "points_spent": 753,
+        "chat": 235,
+        "points_spent": 754,
         "effects": 2,
         "sounds": 3,
         "sub": 29
@@ -1762,7 +1762,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-07-12T17:46:14Z"
+      "lastUpdated": "2025-07-13T09:04:54Z"
     },
     "anzerou": {
       "counters": {
@@ -1797,7 +1797,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 56,
+        "chat": 64,
         "points_spent": 3752,
         "interactive": 4,
         "effects": 3
@@ -1813,7 +1813,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-12T14:18:53Z"
+      "lastUpdated": "2025-07-13T09:04:22Z"
     },
     "redunt86": {
       "counters": {
@@ -1831,7 +1831,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 40,
+        "chat": 41,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1845,7 +1845,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-06-28T09:11:17Z"
+      "lastUpdated": "2025-07-13T08:59:35Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2972,10 +2972,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-07-12T18:17:38Z"
+    },
+    "vrflad": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-13T09:05:01Z"
     }
   },
-  "lastUpdated": "2025-07-12T17:17:39Z",
-  "totalUsers": 104,
+  "lastUpdated": "2025-07-13T08:05:02Z",
+  "totalUsers": 105,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
