@@ -2608,7 +2608,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 51
+        "chat": 52
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2617,7 +2617,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-12T17:23:33Z"
+      "lastUpdated": "2025-07-13T13:18:20Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3083,16 +3083,27 @@
     },
     "m0hmoh21": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-07-13T13:18:19Z"
+    },
+    "helvyni": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-13T13:18:25Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:18:19Z",
-  "totalUsers": 110,
+  "lastUpdated": "2025-07-13T12:18:25Z",
+  "totalUsers": 111,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
