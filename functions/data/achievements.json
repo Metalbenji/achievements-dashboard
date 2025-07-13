@@ -1546,7 +1546,7 @@
     "marcusmaximi": {
       "counters": {
         "chat": 142,
-        "points_spent": 3800,
+        "points_spent": 33800,
         "interactive": 2,
         "follow": 1,
         "sub": 31,
@@ -1573,9 +1573,10 @@
         "sub_diamond",
         "sub_elite",
         "chat_regular",
-        "effect_first"
+        "effect_first",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-07-13T13:56:18Z"
+      "lastUpdated": "2025-07-13T13:56:45Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3039,7 +3040,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 127,
+        "chat": 128,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3053,7 +3054,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T13:55:46Z"
+      "lastUpdated": "2025-07-13T13:56:41Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3120,7 +3121,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:56:18Z",
+  "lastUpdated": "2025-07-13T12:56:46Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
