@@ -1540,7 +1540,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 124,
+        "chat": 125,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1568,7 +1568,7 @@
         "sub_elite",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T10:32:24Z"
+      "lastUpdated": "2025-07-13T10:51:09Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3016,26 +3016,27 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 1,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-13T10:50:23Z"
+      "lastUpdated": "2025-07-13T10:51:51Z"
     },
     "hopetusurvive": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-13T10:50:36Z"
+      "lastUpdated": "2025-07-13T10:50:59Z"
     }
   },
-  "lastUpdated": "2025-07-13T09:50:36Z",
+  "lastUpdated": "2025-07-13T09:51:52Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
