@@ -1490,9 +1490,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 18,
-        "points_spent": 3300,
-        "effects": 2,
+        "chat": 20,
+        "points_spent": 3500,
+        "effects": 3,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1504,7 +1504,7 @@
         "spender_bronze",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-07-13T11:35:18Z"
+      "lastUpdated": "2025-07-13T11:37:17Z"
     },
     "ramdon101": {
       "counters": {
@@ -1545,7 +1545,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 135,
+        "chat": 139,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1573,7 +1573,7 @@
         "sub_elite",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T11:35:01Z"
+      "lastUpdated": "2025-07-13T11:35:43Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1687,7 +1687,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 34
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1696,7 +1696,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T11:35:18Z"
+      "lastUpdated": "2025-07-13T11:44:22Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2095,7 +2095,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2104,7 +2104,7 @@
         "night_owl",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-12T12:39:02Z"
+      "lastUpdated": "2025-07-13T11:40:59Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2153,7 +2153,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 51,
+        "chat": 52,
         "sub": 32,
         "points_spent": 2400,
         "interactive": 1,
@@ -2181,7 +2181,7 @@
         "sound_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-07-13T11:35:15Z"
+      "lastUpdated": "2025-07-13T11:39:07Z"
     },
     "umenneske94": {
       "counters": {
@@ -2493,7 +2493,7 @@
       "counters": {
         "sub": 25,
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2507,9 +2507,10 @@
         "sub_diamond",
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T11:33:38Z"
+      "lastUpdated": "2025-07-13T11:46:27Z"
     },
     "conkek": {
       "counters": {
@@ -3031,7 +3032,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 45,
+        "chat": 51,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -3041,7 +3042,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T11:30:46Z"
+      "lastUpdated": "2025-07-13T11:45:53Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3056,7 +3057,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T10:35:19Z",
+  "lastUpdated": "2025-07-13T10:46:27Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
