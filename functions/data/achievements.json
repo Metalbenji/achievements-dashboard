@@ -1540,7 +1540,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 126,
+        "chat": 127,
         "points_spent": 3100,
         "interactive": 1,
         "follow": 1,
@@ -1568,7 +1568,7 @@
         "sub_elite",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T10:53:08Z"
+      "lastUpdated": "2025-07-13T10:53:30Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3028,17 +3028,18 @@
     },
     "hopetusurvive": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-13T10:53:28Z"
+      "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T09:53:28Z",
+  "lastUpdated": "2025-07-13T09:53:51Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
