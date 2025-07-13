@@ -1508,7 +1508,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 108,
+        "chat": 109,
         "points_spent": 350,
         "screenshot": 1,
         "follow": 1,
@@ -1536,7 +1536,7 @@
         "sub_elite",
         "sub_master"
       ],
-      "lastUpdated": "2025-07-13T09:31:07Z"
+      "lastUpdated": "2025-07-13T09:51:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2793,7 +2793,7 @@
       "counters": {
         "sub": 40,
         "follow": 1,
-        "chat": 10
+        "chat": 25
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2810,9 +2810,10 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T09:50:42Z"
+      "lastUpdated": "2025-07-13T09:53:43Z"
     },
     "camm_23": {
       "counters": {
@@ -3014,7 +3015,7 @@
       "lastUpdated": "2025-07-13T09:33:07Z"
     }
   },
-  "lastUpdated": "2025-07-13T08:50:42Z",
+  "lastUpdated": "2025-07-13T08:53:44Z",
   "totalUsers": 105,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
