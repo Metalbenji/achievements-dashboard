@@ -1546,10 +1546,11 @@
     "marcusmaximi": {
       "counters": {
         "chat": 142,
-        "points_spent": 3100,
-        "interactive": 1,
+        "points_spent": 3800,
+        "interactive": 2,
         "follow": 1,
-        "sub": 31
+        "sub": 31,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1571,9 +1572,10 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "chat_regular"
+        "chat_regular",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-13T13:24:22Z"
+      "lastUpdated": "2025-07-13T13:56:18Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1754,7 +1756,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 269,
+        "chat": 274,
         "points_spent": 1904,
         "effects": 4,
         "sounds": 3,
@@ -1794,7 +1796,7 @@
         "gift_bombs_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-13T13:25:22Z"
+      "lastUpdated": "2025-07-13T13:41:05Z"
     },
     "anzerou": {
       "counters": {
@@ -1959,7 +1961,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 527,
+        "chat": 533,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2009,7 +2011,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-13T13:24:37Z"
+      "lastUpdated": "2025-07-13T13:53:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3037,7 +3039,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 101,
+        "chat": 127,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3051,7 +3053,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T13:28:17Z"
+      "lastUpdated": "2025-07-13T13:55:46Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3086,7 +3088,7 @@
     "m0hmoh21": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 12,
         "points_spent": 800,
         "effects": 1
       },
@@ -3097,7 +3099,7 @@
         "effect_first",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T13:29:14Z"
+      "lastUpdated": "2025-07-13T13:31:01Z"
     },
     "helvyni": {
       "counters": {
@@ -3118,7 +3120,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:29:15Z",
+  "lastUpdated": "2025-07-13T12:56:18Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
