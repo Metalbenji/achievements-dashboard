@@ -1508,10 +1508,11 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 101,
+        "chat": 104,
         "points_spent": 350,
         "screenshot": 1,
-        "follow": 1
+        "follow": 1,
+        "sub": 43
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1521,9 +1522,21 @@
         "screenshot_first",
         "night_owl",
         "follow_supporter",
-        "chat_regular"
+        "chat_regular",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "sub_master"
       ],
-      "lastUpdated": "2025-07-12T17:42:58Z"
+      "lastUpdated": "2025-07-13T09:23:02Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1734,7 +1747,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 236,
+        "chat": 239,
         "points_spent": 754,
         "effects": 2,
         "sounds": 3,
@@ -1763,7 +1776,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-07-13T09:05:10Z"
+      "lastUpdated": "2025-07-13T09:22:14Z"
     },
     "anzerou": {
       "counters": {
@@ -2159,13 +2172,13 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 8
+        "chat": 9
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-08T19:55:42Z"
+      "lastUpdated": "2025-07-13T09:21:06Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2977,17 +2990,17 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-13T09:09:39Z"
+      "lastUpdated": "2025-07-13T09:19:10Z"
     }
   },
-  "lastUpdated": "2025-07-13T08:17:16Z",
+  "lastUpdated": "2025-07-13T08:23:13Z",
   "totalUsers": 105,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
