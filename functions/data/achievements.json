@@ -3036,7 +3036,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 85,
+        "chat": 86,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3049,7 +3049,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-13T13:17:56Z"
+      "lastUpdated": "2025-07-13T13:18:15Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3080,10 +3080,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-13T13:18:13Z"
+    },
+    "m0hmoh21": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-13T13:18:19Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:18:13Z",
-  "totalUsers": 109,
+  "lastUpdated": "2025-07-13T12:18:19Z",
+  "totalUsers": 110,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
