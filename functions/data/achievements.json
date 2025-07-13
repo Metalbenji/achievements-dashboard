@@ -1755,7 +1755,7 @@
       "counters": {
         "follow": 1,
         "chat": 267,
-        "points_spent": 754,
+        "points_spent": 1554,
         "effects": 2,
         "sounds": 3,
         "sub": 29,
@@ -1791,9 +1791,10 @@
         "gift_bomb_20",
         "gift_bomb_25",
         "gift_bomb_30",
-        "gift_bombs_first"
+        "gift_bombs_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-13T13:19:05Z"
+      "lastUpdated": "2025-07-13T13:21:25Z"
     },
     "anzerou": {
       "counters": {
@@ -2608,7 +2609,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 54
+        "chat": 56
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2617,7 +2618,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T13:19:31Z"
+      "lastUpdated": "2025-07-13T13:20:55Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3036,7 +3037,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 88,
+        "chat": 89,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3049,7 +3050,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-13T13:19:13Z"
+      "lastUpdated": "2025-07-13T13:20:10Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3111,7 +3112,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:19:44Z",
+  "lastUpdated": "2025-07-13T12:21:26Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
