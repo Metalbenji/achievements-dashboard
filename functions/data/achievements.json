@@ -2293,14 +2293,15 @@
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-13T21:55:43Z"
+      "lastUpdated": "2025-07-13T21:59:39Z"
     },
     "bludshed187": {
       "counters": {
@@ -3126,7 +3127,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T20:55:43Z",
+  "lastUpdated": "2025-07-13T20:59:39Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
