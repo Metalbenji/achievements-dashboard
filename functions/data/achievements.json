@@ -1508,7 +1508,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 124,
+        "chat": 125,
         "points_spent": 2850,
         "screenshot": 1,
         "follow": 1,
@@ -1541,7 +1541,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-13T11:24:18Z"
+      "lastUpdated": "2025-07-13T11:28:23Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1687,7 +1687,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 20
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1695,7 +1695,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-21T16:58:07Z"
+      "lastUpdated": "2025-07-13T11:30:46Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2152,11 +2152,12 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 49,
+        "chat": 50,
         "sub": 32,
         "points_spent": 2400,
         "interactive": 1,
-        "sounds": 1
+        "sounds": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2176,9 +2177,10 @@
         "sub_elite",
         "interactive_first",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "gift_starter"
       ],
-      "lastUpdated": "2025-07-13T11:24:06Z"
+      "lastUpdated": "2025-07-13T11:28:26Z"
     },
     "umenneske94": {
       "counters": {
@@ -2490,7 +2492,7 @@
       "counters": {
         "sub": 25,
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2503,9 +2505,10 @@
         "sub_platinum",
         "sub_diamond",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T10:28:23Z"
+      "lastUpdated": "2025-07-13T11:33:38Z"
     },
     "conkek": {
       "counters": {
@@ -3027,7 +3030,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 38,
+        "chat": 45,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -3037,7 +3040,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T11:26:16Z"
+      "lastUpdated": "2025-07-13T11:30:46Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3052,7 +3055,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T10:27:17Z",
+  "lastUpdated": "2025-07-13T10:33:39Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
