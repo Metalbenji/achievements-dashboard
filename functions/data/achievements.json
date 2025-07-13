@@ -1508,12 +1508,13 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 115,
+        "chat": 117,
         "points_spent": 1650,
         "screenshot": 1,
         "follow": 1,
         "sub": 43,
-        "sounds": 1
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1537,9 +1538,10 @@
         "sub_elite",
         "sub_master",
         "sound_first",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-13T10:54:26Z"
+      "lastUpdated": "2025-07-13T10:55:11Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2150,7 +2152,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 39,
+        "chat": 40,
         "sub": 32
       },
       "unlockedAchievements": [
@@ -2170,7 +2172,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-13T10:53:00Z"
+      "lastUpdated": "2025-07-13T10:54:53Z"
     },
     "umenneske94": {
       "counters": {
@@ -3019,15 +3021,16 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T10:54:02Z"
+      "lastUpdated": "2025-07-13T10:55:47Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3042,7 +3045,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T09:54:26Z",
+  "lastUpdated": "2025-07-13T09:55:47Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
