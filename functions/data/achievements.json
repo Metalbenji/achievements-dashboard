@@ -3016,15 +3016,17 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-07-13T10:50:18Z"
+      "lastUpdated": "2025-07-13T10:50:23Z"
     }
   },
-  "lastUpdated": "2025-07-13T09:50:18Z",
+  "lastUpdated": "2025-07-13T09:50:23Z",
   "totalUsers": 106,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
