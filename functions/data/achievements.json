@@ -2080,7 +2080,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 37,
+        "chat": 38,
         "points_spent": 2950,
         "interactive": 1
       },
@@ -2094,7 +2094,7 @@
         "chat_conversationalist",
         "interactive_first"
       ],
-      "lastUpdated": "2025-07-13T13:10:59Z"
+      "lastUpdated": "2025-07-13T13:27:10Z"
     },
     "qyainiana": {
       "counters": {
@@ -2200,14 +2200,14 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T09:24:25Z"
+      "lastUpdated": "2025-07-13T13:28:59Z"
     },
     "gwinniejones": {
       "counters": {
@@ -3037,7 +3037,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 100,
+        "chat": 101,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3051,7 +3051,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T13:26:58Z"
+      "lastUpdated": "2025-07-13T13:28:17Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3086,7 +3086,7 @@
     "m0hmoh21": {
       "counters": {
         "follow": 1,
-        "chat": 7,
+        "chat": 10,
         "points_spent": 800,
         "effects": 1
       },
@@ -3094,9 +3094,10 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "effect_first"
+        "effect_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T13:26:42Z"
+      "lastUpdated": "2025-07-13T13:29:14Z"
     },
     "helvyni": {
       "counters": {
@@ -3117,7 +3118,7 @@
       "lastUpdated": "2025-07-13T13:19:44Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:26:59Z",
+  "lastUpdated": "2025-07-13T12:29:15Z",
   "totalUsers": 112,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
