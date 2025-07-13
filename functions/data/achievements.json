@@ -1747,11 +1747,14 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 239,
+        "chat": 240,
         "points_spent": 754,
         "effects": 2,
         "sounds": 3,
-        "sub": 29
+        "sub": 29,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 36,
+        "largest_gift_bomb": 36
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1774,9 +1777,16 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "sub_diamond"
+        "sub_diamond",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-13T09:22:14Z"
+      "lastUpdated": "2025-07-13T09:24:11Z"
     },
     "anzerou": {
       "counters": {
@@ -2172,13 +2182,14 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T09:21:06Z"
+      "lastUpdated": "2025-07-13T09:24:25Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2990,17 +3001,17 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-13T09:19:10Z"
+      "lastUpdated": "2025-07-13T09:24:15Z"
     }
   },
-  "lastUpdated": "2025-07-13T08:23:18Z",
+  "lastUpdated": "2025-07-13T08:24:26Z",
   "totalUsers": 105,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
