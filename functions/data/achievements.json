@@ -1752,7 +1752,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 258,
+        "chat": 259,
         "points_spent": 754,
         "effects": 2,
         "sounds": 3,
@@ -1791,7 +1791,7 @@
         "gift_bomb_30",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-13T11:14:38Z"
+      "lastUpdated": "2025-07-13T11:14:54Z"
     },
     "anzerou": {
       "counters": {
@@ -3024,16 +3024,17 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 24,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T11:13:26Z"
+      "lastUpdated": "2025-07-13T11:15:09Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3048,7 +3049,7 @@
       "lastUpdated": "2025-07-13T10:53:51Z"
     }
   },
-  "lastUpdated": "2025-07-13T10:14:53Z",
+  "lastUpdated": "2025-07-13T10:15:09Z",
   "totalUsers": 107,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
