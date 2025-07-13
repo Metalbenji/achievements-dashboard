@@ -2013,7 +2013,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2022,7 +2022,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-06-22T11:08:05Z"
+      "lastUpdated": "2025-07-13T13:18:12Z"
     },
     "ke1fire": {
       "counters": {
@@ -3071,10 +3071,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-07-13T13:18:10Z"
+    },
+    "septikknissen": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-13T13:18:13Z"
     }
   },
-  "lastUpdated": "2025-07-13T12:18:11Z",
-  "totalUsers": 108,
+  "lastUpdated": "2025-07-13T12:18:13Z",
+  "totalUsers": 109,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
