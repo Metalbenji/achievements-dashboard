@@ -1931,7 +1931,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 26
+        "chat": 29
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1941,7 +1941,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-14T21:12:36Z"
+      "lastUpdated": "2025-07-14T22:06:35Z"
     },
     "epik__tv": {
       "counters": {
@@ -1966,7 +1966,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 577,
+        "chat": 581,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2016,7 +2016,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-14T22:03:24Z"
+      "lastUpdated": "2025-07-14T22:05:44Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3048,7 +3048,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 194,
+        "chat": 200,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3061,9 +3061,10 @@
         "chat_conversationalist",
         "effect_first",
         "chat_regular",
-        "night_owl"
+        "night_owl",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-07-14T22:03:53Z"
+      "lastUpdated": "2025-07-14T22:06:35Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3143,14 +3144,14 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 17
+        "chat": 18
       },
       "unlockedAchievements": [
         "chat_newbie",
         "chat_talker",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-14T22:02:49Z"
+      "lastUpdated": "2025-07-14T22:05:48Z"
     },
     "waywern2012": {
       "counters": {
@@ -3169,7 +3170,7 @@
       "lastUpdated": "2025-07-14T21:14:43Z"
     }
   },
-  "lastUpdated": "2025-07-14T21:03:59Z",
+  "lastUpdated": "2025-07-14T21:06:36Z",
   "totalUsers": 116,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
