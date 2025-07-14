@@ -1966,7 +1966,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 575,
+        "chat": 577,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2016,7 +2016,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-14T22:02:29Z"
+      "lastUpdated": "2025-07-14T22:03:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2318,7 +2318,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 51,
+        "chat": 52,
         "points_spent": 2100,
         "sounds": 1,
         "effects": 4,
@@ -2352,9 +2352,10 @@
         "bits_dedicated",
         "raid_tier1_captain",
         "chat_conversationalist",
-        "bits_committed"
+        "bits_committed",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-14T21:43:05Z"
+      "lastUpdated": "2025-07-14T22:03:59Z"
     },
     "andilippi": {
       "counters": {
@@ -3047,7 +3048,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 191,
+        "chat": 194,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3062,7 +3063,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-14T22:01:15Z"
+      "lastUpdated": "2025-07-14T22:03:53Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3142,14 +3143,14 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 16
+        "chat": 17
       },
       "unlockedAchievements": [
         "chat_newbie",
         "chat_talker",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-14T22:02:31Z"
+      "lastUpdated": "2025-07-14T22:02:49Z"
     },
     "waywern2012": {
       "counters": {
@@ -3168,7 +3169,7 @@
       "lastUpdated": "2025-07-14T21:14:43Z"
     }
   },
-  "lastUpdated": "2025-07-14T21:02:32Z",
+  "lastUpdated": "2025-07-14T21:03:59Z",
   "totalUsers": 116,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
