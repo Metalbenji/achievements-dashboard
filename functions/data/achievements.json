@@ -1931,7 +1931,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 26
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1941,7 +1941,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-14T21:10:28Z"
+      "lastUpdated": "2025-07-14T21:12:36Z"
     },
     "epik__tv": {
       "counters": {
@@ -2047,7 +2047,7 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 15
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2056,7 +2056,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T21:40:09Z"
+      "lastUpdated": "2025-07-14T21:12:46Z"
     },
     "insidematt": {
       "counters": {
@@ -3047,7 +3047,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 142,
+        "chat": 146,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3061,7 +3061,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-13T14:20:58Z"
+      "lastUpdated": "2025-07-14T21:13:57Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3141,21 +3141,30 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
-      "unlockedAchievements": [],
-      "lastUpdated": "2025-07-14T21:06:18Z"
+      "unlockedAchievements": [
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-07-14T21:15:08Z"
     },
     "waywern2012": {
       "counters": {
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [],
-      "lastUpdated": "2025-07-14T21:02:32Z"
+      "lastUpdated": "2025-07-14T21:10:39Z"
+    },
+    "birf_zero": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2025-07-14T21:14:43Z"
     }
   },
-  "lastUpdated": "2025-07-14T20:10:29Z",
-  "totalUsers": 115,
+  "lastUpdated": "2025-07-14T20:15:08Z",
+  "totalUsers": 116,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
