@@ -1409,8 +1409,8 @@
     "little_lilith_": {
       "counters": {
         "chat": 223,
-        "points_spent": 6200,
-        "effects": 1
+        "points_spent": 6550,
+        "effects": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1425,7 +1425,7 @@
         "effect_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-14T21:10:23Z"
+      "lastUpdated": "2025-07-14T21:15:31Z"
     },
     "celran": {
       "counters": {
@@ -3047,7 +3047,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 146,
+        "chat": 153,
         "follow": 1,
         "points_spent": 800,
         "effects": 1
@@ -3061,7 +3061,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-14T21:13:57Z"
+      "lastUpdated": "2025-07-14T21:22:09Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3141,19 +3141,21 @@
     },
     "kaahly87": {
       "counters": {
+        "chat": 8
+      },
+      "unlockedAchievements": [
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-07-14T21:20:34Z"
+    },
+    "waywern2012": {
+      "counters": {
         "chat": 5
       },
       "unlockedAchievements": [
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-14T21:15:08Z"
-    },
-    "waywern2012": {
-      "counters": {
-        "chat": 4
-      },
-      "unlockedAchievements": [],
-      "lastUpdated": "2025-07-14T21:10:39Z"
+      "lastUpdated": "2025-07-14T21:24:59Z"
     },
     "birf_zero": {
       "counters": {
@@ -3163,7 +3165,7 @@
       "lastUpdated": "2025-07-14T21:14:43Z"
     }
   },
-  "lastUpdated": "2025-07-14T20:15:08Z",
+  "lastUpdated": "2025-07-14T20:24:59Z",
   "totalUsers": 116,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
