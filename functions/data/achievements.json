@@ -1408,7 +1408,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 223,
+        "chat": 224,
         "points_spent": 6550,
         "effects": 2
       },
@@ -1425,7 +1425,7 @@
         "effect_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-14T21:15:31Z"
+      "lastUpdated": "2025-07-15T20:48:57Z"
     },
     "celran": {
       "counters": {
@@ -3171,15 +3171,17 @@
     },
     "kimmyh81": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-15T20:48:44Z"
+      "lastUpdated": "2025-07-15T20:50:36Z"
     }
   },
-  "lastUpdated": "2025-07-15T19:48:45Z",
+  "lastUpdated": "2025-07-15T19:50:37Z",
   "totalUsers": 117,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
