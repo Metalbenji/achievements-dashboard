@@ -2461,7 +2461,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 25,
+        "chat": 26,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2469,9 +2469,10 @@
         "follow_supporter",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-15T21:59:03Z"
+      "lastUpdated": "2025-07-15T22:00:26Z"
     },
     "justflip": {
       "counters": {
@@ -3185,7 +3186,7 @@
       "lastUpdated": "2025-07-15T20:53:04Z"
     }
   },
-  "lastUpdated": "2025-07-15T20:59:03Z",
+  "lastUpdated": "2025-07-15T21:00:26Z",
   "totalUsers": 117,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
