@@ -1804,13 +1804,15 @@
     "anzerou": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 4,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "first_caller"
       ],
-      "lastUpdated": "2025-06-21T17:50:33Z"
+      "lastUpdated": "2025-07-15T20:51:25Z"
     },
     "stevenbonk": {
       "counters": {
@@ -3181,7 +3183,7 @@
       "lastUpdated": "2025-07-15T20:50:36Z"
     }
   },
-  "lastUpdated": "2025-07-15T19:50:37Z",
+  "lastUpdated": "2025-07-15T19:51:26Z",
   "totalUsers": 117,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
