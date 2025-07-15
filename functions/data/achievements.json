@@ -1804,15 +1804,16 @@
     "anzerou": {
       "counters": {
         "follow": 1,
-        "chat": 4,
+        "chat": 5,
         "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "first_caller"
+        "first_caller",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-15T20:51:25Z"
+      "lastUpdated": "2025-07-15T20:52:11Z"
     },
     "stevenbonk": {
       "counters": {
@@ -3174,16 +3175,16 @@
     "kimmyh81": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-15T20:50:36Z"
+      "lastUpdated": "2025-07-15T20:52:02Z"
     }
   },
-  "lastUpdated": "2025-07-15T19:51:26Z",
+  "lastUpdated": "2025-07-15T19:52:11Z",
   "totalUsers": 117,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
