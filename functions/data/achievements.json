@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 43,
+        "chat": 45,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1338,7 +1338,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:17:00Z"
+      "lastUpdated": "2025-07-17T22:17:59Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2273,7 +2273,7 @@
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2281,7 +2281,7 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-17T22:16:26Z"
+      "lastUpdated": "2025-07-17T22:17:45Z"
     },
     "bludshed187": {
       "counters": {
@@ -3206,13 +3206,14 @@
     "neburgy": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "night_owl"
+        "night_owl",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-17T22:07:56Z"
+      "lastUpdated": "2025-07-17T22:19:07Z"
     },
     "kailthaz": {
       "counters": {
@@ -3276,9 +3277,9 @@
     "welshgurlttv": {
       "counters": {
         "points_spent": 1100,
-        "effects": 1,
+        "effects": 2,
         "follow": 1,
-        "chat": 15
+        "chat": 16
       },
       "unlockedAchievements": [
         "effect_first",
@@ -3288,7 +3289,7 @@
         "chat_talker",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:17:22Z"
+      "lastUpdated": "2025-07-17T22:19:07Z"
     },
     "the_pickle_farm": {
       "counters": {
@@ -3300,7 +3301,7 @@
       "lastUpdated": "2025-07-17T22:15:31Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:17:22Z",
+  "lastUpdated": "2025-07-17T21:19:08Z",
   "totalUsers": 125,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
