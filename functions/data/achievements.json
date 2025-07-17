@@ -3144,7 +3144,7 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 84,
+        "chat": 85,
         "points_spent": 350,
         "effects": 1
       },
@@ -3155,7 +3155,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-17T21:59:33Z"
+      "lastUpdated": "2025-07-17T22:25:09Z"
     },
     "waywern2012": {
       "counters": {
@@ -3302,10 +3302,19 @@
         "night_owl"
       ],
       "lastUpdated": "2025-07-17T22:15:31Z"
+    },
+    "tyriso": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-17T22:25:13Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:25:01Z",
-  "totalUsers": 125,
+  "lastUpdated": "2025-07-17T21:25:13Z",
+  "totalUsers": 126,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
