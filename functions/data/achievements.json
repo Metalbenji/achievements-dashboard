@@ -1934,7 +1934,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 33
+        "chat": 37
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1944,7 +1944,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-15T20:48:39Z"
+      "lastUpdated": "2025-07-15T22:05:05Z"
     },
     "epik__tv": {
       "counters": {
@@ -2461,7 +2461,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 26,
+        "chat": 29,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2472,7 +2472,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-15T22:00:26Z"
+      "lastUpdated": "2025-07-15T22:05:05Z"
     },
     "justflip": {
       "counters": {
@@ -2603,14 +2603,16 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 5,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "first_caller"
       ],
-      "lastUpdated": "2025-07-06T12:14:59Z"
+      "lastUpdated": "2025-07-17T19:22:30Z"
     },
     "hero_zappz": {
       "counters": {
@@ -2647,7 +2649,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 34,
+        "chat": 35,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2658,7 +2660,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-15T20:44:35Z"
+      "lastUpdated": "2025-07-16T19:09:51Z"
     },
     "sprockettrap": {
       "counters": {
@@ -3186,7 +3188,7 @@
       "lastUpdated": "2025-07-15T20:53:04Z"
     }
   },
-  "lastUpdated": "2025-07-15T21:00:26Z",
+  "lastUpdated": "2025-07-17T18:22:30Z",
   "totalUsers": 117,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
