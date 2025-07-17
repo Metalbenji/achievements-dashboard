@@ -3214,16 +3214,45 @@
     },
     "kailthaz": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:03:08Z"
+      "lastUpdated": "2025-07-17T22:03:09Z"
+    },
+    "justpeterpg": {
+      "counters": {
+        "points_spent": 103,
+        "special_rewards": 1,
+        "chat": 15,
+        "effects": 1,
+        "follow": 1,
+        "sub": 11
+      },
+      "unlockedAchievements": [
+        "weekend_warrior",
+        "effect_first",
+        "chat_newbie",
+        "first_caller",
+        "follow_supporter",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "chat_talker",
+        "night_owl"
+      ],
+      "lastUpdated": "2025-07-17T22:03:17Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:03:09Z",
-  "totalUsers": 120,
+  "lastUpdated": "2025-07-17T21:03:17Z",
+  "totalUsers": 121,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
