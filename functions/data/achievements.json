@@ -3263,12 +3263,14 @@
     "memmoumilas": {
       "counters": {
         "points_spent": 500,
-        "interactive": 1
+        "interactive": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "interactive_first"
+        "interactive_first",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-07-17T22:04:45Z"
+      "lastUpdated": "2025-07-17T22:08:04Z"
     },
     "welshgurlttv": {
       "counters": {
@@ -3285,7 +3287,7 @@
       "lastUpdated": "2025-07-17T22:06:50Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:07:56Z",
+  "lastUpdated": "2025-07-17T21:08:04Z",
   "totalUsers": 124,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
