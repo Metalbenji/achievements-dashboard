@@ -2252,7 +2252,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 22,
+        "chat": 23,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2260,9 +2260,10 @@
         "chat_newbie",
         "chat_talker",
         "bits_tiny",
-        "bits_small"
+        "bits_small",
+        "night_owl"
       ],
-      "lastUpdated": "2025-06-23T20:56:38Z"
+      "lastUpdated": "2025-07-17T22:31:18Z"
     },
     "chevelletv": {
       "counters": {
@@ -3317,7 +3318,7 @@
       "lastUpdated": "2025-07-17T22:28:08Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:28:08Z",
+  "lastUpdated": "2025-07-17T21:31:18Z",
   "totalUsers": 126,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
