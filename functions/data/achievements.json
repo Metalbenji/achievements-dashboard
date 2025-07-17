@@ -1943,7 +1943,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 593,
+        "chat": 594,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -1994,7 +1994,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-17T20:33:26Z"
+      "lastUpdated": "2025-07-17T22:05:00Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3252,12 +3252,12 @@
     },
     "xykojen": {
       "counters": {
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:04:27Z"
+      "lastUpdated": "2025-07-17T22:05:21Z"
     },
     "memmoumilas": {
       "counters": {
@@ -3268,10 +3268,20 @@
         "interactive_first"
       ],
       "lastUpdated": "2025-07-17T22:04:45Z"
+    },
+    "welshgurlttv": {
+      "counters": {
+        "points_spent": 800,
+        "effects": 1
+      },
+      "unlockedAchievements": [
+        "effect_first"
+      ],
+      "lastUpdated": "2025-07-17T22:05:38Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:04:45Z",
-  "totalUsers": 123,
+  "lastUpdated": "2025-07-17T21:05:38Z",
+  "totalUsers": 124,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
