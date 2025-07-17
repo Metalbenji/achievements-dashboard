@@ -1469,7 +1469,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 50,
+        "chat": 51,
         "points_spent": 2400,
         "effects": 6,
         "follow": 1,
@@ -1486,7 +1486,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-13T13:23:44Z"
+      "lastUpdated": "2025-07-17T20:34:00Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1582,7 +1582,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 51,
+        "chat": 52,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1593,7 +1593,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T13:15:29Z"
+      "lastUpdated": "2025-07-17T20:34:21Z"
     },
     "scoman07": {
       "counters": {
@@ -3205,15 +3205,17 @@
     },
     "bitter5weet": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-17T20:33:31Z"
+      "lastUpdated": "2025-07-17T20:34:36Z"
     }
   },
-  "lastUpdated": "2025-07-17T19:33:31Z",
+  "lastUpdated": "2025-07-17T19:34:36Z",
   "totalUsers": 118,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
