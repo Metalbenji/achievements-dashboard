@@ -3252,16 +3252,26 @@
     },
     "xykojen": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:03:27Z"
+      "lastUpdated": "2025-07-17T22:04:27Z"
+    },
+    "memmoumilas": {
+      "counters": {
+        "points_spent": 500,
+        "interactive": 1
+      },
+      "unlockedAchievements": [
+        "interactive_first"
+      ],
+      "lastUpdated": "2025-07-17T22:04:45Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:03:28Z",
-  "totalUsers": 122,
+  "lastUpdated": "2025-07-17T21:04:45Z",
+  "totalUsers": 123,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
