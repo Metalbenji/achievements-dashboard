@@ -1694,9 +1694,9 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 11,
+        "chat": 12,
         "points_spent": 1000,
-        "interactive": 1
+        "interactive": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1707,7 +1707,7 @@
         "night_owl",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:34:01Z"
+      "lastUpdated": "2025-07-17T22:34:44Z"
     },
     "adammmidders": {
       "counters": {
@@ -1949,7 +1949,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 594,
+        "chat": 595,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2000,7 +2000,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-17T22:05:00Z"
+      "lastUpdated": "2025-07-17T22:50:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2304,7 +2304,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 62,
+        "chat": 65,
         "points_spent": 2400,
         "sounds": 1,
         "effects": 5,
@@ -2355,7 +2355,7 @@
         "gift_bomb_100",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-17T22:20:11Z"
+      "lastUpdated": "2025-07-17T22:49:50Z"
     },
     "andilippi": {
       "counters": {
@@ -3148,7 +3148,7 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 87,
+        "chat": 91,
         "points_spent": 350,
         "effects": 1
       },
@@ -3159,7 +3159,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-17T22:26:51Z"
+      "lastUpdated": "2025-07-17T22:37:48Z"
     },
     "waywern2012": {
       "counters": {
@@ -3310,19 +3310,28 @@
     "tyriso": {
       "counters": {
         "follow": 1,
-        "points_spent": 1000,
-        "interactive": 2
+        "points_spent": 3000,
+        "interactive": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "interactive_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:31:54Z"
+      "lastUpdated": "2025-07-17T22:45:46Z"
+    },
+    "carlosgarciatb": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-17T22:56:56Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:34:02Z",
-  "totalUsers": 126,
+  "lastUpdated": "2025-07-17T21:56:57Z",
+  "totalUsers": 127,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
