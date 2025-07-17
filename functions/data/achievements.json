@@ -3309,17 +3309,18 @@
     "tyriso": {
       "counters": {
         "follow": 1,
-        "points_spent": 500,
+        "points_spent": 1000,
         "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "interactive_first"
+        "interactive_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:28:08Z"
+      "lastUpdated": "2025-07-17T22:31:53Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:31:44Z",
+  "lastUpdated": "2025-07-17T21:31:53Z",
   "totalUsers": 126,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
