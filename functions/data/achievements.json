@@ -3205,12 +3205,13 @@
     "neburgy": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-17T21:52:58Z"
+      "lastUpdated": "2025-07-17T22:07:56Z"
     },
     "kailthaz": {
       "counters": {
@@ -3273,16 +3274,18 @@
       "counters": {
         "points_spent": 800,
         "effects": 1,
-        "follow": 1
+        "follow": 1,
+        "chat": 2
       },
       "unlockedAchievements": [
         "effect_first",
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:06:27Z"
+      "lastUpdated": "2025-07-17T22:06:50Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:06:28Z",
+  "lastUpdated": "2025-07-17T21:07:56Z",
   "totalUsers": 124,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
