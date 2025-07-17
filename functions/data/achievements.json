@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 41,
+        "chat": 43,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1338,7 +1338,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:15:17Z"
+      "lastUpdated": "2025-07-17T22:17:00Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1557,7 +1557,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 54,
+        "chat": 55,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1568,7 +1568,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-17T21:59:22Z"
+      "lastUpdated": "2025-07-17T22:16:48Z"
     },
     "scoman07": {
       "counters": {
@@ -2273,7 +2273,7 @@
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2281,7 +2281,7 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-13T22:01:39Z"
+      "lastUpdated": "2025-07-17T22:16:26Z"
     },
     "bludshed187": {
       "counters": {
@@ -3275,19 +3275,20 @@
     },
     "welshgurlttv": {
       "counters": {
-        "points_spent": 800,
+        "points_spent": 1100,
         "effects": 1,
         "follow": 1,
-        "chat": 13
+        "chat": 15
       },
       "unlockedAchievements": [
         "effect_first",
         "follow_supporter",
         "night_owl",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:14:40Z"
+      "lastUpdated": "2025-07-17T22:17:22Z"
     },
     "the_pickle_farm": {
       "counters": {
@@ -3299,7 +3300,7 @@
       "lastUpdated": "2025-07-17T22:15:31Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:15:31Z",
+  "lastUpdated": "2025-07-17T21:17:22Z",
   "totalUsers": 125,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
