@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 39,
+        "chat": 41,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1338,7 +1338,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:14:37Z"
+      "lastUpdated": "2025-07-17T22:15:17Z"
     },
     "itzsilvah": {
       "counters": {
@@ -3278,7 +3278,7 @@
         "points_spent": 800,
         "effects": 1,
         "follow": 1,
-        "chat": 12
+        "chat": 13
       },
       "unlockedAchievements": [
         "effect_first",
@@ -3287,11 +3287,20 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-17T22:14:35Z"
+      "lastUpdated": "2025-07-17T22:14:40Z"
+    },
+    "the_pickle_farm": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "night_owl"
+      ],
+      "lastUpdated": "2025-07-17T22:15:31Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:14:38Z",
-  "totalUsers": 124,
+  "lastUpdated": "2025-07-17T21:15:31Z",
+  "totalUsers": 125,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
