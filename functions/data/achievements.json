@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 45,
+        "chat": 46,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1338,7 +1338,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:17:59Z"
+      "lastUpdated": "2025-07-17T22:21:30Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1694,15 +1694,18 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 10,
+        "points_spent": 500,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-06T12:10:12Z"
+      "lastUpdated": "2025-07-17T22:25:01Z"
     },
     "adammmidders": {
       "counters": {
@@ -2297,7 +2300,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 61,
+        "chat": 62,
         "points_spent": 2400,
         "sounds": 1,
         "effects": 5,
@@ -2348,7 +2351,7 @@
         "gift_bomb_100",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-17T19:56:51Z"
+      "lastUpdated": "2025-07-17T22:20:11Z"
     },
     "andilippi": {
       "counters": {
@@ -3301,7 +3304,7 @@
       "lastUpdated": "2025-07-17T22:15:31Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:19:08Z",
+  "lastUpdated": "2025-07-17T21:25:01Z",
   "totalUsers": 125,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
