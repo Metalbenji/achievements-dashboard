@@ -1969,7 +1969,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 591,
+        "chat": 593,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -1977,7 +1977,7 @@
         "points_spent": 22000,
         "effects": 3,
         "sub": 37,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2020,7 +2020,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-17T20:27:32Z"
+      "lastUpdated": "2025-07-17T20:33:26Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3166,7 +3166,7 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 39
+        "chat": 44
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -3174,7 +3174,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-17T20:25:04Z"
+      "lastUpdated": "2025-07-17T20:31:16Z"
     },
     "waywern2012": {
       "counters": {
@@ -3202,10 +3202,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-07-15T20:53:04Z"
+    },
+    "bitter5weet": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-17T20:33:31Z"
     }
   },
-  "lastUpdated": "2025-07-17T19:27:33Z",
-  "totalUsers": 117,
+  "lastUpdated": "2025-07-17T19:33:31Z",
+  "totalUsers": 118,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
