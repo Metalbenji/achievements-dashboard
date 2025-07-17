@@ -3277,18 +3277,19 @@
         "points_spent": 800,
         "effects": 1,
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "effect_first",
         "follow_supporter",
         "night_owl",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-17T22:09:53Z"
+      "lastUpdated": "2025-07-17T22:13:59Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:09:53Z",
+  "lastUpdated": "2025-07-17T21:14:00Z",
   "totalUsers": 124,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
