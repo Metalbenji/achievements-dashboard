@@ -1633,7 +1633,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 47,
+        "chat": 48,
         "points_spent": 2900,
         "interactive": 1,
         "effects": 3,
@@ -1657,7 +1657,7 @@
         "sub_platinum",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-17T19:56:57Z"
+      "lastUpdated": "2025-07-17T20:38:58Z"
     },
     "tawmae": {
       "counters": {
@@ -3166,15 +3166,18 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 44
+        "chat": 55,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
         "chat_talker",
         "night_owl",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-17T20:31:16Z"
+      "lastUpdated": "2025-07-17T21:08:23Z"
     },
     "waywern2012": {
       "counters": {
@@ -3206,17 +3209,17 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-17T20:38:00Z"
+      "lastUpdated": "2025-07-17T20:39:10Z"
     }
   },
-  "lastUpdated": "2025-07-17T19:38:00Z",
+  "lastUpdated": "2025-07-17T20:08:23Z",
   "totalUsers": 118,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
