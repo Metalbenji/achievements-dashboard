@@ -2132,7 +2132,7 @@
         "points_spent": 1550,
         "effects": 4,
         "follow": 1,
-        "chat": 27
+        "chat": 28
       },
       "unlockedAchievements": [
         "effect_first",
@@ -2141,9 +2141,10 @@
         "chat_newbie",
         "spender_bronze",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-12T13:48:20Z"
+      "lastUpdated": "2025-07-17T22:31:44Z"
     },
     "s3n71": {
       "counters": {
@@ -3318,7 +3319,7 @@
       "lastUpdated": "2025-07-17T22:28:08Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:31:18Z",
+  "lastUpdated": "2025-07-17T21:31:44Z",
   "totalUsers": 126,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
