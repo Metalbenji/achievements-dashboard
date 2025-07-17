@@ -3249,10 +3249,19 @@
         "night_owl"
       ],
       "lastUpdated": "2025-07-17T22:03:17Z"
+    },
+    "xykojen": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "night_owl"
+      ],
+      "lastUpdated": "2025-07-17T22:03:27Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:03:17Z",
-  "totalUsers": 121,
+  "lastUpdated": "2025-07-17T21:03:28Z",
+  "totalUsers": 122,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
