@@ -1694,7 +1694,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "points_spent": 500,
         "interactive": 1
       },
@@ -1703,9 +1703,10 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "interactive_first"
+        "interactive_first",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:25:01Z"
+      "lastUpdated": "2025-07-17T22:25:36Z"
     },
     "adammmidders": {
       "counters": {
@@ -3313,7 +3314,7 @@
       "lastUpdated": "2025-07-17T22:25:13Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:25:13Z",
+  "lastUpdated": "2025-07-17T21:25:36Z",
   "totalUsers": 126,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
