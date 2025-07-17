@@ -1556,7 +1556,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 52,
+        "chat": 54,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1567,7 +1567,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-17T20:34:21Z"
+      "lastUpdated": "2025-07-17T21:59:22Z"
     },
     "scoman07": {
       "counters": {
@@ -3140,7 +3140,7 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 82,
+        "chat": 84,
         "points_spent": 350,
         "effects": 1
       },
@@ -3151,16 +3151,16 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-17T21:45:56Z"
+      "lastUpdated": "2025-07-17T21:59:33Z"
     },
     "waywern2012": {
       "counters": {
-        "chat": 6
+        "chat": 7
       },
       "unlockedAchievements": [
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-14T21:33:12Z"
+      "lastUpdated": "2025-07-17T21:57:26Z"
     },
     "birf_zero": {
       "counters": {
@@ -3204,16 +3204,26 @@
     },
     "neburgy": {
       "counters": {
+        "follow": 1,
+        "chat": 3
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-17T21:52:58Z"
+    },
+    "kailthaz": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-07-17T21:47:07Z"
+      "lastUpdated": "2025-07-17T22:03:08Z"
     }
   },
-  "lastUpdated": "2025-07-17T20:47:07Z",
-  "totalUsers": 119,
+  "lastUpdated": "2025-07-17T21:03:09Z",
+  "totalUsers": 120,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
