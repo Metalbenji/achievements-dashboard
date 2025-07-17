@@ -1440,7 +1440,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 60,
+        "chat": 61,
         "points_spent": 6600,
         "screenshot": 1,
         "effects": 2,
@@ -1465,7 +1465,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T09:48:08Z"
+      "lastUpdated": "2025-07-17T19:35:07Z"
     },
     "dmustain": {
       "counters": {
@@ -2321,7 +2321,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 52,
+        "chat": 54,
         "points_spent": 2100,
         "sounds": 1,
         "effects": 4,
@@ -2358,7 +2358,7 @@
         "bits_committed",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-14T22:03:59Z"
+      "lastUpdated": "2025-07-17T19:37:22Z"
     },
     "andilippi": {
       "counters": {
@@ -2603,7 +2603,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 8,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2612,7 +2612,7 @@
         "chat_newbie",
         "first_caller"
       ],
-      "lastUpdated": "2025-07-17T19:22:30Z"
+      "lastUpdated": "2025-07-17T19:25:07Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3188,7 +3188,7 @@
       "lastUpdated": "2025-07-15T20:53:04Z"
     }
   },
-  "lastUpdated": "2025-07-17T18:22:30Z",
+  "lastUpdated": "2025-07-17T18:39:19Z",
   "totalUsers": 117,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
