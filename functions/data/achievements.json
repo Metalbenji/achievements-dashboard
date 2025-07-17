@@ -1695,7 +1695,7 @@
       "counters": {
         "follow": 1,
         "chat": 11,
-        "points_spent": 500,
+        "points_spent": 1000,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -1704,9 +1704,10 @@
         "chat_newbie",
         "chat_talker",
         "interactive_first",
-        "night_owl"
+        "night_owl",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:25:36Z"
+      "lastUpdated": "2025-07-17T22:34:01Z"
     },
     "adammmidders": {
       "counters": {
@@ -3310,17 +3311,17 @@
       "counters": {
         "follow": 1,
         "points_spent": 1000,
-        "interactive": 1
+        "interactive": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "interactive_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:31:53Z"
+      "lastUpdated": "2025-07-17T22:31:54Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:31:53Z",
+  "lastUpdated": "2025-07-17T21:34:02Z",
   "totalUsers": 126,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
