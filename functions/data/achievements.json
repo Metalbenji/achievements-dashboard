@@ -1469,7 +1469,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 51,
+        "chat": 54,
         "points_spent": 2400,
         "effects": 6,
         "follow": 1,
@@ -1486,7 +1486,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-17T20:34:00Z"
+      "lastUpdated": "2025-07-17T20:37:47Z"
     },
     "miromaaldis": {
       "counters": {
@@ -3206,16 +3206,17 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-17T20:34:36Z"
+      "lastUpdated": "2025-07-17T20:38:00Z"
     }
   },
-  "lastUpdated": "2025-07-17T19:34:36Z",
+  "lastUpdated": "2025-07-17T19:38:00Z",
   "totalUsers": 118,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
