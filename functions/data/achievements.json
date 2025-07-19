@@ -1445,7 +1445,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 71,
+        "chat": 72,
         "points_spent": 2400,
         "effects": 6,
         "follow": 1,
@@ -1462,7 +1462,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-19T18:48:27Z"
+      "lastUpdated": "2025-07-19T19:00:32Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1485,13 +1485,16 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 210,
+        "chat": 213,
         "points_spent": 3650,
         "screenshot": 1,
         "follow": 1,
         "sub": 43,
         "sounds": 1,
-        "effects": 3
+        "effects": 3,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 116,
+        "largest_gift_bomb": 116
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1517,9 +1520,20 @@
         "sound_first",
         "spender_bronze",
         "effect_first",
-        "chat_frequent"
+        "chat_frequent",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bomb_75",
+        "gift_bomb_100",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-19T18:51:17Z"
+      "lastUpdated": "2025-07-19T19:00:15Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1955,7 +1969,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 710,
+        "chat": 711,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2006,7 +2020,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-19T18:58:32Z"
+      "lastUpdated": "2025-07-19T18:58:51Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3367,10 +3381,19 @@
         "effect_first"
       ],
       "lastUpdated": "2025-07-19T16:19:04Z"
+    },
+    "stephen_thornley1997": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-19T19:00:53Z"
     }
   },
-  "lastUpdated": "2025-07-19T17:58:47Z",
-  "totalUsers": 129,
+  "lastUpdated": "2025-07-19T18:00:54Z",
+  "totalUsers": 130,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
