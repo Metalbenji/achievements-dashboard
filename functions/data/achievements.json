@@ -1465,7 +1465,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 23,
+        "chat": 25,
         "points_spent": 3700,
         "effects": 4,
         "follow": 1
@@ -1477,9 +1477,10 @@
         "follow_supporter",
         "chat_talker",
         "spender_bronze",
-        "biggest_fan"
+        "biggest_fan",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T12:46:23Z"
+      "lastUpdated": "2025-07-19T08:18:53Z"
     },
     "ramdon101": {
       "counters": {
@@ -1557,7 +1558,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 55,
+        "chat": 57,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1568,7 +1569,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-17T22:16:48Z"
+      "lastUpdated": "2025-07-17T23:03:39Z"
     },
     "scoman07": {
       "counters": {
@@ -1949,7 +1950,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 595,
+        "chat": 597,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2000,7 +2001,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-17T22:50:56Z"
+      "lastUpdated": "2025-07-17T22:59:40Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2646,7 +2647,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 35,
+        "chat": 37,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2657,7 +2658,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-16T19:09:51Z"
+      "lastUpdated": "2025-07-19T07:50:27Z"
     },
     "sprockettrap": {
       "counters": {
@@ -3235,7 +3236,7 @@
     },
     "justpeterpg": {
       "counters": {
-        "points_spent": 103,
+        "points_spent": 104,
         "special_rewards": 1,
         "chat": 15,
         "effects": 1,
@@ -3258,7 +3259,7 @@
         "chat_talker",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:03:17Z"
+      "lastUpdated": "2025-07-19T08:18:01Z"
     },
     "xykojen": {
       "counters": {
@@ -3310,15 +3311,15 @@
     "tyriso": {
       "counters": {
         "follow": 1,
-        "points_spent": 3000,
-        "interactive": 6
+        "points_spent": 3500,
+        "interactive": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "interactive_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-17T22:45:46Z"
+      "lastUpdated": "2025-07-17T22:57:14Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -3330,7 +3331,7 @@
       "lastUpdated": "2025-07-17T22:56:56Z"
     }
   },
-  "lastUpdated": "2025-07-17T21:56:57Z",
+  "lastUpdated": "2025-07-19T07:18:53Z",
   "totalUsers": 127,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
