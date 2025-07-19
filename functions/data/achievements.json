@@ -1954,7 +1954,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 669,
+        "chat": 670,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2005,7 +2005,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-19T16:13:46Z"
+      "lastUpdated": "2025-07-19T16:16:34Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3353,17 +3353,18 @@
     },
     "dustingorbit": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-19T16:16:10Z"
+      "lastUpdated": "2025-07-19T16:16:44Z"
     }
   },
-  "lastUpdated": "2025-07-19T15:16:10Z",
+  "lastUpdated": "2025-07-19T15:16:44Z",
   "totalUsers": 129,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
