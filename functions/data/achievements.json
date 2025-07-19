@@ -1841,15 +1841,16 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-08T19:41:51Z"
+      "lastUpdated": "2025-07-19T10:10:49Z"
     },
     "spoono__": {
       "counters": {
@@ -2687,7 +2688,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 30
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2696,7 +2697,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T10:01:06Z"
+      "lastUpdated": "2025-07-19T10:10:11Z"
     },
     "roffelonator": {
       "counters": {
@@ -3345,7 +3346,7 @@
       "lastUpdated": "2025-07-19T09:24:54Z"
     }
   },
-  "lastUpdated": "2025-07-19T09:01:08Z",
+  "lastUpdated": "2025-07-19T09:10:49Z",
   "totalUsers": 128,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
