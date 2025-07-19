@@ -1485,7 +1485,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 164,
+        "chat": 165,
         "points_spent": 2850,
         "screenshot": 1,
         "follow": 1,
@@ -1518,7 +1518,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-19T15:58:14Z"
+      "lastUpdated": "2025-07-19T16:17:20Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1954,7 +1954,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 670,
+        "chat": 674,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2005,7 +2005,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-19T16:16:34Z"
+      "lastUpdated": "2025-07-19T16:18:39Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3354,17 +3354,20 @@
     "dustingorbit": {
       "counters": {
         "chat": 5,
-        "follow": 1
+        "follow": 1,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-19T16:16:44Z"
+      "lastUpdated": "2025-07-19T16:18:51Z"
     }
   },
-  "lastUpdated": "2025-07-19T15:16:44Z",
+  "lastUpdated": "2025-07-19T15:18:52Z",
   "totalUsers": 129,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
