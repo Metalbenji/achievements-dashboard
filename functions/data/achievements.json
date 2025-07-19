@@ -1465,7 +1465,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 31,
+        "chat": 32,
         "points_spent": 3700,
         "effects": 4,
         "follow": 1
@@ -1480,7 +1480,7 @@
         "biggest_fan",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T08:31:40Z"
+      "lastUpdated": "2025-07-19T09:48:57Z"
     },
     "ramdon101": {
       "counters": {
@@ -1521,7 +1521,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 155,
+        "chat": 158,
         "points_spent": 35100,
         "interactive": 3,
         "follow": 1,
@@ -1554,7 +1554,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-19T09:23:22Z"
+      "lastUpdated": "2025-07-19T09:56:29Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1573,7 +1573,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 45,
+        "chat": 51,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1583,7 +1583,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T09:43:34Z"
+      "lastUpdated": "2025-07-19T09:49:56Z"
     },
     "lottec": {
       "counters": {
@@ -2687,15 +2687,16 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-13T13:23:54Z"
+      "lastUpdated": "2025-07-19T10:01:06Z"
     },
     "roffelonator": {
       "counters": {
@@ -2945,7 +2946,7 @@
     },
     "voidzdefiler": {
       "counters": {
-        "chat": 39,
+        "chat": 41,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2955,7 +2956,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T09:13:26Z"
+      "lastUpdated": "2025-07-19T09:42:57Z"
     },
     "dragoncrusaders369": {
       "counters": {
@@ -3334,15 +3335,17 @@
     },
     "wowsmael": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 2
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-19T09:24:51Z"
+      "lastUpdated": "2025-07-19T09:24:54Z"
     }
   },
-  "lastUpdated": "2025-07-19T08:24:52Z",
+  "lastUpdated": "2025-07-19T09:01:08Z",
   "totalUsers": 128,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
