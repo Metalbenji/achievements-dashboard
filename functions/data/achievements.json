@@ -1445,7 +1445,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 68,
+        "chat": 71,
         "points_spent": 2400,
         "effects": 6,
         "follow": 1,
@@ -1462,7 +1462,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-19T18:39:17Z"
+      "lastUpdated": "2025-07-19T18:48:27Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1485,7 +1485,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 208,
+        "chat": 210,
         "points_spent": 3650,
         "screenshot": 1,
         "follow": 1,
@@ -1519,7 +1519,7 @@
         "effect_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-19T18:43:07Z"
+      "lastUpdated": "2025-07-19T18:51:17Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1955,7 +1955,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 701,
+        "chat": 710,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2006,7 +2006,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-19T18:44:22Z"
+      "lastUpdated": "2025-07-19T18:58:32Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3147,7 +3147,7 @@
     "teshinator95": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3155,7 +3155,7 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-19T18:44:51Z"
+      "lastUpdated": "2025-07-19T18:45:26Z"
     },
     "kaahly87": {
       "counters": {
@@ -3369,7 +3369,7 @@
       "lastUpdated": "2025-07-19T16:19:04Z"
     }
   },
-  "lastUpdated": "2025-07-19T17:44:51Z",
+  "lastUpdated": "2025-07-19T17:58:38Z",
   "totalUsers": 129,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
