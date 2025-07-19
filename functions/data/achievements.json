@@ -1521,7 +1521,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 172,
+        "chat": 173,
         "points_spent": 36500,
         "interactive": 6,
         "follow": 1,
@@ -1554,7 +1554,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-19T12:10:00Z"
+      "lastUpdated": "2025-07-19T12:18:59Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1953,7 +1953,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 618,
+        "chat": 620,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2004,7 +2004,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-19T12:18:29Z"
+      "lastUpdated": "2025-07-19T12:34:17Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2915,14 +2915,14 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-19T12:18:32Z"
+      "lastUpdated": "2025-07-19T12:21:53Z"
     },
     "mulquero": {
       "counters": {
@@ -3058,9 +3058,9 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 200,
+        "chat": 204,
         "follow": 1,
-        "points_spent": 800,
+        "points_spent": 1600,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -3072,9 +3072,10 @@
         "effect_first",
         "chat_regular",
         "night_owl",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-14T22:06:35Z"
+      "lastUpdated": "2025-07-19T12:34:43Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -3155,7 +3156,7 @@
     },
     "kaahly87": {
       "counters": {
-        "chat": 104,
+        "chat": 105,
         "points_spent": 350,
         "effects": 1
       },
@@ -3168,7 +3169,7 @@
         "weekend_warrior",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-19T12:14:34Z"
+      "lastUpdated": "2025-07-19T12:23:22Z"
     },
     "waywern2012": {
       "counters": {
@@ -3350,7 +3351,7 @@
       "lastUpdated": "2025-07-19T09:24:54Z"
     }
   },
-  "lastUpdated": "2025-07-19T11:18:32Z",
+  "lastUpdated": "2025-07-19T11:34:43Z",
   "totalUsers": 128,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
