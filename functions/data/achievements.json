@@ -1444,7 +1444,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 54,
+        "chat": 56,
         "points_spent": 2400,
         "effects": 6,
         "follow": 1,
@@ -1461,7 +1461,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-17T20:37:47Z"
+      "lastUpdated": "2025-07-19T10:44:40Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1521,7 +1521,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 158,
+        "chat": 162,
         "points_spent": 35100,
         "interactive": 3,
         "follow": 1,
@@ -1554,7 +1554,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-19T09:56:29Z"
+      "lastUpdated": "2025-07-19T11:05:16Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1841,7 +1841,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 31
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1850,7 +1850,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T10:10:49Z"
+      "lastUpdated": "2025-07-19T10:28:20Z"
     },
     "spoono__": {
       "counters": {
@@ -2095,7 +2095,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2104,7 +2104,7 @@
         "night_owl",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-19T09:23:29Z"
+      "lastUpdated": "2025-07-19T11:04:50Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2154,7 +2154,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 59,
+        "chat": 60,
         "sub": 32,
         "points_spent": 2400,
         "interactive": 1,
@@ -2182,7 +2182,7 @@
         "sound_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-07-19T09:22:35Z"
+      "lastUpdated": "2025-07-19T10:28:45Z"
     },
     "umenneske94": {
       "counters": {
@@ -2666,13 +2666,13 @@
     "sprockettrap": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-06T10:20:41Z"
+      "lastUpdated": "2025-07-19T10:42:48Z"
     },
     "bongo1986": {
       "counters": {
@@ -3077,15 +3077,16 @@
     },
     "hopetusurvive": {
       "counters": {
-        "chat": 5,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T10:53:51Z"
+      "lastUpdated": "2025-07-19T11:06:38Z"
     },
     "hsdmon": {
       "counters": {
@@ -3346,7 +3347,7 @@
       "lastUpdated": "2025-07-19T09:24:54Z"
     }
   },
-  "lastUpdated": "2025-07-19T09:10:49Z",
+  "lastUpdated": "2025-07-19T10:06:38Z",
   "totalUsers": 128,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
