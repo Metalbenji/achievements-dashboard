@@ -1342,7 +1342,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 45,
+        "chat": 46,
         "points_spent": 8100,
         "follow": 1,
         "sub": 13
@@ -1364,7 +1364,7 @@
         "sub_champion",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T09:20:57Z"
+      "lastUpdated": "2025-07-20T09:21:40Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1891,7 +1891,7 @@
       "counters": {
         "points_spent": 10400,
         "follow": 1,
-        "chat": 71,
+        "chat": 72,
         "effects": 11,
         "screenshot": 1,
         "sounds": 2,
@@ -1928,7 +1928,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-20T09:19:53Z"
+      "lastUpdated": "2025-07-20T09:21:35Z"
     },
     "syn__________": {
       "counters": {
@@ -1981,7 +1981,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 718,
+        "chat": 720,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2032,7 +2032,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-20T09:19:37Z"
+      "lastUpdated": "2025-07-20T09:22:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3408,7 +3408,9 @@
       "counters": {
         "sub": 38,
         "follow": 1,
-        "chat": 11
+        "chat": 11,
+        "points_spent": 500,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -3426,14 +3428,15 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-20T09:20:26Z"
+      "lastUpdated": "2025-07-20T09:23:12Z"
     },
     "tiickiingb0mb2": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 300,
         "effects": 1,
         "sounds": 1
@@ -3445,10 +3448,10 @@
         "sound_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-20T09:21:11Z"
+      "lastUpdated": "2025-07-20T09:21:25Z"
     }
   },
-  "lastUpdated": "2025-07-20T08:21:12Z",
+  "lastUpdated": "2025-07-20T08:23:12Z",
   "totalUsers": 132,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
