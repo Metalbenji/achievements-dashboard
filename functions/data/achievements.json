@@ -1779,7 +1779,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 302,
+        "chat": 306,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1787,7 +1787,8 @@
         "gift_bombs": 1,
         "total_gift_bomb_subs": 36,
         "largest_gift_bomb": 36,
-        "screenshot": 1
+        "screenshot": 1,
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1820,9 +1821,10 @@
         "gift_bombs_first",
         "spender_bronze",
         "screenshot_first",
-        "chat_dedicated"
+        "chat_dedicated",
+        "clip_first"
       ],
-      "lastUpdated": "2025-07-20T14:01:47Z"
+      "lastUpdated": "2025-07-20T14:17:12Z"
     },
     "anzerou": {
       "counters": {
@@ -2941,7 +2943,7 @@
       "counters": {
         "sub": 30,
         "follow": 1,
-        "chat": 5
+        "chat": 9
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2958,7 +2960,7 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-20T14:09:41Z"
+      "lastUpdated": "2025-07-20T14:16:33Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -3520,7 +3522,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-20T13:09:41Z",
+  "lastUpdated": "2025-07-20T13:17:13Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
