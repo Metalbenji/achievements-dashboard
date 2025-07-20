@@ -1342,7 +1342,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 44,
+        "chat": 45,
         "points_spent": 8100,
         "follow": 1,
         "sub": 13
@@ -1364,7 +1364,7 @@
         "sub_champion",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T09:15:13Z"
+      "lastUpdated": "2025-07-20T09:20:57Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -3433,7 +3433,7 @@
     "tiickiingb0mb2": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 5,
         "points_spent": 300,
         "effects": 1,
         "sounds": 1
@@ -3442,12 +3442,13 @@
         "follow_supporter",
         "weekend_warrior",
         "effect_first",
-        "sound_first"
+        "sound_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-20T09:20:34Z"
+      "lastUpdated": "2025-07-20T09:21:11Z"
     }
   },
-  "lastUpdated": "2025-07-20T08:20:35Z",
+  "lastUpdated": "2025-07-20T08:21:12Z",
   "totalUsers": 132,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
