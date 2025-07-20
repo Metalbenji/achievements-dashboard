@@ -1485,7 +1485,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 218,
+        "chat": 219,
         "points_spent": 3650,
         "screenshot": 1,
         "follow": 1,
@@ -1533,7 +1533,7 @@
         "gift_bomb_100",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-19T19:03:10Z"
+      "lastUpdated": "2025-07-20T09:13:12Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1891,12 +1891,13 @@
       "counters": {
         "points_spent": 10400,
         "follow": 1,
-        "chat": 66,
+        "chat": 68,
         "effects": 11,
         "screenshot": 1,
         "sounds": 2,
         "bits": 100,
-        "raid": 4
+        "raid": 4,
+        "sub": 34
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1914,9 +1915,20 @@
         "bits_regular",
         "raid_tier1_captain",
         "effect_collector",
-        "spender_silver"
+        "spender_silver",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite"
       ],
-      "lastUpdated": "2025-07-17T19:45:56Z"
+      "lastUpdated": "2025-07-20T09:12:10Z"
     },
     "syn__________": {
       "counters": {
@@ -1969,7 +1981,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 715,
+        "chat": 717,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2020,7 +2032,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-20T09:09:22Z"
+      "lastUpdated": "2025-07-20T09:11:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3396,7 +3408,7 @@
       "counters": {
         "sub": 38,
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -3412,12 +3424,13 @@
         "sub_elite",
         "sub_master",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-20T09:10:02Z"
+      "lastUpdated": "2025-07-20T09:14:28Z"
     }
   },
-  "lastUpdated": "2025-07-20T08:10:24Z",
+  "lastUpdated": "2025-07-20T08:14:28Z",
   "totalUsers": 131,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
