@@ -1934,7 +1934,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 43
+        "chat": 44
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1944,7 +1944,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T19:03:00Z"
+      "lastUpdated": "2025-07-20T09:07:21Z"
     },
     "epik__tv": {
       "counters": {
@@ -3391,10 +3391,32 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-07-19T19:00:53Z"
+    },
+    "kallam19": {
+      "counters": {
+        "sub": 38,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "sub_master",
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-20T09:07:25Z"
     }
   },
-  "lastUpdated": "2025-07-20T08:07:20Z",
-  "totalUsers": 130,
+  "lastUpdated": "2025-07-20T08:07:25Z",
+  "totalUsers": 131,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
