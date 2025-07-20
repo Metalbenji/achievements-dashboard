@@ -1537,7 +1537,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 186,
+        "chat": 188,
         "points_spent": 37550,
         "interactive": 7,
         "follow": 1,
@@ -1570,7 +1570,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-19T18:24:33Z"
+      "lastUpdated": "2025-07-20T10:18:18Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1901,10 +1901,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 10400,
+        "points_spent": 11200,
         "follow": 1,
-        "chat": 75,
-        "effects": 11,
+        "chat": 77,
+        "effects": 12,
         "screenshot": 1,
         "sounds": 2,
         "bits": 100,
@@ -1940,7 +1940,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-20T09:29:55Z"
+      "lastUpdated": "2025-07-20T10:21:11Z"
     },
     "syn__________": {
       "counters": {
@@ -1993,7 +1993,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 722,
+        "chat": 724,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2044,7 +2044,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-20T09:56:12Z"
+      "lastUpdated": "2025-07-20T10:18:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2149,7 +2149,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 119,
         "bits": 390,
         "raid": 16,
         "points_spent": 800,
@@ -2171,7 +2171,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-20T10:14:01Z"
+      "lastUpdated": "2025-07-20T10:32:04Z"
     },
     "warl0c13": {
       "counters": {
@@ -2195,7 +2195,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 62,
+        "chat": 63,
         "sub": 32,
         "points_spent": 2400,
         "interactive": 1,
@@ -2223,7 +2223,7 @@
         "sound_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-07-20T09:26:20Z"
+      "lastUpdated": "2025-07-20T10:20:51Z"
     },
     "umenneske94": {
       "counters": {
@@ -2875,7 +2875,9 @@
       "counters": {
         "sub": 40,
         "follow": 1,
-        "chat": 27
+        "chat": 27,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2893,9 +2895,10 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-13T09:57:16Z"
+      "lastUpdated": "2025-07-20T10:32:20Z"
     },
     "camm_23": {
       "counters": {
@@ -3476,7 +3479,7 @@
       "lastUpdated": "2025-07-20T09:57:35Z"
     }
   },
-  "lastUpdated": "2025-07-20T09:14:01Z",
+  "lastUpdated": "2025-07-20T09:32:21Z",
   "totalUsers": 133,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
