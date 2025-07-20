@@ -2161,7 +2161,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 233,
+        "chat": 236,
         "bits": 390,
         "raid": 16,
         "points_spent": 2600,
@@ -2185,7 +2185,7 @@
         "spender_bronze",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-20T14:06:53Z"
+      "lastUpdated": "2025-07-20T14:08:29Z"
     },
     "warl0c13": {
       "counters": {
@@ -2941,7 +2941,7 @@
       "counters": {
         "sub": 30,
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2955,9 +2955,10 @@
         "sub_diamond",
         "sub_elite",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-20T14:05:35Z"
+      "lastUpdated": "2025-07-20T14:09:41Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -3519,7 +3520,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-20T13:07:00Z",
+  "lastUpdated": "2025-07-20T13:09:41Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
