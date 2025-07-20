@@ -1384,7 +1384,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 230,
+        "chat": 232,
         "points_spent": 6550,
         "effects": 2
       },
@@ -1401,7 +1401,7 @@
         "effect_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-19T09:11:17Z"
+      "lastUpdated": "2025-07-20T09:05:27Z"
     },
     "celran": {
       "counters": {
@@ -1445,7 +1445,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 72,
+        "chat": 73,
         "points_spent": 2400,
         "effects": 6,
         "follow": 1,
@@ -1462,7 +1462,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-19T19:00:32Z"
+      "lastUpdated": "2025-07-19T19:02:30Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1485,7 +1485,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 213,
+        "chat": 218,
         "points_spent": 3650,
         "screenshot": 1,
         "follow": 1,
@@ -1533,7 +1533,7 @@
         "gift_bomb_100",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-19T19:00:15Z"
+      "lastUpdated": "2025-07-19T19:03:10Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1934,7 +1934,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 42
+        "chat": 43
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1944,7 +1944,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T09:09:36Z"
+      "lastUpdated": "2025-07-19T19:03:00Z"
     },
     "epik__tv": {
       "counters": {
@@ -2170,7 +2170,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 60,
+        "chat": 61,
         "sub": 32,
         "points_spent": 2400,
         "interactive": 1,
@@ -2198,7 +2198,7 @@
         "sound_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-07-19T10:28:45Z"
+      "lastUpdated": "2025-07-20T09:02:54Z"
     },
     "umenneske94": {
       "counters": {
@@ -2666,7 +2666,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 37,
+        "chat": 40,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2677,7 +2677,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T07:50:27Z"
+      "lastUpdated": "2025-07-20T08:58:33Z"
     },
     "sprockettrap": {
       "counters": {
@@ -3262,9 +3262,9 @@
     },
     "justpeterpg": {
       "counters": {
-        "points_spent": 104,
+        "points_spent": 105,
         "special_rewards": 1,
-        "chat": 17,
+        "chat": 25,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -3283,9 +3283,10 @@
         "sub_veteran",
         "sub_champion",
         "chat_talker",
-        "night_owl"
+        "night_owl",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T08:28:33Z"
+      "lastUpdated": "2025-07-20T09:05:32Z"
     },
     "xykojen": {
       "counters": {
@@ -3392,7 +3393,7 @@
       "lastUpdated": "2025-07-19T19:00:53Z"
     }
   },
-  "lastUpdated": "2025-07-19T18:00:54Z",
+  "lastUpdated": "2025-07-20T08:05:33Z",
   "totalUsers": 130,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
