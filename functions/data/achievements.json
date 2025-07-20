@@ -1891,7 +1891,7 @@
       "counters": {
         "points_spent": 10400,
         "follow": 1,
-        "chat": 70,
+        "chat": 71,
         "effects": 11,
         "screenshot": 1,
         "sounds": 2,
@@ -1928,7 +1928,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-20T09:19:15Z"
+      "lastUpdated": "2025-07-20T09:19:53Z"
     },
     "syn__________": {
       "counters": {
@@ -3433,16 +3433,19 @@
     "tiickiingb0mb2": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-20T09:19:45Z"
+      "lastUpdated": "2025-07-20T09:20:21Z"
     }
   },
-  "lastUpdated": "2025-07-20T08:19:46Z",
+  "lastUpdated": "2025-07-20T08:20:21Z",
   "totalUsers": 132,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
