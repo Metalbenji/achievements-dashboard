@@ -3464,15 +3464,17 @@
     },
     "videogamegherkin": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-07-20T09:48:28Z"
     }
   },
-  "lastUpdated": "2025-07-20T08:48:28Z",
+  "lastUpdated": "2025-07-20T08:48:29Z",
   "totalUsers": 133,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
