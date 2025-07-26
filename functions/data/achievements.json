@@ -2536,7 +2536,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 172,
+        "chat": 173,
         "points_spent": 2750,
         "sounds": 1,
         "effects": 6,
@@ -2592,7 +2592,7 @@
         "chat_regular",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-26T21:11:36Z"
+      "lastUpdated": "2025-07-26T21:17:46Z"
     },
     "andilippi": {
       "counters": {
@@ -2910,7 +2910,8 @@
         "chat": 43,
         "follow": 1,
         "points_spent": 1500,
-        "sounds": 1
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -2921,9 +2922,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "sound_first",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-26T21:17:26Z"
+      "lastUpdated": "2025-07-26T21:17:27Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4025,10 +4027,20 @@
         "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T20:07:01Z"
+    },
+    "bety_bambalam": {
+      "counters": {
+        "points_spent": 200,
+        "effects": 1
+      },
+      "unlockedAchievements": [
+        "effect_first"
+      ],
+      "lastUpdated": "2025-07-26T21:18:06Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:17:27Z",
-  "totalUsers": 152,
+  "lastUpdated": "2025-07-26T20:18:06Z",
+  "totalUsers": 153,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
