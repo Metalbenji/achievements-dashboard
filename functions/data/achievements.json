@@ -2978,14 +2978,14 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-19T12:21:53Z"
+      "lastUpdated": "2025-07-26T09:55:29Z"
     },
     "mulquero": {
       "counters": {
@@ -3117,7 +3117,8 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "first_caller"
+        "first_caller",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T09:55:16Z"
     },
@@ -3526,7 +3527,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T08:55:17Z",
+  "lastUpdated": "2025-07-26T08:55:29Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
