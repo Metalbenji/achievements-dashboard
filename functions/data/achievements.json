@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 332,
+        "chat": 333,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1422,7 +1422,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T19:08:00Z"
+      "lastUpdated": "2025-07-26T19:09:17Z"
     },
     "celran": {
       "counters": {
@@ -1816,10 +1816,10 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 26,
+        "chat": 27,
         "points_spent": 5000,
         "interactive": 1,
-        "sub": 22
+        "sub": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1836,9 +1836,11 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sub_tier1",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-06-28T17:14:01Z"
+      "lastUpdated": "2025-07-26T19:09:35Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3967,7 +3969,7 @@
       "lastUpdated": "2025-07-26T18:56:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T18:08:54Z",
+  "lastUpdated": "2025-07-26T18:09:35Z",
   "totalUsers": 150,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
