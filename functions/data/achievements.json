@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 352,
+        "chat": 357,
         "points_spent": 10050,
         "effects": 5,
         "sub": 7,
@@ -1425,7 +1425,7 @@
         "emperor_loyal",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T22:15:43Z"
+      "lastUpdated": "2025-07-26T22:24:53Z"
     },
     "celran": {
       "counters": {
@@ -2078,7 +2078,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 69,
+        "chat": 71,
         "sub": 22,
         "points_spent": 350,
         "screenshot": 1
@@ -2103,7 +2103,7 @@
         "bday2025_attend",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-07-26T22:20:58Z"
+      "lastUpdated": "2025-07-26T22:24:08Z"
     },
     "epik__tv": {
       "counters": {
@@ -2914,7 +2914,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 44,
+        "chat": 45,
         "follow": 1,
         "points_spent": 1500,
         "sounds": 1,
@@ -2932,7 +2932,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-26T22:07:51Z"
+      "lastUpdated": "2025-07-26T22:21:40Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4061,7 +4061,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 3,
+        "chat": 4,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
@@ -4073,14 +4073,15 @@
         "gift_bomb_5",
         "gift_bombs_first",
         "bday2025_support",
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-26T21:25:46Z"
+      "lastUpdated": "2025-07-26T22:25:16Z"
     },
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 13,
+        "chat": 16,
         "points_spent": 201,
         "effects": 1
       },
@@ -4094,12 +4095,12 @@
         "chat_talker",
         "birthday_person"
       ],
-      "lastUpdated": "2025-07-26T22:20:25Z"
+      "lastUpdated": "2025-07-26T22:24:44Z"
     },
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4109,10 +4110,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T22:21:26Z"
+      "lastUpdated": "2025-07-26T22:23:31Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:21:26Z",
+  "lastUpdated": "2025-07-26T21:25:17Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
