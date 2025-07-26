@@ -1388,7 +1388,7 @@
     "little_lilith_": {
       "counters": {
         "chat": 352,
-        "points_spent": 7700,
+        "points_spent": 9700,
         "effects": 4,
         "sub": 7,
         "bits": 1869,
@@ -1421,9 +1421,10 @@
         "raid_tier1_captain",
         "bits_dedicated",
         "chat_dedicated",
-        "bits_committed"
+        "bits_committed",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-07-26T22:05:31Z"
+      "lastUpdated": "2025-07-26T22:12:34Z"
     },
     "celran": {
       "counters": {
@@ -2909,7 +2910,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 43,
+        "chat": 44,
         "follow": 1,
         "points_spent": 1500,
         "sounds": 1,
@@ -2927,7 +2928,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-26T21:17:27Z"
+      "lastUpdated": "2025-07-26T22:07:51Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4075,7 +4076,7 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 8,
+        "chat": 9,
         "points_spent": 200,
         "effects": 1
       },
@@ -4087,10 +4088,10 @@
         "effect_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-26T22:06:12Z"
+      "lastUpdated": "2025-07-26T22:07:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:06:13Z",
+  "lastUpdated": "2025-07-26T21:12:35Z",
   "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
