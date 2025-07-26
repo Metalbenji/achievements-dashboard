@@ -3244,7 +3244,8 @@
         "gift_starter",
         "bday2025_support",
         "bday2025_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "night_owl"
       ],
       "lastUpdated": "2025-07-26T22:00:39Z"
     },
@@ -4074,18 +4075,21 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 7,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-26T21:39:00Z"
+      "lastUpdated": "2025-07-26T22:01:11Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:00:40Z",
+  "lastUpdated": "2025-07-26T21:01:11Z",
   "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
