@@ -1386,7 +1386,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 299,
+        "chat": 300,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1418,9 +1418,10 @@
         "bits_regular",
         "bits_steady",
         "raid_tier1_captain",
-        "bits_dedicated"
+        "bits_dedicated",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T13:16:00Z"
+      "lastUpdated": "2025-07-26T13:41:35Z"
     },
     "celran": {
       "counters": {
@@ -2649,7 +2650,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 45,
+        "chat": 52,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2671,7 +2672,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T13:38:35Z"
+      "lastUpdated": "2025-07-26T13:41:15Z"
     },
     "majesty81": {
       "counters": {
@@ -3797,12 +3798,13 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:38:46Z"
+      "lastUpdated": "2025-07-26T13:38:47Z"
     }
   },
-  "lastUpdated": "2025-07-26T12:38:47Z",
+  "lastUpdated": "2025-07-26T12:41:35Z",
   "totalUsers": 144,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
