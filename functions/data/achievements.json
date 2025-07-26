@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 340,
+        "chat": 342,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1422,7 +1422,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T20:01:29Z"
+      "lastUpdated": "2025-07-26T20:25:58Z"
     },
     "celran": {
       "counters": {
@@ -2135,7 +2135,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 846,
+        "chat": 848,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2190,7 +2190,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T20:23:42Z"
+      "lastUpdated": "2025-07-26T20:25:25Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2535,7 +2535,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 154,
+        "chat": 156,
         "points_spent": 2750,
         "sounds": 1,
         "effects": 6,
@@ -2591,7 +2591,7 @@
         "chat_regular",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-26T20:24:15Z"
+      "lastUpdated": "2025-07-26T20:25:54Z"
     },
     "andilippi": {
       "counters": {
@@ -3022,14 +3022,16 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 38,
-        "points_spent": 4551,
+        "chat": 39,
+        "points_spent": 6551,
         "effects": 5,
         "screenshot": 3,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 150,
         "largest_gift_bomb": 111,
-        "interactive": 1
+        "interactive": 1,
+        "gift_subs": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3056,9 +3058,11 @@
         "bday2025_support",
         "chat_conversationalist",
         "gift_bombs_veteran",
-        "interactive_first"
+        "interactive_first",
+        "gift_starter",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-26T20:23:10Z"
+      "lastUpdated": "2025-07-26T20:26:04Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -4016,7 +4020,7 @@
       "lastUpdated": "2025-07-26T20:07:01Z"
     }
   },
-  "lastUpdated": "2025-07-26T19:24:27Z",
+  "lastUpdated": "2025-07-26T19:26:05Z",
   "totalUsers": 152,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
