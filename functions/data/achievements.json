@@ -1524,7 +1524,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 339,
+        "chat": 340,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1577,7 +1577,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T18:52:12Z"
+      "lastUpdated": "2025-07-26T18:54:59Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3948,10 +3948,19 @@
         "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T17:22:35Z"
+    },
+    "zeratoolll": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T18:56:26Z"
     }
   },
-  "lastUpdated": "2025-07-26T17:54:24Z",
-  "totalUsers": 149,
+  "lastUpdated": "2025-07-26T17:56:27Z",
+  "totalUsers": 150,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
