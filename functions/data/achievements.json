@@ -1567,7 +1567,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 214,
+        "chat": 215,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1605,7 +1605,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T11:16:10Z"
+      "lastUpdated": "2025-07-26T11:19:00Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2211,8 +2211,8 @@
       "counters": {
         "follow": 1,
         "chat": 290,
-        "bits": 770,
-        "raid": 35,
+        "bits": 790,
+        "raid": 36,
         "points_spent": 3600,
         "effects": 6
       },
@@ -2238,7 +2238,7 @@
         "raid_tier4_warlord",
         "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-26T11:18:02Z"
+      "lastUpdated": "2025-07-26T11:19:01Z"
     },
     "warl0c13": {
       "counters": {
@@ -2959,9 +2959,12 @@
       "counters": {
         "sub": 41,
         "follow": 1,
-        "chat": 44,
+        "chat": 45,
         "points_spent": 350,
-        "effects": 1
+        "effects": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 45,
+        "largest_gift_bomb": 45
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2983,9 +2986,17 @@
         "effect_first",
         "sub_tier1",
         "bday2025_support",
-        "bday2025_attend"
+        "bday2025_attend",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-26T11:17:10Z"
+      "lastUpdated": "2025-07-26T11:18:55Z"
     },
     "camm_23": {
       "counters": {
@@ -3700,7 +3711,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:18:52Z",
+  "lastUpdated": "2025-07-26T10:19:06Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
