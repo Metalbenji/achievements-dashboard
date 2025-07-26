@@ -4076,7 +4076,7 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 200,
         "effects": 1
       },
@@ -4086,12 +4086,13 @@
         "bday2025_attend",
         "chat_newbie",
         "effect_first",
-        "night_owl"
+        "night_owl",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T22:07:59Z"
+      "lastUpdated": "2025-07-26T22:13:40Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:12:35Z",
+  "lastUpdated": "2025-07-26T21:13:40Z",
   "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
