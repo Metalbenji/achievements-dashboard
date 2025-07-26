@@ -1525,7 +1525,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 350,
+        "chat": 351,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1578,7 +1578,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T20:31:41Z"
+      "lastUpdated": "2025-07-26T21:16:30Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2909,7 +2909,7 @@
       "counters": {
         "chat": 43,
         "follow": 1,
-        "points_spent": 500,
+        "points_spent": 1500,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -2920,9 +2920,10 @@
         "weekend_warrior",
         "chat_conversationalist",
         "bday2025_attend",
-        "sound_first"
+        "sound_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T21:15:00Z"
+      "lastUpdated": "2025-07-26T21:17:26Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4026,7 +4027,7 @@
       "lastUpdated": "2025-07-26T20:07:01Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:15:01Z",
+  "lastUpdated": "2025-07-26T20:17:27Z",
   "totalUsers": 152,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
