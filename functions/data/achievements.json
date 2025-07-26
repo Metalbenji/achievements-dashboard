@@ -1767,7 +1767,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 10
@@ -1783,7 +1783,7 @@
         "bday2025_support",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T19:08:28Z"
+      "lastUpdated": "2025-07-26T19:54:32Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2532,7 +2532,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 133,
+        "chat": 135,
         "points_spent": 2750,
         "sounds": 1,
         "effects": 6,
@@ -2588,7 +2588,7 @@
         "chat_regular",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-26T19:50:04Z"
+      "lastUpdated": "2025-07-26T19:57:23Z"
     },
     "andilippi": {
       "counters": {
@@ -3019,12 +3019,12 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 21,
+        "chat": 25,
         "points_spent": 3451,
         "effects": 5,
         "screenshot": 1,
-        "gift_bombs": 3,
-        "total_gift_bomb_subs": 126,
+        "gift_bombs": 4,
+        "total_gift_bomb_subs": 136,
         "largest_gift_bomb": 111
       },
       "unlockedAchievements": [
@@ -3048,9 +3048,11 @@
         "gift_bombs_first",
         "chat_talker",
         "gift_bombs_regular",
-        "bday2025_attend"
+        "bday2025_attend",
+        "bday2025_support",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T19:54:04Z"
+      "lastUpdated": "2025-07-26T19:57:24Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -3996,7 +3998,7 @@
       "lastUpdated": "2025-07-26T19:23:29Z"
     }
   },
-  "lastUpdated": "2025-07-26T18:54:26Z",
+  "lastUpdated": "2025-07-26T18:57:25Z",
   "totalUsers": 151,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
