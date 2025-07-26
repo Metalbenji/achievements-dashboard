@@ -4149,15 +4149,17 @@
     },
     "auriaya__": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
       "lastUpdated": "2025-07-26T23:31:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:31:59Z",
+  "lastUpdated": "2025-07-26T22:32:00Z",
   "totalUsers": 157,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
