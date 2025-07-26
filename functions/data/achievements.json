@@ -1758,14 +1758,14 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-06-21T16:56:40Z"
+      "lastUpdated": "2025-07-26T12:24:10Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2235,7 +2235,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 365,
+        "chat": 367,
         "bits": 990,
         "raid": 46,
         "points_spent": 3600,
@@ -2264,7 +2264,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:22:32Z"
+      "lastUpdated": "2025-07-26T12:23:44Z"
     },
     "warl0c13": {
       "counters": {
@@ -3638,16 +3638,23 @@
     "lurknrip": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 21,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 10,
+        "largest_gift_bomb": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "bday2025_attend"
+        "bday2025_attend",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bombs_first",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T12:21:40Z"
+      "lastUpdated": "2025-07-26T12:23:46Z"
     },
     "cyramica": {
       "counters": {
@@ -3751,7 +3758,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T11:23:10Z",
+  "lastUpdated": "2025-07-26T11:24:11Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
