@@ -1555,7 +1555,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 198,
+        "chat": 199,
         "points_spent": 37550,
         "interactive": 7,
         "follow": 1,
@@ -1592,7 +1592,7 @@
         "gift_starter",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:03:12Z"
+      "lastUpdated": "2025-07-26T10:19:43Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2581,7 +2581,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 15,
+        "chat": 16,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2602,7 +2602,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:19:29Z"
+      "lastUpdated": "2025-07-26T10:19:54Z"
     },
     "majesty81": {
       "counters": {
@@ -3193,7 +3193,7 @@
     },
     "hopetusurvive": {
       "counters": {
-        "chat": 11,
+        "chat": 12,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -3202,7 +3202,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-19T11:12:53Z"
+      "lastUpdated": "2025-07-26T10:19:55Z"
     },
     "hsdmon": {
       "counters": {
@@ -3603,15 +3603,16 @@
     },
     "pupuren": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:19:32Z"
+      "lastUpdated": "2025-07-26T10:19:42Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:19:33Z",
+  "lastUpdated": "2025-07-26T09:19:55Z",
   "totalUsers": 138,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
