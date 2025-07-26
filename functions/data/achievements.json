@@ -1502,7 +1502,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 245,
+        "chat": 246,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1553,7 +1553,7 @@
         "bday2025_support",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T10:32:25Z"
+      "lastUpdated": "2025-07-26T10:37:21Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1642,7 +1642,7 @@
       "counters": {
         "points_spent": 4500,
         "effects": 5,
-        "chat": 70,
+        "chat": 71,
         "sounds": 1,
         "follow": 1
       },
@@ -1658,7 +1658,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:37:16Z"
+      "lastUpdated": "2025-07-26T10:37:26Z"
     },
     "hairypawter": {
       "counters": {
@@ -3625,28 +3625,30 @@
     "cjwho": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "bday2025_attend",
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-07-26T10:37:41Z"
+    },
+    "zuivereyy": {
+      "counters": {
+        "follow": 1,
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:37:04Z"
-    },
-    "zuivereyy": {
-      "counters": {
-        "follow": 1,
-        "chat": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior"
-      ],
-      "lastUpdated": "2025-07-26T10:37:18Z"
+      "lastUpdated": "2025-07-26T10:37:24Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:37:19Z",
+  "lastUpdated": "2025-07-26T09:37:41Z",
   "totalUsers": 140,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
