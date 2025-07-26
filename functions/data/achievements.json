@@ -1677,7 +1677,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 61,
+        "chat": 62,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -1691,7 +1691,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-05T13:31:55Z"
+      "lastUpdated": "2025-07-26T09:59:38Z"
     },
     "kripoje": {
       "counters": {
@@ -2754,7 +2754,8 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T09:59:28Z"
     },
@@ -3529,7 +3530,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T08:59:28Z",
+  "lastUpdated": "2025-07-26T08:59:38Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
