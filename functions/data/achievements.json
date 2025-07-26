@@ -4162,15 +4162,18 @@
     },
     "imistorm": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-26T23:51:23Z"
+      "lastUpdated": "2025-07-26T23:51:24Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:51:24Z",
+  "lastUpdated": "2025-07-26T22:51:25Z",
   "totalUsers": 158,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
