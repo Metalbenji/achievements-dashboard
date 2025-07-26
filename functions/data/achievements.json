@@ -1542,7 +1542,8 @@
         "gift_bomb_50",
         "gift_bomb_75",
         "gift_bomb_100",
-        "gift_bombs_first"
+        "gift_bombs_first",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T09:55:06Z"
     },
@@ -3108,7 +3109,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 19,
+        "chat": 20,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -3118,7 +3119,7 @@
         "chat_talker",
         "first_caller"
       ],
-      "lastUpdated": "2025-07-26T09:54:09Z"
+      "lastUpdated": "2025-07-26T09:55:16Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -3525,7 +3526,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T08:55:06Z",
+  "lastUpdated": "2025-07-26T08:55:17Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
