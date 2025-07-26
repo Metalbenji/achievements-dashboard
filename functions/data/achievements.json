@@ -1416,7 +1416,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 87,
+        "chat": 88,
         "points_spent": 7000,
         "screenshot": 1,
         "effects": 2,
@@ -1442,7 +1442,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:21:45Z"
+      "lastUpdated": "2025-07-26T10:23:21Z"
     },
     "dmustain": {
       "counters": {
@@ -2034,7 +2034,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 733,
+        "chat": 734,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2085,7 +2085,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-20T13:07:46Z"
+      "lastUpdated": "2025-07-26T10:23:31Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2581,7 +2581,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 19,
+        "chat": 22,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2602,7 +2602,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:23:04Z"
+      "lastUpdated": "2025-07-26T10:23:23Z"
     },
     "majesty81": {
       "counters": {
@@ -3269,7 +3269,8 @@
         "night_owl",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:23:11Z"
     },
@@ -3615,7 +3616,7 @@
       "lastUpdated": "2025-07-26T10:21:31Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:23:11Z",
+  "lastUpdated": "2025-07-26T09:23:31Z",
   "totalUsers": 138,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
