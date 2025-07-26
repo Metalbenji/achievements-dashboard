@@ -2074,7 +2074,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 63,
+        "chat": 64,
         "sub": 22
       },
       "unlockedAchievements": [
@@ -2096,7 +2096,7 @@
         "bday2025_support",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:57:43Z"
+      "lastUpdated": "2025-07-26T21:23:43Z"
     },
     "epik__tv": {
       "counters": {
@@ -2536,10 +2536,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 173,
-        "points_spent": 2750,
+        "chat": 174,
+        "points_spent": 3250,
         "sounds": 1,
-        "effects": 6,
+        "effects": 7,
         "sub": 39,
         "bits": 2000,
         "raid": 2,
@@ -2592,7 +2592,7 @@
         "chat_regular",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-26T21:17:46Z"
+      "lastUpdated": "2025-07-26T21:25:40Z"
     },
     "andilippi": {
       "counters": {
@@ -2954,7 +2954,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 76,
+        "chat": 77,
         "points_spent": 1100,
         "effects": 2
       },
@@ -2968,7 +2968,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-26T21:18:56Z"
+      "lastUpdated": "2025-07-26T21:23:00Z"
     },
     "roffelonator": {
       "counters": {
@@ -4059,7 +4059,7 @@
       "lastUpdated": "2025-07-26T21:20:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:21:33Z",
+  "lastUpdated": "2025-07-26T20:25:42Z",
   "totalUsers": 154,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
