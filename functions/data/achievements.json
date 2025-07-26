@@ -1467,10 +1467,11 @@
     "miromaaldis": {
       "counters": {
         "chat": 34,
-        "points_spent": 3900,
+        "points_spent": 4000,
         "effects": 5,
         "follow": 1,
-        "sub": 26
+        "sub": 26,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1491,9 +1492,10 @@
         "sub_champion",
         "sub_platinum",
         "sub_diamond",
-        "bday2025_attend"
+        "bday2025_attend",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-26T10:08:05Z"
+      "lastUpdated": "2025-07-26T10:08:31Z"
     },
     "ramdon101": {
       "counters": {
@@ -3576,7 +3578,7 @@
       "lastUpdated": "2025-07-26T10:07:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:08:28Z",
+  "lastUpdated": "2025-07-26T09:08:31Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
