@@ -1581,7 +1581,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 267,
+        "chat": 269,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1619,7 +1619,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T19:06:41Z"
+      "lastUpdated": "2025-07-26T19:14:37Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1794,7 +1794,8 @@
         "gift_bombs": 1,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 15,
-        "bits": 200
+        "bits": 200,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1813,17 +1814,19 @@
         "chat_conversationalist",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-07-26T19:11:04Z"
+      "lastUpdated": "2025-07-26T19:11:06Z"
     },
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 30,
-        "points_spent": 5000,
+        "chat": 32,
+        "points_spent": 5350,
         "interactive": 1,
-        "sub": 23
+        "sub": 23,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1843,9 +1846,10 @@
         "chat_conversationalist",
         "sub_tier1",
         "bday2025_support",
-        "bday2025_attend"
+        "bday2025_attend",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-07-26T19:10:40Z"
+      "lastUpdated": "2025-07-26T19:14:46Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2127,10 +2131,10 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 817,
+        "chat": 823,
         "gift_subs": 1,
-        "gift_bombs": 3,
-        "total_gift_bomb_subs": 379,
+        "gift_bombs": 4,
+        "total_gift_bomb_subs": 389,
         "largest_gift_bomb": 339,
         "points_spent": 22000,
         "effects": 3,
@@ -2182,7 +2186,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T19:04:13Z"
+      "lastUpdated": "2025-07-26T19:14:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3974,7 +3978,7 @@
       "lastUpdated": "2025-07-26T18:56:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T18:11:07Z",
+  "lastUpdated": "2025-07-26T18:14:46Z",
   "totalUsers": 150,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
