@@ -1995,7 +1995,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 23,
+        "chat": 24,
         "points_spent": 950,
         "sounds": 1,
         "effects": 1,
@@ -2010,7 +2010,7 @@
         "effect_first",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-06-23T19:55:48Z"
+      "lastUpdated": "2025-07-26T10:06:33Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3554,12 +3554,13 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:06:26Z"
+      "lastUpdated": "2025-07-26T10:06:27Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:06:27Z",
+  "lastUpdated": "2025-07-26T09:06:33Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
