@@ -1344,7 +1344,7 @@
     "itzsilvah": {
       "counters": {
         "chat": 63,
-        "points_spent": 8100,
+        "points_spent": 11300,
         "follow": 1,
         "sub": 13
       },
@@ -1364,9 +1364,10 @@
         "sub_veteran",
         "sub_champion",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:37:55Z"
+      "lastUpdated": "2025-07-26T15:38:38Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -3857,7 +3858,7 @@
       "lastUpdated": "2025-07-26T15:18:21Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:38:26Z",
+  "lastUpdated": "2025-07-26T14:38:39Z",
   "totalUsers": 146,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
