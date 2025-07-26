@@ -1577,7 +1577,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 229,
+        "chat": 230,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1615,7 +1615,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T13:14:48Z"
+      "lastUpdated": "2025-07-26T13:26:32Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1663,7 +1663,7 @@
       "counters": {
         "points_spent": 5300,
         "effects": 6,
-        "chat": 74,
+        "chat": 75,
         "sounds": 1,
         "follow": 1
       },
@@ -1679,7 +1679,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:12:23Z"
+      "lastUpdated": "2025-07-26T13:22:30Z"
     },
     "hairypawter": {
       "counters": {
@@ -2649,7 +2649,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 44,
+        "chat": 45,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2671,7 +2671,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T13:06:04Z"
+      "lastUpdated": "2025-07-26T13:38:35Z"
     },
     "majesty81": {
       "counters": {
@@ -3789,10 +3789,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-07-26T13:16:53Z"
+    },
+    "technoninjatv": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T13:38:45Z"
     }
   },
-  "lastUpdated": "2025-07-26T12:16:53Z",
-  "totalUsers": 143,
+  "lastUpdated": "2025-07-26T12:38:46Z",
+  "totalUsers": 144,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
