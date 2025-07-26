@@ -1654,7 +1654,8 @@
         "chat_newbie",
         "chat_talker",
         "follow_supporter",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T13:13:42Z"
     },
@@ -1778,7 +1779,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 36,
+        "chat": 38,
         "points_spent": 1000,
         "interactive": 2,
         "gift_bombs": 1,
@@ -1801,7 +1802,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T13:07:20Z"
+      "lastUpdated": "2025-07-26T13:14:15Z"
     },
     "adammmidders": {
       "counters": {
@@ -3006,7 +3007,7 @@
       "counters": {
         "sub": 41,
         "follow": 1,
-        "chat": 71,
+        "chat": 72,
         "points_spent": 350,
         "effects": 1,
         "gift_bombs": 1,
@@ -3043,7 +3044,7 @@
         "gift_bomb_40",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-26T12:28:45Z"
+      "lastUpdated": "2025-07-26T13:14:12Z"
     },
     "camm_23": {
       "counters": {
@@ -3786,7 +3787,7 @@
       "lastUpdated": "2025-07-26T13:11:38Z"
     }
   },
-  "lastUpdated": "2025-07-26T12:13:42Z",
+  "lastUpdated": "2025-07-26T12:14:23Z",
   "totalUsers": 143,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
