@@ -3620,10 +3620,19 @@
         "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:28:36Z"
+    },
+    "cjwho": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T10:36:24Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:36:13Z",
-  "totalUsers": 138,
+  "lastUpdated": "2025-07-26T09:36:25Z",
+  "totalUsers": 139,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
