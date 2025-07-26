@@ -2235,7 +2235,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 362,
+        "chat": 365,
         "bits": 990,
         "raid": 46,
         "points_spent": 3600,
@@ -2264,7 +2264,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:19:46Z"
+      "lastUpdated": "2025-07-26T12:22:32Z"
     },
     "warl0c13": {
       "counters": {
@@ -2553,7 +2553,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 110
+        "chat": 117
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2564,7 +2564,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T12:20:10Z"
+      "lastUpdated": "2025-07-26T12:22:54Z"
     },
     "maximusis_": {
       "counters": {
@@ -3638,15 +3638,16 @@
     "lurknrip": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 19
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T12:20:31Z"
+      "lastUpdated": "2025-07-26T12:21:40Z"
     },
     "cyramica": {
       "counters": {
@@ -3750,7 +3751,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T11:20:31Z",
+  "lastUpdated": "2025-07-26T11:23:08Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
