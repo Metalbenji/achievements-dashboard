@@ -1580,9 +1580,10 @@
         "chat_regular",
         "effect_first",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:02:15Z"
+      "lastUpdated": "2025-07-26T10:02:16Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3532,7 +3533,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:02:16Z",
+  "lastUpdated": "2025-07-26T09:02:31Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
