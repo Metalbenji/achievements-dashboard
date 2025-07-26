@@ -4099,12 +4099,13 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "night_owl"
+        "night_owl",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-07-26T22:18:34Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:18:35Z",
+  "lastUpdated": "2025-07-26T21:18:36Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
