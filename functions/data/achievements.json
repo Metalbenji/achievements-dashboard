@@ -1416,7 +1416,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 83,
+        "chat": 84,
         "points_spent": 7000,
         "screenshot": 1,
         "effects": 2,
@@ -1441,7 +1441,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T11:10:45Z"
+      "lastUpdated": "2025-07-26T10:12:27Z"
     },
     "dmustain": {
       "counters": {
@@ -3581,16 +3581,17 @@
     "fkn_meow": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:11:33Z"
+      "lastUpdated": "2025-07-26T10:11:50Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:11:34Z",
+  "lastUpdated": "2025-07-26T09:12:28Z",
   "totalUsers": 137,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
