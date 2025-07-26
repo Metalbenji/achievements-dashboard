@@ -1525,7 +1525,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 351,
+        "chat": 352,
         "points_spent": 24150,
         "screenshot": 1,
         "follow": 1,
@@ -1578,7 +1578,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T21:18:56Z"
+      "lastUpdated": "2025-07-26T21:20:15Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2012,7 +2012,7 @@
       "counters": {
         "points_spent": 16000,
         "follow": 1,
-        "chat": 133,
+        "chat": 135,
         "effects": 16,
         "screenshot": 1,
         "sounds": 4,
@@ -2056,7 +2056,7 @@
         "chat_regular",
         "gift_kind"
       ],
-      "lastUpdated": "2025-07-26T21:18:42Z"
+      "lastUpdated": "2025-07-26T21:19:57Z"
     },
     "syn__________": {
       "counters": {
@@ -4034,18 +4034,27 @@
     },
     "bety_bambalam": {
       "counters": {
-        "points_spent": 1200,
-        "effects": 2
+        "points_spent": 1700,
+        "effects": 4
       },
       "unlockedAchievements": [
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T21:19:08Z"
+      "lastUpdated": "2025-07-26T21:19:13Z"
+    },
+    "azeroth1620": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-26T21:20:22Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:19:09Z",
-  "totalUsers": 153,
+  "lastUpdated": "2025-07-26T20:20:22Z",
+  "totalUsers": 154,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
