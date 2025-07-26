@@ -3490,9 +3490,9 @@
     },
     "justpeterpg": {
       "counters": {
-        "points_spent": 7305,
+        "points_spent": 11205,
         "special_rewards": 1,
-        "chat": 28,
+        "chat": 29,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -3515,9 +3515,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "spender_bronze",
-        "biggest_fan"
+        "biggest_fan",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:40:31Z"
+      "lastUpdated": "2025-07-26T15:41:25Z"
     },
     "xykojen": {
       "counters": {
@@ -3861,7 +3862,7 @@
       "lastUpdated": "2025-07-26T15:18:21Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:41:02Z",
+  "lastUpdated": "2025-07-26T14:41:25Z",
   "totalUsers": 146,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
