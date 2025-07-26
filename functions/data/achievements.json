@@ -1549,7 +1549,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 197,
+        "chat": 198,
         "points_spent": 37550,
         "interactive": 7,
         "follow": 1,
@@ -1582,7 +1582,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-20T12:05:09Z"
+      "lastUpdated": "2025-07-26T10:02:15Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2417,7 +2417,8 @@
         "gift_bomb_50",
         "gift_bomb_75",
         "gift_bomb_100",
-        "gift_bombs_first"
+        "gift_bombs_first",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:02:14Z"
     },
@@ -3113,7 +3114,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 21,
+        "chat": 22,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -3124,7 +3125,7 @@
         "first_caller",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:00:17Z"
+      "lastUpdated": "2025-07-26T10:02:15Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -3531,7 +3532,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:02:14Z",
+  "lastUpdated": "2025-07-26T09:02:16Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
