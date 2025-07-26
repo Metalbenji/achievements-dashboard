@@ -2955,8 +2955,9 @@
       "counters": {
         "follow": 1,
         "chat": 77,
-        "points_spent": 1100,
-        "effects": 2
+        "points_spent": 1500,
+        "effects": 2,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2966,9 +2967,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "spender_bronze",
-        "effect_first"
+        "effect_first",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-26T21:23:00Z"
+      "lastUpdated": "2025-07-26T21:26:19Z"
     },
     "roffelonator": {
       "counters": {
@@ -4037,8 +4039,8 @@
     },
     "bety_bambalam": {
       "counters": {
-        "points_spent": 3700,
-        "effects": 4,
+        "points_spent": 4200,
+        "effects": 5,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -4046,7 +4048,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-26T21:21:32Z"
+      "lastUpdated": "2025-07-26T21:26:04Z"
     },
     "azeroth1620": {
       "counters": {
@@ -4067,7 +4069,7 @@
       "lastUpdated": "2025-07-26T21:25:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:25:47Z",
+  "lastUpdated": "2025-07-26T20:26:21Z",
   "totalUsers": 154,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
