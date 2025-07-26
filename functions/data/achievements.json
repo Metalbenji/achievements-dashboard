@@ -1436,7 +1436,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 93,
+        "chat": 100,
         "points_spent": 7800,
         "screenshot": 1,
         "effects": 2,
@@ -1460,9 +1460,10 @@
         "chat_talker",
         "follow_supporter",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T15:22:58Z"
+      "lastUpdated": "2025-07-26T15:27:26Z"
     },
     "dmustain": {
       "counters": {
@@ -2586,7 +2587,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 210,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2602,7 +2603,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T15:23:23Z"
+      "lastUpdated": "2025-07-26T15:25:58Z"
     },
     "maximusis_": {
       "counters": {
@@ -3833,7 +3834,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3841,7 +3842,7 @@
         "bday2025_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T14:32:47Z"
+      "lastUpdated": "2025-07-26T15:23:52Z"
     },
     "gabriel245658": {
       "counters": {
@@ -3854,7 +3855,7 @@
       "lastUpdated": "2025-07-26T15:18:21Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:23:23Z",
+  "lastUpdated": "2025-07-26T14:27:27Z",
   "totalUsers": 146,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
