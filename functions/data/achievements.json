@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 299,
+        "chat": 300,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1620,9 +1620,10 @@
         "bday2025_attend",
         "gift_starter",
         "bday2025_support",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T23:05:48Z"
+      "lastUpdated": "2025-07-26T23:28:36Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3693,9 +3694,10 @@
         "interactive_first",
         "spender_bronze",
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T23:26:55Z"
+      "lastUpdated": "2025-07-26T23:26:57Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -4140,7 +4142,7 @@
       "lastUpdated": "2025-07-26T22:36:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:26:57Z",
+  "lastUpdated": "2025-07-26T22:28:36Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
