@@ -1947,7 +1947,7 @@
         "effects": 13,
         "screenshot": 1,
         "sounds": 3,
-        "bits": 100,
+        "bits": 200,
         "raid": 4,
         "sub": 34
       },
@@ -1979,9 +1979,10 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "bday2025_attend"
+        "bday2025_attend",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T11:11:40Z"
+      "lastUpdated": "2025-07-26T11:12:15Z"
     },
     "syn__________": {
       "counters": {
@@ -3696,7 +3697,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:12:15Z",
+  "lastUpdated": "2025-07-26T10:12:16Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
