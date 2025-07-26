@@ -1524,7 +1524,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 305,
+        "chat": 306,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1577,7 +1577,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T15:21:06Z"
+      "lastUpdated": "2025-07-26T17:04:32Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1623,7 +1623,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 67,
+        "chat": 68,
         "follow": 1,
         "sub": 30
       },
@@ -1644,9 +1644,10 @@
         "sub_champion",
         "sub_platinum",
         "sub_diamond",
-        "sub_elite"
+        "sub_elite",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T16:54:56Z"
+      "lastUpdated": "2025-07-26T16:55:34Z"
     },
     "scoman07": {
       "counters": {
@@ -3906,7 +3907,7 @@
       "lastUpdated": "2025-07-26T15:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T15:54:56Z",
+  "lastUpdated": "2025-07-26T16:05:41Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
