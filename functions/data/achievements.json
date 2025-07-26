@@ -1500,8 +1500,8 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 240,
-        "points_spent": 3650,
+        "chat": 241,
+        "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
         "sub": 43,
@@ -1548,9 +1548,10 @@
         "gift_bomb_100",
         "gift_bombs_first",
         "bday2025_attend",
-        "bday2025_support"
+        "bday2025_support",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T10:14:50Z"
+      "lastUpdated": "2025-07-26T10:17:08Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3034,7 +3035,8 @@
         "follow_supporter",
         "weekend_warrior",
         "gift_starter",
-        "bday2025_support"
+        "bday2025_support",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:16:57Z"
     },
@@ -3598,7 +3600,7 @@
       "lastUpdated": "2025-07-26T10:11:50Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:16:58Z",
+  "lastUpdated": "2025-07-26T09:17:08Z",
   "totalUsers": 137,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
