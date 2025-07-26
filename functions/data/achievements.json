@@ -2079,7 +2079,9 @@
       "counters": {
         "follow": 1,
         "chat": 69,
-        "sub": 22
+        "sub": 22,
+        "points_spent": 350,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2098,9 +2100,10 @@
         "sub_champion",
         "sub_platinum",
         "bday2025_support",
-        "bday2025_attend"
+        "bday2025_attend",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-07-26T22:19:46Z"
+      "lastUpdated": "2025-07-26T22:20:58Z"
     },
     "epik__tv": {
       "counters": {
@@ -4077,7 +4080,7 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 11,
+        "chat": 13,
         "points_spent": 201,
         "effects": 1
       },
@@ -4091,12 +4094,12 @@
         "chat_talker",
         "birthday_person"
       ],
-      "lastUpdated": "2025-07-26T22:19:25Z"
+      "lastUpdated": "2025-07-26T22:20:25Z"
     },
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4105,10 +4108,10 @@
         "bday2025_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T22:19:50Z"
+      "lastUpdated": "2025-07-26T22:20:42Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:19:50Z",
+  "lastUpdated": "2025-07-26T21:20:59Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
