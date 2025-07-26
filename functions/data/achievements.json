@@ -2074,7 +2074,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 777,
+        "chat": 778,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2129,7 +2129,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T12:12:28Z"
+      "lastUpdated": "2025-07-26T12:12:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2713,7 +2713,7 @@
       "counters": {
         "sub": 15,
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2728,9 +2728,10 @@
         "chat_newbie",
         "sub_tier1",
         "bday2025_support",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T12:12:45Z"
+      "lastUpdated": "2025-07-26T12:13:09Z"
     },
     "khazan67": {
       "counters": {
@@ -3749,7 +3750,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T11:12:52Z",
+  "lastUpdated": "2025-07-26T11:13:10Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
