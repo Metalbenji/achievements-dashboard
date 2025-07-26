@@ -3844,7 +3844,7 @@
     "sirbigyin": {
       "counters": {
         "follow": 1,
-        "chat": 1,
+        "chat": 2,
         "points_spent": 300,
         "effects": 1
       },
@@ -3852,9 +3852,10 @@
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend",
-        "effect_first"
+        "effect_first",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-26T10:07:46Z"
+      "lastUpdated": "2025-07-26T23:51:47Z"
     },
     "fkn_meow": {
       "counters": {
@@ -4168,12 +4169,13 @@
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T23:51:24Z"
+      "lastUpdated": "2025-07-26T23:51:25Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:51:25Z",
+  "lastUpdated": "2025-07-26T22:51:47Z",
   "totalUsers": 158,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
