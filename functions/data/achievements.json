@@ -1386,7 +1386,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 297,
+        "chat": 299,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1420,7 +1420,7 @@
         "raid_tier1_captain",
         "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-26T13:12:16Z"
+      "lastUpdated": "2025-07-26T13:16:00Z"
     },
     "celran": {
       "counters": {
@@ -1521,7 +1521,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 292,
+        "chat": 294,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1573,11 +1573,11 @@
         "spender_silver",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-07-26T13:12:04Z"
+      "lastUpdated": "2025-07-26T13:15:57Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 228,
+        "chat": 229,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1615,7 +1615,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T13:08:47Z"
+      "lastUpdated": "2025-07-26T13:14:48Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1646,7 +1646,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 65,
+        "chat": 67,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1657,7 +1657,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:13:42Z"
+      "lastUpdated": "2025-07-26T13:15:06Z"
     },
     "lottec": {
       "counters": {
@@ -1779,7 +1779,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 38,
+        "chat": 42,
         "points_spent": 1000,
         "interactive": 2,
         "gift_bombs": 1,
@@ -1802,7 +1802,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T13:14:15Z"
+      "lastUpdated": "2025-07-26T13:16:49Z"
     },
     "adammmidders": {
       "counters": {
@@ -3007,7 +3007,7 @@
       "counters": {
         "sub": 41,
         "follow": 1,
-        "chat": 72,
+        "chat": 73,
         "points_spent": 350,
         "effects": 1,
         "gift_bombs": 1,
@@ -3044,7 +3044,7 @@
         "gift_bomb_40",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-26T13:14:12Z"
+      "lastUpdated": "2025-07-26T13:14:24Z"
     },
     "camm_23": {
       "counters": {
@@ -3778,16 +3778,20 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 4
+        "chat": 5,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "bday2025_attend"
+        "bday2025_attend",
+        "gift_starter",
+        "bday2025_support",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T13:11:38Z"
+      "lastUpdated": "2025-07-26T13:16:53Z"
     }
   },
-  "lastUpdated": "2025-07-26T12:14:23Z",
+  "lastUpdated": "2025-07-26T12:16:53Z",
   "totalUsers": 143,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
