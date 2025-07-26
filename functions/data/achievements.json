@@ -1623,7 +1623,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 66,
+        "chat": 67,
         "follow": 1,
         "sub": 30
       },
@@ -1646,7 +1646,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-20T15:07:33Z"
+      "lastUpdated": "2025-07-26T16:54:56Z"
     },
     "scoman07": {
       "counters": {
@@ -2337,12 +2337,15 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 70,
+        "chat": 74,
         "sub": 33,
         "points_spent": 16601,
         "interactive": 1,
         "sounds": 1,
-        "gift_subs": 1
+        "gift_subs": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 56,
+        "largest_gift_bomb": 56
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2369,9 +2372,18 @@
         "bday2025_attend",
         "birthday_person",
         "biggest_fan",
-        "spender_silver"
+        "spender_silver",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-07-26T15:56:35Z"
+      "lastUpdated": "2025-07-26T16:39:02Z"
     },
     "umenneske94": {
       "counters": {
@@ -3894,7 +3906,7 @@
       "lastUpdated": "2025-07-26T15:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T15:37:21Z",
+  "lastUpdated": "2025-07-26T15:54:56Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
