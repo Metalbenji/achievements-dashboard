@@ -4050,16 +4050,24 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 3
+        "chat": 3,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 5,
+        "largest_gift_bomb": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "bday2025_attend"
+        "bday2025_attend",
+        "gift_bomb_5",
+        "gift_bombs_first",
+        "bday2025_support",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-07-26T21:20:54Z"
+      "lastUpdated": "2025-07-26T21:25:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:25:45Z",
+  "lastUpdated": "2025-07-26T20:25:47Z",
   "totalUsers": 154,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
