@@ -1344,7 +1344,7 @@
     "itzsilvah": {
       "counters": {
         "chat": 63,
-        "points_spent": 14700,
+        "points_spent": 18300,
         "follow": 1,
         "sub": 13
       },
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:39:17Z"
+      "lastUpdated": "2025-07-26T15:40:11Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1437,12 +1437,12 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 101,
-        "points_spent": 7800,
+        "chat": 102,
+        "points_spent": 8200,
         "screenshot": 1,
         "effects": 2,
         "sounds": 1,
-        "interactive": 6,
+        "interactive": 7,
         "special_rewards": 1,
         "follow": 1
       },
@@ -1464,7 +1464,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T15:27:53Z"
+      "lastUpdated": "2025-07-26T15:40:01Z"
     },
     "dmustain": {
       "counters": {
@@ -2323,9 +2323,9 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 65,
+        "chat": 66,
         "sub": 33,
-        "points_spent": 8801,
+        "points_spent": 12601,
         "interactive": 1,
         "sounds": 1,
         "gift_subs": 1
@@ -2354,9 +2354,10 @@
         "bday2025_support",
         "bday2025_attend",
         "birthday_person",
-        "biggest_fan"
+        "biggest_fan",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:39:07Z"
+      "lastUpdated": "2025-07-26T15:41:02Z"
     },
     "umenneske94": {
       "counters": {
@@ -3489,7 +3490,7 @@
     },
     "justpeterpg": {
       "counters": {
-        "points_spent": 3605,
+        "points_spent": 7305,
         "special_rewards": 1,
         "chat": 28,
         "effects": 1,
@@ -3513,9 +3514,10 @@
         "night_owl",
         "chat_conversationalist",
         "bday2025_attend",
-        "spender_bronze"
+        "spender_bronze",
+        "biggest_fan"
       ],
-      "lastUpdated": "2025-07-26T15:39:24Z"
+      "lastUpdated": "2025-07-26T15:40:31Z"
     },
     "xykojen": {
       "counters": {
@@ -3859,7 +3861,7 @@
       "lastUpdated": "2025-07-26T15:18:21Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:39:24Z",
+  "lastUpdated": "2025-07-26T14:41:02Z",
   "totalUsers": 146,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
