@@ -1567,7 +1567,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 210,
+        "chat": 211,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1605,7 +1605,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T10:45:12Z"
+      "lastUpdated": "2025-07-26T11:13:27Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1943,12 +1943,12 @@
       "counters": {
         "points_spent": 12100,
         "follow": 1,
-        "chat": 83,
+        "chat": 85,
         "effects": 13,
         "screenshot": 1,
         "sounds": 3,
         "bits": 200,
-        "raid": 4,
+        "raid": 5,
         "sub": 34
       },
       "unlockedAchievements": [
@@ -1980,9 +1980,10 @@
         "sub_diamond",
         "sub_elite",
         "bday2025_attend",
-        "bday2025_support"
+        "bday2025_support",
+        "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-07-26T11:12:15Z"
+      "lastUpdated": "2025-07-26T11:13:24Z"
     },
     "syn__________": {
       "counters": {
@@ -2209,7 +2210,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 283,
+        "chat": 284,
         "bits": 690,
         "raid": 31,
         "points_spent": 3600,
@@ -2236,7 +2237,7 @@
         "bday2025_support",
         "raid_tier4_warlord"
       ],
-      "lastUpdated": "2025-07-26T11:11:44Z"
+      "lastUpdated": "2025-07-26T11:13:11Z"
     },
     "warl0c13": {
       "counters": {
@@ -2307,14 +2308,14 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-20T13:34:51Z"
+      "lastUpdated": "2025-07-26T11:13:43Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2809,7 +2810,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 52
+        "chat": 53
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2819,7 +2820,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:00:24Z"
+      "lastUpdated": "2025-07-26T11:13:21Z"
     },
     "roffelonator": {
       "counters": {
@@ -2956,7 +2957,7 @@
       "counters": {
         "sub": 41,
         "follow": 1,
-        "chat": 34,
+        "chat": 37,
         "points_spent": 350,
         "effects": 1
       },
@@ -2982,7 +2983,7 @@
         "bday2025_support",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:10:59Z"
+      "lastUpdated": "2025-07-26T11:13:42Z"
     },
     "camm_23": {
       "counters": {
@@ -3697,7 +3698,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:12:16Z",
+  "lastUpdated": "2025-07-26T10:13:43Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
