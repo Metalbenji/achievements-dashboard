@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 67,
+        "chat": 68,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1339,7 +1339,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:40:01Z"
+      "lastUpdated": "2025-07-26T17:22:11Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1524,7 +1524,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 310,
+        "chat": 311,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1577,7 +1577,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T17:13:44Z"
+      "lastUpdated": "2025-07-26T17:21:44Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1651,7 +1651,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 67,
+        "chat": 68,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1662,7 +1662,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:15:06Z"
+      "lastUpdated": "2025-07-26T17:22:26Z"
     },
     "lottec": {
       "counters": {
@@ -1922,7 +1922,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 112,
+        "chat": 113,
         "points_spent": 7153,
         "interactive": 7,
         "effects": 3,
@@ -1952,7 +1952,7 @@
         "emperor_loyal",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T17:19:35Z"
+      "lastUpdated": "2025-07-26T17:21:44Z"
     },
     "redunt86": {
       "counters": {
@@ -2853,7 +2853,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 91
+        "chat": 94
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2863,7 +2863,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T17:19:36Z"
+      "lastUpdated": "2025-07-26T17:22:24Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3710,7 +3710,7 @@
     "videogamegherkin": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3719,7 +3719,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T17:16:30Z"
+      "lastUpdated": "2025-07-26T17:22:15Z"
     },
     "lurknrip": {
       "counters": {
@@ -3807,7 +3807,7 @@
     "zuivereyy": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 20
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3816,7 +3816,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T17:19:35Z"
+      "lastUpdated": "2025-07-26T17:22:22Z"
     },
     "zx_emma_xz": {
       "counters": {
@@ -3913,17 +3913,27 @@
     "mr_beardz": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
+        "weekend_warrior",
+        "bday2025_attend"
+      ],
+      "lastUpdated": "2025-07-26T17:22:02Z"
+    },
+    "bollrak": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-26T17:20:26Z"
+      "lastUpdated": "2025-07-26T17:22:34Z"
     }
   },
-  "lastUpdated": "2025-07-26T16:20:27Z",
-  "totalUsers": 148,
+  "lastUpdated": "2025-07-26T16:22:35Z",
+  "totalUsers": 149,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
