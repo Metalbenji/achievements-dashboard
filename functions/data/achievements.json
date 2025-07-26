@@ -4094,15 +4094,17 @@
     },
     "faelora": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-26T22:18:33Z"
+      "lastUpdated": "2025-07-26T22:18:34Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:18:34Z",
+  "lastUpdated": "2025-07-26T21:18:35Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
