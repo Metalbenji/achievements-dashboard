@@ -1922,7 +1922,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 110,
+        "chat": 111,
         "points_spent": 6653,
         "interactive": 6,
         "effects": 3,
@@ -1952,7 +1952,7 @@
         "emperor_loyal",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T16:21:29Z"
+      "lastUpdated": "2025-07-26T17:15:47Z"
     },
     "redunt86": {
       "counters": {
@@ -2176,7 +2176,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2185,7 +2185,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-13T13:18:12Z"
+      "lastUpdated": "2025-07-26T17:17:06Z"
     },
     "ke1fire": {
       "counters": {
@@ -2852,7 +2852,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 81
+        "chat": 83
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2862,7 +2862,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T17:14:27Z"
+      "lastUpdated": "2025-07-26T17:17:00Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3709,15 +3709,16 @@
     "videogamegherkin": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T17:15:45Z"
+      "lastUpdated": "2025-07-26T17:16:30Z"
     },
     "lurknrip": {
       "counters": {
@@ -3805,7 +3806,7 @@
     "zuivereyy": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3814,7 +3815,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T17:15:17Z"
+      "lastUpdated": "2025-07-26T17:15:54Z"
     },
     "zx_emma_xz": {
       "counters": {
@@ -3909,7 +3910,7 @@
       "lastUpdated": "2025-07-26T15:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T16:15:46Z",
+  "lastUpdated": "2025-07-26T16:17:06Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
