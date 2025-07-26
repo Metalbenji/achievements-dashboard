@@ -3108,15 +3108,17 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 19,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "first_caller"
       ],
-      "lastUpdated": "2025-07-19T08:37:42Z"
+      "lastUpdated": "2025-07-26T09:54:09Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -3523,7 +3525,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T04:11:37Z",
+  "lastUpdated": "2025-07-26T08:54:09Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
