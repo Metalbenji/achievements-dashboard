@@ -2223,7 +2223,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 325,
+        "chat": 326,
         "bits": 990,
         "raid": 46,
         "points_spent": 3600,
@@ -2252,7 +2252,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T11:49:21Z"
+      "lastUpdated": "2025-07-26T11:53:29Z"
     },
     "warl0c13": {
       "counters": {
@@ -3463,7 +3463,7 @@
         "points_spent": 800,
         "interactive": 1,
         "follow": 1,
-        "chat": 1,
+        "chat": 5,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -3471,9 +3471,10 @@
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend",
-        "effect_first"
+        "effect_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T11:53:02Z"
+      "lastUpdated": "2025-07-26T11:53:31Z"
     },
     "welshgurlttv": {
       "counters": {
@@ -3732,7 +3733,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:53:03Z",
+  "lastUpdated": "2025-07-26T10:53:32Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
