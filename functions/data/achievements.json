@@ -1386,7 +1386,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 290,
+        "chat": 292,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1420,7 +1420,7 @@
         "raid_tier1_captain",
         "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:28:13Z"
+      "lastUpdated": "2025-07-26T12:33:49Z"
     },
     "celran": {
       "counters": {
@@ -1486,13 +1486,13 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 46,
-        "points_spent": 6350,
+        "chat": 49,
+        "points_spent": 6700,
         "effects": 5,
         "follow": 1,
         "sub": 26,
         "sounds": 2,
-        "screenshot": 1
+        "screenshot": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1517,7 +1517,7 @@
         "sound_first",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-07-26T10:59:04Z"
+      "lastUpdated": "2025-07-26T12:34:52Z"
     },
     "ramdon101": {
       "counters": {
@@ -1951,7 +1951,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 45,
+        "chat": 46,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -1965,7 +1965,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T09:16:06Z"
+      "lastUpdated": "2025-07-26T12:44:27Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2082,7 +2082,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 779,
+        "chat": 784,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2137,7 +2137,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T12:19:42Z"
+      "lastUpdated": "2025-07-26T12:39:54Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2243,7 +2243,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 371,
+        "chat": 382,
         "bits": 990,
         "raid": 46,
         "points_spent": 3600,
@@ -2272,7 +2272,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:30:04Z"
+      "lastUpdated": "2025-07-26T12:42:26Z"
     },
     "warl0c13": {
       "counters": {
@@ -2561,8 +2561,9 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 123,
-        "points_spent": 2000
+        "chat": 126,
+        "points_spent": 2000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2572,9 +2573,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "chat_regular",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-26T12:30:31Z"
+      "lastUpdated": "2025-07-26T12:32:14Z"
     },
     "maximusis_": {
       "counters": {
@@ -3492,7 +3494,7 @@
         "points_spent": 800,
         "interactive": 1,
         "follow": 1,
-        "chat": 10,
+        "chat": 14,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -3504,7 +3506,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T12:27:42Z"
+      "lastUpdated": "2025-07-26T12:42:20Z"
     },
     "welshgurlttv": {
       "counters": {
@@ -3651,7 +3653,7 @@
     "lurknrip": {
       "counters": {
         "follow": 1,
-        "chat": 22,
+        "chat": 23,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 10
@@ -3667,7 +3669,7 @@
         "gift_bombs_first",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T12:25:12Z"
+      "lastUpdated": "2025-07-26T12:39:27Z"
     },
     "cyramica": {
       "counters": {
@@ -3771,7 +3773,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T11:30:32Z",
+  "lastUpdated": "2025-07-26T11:44:27Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
