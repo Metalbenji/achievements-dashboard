@@ -1466,7 +1466,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 33,
+        "chat": 34,
         "points_spent": 3700,
         "effects": 4,
         "follow": 1,
@@ -1490,9 +1490,10 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "sub_diamond"
+        "sub_diamond",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-20T12:31:39Z"
+      "lastUpdated": "2025-07-26T10:06:22Z"
     },
     "ramdon101": {
       "counters": {
@@ -3548,15 +3549,17 @@
     },
     "sirbigyin": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-26T10:02:54Z"
+      "lastUpdated": "2025-07-26T10:06:26Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:06:15Z",
+  "lastUpdated": "2025-07-26T09:06:27Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
