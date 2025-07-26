@@ -2246,7 +2246,8 @@
         "sound_first",
         "gift_starter",
         "sub_tier1",
-        "bday2025_support"
+        "bday2025_support",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:03:38Z"
     },
@@ -2988,15 +2989,16 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T09:55:29Z"
+      "lastUpdated": "2025-07-26T10:03:59Z"
     },
     "mulquero": {
       "counters": {
@@ -3547,7 +3549,7 @@
       "lastUpdated": "2025-07-26T10:02:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:03:38Z",
+  "lastUpdated": "2025-07-26T09:03:59Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
