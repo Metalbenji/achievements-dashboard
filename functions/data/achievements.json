@@ -1522,7 +1522,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 299,
+        "chat": 300,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1572,13 +1572,14 @@
         "bday2025_attend",
         "bday2025_support",
         "spender_silver",
-        "gift_bombs_regular"
+        "gift_bombs_regular",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T14:16:28Z"
+      "lastUpdated": "2025-07-26T14:36:31Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 235,
+        "chat": 236,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1616,7 +1617,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T14:04:18Z"
+      "lastUpdated": "2025-07-26T14:34:31Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2097,7 +2098,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 794,
+        "chat": 795,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2152,7 +2153,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T14:14:26Z"
+      "lastUpdated": "2025-07-26T14:35:03Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3818,7 +3819,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3826,10 +3827,10 @@
         "bday2025_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T14:32:23Z"
+      "lastUpdated": "2025-07-26T14:32:47Z"
     }
   },
-  "lastUpdated": "2025-07-26T13:32:24Z",
+  "lastUpdated": "2025-07-26T13:36:31Z",
   "totalUsers": 145,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
