@@ -1386,7 +1386,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 293,
+        "chat": 297,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1420,7 +1420,7 @@
         "raid_tier1_captain",
         "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-26T13:05:04Z"
+      "lastUpdated": "2025-07-26T13:12:16Z"
     },
     "celran": {
       "counters": {
@@ -1521,7 +1521,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 288,
+        "chat": 292,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1573,11 +1573,11 @@
         "spender_silver",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-07-26T12:59:17Z"
+      "lastUpdated": "2025-07-26T13:12:04Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 227,
+        "chat": 228,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1615,7 +1615,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T13:05:25Z"
+      "lastUpdated": "2025-07-26T13:08:47Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1646,7 +1646,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 64,
+        "chat": 65,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1656,13 +1656,13 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T14:41:25Z"
+      "lastUpdated": "2025-07-26T13:13:42Z"
     },
     "lottec": {
       "counters": {
         "points_spent": 5300,
         "effects": 6,
-        "chat": 72,
+        "chat": 74,
         "sounds": 1,
         "follow": 1
       },
@@ -1678,7 +1678,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:01:03Z"
+      "lastUpdated": "2025-07-26T13:12:23Z"
     },
     "hairypawter": {
       "counters": {
@@ -1778,7 +1778,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 35,
+        "chat": 36,
         "points_spent": 1000,
         "interactive": 2,
         "gift_bombs": 1,
@@ -1801,7 +1801,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T12:57:58Z"
+      "lastUpdated": "2025-07-26T13:07:20Z"
     },
     "adammmidders": {
       "counters": {
@@ -2795,7 +2795,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 62
+        "chat": 73
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2805,7 +2805,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:05:52Z"
+      "lastUpdated": "2025-07-26T13:12:22Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3316,7 +3316,7 @@
     "m0hmoh21": {
       "counters": {
         "follow": 1,
-        "chat": 13,
+        "chat": 14,
         "points_spent": 800,
         "effects": 1
       },
@@ -3325,9 +3325,10 @@
         "weekend_warrior",
         "chat_newbie",
         "effect_first",
-        "chat_talker"
+        "chat_talker",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:06:06Z"
+      "lastUpdated": "2025-07-26T13:07:27Z"
     },
     "helvyni": {
       "counters": {
@@ -3738,7 +3739,7 @@
     "zuivereyy": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3747,7 +3748,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T10:52:30Z"
+      "lastUpdated": "2025-07-26T13:13:05Z"
     },
     "zx_emma_xz": {
       "counters": {
@@ -3776,16 +3777,16 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:05:44Z"
+      "lastUpdated": "2025-07-26T13:11:38Z"
     }
   },
-  "lastUpdated": "2025-07-26T12:06:06Z",
+  "lastUpdated": "2025-07-26T12:13:42Z",
   "totalUsers": 143,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
