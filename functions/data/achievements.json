@@ -1471,7 +1471,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 92,
+        "chat": 93,
         "points_spent": 2400,
         "effects": 6,
         "follow": 1,
@@ -1488,7 +1488,7 @@
         "night_owl",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-20T12:34:45Z"
+      "lastUpdated": "2025-07-26T23:30:33Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 303,
+        "chat": 304,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1623,7 +1623,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T23:30:08Z"
+      "lastUpdated": "2025-07-26T23:30:21Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1721,7 +1721,8 @@
         "chat_conversationalist",
         "sub_tier1",
         "bday2025_support",
-        "night_owl"
+        "night_owl",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T23:30:18Z"
     },
@@ -2147,7 +2148,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 856,
+        "chat": 857,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2202,7 +2203,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T22:50:17Z"
+      "lastUpdated": "2025-07-26T23:30:31Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4145,7 +4146,7 @@
       "lastUpdated": "2025-07-26T22:36:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:30:19Z",
+  "lastUpdated": "2025-07-26T22:30:34Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
