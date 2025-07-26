@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 296,
+        "chat": 299,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1622,11 +1622,11 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T23:04:06Z"
+      "lastUpdated": "2025-07-26T23:05:48Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 72,
+        "chat": 73,
         "follow": 1,
         "sub": 30
       },
@@ -1650,7 +1650,7 @@
         "sub_elite",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T22:41:28Z"
+      "lastUpdated": "2025-07-26T23:16:46Z"
     },
     "scoman07": {
       "counters": {
@@ -3584,7 +3584,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3593,7 +3593,7 @@
         "bday2025_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T23:04:20Z"
+      "lastUpdated": "2025-07-26T23:05:28Z"
     },
     "justpeterpg": {
       "counters": {
@@ -3685,14 +3685,16 @@
       "counters": {
         "follow": 1,
         "points_spent": 3500,
-        "interactive": 7
+        "interactive": 7,
+        "chat": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "interactive_first",
-        "spender_bronze"
+        "spender_bronze",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-17T22:57:14Z"
+      "lastUpdated": "2025-07-26T23:26:55Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -4137,7 +4139,7 @@
       "lastUpdated": "2025-07-26T22:36:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:04:20Z",
+  "lastUpdated": "2025-07-26T22:26:55Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
