@@ -1486,7 +1486,8 @@
         "chat_talker",
         "chat_conversationalist",
         "night_owl",
-        "sound_first"
+        "sound_first",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T23:30:33Z"
     },
@@ -1584,7 +1585,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 304,
+        "chat": 305,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1623,7 +1624,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T23:30:21Z"
+      "lastUpdated": "2025-07-26T23:31:05Z"
     },
     "aladderinsane": {
       "counters": {
@@ -4103,7 +4104,7 @@
       "counters": {
         "follow": 1,
         "chat": 27,
-        "points_spent": 201,
+        "points_spent": 1001,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -4115,9 +4116,10 @@
         "night_owl",
         "chat_talker",
         "birthday_person",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T23:04:04Z"
+      "lastUpdated": "2025-07-26T23:31:10Z"
     },
     "faelora": {
       "counters": {
@@ -4146,7 +4148,7 @@
       "lastUpdated": "2025-07-26T22:36:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:30:34Z",
+  "lastUpdated": "2025-07-26T22:31:11Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
