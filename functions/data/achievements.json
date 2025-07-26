@@ -2553,7 +2553,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 99
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2561,9 +2561,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T12:12:03Z"
+      "lastUpdated": "2025-07-26T12:12:51Z"
     },
     "maximusis_": {
       "counters": {
@@ -2712,7 +2713,7 @@
       "counters": {
         "sub": 15,
         "follow": 1,
-        "chat": 6
+        "chat": 7
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2726,9 +2727,10 @@
         "weekend_warrior",
         "chat_newbie",
         "sub_tier1",
-        "bday2025_support"
+        "bday2025_support",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T12:12:33Z"
+      "lastUpdated": "2025-07-26T12:12:45Z"
     },
     "khazan67": {
       "counters": {
@@ -3747,7 +3749,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T11:12:34Z",
+  "lastUpdated": "2025-07-26T11:12:52Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
