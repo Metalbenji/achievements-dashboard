@@ -1999,8 +1999,8 @@
       "counters": {
         "follow": 1,
         "chat": 31,
-        "points_spent": 1450,
-        "sounds": 1,
+        "points_spent": 1950,
+        "sounds": 2,
         "effects": 1,
         "screenshot": 1,
         "sub": 13,
@@ -2028,7 +2028,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-07-26T10:15:54Z"
+      "lastUpdated": "2025-07-26T10:16:35Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3027,13 +3027,16 @@
     "mulquero": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "gift_starter",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-06T12:20:37Z"
+      "lastUpdated": "2025-07-26T10:16:57Z"
     },
     "misukonna": {
       "counters": {
@@ -3595,7 +3598,7 @@
       "lastUpdated": "2025-07-26T10:11:50Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:16:11Z",
+  "lastUpdated": "2025-07-26T09:16:58Z",
   "totalUsers": 137,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
