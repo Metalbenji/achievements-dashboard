@@ -2207,7 +2207,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 280,
+        "chat": 282,
         "bits": 690,
         "raid": 31,
         "points_spent": 3600,
@@ -2234,7 +2234,7 @@
         "bday2025_support",
         "raid_tier4_warlord"
       ],
-      "lastUpdated": "2025-07-26T11:08:44Z"
+      "lastUpdated": "2025-07-26T11:09:18Z"
     },
     "warl0c13": {
       "counters": {
@@ -3681,16 +3681,18 @@
     "7cez": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T11:09:00Z"
+      "lastUpdated": "2025-07-26T11:09:58Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:09:01Z",
+  "lastUpdated": "2025-07-26T10:09:58Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
