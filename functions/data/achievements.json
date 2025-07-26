@@ -1526,12 +1526,12 @@
     "ramdon101": {
       "counters": {
         "chat": 351,
-        "points_spent": 23650,
+        "points_spent": 24150,
         "screenshot": 1,
         "follow": 1,
         "sub": 43,
         "sounds": 2,
-        "effects": 3,
+        "effects": 4,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 126,
         "largest_gift_bomb": 116
@@ -1578,7 +1578,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T21:16:30Z"
+      "lastUpdated": "2025-07-26T21:18:56Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2010,12 +2010,12 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 14000,
+        "points_spent": 16000,
         "follow": 1,
         "chat": 133,
         "effects": 16,
         "screenshot": 1,
-        "sounds": 3,
+        "sounds": 4,
         "bits": 200,
         "raid": 5,
         "sub": 34,
@@ -2056,7 +2056,7 @@
         "chat_regular",
         "gift_kind"
       ],
-      "lastUpdated": "2025-07-26T21:12:21Z"
+      "lastUpdated": "2025-07-26T21:18:42Z"
     },
     "syn__________": {
       "counters": {
@@ -2955,7 +2955,8 @@
       "counters": {
         "follow": 1,
         "chat": 76,
-        "points_spent": 1000
+        "points_spent": 1100,
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2964,9 +2965,10 @@
         "chat_talker",
         "chat_conversationalist",
         "bday2025_attend",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-26T21:18:22Z"
+      "lastUpdated": "2025-07-26T21:18:56Z"
     },
     "roffelonator": {
       "counters": {
@@ -4032,16 +4034,17 @@
     },
     "bety_bambalam": {
       "counters": {
-        "points_spent": 200,
-        "effects": 1
+        "points_spent": 1200,
+        "effects": 2
       },
       "unlockedAchievements": [
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T21:18:06Z"
+      "lastUpdated": "2025-07-26T21:19:08Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:18:23Z",
+  "lastUpdated": "2025-07-26T20:19:09Z",
   "totalUsers": 153,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
