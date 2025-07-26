@@ -4003,15 +4003,17 @@
     },
     "funsham": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-26T20:05:55Z"
+      "lastUpdated": "2025-07-26T20:05:56Z"
     }
   },
-  "lastUpdated": "2025-07-26T19:05:55Z",
+  "lastUpdated": "2025-07-26T19:05:56Z",
   "totalUsers": 152,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
