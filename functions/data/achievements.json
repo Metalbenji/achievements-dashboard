@@ -1386,7 +1386,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 312,
+        "chat": 313,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1421,7 +1421,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T14:21:29Z"
+      "lastUpdated": "2025-07-26T14:42:14Z"
     },
     "celran": {
       "counters": {
@@ -3442,15 +3442,16 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "weekend_warrior",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T14:40:43Z"
+      "lastUpdated": "2025-07-26T14:42:20Z"
     },
     "neburgy": {
       "counters": {
@@ -3835,7 +3836,7 @@
       "lastUpdated": "2025-07-26T14:32:47Z"
     }
   },
-  "lastUpdated": "2025-07-26T13:41:48Z",
+  "lastUpdated": "2025-07-26T13:42:20Z",
   "totalUsers": 145,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
