@@ -1790,13 +1790,14 @@
       "counters": {
         "follow": 1,
         "chat": 51,
-        "points_spent": 1000,
+        "points_spent": 1500,
         "interactive": 2,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 15,
         "bits": 200,
-        "raid": 1
+        "raid": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1816,9 +1817,10 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-26T19:19:52Z"
+      "lastUpdated": "2025-07-26T21:45:56Z"
     },
     "adammmidders": {
       "counters": {
@@ -4071,7 +4073,7 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4079,10 +4081,10 @@
         "bday2025_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T21:36:54Z"
+      "lastUpdated": "2025-07-26T21:39:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:36:55Z",
+  "lastUpdated": "2025-07-26T20:45:57Z",
   "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
