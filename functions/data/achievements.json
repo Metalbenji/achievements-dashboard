@@ -1496,7 +1496,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 235,
+        "chat": 236,
         "points_spent": 3650,
         "screenshot": 1,
         "follow": 1,
@@ -1546,7 +1546,7 @@
         "bday2025_attend",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:04:43Z"
+      "lastUpdated": "2025-07-26T10:05:23Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1682,7 +1682,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 66,
+        "chat": 67,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -1697,7 +1697,7 @@
         "effect_first",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:04:48Z"
+      "lastUpdated": "2025-07-26T10:05:04Z"
     },
     "kripoje": {
       "counters": {
@@ -2990,7 +2990,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2999,7 +2999,7 @@
         "bday2025_attend",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T10:04:39Z"
+      "lastUpdated": "2025-07-26T10:05:16Z"
     },
     "mulquero": {
       "counters": {
@@ -3123,8 +3123,9 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 24,
-        "points_spent": 1
+        "chat": 25,
+        "points_spent": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3132,9 +3133,12 @@
         "chat_newbie",
         "chat_talker",
         "first_caller",
-        "bday2025_attend"
+        "bday2025_attend",
+        "gift_starter",
+        "bday2025_support",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T10:03:30Z"
+      "lastUpdated": "2025-07-26T10:05:30Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -3550,7 +3554,7 @@
       "lastUpdated": "2025-07-26T10:02:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:04:57Z",
+  "lastUpdated": "2025-07-26T09:05:30Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
