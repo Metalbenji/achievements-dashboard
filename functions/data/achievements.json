@@ -3912,15 +3912,17 @@
     },
     "mr_beardz": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-26T17:20:25Z"
+      "lastUpdated": "2025-07-26T17:20:26Z"
     }
   },
-  "lastUpdated": "2025-07-26T16:20:26Z",
+  "lastUpdated": "2025-07-26T16:20:27Z",
   "totalUsers": 148,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
