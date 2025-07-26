@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 294,
+        "chat": 295,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1622,7 +1622,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T22:44:33Z"
+      "lastUpdated": "2025-07-26T22:56:13Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2741,7 +2741,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 86,
+        "chat": 89,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2764,7 +2764,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-26T22:55:43Z"
+      "lastUpdated": "2025-07-26T22:57:34Z"
     },
     "majesty81": {
       "counters": {
@@ -3584,13 +3584,14 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "night_owl"
+        "night_owl",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-17T22:03:09Z"
+      "lastUpdated": "2025-07-26T23:03:36Z"
     },
     "justpeterpg": {
       "counters": {
@@ -4134,7 +4135,7 @@
       "lastUpdated": "2025-07-26T22:36:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:55:43Z",
+  "lastUpdated": "2025-07-26T22:03:36Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
