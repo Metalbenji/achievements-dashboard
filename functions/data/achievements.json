@@ -2536,7 +2536,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 174,
+        "chat": 175,
         "points_spent": 3250,
         "sounds": 1,
         "effects": 7,
@@ -2592,7 +2592,7 @@
         "chat_regular",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-26T21:25:40Z"
+      "lastUpdated": "2025-07-26T21:26:21Z"
     },
     "andilippi": {
       "counters": {
@@ -4067,10 +4067,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-07-26T21:25:46Z"
+    },
+    "nightboy009": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T21:32:27Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:26:21Z",
-  "totalUsers": 154,
+  "lastUpdated": "2025-07-26T20:32:27Z",
+  "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
