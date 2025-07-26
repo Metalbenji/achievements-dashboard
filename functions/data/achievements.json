@@ -1943,7 +1943,7 @@
       "counters": {
         "points_spent": 12100,
         "follow": 1,
-        "chat": 87,
+        "chat": 88,
         "effects": 13,
         "screenshot": 1,
         "sounds": 3,
@@ -1983,7 +1983,7 @@
         "bday2025_support",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-07-26T11:16:09Z"
+      "lastUpdated": "2025-07-26T11:17:55Z"
     },
     "syn__________": {
       "counters": {
@@ -2210,9 +2210,9 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 287,
-        "bits": 730,
-        "raid": 33,
+        "chat": 290,
+        "bits": 770,
+        "raid": 35,
         "points_spent": 3600,
         "effects": 6
       },
@@ -2235,9 +2235,10 @@
         "chat_frequent",
         "bday2025_attend",
         "bday2025_support",
-        "raid_tier4_warlord"
+        "raid_tier4_warlord",
+        "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-26T11:17:01Z"
+      "lastUpdated": "2025-07-26T11:18:02Z"
     },
     "warl0c13": {
       "counters": {
@@ -2811,7 +2812,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 56
+        "chat": 58
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2821,7 +2822,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:16:30Z"
+      "lastUpdated": "2025-07-26T11:17:45Z"
     },
     "roffelonator": {
       "counters": {
@@ -2958,7 +2959,7 @@
       "counters": {
         "sub": 41,
         "follow": 1,
-        "chat": 43,
+        "chat": 44,
         "points_spent": 350,
         "effects": 1
       },
@@ -2984,7 +2985,7 @@
         "bday2025_support",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:15:47Z"
+      "lastUpdated": "2025-07-26T11:17:10Z"
     },
     "camm_23": {
       "counters": {
@@ -3699,7 +3700,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:17:08Z",
+  "lastUpdated": "2025-07-26T10:18:46Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
