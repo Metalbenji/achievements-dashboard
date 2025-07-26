@@ -1467,7 +1467,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 38,
+        "chat": 40,
         "points_spent": 6000,
         "effects": 5,
         "follow": 1,
@@ -1496,11 +1496,11 @@
         "bday2025_attend",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-26T10:15:07Z"
+      "lastUpdated": "2025-07-26T10:19:06Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 241,
+        "chat": 243,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1551,7 +1551,7 @@
         "bday2025_support",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T10:17:09Z"
+      "lastUpdated": "2025-07-26T10:18:40Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2581,7 +2581,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 15,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2599,9 +2599,10 @@
         "sub_elite",
         "sub_master",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:18:14Z"
+      "lastUpdated": "2025-07-26T10:19:29Z"
     },
     "majesty81": {
       "counters": {
@@ -3599,10 +3600,19 @@
         "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:11:50Z"
+    },
+    "pupuren": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-07-26T10:19:32Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:18:15Z",
-  "totalUsers": 137,
+  "lastUpdated": "2025-07-26T09:19:32Z",
+  "totalUsers": 138,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
