@@ -4061,7 +4061,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
@@ -4074,9 +4074,10 @@
         "gift_bombs_first",
         "bday2025_support",
         "follow_supporter",
-        "night_owl"
+        "night_owl",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T22:25:16Z"
+      "lastUpdated": "2025-07-26T22:26:52Z"
     },
     "nightboy009": {
       "counters": {
@@ -4100,7 +4101,8 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 17,
+        "sub": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4108,12 +4110,21 @@
         "weekend_warrior",
         "bday2025_attend",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T22:23:31Z"
+      "lastUpdated": "2025-07-26T22:26:52Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:26:51Z",
+  "lastUpdated": "2025-07-26T21:26:52Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
