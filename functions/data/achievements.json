@@ -1467,7 +1467,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 43,
+        "chat": 45,
         "points_spent": 6350,
         "effects": 5,
         "follow": 1,
@@ -1498,11 +1498,11 @@
         "sound_first",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-07-26T10:30:26Z"
+      "lastUpdated": "2025-07-26T10:47:12Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 252,
+        "chat": 253,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1553,7 +1553,7 @@
         "bday2025_support",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T10:45:58Z"
+      "lastUpdated": "2025-07-26T10:47:13Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2197,9 +2197,9 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 253,
-        "bits": 390,
-        "raid": 16,
+        "chat": 255,
+        "bits": 490,
+        "raid": 21,
         "points_spent": 2600,
         "effects": 4
       },
@@ -2220,9 +2220,10 @@
         "chat_regular",
         "spender_bronze",
         "chat_frequent",
-        "bday2025_attend"
+        "bday2025_attend",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:45:22Z"
+      "lastUpdated": "2025-07-26T10:46:59Z"
     },
     "warl0c13": {
       "counters": {
@@ -3652,7 +3653,7 @@
       "lastUpdated": "2025-07-26T10:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:46:08Z",
+  "lastUpdated": "2025-07-26T09:47:26Z",
   "totalUsers": 140,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
