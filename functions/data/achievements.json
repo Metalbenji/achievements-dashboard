@@ -2379,7 +2379,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 83,
+        "chat": 84,
         "points_spent": 2750,
         "sounds": 1,
         "effects": 6,
@@ -2433,7 +2433,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:06:00Z"
+      "lastUpdated": "2025-07-26T10:07:40Z"
     },
     "andilippi": {
       "counters": {
@@ -3552,17 +3552,20 @@
     "sirbigyin": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 1,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "bday2025_attend"
+        "bday2025_attend",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-26T10:06:27Z"
+      "lastUpdated": "2025-07-26T10:07:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:06:52Z",
+  "lastUpdated": "2025-07-26T09:07:46Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
