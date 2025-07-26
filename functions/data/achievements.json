@@ -1389,7 +1389,7 @@
       "counters": {
         "chat": 352,
         "points_spent": 10050,
-        "effects": 4,
+        "effects": 5,
         "sub": 7,
         "bits": 1869,
         "raid": 3
@@ -1425,7 +1425,7 @@
         "emperor_loyal",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T22:15:42Z"
+      "lastUpdated": "2025-07-26T22:15:43Z"
     },
     "celran": {
       "counters": {
@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 279,
+        "chat": 280,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1622,7 +1622,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T21:55:32Z"
+      "lastUpdated": "2025-07-26T22:17:11Z"
     },
     "aladderinsane": {
       "counters": {
@@ -4077,7 +4077,7 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "points_spent": 200,
         "effects": 1
       },
@@ -4090,11 +4090,20 @@
         "night_owl",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T22:13:40Z"
+      "lastUpdated": "2025-07-26T22:17:54Z"
+    },
+    "faelora": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T22:18:33Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:15:42Z",
-  "totalUsers": 155,
+  "lastUpdated": "2025-07-26T21:18:34Z",
+  "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
