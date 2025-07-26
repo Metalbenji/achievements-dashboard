@@ -1816,7 +1816,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 27,
+        "chat": 30,
         "points_spent": 5000,
         "interactive": 1,
         "sub": 23
@@ -1838,9 +1838,10 @@
         "sub_platinum",
         "chat_conversationalist",
         "sub_tier1",
-        "bday2025_support"
+        "bday2025_support",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T19:09:35Z"
+      "lastUpdated": "2025-07-26T19:10:40Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3969,7 +3970,7 @@
       "lastUpdated": "2025-07-26T18:56:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T18:09:35Z",
+  "lastUpdated": "2025-07-26T18:11:04Z",
   "totalUsers": 150,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
