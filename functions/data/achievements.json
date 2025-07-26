@@ -1502,7 +1502,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 244,
+        "chat": 245,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1553,7 +1553,7 @@
         "bday2025_support",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T10:29:48Z"
+      "lastUpdated": "2025-07-26T10:32:25Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2037,7 +2037,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 746,
+        "chat": 747,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2089,7 +2089,7 @@
         "spender_silver",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:30:20Z"
+      "lastUpdated": "2025-07-26T10:32:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2408,8 +2408,8 @@
         "sub": 39,
         "bits": 2000,
         "raid": 2,
-        "gift_bombs": 3,
-        "total_gift_bomb_subs": 243,
+        "gift_bombs": 4,
+        "total_gift_bomb_subs": 293,
         "largest_gift_bomb": 228
       },
       "unlockedAchievements": [
@@ -2455,7 +2455,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:30:34Z"
+      "lastUpdated": "2025-07-26T10:36:09Z"
     },
     "andilippi": {
       "counters": {
@@ -2585,7 +2585,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 27,
+        "chat": 31,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2607,7 +2607,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T10:25:00Z"
+      "lastUpdated": "2025-07-26T10:33:55Z"
     },
     "majesty81": {
       "counters": {
@@ -3267,7 +3267,7 @@
     "teshinator95": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3275,9 +3275,10 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T10:28:28Z"
+      "lastUpdated": "2025-07-26T10:36:13Z"
     },
     "kaahly87": {
       "counters": {
@@ -3621,7 +3622,7 @@
       "lastUpdated": "2025-07-26T10:28:36Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:31:41Z",
+  "lastUpdated": "2025-07-26T09:36:13Z",
   "totalUsers": 138,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
