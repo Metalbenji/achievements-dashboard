@@ -1921,7 +1921,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 83,
+        "chat": 88,
         "points_spent": 4153,
         "interactive": 5,
         "effects": 3
@@ -1935,9 +1935,10 @@
         "first_caller",
         "spender_bronze",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T15:53:07Z"
+      "lastUpdated": "2025-07-26T15:55:06Z"
     },
     "redunt86": {
       "counters": {
@@ -2323,7 +2324,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 67,
+        "chat": 69,
         "sub": 33,
         "points_spent": 16601,
         "interactive": 1,
@@ -2357,7 +2358,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:43:26Z"
+      "lastUpdated": "2025-07-26T15:55:34Z"
     },
     "umenneske94": {
       "counters": {
@@ -3880,7 +3881,7 @@
       "lastUpdated": "2025-07-26T15:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:53:07Z",
+  "lastUpdated": "2025-07-26T14:55:38Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
