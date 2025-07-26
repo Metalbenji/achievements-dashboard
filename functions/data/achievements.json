@@ -4071,16 +4071,18 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T21:32:58Z"
+      "lastUpdated": "2025-07-26T21:36:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:32:59Z",
+  "lastUpdated": "2025-07-26T20:36:55Z",
   "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
