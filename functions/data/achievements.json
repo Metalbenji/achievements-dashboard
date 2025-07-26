@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 350,
+        "chat": 352,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1423,7 +1423,7 @@
         "chat_dedicated",
         "bits_committed"
       ],
-      "lastUpdated": "2025-07-26T20:46:45Z"
+      "lastUpdated": "2025-07-26T22:05:31Z"
     },
     "celran": {
       "counters": {
@@ -2076,7 +2076,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 64,
+        "chat": 66,
         "sub": 22
       },
       "unlockedAchievements": [
@@ -2098,7 +2098,7 @@
         "bday2025_support",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T21:23:43Z"
+      "lastUpdated": "2025-07-26T22:05:20Z"
     },
     "epik__tv": {
       "counters": {
@@ -2138,7 +2138,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 851,
+        "chat": 852,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2193,7 +2193,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T21:53:52Z"
+      "lastUpdated": "2025-07-26T22:04:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4075,7 +4075,7 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 7,
+        "chat": 8,
         "points_spent": 200,
         "effects": 1
       },
@@ -4084,12 +4084,13 @@
         "weekend_warrior",
         "bday2025_attend",
         "chat_newbie",
-        "effect_first"
+        "effect_first",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-26T22:01:11Z"
+      "lastUpdated": "2025-07-26T22:06:12Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:01:11Z",
+  "lastUpdated": "2025-07-26T21:06:13Z",
   "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
