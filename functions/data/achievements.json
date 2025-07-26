@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 282,
+        "chat": 283,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1622,7 +1622,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T22:26:53Z"
+      "lastUpdated": "2025-07-26T22:27:43Z"
     },
     "aladderinsane": {
       "counters": {
@@ -4102,7 +4102,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 20,
+        "chat": 25,
         "sub": 11
       },
       "unlockedAchievements": [
@@ -4120,12 +4120,13 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "bday2025_support"
+        "bday2025_support",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T22:27:20Z"
+      "lastUpdated": "2025-07-26T22:27:56Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:27:33Z",
+  "lastUpdated": "2025-07-26T21:27:56Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
