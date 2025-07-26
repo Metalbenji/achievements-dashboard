@@ -1822,7 +1822,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 39,
+        "chat": 40,
         "points_spent": 7350,
         "interactive": 1,
         "sub": 23,
@@ -1851,7 +1851,7 @@
         "screenshot_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-26T19:51:26Z"
+      "lastUpdated": "2025-07-26T19:53:12Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3019,9 +3019,9 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 18,
-        "points_spent": 3251,
-        "effects": 4,
+        "chat": 21,
+        "points_spent": 3451,
+        "effects": 5,
         "screenshot": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 126,
@@ -3047,9 +3047,10 @@
         "gift_bomb_100",
         "gift_bombs_first",
         "chat_talker",
-        "gift_bombs_regular"
+        "gift_bombs_regular",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T19:52:46Z"
+      "lastUpdated": "2025-07-26T19:54:04Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -3995,7 +3996,7 @@
       "lastUpdated": "2025-07-26T19:23:29Z"
     }
   },
-  "lastUpdated": "2025-07-26T18:52:46Z",
+  "lastUpdated": "2025-07-26T18:54:26Z",
   "totalUsers": 151,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
