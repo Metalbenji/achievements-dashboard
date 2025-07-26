@@ -1343,7 +1343,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 63,
+        "chat": 64,
         "points_spent": 18300,
         "follow": 1,
         "sub": 13
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:40:11Z"
+      "lastUpdated": "2025-07-26T15:45:00Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1921,7 +1921,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 82,
+        "chat": 83,
         "points_spent": 4153,
         "interactive": 5,
         "effects": 3
@@ -1937,7 +1937,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-20T09:57:30Z"
+      "lastUpdated": "2025-07-26T15:53:07Z"
     },
     "redunt86": {
       "counters": {
@@ -2100,7 +2100,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 809,
+        "chat": 811,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2155,7 +2155,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T15:42:38Z"
+      "lastUpdated": "2025-07-26T15:48:06Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3864,7 +3864,7 @@
     "boggieh": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 8650,
         "screenshot": 1
       },
@@ -3877,10 +3877,10 @@
         "screenshot_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T15:44:46Z"
+      "lastUpdated": "2025-07-26T15:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:44:46Z",
+  "lastUpdated": "2025-07-26T14:53:07Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
