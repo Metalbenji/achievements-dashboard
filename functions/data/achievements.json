@@ -1342,7 +1342,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 56,
+        "chat": 57,
         "points_spent": 8100,
         "follow": 1,
         "sub": 13
@@ -1364,7 +1364,7 @@
         "sub_champion",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T14:18:51Z"
+      "lastUpdated": "2025-07-20T14:26:48Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1585,7 +1585,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 65,
+        "chat": 66,
         "follow": 1,
         "sub": 30
       },
@@ -1608,11 +1608,11 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-20T12:25:05Z"
+      "lastUpdated": "2025-07-20T15:07:33Z"
     },
     "scoman07": {
       "counters": {
-        "chat": 61,
+        "chat": 64,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1622,7 +1622,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-19T18:43:31Z"
+      "lastUpdated": "2025-07-20T14:41:25Z"
     },
     "lottec": {
       "counters": {
@@ -1648,7 +1648,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 52,
         "points_spent": 2900,
         "interactive": 1,
         "effects": 3,
@@ -1672,7 +1672,7 @@
         "sub_platinum",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-17T20:38:58Z"
+      "lastUpdated": "2025-07-20T15:22:07Z"
     },
     "tawmae": {
       "counters": {
@@ -1695,7 +1695,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1703,7 +1703,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-12T14:35:49Z"
+      "lastUpdated": "2025-07-20T15:26:34Z"
     },
     "sealdancer": {
       "counters": {
@@ -1779,7 +1779,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 307,
+        "chat": 313,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1824,7 +1824,7 @@
         "chat_dedicated",
         "clip_first"
       ],
-      "lastUpdated": "2025-07-20T14:17:30Z"
+      "lastUpdated": "2025-07-20T14:56:29Z"
     },
     "anzerou": {
       "counters": {
@@ -1917,7 +1917,7 @@
       "counters": {
         "points_spent": 11300,
         "follow": 1,
-        "chat": 80,
+        "chat": 81,
         "effects": 12,
         "screenshot": 1,
         "sounds": 3,
@@ -1954,7 +1954,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-20T13:57:57Z"
+      "lastUpdated": "2025-07-20T15:07:52Z"
     },
     "syn__________": {
       "counters": {
@@ -2639,12 +2639,12 @@
     },
     "khazan67": {
       "counters": {
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T12:31:23Z"
+      "lastUpdated": "2025-07-20T14:27:46Z"
     },
     "ineedmoarmoney": {
       "counters": {
@@ -2943,7 +2943,7 @@
       "counters": {
         "sub": 30,
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2961,7 +2961,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-20T14:19:35Z"
+      "lastUpdated": "2025-07-20T14:24:28Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -3523,7 +3523,7 @@
       "lastUpdated": "2025-07-20T14:06:59Z"
     }
   },
-  "lastUpdated": "2025-07-20T13:19:35Z",
+  "lastUpdated": "2025-07-26T04:11:37Z",
   "totalUsers": 135,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
