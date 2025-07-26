@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 293,
+        "chat": 294,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1622,7 +1622,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T22:42:52Z"
+      "lastUpdated": "2025-07-26T22:44:33Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2431,15 +2431,16 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 22
+        "chat": 23
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "bday2025_attend"
+        "bday2025_attend",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-26T20:18:24Z"
+      "lastUpdated": "2025-07-26T22:49:53Z"
     },
     "gwinniejones": {
       "counters": {
@@ -3538,7 +3539,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 17,
+        "chat": 18,
         "points_spent": 500,
         "effects": 1
       },
@@ -3551,7 +3552,7 @@
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T22:44:26Z"
+      "lastUpdated": "2025-07-26T22:44:31Z"
     },
     "saluda777": {
       "counters": {
@@ -4088,7 +4089,7 @@
     "nightboy009": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 26,
         "points_spent": 201,
         "effects": 1
       },
@@ -4103,7 +4104,7 @@
         "birthday_person",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T22:44:28Z"
+      "lastUpdated": "2025-07-26T22:45:03Z"
     },
     "faelora": {
       "counters": {
@@ -4132,7 +4133,7 @@
       "lastUpdated": "2025-07-26T22:36:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:44:29Z",
+  "lastUpdated": "2025-07-26T21:49:53Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
