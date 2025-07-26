@@ -2576,7 +2576,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 131,
+        "chat": 134,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2591,7 +2591,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-26T14:28:30Z"
+      "lastUpdated": "2025-07-26T14:31:04Z"
     },
     "maximusis_": {
       "counters": {
@@ -3818,16 +3818,18 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T14:29:49Z"
+      "lastUpdated": "2025-07-26T14:32:23Z"
     }
   },
-  "lastUpdated": "2025-07-26T13:29:50Z",
+  "lastUpdated": "2025-07-26T13:32:24Z",
   "totalUsers": 145,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
