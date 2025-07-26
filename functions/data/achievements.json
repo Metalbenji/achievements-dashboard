@@ -1525,7 +1525,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 352,
+        "chat": 354,
         "points_spent": 24150,
         "screenshot": 1,
         "follow": 1,
@@ -1578,11 +1578,11 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T21:20:15Z"
+      "lastUpdated": "2025-07-26T21:59:41Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 278,
+        "chat": 279,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1620,7 +1620,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T20:46:53Z"
+      "lastUpdated": "2025-07-26T21:55:32Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2012,10 +2012,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 16000,
+        "points_spent": 16350,
         "follow": 1,
-        "chat": 135,
-        "effects": 16,
+        "chat": 136,
+        "effects": 17,
         "screenshot": 1,
         "sounds": 4,
         "bits": 200,
@@ -2058,7 +2058,7 @@
         "chat_regular",
         "gift_kind"
       ],
-      "lastUpdated": "2025-07-26T21:19:57Z"
+      "lastUpdated": "2025-07-26T21:54:40Z"
     },
     "syn__________": {
       "counters": {
@@ -2138,7 +2138,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 849,
+        "chat": 851,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2193,7 +2193,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T21:10:09Z"
+      "lastUpdated": "2025-07-26T21:53:52Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2336,8 +2336,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 2750,
-        "effects": 6,
+        "points_spent": 3100,
+        "effects": 7,
         "follow": 1,
         "chat": 34,
         "interactive": 1,
@@ -2360,7 +2360,7 @@
         "gift_bombs_first",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T14:48:46Z"
+      "lastUpdated": "2025-07-26T21:55:13Z"
     },
     "s3n71": {
       "counters": {
@@ -2956,7 +2956,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 77,
+        "chat": 79,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -2972,7 +2972,7 @@
         "effect_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-07-26T21:26:19Z"
+      "lastUpdated": "2025-07-26T21:53:54Z"
     },
     "roffelonator": {
       "counters": {
@@ -3235,7 +3235,7 @@
     "mulquero": {
       "counters": {
         "follow": 1,
-        "chat": 4,
+        "chat": 5,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -3243,9 +3243,10 @@
         "weekend_warrior",
         "gift_starter",
         "bday2025_support",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T11:03:54Z"
+      "lastUpdated": "2025-07-26T22:00:39Z"
     },
     "misukonna": {
       "counters": {
@@ -4084,7 +4085,7 @@
       "lastUpdated": "2025-07-26T21:39:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:45:57Z",
+  "lastUpdated": "2025-07-26T21:00:40Z",
   "totalUsers": 155,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
