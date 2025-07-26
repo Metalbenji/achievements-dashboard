@@ -3068,13 +3068,15 @@
     "bubbly_pink93": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T20:36:14Z"
+      "lastUpdated": "2025-07-26T20:36:56Z"
     },
     "kurenaii": {
       "counters": {
@@ -4021,7 +4023,7 @@
       "lastUpdated": "2025-07-26T20:07:01Z"
     }
   },
-  "lastUpdated": "2025-07-26T19:36:14Z",
+  "lastUpdated": "2025-07-26T19:36:57Z",
   "totalUsers": 152,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
