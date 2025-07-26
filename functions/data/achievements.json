@@ -1387,8 +1387,8 @@
     "little_lilith_": {
       "counters": {
         "chat": 289,
-        "points_spent": 7350,
-        "effects": 3,
+        "points_spent": 7700,
+        "effects": 4,
         "sub": 7,
         "bits": 1369,
         "raid": 2
@@ -1420,7 +1420,7 @@
         "raid_tier1_captain",
         "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:18:40Z"
+      "lastUpdated": "2025-07-26T12:27:25Z"
     },
     "celran": {
       "counters": {
@@ -1758,7 +1758,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 7,
+        "chat": 8,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 10
@@ -1773,7 +1773,7 @@
         "gift_bombs_first",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T12:24:54Z"
+      "lastUpdated": "2025-07-26T12:27:29Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -3380,9 +3380,10 @@
       },
       "unlockedAchievements": [
         "chat_newbie",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T12:26:07Z"
+      "lastUpdated": "2025-07-26T12:26:08Z"
     },
     "birf_zero": {
       "counters": {
@@ -3489,7 +3490,7 @@
         "points_spent": 800,
         "interactive": 1,
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -3498,9 +3499,10 @@
         "weekend_warrior",
         "bday2025_attend",
         "effect_first",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T12:18:04Z"
+      "lastUpdated": "2025-07-26T12:27:42Z"
     },
     "welshgurlttv": {
       "counters": {
@@ -3767,7 +3769,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T11:26:08Z",
+  "lastUpdated": "2025-07-26T11:27:42Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
