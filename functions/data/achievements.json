@@ -1941,10 +1941,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 11300,
+        "points_spent": 12100,
         "follow": 1,
-        "chat": 81,
-        "effects": 12,
+        "chat": 82,
+        "effects": 13,
         "screenshot": 1,
         "sounds": 3,
         "bits": 100,
@@ -1980,7 +1980,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-07-20T15:07:52Z"
+      "lastUpdated": "2025-07-26T11:11:19Z"
     },
     "syn__________": {
       "counters": {
@@ -2954,7 +2954,7 @@
       "counters": {
         "sub": 41,
         "follow": 1,
-        "chat": 33,
+        "chat": 34,
         "points_spent": 350,
         "effects": 1
       },
@@ -2977,9 +2977,10 @@
         "chat_conversationalist",
         "effect_first",
         "sub_tier1",
-        "bday2025_support"
+        "bday2025_support",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:10:57Z"
+      "lastUpdated": "2025-07-26T11:10:59Z"
     },
     "camm_23": {
       "counters": {
@@ -3694,7 +3695,7 @@
       "lastUpdated": "2025-07-26T11:09:58Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:10:57Z",
+  "lastUpdated": "2025-07-26T10:11:20Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
