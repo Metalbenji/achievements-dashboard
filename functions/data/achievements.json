@@ -1642,7 +1642,7 @@
       "counters": {
         "points_spent": 4500,
         "effects": 5,
-        "chat": 69,
+        "chat": 70,
         "sounds": 1,
         "follow": 1
       },
@@ -1655,9 +1655,10 @@
         "sound_first",
         "follow_supporter",
         "chat_conversationalist",
-        "night_owl"
+        "night_owl",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:37:03Z"
+      "lastUpdated": "2025-07-26T10:37:16Z"
     },
     "hairypawter": {
       "counters": {
@@ -2002,7 +2003,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 32,
+        "chat": 33,
         "points_spent": 1950,
         "sounds": 2,
         "effects": 1,
@@ -2032,7 +2033,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-07-26T10:18:12Z"
+      "lastUpdated": "2025-07-26T10:37:05Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3267,7 +3268,7 @@
     "teshinator95": {
       "counters": {
         "follow": 1,
-        "chat": 27
+        "chat": 29
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3278,7 +3279,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T10:36:36Z"
+      "lastUpdated": "2025-07-26T10:37:10Z"
     },
     "kaahly87": {
       "counters": {
@@ -3624,18 +3625,27 @@
     "cjwho": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:36:42Z"
+      "lastUpdated": "2025-07-26T10:37:04Z"
+    },
+    "zuivereyy": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T10:37:17Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:37:04Z",
-  "totalUsers": 139,
+  "lastUpdated": "2025-07-26T09:37:18Z",
+  "totalUsers": 140,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
