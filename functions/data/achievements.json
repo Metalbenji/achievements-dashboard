@@ -2325,7 +2325,7 @@
         "follow": 1,
         "chat": 66,
         "sub": 33,
-        "points_spent": 12601,
+        "points_spent": 16601,
         "interactive": 1,
         "sounds": 1,
         "gift_subs": 1
@@ -2357,7 +2357,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:41:02Z"
+      "lastUpdated": "2025-07-26T15:42:06Z"
     },
     "umenneske94": {
       "counters": {
@@ -3864,16 +3864,19 @@
     "boggieh": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2,
+        "points_spent": 4100
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T15:41:43Z"
+      "lastUpdated": "2025-07-26T15:42:27Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:41:44Z",
+  "lastUpdated": "2025-07-26T14:42:27Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
