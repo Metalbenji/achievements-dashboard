@@ -1926,9 +1926,9 @@
       "counters": {
         "follow": 1,
         "chat": 117,
-        "points_spent": 7153,
+        "points_spent": 7953,
         "interactive": 7,
-        "effects": 3,
+        "effects": 4,
         "sub": 22
       },
       "unlockedAchievements": [
@@ -1955,7 +1955,7 @@
         "emperor_loyal",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T17:26:31Z"
+      "lastUpdated": "2025-07-26T17:33:14Z"
     },
     "redunt86": {
       "counters": {
@@ -2179,7 +2179,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2187,9 +2187,10 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T17:31:01Z"
+      "lastUpdated": "2025-07-26T17:44:35Z"
     },
     "ke1fire": {
       "counters": {
@@ -2856,7 +2857,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 101
+        "chat": 108
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2867,7 +2868,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T17:31:33Z"
+      "lastUpdated": "2025-07-26T17:40:02Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -2880,7 +2881,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 40,
+        "chat": 41,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2892,7 +2893,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:08:34Z"
+      "lastUpdated": "2025-07-26T17:41:03Z"
     },
     "sprockettrap": {
       "counters": {
@@ -3714,7 +3715,7 @@
     "videogamegherkin": {
       "counters": {
         "follow": 1,
-        "chat": 18
+        "chat": 21
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3723,7 +3724,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T17:27:10Z"
+      "lastUpdated": "2025-07-26T17:42:02Z"
     },
     "lurknrip": {
       "counters": {
@@ -3948,7 +3949,7 @@
       "lastUpdated": "2025-07-26T17:22:35Z"
     }
   },
-  "lastUpdated": "2025-07-26T16:32:25Z",
+  "lastUpdated": "2025-07-26T16:44:35Z",
   "totalUsers": 149,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
