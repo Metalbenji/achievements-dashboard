@@ -3580,15 +3580,17 @@
     },
     "fkn_meow": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-07-26T10:11:33Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:11:33Z",
+  "lastUpdated": "2025-07-26T09:11:34Z",
   "totalUsers": 137,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
