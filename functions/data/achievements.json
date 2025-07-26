@@ -1384,9 +1384,10 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 244,
+        "chat": 245,
         "points_spent": 6550,
-        "effects": 2
+        "effects": 2,
+        "sub": 7
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1399,9 +1400,16 @@
         "night_owl",
         "chat_regular",
         "effect_first",
-        "chat_frequent"
+        "chat_frequent",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-20T13:28:27Z"
+      "lastUpdated": "2025-07-26T10:47:59Z"
     },
     "celran": {
       "counters": {
@@ -2038,7 +2046,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 755,
+        "chat": 756,
         "gift_subs": 1,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 359,
@@ -2091,7 +2099,7 @@
         "bday2025_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-07-26T10:45:23Z"
+      "lastUpdated": "2025-07-26T10:47:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2197,7 +2205,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 255,
+        "chat": 257,
         "bits": 490,
         "raid": 21,
         "points_spent": 2600,
@@ -2223,7 +2231,7 @@
         "bday2025_attend",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:46:59Z"
+      "lastUpdated": "2025-07-26T10:47:42Z"
     },
     "warl0c13": {
       "counters": {
@@ -3653,7 +3661,7 @@
       "lastUpdated": "2025-07-26T10:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:47:30Z",
+  "lastUpdated": "2025-07-26T09:48:00Z",
   "totalUsers": 140,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
