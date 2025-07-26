@@ -1584,7 +1584,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 302,
+        "chat": 303,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1623,7 +1623,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T23:29:54Z"
+      "lastUpdated": "2025-07-26T23:30:08Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1696,11 +1696,11 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 52,
+        "chat": 53,
         "points_spent": 2900,
         "interactive": 1,
         "effects": 3,
-        "sub": 22
+        "sub": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1718,9 +1718,12 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sub_tier1",
+        "bday2025_support",
+        "night_owl"
       ],
-      "lastUpdated": "2025-07-20T15:22:07Z"
+      "lastUpdated": "2025-07-26T23:30:18Z"
     },
     "tawmae": {
       "counters": {
@@ -4142,7 +4145,7 @@
       "lastUpdated": "2025-07-26T22:36:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:30:04Z",
+  "lastUpdated": "2025-07-26T22:30:18Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
