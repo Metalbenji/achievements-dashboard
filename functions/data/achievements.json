@@ -2795,7 +2795,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 61
+        "chat": 62
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2804,7 +2804,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T10:34:39Z"
+      "lastUpdated": "2025-07-26T13:05:52Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3778,12 +3778,13 @@
         "chat": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:05:43Z"
+      "lastUpdated": "2025-07-26T13:05:44Z"
     }
   },
-  "lastUpdated": "2025-07-26T12:05:44Z",
+  "lastUpdated": "2025-07-26T12:05:52Z",
   "totalUsers": 143,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
