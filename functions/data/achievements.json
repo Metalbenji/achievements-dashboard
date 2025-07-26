@@ -3524,14 +3524,17 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 12,
+        "points_spent": 500,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-17T20:39:10Z"
+      "lastUpdated": "2025-07-26T21:20:23Z"
     },
     "saluda777": {
       "counters": {
@@ -4034,26 +4037,29 @@
     },
     "bety_bambalam": {
       "counters": {
-        "points_spent": 1700,
-        "effects": 4
+        "points_spent": 3700,
+        "effects": 4,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2025-07-26T21:19:13Z"
+      "lastUpdated": "2025-07-26T21:21:32Z"
     },
     "azeroth1620": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T21:20:22Z"
+      "lastUpdated": "2025-07-26T21:20:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T20:20:23Z",
+  "lastUpdated": "2025-07-26T20:21:33Z",
   "totalUsers": 154,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
