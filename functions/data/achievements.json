@@ -2292,10 +2292,11 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 1900,
+        "points_spent": 2400,
         "effects": 5,
         "follow": 1,
-        "chat": 30
+        "chat": 30,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "effect_first",
@@ -2305,9 +2306,10 @@
         "spender_bronze",
         "chat_talker",
         "chat_conversationalist",
-        "night_owl"
+        "night_owl",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-19T18:24:26Z"
+      "lastUpdated": "2025-07-26T14:41:48Z"
     },
     "s3n71": {
       "counters": {
@@ -3440,14 +3442,15 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T14:39:59Z"
+      "lastUpdated": "2025-07-26T14:40:43Z"
     },
     "neburgy": {
       "counters": {
@@ -3832,7 +3835,7 @@
       "lastUpdated": "2025-07-26T14:32:47Z"
     }
   },
-  "lastUpdated": "2025-07-26T13:40:01Z",
+  "lastUpdated": "2025-07-26T13:41:48Z",
   "totalUsers": 145,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
