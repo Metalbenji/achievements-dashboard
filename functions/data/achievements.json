@@ -2712,7 +2712,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 80,
+        "chat": 81,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2734,13 +2734,13 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T19:05:20Z"
+      "lastUpdated": "2025-07-26T19:06:07Z"
     },
     "majesty81": {
       "counters": {
         "sub": 25,
         "follow": 1,
-        "chat": 11
+        "chat": 12
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2755,9 +2755,11 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "sub_tier1",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-13T11:55:40Z"
+      "lastUpdated": "2025-07-26T19:06:11Z"
     },
     "conkek": {
       "counters": {
@@ -3963,7 +3965,7 @@
       "lastUpdated": "2025-07-26T18:56:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T18:06:00Z",
+  "lastUpdated": "2025-07-26T18:06:11Z",
   "totalUsers": 150,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
