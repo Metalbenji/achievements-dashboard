@@ -1472,8 +1472,8 @@
     "dmustain": {
       "counters": {
         "chat": 93,
-        "points_spent": 2400,
-        "effects": 6,
+        "points_spent": 2700,
+        "effects": 7,
         "follow": 1,
         "sounds": 1
       },
@@ -1489,7 +1489,7 @@
         "sound_first",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T23:30:33Z"
+      "lastUpdated": "2025-07-26T23:31:55Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1585,7 +1585,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 305,
+        "chat": 306,
         "points_spent": 38800,
         "interactive": 9,
         "follow": 1,
@@ -1624,7 +1624,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T23:31:05Z"
+      "lastUpdated": "2025-07-26T23:31:35Z"
     },
     "aladderinsane": {
       "counters": {
@@ -4105,7 +4105,7 @@
         "follow": 1,
         "chat": 27,
         "points_spent": 1001,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4119,7 +4119,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T23:31:10Z"
+      "lastUpdated": "2025-07-26T23:31:11Z"
     },
     "faelora": {
       "counters": {
@@ -4146,10 +4146,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2025-07-26T22:36:00Z"
+    },
+    "auriaya__": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T23:31:59Z"
     }
   },
-  "lastUpdated": "2025-07-26T22:31:11Z",
-  "totalUsers": 156,
+  "lastUpdated": "2025-07-26T22:31:59Z",
+  "totalUsers": 157,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
