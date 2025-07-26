@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 328,
+        "chat": 329,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1422,7 +1422,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T18:20:41Z"
+      "lastUpdated": "2025-07-26T19:05:50Z"
     },
     "celran": {
       "counters": {
@@ -1581,7 +1581,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 261,
+        "chat": 265,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1619,7 +1619,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T19:02:21Z"
+      "lastUpdated": "2025-07-26T19:05:57Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2119,7 +2119,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 816,
+        "chat": 817,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2174,7 +2174,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T19:03:33Z"
+      "lastUpdated": "2025-07-26T19:04:13Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2600,15 +2600,16 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T19:03:41Z"
+      "lastUpdated": "2025-07-26T19:03:49Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -2711,7 +2712,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 70,
+        "chat": 80,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2733,7 +2734,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T18:23:52Z"
+      "lastUpdated": "2025-07-26T19:05:20Z"
     },
     "majesty81": {
       "counters": {
@@ -3962,7 +3963,7 @@
       "lastUpdated": "2025-07-26T18:56:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T18:03:41Z",
+  "lastUpdated": "2025-07-26T18:06:00Z",
   "totalUsers": 150,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
