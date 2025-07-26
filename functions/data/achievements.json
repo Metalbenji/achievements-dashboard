@@ -1681,7 +1681,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 64,
+        "chat": 65,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -1696,7 +1696,7 @@
         "effect_first",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:02:46Z"
+      "lastUpdated": "2025-07-26T10:04:21Z"
     },
     "kripoje": {
       "counters": {
@@ -2989,7 +2989,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2998,7 +2998,7 @@
         "bday2025_attend",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T10:03:59Z"
+      "lastUpdated": "2025-07-26T10:04:39Z"
     },
     "mulquero": {
       "counters": {
@@ -3549,7 +3549,7 @@
       "lastUpdated": "2025-07-26T10:02:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:03:59Z",
+  "lastUpdated": "2025-07-26T09:04:44Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
