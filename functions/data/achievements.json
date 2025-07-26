@@ -1921,10 +1921,11 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 88,
-        "points_spent": 4153,
-        "interactive": 5,
-        "effects": 3
+        "chat": 99,
+        "points_spent": 6653,
+        "interactive": 6,
+        "effects": 3,
+        "sub": 22
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1936,9 +1937,20 @@
         "spender_bronze",
         "chat_conversationalist",
         "effect_first",
-        "bday2025_attend"
+        "bday2025_attend",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "bday2025_support",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-07-26T15:55:06Z"
+      "lastUpdated": "2025-07-26T16:11:19Z"
     },
     "redunt86": {
       "counters": {
@@ -2101,7 +2113,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 811,
+        "chat": 812,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2156,7 +2168,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T15:48:06Z"
+      "lastUpdated": "2025-07-26T16:06:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2324,7 +2336,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 69,
+        "chat": 70,
         "sub": 33,
         "points_spent": 16601,
         "interactive": 1,
@@ -2358,7 +2370,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:55:34Z"
+      "lastUpdated": "2025-07-26T15:56:35Z"
     },
     "umenneske94": {
       "counters": {
@@ -3881,7 +3893,7 @@
       "lastUpdated": "2025-07-26T15:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:55:44Z",
+  "lastUpdated": "2025-07-26T15:11:20Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
