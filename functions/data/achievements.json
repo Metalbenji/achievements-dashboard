@@ -2952,9 +2952,9 @@
     },
     "sarcissa": {
       "counters": {
-        "sub": 40,
+        "sub": 41,
         "follow": 1,
-        "chat": 32,
+        "chat": 33,
         "points_spent": 350,
         "effects": 1
       },
@@ -2975,9 +2975,11 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "sub_tier1",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-20T10:50:48Z"
+      "lastUpdated": "2025-07-26T11:10:57Z"
     },
     "camm_23": {
       "counters": {
@@ -3692,7 +3694,7 @@
       "lastUpdated": "2025-07-26T11:09:58Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:10:38Z",
+  "lastUpdated": "2025-07-26T10:10:57Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
