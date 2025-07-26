@@ -1943,7 +1943,7 @@
       "counters": {
         "points_spent": 12100,
         "follow": 1,
-        "chat": 82,
+        "chat": 83,
         "effects": 13,
         "screenshot": 1,
         "sounds": 3,
@@ -1978,9 +1978,10 @@
         "sub_champion",
         "sub_platinum",
         "sub_diamond",
-        "sub_elite"
+        "sub_elite",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:11:19Z"
+      "lastUpdated": "2025-07-26T11:11:40Z"
     },
     "syn__________": {
       "counters": {
@@ -2207,7 +2208,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 282,
+        "chat": 283,
         "bits": 690,
         "raid": 31,
         "points_spent": 3600,
@@ -2234,7 +2235,7 @@
         "bday2025_support",
         "raid_tier4_warlord"
       ],
-      "lastUpdated": "2025-07-26T11:09:18Z"
+      "lastUpdated": "2025-07-26T11:11:44Z"
     },
     "warl0c13": {
       "counters": {
@@ -3684,7 +3685,7 @@
     "7cez": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3692,10 +3693,10 @@
         "bday2025_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T11:09:58Z"
+      "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:11:20Z",
+  "lastUpdated": "2025-07-26T10:12:15Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
