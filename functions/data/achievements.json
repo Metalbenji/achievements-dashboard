@@ -1386,7 +1386,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 300,
+        "chat": 308,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1421,7 +1421,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T13:41:35Z"
+      "lastUpdated": "2025-07-26T13:53:09Z"
     },
     "celran": {
       "counters": {
@@ -1522,7 +1522,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 294,
+        "chat": 295,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1574,7 +1574,7 @@
         "spender_silver",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-07-26T13:15:57Z"
+      "lastUpdated": "2025-07-26T13:42:24Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1664,7 +1664,7 @@
       "counters": {
         "points_spent": 5300,
         "effects": 6,
-        "chat": 75,
+        "chat": 79,
         "sounds": 1,
         "follow": 1
       },
@@ -1680,7 +1680,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:22:30Z"
+      "lastUpdated": "2025-07-26T13:50:44Z"
     },
     "hairypawter": {
       "counters": {
@@ -2085,7 +2085,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 784,
+        "chat": 786,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2140,7 +2140,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T12:39:54Z"
+      "lastUpdated": "2025-07-26T13:54:46Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2650,7 +2650,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 52,
+        "chat": 60,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2672,7 +2672,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T13:41:15Z"
+      "lastUpdated": "2025-07-26T13:49:37Z"
     },
     "majesty81": {
       "counters": {
@@ -3794,17 +3794,17 @@
     "technoninjatv": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:38:47Z"
+      "lastUpdated": "2025-07-26T13:53:32Z"
     }
   },
-  "lastUpdated": "2025-07-26T12:41:35Z",
+  "lastUpdated": "2025-07-26T12:55:00Z",
   "totalUsers": 144,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
