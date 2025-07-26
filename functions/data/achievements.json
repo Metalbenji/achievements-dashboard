@@ -3636,15 +3636,17 @@
     },
     "zuivereyy": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-26T10:37:17Z"
+      "lastUpdated": "2025-07-26T10:37:18Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:37:18Z",
+  "lastUpdated": "2025-07-26T09:37:19Z",
   "totalUsers": 140,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
