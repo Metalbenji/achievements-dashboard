@@ -3864,7 +3864,7 @@
     "boggieh": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 5,
         "points_spent": 8650,
         "screenshot": 1
       },
@@ -3874,12 +3874,13 @@
         "bday2025_attend",
         "spender_bronze",
         "biggest_fan",
-        "screenshot_first"
+        "screenshot_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T15:44:09Z"
+      "lastUpdated": "2025-07-26T15:44:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:44:09Z",
+  "lastUpdated": "2025-07-26T14:44:46Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
