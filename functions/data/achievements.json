@@ -1416,7 +1416,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 86,
+        "chat": 87,
         "points_spent": 7000,
         "screenshot": 1,
         "effects": 2,
@@ -1442,7 +1442,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:12:52Z"
+      "lastUpdated": "2025-07-26T10:21:45Z"
     },
     "dmustain": {
       "counters": {
@@ -1556,8 +1556,8 @@
     "marcusmaximi": {
       "counters": {
         "chat": 199,
-        "points_spent": 37550,
-        "interactive": 7,
+        "points_spent": 38450,
+        "interactive": 9,
         "follow": 1,
         "sub": 31,
         "effects": 5,
@@ -1592,7 +1592,7 @@
         "gift_starter",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:19:43Z"
+      "lastUpdated": "2025-07-26T10:20:45Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2581,7 +2581,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 16,
+        "chat": 19,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2602,7 +2602,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:19:54Z"
+      "lastUpdated": "2025-07-26T10:23:04Z"
     },
     "majesty81": {
       "counters": {
@@ -2766,9 +2766,10 @@
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:20:23Z"
+      "lastUpdated": "2025-07-26T10:20:24Z"
     },
     "bongo1986": {
       "counters": {
@@ -3261,7 +3262,7 @@
     "teshinator95": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3270,7 +3271,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-20T11:23:44Z"
+      "lastUpdated": "2025-07-26T10:23:11Z"
     },
     "kaahly87": {
       "counters": {
@@ -3605,16 +3606,16 @@
     },
     "pupuren": {
       "counters": {
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:19:42Z"
+      "lastUpdated": "2025-07-26T10:21:31Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:20:24Z",
+  "lastUpdated": "2025-07-26T09:23:11Z",
   "totalUsers": 138,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
