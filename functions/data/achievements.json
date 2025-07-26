@@ -1503,8 +1503,8 @@
         "sub": 43,
         "sounds": 1,
         "effects": 3,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 116,
+        "gift_bombs": 2,
+        "total_gift_bomb_subs": 121,
         "largest_gift_bomb": 116
       },
       "unlockedAchievements": [
@@ -1543,9 +1543,10 @@
         "gift_bomb_75",
         "gift_bomb_100",
         "gift_bombs_first",
-        "bday2025_attend"
+        "bday2025_attend",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:02:48Z"
+      "lastUpdated": "2025-07-26T10:04:43Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1681,7 +1682,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 65,
+        "chat": 66,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -1696,7 +1697,7 @@
         "effect_first",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:04:21Z"
+      "lastUpdated": "2025-07-26T10:04:48Z"
     },
     "kripoje": {
       "counters": {
@@ -2155,7 +2156,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2165,7 +2166,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T09:55:49Z"
+      "lastUpdated": "2025-07-26T10:04:48Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3549,7 +3550,7 @@
       "lastUpdated": "2025-07-26T10:02:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:04:44Z",
+  "lastUpdated": "2025-07-26T09:04:57Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
