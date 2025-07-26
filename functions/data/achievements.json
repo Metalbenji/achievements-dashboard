@@ -1416,7 +1416,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 84,
+        "chat": 86,
         "points_spent": 7000,
         "screenshot": 1,
         "effects": 2,
@@ -1439,9 +1439,10 @@
         "emperor_loyal",
         "chat_talker",
         "follow_supporter",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:12:27Z"
+      "lastUpdated": "2025-07-26T10:12:52Z"
     },
     "dmustain": {
       "counters": {
@@ -1466,7 +1467,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 36,
+        "chat": 38,
         "points_spent": 6000,
         "effects": 5,
         "follow": 1,
@@ -1495,11 +1496,11 @@
         "bday2025_attend",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-26T10:10:51Z"
+      "lastUpdated": "2025-07-26T10:15:07Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 239,
+        "chat": 240,
         "points_spent": 3650,
         "screenshot": 1,
         "follow": 1,
@@ -1549,7 +1550,7 @@
         "bday2025_attend",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:11:22Z"
+      "lastUpdated": "2025-07-26T10:14:50Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1997,8 +1998,8 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 30,
-        "points_spent": 950,
+        "chat": 31,
+        "points_spent": 1450,
         "sounds": 1,
         "effects": 1,
         "screenshot": 1,
@@ -2022,9 +2023,10 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "bday2025_support"
+        "bday2025_support",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T10:11:12Z"
+      "lastUpdated": "2025-07-26T10:15:53Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2392,7 +2394,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 84,
+        "chat": 87,
         "points_spent": 2750,
         "sounds": 1,
         "effects": 6,
@@ -2446,7 +2448,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:07:40Z"
+      "lastUpdated": "2025-07-26T10:13:28Z"
     },
     "andilippi": {
       "counters": {
@@ -3591,7 +3593,7 @@
       "lastUpdated": "2025-07-26T10:11:50Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:12:28Z",
+  "lastUpdated": "2025-07-26T09:15:53Z",
   "totalUsers": 137,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
