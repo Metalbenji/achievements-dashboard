@@ -1436,12 +1436,12 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 90,
-        "points_spent": 7400,
+        "chat": 93,
+        "points_spent": 7800,
         "screenshot": 1,
         "effects": 2,
         "sounds": 1,
-        "interactive": 5,
+        "interactive": 6,
         "special_rewards": 1,
         "follow": 1
       },
@@ -1462,7 +1462,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:55:34Z"
+      "lastUpdated": "2025-07-26T15:22:58Z"
     },
     "dmustain": {
       "counters": {
@@ -1522,7 +1522,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 303,
+        "chat": 305,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1575,7 +1575,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T15:14:07Z"
+      "lastUpdated": "2025-07-26T15:21:06Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2586,7 +2586,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 177,
+        "chat": 200,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2599,9 +2599,10 @@
         "bday2025_attend",
         "chat_regular",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T15:16:41Z"
+      "lastUpdated": "2025-07-26T15:23:23Z"
     },
     "maximusis_": {
       "counters": {
@@ -3767,7 +3768,7 @@
     "zuivereyy": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3776,7 +3777,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T13:13:05Z"
+      "lastUpdated": "2025-07-26T15:21:08Z"
     },
     "zx_emma_xz": {
       "counters": {
@@ -3844,15 +3845,16 @@
     },
     "gabriel245658": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T15:17:15Z"
+      "lastUpdated": "2025-07-26T15:18:21Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:17:15Z",
+  "lastUpdated": "2025-07-26T14:23:23Z",
   "totalUsers": 146,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
