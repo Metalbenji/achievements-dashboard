@@ -2207,11 +2207,11 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 275,
-        "bits": 570,
-        "raid": 24,
-        "points_spent": 2600,
-        "effects": 4
+        "chat": 280,
+        "bits": 690,
+        "raid": 31,
+        "points_spent": 3600,
+        "effects": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2231,9 +2231,10 @@
         "spender_bronze",
         "chat_frequent",
         "bday2025_attend",
-        "bday2025_support"
+        "bday2025_support",
+        "raid_tier4_warlord"
       ],
-      "lastUpdated": "2025-07-26T11:03:32Z"
+      "lastUpdated": "2025-07-26T11:08:44Z"
     },
     "warl0c13": {
       "counters": {
@@ -3053,7 +3054,7 @@
     "mulquero": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 4,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -3063,7 +3064,7 @@
         "bday2025_support",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:16:57Z"
+      "lastUpdated": "2025-07-26T11:03:54Z"
     },
     "misukonna": {
       "counters": {
@@ -3676,10 +3677,19 @@
         "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:50:01Z"
+    },
+    "7cez": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T11:09:00Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:03:32Z",
-  "totalUsers": 141,
+  "lastUpdated": "2025-07-26T10:09:00Z",
+  "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
