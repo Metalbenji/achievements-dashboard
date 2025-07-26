@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 314,
+        "chat": 317,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1422,7 +1422,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T14:44:56Z"
+      "lastUpdated": "2025-07-26T17:15:22Z"
     },
     "celran": {
       "counters": {
@@ -1524,7 +1524,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 306,
+        "chat": 310,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1577,7 +1577,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T17:04:32Z"
+      "lastUpdated": "2025-07-26T17:13:44Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1623,7 +1623,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 68,
+        "chat": 69,
         "follow": 1,
         "sub": 30
       },
@@ -1647,7 +1647,7 @@
         "sub_elite",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T16:55:34Z"
+      "lastUpdated": "2025-07-26T17:13:28Z"
     },
     "scoman07": {
       "counters": {
@@ -1990,16 +1990,16 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 12100,
+        "points_spent": 13200,
         "follow": 1,
-        "chat": 108,
-        "effects": 13,
+        "chat": 117,
+        "effects": 15,
         "screenshot": 1,
         "sounds": 3,
         "bits": 200,
         "raid": 5,
         "sub": 34,
-        "gift_subs": 1
+        "gift_subs": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2033,9 +2033,10 @@
         "bday2025_support",
         "raid_tier2_seasoned",
         "gift_starter",
-        "chat_regular"
+        "chat_regular",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-07-26T12:29:43Z"
+      "lastUpdated": "2025-07-26T17:14:27Z"
     },
     "syn__________": {
       "counters": {
@@ -2851,7 +2852,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 75
+        "chat": 81
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2861,7 +2862,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T14:02:22Z"
+      "lastUpdated": "2025-07-26T17:14:27Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3708,14 +3709,15 @@
     "videogamegherkin": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-20T09:57:35Z"
+      "lastUpdated": "2025-07-26T17:15:45Z"
     },
     "lurknrip": {
       "counters": {
@@ -3803,7 +3805,7 @@
     "zuivereyy": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3812,7 +3814,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T15:21:08Z"
+      "lastUpdated": "2025-07-26T17:15:17Z"
     },
     "zx_emma_xz": {
       "counters": {
@@ -3907,7 +3909,7 @@
       "lastUpdated": "2025-07-26T15:45:19Z"
     }
   },
-  "lastUpdated": "2025-07-26T16:05:41Z",
+  "lastUpdated": "2025-07-26T16:15:46Z",
   "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
