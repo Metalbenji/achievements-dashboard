@@ -3460,17 +3460,20 @@
     },
     "memmoumilas": {
       "counters": {
-        "points_spent": 500,
+        "points_spent": 800,
         "interactive": 1,
         "follow": 1,
-        "chat": 1
+        "chat": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "interactive_first",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-26T11:52:48Z"
+      "lastUpdated": "2025-07-26T11:53:02Z"
     },
     "welshgurlttv": {
       "counters": {
@@ -3729,7 +3732,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:52:48Z",
+  "lastUpdated": "2025-07-26T10:53:03Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
