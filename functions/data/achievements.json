@@ -2083,7 +2083,8 @@
         "sub_master",
         "spender_bronze",
         "sound_first",
-        "spender_silver"
+        "spender_silver",
+        "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T10:23:31Z"
     },
@@ -2581,7 +2582,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 22,
+        "chat": 25,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2600,9 +2601,10 @@
         "sub_master",
         "chat_newbie",
         "chat_talker",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T10:23:23Z"
+      "lastUpdated": "2025-07-26T10:24:08Z"
     },
     "majesty81": {
       "counters": {
@@ -3262,7 +3264,7 @@
     "teshinator95": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3272,7 +3274,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:23:11Z"
+      "lastUpdated": "2025-07-26T10:23:38Z"
     },
     "kaahly87": {
       "counters": {
@@ -3616,7 +3618,7 @@
       "lastUpdated": "2025-07-26T10:21:31Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:23:31Z",
+  "lastUpdated": "2025-07-26T09:24:08Z",
   "totalUsers": 138,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
