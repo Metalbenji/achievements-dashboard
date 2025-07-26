@@ -1386,7 +1386,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 277,
+        "chat": 278,
         "points_spent": 7350,
         "effects": 3,
         "sub": 7,
@@ -1420,7 +1420,7 @@
         "raid_tier1_captain",
         "bits_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:04:19Z"
+      "lastUpdated": "2025-07-26T12:04:49Z"
     },
     "celran": {
       "counters": {
@@ -1521,7 +1521,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 275,
+        "chat": 276,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1572,7 +1572,7 @@
         "bday2025_support",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T12:04:34Z"
+      "lastUpdated": "2025-07-26T12:05:10Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1769,7 +1769,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 20,
+        "chat": 25,
         "points_spent": 1000,
         "interactive": 2,
         "gift_bombs": 1,
@@ -1788,9 +1788,11 @@
         "gift_bomb_10",
         "gift_bomb_15",
         "gift_bombs_first",
-        "bday2025_support"
+        "bday2025_support",
+        "bday2025_attend",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T12:04:38Z"
+      "lastUpdated": "2025-07-26T12:06:33Z"
     },
     "adammmidders": {
       "counters": {
@@ -2232,7 +2234,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 341,
+        "chat": 342,
         "bits": 990,
         "raid": 46,
         "points_spent": 3600,
@@ -2261,7 +2263,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:03:55Z"
+      "lastUpdated": "2025-07-26T12:05:55Z"
     },
     "warl0c13": {
       "counters": {
@@ -3742,7 +3744,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T11:04:39Z",
+  "lastUpdated": "2025-07-26T11:06:34Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
