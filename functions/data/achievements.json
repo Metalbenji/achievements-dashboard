@@ -2078,7 +2078,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 66,
+        "chat": 67,
         "sub": 22
       },
       "unlockedAchievements": [
@@ -2100,7 +2100,7 @@
         "bday2025_support",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T22:05:20Z"
+      "lastUpdated": "2025-07-26T22:18:54Z"
     },
     "epik__tv": {
       "counters": {
@@ -4078,7 +4078,7 @@
       "counters": {
         "follow": 1,
         "chat": 11,
-        "points_spent": 200,
+        "points_spent": 201,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -4088,24 +4088,26 @@
         "chat_newbie",
         "effect_first",
         "night_owl",
-        "chat_talker"
+        "chat_talker",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-07-26T22:17:54Z"
+      "lastUpdated": "2025-07-26T22:19:25Z"
     },
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T22:18:34Z"
+      "lastUpdated": "2025-07-26T22:19:10Z"
     }
   },
-  "lastUpdated": "2025-07-26T21:18:36Z",
+  "lastUpdated": "2025-07-26T21:19:26Z",
   "totalUsers": 156,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
