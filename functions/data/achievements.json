@@ -2100,7 +2100,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 807,
+        "chat": 808,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2155,7 +2155,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T15:31:22Z"
+      "lastUpdated": "2025-07-26T15:41:27Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3860,10 +3860,19 @@
         "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T15:18:21Z"
+    },
+    "boggieh": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T15:41:42Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:41:25Z",
-  "totalUsers": 146,
+  "lastUpdated": "2025-07-26T14:41:43Z",
+  "totalUsers": 147,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
