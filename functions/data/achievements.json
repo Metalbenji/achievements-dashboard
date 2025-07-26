@@ -1524,7 +1524,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 340,
+        "chat": 343,
         "points_spent": 23650,
         "screenshot": 1,
         "follow": 1,
@@ -1577,11 +1577,11 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T18:54:59Z"
+      "lastUpdated": "2025-07-26T19:01:23Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 254,
+        "chat": 261,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1619,7 +1619,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T18:52:42Z"
+      "lastUpdated": "2025-07-26T19:02:21Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2119,7 +2119,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 813,
+        "chat": 816,
         "gift_subs": 1,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 379,
@@ -2174,7 +2174,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T18:45:26Z"
+      "lastUpdated": "2025-07-26T19:03:33Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2267,7 +2267,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 26
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2278,7 +2278,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T18:54:24Z"
+      "lastUpdated": "2025-07-26T19:00:57Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2600,7 +2600,7 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2608,7 +2608,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-05T17:14:29Z"
+      "lastUpdated": "2025-07-26T19:03:41Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -3952,16 +3952,17 @@
     "zeratoolll": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T18:56:27Z"
+      "lastUpdated": "2025-07-26T18:56:46Z"
     }
   },
-  "lastUpdated": "2025-07-26T17:56:28Z",
+  "lastUpdated": "2025-07-26T18:03:41Z",
   "totalUsers": 150,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
