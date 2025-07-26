@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 339,
+        "chat": 340,
         "points_spent": 7700,
         "effects": 4,
         "sub": 7,
@@ -1422,7 +1422,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T19:50:47Z"
+      "lastUpdated": "2025-07-26T20:01:29Z"
     },
     "celran": {
       "counters": {
@@ -1581,7 +1581,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 275,
+        "chat": 276,
         "points_spent": 38450,
         "interactive": 9,
         "follow": 1,
@@ -1619,7 +1619,7 @@
         "bday2025_support",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-26T19:50:12Z"
+      "lastUpdated": "2025-07-26T20:00:29Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1822,7 +1822,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 40,
+        "chat": 41,
         "points_spent": 7700,
         "interactive": 1,
         "sub": 23,
@@ -1853,7 +1853,7 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-26T20:00:21Z"
+      "lastUpdated": "2025-07-26T20:00:56Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2135,7 +2135,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 836,
+        "chat": 839,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2190,7 +2190,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T19:50:55Z"
+      "lastUpdated": "2025-07-26T20:02:30Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2248,7 +2248,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 44,
+        "chat": 45,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2260,7 +2260,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T19:59:40Z"
+      "lastUpdated": "2025-07-26T20:00:28Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2535,7 +2535,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 138,
+        "chat": 141,
         "points_spent": 2750,
         "sounds": 1,
         "effects": 6,
@@ -2591,7 +2591,7 @@
         "chat_regular",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-26T20:00:09Z"
+      "lastUpdated": "2025-07-26T20:02:40Z"
     },
     "andilippi": {
       "counters": {
@@ -3022,7 +3022,7 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 27,
+        "chat": 33,
         "points_spent": 3451,
         "effects": 5,
         "screenshot": 1,
@@ -3056,7 +3056,7 @@
         "chat_conversationalist",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-26T20:00:07Z"
+      "lastUpdated": "2025-07-26T20:03:21Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -4000,10 +4000,19 @@
         "bday2025_attend"
       ],
       "lastUpdated": "2025-07-26T19:23:29Z"
+    },
+    "funsham": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-07-26T20:05:55Z"
     }
   },
-  "lastUpdated": "2025-07-26T19:00:21Z",
-  "totalUsers": 151,
+  "lastUpdated": "2025-07-26T19:05:55Z",
+  "totalUsers": 152,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
