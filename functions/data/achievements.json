@@ -2176,7 +2176,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 21
+        "chat": 22
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2186,7 +2186,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T17:27:23Z"
+      "lastUpdated": "2025-07-26T17:28:15Z"
     },
     "ke1fire": {
       "counters": {
@@ -2853,7 +2853,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 99
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2861,9 +2861,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-07-26T17:27:35Z"
+      "lastUpdated": "2025-07-26T17:28:26Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -2917,7 +2918,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 73
+        "chat": 74
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2927,7 +2928,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:37:33Z"
+      "lastUpdated": "2025-07-26T17:28:11Z"
     },
     "roffelonator": {
       "counters": {
@@ -3913,7 +3914,7 @@
     "mr_beardz": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "sub": 9
       },
       "unlockedAchievements": [
@@ -3931,7 +3932,7 @@
         "bday2025_support",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T17:27:37Z"
+      "lastUpdated": "2025-07-26T17:27:57Z"
     },
     "bollrak": {
       "counters": {
@@ -3944,7 +3945,7 @@
       "lastUpdated": "2025-07-26T17:22:35Z"
     }
   },
-  "lastUpdated": "2025-07-26T16:27:38Z",
+  "lastUpdated": "2025-07-26T16:28:26Z",
   "totalUsers": 149,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
