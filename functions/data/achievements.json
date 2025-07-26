@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 62,
+        "chat": 63,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1339,7 +1339,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:27:13Z"
+      "lastUpdated": "2025-07-26T11:28:27Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1950,7 +1950,8 @@
         "sounds": 3,
         "bits": 200,
         "raid": 5,
-        "sub": 34
+        "sub": 34,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1982,9 +1983,10 @@
         "sub_elite",
         "bday2025_attend",
         "bday2025_support",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "gift_starter"
       ],
-      "lastUpdated": "2025-07-26T11:24:56Z"
+      "lastUpdated": "2025-07-26T11:27:53Z"
     },
     "syn__________": {
       "counters": {
@@ -2213,7 +2215,7 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 302,
+        "chat": 303,
         "bits": 990,
         "raid": 46,
         "points_spent": 3600,
@@ -2242,7 +2244,7 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T11:27:25Z"
+      "lastUpdated": "2025-07-26T11:28:19Z"
     },
     "warl0c13": {
       "counters": {
@@ -2531,7 +2533,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 76
+        "chat": 78
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2541,7 +2543,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T11:27:29Z"
+      "lastUpdated": "2025-07-26T11:28:29Z"
     },
     "maximusis_": {
       "counters": {
@@ -3716,7 +3718,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:27:53Z",
+  "lastUpdated": "2025-07-26T10:28:39Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
