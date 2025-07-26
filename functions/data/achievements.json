@@ -1389,7 +1389,8 @@
         "chat": 260,
         "points_spent": 6550,
         "effects": 2,
-        "sub": 7
+        "sub": 7,
+        "bits": 369
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1410,9 +1411,13 @@
         "sub_dedicated",
         "sub_committed",
         "bday2025_support",
-        "bday2025_attend"
+        "bday2025_attend",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular",
+        "bits_steady"
       ],
-      "lastUpdated": "2025-07-26T11:27:26Z"
+      "lastUpdated": "2025-07-26T11:28:38Z"
     },
     "celran": {
       "counters": {
@@ -3718,7 +3723,7 @@
       "lastUpdated": "2025-07-26T11:11:28Z"
     }
   },
-  "lastUpdated": "2025-07-26T10:28:41Z",
+  "lastUpdated": "2025-07-26T10:28:42Z",
   "totalUsers": 142,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
