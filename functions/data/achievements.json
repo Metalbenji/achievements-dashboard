@@ -2383,8 +2383,8 @@
         "sub": 39,
         "bits": 2000,
         "raid": 2,
-        "gift_bombs": 2,
-        "total_gift_bomb_subs": 238,
+        "gift_bombs": 3,
+        "total_gift_bomb_subs": 243,
         "largest_gift_bomb": 228
       },
       "unlockedAchievements": [
@@ -2426,9 +2426,11 @@
         "gift_bomb_75",
         "gift_bomb_100",
         "gift_bombs_first",
-        "bday2025_attend"
+        "bday2025_attend",
+        "gift_bombs_regular",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:02:14Z"
+      "lastUpdated": "2025-07-26T10:06:00Z"
     },
     "andilippi": {
       "counters": {
@@ -3554,7 +3556,7 @@
       "lastUpdated": "2025-07-26T10:02:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:06:02Z",
+  "lastUpdated": "2025-07-26T09:06:15Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
