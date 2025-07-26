@@ -2003,7 +2003,8 @@
         "sounds": 1,
         "effects": 1,
         "screenshot": 1,
-        "sub": 13
+        "sub": 13,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2024,9 +2025,10 @@
         "sub_veteran",
         "sub_champion",
         "bday2025_support",
-        "spender_bronze"
+        "spender_bronze",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-26T10:15:53Z"
+      "lastUpdated": "2025-07-26T10:15:54Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3593,7 +3595,7 @@
       "lastUpdated": "2025-07-26T10:11:50Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:15:53Z",
+  "lastUpdated": "2025-07-26T09:16:11Z",
   "totalUsers": 137,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
