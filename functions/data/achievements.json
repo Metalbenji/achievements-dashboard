@@ -1555,7 +1555,8 @@
         "follow": 1,
         "sub": 31,
         "effects": 5,
-        "sounds": 1
+        "sounds": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1581,9 +1582,11 @@
         "effect_first",
         "spender_silver",
         "sound_first",
-        "bday2025_attend"
+        "bday2025_attend",
+        "gift_starter",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:02:16Z"
+      "lastUpdated": "2025-07-26T10:03:12Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2215,7 +2218,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 63,
+        "chat": 64,
         "sub": 33,
         "points_spent": 2400,
         "interactive": 1,
@@ -2245,7 +2248,7 @@
         "sub_tier1",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-26T10:02:30Z"
+      "lastUpdated": "2025-07-26T10:03:38Z"
     },
     "umenneske94": {
       "counters": {
@@ -3117,7 +3120,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 23,
+        "chat": 24,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -3128,7 +3131,7 @@
         "first_caller",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:02:32Z"
+      "lastUpdated": "2025-07-26T10:03:30Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -3544,7 +3547,7 @@
       "lastUpdated": "2025-07-26T10:02:54Z"
     }
   },
-  "lastUpdated": "2025-07-26T09:03:12Z",
+  "lastUpdated": "2025-07-26T09:03:38Z",
   "totalUsers": 136,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
