@@ -1344,7 +1344,7 @@
     "itzsilvah": {
       "counters": {
         "chat": 63,
-        "points_spent": 11300,
+        "points_spent": 14700,
         "follow": 1,
         "sub": 13
       },
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-26T15:38:38Z"
+      "lastUpdated": "2025-07-26T15:39:17Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2325,7 +2325,7 @@
         "follow": 1,
         "chat": 65,
         "sub": 33,
-        "points_spent": 5501,
+        "points_spent": 8801,
         "interactive": 1,
         "sounds": 1,
         "gift_subs": 1
@@ -2356,7 +2356,7 @@
         "birthday_person",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-07-26T15:38:26Z"
+      "lastUpdated": "2025-07-26T15:39:07Z"
     },
     "umenneske94": {
       "counters": {
@@ -3489,7 +3489,7 @@
     },
     "justpeterpg": {
       "counters": {
-        "points_spent": 105,
+        "points_spent": 3605,
         "special_rewards": 1,
         "chat": 28,
         "effects": 1,
@@ -3512,9 +3512,10 @@
         "chat_talker",
         "night_owl",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-26T15:38:09Z"
+      "lastUpdated": "2025-07-26T15:39:24Z"
     },
     "xykojen": {
       "counters": {
@@ -3858,7 +3859,7 @@
       "lastUpdated": "2025-07-26T15:18:21Z"
     }
   },
-  "lastUpdated": "2025-07-26T14:38:39Z",
+  "lastUpdated": "2025-07-26T14:39:24Z",
   "totalUsers": 146,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
