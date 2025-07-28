@@ -1528,7 +1528,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 362,
+        "chat": 363,
         "points_spent": 24150,
         "screenshot": 1,
         "follow": 1,
@@ -1581,7 +1581,7 @@
         "gift_bombs_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-28T18:29:47Z"
+      "lastUpdated": "2025-07-28T18:31:55Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1987,7 +1987,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 47
+        "chat": 49
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1997,7 +1997,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T18:31:35Z"
+      "lastUpdated": "2025-07-28T18:32:13Z"
     },
     "spoono__": {
       "counters": {
@@ -2667,7 +2667,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 237,
+        "chat": 243,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2683,7 +2683,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-28T18:30:25Z"
+      "lastUpdated": "2025-07-28T18:33:42Z"
     },
     "maximusis_": {
       "counters": {
@@ -3761,7 +3761,7 @@
       "counters": {
         "sub": 38,
         "follow": 1,
-        "chat": 35,
+        "chat": 36,
         "points_spent": 500,
         "sounds": 1
       },
@@ -3785,7 +3785,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-20T13:20:53Z"
+      "lastUpdated": "2025-07-28T18:33:47Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4184,7 +4184,7 @@
       "lastUpdated": "2025-07-26T23:51:48Z"
     }
   },
-  "lastUpdated": "2025-07-28T17:31:44Z",
+  "lastUpdated": "2025-07-28T17:33:47Z",
   "totalUsers": 158,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
