@@ -1697,7 +1697,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 55,
+        "chat": 56,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 4,
@@ -1725,7 +1725,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T19:09:53Z"
+      "lastUpdated": "2025-07-28T19:13:57Z"
     },
     "tawmae": {
       "counters": {
@@ -1833,7 +1833,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 54,
+        "chat": 55,
         "points_spent": 8100,
         "interactive": 1,
         "sub": 23,
@@ -1864,12 +1864,12 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-28T19:09:19Z"
+      "lastUpdated": "2025-07-28T19:18:50Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 319,
+        "chat": 320,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1915,7 +1915,7 @@
         "clip_first",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T19:00:49Z"
+      "lastUpdated": "2025-07-28T19:14:21Z"
     },
     "anzerou": {
       "counters": {
@@ -2154,7 +2154,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 895,
+        "chat": 904,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2209,7 +2209,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-28T19:12:34Z"
+      "lastUpdated": "2025-07-28T19:18:51Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2465,7 +2465,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 17,
+        "chat": 20,
         "sub": 39
       },
       "unlockedAchievements": [
@@ -2485,9 +2485,10 @@
         "sub_diamond",
         "sub_elite",
         "sub_master",
-        "bday2025_support"
+        "bday2025_support",
+        "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T19:13:50Z"
+      "lastUpdated": "2025-07-28T19:14:31Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2686,7 +2687,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 261,
+        "chat": 264,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2702,7 +2703,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-28T19:05:43Z"
+      "lastUpdated": "2025-07-28T19:18:58Z"
     },
     "maximusis_": {
       "counters": {
@@ -3720,7 +3721,7 @@
         "follow": 1,
         "points_spent": 3500,
         "interactive": 7,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3730,7 +3731,7 @@
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T23:50:41Z"
+      "lastUpdated": "2025-07-28T19:18:17Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -4181,15 +4182,16 @@
     "auriaya__": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-28T19:09:38Z"
+      "lastUpdated": "2025-07-28T19:19:21Z"
     },
     "imistorm": {
       "counters": {
@@ -4205,7 +4207,7 @@
       "lastUpdated": "2025-07-26T23:51:48Z"
     }
   },
-  "lastUpdated": "2025-07-28T18:13:50Z",
+  "lastUpdated": "2025-07-28T18:19:22Z",
   "totalUsers": 158,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
