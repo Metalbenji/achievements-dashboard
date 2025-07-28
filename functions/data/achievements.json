@@ -1628,7 +1628,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 75,
+        "chat": 77,
         "follow": 1,
         "sub": 30
       },
@@ -1652,7 +1652,7 @@
         "sub_elite",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T18:23:47Z"
+      "lastUpdated": "2025-07-28T18:27:06Z"
     },
     "scoman07": {
       "counters": {
@@ -1987,7 +1987,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 39
+        "chat": 40
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1997,7 +1997,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T18:26:05Z"
+      "lastUpdated": "2025-07-28T18:27:18Z"
     },
     "spoono__": {
       "counters": {
@@ -2150,7 +2150,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 873,
+        "chat": 876,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2205,7 +2205,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-28T18:25:58Z"
+      "lastUpdated": "2025-07-28T18:26:59Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2226,16 +2226,19 @@
     "ke1fire": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 5,
+        "points_spent": 500,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior",
         "bday2025_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-28T18:26:15Z"
+      "lastUpdated": "2025-07-28T18:27:26Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -2661,7 +2664,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 226,
+        "chat": 230,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2677,7 +2680,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-07-28T18:25:41Z"
+      "lastUpdated": "2025-07-28T18:26:46Z"
     },
     "maximusis_": {
       "counters": {
@@ -4178,7 +4181,7 @@
       "lastUpdated": "2025-07-26T23:51:48Z"
     }
   },
-  "lastUpdated": "2025-07-28T17:26:15Z",
+  "lastUpdated": "2025-07-28T17:27:27Z",
   "totalUsers": 158,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
