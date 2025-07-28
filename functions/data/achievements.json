@@ -1833,8 +1833,8 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 43,
-        "points_spent": 7700,
+        "chat": 45,
+        "points_spent": 8100,
         "interactive": 1,
         "sub": 23,
         "screenshot": 1,
@@ -1864,12 +1864,12 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-28T18:38:53Z"
+      "lastUpdated": "2025-07-28T18:46:13Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 313,
+        "chat": 314,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1914,7 +1914,7 @@
         "chat_dedicated",
         "clip_first"
       ],
-      "lastUpdated": "2025-07-20T14:56:29Z"
+      "lastUpdated": "2025-07-28T18:48:17Z"
     },
     "anzerou": {
       "counters": {
@@ -1987,7 +1987,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 57
+        "chat": 63
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1997,7 +1997,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T18:40:52Z"
+      "lastUpdated": "2025-07-28T18:45:26Z"
     },
     "spoono__": {
       "counters": {
@@ -2150,7 +2150,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 880,
+        "chat": 887,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2205,7 +2205,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-28T18:33:52Z"
+      "lastUpdated": "2025-07-28T18:45:25Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2446,7 +2446,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 23
+        "chat": 24
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2455,7 +2455,7 @@
         "bday2025_attend",
         "night_owl"
       ],
-      "lastUpdated": "2025-07-26T22:49:53Z"
+      "lastUpdated": "2025-07-28T18:48:09Z"
     },
     "gwinniejones": {
       "counters": {
@@ -3425,7 +3425,7 @@
     },
     "hopetusurvive": {
       "counters": {
-        "chat": 12,
+        "chat": 15,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -3435,7 +3435,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:19:55Z"
+      "lastUpdated": "2025-07-28T18:43:02Z"
     },
     "hsdmon": {
       "counters": {
@@ -4185,7 +4185,7 @@
       "lastUpdated": "2025-07-26T23:51:48Z"
     }
   },
-  "lastUpdated": "2025-07-28T17:41:05Z",
+  "lastUpdated": "2025-07-28T17:48:18Z",
   "totalUsers": 158,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
