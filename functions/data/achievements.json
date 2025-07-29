@@ -1585,9 +1585,9 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 342,
-        "points_spent": 38800,
-        "interactive": 9,
+        "chat": 345,
+        "points_spent": 39200,
+        "interactive": 10,
         "follow": 1,
         "sub": 31,
         "effects": 6,
@@ -1622,9 +1622,10 @@
         "gift_starter",
         "bday2025_support",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "interactive_regular"
       ],
-      "lastUpdated": "2025-07-28T19:38:59Z"
+      "lastUpdated": "2025-07-29T09:56:32Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2156,7 +2157,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 933,
+        "chat": 934,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2211,7 +2212,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-29T09:33:30Z"
+      "lastUpdated": "2025-07-29T09:49:59Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2468,7 +2469,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 31,
         "sub": 39
       },
       "unlockedAchievements": [
@@ -2492,7 +2493,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-29T09:48:48Z"
+      "lastUpdated": "2025-07-29T09:56:04Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3301,7 +3302,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3309,7 +3310,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-29T09:49:57Z"
+      "lastUpdated": "2025-07-29T09:50:52Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4241,7 +4242,7 @@
       "lastUpdated": "2025-07-29T09:33:06Z"
     }
   },
-  "lastUpdated": "2025-07-29T08:49:57Z",
+  "lastUpdated": "2025-07-29T08:56:33Z",
   "totalUsers": 161,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
