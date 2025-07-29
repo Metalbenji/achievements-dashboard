@@ -1587,7 +1587,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 351,
+        "chat": 354,
         "points_spent": 39700,
         "interactive": 11,
         "follow": 1,
@@ -1627,7 +1627,7 @@
         "chat_dedicated",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-07-29T12:27:12Z"
+      "lastUpdated": "2025-07-29T12:40:57Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2094,7 +2094,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 99,
+        "chat": 100,
         "sub": 22,
         "points_spent": 350,
         "screenshot": 1
@@ -2117,9 +2117,10 @@
         "sub_platinum",
         "bday2025_support",
         "bday2025_attend",
-        "screenshot_first"
+        "screenshot_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-07-29T11:15:09Z"
+      "lastUpdated": "2025-07-29T12:44:49Z"
     },
     "epik__tv": {
       "counters": {
@@ -4249,17 +4250,17 @@
     "dinshara": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-29T12:27:44Z"
+      "lastUpdated": "2025-07-29T12:30:15Z"
     }
   },
-  "lastUpdated": "2025-07-29T11:27:45Z",
+  "lastUpdated": "2025-07-29T11:44:50Z",
   "totalUsers": 162,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
