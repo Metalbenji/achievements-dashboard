@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 373,
+        "chat": 374,
         "points_spent": 10450,
         "effects": 5,
         "sub": 7,
@@ -1427,7 +1427,7 @@
         "spender_silver",
         "interactive_first"
       ],
-      "lastUpdated": "2025-07-29T11:05:30Z"
+      "lastUpdated": "2025-07-29T11:13:30Z"
     },
     "celran": {
       "counters": {
@@ -2094,7 +2094,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 93,
+        "chat": 99,
         "sub": 22,
         "points_spent": 350,
         "screenshot": 1
@@ -2119,7 +2119,7 @@
         "bday2025_attend",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-07-29T11:04:57Z"
+      "lastUpdated": "2025-07-29T11:15:09Z"
     },
     "epik__tv": {
       "counters": {
@@ -2369,7 +2369,7 @@
         "points_spent": 3100,
         "effects": 7,
         "follow": 1,
-        "chat": 35,
+        "chat": 39,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2390,7 +2390,7 @@
         "gift_bombs_first",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-29T10:00:14Z"
+      "lastUpdated": "2025-07-29T11:14:18Z"
     },
     "s3n71": {
       "counters": {
@@ -2511,7 +2511,7 @@
         "points_spent": 3200,
         "effects": 4,
         "follow": 1,
-        "chat": 72,
+        "chat": 73,
         "sub": 24
       },
       "unlockedAchievements": [
@@ -2533,7 +2533,7 @@
         "sub_tier1",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-07-29T11:04:28Z"
+      "lastUpdated": "2025-07-29T11:05:41Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -2785,7 +2785,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 93,
+        "chat": 100,
         "sub": 40
       },
       "unlockedAchievements": [
@@ -2806,9 +2806,10 @@
         "chat_talker",
         "bday2025_attend",
         "chat_conversationalist",
-        "night_owl"
+        "night_owl",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-07-29T11:04:51Z"
+      "lastUpdated": "2025-07-29T11:51:33Z"
     },
     "majesty81": {
       "counters": {
@@ -3645,7 +3646,7 @@
       "counters": {
         "points_spent": 15506,
         "special_rewards": 1,
-        "chat": 39,
+        "chat": 40,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -3671,7 +3672,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-29T09:10:17Z"
+      "lastUpdated": "2025-07-29T11:42:27Z"
     },
     "xykojen": {
       "counters": {
@@ -4246,7 +4247,7 @@
       "lastUpdated": "2025-07-29T09:33:06Z"
     }
   },
-  "lastUpdated": "2025-07-29T10:05:31Z",
+  "lastUpdated": "2025-07-29T10:51:34Z",
   "totalUsers": 161,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
