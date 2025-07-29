@@ -2468,7 +2468,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 28,
         "sub": 39
       },
       "unlockedAchievements": [
@@ -2492,7 +2492,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-29T09:46:02Z"
+      "lastUpdated": "2025-07-29T09:48:13Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3301,13 +3301,14 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-06T13:30:20Z"
+      "lastUpdated": "2025-07-29T09:48:37Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4239,7 +4240,7 @@
       "lastUpdated": "2025-07-29T09:33:06Z"
     }
   },
-  "lastUpdated": "2025-07-29T08:46:02Z",
+  "lastUpdated": "2025-07-29T08:48:37Z",
   "totalUsers": 161,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
