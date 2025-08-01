@@ -1962,7 +1962,7 @@
       "counters": {
         "follow": 1,
         "chat": 128,
-        "points_spent": 9553,
+        "points_spent": 10053,
         "interactive": 8,
         "effects": 6,
         "sub": 22,
@@ -1991,9 +1991,10 @@
         "bday2025_support",
         "emperor_loyal",
         "chat_regular",
-        "sound_first"
+        "sound_first",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-07-29T10:32:30Z"
+      "lastUpdated": "2025-08-01T20:46:56Z"
     },
     "redunt86": {
       "counters": {
@@ -2167,7 +2168,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 945,
+        "chat": 946,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2222,7 +2223,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-08-01T20:31:00Z"
+      "lastUpdated": "2025-08-01T20:45:41Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3656,7 +3657,7 @@
       "counters": {
         "points_spent": 15506,
         "special_rewards": 1,
-        "chat": 42,
+        "chat": 43,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -3682,7 +3683,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-01T20:39:28Z"
+      "lastUpdated": "2025-08-01T20:45:01Z"
     },
     "xykojen": {
       "counters": {
@@ -4270,15 +4271,15 @@
     },
     "anunepicname": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-01T20:43:31Z"
+      "lastUpdated": "2025-08-01T20:44:42Z"
     }
   },
-  "lastUpdated": "2025-08-01T19:43:32Z",
+  "lastUpdated": "2025-08-01T19:46:56Z",
   "totalUsers": 163,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
