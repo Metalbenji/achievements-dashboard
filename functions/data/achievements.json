@@ -1343,7 +1343,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 68,
+        "chat": 75,
         "points_spent": 18300,
         "follow": 1,
         "sub": 13
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-28T18:23:37Z"
+      "lastUpdated": "2025-08-01T19:02:56Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1587,7 +1587,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 354,
+        "chat": 358,
         "points_spent": 39700,
         "interactive": 11,
         "follow": 1,
@@ -1627,7 +1627,7 @@
         "chat_dedicated",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-07-29T12:40:57Z"
+      "lastUpdated": "2025-07-29T13:13:19Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2030,7 +2030,7 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 16350,
+        "points_spent": 16850,
         "follow": 1,
         "chat": 136,
         "effects": 17,
@@ -2039,7 +2039,8 @@
         "bits": 200,
         "raid": 5,
         "sub": 34,
-        "gift_subs": 2
+        "gift_subs": 2,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2074,9 +2075,10 @@
         "raid_tier2_seasoned",
         "gift_starter",
         "chat_regular",
-        "gift_kind"
+        "gift_kind",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-26T21:54:40Z"
+      "lastUpdated": "2025-08-01T19:02:59Z"
     },
     "syn__________": {
       "counters": {
@@ -2094,7 +2096,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 104,
         "sub": 22,
         "points_spent": 350,
         "screenshot": 1
@@ -2120,7 +2122,7 @@
         "screenshot_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-29T12:44:49Z"
+      "lastUpdated": "2025-07-29T13:13:42Z"
     },
     "epik__tv": {
       "counters": {
@@ -2512,7 +2514,7 @@
         "points_spent": 3200,
         "effects": 4,
         "follow": 1,
-        "chat": 78,
+        "chat": 79,
         "sub": 24
       },
       "unlockedAchievements": [
@@ -2534,7 +2536,7 @@
         "sub_tier1",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-07-29T12:24:51Z"
+      "lastUpdated": "2025-07-29T12:53:46Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -4260,7 +4262,7 @@
       "lastUpdated": "2025-07-29T12:30:15Z"
     }
   },
-  "lastUpdated": "2025-07-29T11:44:50Z",
+  "lastUpdated": "2025-08-01T18:03:00Z",
   "totalUsers": 162,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
