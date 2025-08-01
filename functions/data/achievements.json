@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 374,
+        "chat": 377,
         "points_spent": 10450,
         "effects": 5,
         "sub": 7,
@@ -1427,7 +1427,7 @@
         "spender_silver",
         "interactive_first"
       ],
-      "lastUpdated": "2025-07-29T11:13:30Z"
+      "lastUpdated": "2025-08-01T20:16:26Z"
     },
     "celran": {
       "counters": {
@@ -1496,12 +1496,13 @@
     "miromaaldis": {
       "counters": {
         "chat": 53,
-        "points_spent": 6800,
+        "points_spent": 7200,
         "effects": 5,
         "follow": 1,
         "sub": 26,
         "sounds": 3,
-        "screenshot": 2
+        "screenshot": 2,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1524,9 +1525,10 @@
         "sub_diamond",
         "bday2025_attend",
         "sound_first",
-        "screenshot_first"
+        "screenshot_first",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-29T12:23:29Z"
+      "lastUpdated": "2025-08-01T20:18:24Z"
     },
     "ramdon101": {
       "counters": {
@@ -1633,7 +1635,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 81,
+        "chat": 82,
         "follow": 1,
         "sub": 30
       },
@@ -1657,7 +1659,7 @@
         "sub_elite",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T21:15:10Z"
+      "lastUpdated": "2025-08-01T20:07:07Z"
     },
     "scoman07": {
       "counters": {
@@ -1839,7 +1841,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 74,
+        "chat": 81,
         "points_spent": 8550,
         "interactive": 1,
         "sub": 23,
@@ -1870,7 +1872,7 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-01T19:55:32Z"
+      "lastUpdated": "2025-08-01T20:14:46Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2099,7 +2101,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 104,
+        "chat": 105,
         "sub": 22,
         "points_spent": 350,
         "screenshot": 1
@@ -2125,7 +2127,7 @@
         "screenshot_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-07-29T13:13:42Z"
+      "lastUpdated": "2025-08-01T19:59:35Z"
     },
     "epik__tv": {
       "counters": {
@@ -2165,7 +2167,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 938,
+        "chat": 940,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2220,7 +2222,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-08-01T19:55:15Z"
+      "lastUpdated": "2025-08-01T20:14:13Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2323,7 +2325,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 26
+        "chat": 27
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2334,7 +2336,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-26T19:00:57Z"
+      "lastUpdated": "2025-08-01T20:06:57Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3595,7 +3597,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 18,
+        "chat": 24,
         "points_spent": 500,
         "effects": 1
       },
@@ -3608,7 +3610,7 @@
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T22:44:31Z"
+      "lastUpdated": "2025-08-01T20:00:59Z"
     },
     "saluda777": {
       "counters": {
@@ -3654,7 +3656,7 @@
       "counters": {
         "points_spent": 15506,
         "special_rewards": 1,
-        "chat": 40,
+        "chat": 41,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -3680,7 +3682,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2025-07-29T11:42:27Z"
+      "lastUpdated": "2025-08-01T20:12:48Z"
     },
     "xykojen": {
       "counters": {
@@ -4267,7 +4269,7 @@
       "lastUpdated": "2025-07-29T12:30:15Z"
     }
   },
-  "lastUpdated": "2025-08-01T18:58:34Z",
+  "lastUpdated": "2025-08-01T19:18:24Z",
   "totalUsers": 162,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
