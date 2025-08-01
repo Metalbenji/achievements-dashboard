@@ -1343,7 +1343,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 75,
+        "chat": 76,
         "points_spent": 18300,
         "follow": 1,
         "sub": 13
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-01T19:02:56Z"
+      "lastUpdated": "2025-08-01T19:10:05Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1530,8 +1530,8 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 369,
-        "points_spent": 24150,
+        "chat": 370,
+        "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
         "sub": 43,
@@ -1539,7 +1539,8 @@
         "effects": 4,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 126,
-        "largest_gift_bomb": 116
+        "largest_gift_bomb": 116,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1581,9 +1582,10 @@
         "bday2025_support",
         "spender_silver",
         "gift_bombs_regular",
-        "chat_dedicated"
+        "chat_dedicated",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-07-28T19:32:01Z"
+      "lastUpdated": "2025-08-01T19:10:09Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1700,7 +1702,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 56,
+        "chat": 59,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 4,
@@ -1728,7 +1730,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T19:13:57Z"
+      "lastUpdated": "2025-08-01T19:09:50Z"
     },
     "tawmae": {
       "counters": {
@@ -2030,9 +2032,9 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 16850,
+        "points_spent": 17350,
         "follow": 1,
-        "chat": 136,
+        "chat": 138,
         "effects": 17,
         "screenshot": 1,
         "sounds": 4,
@@ -2040,7 +2042,7 @@
         "raid": 5,
         "sub": 34,
         "gift_subs": 2,
-        "interactive": 1
+        "interactive": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2078,7 +2080,7 @@
         "gift_kind",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-01T19:02:59Z"
+      "lastUpdated": "2025-08-01T19:10:08Z"
     },
     "syn__________": {
       "counters": {
@@ -4262,7 +4264,7 @@
       "lastUpdated": "2025-07-29T12:30:15Z"
     }
   },
-  "lastUpdated": "2025-08-01T18:03:00Z",
+  "lastUpdated": "2025-08-01T18:10:10Z",
   "totalUsers": 162,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
