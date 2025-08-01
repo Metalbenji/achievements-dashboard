@@ -1530,7 +1530,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 371,
+        "chat": 374,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1585,7 +1585,7 @@
         "chat_dedicated",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-01T19:10:57Z"
+      "lastUpdated": "2025-08-01T19:35:29Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1781,7 +1781,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1795,9 +1795,10 @@
         "gift_bomb_10",
         "gift_bombs_first",
         "bday2025_support",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-28T20:45:21Z"
+      "lastUpdated": "2025-08-01T19:58:34Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -1838,7 +1839,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 66,
+        "chat": 74,
         "points_spent": 8550,
         "interactive": 1,
         "sub": 23,
@@ -1869,7 +1870,7 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-01T19:10:47Z"
+      "lastUpdated": "2025-08-01T19:55:32Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2032,10 +2033,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 17350,
+        "points_spent": 17650,
         "follow": 1,
-        "chat": 139,
-        "effects": 17,
+        "chat": 142,
+        "effects": 18,
         "screenshot": 1,
         "sounds": 4,
         "bits": 200,
@@ -2080,7 +2081,7 @@
         "gift_kind",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-01T19:10:22Z"
+      "lastUpdated": "2025-08-01T19:23:19Z"
     },
     "syn__________": {
       "counters": {
@@ -2164,7 +2165,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 934,
+        "chat": 938,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2219,7 +2220,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-07-29T09:49:59Z"
+      "lastUpdated": "2025-08-01T19:55:15Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2285,7 +2286,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 45,
+        "chat": 46,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2297,7 +2298,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T20:00:28Z"
+      "lastUpdated": "2025-08-01T19:15:05Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2593,10 +2594,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 200,
-        "points_spent": 3250,
+        "chat": 212,
+        "points_spent": 4150,
         "sounds": 1,
-        "effects": 7,
+        "effects": 8,
         "sub": 40,
         "bits": 2000,
         "raid": 2,
@@ -2651,7 +2652,7 @@
         "sub_tier2",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-01T19:11:46Z"
+      "lastUpdated": "2025-08-01T19:50:31Z"
     },
     "andilippi": {
       "counters": {
@@ -3249,7 +3250,7 @@
       "counters": {
         "sub": 30,
         "follow": 1,
-        "chat": 12
+        "chat": 14
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3267,7 +3268,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-20T14:24:28Z"
+      "lastUpdated": "2025-08-01T19:52:19Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -4266,7 +4267,7 @@
       "lastUpdated": "2025-07-29T12:30:15Z"
     }
   },
-  "lastUpdated": "2025-08-01T18:11:46Z",
+  "lastUpdated": "2025-08-01T18:58:34Z",
   "totalUsers": 162,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
