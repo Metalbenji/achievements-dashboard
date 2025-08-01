@@ -1702,7 +1702,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 59,
+        "chat": 60,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 4,
@@ -1730,7 +1730,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-01T19:09:50Z"
+      "lastUpdated": "2025-08-01T19:10:14Z"
     },
     "tawmae": {
       "counters": {
@@ -1838,8 +1838,8 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 64,
-        "points_spent": 8100,
+        "chat": 66,
+        "points_spent": 8550,
         "interactive": 1,
         "sub": 23,
         "screenshot": 1,
@@ -1869,7 +1869,7 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-28T20:09:00Z"
+      "lastUpdated": "2025-08-01T19:10:47Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2034,7 +2034,7 @@
       "counters": {
         "points_spent": 17350,
         "follow": 1,
-        "chat": 138,
+        "chat": 139,
         "effects": 17,
         "screenshot": 1,
         "sounds": 4,
@@ -2080,7 +2080,7 @@
         "gift_kind",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-01T19:10:08Z"
+      "lastUpdated": "2025-08-01T19:10:22Z"
     },
     "syn__________": {
       "counters": {
@@ -2593,7 +2593,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 198,
+        "chat": 199,
         "points_spent": 3250,
         "sounds": 1,
         "effects": 7,
@@ -2649,7 +2649,7 @@
         "chat_regular",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-07-29T12:08:33Z"
+      "lastUpdated": "2025-08-01T19:10:25Z"
     },
     "andilippi": {
       "counters": {
@@ -4264,7 +4264,7 @@
       "lastUpdated": "2025-07-29T12:30:15Z"
     }
   },
-  "lastUpdated": "2025-08-01T18:10:10Z",
+  "lastUpdated": "2025-08-01T18:10:50Z",
   "totalUsers": 162,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
