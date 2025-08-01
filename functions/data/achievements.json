@@ -1343,7 +1343,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 76,
+        "chat": 77,
         "points_spent": 18300,
         "follow": 1,
         "sub": 13
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-01T19:10:05Z"
+      "lastUpdated": "2025-08-01T19:11:37Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1530,7 +1530,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 370,
+        "chat": 371,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1585,7 +1585,7 @@
         "chat_dedicated",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-01T19:10:09Z"
+      "lastUpdated": "2025-08-01T19:10:57Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2593,11 +2593,11 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "points_spent": 3250,
         "sounds": 1,
         "effects": 7,
-        "sub": 39,
+        "sub": 40,
         "bits": 2000,
         "raid": 2,
         "gift_bombs": 5,
@@ -2647,9 +2647,11 @@
         "gift_bombs_regular",
         "bday2025_support",
         "chat_regular",
-        "gift_bombs_veteran"
+        "gift_bombs_veteran",
+        "sub_tier2",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-08-01T19:10:25Z"
+      "lastUpdated": "2025-08-01T19:11:46Z"
     },
     "andilippi": {
       "counters": {
@@ -4264,7 +4266,7 @@
       "lastUpdated": "2025-07-29T12:30:15Z"
     }
   },
-  "lastUpdated": "2025-08-01T18:10:50Z",
+  "lastUpdated": "2025-08-01T18:11:46Z",
   "totalUsers": 162,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
