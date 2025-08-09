@@ -4422,15 +4422,19 @@
     },
     "sevgaming92": {
       "counters": {
-        "points_spent": 2000
+        "points_spent": 2000,
+        "effects": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-08-09T17:57:57Z"
+      "lastUpdated": "2025-08-09T17:58:16Z"
     }
   },
-  "lastUpdated": "2025-08-09T16:57:57Z",
+  "lastUpdated": "2025-08-09T16:58:16Z",
   "totalUsers": 174,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
