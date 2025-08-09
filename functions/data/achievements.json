@@ -2134,7 +2134,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 38,
+        "chat": 39,
         "points_spent": 1950,
         "sounds": 2,
         "effects": 1,
@@ -2164,7 +2164,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T13:51:33Z"
+      "lastUpdated": "2025-08-09T14:08:38Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4251,14 +4251,15 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-09T14:08:08Z"
+      "lastUpdated": "2025-08-09T14:11:10Z"
     },
     "dinshara": {
       "counters": {
@@ -4344,7 +4345,7 @@
       "lastUpdated": "2025-08-09T13:53:36Z"
     }
   },
-  "lastUpdated": "2025-08-09T13:08:10Z",
+  "lastUpdated": "2025-08-09T13:11:10Z",
   "totalUsers": 169,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
