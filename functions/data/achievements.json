@@ -4374,15 +4374,17 @@
     },
     "richtea1978": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-09T15:28:18Z"
+      "lastUpdated": "2025-08-09T15:28:20Z"
     }
   },
-  "lastUpdated": "2025-08-09T14:28:18Z",
+  "lastUpdated": "2025-08-09T14:28:21Z",
   "totalUsers": 172,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
