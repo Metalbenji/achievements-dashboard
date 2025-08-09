@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 77,
+        "chat": 78,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2171,7 +2171,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T17:55:11Z"
+      "lastUpdated": "2025-08-09T17:56:27Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4410,7 +4410,7 @@
     },
     "chillconfirmed5": {
       "counters": {
-        "chat": 8,
+        "chat": 9,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -4418,11 +4418,20 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-09T17:56:06Z"
+      "lastUpdated": "2025-08-09T17:57:49Z"
+    },
+    "sevgaming92": {
+      "counters": {
+        "points_spent": 2000
+      },
+      "unlockedAchievements": [
+        "spender_bronze"
+      ],
+      "lastUpdated": "2025-08-09T17:57:57Z"
     }
   },
-  "lastUpdated": "2025-08-09T16:56:13Z",
-  "totalUsers": 173,
+  "lastUpdated": "2025-08-09T16:57:57Z",
+  "totalUsers": 174,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
