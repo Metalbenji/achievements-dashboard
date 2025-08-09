@@ -1343,7 +1343,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 81,
+        "chat": 83,
         "points_spent": 22700,
         "follow": 1,
         "sub": 13
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-09T13:22:59Z"
+      "lastUpdated": "2025-08-09T13:27:57Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2168,7 +2168,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 966,
+        "chat": 967,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2223,7 +2223,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-08-09T13:24:16Z"
+      "lastUpdated": "2025-08-09T13:25:16Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2972,7 +2972,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 51,
+        "chat": 52,
         "follow": 1,
         "points_spent": 1500,
         "sounds": 1,
@@ -2990,7 +2990,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-07-29T12:25:48Z"
+      "lastUpdated": "2025-08-09T13:25:57Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4310,16 +4310,17 @@
     "ewoksareninjas": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-09T13:25:10Z"
+      "lastUpdated": "2025-08-09T13:28:17Z"
     }
   },
-  "lastUpdated": "2025-08-09T12:25:10Z",
+  "lastUpdated": "2025-08-09T12:28:18Z",
   "totalUsers": 167,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
