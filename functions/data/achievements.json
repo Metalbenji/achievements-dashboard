@@ -1343,7 +1343,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 87,
+        "chat": 88,
         "points_spent": 22700,
         "follow": 1,
         "sub": 13
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-09T14:04:31Z"
+      "lastUpdated": "2025-08-09T14:11:51Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2169,7 +2169,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 997,
+        "chat": 998,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2224,7 +2224,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-08-09T14:00:35Z"
+      "lastUpdated": "2025-08-09T14:13:44Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2379,7 +2379,7 @@
         "points_spent": 3450,
         "effects": 8,
         "follow": 1,
-        "chat": 40,
+        "chat": 45,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2400,7 +2400,7 @@
         "gift_bombs_first",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-08-09T14:00:06Z"
+      "lastUpdated": "2025-08-09T14:13:45Z"
     },
     "s3n71": {
       "counters": {
@@ -4251,7 +4251,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4259,7 +4259,7 @@
         "weekend_warrior",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-09T14:11:10Z"
+      "lastUpdated": "2025-08-09T14:15:42Z"
     },
     "dinshara": {
       "counters": {
@@ -4343,10 +4343,19 @@
         "effect_first"
       ],
       "lastUpdated": "2025-08-09T13:53:36Z"
+    },
+    "rejuv": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-09T14:16:21Z"
     }
   },
-  "lastUpdated": "2025-08-09T13:11:10Z",
-  "totalUsers": 169,
+  "lastUpdated": "2025-08-09T13:16:21Z",
+  "totalUsers": 170,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
