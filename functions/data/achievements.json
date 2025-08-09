@@ -1842,7 +1842,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 102,
         "points_spent": 8550,
         "interactive": 1,
         "sub": 23,
@@ -1874,7 +1874,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-09T14:33:04Z"
+      "lastUpdated": "2025-08-09T14:36:34Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2135,7 +2135,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 39,
+        "chat": 40,
         "points_spent": 1950,
         "sounds": 2,
         "effects": 1,
@@ -2165,7 +2165,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T14:08:38Z"
+      "lastUpdated": "2025-08-09T14:34:48Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4359,7 +4359,7 @@
       "lastUpdated": "2025-08-09T14:26:46Z"
     }
   },
-  "lastUpdated": "2025-08-09T13:33:05Z",
+  "lastUpdated": "2025-08-09T13:37:19Z",
   "totalUsers": 170,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
