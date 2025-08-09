@@ -1343,7 +1343,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 83,
+        "chat": 85,
         "points_spent": 22700,
         "follow": 1,
         "sub": 13
@@ -1367,7 +1367,7 @@
         "bday2025_attend",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-09T13:27:57Z"
+      "lastUpdated": "2025-08-09T13:28:52Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1532,7 +1532,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 407,
+        "chat": 408,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1587,7 +1587,7 @@
         "chat_dedicated",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T13:24:27Z"
+      "lastUpdated": "2025-08-09T13:28:43Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -4318,10 +4318,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-08-09T13:28:17Z"
+    },
+    "jangerbox": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-09T13:30:11Z"
     }
   },
-  "lastUpdated": "2025-08-09T12:28:18Z",
-  "totalUsers": 167,
+  "lastUpdated": "2025-08-09T12:30:12Z",
+  "totalUsers": 168,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
