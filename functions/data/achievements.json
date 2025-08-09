@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 78,
+        "chat": 79,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2171,7 +2171,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T17:56:27Z"
+      "lastUpdated": "2025-08-09T17:58:54Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4411,15 +4411,18 @@
     "chillconfirmed5": {
       "counters": {
         "chat": 10,
-        "follow": 1
+        "follow": 1,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-09T17:58:37Z"
+      "lastUpdated": "2025-08-09T18:00:10Z"
     },
     "sevgaming92": {
       "counters": {
@@ -4437,7 +4440,7 @@
       "lastUpdated": "2025-08-09T17:58:19Z"
     }
   },
-  "lastUpdated": "2025-08-09T16:58:38Z",
+  "lastUpdated": "2025-08-09T17:00:11Z",
   "totalUsers": 174,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
