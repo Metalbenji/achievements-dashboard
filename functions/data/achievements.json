@@ -1388,7 +1388,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 435,
+        "chat": 442,
         "points_spent": 10850,
         "effects": 5,
         "sub": 7,
@@ -1428,7 +1428,7 @@
         "spender_silver",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T15:54:13Z"
+      "lastUpdated": "2025-08-09T16:46:24Z"
     },
     "celran": {
       "counters": {
@@ -1639,7 +1639,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 101,
+        "chat": 102,
         "follow": 1,
         "sub": 30
       },
@@ -1664,7 +1664,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-09T15:44:31Z"
+      "lastUpdated": "2025-08-09T16:31:57Z"
     },
     "scoman07": {
       "counters": {
@@ -2139,7 +2139,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 58,
         "points_spent": 1950,
         "sounds": 2,
         "effects": 1,
@@ -2169,7 +2169,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T16:07:29Z"
+      "lastUpdated": "2025-08-09T16:47:20Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2313,7 +2313,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 45,
+        "chat": 50,
         "points_spent": 2950,
         "interactive": 1
       },
@@ -2328,7 +2328,7 @@
         "interactive_first",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-09T15:53:18Z"
+      "lastUpdated": "2025-08-09T16:23:35Z"
     },
     "qyainiana": {
       "counters": {
@@ -3627,7 +3627,7 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 69
+        "chat": 71
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3637,7 +3637,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-09T16:20:14Z"
+      "lastUpdated": "2025-08-09T16:23:00Z"
     },
     "neburgy": {
       "counters": {
@@ -4382,7 +4382,7 @@
     "richtea1978": {
       "counters": {
         "follow": 1,
-        "chat": 13,
+        "chat": 25,
         "sub": 26
       },
       "unlockedAchievements": [
@@ -4399,12 +4399,13 @@
         "sub_platinum",
         "sub_diamond",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-09T16:19:45Z"
+      "lastUpdated": "2025-08-09T16:49:03Z"
     }
   },
-  "lastUpdated": "2025-08-09T15:21:12Z",
+  "lastUpdated": "2025-08-09T15:49:03Z",
   "totalUsers": 172,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
