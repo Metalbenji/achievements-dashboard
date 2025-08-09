@@ -4408,15 +4408,17 @@
     },
     "chillconfirmed5": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-08-09T17:50:28Z"
+      "lastUpdated": "2025-08-09T17:50:29Z"
     }
   },
-  "lastUpdated": "2025-08-09T16:50:28Z",
+  "lastUpdated": "2025-08-09T16:50:30Z",
   "totalUsers": 173,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
