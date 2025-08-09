@@ -4346,15 +4346,17 @@
     },
     "rejuv": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-09T14:16:21Z"
+      "lastUpdated": "2025-08-09T14:16:22Z"
     }
   },
-  "lastUpdated": "2025-08-09T13:16:21Z",
+  "lastUpdated": "2025-08-09T13:16:22Z",
   "totalUsers": 170,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
