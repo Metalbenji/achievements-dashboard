@@ -1532,7 +1532,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 408,
+        "chat": 414,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1587,15 +1587,15 @@
         "chat_dedicated",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T13:28:43Z"
+      "lastUpdated": "2025-08-09T13:53:30Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 376,
+        "chat": 378,
         "points_spent": 39700,
         "interactive": 11,
         "follow": 1,
-        "sub": 31,
+        "sub": 32,
         "effects": 6,
         "sounds": 1,
         "gift_subs": 1
@@ -1629,9 +1629,10 @@
         "bday2025_support",
         "chat_frequent",
         "chat_dedicated",
-        "interactive_regular"
+        "interactive_regular",
+        "sub_tier1"
       ],
-      "lastUpdated": "2025-08-09T13:43:48Z"
+      "lastUpdated": "2025-08-09T13:46:00Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2133,7 +2134,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 35,
+        "chat": 38,
         "points_spent": 1950,
         "sounds": 2,
         "effects": 1,
@@ -2163,12 +2164,12 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T13:35:34Z"
+      "lastUpdated": "2025-08-09T13:51:33Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 976,
+        "chat": 989,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2223,7 +2224,7 @@
         "gift_bombs_regular",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-08-09T13:40:04Z"
+      "lastUpdated": "2025-08-09T13:53:30Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2289,7 +2290,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 69,
+        "chat": 78,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2301,7 +2302,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-09T13:24:36Z"
+      "lastUpdated": "2025-08-09T13:53:08Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2766,7 +2767,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 30,
+        "chat": 33,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2778,7 +2779,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T10:51:37Z"
+      "lastUpdated": "2025-08-09T13:48:24Z"
     },
     "justflip": {
       "counters": {
@@ -4310,14 +4311,14 @@
     "ewoksareninjas": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-09T13:28:17Z"
+      "lastUpdated": "2025-08-09T13:47:29Z"
     },
     "jangerbox": {
       "counters": {
@@ -4329,10 +4330,20 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-09T13:30:19Z"
+    },
+    "biscuitbutler": {
+      "counters": {
+        "points_spent": 350,
+        "effects": 1
+      },
+      "unlockedAchievements": [
+        "effect_first"
+      ],
+      "lastUpdated": "2025-08-09T13:53:36Z"
     }
   },
-  "lastUpdated": "2025-08-09T12:44:12Z",
-  "totalUsers": 168,
+  "lastUpdated": "2025-08-09T12:53:36Z",
+  "totalUsers": 169,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
