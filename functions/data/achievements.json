@@ -1533,7 +1533,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 437,
+        "chat": 440,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1590,7 +1590,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-09T16:05:54Z"
+      "lastUpdated": "2025-08-09T16:08:08Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2139,7 +2139,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 47,
+        "chat": 48,
         "points_spent": 1950,
         "sounds": 2,
         "effects": 1,
@@ -2169,7 +2169,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T15:54:32Z"
+      "lastUpdated": "2025-08-09T16:07:29Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2411,7 +2411,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 96,
+        "chat": 100,
         "sub": 33,
         "points_spent": 17101,
         "interactive": 1,
@@ -2457,9 +2457,10 @@
         "gift_bomb_40",
         "gift_bomb_50",
         "gift_bombs_first",
-        "effect_first"
+        "effect_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-09T16:04:57Z"
+      "lastUpdated": "2025-08-09T16:21:12Z"
     },
     "umenneske94": {
       "counters": {
@@ -3626,7 +3627,7 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 59
+        "chat": 69
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3636,7 +3637,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-09T16:07:05Z"
+      "lastUpdated": "2025-08-09T16:20:14Z"
     },
     "neburgy": {
       "counters": {
@@ -4216,7 +4217,7 @@
     "auriaya__": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4226,7 +4227,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-09T16:07:05Z"
+      "lastUpdated": "2025-08-09T16:18:13Z"
     },
     "imistorm": {
       "counters": {
@@ -4381,7 +4382,7 @@
     "richtea1978": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 13,
         "sub": 26
       },
       "unlockedAchievements": [
@@ -4400,10 +4401,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-09T16:07:06Z"
+      "lastUpdated": "2025-08-09T16:19:45Z"
     }
   },
-  "lastUpdated": "2025-08-09T15:07:07Z",
+  "lastUpdated": "2025-08-09T15:21:12Z",
   "totalUsers": 172,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
