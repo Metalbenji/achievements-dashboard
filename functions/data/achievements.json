@@ -1533,7 +1533,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 430,
+        "chat": 431,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1588,7 +1588,7 @@
         "chat_dedicated",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T15:39:59Z"
+      "lastUpdated": "2025-08-09T15:42:13Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1637,7 +1637,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 98,
+        "chat": 99,
         "follow": 1,
         "sub": 30
       },
@@ -1661,7 +1661,7 @@
         "sub_elite",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-09T15:01:42Z"
+      "lastUpdated": "2025-08-09T15:42:22Z"
     },
     "scoman07": {
       "counters": {
@@ -2800,7 +2800,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 130,
+        "chat": 131,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2825,7 +2825,7 @@
         "chat_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-09T15:39:41Z"
+      "lastUpdated": "2025-08-09T15:42:04Z"
     },
     "majesty81": {
       "counters": {
@@ -4211,16 +4211,17 @@
     "auriaya__": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior",
         "bday2025_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-09T15:04:19Z"
+      "lastUpdated": "2025-08-09T15:43:01Z"
     },
     "imistorm": {
       "counters": {
@@ -4375,16 +4376,27 @@
     "richtea1978": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2,
+        "sub": 26
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond"
       ],
-      "lastUpdated": "2025-08-09T15:28:20Z"
+      "lastUpdated": "2025-08-09T15:42:43Z"
     }
   },
-  "lastUpdated": "2025-08-09T14:40:16Z",
+  "lastUpdated": "2025-08-09T14:43:02Z",
   "totalUsers": 172,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
