@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 88,
+        "chat": 89,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1339,7 +1339,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-09T17:47:47Z"
+      "lastUpdated": "2025-08-09T17:55:01Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 76,
+        "chat": 77,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2171,7 +2171,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T17:53:14Z"
+      "lastUpdated": "2025-08-09T17:55:11Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2316,8 +2316,9 @@
       "counters": {
         "follow": 1,
         "chat": 50,
-        "points_spent": 2950,
-        "interactive": 1
+        "points_spent": 3450,
+        "interactive": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2328,9 +2329,10 @@
         "emperor_loyal",
         "chat_conversationalist",
         "interactive_first",
-        "bday2025_attend"
+        "bday2025_attend",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-09T16:23:35Z"
+      "lastUpdated": "2025-08-09T17:56:13Z"
     },
     "qyainiana": {
       "counters": {
@@ -2477,7 +2479,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 31
+        "chat": 32
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2487,7 +2489,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-09T17:18:18Z"
+      "lastUpdated": "2025-08-09T17:54:51Z"
     },
     "gwinniejones": {
       "counters": {
@@ -4408,7 +4410,7 @@
     },
     "chillconfirmed5": {
       "counters": {
-        "chat": 5,
+        "chat": 8,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -4416,10 +4418,10 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-09T17:53:49Z"
+      "lastUpdated": "2025-08-09T17:56:06Z"
     }
   },
-  "lastUpdated": "2025-08-09T16:53:49Z",
+  "lastUpdated": "2025-08-09T16:56:13Z",
   "totalUsers": 173,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
