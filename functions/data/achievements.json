@@ -4309,15 +4309,17 @@
     },
     "ewoksareninjas": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-09T13:25:09Z"
+      "lastUpdated": "2025-08-09T13:25:10Z"
     }
   },
-  "lastUpdated": "2025-08-09T12:25:09Z",
+  "lastUpdated": "2025-08-09T12:25:10Z",
   "totalUsers": 167,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
