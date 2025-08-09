@@ -1637,7 +1637,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 99,
+        "chat": 100,
         "follow": 1,
         "sub": 30
       },
@@ -1659,9 +1659,10 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-09T15:42:22Z"
+      "lastUpdated": "2025-08-09T15:43:07Z"
     },
     "scoman07": {
       "counters": {
@@ -4376,7 +4377,7 @@
     "richtea1978": {
       "counters": {
         "follow": 1,
-        "chat": 2,
+        "chat": 3,
         "sub": 26
       },
       "unlockedAchievements": [
@@ -4393,10 +4394,10 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-09T15:42:43Z"
+      "lastUpdated": "2025-08-09T15:43:03Z"
     }
   },
-  "lastUpdated": "2025-08-09T14:43:02Z",
+  "lastUpdated": "2025-08-09T14:43:08Z",
   "totalUsers": 172,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
