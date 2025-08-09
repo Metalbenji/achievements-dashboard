@@ -1387,7 +1387,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 410,
+        "chat": 411,
         "points_spent": 10450,
         "effects": 5,
         "sub": 7,
@@ -1427,7 +1427,7 @@
         "spender_silver",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T14:24:30Z"
+      "lastUpdated": "2025-08-09T14:24:56Z"
     },
     "celran": {
       "counters": {
@@ -1842,7 +1842,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 96,
+        "chat": 100,
         "points_spent": 8550,
         "interactive": 1,
         "sub": 23,
@@ -1871,9 +1871,10 @@
         "bday2025_attend",
         "screenshot_first",
         "sound_first",
-        "effect_first"
+        "effect_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-01T21:52:47Z"
+      "lastUpdated": "2025-08-09T14:33:04Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2169,7 +2170,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1000,
+        "chat": 1003,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2225,7 +2226,7 @@
         "bday2025_support",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-09T14:24:38Z"
+      "lastUpdated": "2025-08-09T14:32:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4348,17 +4349,17 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-09T14:21:18Z"
+      "lastUpdated": "2025-08-09T14:26:46Z"
     }
   },
-  "lastUpdated": "2025-08-09T13:24:39Z",
+  "lastUpdated": "2025-08-09T13:33:05Z",
   "totalUsers": 170,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
