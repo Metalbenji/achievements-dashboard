@@ -4491,16 +4491,18 @@
     },
     "sqwejly_": {
       "counters": {
-        "chat": 5
+        "chat": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-08-10T10:58:31Z"
+      "lastUpdated": "2025-08-10T10:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:58:32Z",
+  "lastUpdated": "2025-08-10T09:58:57Z",
   "totalUsers": 178,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
