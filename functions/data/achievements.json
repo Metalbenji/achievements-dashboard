@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 101,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2172,7 +2172,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-10T10:55:46Z"
+      "lastUpdated": "2025-08-10T10:56:59Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2299,7 +2299,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 104,
+        "chat": 105,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2312,7 +2312,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-10T10:55:05Z"
+      "lastUpdated": "2025-08-10T10:57:21Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4491,15 +4491,16 @@
     },
     "sqwejly_": {
       "counters": {
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-10T10:55:37Z"
+      "lastUpdated": "2025-08-10T10:58:31Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:55:47Z",
+  "lastUpdated": "2025-08-10T09:58:32Z",
   "totalUsers": 178,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
