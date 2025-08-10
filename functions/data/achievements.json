@@ -2499,7 +2499,8 @@
         "follow": 1,
         "chat": 73,
         "sub": 39,
-        "points_spent": 20000
+        "points_spent": 20000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2521,9 +2522,11 @@
         "bday2025_support",
         "bday2025_attend",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-10T15:59:26Z"
+      "lastUpdated": "2025-08-10T15:59:27Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4525,7 +4528,7 @@
       "lastUpdated": "2025-08-10T15:38:04Z"
     }
   },
-  "lastUpdated": "2025-08-10T14:59:26Z",
+  "lastUpdated": "2025-08-10T14:59:28Z",
   "totalUsers": 179,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
