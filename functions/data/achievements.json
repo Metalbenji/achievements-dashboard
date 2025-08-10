@@ -1535,7 +1535,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 452,
+        "chat": 455,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1592,7 +1592,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-10T11:15:16Z"
+      "lastUpdated": "2025-08-10T11:30:10Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1711,7 +1711,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 76,
+        "chat": 77,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 4,
@@ -1739,7 +1739,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-09T13:19:59Z"
+      "lastUpdated": "2025-08-10T11:30:58Z"
     },
     "tawmae": {
       "counters": {
@@ -1969,7 +1969,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 155,
+        "chat": 156,
         "points_spent": 10553,
         "interactive": 8,
         "effects": 8,
@@ -2002,7 +2002,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-10T11:15:00Z"
+      "lastUpdated": "2025-08-10T11:22:03Z"
     },
     "redunt86": {
       "counters": {
@@ -2046,7 +2046,7 @@
       "counters": {
         "points_spent": 18050,
         "follow": 1,
-        "chat": 168,
+        "chat": 173,
         "effects": 18,
         "screenshot": 1,
         "sounds": 4,
@@ -2092,7 +2092,7 @@
         "gift_kind",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-10T11:12:09Z"
+      "lastUpdated": "2025-08-10T11:25:10Z"
     },
     "syn__________": {
       "counters": {
@@ -2812,7 +2812,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 152,
+        "chat": 177,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2837,7 +2837,7 @@
         "chat_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-10T11:15:31Z"
+      "lastUpdated": "2025-08-10T11:31:15Z"
     },
     "majesty81": {
       "counters": {
@@ -4504,18 +4504,19 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-10T11:18:30Z"
+      "lastUpdated": "2025-08-10T11:31:36Z"
     }
   },
-  "lastUpdated": "2025-08-10T10:18:30Z",
+  "lastUpdated": "2025-08-10T10:31:37Z",
   "totalUsers": 179,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
