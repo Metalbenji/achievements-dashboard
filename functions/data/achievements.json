@@ -2046,7 +2046,7 @@
       "counters": {
         "points_spent": 17650,
         "follow": 1,
-        "chat": 144,
+        "chat": 145,
         "effects": 18,
         "screenshot": 1,
         "sounds": 4,
@@ -2092,7 +2092,7 @@
         "gift_kind",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-10T10:27:20Z"
+      "lastUpdated": "2025-08-10T10:34:54Z"
     },
     "syn__________": {
       "counters": {
@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 90,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2171,7 +2171,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-10T10:27:57Z"
+      "lastUpdated": "2025-08-10T10:37:33Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2298,7 +2298,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 91,
+        "chat": 93,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2310,7 +2310,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-10T10:27:16Z"
+      "lastUpdated": "2025-08-10T10:35:24Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2810,7 +2810,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 132,
+        "chat": 135,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2835,7 +2835,7 @@
         "chat_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-09T15:44:14Z"
+      "lastUpdated": "2025-08-10T10:38:28Z"
     },
     "majesty81": {
       "counters": {
@@ -3602,7 +3602,7 @@
     "kimmyh81": {
       "counters": {
         "follow": 1,
-        "chat": 23,
+        "chat": 25,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 121,
         "largest_gift_bomb": 121
@@ -3622,9 +3622,10 @@
         "gift_bomb_50",
         "gift_bomb_75",
         "gift_bomb_100",
-        "gift_bombs_first"
+        "gift_bombs_first",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-10T10:33:06Z"
+      "lastUpdated": "2025-08-10T10:38:30Z"
     },
     "bitter5weet": {
       "counters": {
@@ -4479,15 +4480,15 @@
     },
     "icyhot_10": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-10T10:33:37Z"
+      "lastUpdated": "2025-08-10T10:34:23Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:33:38Z",
+  "lastUpdated": "2025-08-10T09:38:31Z",
   "totalUsers": 177,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
