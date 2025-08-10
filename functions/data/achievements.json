@@ -1688,9 +1688,9 @@
     },
     "lottec": {
       "counters": {
-        "points_spent": 5300,
-        "effects": 6,
-        "chat": 79,
+        "points_spent": 6100,
+        "effects": 7,
+        "chat": 80,
         "sounds": 1,
         "follow": 1
       },
@@ -1706,7 +1706,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T13:50:44Z"
+      "lastUpdated": "2025-08-10T12:47:56Z"
     },
     "hairypawter": {
       "counters": {
@@ -2046,7 +2046,7 @@
       "counters": {
         "points_spent": 18350,
         "follow": 1,
-        "chat": 192,
+        "chat": 193,
         "effects": 19,
         "screenshot": 1,
         "sounds": 4,
@@ -2092,7 +2092,7 @@
         "gift_kind",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-10T12:42:18Z"
+      "lastUpdated": "2025-08-10T12:47:18Z"
     },
     "syn__________": {
       "counters": {
@@ -2481,7 +2481,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 36
+        "chat": 37
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2491,7 +2491,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-10T12:41:31Z"
+      "lastUpdated": "2025-08-10T12:46:39Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2613,7 +2613,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 220,
+        "chat": 221,
         "points_spent": 4150,
         "sounds": 1,
         "effects": 8,
@@ -2671,7 +2671,7 @@
         "sub_tier2",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-10T12:42:27Z"
+      "lastUpdated": "2025-08-10T12:46:58Z"
     },
     "andilippi": {
       "counters": {
@@ -2942,16 +2942,18 @@
       "counters": {
         "follow": 1,
         "chat": 9,
-        "points_spent": 1
+        "points_spent": 351,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "first_caller",
-        "bday2025_attend"
+        "bday2025_attend",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-26T11:41:07Z"
+      "lastUpdated": "2025-08-10T12:48:13Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3781,7 +3783,7 @@
         "follow": 1,
         "points_spent": 3501,
         "interactive": 7,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3792,7 +3794,7 @@
         "bday2025_attend",
         "first_caller"
       ],
-      "lastUpdated": "2025-08-10T12:43:16Z"
+      "lastUpdated": "2025-08-10T12:43:34Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -4519,7 +4521,7 @@
       "lastUpdated": "2025-08-10T11:34:17Z"
     }
   },
-  "lastUpdated": "2025-08-10T11:43:16Z",
+  "lastUpdated": "2025-08-10T11:48:14Z",
   "totalUsers": 179,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
