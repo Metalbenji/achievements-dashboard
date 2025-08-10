@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 86,
+        "chat": 87,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2171,7 +2171,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-09T18:11:55Z"
+      "lastUpdated": "2025-08-10T10:23:21Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2987,7 +2987,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 53,
+        "chat": 54,
         "follow": 1,
         "points_spent": 1500,
         "sounds": 1,
@@ -3005,7 +3005,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-09T17:08:32Z"
+      "lastUpdated": "2025-08-10T10:22:52Z"
     },
     "sprockettrap": {
       "counters": {
@@ -3602,7 +3602,7 @@
     "kimmyh81": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3610,7 +3610,7 @@
         "weekend_warrior",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-10T10:22:10Z"
+      "lastUpdated": "2025-08-10T10:23:33Z"
     },
     "bitter5weet": {
       "counters": {
@@ -4451,10 +4451,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-10T10:15:55Z"
+    },
+    "ashhbrown": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-10T10:23:42Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:22:11Z",
-  "totalUsers": 175,
+  "lastUpdated": "2025-08-10T09:23:43Z",
+  "totalUsers": 176,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
