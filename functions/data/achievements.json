@@ -1790,7 +1790,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 35,
+        "chat": 36,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1807,7 +1807,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-09T15:24:28Z"
+      "lastUpdated": "2025-08-10T10:21:56Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -3602,14 +3602,15 @@
     "kimmyh81": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-10T10:21:51Z"
+      "lastUpdated": "2025-08-10T10:22:10Z"
     },
     "bitter5weet": {
       "counters": {
@@ -4452,7 +4453,7 @@
       "lastUpdated": "2025-08-10T10:15:55Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:21:51Z",
+  "lastUpdated": "2025-08-10T09:22:11Z",
   "totalUsers": 175,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
