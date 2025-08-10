@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 94,
+        "chat": 96,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2171,7 +2171,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-10T10:49:08Z"
+      "lastUpdated": "2025-08-10T10:51:55Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2298,7 +2298,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 100,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2308,9 +2308,10 @@
         "chat_talker",
         "first_caller",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-10T10:48:47Z"
+      "lastUpdated": "2025-08-10T10:52:17Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4497,7 +4498,7 @@
       "lastUpdated": "2025-08-10T10:50:13Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:50:13Z",
+  "lastUpdated": "2025-08-10T09:52:17Z",
   "totalUsers": 178,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
