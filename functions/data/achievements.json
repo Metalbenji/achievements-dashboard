@@ -3602,15 +3602,29 @@
     "kimmyh81": {
       "counters": {
         "follow": 1,
-        "chat": 21
+        "chat": 23,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 121,
+        "largest_gift_bomb": 121
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "weekend_warrior",
-        "chat_talker"
+        "chat_talker",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bomb_75",
+        "gift_bomb_100",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-08-10T10:31:37Z"
+      "lastUpdated": "2025-08-10T10:33:06Z"
     },
     "bitter5weet": {
       "counters": {
@@ -4462,10 +4476,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-10T10:23:43Z"
+    },
+    "icyhot_10": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-10T10:33:37Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:32:01Z",
-  "totalUsers": 176,
+  "lastUpdated": "2025-08-10T09:33:38Z",
+  "totalUsers": 177,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
