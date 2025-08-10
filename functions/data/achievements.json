@@ -1711,7 +1711,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 79,
+        "chat": 80,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 4,
@@ -1739,7 +1739,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-10T15:44:20Z"
+      "lastUpdated": "2025-08-10T15:59:34Z"
     },
     "tawmae": {
       "counters": {
@@ -2497,7 +2497,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 73,
+        "chat": 77,
         "sub": 39,
         "points_spent": 20000,
         "sounds": 1
@@ -2526,7 +2526,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-10T15:59:27Z"
+      "lastUpdated": "2025-08-10T16:00:07Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2818,7 +2818,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 235,
+        "chat": 236,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2844,7 +2844,7 @@
         "sub_tier1",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-10T15:59:25Z"
+      "lastUpdated": "2025-08-10T15:59:33Z"
     },
     "majesty81": {
       "counters": {
@@ -4516,19 +4516,22 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 35
+        "chat": 35,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-10T15:38:04Z"
+      "lastUpdated": "2025-08-10T16:00:09Z"
     }
   },
-  "lastUpdated": "2025-08-10T14:59:28Z",
+  "lastUpdated": "2025-08-10T15:00:10Z",
   "totalUsers": 179,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
