@@ -2941,7 +2941,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 351,
         "effects": 1
       },
@@ -2951,9 +2951,10 @@
         "chat_newbie",
         "first_caller",
         "bday2025_attend",
-        "effect_first"
+        "effect_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-10T12:48:13Z"
+      "lastUpdated": "2025-08-10T12:48:28Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4521,7 +4522,7 @@
       "lastUpdated": "2025-08-10T11:34:17Z"
     }
   },
-  "lastUpdated": "2025-08-10T11:48:14Z",
+  "lastUpdated": "2025-08-10T11:48:29Z",
   "totalUsers": 179,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
