@@ -2046,7 +2046,7 @@
       "counters": {
         "points_spent": 17650,
         "follow": 1,
-        "chat": 142,
+        "chat": 144,
         "effects": 18,
         "screenshot": 1,
         "sounds": 4,
@@ -2092,7 +2092,7 @@
         "gift_kind",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-01T19:23:19Z"
+      "lastUpdated": "2025-08-10T10:27:20Z"
     },
     "syn__________": {
       "counters": {
@@ -2141,7 +2141,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 87,
+        "chat": 89,
         "points_spent": 3850,
         "sounds": 3,
         "effects": 1,
@@ -2171,7 +2171,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-10T10:23:21Z"
+      "lastUpdated": "2025-08-10T10:27:57Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2298,7 +2298,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 88,
+        "chat": 91,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2310,7 +2310,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-10T10:21:39Z"
+      "lastUpdated": "2025-08-10T10:27:16Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2611,7 +2611,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 218,
+        "chat": 219,
         "points_spent": 4150,
         "sounds": 1,
         "effects": 8,
@@ -2669,7 +2669,7 @@
         "sub_tier2",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-01T22:22:23Z"
+      "lastUpdated": "2025-08-10T10:29:40Z"
     },
     "andilippi": {
       "counters": {
@@ -3602,7 +3602,7 @@
     "kimmyh81": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 21
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3610,7 +3610,7 @@
         "weekend_warrior",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-10T10:23:33Z"
+      "lastUpdated": "2025-08-10T10:31:37Z"
     },
     "bitter5weet": {
       "counters": {
@@ -4464,7 +4464,7 @@
       "lastUpdated": "2025-08-10T10:23:43Z"
     }
   },
-  "lastUpdated": "2025-08-10T09:23:44Z",
+  "lastUpdated": "2025-08-10T09:31:53Z",
   "totalUsers": 176,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
