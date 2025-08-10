@@ -1596,7 +1596,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 403,
+        "chat": 404,
         "points_spent": 39700,
         "interactive": 11,
         "follow": 1,
@@ -1637,7 +1637,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-10T15:59:01Z"
+      "lastUpdated": "2025-08-10T16:01:08Z"
     },
     "aladderinsane": {
       "counters": {
@@ -4516,8 +4516,8 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 35,
-        "points_spent": 400,
+        "chat": 36,
+        "points_spent": 1300,
         "effects": 1,
         "sounds": 1
       },
@@ -4528,12 +4528,13 @@
         "chat_talker",
         "chat_conversationalist",
         "effect_first",
-        "sound_first"
+        "sound_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-08-10T16:00:34Z"
+      "lastUpdated": "2025-08-10T16:01:08Z"
     }
   },
-  "lastUpdated": "2025-08-10T15:00:34Z",
+  "lastUpdated": "2025-08-10T15:01:09Z",
   "totalUsers": 179,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
