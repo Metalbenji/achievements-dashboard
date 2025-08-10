@@ -4517,8 +4517,9 @@
       "counters": {
         "follow": 1,
         "chat": 35,
-        "points_spent": 300,
-        "effects": 1
+        "points_spent": 400,
+        "effects": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4526,12 +4527,13 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-10T16:00:09Z"
+      "lastUpdated": "2025-08-10T16:00:34Z"
     }
   },
-  "lastUpdated": "2025-08-10T15:00:10Z",
+  "lastUpdated": "2025-08-10T15:00:34Z",
   "totalUsers": 179,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
