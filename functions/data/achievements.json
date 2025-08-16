@@ -2424,7 +2424,7 @@
         "points_spent": 17101,
         "interactive": 1,
         "sounds": 1,
-        "gift_subs": 1,
+        "gift_subs": 2,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 61,
         "largest_gift_bomb": 56,
@@ -2466,9 +2466,10 @@
         "gift_bomb_50",
         "gift_bombs_first",
         "effect_first",
-        "chat_regular"
+        "chat_regular",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-08-16T08:21:03Z"
+      "lastUpdated": "2025-08-16T08:22:40Z"
     },
     "umenneske94": {
       "counters": {
@@ -4570,7 +4571,7 @@
       "lastUpdated": "2025-08-16T08:22:29Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:22:40Z",
+  "lastUpdated": "2025-08-16T07:22:47Z",
   "totalUsers": 182,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
