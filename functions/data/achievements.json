@@ -2818,7 +2818,8 @@
       "counters": {
         "chat": 45,
         "follow": 1,
-        "points_spent": 2000
+        "points_spent": 2000,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2828,9 +2829,10 @@
         "chat_conversationalist",
         "night_owl",
         "bday2025_attend",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-16T15:00:10Z"
+      "lastUpdated": "2025-08-16T15:00:11Z"
     },
     "justflip": {
       "counters": {
@@ -4803,7 +4805,7 @@
       "lastUpdated": "2025-08-16T14:11:17Z"
     }
   },
-  "lastUpdated": "2025-08-16T14:00:11Z",
+  "lastUpdated": "2025-08-16T14:00:12Z",
   "totalUsers": 195,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
