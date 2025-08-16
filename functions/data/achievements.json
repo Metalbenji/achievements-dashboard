@@ -4688,15 +4688,17 @@
     },
     "earthstepdaddy": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T12:56:59Z"
+      "lastUpdated": "2025-08-16T12:57:02Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:57:01Z",
+  "lastUpdated": "2025-08-16T11:57:05Z",
   "totalUsers": 191,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
