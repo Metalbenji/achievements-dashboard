@@ -4557,13 +4557,14 @@
     "sophplayswow": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T08:23:20Z"
+      "lastUpdated": "2025-08-16T08:29:58Z"
     },
     "coach_gief": {
       "counters": {
@@ -4593,7 +4594,7 @@
       "lastUpdated": "2025-08-16T08:29:57Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:29:58Z",
+  "lastUpdated": "2025-08-16T07:29:59Z",
   "totalUsers": 183,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
