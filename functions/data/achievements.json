@@ -1885,7 +1885,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 355,
+        "chat": 358,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1932,7 +1932,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-16T08:24:15Z"
+      "lastUpdated": "2025-08-16T08:29:13Z"
     },
     "anzerou": {
       "counters": {
@@ -1971,9 +1971,9 @@
       "counters": {
         "follow": 1,
         "chat": 175,
-        "points_spent": 11053,
+        "points_spent": 11153,
         "interactive": 8,
-        "effects": 9,
+        "effects": 10,
         "sub": 22,
         "sounds": 1
       },
@@ -2001,9 +2001,10 @@
         "emperor_loyal",
         "chat_regular",
         "sound_first",
-        "spender_silver"
+        "spender_silver",
+        "effect_collector"
       ],
-      "lastUpdated": "2025-08-16T08:27:19Z"
+      "lastUpdated": "2025-08-16T08:29:18Z"
     },
     "redunt86": {
       "counters": {
@@ -3002,7 +3003,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 55,
+        "chat": 56,
         "follow": 1,
         "points_spent": 1500,
         "sounds": 1,
@@ -3020,7 +3021,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-16T08:26:35Z"
+      "lastUpdated": "2025-08-16T08:28:29Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4589,7 +4590,7 @@
       "lastUpdated": "2025-08-16T08:28:27Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:28:29Z",
+  "lastUpdated": "2025-08-16T07:29:18Z",
   "totalUsers": 183,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
