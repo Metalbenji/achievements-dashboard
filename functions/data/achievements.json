@@ -4054,9 +4054,10 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 5,
+        "chat": 7,
         "gift_subs": 1,
-        "bits": 100
+        "bits": 100,
+        "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -4066,9 +4067,10 @@
         "chat_newbie",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-16T12:59:07Z"
+      "lastUpdated": "2025-08-16T12:59:19Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4706,12 +4708,13 @@
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T12:58:05Z"
+      "lastUpdated": "2025-08-16T12:59:22Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4725,7 +4728,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:59:14Z",
+  "lastUpdated": "2025-08-16T11:59:23Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
