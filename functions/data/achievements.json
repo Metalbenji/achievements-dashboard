@@ -4648,15 +4648,17 @@
     },
     "thefoxyfae": {
       "counters": {
-        "chat": 1
+        "chat": 3,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-08-16T12:19:35Z"
+      "lastUpdated": "2025-08-16T12:20:27Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:19:36Z",
+  "lastUpdated": "2025-08-16T11:20:28Z",
   "totalUsers": 188,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
