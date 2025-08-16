@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 98,
+        "chat": 100,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1337,9 +1337,10 @@
         "chat_talker",
         "chat_conversationalist",
         "night_owl",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T08:57:09Z"
+      "lastUpdated": "2025-08-16T09:02:07Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1885,7 +1886,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 359,
+        "chat": 361,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1932,7 +1933,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-16T08:39:56Z"
+      "lastUpdated": "2025-08-16T09:01:16Z"
     },
     "anzerou": {
       "counters": {
@@ -1970,7 +1971,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 185,
+        "chat": 186,
         "points_spent": 11153,
         "interactive": 8,
         "effects": 10,
@@ -2004,7 +2005,7 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-16T08:54:44Z"
+      "lastUpdated": "2025-08-16T09:02:00Z"
     },
     "redunt86": {
       "counters": {
@@ -2420,7 +2421,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 119,
+        "chat": 121,
         "sub": 33,
         "points_spent": 17901,
         "interactive": 1,
@@ -2471,7 +2472,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2025-08-16T08:56:45Z"
+      "lastUpdated": "2025-08-16T09:00:32Z"
     },
     "umenneske94": {
       "counters": {
@@ -2907,7 +2908,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 25
+        "chat": 39
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2926,7 +2927,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T08:57:33Z"
+      "lastUpdated": "2025-08-16T09:02:06Z"
     },
     "khazan67": {
       "counters": {
@@ -4628,7 +4629,7 @@
       "lastUpdated": "2025-08-16T08:52:54Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:57:34Z",
+  "lastUpdated": "2025-08-16T08:02:09Z",
   "totalUsers": 186,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
