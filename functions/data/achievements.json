@@ -1389,7 +1389,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 470,
+        "chat": 480,
         "points_spent": 12100,
         "effects": 6,
         "sub": 7,
@@ -1431,7 +1431,7 @@
         "interactive_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-10T16:05:41Z"
+      "lastUpdated": "2025-08-16T12:31:24Z"
     },
     "celran": {
       "counters": {
@@ -2117,10 +2117,11 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 127,
+        "chat": 132,
         "sub": 22,
-        "points_spent": 350,
-        "screenshot": 1
+        "points_spent": 450,
+        "screenshot": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2141,17 +2142,18 @@
         "bday2025_support",
         "bday2025_attend",
         "screenshot_first",
-        "chat_regular"
+        "chat_regular",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-09T14:55:16Z"
+      "lastUpdated": "2025-08-16T12:31:59Z"
     },
     "epik__tv": {
       "counters": {
         "follow": 1,
         "chat": 162,
-        "points_spent": 5450,
+        "points_spent": 5950,
         "sounds": 7,
-        "effects": 1,
+        "effects": 2,
         "screenshot": 1,
         "sub": 13,
         "interactive": 4
@@ -2179,7 +2181,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T12:05:17Z"
+      "lastUpdated": "2025-08-16T12:24:47Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2958,7 +2960,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "points_spent": 351,
         "effects": 1
       },
@@ -2971,7 +2973,7 @@
         "effect_first",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-10T12:48:28Z"
+      "lastUpdated": "2025-08-16T12:24:59Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4529,7 +4531,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 76,
+        "chat": 78,
         "points_spent": 2500,
         "effects": 1,
         "sounds": 1,
@@ -4546,7 +4548,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T12:17:29Z"
+      "lastUpdated": "2025-08-16T12:27:59Z"
     },
     "jamie1496": {
       "counters": {
@@ -4658,7 +4660,7 @@
       "lastUpdated": "2025-08-16T12:20:27Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:20:28Z",
+  "lastUpdated": "2025-08-16T11:32:00Z",
   "totalUsers": 188,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
