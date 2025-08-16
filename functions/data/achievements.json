@@ -1536,7 +1536,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 534,
+        "chat": 537,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1593,7 +1593,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-16T09:19:50Z"
+      "lastUpdated": "2025-08-16T09:33:03Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1886,7 +1886,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 361,
+        "chat": 362,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1933,7 +1933,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-16T09:01:16Z"
+      "lastUpdated": "2025-08-16T09:31:04Z"
     },
     "anzerou": {
       "counters": {
@@ -2010,8 +2010,8 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 72,
-        "points_spent": 800,
+        "chat": 81,
+        "points_spent": 1600,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -2021,9 +2021,10 @@
         "chat_talker",
         "chat_conversationalist",
         "bday2025_attend",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-07-28T18:57:13Z"
+      "lastUpdated": "2025-08-16T09:36:22Z"
     },
     "spoono__": {
       "counters": {
@@ -2047,10 +2048,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 18350,
+        "points_spent": 18700,
         "follow": 1,
-        "chat": 201,
-        "effects": 19,
+        "chat": 208,
+        "effects": 20,
         "screenshot": 1,
         "sounds": 4,
         "bits": 200,
@@ -2096,7 +2097,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-10T13:59:45Z"
+      "lastUpdated": "2025-08-16T09:35:23Z"
     },
     "syn__________": {
       "counters": {
@@ -2421,7 +2422,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 129,
+        "chat": 137,
         "sub": 33,
         "points_spent": 17901,
         "interactive": 1,
@@ -2472,7 +2473,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2025-08-16T09:17:21Z"
+      "lastUpdated": "2025-08-16T09:35:58Z"
     },
     "umenneske94": {
       "counters": {
@@ -2723,13 +2724,13 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T08:53:57Z"
+      "lastUpdated": "2025-08-16T09:30:44Z"
     },
     "chadrestricted": {
       "counters": {
@@ -4068,7 +4069,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4077,7 +4078,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T09:20:32Z"
+      "lastUpdated": "2025-08-16T09:35:32Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4560,14 +4561,14 @@
     "sophplayswow": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T09:07:02Z"
+      "lastUpdated": "2025-08-16T09:33:01Z"
     },
     "coach_gief": {
       "counters": {
@@ -4630,7 +4631,7 @@
       "lastUpdated": "2025-08-16T08:52:54Z"
     }
   },
-  "lastUpdated": "2025-08-16T08:20:32Z",
+  "lastUpdated": "2025-08-16T08:36:22Z",
   "totalUsers": 186,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
