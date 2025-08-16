@@ -2991,8 +2991,8 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 122,
-        "points_spent": 350,
+        "chat": 124,
+        "points_spent": 2350,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -3003,9 +3003,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "chat_regular",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-08-16T12:59:00Z"
+      "lastUpdated": "2025-08-16T13:00:15Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -4054,7 +4055,7 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 7,
+        "chat": 8,
         "gift_subs": 1,
         "bits": 100,
         "raid": 1
@@ -4070,7 +4071,7 @@
         "bits_regular",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-16T12:59:19Z"
+      "lastUpdated": "2025-08-16T12:59:32Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4698,23 +4699,23 @@
     "earthstepdaddy": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T12:57:48Z"
+      "lastUpdated": "2025-08-16T12:59:31Z"
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T12:59:22Z"
+      "lastUpdated": "2025-08-16T12:59:42Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4728,7 +4729,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:59:23Z",
+  "lastUpdated": "2025-08-16T12:00:16Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
