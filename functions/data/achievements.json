@@ -2121,7 +2121,8 @@
         "sub": 22,
         "points_spent": 1250,
         "screenshot": 1,
-        "sounds": 1
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2144,9 +2145,10 @@
         "screenshot_first",
         "chat_regular",
         "sound_first",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-16T12:32:22Z"
+      "lastUpdated": "2025-08-16T12:32:23Z"
     },
     "epik__tv": {
       "counters": {
@@ -4661,7 +4663,7 @@
       "lastUpdated": "2025-08-16T12:20:27Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:32:23Z",
+  "lastUpdated": "2025-08-16T11:32:24Z",
   "totalUsers": 188,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
