@@ -2160,7 +2160,8 @@
         "screenshot": 1,
         "sub": 13,
         "interactive": 4,
-        "bits": 69
+        "bits": 69,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2186,9 +2187,10 @@
         "chat_regular",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-16T13:05:33Z"
+      "lastUpdated": "2025-08-16T13:05:37Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4061,7 +4063,7 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 13,
+        "chat": 14,
         "gift_subs": 1,
         "bits": 169,
         "raid": 2
@@ -4078,7 +4080,7 @@
         "raid_tier1_captain",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T13:05:12Z"
+      "lastUpdated": "2025-08-16T13:05:38Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4552,7 +4554,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 80,
+        "chat": 81,
         "points_spent": 2500,
         "effects": 1,
         "sounds": 1,
@@ -4569,7 +4571,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T13:04:39Z"
+      "lastUpdated": "2025-08-16T13:05:38Z"
     },
     "jamie1496": {
       "counters": {
@@ -4706,14 +4708,15 @@
     "earthstepdaddy": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T13:05:05Z"
+      "lastUpdated": "2025-08-16T13:05:41Z"
     },
     "jadesimsss13": {
       "counters": {
@@ -4745,7 +4748,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:05:38Z",
+  "lastUpdated": "2025-08-16T12:05:42Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
