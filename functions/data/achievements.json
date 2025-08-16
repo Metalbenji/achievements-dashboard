@@ -1535,15 +1535,15 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 490,
+        "chat": 492,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
         "sub": 44,
         "sounds": 2,
         "effects": 4,
-        "gift_bombs": 3,
-        "total_gift_bomb_subs": 126,
+        "gift_bombs": 4,
+        "total_gift_bomb_subs": 132,
         "largest_gift_bomb": 116,
         "interactive": 1,
         "gift_subs": 1
@@ -1592,7 +1592,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-16T08:19:58Z"
+      "lastUpdated": "2025-08-16T08:24:09Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1885,7 +1885,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 353,
+        "chat": 355,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1932,7 +1932,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-16T08:21:18Z"
+      "lastUpdated": "2025-08-16T08:24:15Z"
     },
     "anzerou": {
       "counters": {
@@ -1970,7 +1970,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 172,
+        "chat": 174,
         "points_spent": 10553,
         "interactive": 8,
         "effects": 8,
@@ -2003,7 +2003,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-16T08:21:11Z"
+      "lastUpdated": "2025-08-16T08:24:21Z"
     },
     "redunt86": {
       "counters": {
@@ -2419,12 +2419,12 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 101,
+        "chat": 103,
         "sub": 33,
         "points_spent": 17101,
         "interactive": 1,
         "sounds": 1,
-        "gift_subs": 2,
+        "gift_subs": 3,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 61,
         "largest_gift_bomb": 56,
@@ -2467,9 +2467,10 @@
         "gift_bombs_first",
         "effect_first",
         "chat_regular",
-        "gift_kind"
+        "gift_kind",
+        "gift_caring"
       ],
-      "lastUpdated": "2025-08-16T08:22:40Z"
+      "lastUpdated": "2025-08-16T08:23:51Z"
     },
     "umenneske94": {
       "counters": {
@@ -4540,38 +4541,39 @@
     "jamie1496": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T08:22:09Z"
+      "lastUpdated": "2025-08-16T08:25:39Z"
     },
     "sophplayswow": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T08:22:16Z"
+      "lastUpdated": "2025-08-16T08:23:20Z"
     },
     "coach_gief": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T08:22:29Z"
+      "lastUpdated": "2025-08-16T08:23:57Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:22:47Z",
+  "lastUpdated": "2025-08-16T07:25:40Z",
   "totalUsers": 182,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
