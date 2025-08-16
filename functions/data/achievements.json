@@ -2153,7 +2153,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 165,
+        "chat": 166,
         "points_spent": 5950,
         "sounds": 7,
         "effects": 2,
@@ -2184,7 +2184,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T13:02:13Z"
+      "lastUpdated": "2025-08-16T13:02:34Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4548,7 +4548,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 78,
+        "chat": 79,
         "points_spent": 2500,
         "effects": 1,
         "sounds": 1,
@@ -4565,7 +4565,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T12:27:59Z"
+      "lastUpdated": "2025-08-16T13:02:20Z"
     },
     "jamie1496": {
       "counters": {
@@ -4713,16 +4713,19 @@
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 10,
-        "follow": 1
+        "chat": 11,
+        "follow": 1,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "follow_supporter",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-16T13:01:30Z"
+      "lastUpdated": "2025-08-16T13:03:17Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4736,7 +4739,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:02:20Z",
+  "lastUpdated": "2025-08-16T12:03:18Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
