@@ -2153,7 +2153,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 163,
+        "chat": 164,
         "points_spent": 5950,
         "sounds": 7,
         "effects": 2,
@@ -2184,7 +2184,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T12:52:13Z"
+      "lastUpdated": "2025-08-16T13:01:22Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2991,7 +2991,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 126,
+        "chat": 127,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1
@@ -3008,7 +3008,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:00:41Z"
+      "lastUpdated": "2025-08-16T13:01:24Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -4059,8 +4059,8 @@
       "counters": {
         "chat": 9,
         "gift_subs": 1,
-        "bits": 100,
-        "raid": 1
+        "bits": 169,
+        "raid": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -4073,7 +4073,7 @@
         "bits_regular",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-16T13:00:17Z"
+      "lastUpdated": "2025-08-16T13:01:05Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4701,26 +4701,27 @@
     "earthstepdaddy": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T13:00:48Z"
+      "lastUpdated": "2025-08-16T13:01:22Z"
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T13:00:39Z"
+      "lastUpdated": "2025-08-16T13:01:30Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4734,7 +4735,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:00:49Z",
+  "lastUpdated": "2025-08-16T12:01:31Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
