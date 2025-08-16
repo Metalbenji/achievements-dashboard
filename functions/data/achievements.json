@@ -1499,7 +1499,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 83,
+        "chat": 84,
         "points_spent": 7200,
         "effects": 5,
         "follow": 1,
@@ -1532,7 +1532,7 @@
         "screenshot_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T11:58:38Z"
+      "lastUpdated": "2025-08-16T12:07:54Z"
     },
     "ramdon101": {
       "counters": {
@@ -2148,7 +2148,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 161,
+        "chat": 162,
         "points_spent": 5450,
         "sounds": 7,
         "effects": 1,
@@ -2179,7 +2179,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T12:04:16Z"
+      "lastUpdated": "2025-08-16T12:05:17Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4530,7 +4530,7 @@
       "counters": {
         "follow": 1,
         "chat": 76,
-        "points_spent": 2100,
+        "points_spent": 2500,
         "effects": 1,
         "sounds": 1,
         "interactive": 3
@@ -4546,7 +4546,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T11:58:43Z"
+      "lastUpdated": "2025-08-16T12:17:29Z"
     },
     "jamie1496": {
       "counters": {
@@ -4645,10 +4645,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-16T11:59:00Z"
+    },
+    "thefoxyfae": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-16T12:19:35Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:04:33Z",
-  "totalUsers": 187,
+  "lastUpdated": "2025-08-16T11:19:36Z",
+  "totalUsers": 188,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
