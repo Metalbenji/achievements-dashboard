@@ -1971,9 +1971,9 @@
       "counters": {
         "follow": 1,
         "chat": 174,
-        "points_spent": 10553,
+        "points_spent": 11053,
         "interactive": 8,
-        "effects": 8,
+        "effects": 9,
         "sub": 22,
         "sounds": 1
       },
@@ -2003,7 +2003,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-16T08:24:21Z"
+      "lastUpdated": "2025-08-16T08:26:15Z"
     },
     "redunt86": {
       "counters": {
@@ -4541,14 +4541,17 @@
     "jamie1496": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 5,
+        "points_spent": 400,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T08:25:39Z"
+      "lastUpdated": "2025-08-16T08:26:30Z"
     },
     "sophplayswow": {
       "counters": {
@@ -4571,10 +4574,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-16T08:23:57Z"
+    },
+    "derxgamin": {
+      "counters": {
+        "gift_subs": 1
+      },
+      "unlockedAchievements": [
+        "gift_starter"
+      ],
+      "lastUpdated": "2025-08-16T08:26:14Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:26:15Z",
-  "totalUsers": 182,
+  "lastUpdated": "2025-08-16T07:26:31Z",
+  "totalUsers": 183,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
