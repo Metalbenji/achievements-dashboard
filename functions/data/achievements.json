@@ -2012,7 +2012,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 90,
+        "chat": 91,
         "points_spent": 1600,
         "effects": 2
       },
@@ -2026,7 +2026,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-08-16T13:13:13Z"
+      "lastUpdated": "2025-08-16T13:14:04Z"
     },
     "spoono__": {
       "counters": {
@@ -3671,7 +3671,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "points_spent": 500,
         "effects": 1
       },
@@ -3682,9 +3682,10 @@
         "effect_first",
         "night_owl",
         "weekend_warrior",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-01T20:00:59Z"
+      "lastUpdated": "2025-08-16T13:14:10Z"
     },
     "saluda777": {
       "counters": {
@@ -4067,7 +4068,10 @@
         "gift_subs": 1,
         "bits": 210,
         "raid": 6,
-        "follow": 1
+        "follow": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 6,
+        "largest_gift_bomb": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -4081,9 +4085,11 @@
         "raid_tier1_captain",
         "chat_talker",
         "raid_tier2_seasoned",
-        "follow_supporter"
+        "follow_supporter",
+        "gift_bomb_5",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-08-16T13:13:21Z"
+      "lastUpdated": "2025-08-16T13:13:59Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4760,7 +4766,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:14:03Z",
+  "lastUpdated": "2025-08-16T12:14:11Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
