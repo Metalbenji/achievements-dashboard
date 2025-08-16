@@ -4810,15 +4810,17 @@
     },
     "jeditojanen": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T15:19:27Z"
+      "lastUpdated": "2025-08-16T15:19:28Z"
     }
   },
-  "lastUpdated": "2025-08-16T14:19:28Z",
+  "lastUpdated": "2025-08-16T14:19:29Z",
   "totalUsers": 196,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
