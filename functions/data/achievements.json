@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 100,
+        "chat": 101,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1340,7 +1340,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T09:02:07Z"
+      "lastUpdated": "2025-08-16T14:22:21Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2816,7 +2816,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 33,
+        "chat": 35,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -2828,7 +2828,7 @@
         "night_owl",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-08-09T13:48:24Z"
+      "lastUpdated": "2025-08-16T14:25:43Z"
     },
     "justflip": {
       "counters": {
@@ -3291,7 +3291,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3299,7 +3299,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T14:21:21Z"
+      "lastUpdated": "2025-08-16T14:23:21Z"
     },
     "akiraownz": {
       "counters": {
@@ -3972,14 +3972,15 @@
     "cyramica": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T14:05:39Z"
+      "lastUpdated": "2025-08-16T14:26:38Z"
     },
     "sirbigyin": {
       "counters": {
@@ -4800,7 +4801,7 @@
       "lastUpdated": "2025-08-16T14:11:17Z"
     }
   },
-  "lastUpdated": "2025-08-16T13:21:21Z",
+  "lastUpdated": "2025-08-16T13:26:39Z",
   "totalUsers": 195,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
