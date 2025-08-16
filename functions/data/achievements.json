@@ -1389,12 +1389,12 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 505,
+        "chat": 508,
         "points_spent": 12450,
         "effects": 7,
         "sub": 7,
         "bits": 1894,
-        "raid": 4,
+        "raid": 5,
         "interactive": 2,
         "sounds": 1
       },
@@ -1429,9 +1429,10 @@
         "emperor_loyal",
         "spender_silver",
         "interactive_first",
-        "sound_first"
+        "sound_first",
+        "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-08-16T13:39:49Z"
+      "lastUpdated": "2025-08-16T13:43:03Z"
     },
     "celran": {
       "counters": {
@@ -2012,7 +2013,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 100,
         "points_spent": 1600,
         "effects": 2
       },
@@ -2024,9 +2025,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T13:16:02Z"
+      "lastUpdated": "2025-08-16T13:44:32Z"
     },
     "spoono__": {
       "counters": {
@@ -2153,7 +2155,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 176,
+        "chat": 177,
         "points_spent": 5950,
         "sounds": 7,
         "effects": 2,
@@ -2190,7 +2192,7 @@
         "bits_regular",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-16T13:38:58Z"
+      "lastUpdated": "2025-08-16T13:42:32Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2317,7 +2319,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 118,
+        "chat": 121,
         "points_spent": 101,
         "sounds": 1
       },
@@ -2332,7 +2334,7 @@
         "chat_regular",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:37:56Z"
+      "lastUpdated": "2025-08-16T13:42:39Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2974,7 +2976,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 14,
+        "chat": 15,
         "points_spent": 701,
         "effects": 2
       },
@@ -2987,7 +2989,7 @@
         "effect_first",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T13:38:09Z"
+      "lastUpdated": "2025-08-16T13:42:31Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3079,7 +3081,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 90,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -3096,7 +3098,7 @@
         "interactive_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-08-16T13:35:17Z"
+      "lastUpdated": "2025-08-16T13:41:07Z"
     },
     "roffelonator": {
       "counters": {
@@ -4111,7 +4113,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 27
+        "chat": 29
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4121,7 +4123,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T13:16:33Z"
+      "lastUpdated": "2025-08-16T13:42:14Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4784,7 +4786,7 @@
       "lastUpdated": "2025-08-16T13:14:35Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:39:50Z",
+  "lastUpdated": "2025-08-16T12:44:33Z",
   "totalUsers": 194,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
