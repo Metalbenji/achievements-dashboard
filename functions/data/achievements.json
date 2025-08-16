@@ -4055,16 +4055,20 @@
     "pommyking": {
       "counters": {
         "chat": 5,
-        "gift_subs": 1
+        "gift_subs": 1,
+        "bits": 100
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2025_attend",
         "gift_starter",
         "bday2025_support",
-        "chat_newbie"
+        "chat_newbie",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2025-07-26T13:16:53Z"
+      "lastUpdated": "2025-08-16T12:59:07Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4721,7 +4725,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:59:11Z",
+  "lastUpdated": "2025-08-16T11:59:14Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
