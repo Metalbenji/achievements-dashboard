@@ -4580,17 +4580,20 @@
       "counters": {
         "gift_subs": 1,
         "follow": 1,
-        "chat": 1
+        "chat": 1,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "gift_starter",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-16T08:28:27Z"
+      "lastUpdated": "2025-08-16T08:29:57Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:29:18Z",
+  "lastUpdated": "2025-08-16T07:29:58Z",
   "totalUsers": 183,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
