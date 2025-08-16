@@ -4606,15 +4606,17 @@
     },
     "bekevtv": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T08:42:11Z"
+      "lastUpdated": "2025-08-16T08:42:13Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:42:12Z",
+  "lastUpdated": "2025-08-16T07:42:14Z",
   "totalUsers": 185,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
