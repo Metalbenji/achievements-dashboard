@@ -1499,7 +1499,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 77,
+        "chat": 78,
         "points_spent": 7200,
         "effects": 5,
         "follow": 1,
@@ -1532,7 +1532,7 @@
         "screenshot_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T10:59:03Z"
+      "lastUpdated": "2025-08-16T11:04:28Z"
     },
     "ramdon101": {
       "counters": {
@@ -2576,7 +2576,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2586,9 +2586,10 @@
         "bits_tiny",
         "bits_small",
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T11:04:10Z"
+      "lastUpdated": "2025-08-16T11:04:36Z"
     },
     "chevelletv": {
       "counters": {
@@ -4634,7 +4635,7 @@
       "lastUpdated": "2025-08-16T08:52:54Z"
     }
   },
-  "lastUpdated": "2025-08-16T10:04:11Z",
+  "lastUpdated": "2025-08-16T10:04:37Z",
   "totalUsers": 186,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
