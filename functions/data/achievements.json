@@ -2993,7 +2993,8 @@
         "follow": 1,
         "chat": 124,
         "points_spent": 2350,
-        "effects": 1
+        "effects": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3004,9 +3005,10 @@
         "bday2025_attend",
         "chat_regular",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:00:15Z"
+      "lastUpdated": "2025-08-16T13:00:17Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -4729,7 +4731,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:00:16Z",
+  "lastUpdated": "2025-08-16T12:00:17Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
