@@ -4720,7 +4720,7 @@
     "earthstepdaddy": {
       "counters": {
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "points_spent": 350,
         "effects": 1
       },
@@ -4729,9 +4729,10 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "effect_first"
+        "effect_first",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T13:24:03Z"
+      "lastUpdated": "2025-08-16T13:24:32Z"
     },
     "jadesimsss13": {
       "counters": {
@@ -4781,7 +4782,7 @@
       "lastUpdated": "2025-08-16T13:14:35Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:24:25Z",
+  "lastUpdated": "2025-08-16T12:24:33Z",
   "totalUsers": 194,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
