@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 101,
+        "chat": 102,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -1340,7 +1340,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T14:22:21Z"
+      "lastUpdated": "2025-08-16T14:27:06Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1792,7 +1792,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 39,
+        "chat": 40,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1809,7 +1809,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T13:16:40Z"
+      "lastUpdated": "2025-08-16T14:52:37Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2054,7 +2054,7 @@
       "counters": {
         "points_spent": 20200,
         "follow": 1,
-        "chat": 236,
+        "chat": 237,
         "effects": 22,
         "screenshot": 1,
         "sounds": 4,
@@ -2101,7 +2101,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-16T14:12:23Z"
+      "lastUpdated": "2025-08-16T14:50:35Z"
     },
     "syn__________": {
       "counters": {
@@ -2410,10 +2410,10 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 3450,
-        "effects": 8,
+        "points_spent": 3800,
+        "effects": 9,
         "follow": 1,
-        "chat": 60,
+        "chat": 62,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2434,7 +2434,7 @@
         "gift_bombs_first",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-08-09T14:54:56Z"
+      "lastUpdated": "2025-08-16T14:32:05Z"
     },
     "s3n71": {
       "counters": {
@@ -2816,8 +2816,9 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 35,
-        "follow": 1
+        "chat": 45,
+        "follow": 1,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2826,9 +2827,10 @@
         "chat_talker",
         "chat_conversationalist",
         "night_owl",
-        "bday2025_attend"
+        "bday2025_attend",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-08-16T14:25:43Z"
+      "lastUpdated": "2025-08-16T15:00:10Z"
     },
     "justflip": {
       "counters": {
@@ -4801,7 +4803,7 @@
       "lastUpdated": "2025-08-16T14:11:17Z"
     }
   },
-  "lastUpdated": "2025-08-16T13:26:39Z",
+  "lastUpdated": "2025-08-16T14:00:11Z",
   "totalUsers": 195,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
