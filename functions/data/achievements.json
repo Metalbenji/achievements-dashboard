@@ -1389,7 +1389,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 481,
+        "chat": 482,
         "points_spent": 12100,
         "effects": 6,
         "sub": 7,
@@ -1431,7 +1431,7 @@
         "interactive_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-16T12:43:16Z"
+      "lastUpdated": "2025-08-16T12:50:31Z"
     },
     "celran": {
       "counters": {
@@ -1499,7 +1499,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 84,
+        "chat": 86,
         "points_spent": 7200,
         "effects": 5,
         "follow": 1,
@@ -1532,7 +1532,7 @@
         "screenshot_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T12:07:54Z"
+      "lastUpdated": "2025-08-16T12:55:33Z"
     },
     "ramdon101": {
       "counters": {
@@ -2117,7 +2117,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 135,
+        "chat": 139,
         "sub": 22,
         "points_spent": 1250,
         "screenshot": 1,
@@ -2148,12 +2148,12 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-16T12:43:33Z"
+      "lastUpdated": "2025-08-16T12:50:47Z"
     },
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 162,
+        "chat": 163,
         "points_spent": 5950,
         "sounds": 7,
         "effects": 2,
@@ -2184,12 +2184,12 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T12:24:47Z"
+      "lastUpdated": "2025-08-16T12:52:13Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1017,
+        "chat": 1018,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2245,7 +2245,7 @@
         "bday2025_support",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-16T12:46:50Z"
+      "lastUpdated": "2025-08-16T12:47:10Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2495,7 +2495,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 47
+        "chat": 48
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2505,7 +2505,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T10:25:38Z"
+      "lastUpdated": "2025-08-16T12:51:29Z"
     },
     "gwinniejones": {
       "counters": {
@@ -4685,10 +4685,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-16T12:40:19Z"
+    },
+    "earthstepdaddy": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-16T12:56:59Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:47:09Z",
-  "totalUsers": 190,
+  "lastUpdated": "2025-08-16T11:57:01Z",
+  "totalUsers": 191,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
