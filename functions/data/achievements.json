@@ -2012,7 +2012,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 91,
+        "chat": 92,
         "points_spent": 1600,
         "effects": 2
       },
@@ -2026,7 +2026,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-08-16T13:14:04Z"
+      "lastUpdated": "2025-08-16T13:14:13Z"
     },
     "spoono__": {
       "counters": {
@@ -4732,7 +4732,7 @@
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 24,
+        "chat": 25,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
@@ -4750,9 +4750,10 @@
         "bits_tiny",
         "bits_small",
         "raid_tier1_captain",
-        "bits_regular"
+        "bits_regular",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T13:13:48Z"
+      "lastUpdated": "2025-08-16T13:14:15Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4766,7 +4767,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:14:11Z",
+  "lastUpdated": "2025-08-16T12:14:16Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
