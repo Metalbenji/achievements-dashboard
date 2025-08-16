@@ -4063,7 +4063,7 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 14,
+        "chat": 16,
         "gift_subs": 1,
         "bits": 169,
         "raid": 2
@@ -4080,7 +4080,7 @@
         "raid_tier1_captain",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T13:05:38Z"
+      "lastUpdated": "2025-08-16T13:06:02Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4708,7 +4708,7 @@
     "earthstepdaddy": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4716,11 +4716,11 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T13:05:41Z"
+      "lastUpdated": "2025-08-16T13:06:23Z"
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 13,
+        "chat": 14,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
@@ -4734,7 +4734,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:05:04Z"
+      "lastUpdated": "2025-08-16T13:06:21Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4748,7 +4748,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:05:42Z",
+  "lastUpdated": "2025-08-16T12:06:32Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
