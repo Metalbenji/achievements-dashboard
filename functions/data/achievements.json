@@ -1971,7 +1971,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 209,
+        "chat": 210,
         "points_spent": 12153,
         "interactive": 10,
         "effects": 10,
@@ -2007,12 +2007,12 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-16T12:45:18Z"
+      "lastUpdated": "2025-08-16T13:13:50Z"
     },
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 90,
         "points_spent": 1600,
         "effects": 2
       },
@@ -2026,7 +2026,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-08-16T13:12:42Z"
+      "lastUpdated": "2025-08-16T13:13:13Z"
     },
     "spoono__": {
       "counters": {
@@ -4065,8 +4065,8 @@
       "counters": {
         "chat": 19,
         "gift_subs": 1,
-        "bits": 195,
-        "raid": 5,
+        "bits": 210,
+        "raid": 6,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -4083,7 +4083,7 @@
         "raid_tier2_seasoned",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-08-16T13:13:09Z"
+      "lastUpdated": "2025-08-16T13:13:21Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4726,7 +4726,7 @@
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 23,
+        "chat": 24,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
@@ -4746,7 +4746,7 @@
         "raid_tier1_captain",
         "bits_regular"
       ],
-      "lastUpdated": "2025-08-16T13:12:58Z"
+      "lastUpdated": "2025-08-16T13:13:48Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4760,7 +4760,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:13:10Z",
+  "lastUpdated": "2025-08-16T12:14:01Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
