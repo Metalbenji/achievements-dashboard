@@ -2240,7 +2240,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 47
+        "chat": 48
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2251,7 +2251,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-10T11:00:16Z"
+      "lastUpdated": "2025-08-16T08:21:46Z"
     },
     "ke1fire": {
       "counters": {
@@ -4557,10 +4557,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-16T08:21:34Z"
+    },
+    "coach_gief": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-16T08:22:05Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:21:35Z",
-  "totalUsers": 181,
+  "lastUpdated": "2025-08-16T07:22:07Z",
+  "totalUsers": 182,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
