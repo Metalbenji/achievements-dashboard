@@ -4661,10 +4661,31 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-16T12:20:27Z"
+    },
+    "muchachoswifey": {
+      "counters": {
+        "sub": 3
+      },
+      "unlockedAchievements": [
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal"
+      ],
+      "lastUpdated": "2025-08-16T12:38:13Z"
+    },
+    "muchacho1212": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-16T12:39:28Z"
     }
   },
-  "lastUpdated": "2025-08-16T11:38:17Z",
-  "totalUsers": 188,
+  "lastUpdated": "2025-08-16T11:39:29Z",
+  "totalUsers": 190,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
