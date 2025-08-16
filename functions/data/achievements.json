@@ -1344,10 +1344,10 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 104,
+        "chat": 105,
         "points_spent": 22700,
         "follow": 1,
-        "sub": 13
+        "sub": 14
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1369,7 +1369,7 @@
         "spender_silver",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-10T14:48:00Z"
+      "lastUpdated": "2025-08-16T09:08:07Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1536,7 +1536,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 516,
+        "chat": 534,
         "points_spent": 24550,
         "screenshot": 1,
         "follow": 1,
@@ -1593,7 +1593,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-16T08:56:22Z"
+      "lastUpdated": "2025-08-16T09:19:50Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1971,7 +1971,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 186,
+        "chat": 190,
         "points_spent": 11153,
         "interactive": 8,
         "effects": 10,
@@ -2005,7 +2005,7 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-16T09:02:00Z"
+      "lastUpdated": "2025-08-16T09:07:02Z"
     },
     "redunt86": {
       "counters": {
@@ -2421,7 +2421,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 121,
+        "chat": 129,
         "sub": 33,
         "points_spent": 17901,
         "interactive": 1,
@@ -2472,7 +2472,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2025-08-16T09:00:32Z"
+      "lastUpdated": "2025-08-16T09:17:21Z"
     },
     "umenneske94": {
       "counters": {
@@ -2624,7 +2624,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 225,
+        "chat": 227,
         "points_spent": 4150,
         "sounds": 1,
         "effects": 8,
@@ -2682,7 +2682,7 @@
         "sub_tier2",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-16T08:57:12Z"
+      "lastUpdated": "2025-08-16T09:16:48Z"
     },
     "andilippi": {
       "counters": {
@@ -2908,7 +2908,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 39
+        "chat": 52
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2927,7 +2927,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T09:02:06Z"
+      "lastUpdated": "2025-08-16T09:17:18Z"
     },
     "khazan67": {
       "counters": {
@@ -3084,13 +3084,13 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T16:01:05Z"
+      "lastUpdated": "2025-08-16T09:19:41Z"
     },
     "domtok1": {
       "counters": {
@@ -4068,15 +4068,16 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T08:54:46Z"
+      "lastUpdated": "2025-08-16T09:20:32Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4304,7 +4305,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 15
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4312,7 +4313,7 @@
         "weekend_warrior",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T08:35:01Z"
+      "lastUpdated": "2025-08-16T09:12:22Z"
     },
     "dinshara": {
       "counters": {
@@ -4559,14 +4560,14 @@
     "sophplayswow": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T08:33:35Z"
+      "lastUpdated": "2025-08-16T09:07:02Z"
     },
     "coach_gief": {
       "counters": {
@@ -4629,7 +4630,7 @@
       "lastUpdated": "2025-08-16T08:52:54Z"
     }
   },
-  "lastUpdated": "2025-08-16T08:02:09Z",
+  "lastUpdated": "2025-08-16T08:20:32Z",
   "totalUsers": 186,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
