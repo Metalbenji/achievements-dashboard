@@ -3291,14 +3291,15 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T14:19:43Z"
+      "lastUpdated": "2025-08-16T14:21:21Z"
     },
     "akiraownz": {
       "counters": {
@@ -4799,7 +4800,7 @@
       "lastUpdated": "2025-08-16T14:11:17Z"
     }
   },
-  "lastUpdated": "2025-08-16T13:19:44Z",
+  "lastUpdated": "2025-08-16T13:21:21Z",
   "totalUsers": 195,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
