@@ -1389,13 +1389,13 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 552,
-        "points_spent": 12450,
+        "chat": 562,
+        "points_spent": 12850,
         "effects": 7,
         "sub": 7,
         "bits": 1894,
         "raid": 5,
-        "interactive": 2,
+        "interactive": 3,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -1432,7 +1432,7 @@
         "sound_first",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-08-16T16:00:56Z"
+      "lastUpdated": "2025-08-16T16:11:47Z"
     },
     "celran": {
       "counters": {
@@ -1537,7 +1537,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 590,
+        "chat": 591,
         "points_spent": 44550,
         "screenshot": 1,
         "follow": 1,
@@ -1594,7 +1594,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-16T15:59:26Z"
+      "lastUpdated": "2025-08-16T16:06:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1792,7 +1792,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 49,
+        "chat": 51,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1809,7 +1809,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T15:40:16Z"
+      "lastUpdated": "2025-08-16T16:17:51Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2155,7 +2155,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 201,
         "points_spent": 6250,
         "sounds": 7,
         "effects": 3,
@@ -2193,7 +2193,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-16T16:02:22Z"
+      "lastUpdated": "2025-08-16T16:08:26Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2411,8 +2411,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 3800,
-        "effects": 9,
+        "points_spent": 4150,
+        "effects": 10,
         "follow": 1,
         "chat": 62,
         "interactive": 1,
@@ -2433,9 +2433,10 @@
         "bday2025_attend",
         "gift_bomb_5",
         "gift_bombs_first",
-        "bday2025_support"
+        "bday2025_support",
+        "effect_collector"
       ],
-      "lastUpdated": "2025-08-16T14:32:05Z"
+      "lastUpdated": "2025-08-16T16:17:59Z"
     },
     "s3n71": {
       "counters": {
@@ -2854,7 +2855,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 268,
+        "chat": 278,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2880,7 +2881,7 @@
         "sub_tier1",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-16T10:51:36Z"
+      "lastUpdated": "2025-08-16T16:05:49Z"
     },
     "majesty81": {
       "counters": {
@@ -2939,7 +2940,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 120
+        "chat": 123
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2959,7 +2960,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T16:02:20Z"
+      "lastUpdated": "2025-08-16T16:03:01Z"
     },
     "khazan67": {
       "counters": {
@@ -4585,8 +4586,8 @@
       "counters": {
         "follow": 1,
         "chat": 93,
-        "points_spent": 4500,
-        "effects": 1,
+        "points_spent": 4700,
+        "effects": 2,
         "sounds": 2,
         "interactive": 3
       },
@@ -4601,7 +4602,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T15:16:33Z"
+      "lastUpdated": "2025-08-16T16:06:17Z"
     },
     "jamie1496": {
       "counters": {
@@ -4822,7 +4823,7 @@
       "lastUpdated": "2025-08-16T15:19:51Z"
     }
   },
-  "lastUpdated": "2025-08-16T15:02:23Z",
+  "lastUpdated": "2025-08-16T15:18:00Z",
   "totalUsers": 196,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
