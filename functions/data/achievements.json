@@ -2159,7 +2159,8 @@
         "effects": 2,
         "screenshot": 1,
         "sub": 13,
-        "interactive": 4
+        "interactive": 4,
+        "bits": 69
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2182,9 +2183,12 @@
         "bday2025_support",
         "spender_bronze",
         "interactive_first",
-        "chat_regular"
+        "chat_regular",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2025-08-16T13:04:59Z"
+      "lastUpdated": "2025-08-16T13:05:33Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4741,7 +4745,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:05:36Z",
+  "lastUpdated": "2025-08-16T12:05:38Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
