@@ -4724,7 +4724,8 @@
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
-        "sounds": 1
+        "sounds": 1,
+        "bits": 30
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -4732,9 +4733,11 @@
         "follow_supporter",
         "chat_talker",
         "effect_first",
-        "sound_first"
+        "sound_first",
+        "bits_tiny",
+        "bits_small"
       ],
-      "lastUpdated": "2025-08-16T13:06:21Z"
+      "lastUpdated": "2025-08-16T13:06:31Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4748,7 +4751,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:06:33Z",
+  "lastUpdated": "2025-08-16T12:06:34Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
