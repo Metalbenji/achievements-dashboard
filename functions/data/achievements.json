@@ -2153,7 +2153,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 169,
+        "chat": 170,
         "points_spent": 5950,
         "sounds": 7,
         "effects": 2,
@@ -2190,7 +2190,7 @@
         "bits_regular",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-16T13:05:37Z"
+      "lastUpdated": "2025-08-16T13:06:46Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2588,7 +2588,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 30,
+        "chat": 31,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2601,7 +2601,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T11:12:03Z"
+      "lastUpdated": "2025-08-16T13:06:56Z"
     },
     "chevelletv": {
       "counters": {
@@ -2924,7 +2924,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 84
+        "chat": 85
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2943,7 +2943,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-16T11:58:20Z"
+      "lastUpdated": "2025-08-16T13:07:02Z"
     },
     "khazan67": {
       "counters": {
@@ -4063,7 +4063,7 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 16,
+        "chat": 17,
         "gift_subs": 1,
         "bits": 169,
         "raid": 2
@@ -4080,7 +4080,7 @@
         "raid_tier1_captain",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T13:06:02Z"
+      "lastUpdated": "2025-08-16T13:06:52Z"
     },
     "technoninjatv": {
       "counters": {
@@ -4720,12 +4720,13 @@
     },
     "jadesimsss13": {
       "counters": {
-        "chat": 14,
+        "chat": 15,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
         "sounds": 1,
-        "bits": 30
+        "bits": 30,
+        "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -4735,9 +4736,10 @@
         "effect_first",
         "sound_first",
         "bits_tiny",
-        "bits_small"
+        "bits_small",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-16T13:06:31Z"
+      "lastUpdated": "2025-08-16T13:06:49Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4751,7 +4753,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:06:34Z",
+  "lastUpdated": "2025-08-16T12:07:15Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
