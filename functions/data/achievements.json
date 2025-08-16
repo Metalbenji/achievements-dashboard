@@ -4578,16 +4578,18 @@
     "derxgamin": {
       "counters": {
         "gift_subs": 1,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "gift_starter",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T08:28:26Z"
+      "lastUpdated": "2025-08-16T08:28:27Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:28:27Z",
+  "lastUpdated": "2025-08-16T07:28:29Z",
   "totalUsers": 183,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
