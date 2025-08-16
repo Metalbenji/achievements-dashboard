@@ -1970,7 +1970,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 174,
+        "chat": 175,
         "points_spent": 11053,
         "interactive": 8,
         "effects": 9,
@@ -2003,7 +2003,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-16T08:26:15Z"
+      "lastUpdated": "2025-08-16T08:27:19Z"
     },
     "redunt86": {
       "counters": {
@@ -2419,16 +2419,16 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 103,
+        "chat": 105,
         "sub": 33,
-        "points_spent": 17101,
+        "points_spent": 17901,
         "interactive": 1,
         "sounds": 1,
         "gift_subs": 3,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 61,
         "largest_gift_bomb": 56,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2470,7 +2470,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2025-08-16T08:23:51Z"
+      "lastUpdated": "2025-08-16T08:28:17Z"
     },
     "umenneske94": {
       "counters": {
@@ -3002,7 +3002,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 54,
+        "chat": 55,
         "follow": 1,
         "points_spent": 1500,
         "sounds": 1,
@@ -3020,7 +3020,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-10T10:22:52Z"
+      "lastUpdated": "2025-08-16T08:26:35Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4541,7 +4541,7 @@
     "jamie1496": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 400,
         "interactive": 1
       },
@@ -4551,7 +4551,7 @@
         "chat_newbie",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T08:26:30Z"
+      "lastUpdated": "2025-08-16T08:27:49Z"
     },
     "sophplayswow": {
       "counters": {
@@ -4577,15 +4577,17 @@
     },
     "derxgamin": {
       "counters": {
-        "gift_subs": 1
+        "gift_subs": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "gift_starter"
+        "gift_starter",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-08-16T08:26:14Z"
+      "lastUpdated": "2025-08-16T08:28:26Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:26:31Z",
+  "lastUpdated": "2025-08-16T07:28:27Z",
   "totalUsers": 183,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
