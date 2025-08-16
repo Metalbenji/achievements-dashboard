@@ -1972,8 +1972,8 @@
       "counters": {
         "follow": 1,
         "chat": 206,
-        "points_spent": 11153,
-        "interactive": 8,
+        "points_spent": 12153,
+        "interactive": 10,
         "effects": 10,
         "sub": 22,
         "sounds": 1
@@ -2004,9 +2004,10 @@
         "sound_first",
         "spender_silver",
         "effect_collector",
-        "chat_frequent"
+        "chat_frequent",
+        "interactive_regular"
       ],
-      "lastUpdated": "2025-08-16T11:39:08Z"
+      "lastUpdated": "2025-08-16T12:04:32Z"
     },
     "redunt86": {
       "counters": {
@@ -2147,7 +2148,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 158,
+        "chat": 161,
         "points_spent": 5450,
         "sounds": 7,
         "effects": 1,
@@ -2178,7 +2179,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T11:58:05Z"
+      "lastUpdated": "2025-08-16T12:04:16Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -4072,7 +4073,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 20
+        "chat": 21
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4081,7 +4082,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-16T11:58:35Z"
+      "lastUpdated": "2025-08-16T11:59:54Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4646,7 +4647,7 @@
       "lastUpdated": "2025-08-16T11:59:00Z"
     }
   },
-  "lastUpdated": "2025-08-16T10:59:01Z",
+  "lastUpdated": "2025-08-16T11:04:33Z",
   "totalUsers": 187,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
