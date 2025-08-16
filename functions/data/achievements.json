@@ -1390,8 +1390,8 @@
     "little_lilith_": {
       "counters": {
         "chat": 485,
-        "points_spent": 12100,
-        "effects": 6,
+        "points_spent": 12450,
+        "effects": 7,
         "sub": 7,
         "bits": 1869,
         "raid": 3,
@@ -1431,7 +1431,7 @@
         "interactive_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:02:16Z"
+      "lastUpdated": "2025-08-16T13:03:21Z"
     },
     "celran": {
       "counters": {
@@ -2153,7 +2153,7 @@
     "epik__tv": {
       "counters": {
         "follow": 1,
-        "chat": 166,
+        "chat": 168,
         "points_spent": 5950,
         "sounds": 7,
         "effects": 2,
@@ -2184,7 +2184,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-16T13:02:34Z"
+      "lastUpdated": "2025-08-16T13:03:30Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2991,7 +2991,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 128,
+        "chat": 129,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1
@@ -3008,7 +3008,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:02:14Z"
+      "lastUpdated": "2025-08-16T13:03:34Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -4702,30 +4702,32 @@
     "earthstepdaddy": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T13:01:22Z"
+      "lastUpdated": "2025-08-16T13:03:27Z"
     },
     "jadesimsss13": {
       "counters": {
         "chat": 11,
         "follow": 1,
-        "points_spent": 200,
-        "effects": 1
+        "points_spent": 300,
+        "effects": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "follow_supporter",
         "chat_talker",
-        "effect_first"
+        "effect_first",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:03:17Z"
+      "lastUpdated": "2025-08-16T13:04:12Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -4739,7 +4741,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:03:18Z",
+  "lastUpdated": "2025-08-16T12:04:12Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
