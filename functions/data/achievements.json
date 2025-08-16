@@ -2991,7 +2991,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 125,
+        "chat": 126,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1
@@ -3008,7 +3008,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-16T13:00:33Z"
+      "lastUpdated": "2025-08-16T13:00:41Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -4701,13 +4701,14 @@
     "earthstepdaddy": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T13:00:22Z"
+      "lastUpdated": "2025-08-16T13:00:48Z"
     },
     "jadesimsss13": {
       "counters": {
@@ -4733,7 +4734,7 @@
       "lastUpdated": "2025-08-16T12:58:56Z"
     }
   },
-  "lastUpdated": "2025-08-16T12:00:40Z",
+  "lastUpdated": "2025-08-16T12:00:49Z",
   "totalUsers": 193,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
