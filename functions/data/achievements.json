@@ -2497,15 +2497,17 @@
         "follow": 1,
         "chat": 2,
         "points_spent": 1300,
-        "interactive": 1
+        "interactive": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "interactive_first",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-16T15:05:35Z"
+      "lastUpdated": "2025-08-16T15:05:36Z"
     },
     "soundalerts": {
       "counters": {
@@ -4806,7 +4808,7 @@
       "lastUpdated": "2025-08-16T15:03:47Z"
     }
   },
-  "lastUpdated": "2025-08-16T14:05:36Z",
+  "lastUpdated": "2025-08-16T14:05:37Z",
   "totalUsers": 195,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
