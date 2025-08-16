@@ -4546,10 +4546,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-16T08:21:26Z"
+    },
+    "sophplayswow": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-16T08:21:33Z"
     }
   },
-  "lastUpdated": "2025-08-16T07:21:27Z",
-  "totalUsers": 180,
+  "lastUpdated": "2025-08-16T07:21:33Z",
+  "totalUsers": 181,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
