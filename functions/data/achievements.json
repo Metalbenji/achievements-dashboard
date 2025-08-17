@@ -1501,7 +1501,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 86,
+        "chat": 89,
         "points_spent": 7200,
         "effects": 5,
         "follow": 1,
@@ -1534,7 +1534,7 @@
         "screenshot_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-16T12:55:33Z"
+      "lastUpdated": "2025-08-17T16:26:01Z"
     },
     "ramdon101": {
       "counters": {
@@ -4952,16 +4952,17 @@
     "werwin1": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T16:24:41Z"
+      "lastUpdated": "2025-08-17T16:26:10Z"
     }
   },
-  "lastUpdated": "2025-08-17T15:24:42Z",
+  "lastUpdated": "2025-08-17T15:26:11Z",
   "totalUsers": 205,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
