@@ -1792,7 +1792,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 91,
+        "chat": 97,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1809,7 +1809,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T11:34:43Z"
+      "lastUpdated": "2025-08-17T13:09:18Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2198,7 +2198,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1047,
+        "chat": 1048,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2254,7 +2254,7 @@
         "bday2025_support",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-17T12:40:45Z"
+      "lastUpdated": "2025-08-17T13:08:00Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3094,7 +3094,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 118,
+        "chat": 124,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -3112,7 +3112,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T12:37:00Z"
+      "lastUpdated": "2025-08-17T13:09:49Z"
     },
     "roffelonator": {
       "counters": {
@@ -4673,13 +4673,15 @@
     "glissov": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 3,
+        "points_spent": 20000
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-08-16T08:38:37Z"
+      "lastUpdated": "2025-08-17T13:14:57Z"
     },
     "bekevtv": {
       "counters": {
@@ -4872,7 +4874,7 @@
       "lastUpdated": "2025-08-17T13:03:10Z"
     }
   },
-  "lastUpdated": "2025-08-17T12:03:10Z",
+  "lastUpdated": "2025-08-17T12:14:58Z",
   "totalUsers": 199,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
