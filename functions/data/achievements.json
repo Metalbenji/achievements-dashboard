@@ -2054,7 +2054,7 @@
       "counters": {
         "points_spent": 21000,
         "follow": 1,
-        "chat": 243,
+        "chat": 245,
         "effects": 23,
         "screenshot": 1,
         "sounds": 4,
@@ -2101,7 +2101,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T10:02:09Z"
+      "lastUpdated": "2025-08-17T10:16:13Z"
     },
     "syn__________": {
       "counters": {
@@ -2441,7 +2441,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 158,
+        "chat": 160,
         "sub": 33,
         "points_spent": 18101,
         "interactive": 1,
@@ -2492,7 +2492,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2025-08-17T09:59:41Z"
+      "lastUpdated": "2025-08-17T10:14:31Z"
     },
     "umenneske94": {
       "counters": {
@@ -2751,14 +2751,14 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T10:10:06Z"
+      "lastUpdated": "2025-08-17T10:10:43Z"
     },
     "chadrestricted": {
       "counters": {
@@ -3364,7 +3364,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 19
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3373,7 +3373,7 @@
         "bday2025_attend",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:10:02Z"
+      "lastUpdated": "2025-08-17T10:18:53Z"
     },
     "mulquero": {
       "counters": {
@@ -4826,7 +4826,7 @@
       "lastUpdated": "2025-08-16T15:19:51Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:10:07Z",
+  "lastUpdated": "2025-08-17T09:19:39Z",
   "totalUsers": 196,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
