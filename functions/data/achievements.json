@@ -2015,7 +2015,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 140,
+        "chat": 143,
         "points_spent": 2100,
         "effects": 3
       },
@@ -2030,7 +2030,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T16:30:00Z"
+      "lastUpdated": "2025-08-17T16:30:58Z"
     },
     "spoono__": {
       "counters": {
@@ -4964,16 +4964,17 @@
     "remcotje1986": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T16:30:10Z"
+      "lastUpdated": "2025-08-17T16:31:00Z"
     }
   },
-  "lastUpdated": "2025-08-17T15:30:11Z",
+  "lastUpdated": "2025-08-17T15:31:00Z",
   "totalUsers": 206,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
