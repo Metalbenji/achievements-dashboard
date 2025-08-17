@@ -4674,15 +4674,17 @@
       "counters": {
         "follow": 1,
         "chat": 3,
-        "points_spent": 20000
+        "points_spent": 20000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "spender_bronze",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-17T13:14:57Z"
+      "lastUpdated": "2025-08-17T13:15:00Z"
     },
     "bekevtv": {
       "counters": {
@@ -4875,7 +4877,7 @@
       "lastUpdated": "2025-08-17T13:03:10Z"
     }
   },
-  "lastUpdated": "2025-08-17T12:14:59Z",
+  "lastUpdated": "2025-08-17T12:15:00Z",
   "totalUsers": 199,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
