@@ -2015,7 +2015,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 189,
+        "chat": 200,
         "points_spent": 2600,
         "effects": 4
       },
@@ -2028,9 +2028,10 @@
         "bday2025_attend",
         "effect_first",
         "spender_bronze",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T17:12:40Z"
+      "lastUpdated": "2025-08-17T17:19:07Z"
     },
     "spoono__": {
       "counters": {
@@ -2331,7 +2332,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 159,
+        "chat": 166,
         "points_spent": 101,
         "sounds": 1
       },
@@ -2346,7 +2347,7 @@
         "chat_regular",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-17T17:12:36Z"
+      "lastUpdated": "2025-08-17T17:18:49Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2454,14 +2455,14 @@
         "follow": 1,
         "chat": 200,
         "sub": 33,
-        "points_spent": 18101,
-        "interactive": 1,
+        "points_spent": 20501,
+        "interactive": 2,
         "sounds": 1,
         "gift_subs": 3,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 61,
         "largest_gift_bomb": 56,
-        "effects": 3
+        "effects": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2504,7 +2505,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T17:12:41Z"
+      "lastUpdated": "2025-08-17T17:14:33Z"
     },
     "umenneske94": {
       "counters": {
@@ -3415,7 +3416,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 47
+        "chat": 48
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3424,7 +3425,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T14:12:20Z"
+      "lastUpdated": "2025-08-17T17:13:08Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4979,16 +4980,16 @@
     "nezeya_dk": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T17:11:54Z"
+      "lastUpdated": "2025-08-17T17:13:31Z"
     }
   },
-  "lastUpdated": "2025-08-17T16:12:42Z",
+  "lastUpdated": "2025-08-17T16:19:08Z",
   "totalUsers": 207,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
