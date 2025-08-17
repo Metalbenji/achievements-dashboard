@@ -2208,7 +2208,8 @@
         "effects": 5,
         "sub": 38,
         "sounds": 2,
-        "bits": 1000
+        "bits": 1000,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2259,9 +2260,10 @@
         "bits_small",
         "bits_regular",
         "bits_steady",
-        "bits_dedicated"
+        "bits_dedicated",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-17T14:54:50Z"
+      "lastUpdated": "2025-08-17T14:54:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4901,14 +4903,15 @@
     "codewithtd": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T14:51:04Z"
+      "lastUpdated": "2025-08-17T14:56:05Z"
     },
     "r1_prototype": {
       "counters": {
@@ -4944,7 +4947,7 @@
       "lastUpdated": "2025-08-17T14:51:11Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:54:57Z",
+  "lastUpdated": "2025-08-17T13:56:06Z",
   "totalUsers": 204,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
