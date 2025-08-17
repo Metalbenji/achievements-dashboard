@@ -4951,15 +4951,17 @@
     },
     "werwin1": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T16:24:40Z"
+      "lastUpdated": "2025-08-17T16:24:41Z"
     }
   },
-  "lastUpdated": "2025-08-17T15:24:40Z",
+  "lastUpdated": "2025-08-17T15:24:42Z",
   "totalUsers": 205,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
