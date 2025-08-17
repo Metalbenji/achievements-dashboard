@@ -1501,7 +1501,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 89,
+        "chat": 91,
         "points_spent": 7200,
         "effects": 5,
         "follow": 1,
@@ -1534,7 +1534,7 @@
         "screenshot_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-17T16:26:01Z"
+      "lastUpdated": "2025-08-17T16:28:25Z"
     },
     "ramdon101": {
       "counters": {
@@ -2015,7 +2015,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 135,
+        "chat": 140,
         "points_spent": 2100,
         "effects": 3
       },
@@ -2030,7 +2030,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T15:09:02Z"
+      "lastUpdated": "2025-08-17T16:30:00Z"
     },
     "spoono__": {
       "counters": {
@@ -2056,7 +2056,7 @@
       "counters": {
         "points_spent": 21800,
         "follow": 1,
-        "chat": 262,
+        "chat": 265,
         "effects": 24,
         "screenshot": 1,
         "sounds": 4,
@@ -2103,7 +2103,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T16:23:32Z"
+      "lastUpdated": "2025-08-17T16:28:36Z"
     },
     "syn__________": {
       "counters": {
@@ -4952,18 +4952,27 @@
     "werwin1": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T16:26:10Z"
+      "lastUpdated": "2025-08-17T16:26:57Z"
+    },
+    "remcotje1986": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-17T16:30:09Z"
     }
   },
-  "lastUpdated": "2025-08-17T15:26:11Z",
-  "totalUsers": 205,
+  "lastUpdated": "2025-08-17T15:30:10Z",
+  "totalUsers": 206,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
