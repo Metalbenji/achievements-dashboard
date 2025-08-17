@@ -1537,7 +1537,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 651,
+        "chat": 652,
         "points_spent": 44550,
         "screenshot": 1,
         "follow": 1,
@@ -1594,7 +1594,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-17T10:22:27Z"
+      "lastUpdated": "2025-08-17T10:31:34Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3364,7 +3364,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3373,7 +3373,7 @@
         "bday2025_attend",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:18:53Z"
+      "lastUpdated": "2025-08-17T10:32:58Z"
     },
     "mulquero": {
       "counters": {
@@ -4336,15 +4336,16 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior",
-        "bday2025_attend"
+        "bday2025_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-07-26T23:51:48Z"
+      "lastUpdated": "2025-08-17T10:35:14Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -4587,7 +4588,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 136,
+        "chat": 138,
         "points_spent": 7500,
         "effects": 3,
         "sounds": 3,
@@ -4605,7 +4606,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T10:08:20Z"
+      "lastUpdated": "2025-08-17T10:32:00Z"
     },
     "jamie1496": {
       "counters": {
@@ -4829,7 +4830,7 @@
       "counters": {
         "sub": 3,
         "follow": 1,
-        "chat": 10
+        "chat": 13
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4841,10 +4842,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:30:37Z"
+      "lastUpdated": "2025-08-17T10:34:51Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:30:38Z",
+  "lastUpdated": "2025-08-17T09:35:14Z",
   "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
