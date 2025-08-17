@@ -2015,9 +2015,9 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 186,
-        "points_spent": 2100,
-        "effects": 3
+        "chat": 187,
+        "points_spent": 2600,
+        "effects": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2030,7 +2030,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T17:11:01Z"
+      "lastUpdated": "2025-08-17T17:12:04Z"
     },
     "spoono__": {
       "counters": {
@@ -2054,10 +2054,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 21800,
+        "points_spent": 22600,
         "follow": 1,
         "chat": 267,
-        "effects": 24,
+        "effects": 25,
         "screenshot": 1,
         "sounds": 4,
         "bits": 200,
@@ -2101,9 +2101,10 @@
         "chat_regular",
         "gift_kind",
         "interactive_first",
-        "chat_frequent"
+        "chat_frequent",
+        "effect_master"
       ],
-      "lastUpdated": "2025-08-17T17:01:22Z"
+      "lastUpdated": "2025-08-17T17:12:16Z"
     },
     "syn__________": {
       "counters": {
@@ -4977,16 +4978,16 @@
     "nezeya_dk": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T17:11:21Z"
+      "lastUpdated": "2025-08-17T17:11:54Z"
     }
   },
-  "lastUpdated": "2025-08-17T16:11:22Z",
+  "lastUpdated": "2025-08-17T16:12:17Z",
   "totalUsers": 207,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
