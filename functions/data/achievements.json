@@ -1537,7 +1537,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 653,
+        "chat": 657,
         "points_spent": 44550,
         "screenshot": 1,
         "follow": 1,
@@ -1594,7 +1594,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-17T10:36:41Z"
+      "lastUpdated": "2025-08-17T10:44:01Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1643,7 +1643,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 121,
+        "chat": 124,
         "follow": 1,
         "sub": 31
       },
@@ -1668,7 +1668,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T10:22:52Z"
+      "lastUpdated": "2025-08-17T10:42:31Z"
     },
     "scoman07": {
       "counters": {
@@ -1792,7 +1792,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 88,
+        "chat": 90,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1809,7 +1809,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T10:03:19Z"
+      "lastUpdated": "2025-08-17T10:45:40Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2715,13 +2715,14 @@
     "andilippi": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-06-28T08:37:21Z"
+      "lastUpdated": "2025-08-17T10:48:04Z"
     },
     "gngrwow": {
       "counters": {
@@ -4336,7 +4337,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4346,7 +4347,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:39:44Z"
+      "lastUpdated": "2025-08-17T10:44:28Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -4589,7 +4590,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 146,
+        "chat": 155,
         "points_spent": 7500,
         "effects": 3,
         "sounds": 3,
@@ -4607,7 +4608,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T10:39:20Z"
+      "lastUpdated": "2025-08-17T10:45:53Z"
     },
     "jamie1496": {
       "counters": {
@@ -4831,7 +4832,7 @@
       "counters": {
         "sub": 3,
         "follow": 1,
-        "chat": 14
+        "chat": 23
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4843,10 +4844,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:35:45Z"
+      "lastUpdated": "2025-08-17T10:46:44Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:39:44Z",
+  "lastUpdated": "2025-08-17T09:48:04Z",
   "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
