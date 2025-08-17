@@ -1537,7 +1537,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 649,
+        "chat": 651,
         "points_spent": 44550,
         "screenshot": 1,
         "follow": 1,
@@ -1594,7 +1594,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-17T10:09:57Z"
+      "lastUpdated": "2025-08-17T10:22:27Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1643,7 +1643,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 120,
+        "chat": 121,
         "follow": 1,
         "sub": 31
       },
@@ -1668,7 +1668,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T10:04:58Z"
+      "lastUpdated": "2025-08-17T10:22:52Z"
     },
     "scoman07": {
       "counters": {
@@ -2054,7 +2054,7 @@
       "counters": {
         "points_spent": 21000,
         "follow": 1,
-        "chat": 245,
+        "chat": 246,
         "effects": 23,
         "screenshot": 1,
         "sounds": 4,
@@ -2101,7 +2101,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T10:16:13Z"
+      "lastUpdated": "2025-08-17T10:23:09Z"
     },
     "syn__________": {
       "counters": {
@@ -4829,7 +4829,7 @@
       "counters": {
         "sub": 3,
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4837,12 +4837,13 @@
         "sub_supporter",
         "sub_loyal",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T10:20:11Z"
+      "lastUpdated": "2025-08-17T10:23:35Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:20:12Z",
+  "lastUpdated": "2025-08-17T09:23:36Z",
   "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
