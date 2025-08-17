@@ -2207,7 +2207,8 @@
         "points_spent": 22450,
         "effects": 5,
         "sub": 38,
-        "sounds": 2
+        "sounds": 2,
+        "bits": 1000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2253,9 +2254,14 @@
         "chat_enthusiast",
         "gift_bombs_regular",
         "bday2025_support",
-        "chat_champion"
+        "chat_champion",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular",
+        "bits_steady",
+        "bits_dedicated"
       ],
-      "lastUpdated": "2025-08-17T14:50:47Z"
+      "lastUpdated": "2025-08-17T14:54:50Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4938,7 +4944,7 @@
       "lastUpdated": "2025-08-17T14:51:11Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:54:55Z",
+  "lastUpdated": "2025-08-17T13:54:57Z",
   "totalUsers": 204,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
