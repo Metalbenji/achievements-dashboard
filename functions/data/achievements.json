@@ -3402,7 +3402,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 35
+        "chat": 37
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3411,7 +3411,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T11:21:11Z"
+      "lastUpdated": "2025-08-17T13:37:48Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4237,14 +4237,14 @@
     "funsham": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-26T20:07:01Z"
+      "lastUpdated": "2025-08-17T13:38:10Z"
     },
     "bety_bambalam": {
       "counters": {
@@ -4597,7 +4597,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 198,
+        "chat": 200,
         "points_spent": 7500,
         "effects": 3,
         "sounds": 3,
@@ -4613,9 +4613,10 @@
         "sound_first",
         "spender_bronze",
         "interactive_first",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T12:38:04Z"
+      "lastUpdated": "2025-08-17T13:38:25Z"
     },
     "jamie1496": {
       "counters": {
@@ -4878,7 +4879,7 @@
       "lastUpdated": "2025-08-17T13:03:10Z"
     }
   },
-  "lastUpdated": "2025-08-17T12:37:29Z",
+  "lastUpdated": "2025-08-17T12:38:26Z",
   "totalUsers": 199,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
