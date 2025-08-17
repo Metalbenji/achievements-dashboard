@@ -4679,7 +4679,8 @@
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver"
       ],
       "lastUpdated": "2025-08-17T13:14:57Z"
     },
@@ -4874,7 +4875,7 @@
       "lastUpdated": "2025-08-17T13:03:10Z"
     }
   },
-  "lastUpdated": "2025-08-17T12:14:58Z",
+  "lastUpdated": "2025-08-17T12:14:59Z",
   "totalUsers": 199,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
