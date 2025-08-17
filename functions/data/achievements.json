@@ -1389,7 +1389,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 633,
+        "chat": 636,
         "points_spent": 12850,
         "effects": 7,
         "sub": 7,
@@ -1432,7 +1432,7 @@
         "sound_first",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-08-17T12:43:10Z"
+      "lastUpdated": "2025-08-17T13:45:57Z"
     },
     "celran": {
       "counters": {
@@ -2199,7 +2199,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1048,
+        "chat": 1059,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2255,7 +2255,7 @@
         "bday2025_support",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-17T13:08:00Z"
+      "lastUpdated": "2025-08-17T13:49:35Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2529,7 +2529,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 86,
+        "chat": 87,
         "sub": 39,
         "points_spent": 20000,
         "sounds": 1
@@ -2558,7 +2558,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-17T12:35:54Z"
+      "lastUpdated": "2025-08-17T13:53:03Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3402,7 +3402,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 37
+        "chat": 41
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3411,7 +3411,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T13:37:48Z"
+      "lastUpdated": "2025-08-17T13:41:12Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4137,7 +4137,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 63
+        "chat": 66
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4147,7 +4147,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T09:56:01Z"
+      "lastUpdated": "2025-08-17T13:47:35Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4237,7 +4237,7 @@
     "funsham": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4245,7 +4245,7 @@
         "bday2025_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T13:38:28Z"
+      "lastUpdated": "2025-08-17T13:47:46Z"
     },
     "bety_bambalam": {
       "counters": {
@@ -4878,10 +4878,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-17T13:03:10Z"
+    },
+    "peregrine_101uk": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-17T13:54:47Z"
     }
   },
-  "lastUpdated": "2025-08-17T12:38:29Z",
-  "totalUsers": 199,
+  "lastUpdated": "2025-08-17T12:54:48Z",
+  "totalUsers": 200,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
