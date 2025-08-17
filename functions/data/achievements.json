@@ -4928,15 +4928,17 @@
     },
     "twilightriversong": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T14:51:10Z"
+      "lastUpdated": "2025-08-17T14:51:11Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:51:11Z",
+  "lastUpdated": "2025-08-17T13:51:12Z",
   "totalUsers": 204,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
