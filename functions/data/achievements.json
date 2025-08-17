@@ -2014,7 +2014,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 124,
+        "chat": 125,
         "points_spent": 1600,
         "effects": 2
       },
@@ -2029,7 +2029,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T14:51:10Z"
+      "lastUpdated": "2025-08-17T14:51:40Z"
     },
     "spoono__": {
       "counters": {
@@ -2055,7 +2055,7 @@
       "counters": {
         "points_spent": 21800,
         "follow": 1,
-        "chat": 253,
+        "chat": 254,
         "effects": 24,
         "screenshot": 1,
         "sounds": 4,
@@ -2102,7 +2102,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T14:50:53Z"
+      "lastUpdated": "2025-08-17T14:53:51Z"
     },
     "syn__________": {
       "counters": {
@@ -2653,7 +2653,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 229,
+        "chat": 233,
         "points_spent": 5000,
         "sounds": 1,
         "effects": 10,
@@ -2712,7 +2712,7 @@
         "chat_frequent",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-17T14:47:16Z"
+      "lastUpdated": "2025-08-17T14:53:36Z"
     },
     "andilippi": {
       "counters": {
@@ -4599,7 +4599,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 215,
+        "chat": 216,
         "points_spent": 9500,
         "effects": 3,
         "sounds": 3,
@@ -4619,7 +4619,7 @@
         "chat_frequent",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-08-17T14:46:49Z"
+      "lastUpdated": "2025-08-17T14:51:24Z"
     },
     "jamie1496": {
       "counters": {
@@ -4938,7 +4938,7 @@
       "lastUpdated": "2025-08-17T14:51:11Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:51:12Z",
+  "lastUpdated": "2025-08-17T13:54:51Z",
   "totalUsers": 204,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
