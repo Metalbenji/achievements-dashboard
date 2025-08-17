@@ -2015,7 +2015,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 187,
+        "chat": 189,
         "points_spent": 2600,
         "effects": 4
       },
@@ -2030,7 +2030,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T17:12:04Z"
+      "lastUpdated": "2025-08-17T17:12:40Z"
     },
     "spoono__": {
       "counters": {
@@ -2331,7 +2331,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 158,
+        "chat": 159,
         "points_spent": 101,
         "sounds": 1
       },
@@ -2346,7 +2346,7 @@
         "chat_regular",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-17T17:10:02Z"
+      "lastUpdated": "2025-08-17T17:12:36Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2452,7 +2452,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "sub": 33,
         "points_spent": 18101,
         "interactive": 1,
@@ -2501,9 +2501,10 @@
         "effect_first",
         "chat_regular",
         "gift_kind",
-        "gift_caring"
+        "gift_caring",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T17:10:10Z"
+      "lastUpdated": "2025-08-17T17:12:41Z"
     },
     "umenneske94": {
       "counters": {
@@ -4987,7 +4988,7 @@
       "lastUpdated": "2025-08-17T17:11:54Z"
     }
   },
-  "lastUpdated": "2025-08-17T16:12:17Z",
+  "lastUpdated": "2025-08-17T16:12:42Z",
   "totalUsers": 207,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
