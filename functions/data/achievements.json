@@ -5013,15 +5013,17 @@
     },
     "grimmplys": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T18:18:17Z"
+      "lastUpdated": "2025-08-17T18:18:18Z"
     }
   },
-  "lastUpdated": "2025-08-17T17:18:17Z",
+  "lastUpdated": "2025-08-17T17:18:19Z",
   "totalUsers": 209,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
