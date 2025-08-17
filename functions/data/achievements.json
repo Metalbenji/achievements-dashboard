@@ -2441,7 +2441,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 160,
+        "chat": 161,
         "sub": 33,
         "points_spent": 18101,
         "interactive": 1,
@@ -2492,7 +2492,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2025-08-17T10:14:31Z"
+      "lastUpdated": "2025-08-17T10:29:33Z"
     },
     "umenneske94": {
       "counters": {
@@ -4829,7 +4829,7 @@
       "counters": {
         "sub": 3,
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4838,12 +4838,13 @@
         "sub_loyal",
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:23:35Z"
+      "lastUpdated": "2025-08-17T10:30:37Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:23:36Z",
+  "lastUpdated": "2025-08-17T09:30:38Z",
   "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
