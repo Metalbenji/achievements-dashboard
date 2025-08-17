@@ -4915,15 +4915,17 @@
     },
     "ocukace": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T14:28:07Z"
+      "lastUpdated": "2025-08-17T14:28:09Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:28:08Z",
+  "lastUpdated": "2025-08-17T13:28:09Z",
   "totalUsers": 203,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
