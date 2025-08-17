@@ -2715,14 +2715,14 @@
     "andilippi": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T10:48:04Z"
+      "lastUpdated": "2025-08-17T10:48:43Z"
     },
     "gngrwow": {
       "counters": {
@@ -3365,16 +3365,17 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "bday2025_attend",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T10:32:58Z"
+      "lastUpdated": "2025-08-17T10:49:59Z"
     },
     "mulquero": {
       "counters": {
@@ -4590,7 +4591,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 155,
+        "chat": 157,
         "points_spent": 7500,
         "effects": 3,
         "sounds": 3,
@@ -4608,7 +4609,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T10:45:53Z"
+      "lastUpdated": "2025-08-17T10:49:35Z"
     },
     "jamie1496": {
       "counters": {
@@ -4847,7 +4848,7 @@
       "lastUpdated": "2025-08-17T10:46:44Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:48:04Z",
+  "lastUpdated": "2025-08-17T09:50:00Z",
   "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
