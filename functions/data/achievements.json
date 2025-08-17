@@ -2541,7 +2541,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 99,
+        "chat": 100,
         "sub": 39,
         "points_spent": 20000,
         "sounds": 1
@@ -2568,9 +2568,10 @@
         "chat_conversationalist",
         "spender_bronze",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T15:52:14Z"
+      "lastUpdated": "2025-08-17T17:21:18Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4151,7 +4152,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 77
+        "chat": 78
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4161,7 +4162,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T17:10:31Z"
+      "lastUpdated": "2025-08-17T17:21:04Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4990,7 +4991,7 @@
       "lastUpdated": "2025-08-17T17:20:36Z"
     }
   },
-  "lastUpdated": "2025-08-17T16:20:37Z",
+  "lastUpdated": "2025-08-17T16:21:19Z",
   "totalUsers": 207,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
