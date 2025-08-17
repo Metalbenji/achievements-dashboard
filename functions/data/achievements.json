@@ -4828,19 +4828,21 @@
     "burrman22": {
       "counters": {
         "sub": 3,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
         "sub_first_month",
         "sub_supporter",
         "sub_loyal",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T10:20:10Z"
+      "lastUpdated": "2025-08-17T10:20:11Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:20:11Z",
+  "lastUpdated": "2025-08-17T09:20:12Z",
   "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
