@@ -4881,15 +4881,17 @@
     },
     "peregrine_101uk": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T13:54:47Z"
+      "lastUpdated": "2025-08-17T13:54:48Z"
     }
   },
-  "lastUpdated": "2025-08-17T12:54:48Z",
+  "lastUpdated": "2025-08-17T12:54:49Z",
   "totalUsers": 200,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
