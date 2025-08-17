@@ -4904,15 +4904,17 @@
     },
     "r1_prototype": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-17T14:25:09Z"
+      "lastUpdated": "2025-08-17T14:26:27Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:25:10Z",
+  "lastUpdated": "2025-08-17T13:26:27Z",
   "totalUsers": 202,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
