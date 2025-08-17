@@ -3402,7 +3402,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 41
+        "chat": 47
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3411,7 +3411,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T13:41:12Z"
+      "lastUpdated": "2025-08-17T14:12:20Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4137,7 +4137,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 67
+        "chat": 69
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4147,7 +4147,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T13:55:41Z"
+      "lastUpdated": "2025-08-17T14:12:21Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4892,15 +4892,18 @@
     },
     "codewithtd": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T14:01:18Z"
+      "lastUpdated": "2025-08-17T14:13:20Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:01:19Z",
+  "lastUpdated": "2025-08-17T13:13:21Z",
   "totalUsers": 201,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
