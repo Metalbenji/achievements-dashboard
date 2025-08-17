@@ -4824,10 +4824,24 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-16T15:19:51Z"
+    },
+    "burrman22": {
+      "counters": {
+        "sub": 3,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-17T10:20:10Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:19:43Z",
-  "totalUsers": 196,
+  "lastUpdated": "2025-08-17T09:20:11Z",
+  "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
