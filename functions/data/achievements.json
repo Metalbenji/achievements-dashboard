@@ -1537,7 +1537,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 652,
+        "chat": 653,
         "points_spent": 44550,
         "screenshot": 1,
         "follow": 1,
@@ -1594,7 +1594,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-17T10:31:34Z"
+      "lastUpdated": "2025-08-17T10:36:41Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2054,7 +2054,7 @@
       "counters": {
         "points_spent": 21000,
         "follow": 1,
-        "chat": 246,
+        "chat": 249,
         "effects": 23,
         "screenshot": 1,
         "sounds": 4,
@@ -2101,7 +2101,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-17T10:23:09Z"
+      "lastUpdated": "2025-08-17T10:36:53Z"
     },
     "syn__________": {
       "counters": {
@@ -4336,16 +4336,17 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior",
         "bday2025_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:35:14Z"
+      "lastUpdated": "2025-08-17T10:39:44Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -4588,7 +4589,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 138,
+        "chat": 146,
         "points_spent": 7500,
         "effects": 3,
         "sounds": 3,
@@ -4606,7 +4607,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T10:32:00Z"
+      "lastUpdated": "2025-08-17T10:39:20Z"
     },
     "jamie1496": {
       "counters": {
@@ -4830,7 +4831,7 @@
       "counters": {
         "sub": 3,
         "follow": 1,
-        "chat": 13
+        "chat": 14
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4842,10 +4843,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T10:34:51Z"
+      "lastUpdated": "2025-08-17T10:35:45Z"
     }
   },
-  "lastUpdated": "2025-08-17T09:35:14Z",
+  "lastUpdated": "2025-08-17T09:39:44Z",
   "totalUsers": 197,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
