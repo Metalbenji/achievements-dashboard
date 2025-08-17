@@ -1537,7 +1537,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 687,
+        "chat": 689,
         "points_spent": 44550,
         "screenshot": 1,
         "follow": 1,
@@ -1594,7 +1594,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-17T14:32:35Z"
+      "lastUpdated": "2025-08-17T14:42:46Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2654,9 +2654,9 @@
       "counters": {
         "follow": 1,
         "chat": 227,
-        "points_spent": 4500,
+        "points_spent": 5000,
         "sounds": 1,
-        "effects": 9,
+        "effects": 10,
         "sub": 40,
         "bits": 2000,
         "raid": 2,
@@ -2709,9 +2709,10 @@
         "chat_regular",
         "gift_bombs_veteran",
         "sub_tier2",
-        "chat_frequent"
+        "chat_frequent",
+        "effect_collector"
       ],
-      "lastUpdated": "2025-08-16T10:46:13Z"
+      "lastUpdated": "2025-08-17T14:43:24Z"
     },
     "andilippi": {
       "counters": {
@@ -4598,7 +4599,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 210,
+        "chat": 212,
         "points_spent": 9500,
         "effects": 3,
         "sounds": 3,
@@ -4618,7 +4619,7 @@
         "chat_frequent",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-08-17T14:41:26Z"
+      "lastUpdated": "2025-08-17T14:42:17Z"
     },
     "jamie1496": {
       "counters": {
@@ -4926,7 +4927,7 @@
       "lastUpdated": "2025-08-17T14:28:21Z"
     }
   },
-  "lastUpdated": "2025-08-17T13:41:27Z",
+  "lastUpdated": "2025-08-17T13:43:24Z",
   "totalUsers": 203,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
