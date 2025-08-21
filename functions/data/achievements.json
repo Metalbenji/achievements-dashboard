@@ -1538,7 +1538,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 706,
+        "chat": 708,
         "points_spent": 44550,
         "screenshot": 1,
         "follow": 1,
@@ -1595,7 +1595,7 @@
         "interactive_first",
         "gift_starter"
       ],
-      "lastUpdated": "2025-08-17T18:00:07Z"
+      "lastUpdated": "2025-08-21T19:31:11Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1889,7 +1889,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 401,
+        "chat": 407,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1936,7 +1936,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-21T19:22:31Z"
+      "lastUpdated": "2025-08-21T19:31:21Z"
     },
     "anzerou": {
       "counters": {
@@ -2420,7 +2420,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 205,
+        "chat": 206,
         "sub": 33,
         "points_spent": 20501,
         "interactive": 2,
@@ -2472,7 +2472,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-21T19:18:26Z"
+      "lastUpdated": "2025-08-21T19:32:36Z"
     },
     "umenneske94": {
       "counters": {
@@ -2972,7 +2972,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 21,
+        "chat": 22,
         "points_spent": 701,
         "effects": 2
       },
@@ -2985,7 +2985,7 @@
         "effect_first",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-21T19:25:44Z"
+      "lastUpdated": "2025-08-21T19:29:14Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4586,7 +4586,7 @@
       "counters": {
         "follow": 1,
         "chat": 240,
-        "points_spent": 9500,
+        "points_spent": 10300,
         "effects": 3,
         "sounds": 3,
         "interactive": 3
@@ -4603,9 +4603,10 @@
         "interactive_first",
         "chat_regular",
         "chat_frequent",
-        "emperor_loyal"
+        "emperor_loyal",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-08-17T16:19:03Z"
+      "lastUpdated": "2025-08-21T19:33:23Z"
     },
     "jamie1496": {
       "counters": {
@@ -4986,16 +4987,16 @@
     "zuffer87": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-21T19:26:32Z"
+      "lastUpdated": "2025-08-21T19:26:41Z"
     }
   },
-  "lastUpdated": "2025-08-21T18:26:33Z",
+  "lastUpdated": "2025-08-21T18:33:24Z",
   "totalUsers": 209,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
