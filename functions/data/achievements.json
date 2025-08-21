@@ -3385,7 +3385,8 @@
       "counters": {
         "follow": 1,
         "chat": 55,
-        "points_spent": 2000
+        "points_spent": 2000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3393,9 +3394,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-21T19:16:42Z"
+      "lastUpdated": "2025-08-21T19:16:43Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4992,7 +4994,7 @@
       "lastUpdated": "2025-08-21T19:15:13Z"
     }
   },
-  "lastUpdated": "2025-08-21T18:16:42Z",
+  "lastUpdated": "2025-08-21T18:16:43Z",
   "totalUsers": 209,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
