@@ -3100,7 +3100,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 138,
+        "chat": 139,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -3118,7 +3118,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T16:42:21Z"
+      "lastUpdated": "2025-08-23T16:44:34Z"
     },
     "roffelonator": {
       "counters": {
@@ -5280,16 +5280,27 @@
     },
     "bears_adventures": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:44:28Z"
+      "lastUpdated": "2025-08-23T16:44:29Z"
+    },
+    "bellamii66": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-23T16:44:35Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:29Z",
-  "totalUsers": 229,
+  "lastUpdated": "2025-08-23T15:44:36Z",
+  "totalUsers": 230,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
