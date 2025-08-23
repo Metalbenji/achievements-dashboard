@@ -5035,7 +5035,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 270,
+        "chat": 272,
         "points_spent": 11250,
         "sounds": 7,
         "effects": 3,
@@ -5075,7 +5075,7 @@
         "spender_silver",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-08-23T12:44:06Z"
+      "lastUpdated": "2025-08-23T12:44:26Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5134,10 +5134,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-23T12:42:12Z"
+    },
+    "isleenaa": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-23T12:44:44Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:44:07Z",
-  "totalUsers": 216,
+  "lastUpdated": "2025-08-23T11:44:45Z",
+  "totalUsers": 217,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
