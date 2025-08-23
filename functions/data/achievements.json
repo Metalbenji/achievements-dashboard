@@ -5072,7 +5072,8 @@
         "bits_regular",
         "raid_tier1_captain",
         "chat_frequent",
-        "spender_silver"
+        "spender_silver",
+        "vip_dreamer"
       ],
       "lastUpdated": "2025-08-23T12:44:06Z"
     },
@@ -5135,7 +5136,7 @@
       "lastUpdated": "2025-08-23T12:42:12Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:44:06Z",
+  "lastUpdated": "2025-08-23T11:44:07Z",
   "totalUsers": 216,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
