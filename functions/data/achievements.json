@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 865,
+        "chat": 866,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T16:31:22Z"
+      "lastUpdated": "2025-08-23T16:46:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2602,7 +2602,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 37,
+        "chat": 38,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2615,7 +2615,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T16:45:30Z"
+      "lastUpdated": "2025-08-23T16:45:54Z"
     },
     "chevelletv": {
       "counters": {
@@ -3100,7 +3100,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 139,
+        "chat": 141,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -3118,7 +3118,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T16:44:34Z"
+      "lastUpdated": "2025-08-23T16:46:20Z"
     },
     "roffelonator": {
       "counters": {
@@ -4409,14 +4409,17 @@
     "dinshara": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 14,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2025-07-29T12:30:15Z"
+      "lastUpdated": "2025-08-23T16:46:55Z"
     },
     "anunepicname": {
       "counters": {
@@ -5273,25 +5276,25 @@
     },
     "duchydoodars": {
       "counters": {
-        "chat": 2,
+        "chat": 4,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-08-23T16:45:13Z"
+      "lastUpdated": "2025-08-23T16:46:10Z"
     },
     "bears_adventures": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:45:27Z"
+      "lastUpdated": "2025-08-23T16:46:33Z"
     },
     "bellamii66": {
       "counters": {
@@ -5345,7 +5348,7 @@
       "lastUpdated": "2025-08-23T16:45:37Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:45:38Z",
+  "lastUpdated": "2025-08-23T15:46:55Z",
   "totalUsers": 234,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
