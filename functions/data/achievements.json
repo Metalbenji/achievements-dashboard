@@ -5053,7 +5053,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 365,
+        "chat": 366,
         "points_spent": 11450,
         "sounds": 7,
         "effects": 4,
@@ -5094,7 +5094,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-23T16:44:09Z"
+      "lastUpdated": "2025-08-23T16:45:21Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5273,25 +5273,25 @@
     },
     "duchydoodars": {
       "counters": {
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-08-23T16:44:40Z"
+      "lastUpdated": "2025-08-23T16:45:13Z"
     },
     "bears_adventures": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:44:29Z"
+      "lastUpdated": "2025-08-23T16:45:23Z"
     },
     "bellamii66": {
       "counters": {
@@ -5315,12 +5315,14 @@
     },
     "niomee_": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:44:38Z"
+      "lastUpdated": "2025-08-23T16:45:25Z"
     },
     "robins_wow_journey": {
       "counters": {
@@ -5341,7 +5343,7 @@
       "lastUpdated": "2025-08-23T16:45:10Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:45:11Z",
+  "lastUpdated": "2025-08-23T15:45:27Z",
   "totalUsers": 234,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
