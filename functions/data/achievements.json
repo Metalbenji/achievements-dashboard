@@ -1502,7 +1502,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 117,
+        "chat": 118,
         "points_spent": 7300,
         "effects": 5,
         "follow": 1,
@@ -1536,7 +1536,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T11:48:35Z"
+      "lastUpdated": "2025-08-23T12:05:47Z"
     },
     "ramdon101": {
       "counters": {
@@ -2283,7 +2283,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 13,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2293,7 +2293,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T12:05:07Z"
+      "lastUpdated": "2025-08-23T12:07:23Z"
     },
     "mistifi_": {
       "counters": {
@@ -4922,14 +4922,15 @@
     "ocukace": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T12:02:26Z"
+      "lastUpdated": "2025-08-23T12:07:27Z"
     },
     "twilightriversong": {
       "counters": {
@@ -5026,7 +5027,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 253,
+        "chat": 255,
         "points_spent": 6250,
         "sounds": 7,
         "effects": 3,
@@ -5064,19 +5065,19 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T12:01:24Z"
+      "lastUpdated": "2025-08-23T12:06:23Z"
     },
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T11:32:53Z"
+      "lastUpdated": "2025-08-23T12:07:15Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -5113,7 +5114,7 @@
       "lastUpdated": "2025-08-23T11:40:49Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:05:08Z",
+  "lastUpdated": "2025-08-23T11:07:28Z",
   "totalUsers": 215,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
