@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 159,
+        "chat": 160,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-23T16:44:11Z"
+      "lastUpdated": "2025-08-23T16:44:21Z"
     },
     "itzsilvah": {
       "counters": {
@@ -5251,15 +5251,17 @@
     },
     "pizzapixie": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-08-23T16:44:18Z"
+      "lastUpdated": "2025-08-23T16:44:21Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:21Z",
+  "lastUpdated": "2025-08-23T15:44:24Z",
   "totalUsers": 226,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
