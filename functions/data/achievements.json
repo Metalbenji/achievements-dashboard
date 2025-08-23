@@ -5319,10 +5319,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-23T16:44:38Z"
+    },
+    "robins_wow_journey": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-23T16:44:42Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:42Z",
-  "totalUsers": 232,
+  "lastUpdated": "2025-08-23T15:44:43Z",
+  "totalUsers": 233,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
