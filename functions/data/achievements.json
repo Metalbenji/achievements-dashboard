@@ -5124,15 +5124,17 @@
     },
     "reddwarfia": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T12:41:39Z"
+      "lastUpdated": "2025-08-23T12:41:40Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:41:39Z",
+  "lastUpdated": "2025-08-23T11:41:40Z",
   "totalUsers": 216,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
