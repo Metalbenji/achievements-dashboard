@@ -1329,7 +1329,8 @@
       "counters": {
         "chat": 137,
         "follow": 1,
-        "points_spent": 20000
+        "points_spent": 20000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1340,9 +1341,11 @@
         "night_owl",
         "bday2025_attend",
         "chat_regular",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-23T15:55:04Z"
+      "lastUpdated": "2025-08-23T15:55:06Z"
     },
     "itzsilvah": {
       "counters": {
@@ -5207,7 +5210,7 @@
       "lastUpdated": "2025-08-23T15:53:58Z"
     }
   },
-  "lastUpdated": "2025-08-23T14:55:05Z",
+  "lastUpdated": "2025-08-23T14:55:07Z",
   "totalUsers": 222,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
