@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 137,
+        "chat": 139,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-23T15:55:06Z"
+      "lastUpdated": "2025-08-23T15:56:40Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1394,14 +1394,15 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 785,
-        "points_spent": 12850,
+        "chat": 786,
+        "points_spent": 13200,
         "effects": 7,
         "sub": 8,
         "bits": 1894,
         "raid": 5,
         "interactive": 3,
-        "sounds": 1
+        "sounds": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1437,9 +1438,10 @@
         "sound_first",
         "raid_tier2_seasoned",
         "sub_veteran",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-08-23T15:54:06Z"
+      "lastUpdated": "2025-08-23T15:56:46Z"
     },
     "celran": {
       "counters": {
@@ -1863,7 +1865,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 153,
+        "chat": 154,
         "points_spent": 9400,
         "interactive": 2,
         "sub": 24,
@@ -1896,7 +1898,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-23T15:55:03Z"
+      "lastUpdated": "2025-08-23T15:55:47Z"
     },
     "mattyuk937": {
       "counters": {
@@ -5090,7 +5092,7 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 20
+        "chat": 21
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5098,7 +5100,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T15:42:29Z"
+      "lastUpdated": "2025-08-23T15:55:46Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -5210,7 +5212,7 @@
       "lastUpdated": "2025-08-23T15:53:58Z"
     }
   },
-  "lastUpdated": "2025-08-23T14:55:07Z",
+  "lastUpdated": "2025-08-23T14:56:47Z",
   "totalUsers": 222,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
