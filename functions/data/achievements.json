@@ -1540,7 +1540,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 807,
+        "chat": 808,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1599,7 +1599,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T12:41:32Z"
+      "lastUpdated": "2025-08-23T12:41:47Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1980,7 +1980,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 244,
+        "chat": 246,
         "points_spent": 13153,
         "interactive": 10,
         "effects": 12,
@@ -2016,7 +2016,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-23T12:41:35Z"
+      "lastUpdated": "2025-08-23T12:44:05Z"
     },
     "redunt86": {
       "counters": {
@@ -4922,7 +4922,7 @@
     "ocukace": {
       "counters": {
         "follow": 1,
-        "chat": 14,
+        "chat": 15,
         "sub": 8
       },
       "unlockedAchievements": [
@@ -4938,7 +4938,7 @@
         "sub_committed",
         "sub_veteran"
       ],
-      "lastUpdated": "2025-08-23T12:39:48Z"
+      "lastUpdated": "2025-08-23T12:43:44Z"
     },
     "twilightriversong": {
       "counters": {
@@ -5035,8 +5035,8 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 269,
-        "points_spent": 6250,
+        "chat": 270,
+        "points_spent": 11250,
         "sounds": 7,
         "effects": 3,
         "screenshot": 1,
@@ -5071,14 +5071,15 @@
         "bits_small",
         "bits_regular",
         "raid_tier1_captain",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-08-23T12:41:01Z"
+      "lastUpdated": "2025-08-23T12:44:06Z"
     },
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5086,7 +5087,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T12:40:10Z"
+      "lastUpdated": "2025-08-23T12:43:55Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -5125,16 +5126,16 @@
     "reddwarfia": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T12:41:40Z"
+      "lastUpdated": "2025-08-23T12:42:12Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:41:40Z",
+  "lastUpdated": "2025-08-23T11:44:06Z",
   "totalUsers": 216,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
