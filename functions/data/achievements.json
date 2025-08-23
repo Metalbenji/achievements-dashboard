@@ -1806,7 +1806,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 124,
+        "chat": 125,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1824,7 +1824,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T17:09:28Z"
+      "lastUpdated": "2025-08-23T17:39:26Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -1903,7 +1903,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 478,
+        "chat": 479,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1950,7 +1950,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-23T17:38:51Z"
+      "lastUpdated": "2025-08-23T17:39:51Z"
     },
     "anzerou": {
       "counters": {
@@ -2439,7 +2439,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 254,
+        "chat": 255,
         "sub": 34,
         "points_spent": 21301,
         "interactive": 2,
@@ -2491,7 +2491,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T17:29:52Z"
+      "lastUpdated": "2025-08-23T17:39:22Z"
     },
     "umenneske94": {
       "counters": {
@@ -5002,14 +5002,15 @@
     "nezeya_dk": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-17T17:56:22Z"
+      "lastUpdated": "2025-08-23T17:40:08Z"
     },
     "guldhamstern": {
       "counters": {
@@ -5104,7 +5105,7 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 39
+        "chat": 40
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5113,7 +5114,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T17:36:25Z"
+      "lastUpdated": "2025-08-23T17:39:27Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -5363,7 +5364,7 @@
       "lastUpdated": "2025-08-23T17:39:10Z"
     }
   },
-  "lastUpdated": "2025-08-23T16:39:13Z",
+  "lastUpdated": "2025-08-23T16:40:09Z",
   "totalUsers": 235,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
