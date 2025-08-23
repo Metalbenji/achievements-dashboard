@@ -1541,7 +1541,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 824,
+        "chat": 825,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1600,7 +1600,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T14:13:46Z"
+      "lastUpdated": "2025-08-23T14:15:33Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1858,7 +1858,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 141,
+        "chat": 143,
         "points_spent": 8950,
         "interactive": 2,
         "sub": 24,
@@ -1891,7 +1891,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-23T14:10:37Z"
+      "lastUpdated": "2025-08-23T14:15:52Z"
     },
     "mattyuk937": {
       "counters": {
@@ -5037,7 +5037,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 316,
+        "chat": 317,
         "points_spent": 11450,
         "sounds": 7,
         "effects": 4,
@@ -5078,7 +5078,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-23T14:13:36Z"
+      "lastUpdated": "2025-08-23T14:15:05Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5151,15 +5151,16 @@
     },
     "esjaytv": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T14:14:06Z"
+      "lastUpdated": "2025-08-23T14:15:56Z"
     }
   },
-  "lastUpdated": "2025-08-23T13:14:07Z",
+  "lastUpdated": "2025-08-23T13:15:57Z",
   "totalUsers": 218,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
