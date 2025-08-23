@@ -5259,10 +5259,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-23T16:44:21Z"
+    },
+    "sirwobblybutt": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-23T16:44:24Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:24Z",
-  "totalUsers": 226,
+  "lastUpdated": "2025-08-23T15:44:26Z",
+  "totalUsers": 227,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
