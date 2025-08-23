@@ -1480,7 +1480,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 117,
+        "chat": 120,
         "points_spent": 3000,
         "effects": 8,
         "follow": 1,
@@ -1499,7 +1499,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T15:09:27Z"
+      "lastUpdated": "2025-08-23T15:15:12Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1604,7 +1604,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 550,
+        "chat": 554,
         "points_spent": 40600,
         "interactive": 13,
         "follow": 1,
@@ -1645,7 +1645,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-23T14:56:36Z"
+      "lastUpdated": "2025-08-23T15:25:03Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1896,7 +1896,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 468,
+        "chat": 470,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1943,7 +1943,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-23T14:26:44Z"
+      "lastUpdated": "2025-08-23T15:11:14Z"
     },
     "anzerou": {
       "counters": {
@@ -1982,9 +1982,9 @@
       "counters": {
         "follow": 1,
         "chat": 254,
-        "points_spent": 14153,
+        "points_spent": 14653,
         "interactive": 11,
-        "effects": 13,
+        "effects": 14,
         "sub": 22,
         "sounds": 1
       },
@@ -2017,7 +2017,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-23T13:29:27Z"
+      "lastUpdated": "2025-08-23T15:25:03Z"
     },
     "redunt86": {
       "counters": {
@@ -2432,7 +2432,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 225,
+        "chat": 228,
         "sub": 34,
         "points_spent": 20501,
         "interactive": 2,
@@ -2484,7 +2484,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T14:59:48Z"
+      "lastUpdated": "2025-08-23T15:25:19Z"
     },
     "umenneske94": {
       "counters": {
@@ -3749,16 +3749,17 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior",
         "bday2025_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T23:05:28Z"
+      "lastUpdated": "2025-08-23T15:28:55Z"
     },
     "justpeterpg": {
       "counters": {
@@ -5172,7 +5173,7 @@
       "lastUpdated": "2025-08-23T15:09:58Z"
     }
   },
-  "lastUpdated": "2025-08-23T14:09:59Z",
+  "lastUpdated": "2025-08-23T14:28:56Z",
   "totalUsers": 219,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
