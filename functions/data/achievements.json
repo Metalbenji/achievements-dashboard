@@ -2602,7 +2602,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 35,
+        "chat": 36,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2615,7 +2615,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T18:19:59Z"
+      "lastUpdated": "2025-08-23T16:44:28Z"
     },
     "chevelletv": {
       "counters": {
@@ -5277,10 +5277,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-23T16:44:26Z"
+    },
+    "bears_adventures": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-23T16:44:28Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:27Z",
-  "totalUsers": 228,
+  "lastUpdated": "2025-08-23T15:44:29Z",
+  "totalUsers": 229,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
