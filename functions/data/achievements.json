@@ -1603,7 +1603,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 514,
+        "chat": 521,
         "points_spent": 40600,
         "interactive": 13,
         "follow": 1,
@@ -1644,7 +1644,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-16T18:44:33Z"
+      "lastUpdated": "2025-08-23T12:19:12Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2330,7 +2330,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 67,
+        "chat": 68,
         "points_spent": 5400,
         "interactive": 3,
         "effects": 2
@@ -2347,7 +2347,7 @@
         "bday2025_attend",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-23T11:19:49Z"
+      "lastUpdated": "2025-08-23T12:15:55Z"
     },
     "qyainiana": {
       "counters": {
@@ -2520,7 +2520,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 104,
+        "chat": 110,
         "sub": 39,
         "points_spent": 20000,
         "sounds": 1
@@ -2550,7 +2550,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-17T17:24:22Z"
+      "lastUpdated": "2025-08-23T12:19:17Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4434,13 +4434,13 @@
     "hailisarne": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-09T13:00:49Z"
+      "lastUpdated": "2025-08-23T12:17:33Z"
     },
     "ewoksareninjas": {
       "counters": {
@@ -4922,15 +4922,23 @@
     "ocukace": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 13,
+        "sub": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran"
       ],
-      "lastUpdated": "2025-08-23T12:08:37Z"
+      "lastUpdated": "2025-08-23T12:12:05Z"
     },
     "twilightriversong": {
       "counters": {
@@ -5027,7 +5035,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 259,
+        "chat": 261,
         "points_spent": 6250,
         "sounds": 7,
         "effects": 3,
@@ -5065,19 +5073,20 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T12:10:44Z"
+      "lastUpdated": "2025-08-23T12:14:49Z"
     },
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T12:07:15Z"
+      "lastUpdated": "2025-08-23T12:19:28Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -5114,7 +5123,7 @@
       "lastUpdated": "2025-08-23T11:40:49Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:11:00Z",
+  "lastUpdated": "2025-08-23T11:19:28Z",
   "totalUsers": 215,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
