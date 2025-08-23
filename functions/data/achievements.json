@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 140,
+        "chat": 142,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-23T15:59:19Z"
+      "lastUpdated": "2025-08-23T15:59:55Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2513,7 +2513,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 55
+        "chat": 56
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2523,7 +2523,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T14:32:32Z"
+      "lastUpdated": "2025-08-23T15:59:33Z"
     },
     "gwinniejones": {
       "counters": {
@@ -5095,15 +5095,16 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T15:58:55Z"
+      "lastUpdated": "2025-08-23T15:59:55Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -5216,7 +5217,7 @@
       "lastUpdated": "2025-08-23T15:59:16Z"
     }
   },
-  "lastUpdated": "2025-08-23T14:59:29Z",
+  "lastUpdated": "2025-08-23T14:59:56Z",
   "totalUsers": 222,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
