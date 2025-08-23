@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 158,
+        "chat": 159,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-23T16:40:41Z"
+      "lastUpdated": "2025-08-23T16:44:11Z"
     },
     "itzsilvah": {
       "counters": {
@@ -5052,7 +5052,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 364,
+        "chat": 365,
         "points_spent": 11450,
         "sounds": 7,
         "effects": 4,
@@ -5093,7 +5093,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-23T16:43:26Z"
+      "lastUpdated": "2025-08-23T16:44:09Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5247,10 +5247,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-23T16:44:05Z"
+    },
+    "pizzapixie": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-23T16:44:18Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:09Z",
-  "totalUsers": 225,
+  "lastUpdated": "2025-08-23T15:44:18Z",
+  "totalUsers": 226,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
