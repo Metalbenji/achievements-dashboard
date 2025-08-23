@@ -5295,12 +5295,14 @@
     },
     "bellamii66": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-08-23T16:44:35Z"
+      "lastUpdated": "2025-08-23T16:45:01Z"
     },
     "simplykathryn": {
       "counters": {
@@ -5330,7 +5332,7 @@
       "lastUpdated": "2025-08-23T16:44:42Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:43Z",
+  "lastUpdated": "2025-08-23T15:45:02Z",
   "totalUsers": 233,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
