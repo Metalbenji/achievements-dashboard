@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 805,
+        "chat": 806,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-23T18:02:26Z"
+      "lastUpdated": "2025-08-23T18:14:58Z"
     },
     "celran": {
       "counters": {
@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 882,
+        "chat": 883,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T18:13:34Z"
+      "lastUpdated": "2025-08-23T18:13:55Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2174,7 +2174,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1088,
+        "chat": 1089,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2238,7 +2238,7 @@
         "bits_dedicated",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-23T18:13:00Z"
+      "lastUpdated": "2025-08-23T18:13:53Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3314,16 +3314,17 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 95
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T18:13:26Z"
+      "lastUpdated": "2025-08-23T18:15:11Z"
     },
     "akiraownz": {
       "counters": {
@@ -4362,7 +4363,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 49,
         "points_spent": 100,
         "sounds": 1
       },
@@ -4376,7 +4377,7 @@
         "chat_conversationalist",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-23T18:13:41Z"
+      "lastUpdated": "2025-08-23T18:14:32Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -5403,7 +5404,7 @@
       "lastUpdated": "2025-08-23T18:12:48Z"
     }
   },
-  "lastUpdated": "2025-08-23T17:13:45Z",
+  "lastUpdated": "2025-08-23T17:15:12Z",
   "totalUsers": 238,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
