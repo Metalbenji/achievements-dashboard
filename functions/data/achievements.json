@@ -2174,7 +2174,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1086,
+        "chat": 1087,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2238,7 +2238,7 @@
         "bits_dedicated",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-23T18:10:55Z"
+      "lastUpdated": "2025-08-23T18:12:21Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5384,10 +5384,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-23T18:12:19Z"
+    },
+    "simonbt": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-23T18:12:47Z"
     }
   },
-  "lastUpdated": "2025-08-23T17:12:20Z",
-  "totalUsers": 237,
+  "lastUpdated": "2025-08-23T17:12:48Z",
+  "totalUsers": 238,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
