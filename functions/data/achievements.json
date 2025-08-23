@@ -1389,7 +1389,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 739,
+        "chat": 750,
         "points_spent": 12850,
         "effects": 7,
         "sub": 8,
@@ -1431,9 +1431,10 @@
         "interactive_first",
         "sound_first",
         "raid_tier2_seasoned",
-        "sub_veteran"
+        "sub_veteran",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T12:46:37Z"
+      "lastUpdated": "2025-08-23T13:16:43Z"
     },
     "celran": {
       "counters": {
@@ -1540,7 +1541,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 808,
+        "chat": 813,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1599,11 +1600,11 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T12:41:47Z"
+      "lastUpdated": "2025-08-23T13:16:35Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 534,
+        "chat": 535,
         "points_spent": 40600,
         "interactive": 13,
         "follow": 1,
@@ -1644,7 +1645,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-23T12:34:23Z"
+      "lastUpdated": "2025-08-23T13:02:34Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1718,7 +1719,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 139,
+        "chat": 140,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 4,
@@ -1747,7 +1748,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T12:24:07Z"
+      "lastUpdated": "2025-08-23T13:03:10Z"
     },
     "tawmae": {
       "counters": {
@@ -1981,8 +1982,8 @@
       "counters": {
         "follow": 1,
         "chat": 247,
-        "points_spent": 13153,
-        "interactive": 10,
+        "points_spent": 13653,
+        "interactive": 11,
         "effects": 12,
         "sub": 22,
         "sounds": 1
@@ -2016,7 +2017,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-23T12:45:16Z"
+      "lastUpdated": "2025-08-23T12:53:54Z"
     },
     "redunt86": {
       "counters": {
@@ -2940,7 +2941,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 165
+        "chat": 168
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2960,7 +2961,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T10:43:16Z"
+      "lastUpdated": "2025-08-23T12:52:23Z"
     },
     "khazan67": {
       "counters": {
@@ -5035,7 +5036,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 274,
+        "chat": 289,
         "points_spent": 11250,
         "sounds": 7,
         "effects": 3,
@@ -5075,7 +5076,7 @@
         "spender_silver",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-08-23T12:46:18Z"
+      "lastUpdated": "2025-08-23T13:16:23Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5147,7 +5148,7 @@
       "lastUpdated": "2025-08-23T12:46:43Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:46:43Z",
+  "lastUpdated": "2025-08-23T12:16:44Z",
   "totalUsers": 217,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
