@@ -2984,7 +2984,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 26,
         "points_spent": 701,
         "effects": 2
       },
@@ -2998,7 +2998,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T11:21:01Z"
+      "lastUpdated": "2025-08-23T11:21:34Z"
     },
     "hero_zappz": {
       "counters": {
@@ -5073,10 +5073,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-08-23T10:47:42Z"
+    },
+    "mr_toxicity9000": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-23T11:24:34Z"
     }
   },
-  "lastUpdated": "2025-08-23T10:21:01Z",
-  "totalUsers": 212,
+  "lastUpdated": "2025-08-23T10:24:35Z",
+  "totalUsers": 213,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
