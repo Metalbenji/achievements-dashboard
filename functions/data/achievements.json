@@ -1656,9 +1656,10 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 144,
+        "chat": 145,
         "follow": 1,
-        "sub": 31
+        "sub": 31,
+        "points_spent": 20000
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1679,9 +1680,10 @@
         "sub_diamond",
         "sub_elite",
         "bday2025_attend",
-        "chat_regular"
+        "chat_regular",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-08-23T18:13:34Z"
+      "lastUpdated": "2025-08-23T18:20:17Z"
     },
     "scoman07": {
       "counters": {
@@ -2655,7 +2657,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 267,
+        "chat": 268,
         "points_spent": 6650,
         "sounds": 1,
         "effects": 15,
@@ -2714,7 +2716,7 @@
         "chat_frequent",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-23T18:18:22Z"
+      "lastUpdated": "2025-08-23T18:19:52Z"
     },
     "andilippi": {
       "counters": {
@@ -4364,7 +4366,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 51,
+        "chat": 52,
         "points_spent": 900,
         "sounds": 1,
         "effects": 1
@@ -4380,7 +4382,7 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-23T18:18:50Z"
+      "lastUpdated": "2025-08-23T18:19:30Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -5407,7 +5409,7 @@
       "lastUpdated": "2025-08-23T18:18:09Z"
     }
   },
-  "lastUpdated": "2025-08-23T17:18:51Z",
+  "lastUpdated": "2025-08-23T17:20:18Z",
   "totalUsers": 238,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
