@@ -5276,14 +5276,15 @@
     },
     "duchydoodars": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T16:46:10Z"
+      "lastUpdated": "2025-08-23T16:46:58Z"
     },
     "bears_adventures": {
       "counters": {
@@ -5348,7 +5349,7 @@
       "lastUpdated": "2025-08-23T16:45:37Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:46:55Z",
+  "lastUpdated": "2025-08-23T15:46:59Z",
   "totalUsers": 234,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
