@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 866,
+        "chat": 867,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T16:46:26Z"
+      "lastUpdated": "2025-08-23T16:50:18Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3100,7 +3100,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 143,
+        "chat": 155,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -3118,7 +3118,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T16:47:40Z"
+      "lastUpdated": "2025-08-23T16:53:14Z"
     },
     "roffelonator": {
       "counters": {
@@ -3314,7 +3314,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 68
+        "chat": 73
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3323,7 +3323,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T16:47:07Z"
+      "lastUpdated": "2025-08-23T16:53:47Z"
     },
     "akiraownz": {
       "counters": {
@@ -4409,7 +4409,7 @@
     "dinshara": {
       "counters": {
         "follow": 1,
-        "chat": 16,
+        "chat": 22,
         "points_spent": 200,
         "effects": 1
       },
@@ -4420,7 +4420,7 @@
         "effect_first",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:47:29Z"
+      "lastUpdated": "2025-08-23T16:52:41Z"
     },
     "anunepicname": {
       "counters": {
@@ -4622,7 +4622,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 266,
+        "chat": 269,
         "points_spent": 12700,
         "effects": 4,
         "sounds": 3,
@@ -4643,7 +4643,7 @@
         "emperor_loyal",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-23T16:32:00Z"
+      "lastUpdated": "2025-08-23T16:51:05Z"
     },
     "jamie1496": {
       "counters": {
@@ -5268,12 +5268,14 @@
     },
     "sirwobblybutt": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:44:24Z"
+      "lastUpdated": "2025-08-23T16:53:50Z"
     },
     "duchydoodars": {
       "counters": {
@@ -5351,7 +5353,7 @@
       "lastUpdated": "2025-08-23T16:45:37Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:48:09Z",
+  "lastUpdated": "2025-08-23T15:53:51Z",
   "totalUsers": 234,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
