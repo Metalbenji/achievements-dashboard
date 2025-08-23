@@ -5236,10 +5236,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-23T16:43:59Z"
+    },
+    "heavyhexa": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-23T16:44:05Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:00Z",
-  "totalUsers": 224,
+  "lastUpdated": "2025-08-23T15:44:06Z",
+  "totalUsers": 225,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
