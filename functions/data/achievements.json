@@ -5230,12 +5230,14 @@
     },
     "snoodydoodars": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:43:59Z"
+      "lastUpdated": "2025-08-23T16:44:08Z"
     },
     "heavyhexa": {
       "counters": {
@@ -5247,7 +5249,7 @@
       "lastUpdated": "2025-08-23T16:44:05Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:06Z",
+  "lastUpdated": "2025-08-23T15:44:09Z",
   "totalUsers": 225,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
