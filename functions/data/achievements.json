@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 789,
+        "chat": 792,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-23T15:59:04Z"
+      "lastUpdated": "2025-08-23T16:04:32Z"
     },
     "celran": {
       "counters": {
@@ -1865,7 +1865,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 157,
+        "chat": 159,
         "points_spent": 9800,
         "interactive": 3,
         "sub": 24,
@@ -1898,7 +1898,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-23T16:01:13Z"
+      "lastUpdated": "2025-08-23T16:07:14Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2360,7 +2360,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 69
+        "chat": 70
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2371,7 +2371,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T14:23:38Z"
+      "lastUpdated": "2025-08-23T16:06:46Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2439,7 +2439,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 232,
+        "chat": 236,
         "sub": 34,
         "points_spent": 21301,
         "interactive": 2,
@@ -2491,7 +2491,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T15:57:21Z"
+      "lastUpdated": "2025-08-23T16:07:25Z"
     },
     "umenneske94": {
       "counters": {
@@ -4505,13 +4505,14 @@
     "theazmaniac": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-09T14:52:51Z"
+      "lastUpdated": "2025-08-23T16:07:35Z"
     },
     "richtea1978": {
       "counters": {
@@ -4615,7 +4616,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 259,
+        "chat": 263,
         "points_spent": 10700,
         "effects": 4,
         "sounds": 3,
@@ -4636,7 +4637,7 @@
         "emperor_loyal",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-23T10:13:30Z"
+      "lastUpdated": "2025-08-23T16:07:09Z"
     },
     "jamie1496": {
       "counters": {
@@ -5226,7 +5227,7 @@
       "lastUpdated": "2025-08-23T16:02:36Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:02:37Z",
+  "lastUpdated": "2025-08-23T15:07:36Z",
   "totalUsers": 223,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
