@@ -2283,7 +2283,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 13,
+        "chat": 14,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2293,7 +2293,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T12:07:23Z"
+      "lastUpdated": "2025-08-23T12:08:09Z"
     },
     "mistifi_": {
       "counters": {
@@ -4922,7 +4922,7 @@
     "ocukace": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4930,7 +4930,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T12:07:27Z"
+      "lastUpdated": "2025-08-23T12:08:37Z"
     },
     "twilightriversong": {
       "counters": {
@@ -5027,7 +5027,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 255,
+        "chat": 259,
         "points_spent": 6250,
         "sounds": 7,
         "effects": 3,
@@ -5065,7 +5065,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T12:06:23Z"
+      "lastUpdated": "2025-08-23T12:10:44Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5114,7 +5114,7 @@
       "lastUpdated": "2025-08-23T11:40:49Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:07:28Z",
+  "lastUpdated": "2025-08-23T11:10:55Z",
   "totalUsers": 215,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
