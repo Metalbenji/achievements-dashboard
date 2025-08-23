@@ -1501,7 +1501,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 100,
+        "chat": 110,
         "points_spent": 7300,
         "effects": 5,
         "follow": 1,
@@ -1535,11 +1535,11 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T09:36:45Z"
+      "lastUpdated": "2025-08-23T09:45:38Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 744,
+        "chat": 750,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1595,9 +1595,10 @@
         "chat_dedicated",
         "interactive_first",
         "gift_starter",
-        "emperor_loyal"
+        "emperor_loyal",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T09:36:01Z"
+      "lastUpdated": "2025-08-23T09:49:36Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1716,7 +1717,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 113,
+        "chat": 116,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 4,
@@ -1745,7 +1746,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T09:34:06Z"
+      "lastUpdated": "2025-08-23T09:41:39Z"
     },
     "tawmae": {
       "counters": {
@@ -1796,7 +1797,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 112,
+        "chat": 113,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1814,12 +1815,12 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T09:13:18Z"
+      "lastUpdated": "2025-08-23T09:40:22Z"
     },
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 64,
+        "chat": 67,
         "points_spent": 1500,
         "interactive": 2,
         "gift_bombs": 1,
@@ -1850,12 +1851,12 @@
         "raid_tier1_captain",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-17T09:51:06Z"
+      "lastUpdated": "2025-08-23T09:45:01Z"
     },
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 115,
+        "chat": 125,
         "points_spent": 8950,
         "interactive": 2,
         "sub": 24,
@@ -1888,7 +1889,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-23T09:32:47Z"
+      "lastUpdated": "2025-08-23T09:45:33Z"
     },
     "mattyuk937": {
       "counters": {
@@ -1978,7 +1979,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 228,
+        "chat": 232,
         "points_spent": 13153,
         "interactive": 10,
         "effects": 12,
@@ -2014,12 +2015,12 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-23T09:30:12Z"
+      "lastUpdated": "2025-08-23T09:42:19Z"
     },
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 311,
+        "chat": 326,
         "points_spent": 3400,
         "effects": 5
       },
@@ -2036,7 +2037,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-23T09:35:13Z"
+      "lastUpdated": "2025-08-23T09:48:24Z"
     },
     "spoono__": {
       "counters": {
@@ -2164,7 +2165,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1073,
+        "chat": 1078,
         "gift_subs": 1,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2228,7 +2229,7 @@
         "bits_dedicated",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-08-23T09:36:31Z"
+      "lastUpdated": "2025-08-23T09:48:21Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2294,7 +2295,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 207,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2321,7 +2322,7 @@
         "sub_tier3",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T09:35:15Z"
+      "lastUpdated": "2025-08-23T09:48:33Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2427,7 +2428,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 214,
+        "chat": 216,
         "sub": 34,
         "points_spent": 20501,
         "interactive": 2,
@@ -2479,7 +2480,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T09:33:11Z"
+      "lastUpdated": "2025-08-23T09:44:09Z"
     },
     "umenneske94": {
       "counters": {
@@ -2743,7 +2744,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2751,7 +2752,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T09:27:28Z"
+      "lastUpdated": "2025-08-23T09:44:10Z"
     },
     "chadrestricted": {
       "counters": {
@@ -2934,7 +2935,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 132
+        "chat": 135
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2954,7 +2955,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T09:36:07Z"
+      "lastUpdated": "2025-08-23T09:45:36Z"
     },
     "khazan67": {
       "counters": {
@@ -3254,7 +3255,7 @@
       "counters": {
         "sub": 42,
         "follow": 1,
-        "chat": 88,
+        "chat": 94,
         "points_spent": 350,
         "effects": 1,
         "gift_bombs": 1,
@@ -3291,7 +3292,7 @@
         "gift_bomb_40",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-08-23T09:21:32Z"
+      "lastUpdated": "2025-08-23T09:41:21Z"
     },
     "camm_23": {
       "counters": {
@@ -5017,7 +5018,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 236,
+        "chat": 238,
         "points_spent": 6250,
         "sounds": 7,
         "effects": 3,
@@ -5055,10 +5056,10 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T09:32:56Z"
+      "lastUpdated": "2025-08-23T09:39:45Z"
     }
   },
-  "lastUpdated": "2025-08-23T08:36:45Z",
+  "lastUpdated": "2025-08-23T08:49:36Z",
   "totalUsers": 211,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
