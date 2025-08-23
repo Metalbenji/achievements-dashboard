@@ -4493,13 +4493,15 @@
       "counters": {
         "points_spent": 550,
         "effects": 2,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "effect_first",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T18:13:43Z"
+      "lastUpdated": "2025-08-23T18:13:44Z"
     },
     "rejuv": {
       "counters": {
@@ -5401,7 +5403,7 @@
       "lastUpdated": "2025-08-23T18:12:48Z"
     }
   },
-  "lastUpdated": "2025-08-23T17:13:43Z",
+  "lastUpdated": "2025-08-23T17:13:45Z",
   "totalUsers": 238,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
