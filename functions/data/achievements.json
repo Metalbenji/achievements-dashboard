@@ -1501,7 +1501,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 96,
+        "chat": 97,
         "points_spent": 7200,
         "effects": 5,
         "follow": 1,
@@ -1534,7 +1534,7 @@
         "screenshot_first",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-23T09:33:35Z"
+      "lastUpdated": "2025-08-23T09:34:44Z"
     },
     "ramdon101": {
       "counters": {
@@ -2018,9 +2018,9 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 310,
-        "points_spent": 2600,
-        "effects": 4
+        "chat": 311,
+        "points_spent": 3400,
+        "effects": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2035,7 +2035,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-23T09:33:13Z"
+      "lastUpdated": "2025-08-23T09:35:13Z"
     },
     "spoono__": {
       "counters": {
@@ -2293,7 +2293,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 198,
+        "chat": 200,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2316,9 +2316,11 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "sub_platinum"
+        "sub_platinum",
+        "sub_tier3",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T09:32:47Z"
+      "lastUpdated": "2025-08-23T09:35:15Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2497,7 +2499,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 51
+        "chat": 52
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2507,7 +2509,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-21T19:21:40Z"
+      "lastUpdated": "2025-08-23T09:35:11Z"
     },
     "gwinniejones": {
       "counters": {
@@ -5055,7 +5057,7 @@
       "lastUpdated": "2025-08-23T09:32:56Z"
     }
   },
-  "lastUpdated": "2025-08-23T08:34:20Z",
+  "lastUpdated": "2025-08-23T08:35:16Z",
   "totalUsers": 211,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
