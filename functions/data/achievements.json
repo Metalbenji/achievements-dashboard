@@ -1895,7 +1895,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 446,
+        "chat": 449,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1942,7 +1942,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-23T11:35:05Z"
+      "lastUpdated": "2025-08-23T11:36:12Z"
     },
     "anzerou": {
       "counters": {
@@ -5077,28 +5077,29 @@
     },
     "mr_toxicity9000": {
       "counters": {
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T11:34:27Z"
+      "lastUpdated": "2025-08-23T11:36:14Z"
     },
     "ittotv": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T11:35:08Z"
+      "lastUpdated": "2025-08-23T11:36:06Z"
     }
   },
-  "lastUpdated": "2025-08-23T10:35:09Z",
+  "lastUpdated": "2025-08-23T10:36:15Z",
   "totalUsers": 214,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
