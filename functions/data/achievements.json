@@ -5378,12 +5378,14 @@
     },
     "ghenkiswow": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T18:12:19Z"
+      "lastUpdated": "2025-08-23T18:12:54Z"
     },
     "simonbt": {
       "counters": {
@@ -5397,7 +5399,7 @@
       "lastUpdated": "2025-08-23T18:12:48Z"
     }
   },
-  "lastUpdated": "2025-08-23T17:12:49Z",
+  "lastUpdated": "2025-08-23T17:12:54Z",
   "totalUsers": 238,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
