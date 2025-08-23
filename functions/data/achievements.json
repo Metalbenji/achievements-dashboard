@@ -1540,7 +1540,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 787,
+        "chat": 788,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1599,7 +1599,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T11:14:24Z"
+      "lastUpdated": "2025-08-23T11:34:24Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1895,7 +1895,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 445,
+        "chat": 446,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1942,7 +1942,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-23T11:32:17Z"
+      "lastUpdated": "2025-08-23T11:35:05Z"
     },
     "anzerou": {
       "counters": {
@@ -2351,7 +2351,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 54
+        "chat": 55
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2362,7 +2362,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-23T10:04:54Z"
+      "lastUpdated": "2025-08-23T11:34:58Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -5077,27 +5077,28 @@
     },
     "mr_toxicity9000": {
       "counters": {
-        "chat": 7
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T11:32:57Z"
+      "lastUpdated": "2025-08-23T11:34:27Z"
     },
     "ittotv": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T11:34:06Z"
+      "lastUpdated": "2025-08-23T11:35:08Z"
     }
   },
-  "lastUpdated": "2025-08-23T10:34:07Z",
+  "lastUpdated": "2025-08-23T10:35:09Z",
   "totalUsers": 214,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
