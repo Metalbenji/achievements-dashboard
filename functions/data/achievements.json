@@ -5268,10 +5268,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-23T16:44:24Z"
+    },
+    "duchydoodars": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-08-23T16:44:26Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:44:26Z",
-  "totalUsers": 227,
+  "lastUpdated": "2025-08-23T15:44:27Z",
+  "totalUsers": 228,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
