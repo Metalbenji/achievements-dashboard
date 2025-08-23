@@ -3100,7 +3100,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 141,
+        "chat": 143,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -3118,7 +3118,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T16:46:20Z"
+      "lastUpdated": "2025-08-23T16:47:40Z"
     },
     "roffelonator": {
       "counters": {
@@ -4409,7 +4409,7 @@
     "dinshara": {
       "counters": {
         "follow": 1,
-        "chat": 15,
+        "chat": 16,
         "points_spent": 200,
         "effects": 1
       },
@@ -4420,7 +4420,7 @@
         "effect_first",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:47:13Z"
+      "lastUpdated": "2025-08-23T16:47:29Z"
     },
     "anunepicname": {
       "counters": {
@@ -5290,13 +5290,14 @@
     "bears_adventures": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T16:46:33Z"
+      "lastUpdated": "2025-08-23T16:48:08Z"
     },
     "bellamii66": {
       "counters": {
@@ -5350,7 +5351,7 @@
       "lastUpdated": "2025-08-23T16:45:37Z"
     }
   },
-  "lastUpdated": "2025-08-23T15:47:13Z",
+  "lastUpdated": "2025-08-23T15:48:09Z",
   "totalUsers": 234,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
