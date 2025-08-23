@@ -1895,7 +1895,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 455,
+        "chat": 456,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1942,7 +1942,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-23T11:48:53Z"
+      "lastUpdated": "2025-08-23T12:02:54Z"
     },
     "anzerou": {
       "counters": {
@@ -2283,16 +2283,17 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 8,
+        "chat": 10,
         "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "first_caller",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T10:40:11Z"
+      "lastUpdated": "2025-08-23T12:05:07Z"
     },
     "mistifi_": {
       "counters": {
@@ -4921,14 +4922,14 @@
     "ocukace": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T12:00:33Z"
+      "lastUpdated": "2025-08-23T12:02:26Z"
     },
     "twilightriversong": {
       "counters": {
@@ -5025,7 +5026,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 252,
+        "chat": 253,
         "points_spent": 6250,
         "sounds": 7,
         "effects": 3,
@@ -5063,7 +5064,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T11:19:49Z"
+      "lastUpdated": "2025-08-23T12:01:24Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5112,7 +5113,7 @@
       "lastUpdated": "2025-08-23T11:40:49Z"
     }
   },
-  "lastUpdated": "2025-08-23T11:00:34Z",
+  "lastUpdated": "2025-08-23T11:05:08Z",
   "totalUsers": 215,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
