@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 884,
+        "chat": 891,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-23T18:15:16Z"
+      "lastUpdated": "2025-08-23T18:18:49Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2174,8 +2174,8 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1089,
-        "gift_subs": 1,
+        "chat": 1090,
+        "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
         "largest_gift_bomb": 339,
@@ -2236,9 +2236,10 @@
         "bits_regular",
         "bits_steady",
         "bits_dedicated",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-08-23T18:13:53Z"
+      "lastUpdated": "2025-08-23T18:17:06Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2654,7 +2655,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 265,
+        "chat": 267,
         "points_spent": 6650,
         "sounds": 1,
         "effects": 15,
@@ -2713,7 +2714,7 @@
         "chat_frequent",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-23T16:42:02Z"
+      "lastUpdated": "2025-08-23T18:18:22Z"
     },
     "andilippi": {
       "counters": {
@@ -3314,7 +3315,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 101
+        "chat": 103
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3324,7 +3325,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T18:15:15Z"
+      "lastUpdated": "2025-08-23T18:18:06Z"
     },
     "akiraownz": {
       "counters": {
@@ -4363,9 +4364,10 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 50,
-        "points_spent": 100,
-        "sounds": 1
+        "chat": 51,
+        "points_spent": 900,
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4375,9 +4377,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "sound_first"
+        "sound_first",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-23T18:16:06Z"
+      "lastUpdated": "2025-08-23T18:18:50Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -4632,7 +4635,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 278,
+        "chat": 279,
         "points_spent": 12700,
         "effects": 4,
         "sounds": 3,
@@ -4653,7 +4656,7 @@
         "emperor_loyal",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-23T18:15:34Z"
+      "lastUpdated": "2025-08-23T18:17:32Z"
     },
     "jamie1496": {
       "counters": {
@@ -5395,16 +5398,16 @@
     "simonbt": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T18:12:48Z"
+      "lastUpdated": "2025-08-23T18:18:09Z"
     }
   },
-  "lastUpdated": "2025-08-23T17:16:14Z",
+  "lastUpdated": "2025-08-23T17:18:51Z",
   "totalUsers": 238,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
