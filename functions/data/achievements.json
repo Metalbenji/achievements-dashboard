@@ -1538,8 +1538,8 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 723,
-        "points_spent": 44550,
+        "chat": 725,
+        "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
         "sub": 44,
@@ -1593,9 +1593,10 @@
         "gift_bombs_regular",
         "chat_dedicated",
         "interactive_first",
-        "gift_starter"
+        "gift_starter",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-08-23T09:00:26Z"
+      "lastUpdated": "2025-08-23T09:04:19Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1852,10 +1853,10 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 107,
+        "chat": 109,
         "points_spent": 8950,
         "interactive": 2,
-        "sub": 23,
+        "sub": 24,
         "screenshot": 1,
         "sounds": 1,
         "effects": 1
@@ -1882,14 +1883,15 @@
         "screenshot_first",
         "sound_first",
         "effect_first",
-        "chat_regular"
+        "chat_regular",
+        "sub_diamond"
       ],
-      "lastUpdated": "2025-08-09T15:36:09Z"
+      "lastUpdated": "2025-08-23T09:03:14Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 424,
+        "chat": 425,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1936,7 +1938,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-23T09:00:01Z"
+      "lastUpdated": "2025-08-23T09:01:45Z"
     },
     "anzerou": {
       "counters": {
@@ -1974,10 +1976,10 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 219,
-        "points_spent": 12653,
+        "chat": 220,
+        "points_spent": 13153,
         "interactive": 10,
-        "effects": 11,
+        "effects": 12,
         "sub": 22,
         "sounds": 1
       },
@@ -2010,12 +2012,12 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-17T15:26:15Z"
+      "lastUpdated": "2025-08-23T09:04:07Z"
     },
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 249,
+        "chat": 256,
         "points_spent": 2600,
         "effects": 4
       },
@@ -2031,7 +2033,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T09:01:02Z"
+      "lastUpdated": "2025-08-23T09:03:55Z"
     },
     "spoono__": {
       "counters": {
@@ -2289,7 +2291,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 183,
+        "chat": 185,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2314,7 +2316,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2025-08-23T08:59:49Z"
+      "lastUpdated": "2025-08-23T09:02:08Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3747,7 +3749,7 @@
       "counters": {
         "points_spent": 15512,
         "special_rewards": 1,
-        "chat": 84,
+        "chat": 86,
         "effects": 1,
         "follow": 1,
         "sub": 11
@@ -3773,7 +3775,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-23T08:53:33Z"
+      "lastUpdated": "2025-08-23T09:03:18Z"
     },
     "xykojen": {
       "counters": {
@@ -5007,7 +5009,7 @@
       "lastUpdated": "2025-08-23T08:55:07Z"
     }
   },
-  "lastUpdated": "2025-08-23T08:01:09Z",
+  "lastUpdated": "2025-08-23T08:04:20Z",
   "totalUsers": 210,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
