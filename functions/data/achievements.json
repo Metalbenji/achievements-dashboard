@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 139,
+        "chat": 140,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-23T15:56:40Z"
+      "lastUpdated": "2025-08-23T15:59:19Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 786,
+        "chat": 789,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-23T15:56:46Z"
+      "lastUpdated": "2025-08-23T15:59:04Z"
     },
     "celran": {
       "counters": {
@@ -1865,7 +1865,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 154,
+        "chat": 155,
         "points_spent": 9400,
         "interactive": 2,
         "sub": 24,
@@ -1898,7 +1898,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-23T15:55:47Z"
+      "lastUpdated": "2025-08-23T15:58:15Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2409,8 +2409,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 6150,
-        "effects": 14,
+        "points_spent": 6500,
+        "effects": 15,
         "follow": 1,
         "chat": 95,
         "interactive": 1,
@@ -2434,21 +2434,21 @@
         "bday2025_support",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-23T15:53:46Z"
+      "lastUpdated": "2025-08-23T15:57:07Z"
     },
     "s3n71": {
       "counters": {
         "follow": 1,
         "chat": 232,
         "sub": 34,
-        "points_spent": 20501,
+        "points_spent": 21301,
         "interactive": 2,
         "sounds": 1,
         "gift_subs": 3,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 61,
         "largest_gift_bomb": 56,
-        "effects": 4
+        "effects": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2491,7 +2491,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T15:47:54Z"
+      "lastUpdated": "2025-08-23T15:57:21Z"
     },
     "umenneske94": {
       "counters": {
@@ -3133,13 +3133,16 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 4,
+        "points_spent": 100,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "sound_first"
       ],
-      "lastUpdated": "2025-08-23T14:53:38Z"
+      "lastUpdated": "2025-08-23T15:59:28Z"
     },
     "domtok1": {
       "counters": {
@@ -5092,7 +5095,7 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 21
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5100,7 +5103,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T15:55:46Z"
+      "lastUpdated": "2025-08-23T15:58:55Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -5203,17 +5206,17 @@
     "mr_ragefuzz": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T15:56:48Z"
+      "lastUpdated": "2025-08-23T15:59:16Z"
     }
   },
-  "lastUpdated": "2025-08-23T14:56:48Z",
+  "lastUpdated": "2025-08-23T14:59:29Z",
   "totalUsers": 222,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
