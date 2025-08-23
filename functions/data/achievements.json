@@ -1903,7 +1903,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 479,
+        "chat": 480,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1950,7 +1950,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-23T17:39:51Z"
+      "lastUpdated": "2025-08-23T17:40:10Z"
     },
     "anzerou": {
       "counters": {
@@ -4362,7 +4362,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 22
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4370,9 +4370,10 @@
         "weekend_warrior",
         "bday2025_attend",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-17T11:17:59Z"
+      "lastUpdated": "2025-08-23T17:42:45Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -5364,7 +5365,7 @@
       "lastUpdated": "2025-08-23T17:39:10Z"
     }
   },
-  "lastUpdated": "2025-08-23T16:40:09Z",
+  "lastUpdated": "2025-08-23T16:42:45Z",
   "totalUsers": 235,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
