@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 856,
+        "chat": 887,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-24T13:34:41Z"
+      "lastUpdated": "2025-08-24T14:17:12Z"
     },
     "celran": {
       "counters": {
@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 960,
+        "chat": 978,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-24T13:33:46Z"
+      "lastUpdated": "2025-08-24T14:17:43Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1994,7 +1994,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 272,
+        "chat": 274,
         "points_spent": 15653,
         "interactive": 11,
         "effects": 16,
@@ -2030,7 +2030,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-24T13:23:23Z"
+      "lastUpdated": "2025-08-24T14:13:44Z"
     },
     "redunt86": {
       "counters": {
@@ -2313,7 +2313,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 261,
+        "chat": 269,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2340,7 +2340,7 @@
         "sub_tier3",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-24T13:34:40Z"
+      "lastUpdated": "2025-08-24T14:17:06Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2446,7 +2446,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 262,
+        "chat": 272,
         "sub": 34,
         "points_spent": 21651,
         "interactive": 2,
@@ -2498,7 +2498,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-23T18:53:51Z"
+      "lastUpdated": "2025-08-24T14:17:59Z"
     },
     "umenneske94": {
       "counters": {
@@ -4644,7 +4644,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 286,
+        "chat": 287,
         "points_spent": 13150,
         "effects": 4,
         "sounds": 3,
@@ -4665,7 +4665,7 @@
         "emperor_loyal",
         "spender_silver"
       ],
-      "lastUpdated": "2025-08-24T10:30:43Z"
+      "lastUpdated": "2025-08-24T13:47:14Z"
     },
     "jamie1496": {
       "counters": {
@@ -5080,7 +5080,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 406,
+        "chat": 410,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5121,7 +5121,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-24T13:33:56Z"
+      "lastUpdated": "2025-08-24T14:11:44Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5393,20 +5393,6 @@
       ],
       "lastUpdated": "2025-08-23T17:45:04Z"
     },
-    "ghenkiswow": {
-      "counters": {
-        "follow": 1,
-        "chat": 25
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist"
-      ],
-      "lastUpdated": "2025-08-24T13:34:41Z"
-    },
     "simonbt": {
       "counters": {
         "follow": 1,
@@ -5427,9 +5413,25 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-08-23T19:01:17Z"
+    },
+    "ghenkhis": {
+      "counters": {
+        "follow": 1,
+        "chat": 46,
+        "points_spent": 1250
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie",
+        "chat_talker",
+        "chat_conversationalist",
+        "spender_bronze"
+      ],
+      "lastUpdated": "2025-08-24T14:18:10Z"
     }
   },
-  "lastUpdated": "2025-08-24T12:34:42Z",
+  "lastUpdated": "2025-08-24T13:18:10Z",
   "totalUsers": 239,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
