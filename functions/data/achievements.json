@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 829,
+        "chat": 843,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-24T11:53:46Z"
+      "lastUpdated": "2025-08-24T12:35:35Z"
     },
     "celran": {
       "counters": {
@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 933,
+        "chat": 944,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,13 +1607,13 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-24T11:48:40Z"
+      "lastUpdated": "2025-08-24T12:34:08Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 604,
-        "points_spent": 40600,
-        "interactive": 13,
+        "chat": 610,
+        "points_spent": 41100,
+        "interactive": 14,
         "follow": 1,
         "sub": 32,
         "effects": 6,
@@ -1652,7 +1652,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-24T11:53:01Z"
+      "lastUpdated": "2025-08-24T12:35:37Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1811,7 +1811,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 134,
+        "chat": 135,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10
@@ -1829,7 +1829,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T18:54:58Z"
+      "lastUpdated": "2025-08-24T12:32:27Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2870,7 +2870,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 292,
+        "chat": 300,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2894,9 +2894,10 @@
         "night_owl",
         "chat_regular",
         "sub_tier1",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-16T17:38:02Z"
+      "lastUpdated": "2025-08-24T12:35:40Z"
     },
     "majesty81": {
       "counters": {
@@ -3321,7 +3322,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 121
+        "chat": 145
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3331,7 +3332,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T18:53:38Z"
+      "lastUpdated": "2025-08-24T12:26:53Z"
     },
     "akiraownz": {
       "counters": {
@@ -3351,7 +3352,7 @@
       "counters": {
         "sub": 31,
         "follow": 1,
-        "chat": 22
+        "chat": 24
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3370,7 +3371,7 @@
         "chat_talker",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-17T13:02:43Z"
+      "lastUpdated": "2025-08-24T12:31:30Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -4372,7 +4373,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 66,
+        "chat": 73,
         "points_spent": 900,
         "sounds": 1,
         "effects": 1
@@ -4388,7 +4389,7 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-23T19:02:12Z"
+      "lastUpdated": "2025-08-24T12:10:29Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -5079,7 +5080,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 389,
+        "chat": 390,
         "points_spent": 11450,
         "sounds": 7,
         "effects": 4,
@@ -5120,7 +5121,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-24T11:43:29Z"
+      "lastUpdated": "2025-08-24T12:35:27Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5184,13 +5185,13 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T12:46:43Z"
+      "lastUpdated": "2025-08-24T12:14:00Z"
     },
     "esjaytv": {
       "counters": {
@@ -5426,7 +5427,7 @@
       "lastUpdated": "2025-08-23T19:01:17Z"
     }
   },
-  "lastUpdated": "2025-08-24T10:54:38Z",
+  "lastUpdated": "2025-08-24T11:35:41Z",
   "totalUsers": 239,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
