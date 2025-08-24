@@ -1349,7 +1349,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 155,
+        "chat": 160,
         "points_spent": 22700,
         "follow": 1,
         "sub": 14
@@ -1374,7 +1374,7 @@
         "spender_silver",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-24T10:37:26Z"
+      "lastUpdated": "2025-08-24T15:15:55Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 890,
+        "chat": 892,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-24T14:54:12Z"
+      "lastUpdated": "2025-08-24T14:57:01Z"
     },
     "celran": {
       "counters": {
@@ -1510,7 +1510,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 138,
+        "chat": 147,
         "points_spent": 7300,
         "effects": 5,
         "follow": 1,
@@ -1544,11 +1544,11 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-24T10:47:47Z"
+      "lastUpdated": "2025-08-24T15:08:05Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 982,
+        "chat": 986,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-24T14:38:01Z"
+      "lastUpdated": "2025-08-24T15:20:27Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1994,7 +1994,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 274,
+        "chat": 278,
         "points_spent": 15653,
         "interactive": 11,
         "effects": 16,
@@ -2030,7 +2030,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-24T14:13:44Z"
+      "lastUpdated": "2025-08-24T15:26:30Z"
     },
     "redunt86": {
       "counters": {
@@ -2078,7 +2078,7 @@
       "counters": {
         "points_spent": 24200,
         "follow": 1,
-        "chat": 296,
+        "chat": 300,
         "effects": 27,
         "screenshot": 1,
         "sounds": 4,
@@ -2124,9 +2124,10 @@
         "gift_kind",
         "interactive_first",
         "chat_frequent",
-        "effect_master"
+        "effect_master",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-24T11:50:02Z"
+      "lastUpdated": "2025-08-24T15:27:50Z"
     },
     "syn__________": {
       "counters": {
@@ -2419,7 +2420,7 @@
         "points_spent": 6850,
         "effects": 16,
         "follow": 1,
-        "chat": 100,
+        "chat": 101,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2442,12 +2443,12 @@
         "effect_collector",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-24T14:54:28Z"
+      "lastUpdated": "2025-08-24T14:55:45Z"
     },
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 281,
+        "chat": 287,
         "sub": 34,
         "points_spent": 21651,
         "interactive": 2,
@@ -2499,7 +2500,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-24T14:50:38Z"
+      "lastUpdated": "2025-08-24T15:27:28Z"
     },
     "umenneske94": {
       "counters": {
@@ -3112,7 +3113,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 190,
+        "chat": 193,
         "points_spent": 1500,
         "effects": 2,
         "interactive": 1
@@ -3130,7 +3131,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-24T14:49:38Z"
+      "lastUpdated": "2025-08-24T15:09:10Z"
     },
     "roffelonator": {
       "counters": {
@@ -5222,13 +5223,13 @@
     "demanisraar": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T15:29:34Z"
+      "lastUpdated": "2025-08-24T15:21:56Z"
     },
     "bloodecho_ghoul": {
       "counters": {
@@ -5421,7 +5422,7 @@
     "ghenkhis": {
       "counters": {
         "follow": 1,
-        "chat": 49,
+        "chat": 50,
         "points_spent": 1250,
         "effects": 1
       },
@@ -5434,10 +5435,10 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-24T14:21:51Z"
+      "lastUpdated": "2025-08-24T15:03:34Z"
     }
   },
-  "lastUpdated": "2025-08-24T13:54:28Z",
+  "lastUpdated": "2025-08-24T14:27:51Z",
   "totalUsers": 239,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
