@@ -5418,7 +5418,8 @@
       "counters": {
         "follow": 1,
         "chat": 46,
-        "points_spent": 1250
+        "points_spent": 1250,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5426,12 +5427,13 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-24T14:18:10Z"
+      "lastUpdated": "2025-08-24T14:18:11Z"
     }
   },
-  "lastUpdated": "2025-08-24T13:18:10Z",
+  "lastUpdated": "2025-08-24T13:18:11Z",
   "totalUsers": 239,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
