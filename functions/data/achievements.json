@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 160,
+        "chat": 166,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-23T16:44:21Z"
+      "lastUpdated": "2025-08-24T14:25:07Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 978,
+        "chat": 980,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-24T14:17:43Z"
+      "lastUpdated": "2025-08-24T14:25:33Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2416,10 +2416,10 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 6500,
-        "effects": 15,
+        "points_spent": 6850,
+        "effects": 16,
         "follow": 1,
-        "chat": 95,
+        "chat": 97,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2441,12 +2441,12 @@
         "bday2025_support",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-23T15:57:07Z"
+      "lastUpdated": "2025-08-24T14:25:35Z"
     },
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 272,
+        "chat": 275,
         "sub": 34,
         "points_spent": 21651,
         "interactive": 2,
@@ -2498,7 +2498,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-24T14:17:59Z"
+      "lastUpdated": "2025-08-24T14:22:17Z"
     },
     "umenneske94": {
       "counters": {
@@ -2764,15 +2764,17 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 16,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-08-23T09:44:10Z"
+      "lastUpdated": "2025-08-24T14:27:43Z"
     },
     "chadrestricted": {
       "counters": {
@@ -5417,7 +5419,7 @@
     "ghenkhis": {
       "counters": {
         "follow": 1,
-        "chat": 46,
+        "chat": 49,
         "points_spent": 1250,
         "effects": 1
       },
@@ -5430,10 +5432,10 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-24T14:18:11Z"
+      "lastUpdated": "2025-08-24T14:21:51Z"
     }
   },
-  "lastUpdated": "2025-08-24T13:18:11Z",
+  "lastUpdated": "2025-08-24T13:27:43Z",
   "totalUsers": 239,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
