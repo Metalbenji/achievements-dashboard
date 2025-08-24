@@ -1909,7 +1909,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 498,
+        "chat": 503,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1956,7 +1956,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-08-24T13:20:57Z"
+      "lastUpdated": "2025-08-24T15:32:17Z"
     },
     "anzerou": {
       "counters": {
@@ -2078,7 +2078,7 @@
       "counters": {
         "points_spent": 24200,
         "follow": 1,
-        "chat": 300,
+        "chat": 304,
         "effects": 27,
         "screenshot": 1,
         "sounds": 4,
@@ -2127,7 +2127,7 @@
         "effect_master",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-24T15:27:50Z"
+      "lastUpdated": "2025-08-24T15:32:22Z"
     },
     "syn__________": {
       "counters": {
@@ -2448,7 +2448,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 287,
+        "chat": 288,
         "sub": 34,
         "points_spent": 21651,
         "interactive": 2,
@@ -2500,7 +2500,7 @@
         "gift_caring",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-24T15:27:28Z"
+      "lastUpdated": "2025-08-24T15:36:45Z"
     },
     "umenneske94": {
       "counters": {
@@ -2663,7 +2663,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 275,
+        "chat": 277,
         "points_spent": 7450,
         "sounds": 1,
         "effects": 16,
@@ -2722,7 +2722,7 @@
         "chat_frequent",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-24T09:22:29Z"
+      "lastUpdated": "2025-08-24T15:30:53Z"
     },
     "andilippi": {
       "counters": {
@@ -2875,7 +2875,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 303,
+        "chat": 309,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2902,7 +2902,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-24T12:38:44Z"
+      "lastUpdated": "2025-08-24T15:32:32Z"
     },
     "majesty81": {
       "counters": {
@@ -5223,13 +5223,14 @@
     "demanisraar": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-24T15:21:56Z"
+      "lastUpdated": "2025-08-24T15:36:52Z"
     },
     "bloodecho_ghoul": {
       "counters": {
@@ -5438,7 +5439,7 @@
       "lastUpdated": "2025-08-24T15:03:34Z"
     }
   },
-  "lastUpdated": "2025-08-24T14:27:51Z",
+  "lastUpdated": "2025-08-24T14:36:53Z",
   "totalUsers": 239,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
