@@ -2772,7 +2772,8 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "spender_bronze"
+        "spender_bronze",
+        "emperor_loyal"
       ],
       "lastUpdated": "2025-08-24T14:27:43Z"
     },
@@ -5435,7 +5436,7 @@
       "lastUpdated": "2025-08-24T14:21:51Z"
     }
   },
-  "lastUpdated": "2025-08-24T13:27:43Z",
+  "lastUpdated": "2025-08-24T13:27:44Z",
   "totalUsers": 239,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
