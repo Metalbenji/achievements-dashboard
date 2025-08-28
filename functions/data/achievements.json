@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 988,
+        "chat": 990,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1607,7 @@
         "emperor_loyal",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-08-28T18:56:53Z"
+      "lastUpdated": "2025-08-28T18:58:53Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1995,7 +1995,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 283,
+        "chat": 285,
         "points_spent": 15653,
         "interactive": 11,
         "effects": 16,
@@ -2031,7 +2031,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-08-28T18:57:14Z"
+      "lastUpdated": "2025-08-28T18:58:02Z"
     },
     "redunt86": {
       "counters": {
@@ -4651,7 +4651,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 295,
+        "chat": 300,
         "points_spent": 14500,
         "effects": 4,
         "sounds": 3,
@@ -4670,9 +4670,10 @@
         "chat_regular",
         "chat_frequent",
         "emperor_loyal",
-        "spender_silver"
+        "spender_silver",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-28T18:53:49Z"
+      "lastUpdated": "2025-08-28T18:59:30Z"
     },
     "jamie1496": {
       "counters": {
@@ -5442,15 +5443,15 @@
     },
     "j3ster0069": {
       "counters": {
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-28T18:57:20Z"
+      "lastUpdated": "2025-08-28T18:58:10Z"
     }
   },
-  "lastUpdated": "2025-08-28T17:57:20Z",
+  "lastUpdated": "2025-08-28T17:59:30Z",
   "totalUsers": 240,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
