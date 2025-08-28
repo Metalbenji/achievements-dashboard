@@ -2543,7 +2543,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 148,
+        "chat": 149,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2571,9 +2571,10 @@
         "spender_bronze",
         "spender_silver",
         "sound_first",
-        "chat_regular"
+        "chat_regular",
+        "night_owl"
       ],
-      "lastUpdated": "2025-08-28T21:59:19Z"
+      "lastUpdated": "2025-08-28T22:12:06Z"
     },
     "ppjackson69": {
       "counters": {
@@ -5473,7 +5474,7 @@
       "lastUpdated": "2025-08-28T21:36:37Z"
     }
   },
-  "lastUpdated": "2025-08-28T21:11:54Z",
+  "lastUpdated": "2025-08-28T21:12:06Z",
   "totalUsers": 241,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
