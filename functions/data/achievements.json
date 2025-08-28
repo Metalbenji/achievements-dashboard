@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 910,
+        "chat": 916,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-28T20:23:06Z"
+      "lastUpdated": "2025-08-28T20:37:16Z"
     },
     "celran": {
       "counters": {
@@ -1732,10 +1732,10 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 144,
-        "points_spent": 3700,
+        "chat": 145,
+        "points_spent": 4500,
         "interactive": 1,
-        "effects": 4,
+        "effects": 5,
         "sub": 24
       },
       "unlockedAchievements": [
@@ -1762,7 +1762,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-28T18:52:56Z"
+      "lastUpdated": "2025-08-28T20:32:52Z"
     },
     "tawmae": {
       "counters": {
@@ -2270,7 +2270,7 @@
     "ke1fire": {
       "counters": {
         "follow": 1,
-        "chat": 17,
+        "chat": 25,
         "points_spent": 500,
         "interactive": 1
       },
@@ -2281,9 +2281,10 @@
         "bday2025_attend",
         "chat_newbie",
         "interactive_first",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-07-29T10:32:13Z"
+      "lastUpdated": "2025-08-28T20:37:32Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -2302,7 +2303,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 14,
+        "chat": 16,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2312,7 +2313,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T12:08:09Z"
+      "lastUpdated": "2025-08-28T20:36:15Z"
     },
     "mistifi_": {
       "counters": {
@@ -3116,10 +3117,10 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 200,
-        "points_spent": 1500,
+        "chat": 211,
+        "points_spent": 1900,
         "effects": 2,
-        "interactive": 1
+        "interactive": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3135,7 +3136,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-28T20:26:17Z"
+      "lastUpdated": "2025-08-28T20:34:52Z"
     },
     "roffelonator": {
       "counters": {
@@ -5453,7 +5454,7 @@
       "lastUpdated": "2025-08-28T18:58:10Z"
     }
   },
-  "lastUpdated": "2025-08-28T19:26:18Z",
+  "lastUpdated": "2025-08-28T19:37:32Z",
   "totalUsers": 240,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
