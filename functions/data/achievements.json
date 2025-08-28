@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 176,
+        "chat": 178,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-08-28T21:35:06Z"
+      "lastUpdated": "2025-08-28T21:42:12Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1018,
+        "chat": 1020,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-28T21:34:51Z"
+      "lastUpdated": "2025-08-28T21:55:10Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1732,7 +1732,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 146,
+        "chat": 147,
         "points_spent": 4500,
         "interactive": 1,
         "effects": 5,
@@ -1762,7 +1762,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-28T21:10:49Z"
+      "lastUpdated": "2025-08-28T21:41:37Z"
     },
     "tawmae": {
       "counters": {
@@ -2541,7 +2541,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 143,
+        "chat": 144,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2571,7 +2571,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-28T21:29:41Z"
+      "lastUpdated": "2025-08-28T21:48:51Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3780,7 +3780,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 53
+        "chat": 55
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3791,7 +3791,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-28T21:35:30Z"
+      "lastUpdated": "2025-08-28T21:43:19Z"
     },
     "justpeterpg": {
       "counters": {
@@ -4424,7 +4424,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 32
+        "chat": 34
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4433,7 +4433,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-28T21:34:37Z"
+      "lastUpdated": "2025-08-28T21:36:44Z"
     },
     "dinshara": {
       "counters": {
@@ -4531,15 +4531,16 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-28T21:30:08Z"
+      "lastUpdated": "2025-08-28T21:56:10Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5458,15 +5459,16 @@
     },
     "fourinches4": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2025-08-28T21:36:13Z"
+      "lastUpdated": "2025-08-28T21:36:37Z"
     }
   },
-  "lastUpdated": "2025-08-28T20:36:14Z",
+  "lastUpdated": "2025-08-28T20:56:10Z",
   "totalUsers": 241,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
