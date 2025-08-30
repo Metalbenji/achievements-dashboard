@@ -5534,15 +5534,16 @@
     "dragonnan_drakelos": {
       "counters": {
         "follow": 1,
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-30T09:52:03Z"
+      "lastUpdated": "2025-08-30T09:53:50Z"
     },
     "falkistan": {
       "counters": {
@@ -5557,7 +5558,7 @@
       "lastUpdated": "2025-08-30T09:52:40Z"
     }
   },
-  "lastUpdated": "2025-08-30T08:52:41Z",
+  "lastUpdated": "2025-08-30T08:53:50Z",
   "totalUsers": 247,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
