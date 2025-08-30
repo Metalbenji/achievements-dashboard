@@ -1873,7 +1873,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 264,
+        "chat": 265,
         "points_spent": 9800,
         "interactive": 3,
         "sub": 24,
@@ -1907,7 +1907,7 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-30T13:29:46Z"
+      "lastUpdated": "2025-08-30T13:38:04Z"
     },
     "mattyuk937": {
       "counters": {
@@ -1978,7 +1978,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 27000,
         "sounds": 1,
         "interactive": 1
@@ -1993,7 +1993,7 @@
         "interactive_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T13:37:12Z"
+      "lastUpdated": "2025-08-30T13:37:30Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2847,13 +2847,14 @@
     "wowbrolly": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T10:25:45Z"
+      "lastUpdated": "2025-08-30T13:38:25Z"
     },
     "william_murdurface": {
       "counters": {
@@ -3490,7 +3491,7 @@
     "daddysaffy": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3498,7 +3499,7 @@
         "weekend_warrior",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T13:36:46Z"
+      "lastUpdated": "2025-08-30T13:37:40Z"
     },
     "captainviktory": {
       "counters": {
@@ -5608,7 +5609,7 @@
       "lastUpdated": "2025-08-30T13:02:53Z"
     }
   },
-  "lastUpdated": "2025-08-30T12:37:12Z",
+  "lastUpdated": "2025-08-30T12:38:26Z",
   "totalUsers": 251,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
