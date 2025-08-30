@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 924,
+        "chat": 927,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-08-30T11:32:41Z"
+      "lastUpdated": "2025-08-30T11:38:25Z"
     },
     "celran": {
       "counters": {
@@ -2320,7 +2320,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 305,
+        "chat": 308,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2348,7 +2348,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T11:35:00Z"
+      "lastUpdated": "2025-08-30T11:37:59Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -5574,16 +5574,17 @@
     "oobalicious": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T11:35:26Z"
+      "lastUpdated": "2025-08-30T11:39:10Z"
     }
   },
-  "lastUpdated": "2025-08-30T10:35:26Z",
+  "lastUpdated": "2025-08-30T10:39:11Z",
   "totalUsers": 249,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
