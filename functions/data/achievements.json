@@ -4917,7 +4917,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4925,7 +4925,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T15:51:13Z"
+      "lastUpdated": "2025-08-30T16:19:24Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5467,7 +5467,7 @@
     "ghenkhis": {
       "counters": {
         "follow": 1,
-        "chat": 69,
+        "chat": 70,
         "points_spent": 1600,
         "effects": 2
       },
@@ -5480,7 +5480,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-30T15:47:37Z"
+      "lastUpdated": "2025-08-30T16:17:50Z"
     },
     "j3ster0069": {
       "counters": {
@@ -5643,16 +5643,17 @@
     "angiekimm": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T16:17:38Z"
+      "lastUpdated": "2025-08-30T16:19:28Z"
     }
   },
-  "lastUpdated": "2025-08-30T15:17:39Z",
+  "lastUpdated": "2025-08-30T15:19:28Z",
   "totalUsers": 254,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
