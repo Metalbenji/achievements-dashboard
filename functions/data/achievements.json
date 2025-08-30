@@ -5622,15 +5622,17 @@
     },
     "onnill_": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-30T14:04:13Z"
+      "lastUpdated": "2025-08-30T14:04:14Z"
     }
   },
-  "lastUpdated": "2025-08-30T13:04:14Z",
+  "lastUpdated": "2025-08-30T13:04:15Z",
   "totalUsers": 253,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
