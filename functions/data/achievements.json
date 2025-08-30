@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1129,
+        "chat": 1130,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-30T13:57:53Z"
+      "lastUpdated": "2025-08-30T14:06:56Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2188,7 +2188,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1192,
+        "chat": 1193,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2253,7 +2253,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-08-30T14:03:03Z"
+      "lastUpdated": "2025-08-30T14:06:32Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2322,7 +2322,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 309,
+        "chat": 311,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2350,7 +2350,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T11:40:19Z"
+      "lastUpdated": "2025-08-30T14:06:26Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4553,7 +4553,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 39,
+        "chat": 40,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4565,7 +4565,7 @@
         "chat_conversationalist",
         "interactive_first"
       ],
-      "lastUpdated": "2025-08-30T13:36:31Z"
+      "lastUpdated": "2025-08-30T14:07:14Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5612,27 +5612,28 @@
     },
     "oappa": {
       "counters": {
-        "chat": 7
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T14:03:38Z"
+      "lastUpdated": "2025-08-30T14:05:09Z"
     },
     "onnill_": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T14:04:14Z"
+      "lastUpdated": "2025-08-30T14:07:38Z"
     }
   },
-  "lastUpdated": "2025-08-30T13:04:15Z",
+  "lastUpdated": "2025-08-30T13:07:39Z",
   "totalUsers": 253,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
