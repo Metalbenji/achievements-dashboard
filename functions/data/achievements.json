@@ -1978,7 +1978,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "points_spent": 27000,
         "sounds": 1,
         "interactive": 1
@@ -1994,7 +1994,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T13:51:16Z"
+      "lastUpdated": "2025-08-30T13:51:28Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2188,7 +2188,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1183,
+        "chat": 1184,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2253,7 +2253,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-08-30T13:46:31Z"
+      "lastUpdated": "2025-08-30T13:55:32Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2377,7 +2377,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 119
+        "chat": 120
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2389,7 +2389,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-30T13:51:11Z"
+      "lastUpdated": "2025-08-30T13:51:55Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -4911,13 +4911,14 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T15:27:20Z"
+      "lastUpdated": "2025-08-30T13:55:40Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5610,7 +5611,7 @@
       "lastUpdated": "2025-08-30T13:02:53Z"
     }
   },
-  "lastUpdated": "2025-08-30T12:51:17Z",
+  "lastUpdated": "2025-08-30T12:55:41Z",
   "totalUsers": 251,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
