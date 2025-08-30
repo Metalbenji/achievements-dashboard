@@ -2886,7 +2886,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 323,
+        "chat": 325,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2913,7 +2913,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T08:18:25Z"
+      "lastUpdated": "2025-08-30T08:19:00Z"
     },
     "majesty81": {
       "counters": {
@@ -5489,10 +5489,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-08-30T08:18:41Z"
+    },
+    "vezwarmane": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-30T08:19:06Z"
     }
   },
-  "lastUpdated": "2025-08-30T07:18:51Z",
-  "totalUsers": 242,
+  "lastUpdated": "2025-08-30T07:19:06Z",
+  "totalUsers": 243,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
