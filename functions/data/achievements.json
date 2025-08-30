@@ -1873,7 +1873,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 238,
+        "chat": 240,
         "points_spent": 9800,
         "interactive": 3,
         "sub": 24,
@@ -1907,7 +1907,7 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-30T10:12:39Z"
+      "lastUpdated": "2025-08-30T10:23:48Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2186,7 +2186,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1170,
+        "chat": 1171,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2251,7 +2251,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-08-30T10:15:29Z"
+      "lastUpdated": "2025-08-30T10:29:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2374,7 +2374,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 98
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2383,9 +2383,10 @@
         "night_owl",
         "chat_talker",
         "bday2025_attend",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-30T10:13:25Z"
+      "lastUpdated": "2025-08-30T10:31:03Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2675,7 +2676,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 293,
+        "chat": 294,
         "points_spent": 7950,
         "sounds": 1,
         "effects": 17,
@@ -2734,7 +2735,7 @@
         "chat_frequent",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-30T10:14:20Z"
+      "lastUpdated": "2025-08-30T10:28:28Z"
     },
     "andilippi": {
       "counters": {
@@ -2843,13 +2844,13 @@
     "wowbrolly": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-06-28T10:01:26Z"
+      "lastUpdated": "2025-08-30T10:25:45Z"
     },
     "william_murdurface": {
       "counters": {
@@ -2887,7 +2888,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 346,
+        "chat": 352,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2914,7 +2915,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T10:20:17Z"
+      "lastUpdated": "2025-08-30T10:22:47Z"
     },
     "majesty81": {
       "counters": {
@@ -5112,7 +5113,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 438,
+        "chat": 441,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5153,7 +5154,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T10:17:08Z"
+      "lastUpdated": "2025-08-30T10:30:35Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5534,7 +5535,7 @@
     "dragonnan_drakelos": {
       "counters": {
         "follow": 1,
-        "chat": 31
+        "chat": 35
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5543,7 +5544,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-30T10:02:17Z"
+      "lastUpdated": "2025-08-30T10:31:00Z"
     },
     "falkistan": {
       "counters": {
@@ -5570,7 +5571,7 @@
       "lastUpdated": "2025-08-30T10:20:37Z"
     }
   },
-  "lastUpdated": "2025-08-30T09:20:38Z",
+  "lastUpdated": "2025-08-30T09:31:04Z",
   "totalUsers": 248,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
