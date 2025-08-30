@@ -1733,7 +1733,7 @@
       "counters": {
         "follow": 1,
         "chat": 151,
-        "points_spent": 4500,
+        "points_spent": 4501,
         "interactive": 1,
         "effects": 5,
         "sub": 24
@@ -1760,9 +1760,10 @@
         "night_owl",
         "bday2025_attend",
         "chat_regular",
-        "sub_diamond"
+        "sub_diamond",
+        "first_caller"
       ],
-      "lastUpdated": "2025-08-30T08:12:54Z"
+      "lastUpdated": "2025-08-30T08:13:17Z"
     },
     "tawmae": {
       "counters": {
@@ -5486,7 +5487,7 @@
       "lastUpdated": "2025-08-30T08:13:00Z"
     }
   },
-  "lastUpdated": "2025-08-30T07:13:01Z",
+  "lastUpdated": "2025-08-30T07:13:17Z",
   "totalUsers": 242,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
