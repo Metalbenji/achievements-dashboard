@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1025,
+        "chat": 1026,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-30T08:08:45Z"
+      "lastUpdated": "2025-08-30T08:11:21Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1732,7 +1732,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 147,
+        "chat": 151,
         "points_spent": 4500,
         "interactive": 1,
         "effects": 5,
@@ -1762,7 +1762,7 @@
         "chat_regular",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-08-28T21:41:37Z"
+      "lastUpdated": "2025-08-30T08:12:54Z"
     },
     "tawmae": {
       "counters": {
@@ -5475,15 +5475,18 @@
     },
     "bradzilla88": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T08:10:25Z"
+      "lastUpdated": "2025-08-30T08:13:00Z"
     }
   },
-  "lastUpdated": "2025-08-30T07:10:26Z",
+  "lastUpdated": "2025-08-30T07:13:01Z",
   "totalUsers": 242,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
