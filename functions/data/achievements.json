@@ -5107,7 +5107,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 427,
+        "chat": 428,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5148,7 +5148,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T08:57:16Z"
+      "lastUpdated": "2025-08-30T09:24:19Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5511,10 +5511,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-08-30T08:21:10Z"
+    },
+    "lyfebloomtv": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-30T09:25:36Z"
     }
   },
-  "lastUpdated": "2025-08-30T08:24:03Z",
-  "totalUsers": 244,
+  "lastUpdated": "2025-08-30T08:25:37Z",
+  "totalUsers": 245,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
