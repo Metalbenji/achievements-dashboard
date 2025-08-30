@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1107,
+        "chat": 1108,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-30T11:55:01Z"
+      "lastUpdated": "2025-08-30T12:10:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2976,7 +2976,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 177
+        "chat": 178
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2996,7 +2996,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-30T12:09:55Z"
+      "lastUpdated": "2025-08-30T12:10:11Z"
     },
     "khazan67": {
       "counters": {
@@ -5575,28 +5575,29 @@
     "oobalicious": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T12:09:41Z"
+      "lastUpdated": "2025-08-30T12:11:19Z"
     },
     "phayte": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-30T12:10:09Z"
+      "lastUpdated": "2025-08-30T12:10:23Z"
     }
   },
-  "lastUpdated": "2025-08-30T11:10:10Z",
+  "lastUpdated": "2025-08-30T11:11:19Z",
   "totalUsers": 250,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
