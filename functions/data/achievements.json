@@ -1873,7 +1873,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 279,
+        "chat": 280,
         "points_spent": 9800,
         "interactive": 3,
         "sub": 24,
@@ -1907,7 +1907,7 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-30T13:58:17Z"
+      "lastUpdated": "2025-08-30T14:03:37Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2188,7 +2188,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1191,
+        "chat": 1192,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2253,7 +2253,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-08-30T14:02:45Z"
+      "lastUpdated": "2025-08-30T14:03:03Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4682,7 +4682,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 352,
+        "chat": 354,
         "points_spent": 15350,
         "effects": 4,
         "sounds": 3,
@@ -4704,7 +4704,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T14:02:48Z"
+      "lastUpdated": "2025-08-30T14:03:19Z"
     },
     "jamie1496": {
       "counters": {
@@ -5612,17 +5612,26 @@
     },
     "oappa": {
       "counters": {
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T14:02:58Z"
+      "lastUpdated": "2025-08-30T14:03:38Z"
+    },
+    "onnill_": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-08-30T14:04:13Z"
     }
   },
-  "lastUpdated": "2025-08-30T13:02:59Z",
-  "totalUsers": 252,
+  "lastUpdated": "2025-08-30T13:04:14Z",
+  "totalUsers": 253,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
