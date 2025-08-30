@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1064,
+        "chat": 1068,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-30T09:39:01Z"
+      "lastUpdated": "2025-08-30T09:42:17Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2454,7 +2454,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 300,
+        "chat": 301,
         "sub": 34,
         "points_spent": 21651,
         "interactive": 2,
@@ -2508,7 +2508,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T09:24:03Z"
+      "lastUpdated": "2025-08-30T09:40:28Z"
     },
     "umenneske94": {
       "counters": {
@@ -3299,7 +3299,7 @@
       "counters": {
         "sub": 42,
         "follow": 1,
-        "chat": 95,
+        "chat": 100,
         "points_spent": 350,
         "effects": 1,
         "gift_bombs": 1,
@@ -3334,9 +3334,10 @@
         "gift_bomb_25",
         "gift_bomb_30",
         "gift_bomb_40",
-        "gift_bombs_first"
+        "gift_bombs_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T10:08:51Z"
+      "lastUpdated": "2025-08-30T09:43:45Z"
     },
     "camm_23": {
       "counters": {
@@ -5526,7 +5527,7 @@
     "dragonnan_drakelos": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5534,10 +5535,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T09:39:17Z"
+      "lastUpdated": "2025-08-30T09:43:16Z"
     }
   },
-  "lastUpdated": "2025-08-30T08:39:17Z",
+  "lastUpdated": "2025-08-30T08:43:46Z",
   "totalUsers": 246,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
