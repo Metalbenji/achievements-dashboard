@@ -3373,7 +3373,8 @@
         "sub": 31,
         "follow": 1,
         "chat": 29,
-        "points_spent": 1000
+        "points_spent": 1000,
+        "effects": 1
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3392,9 +3393,10 @@
         "chat_talker",
         "sub_tier1",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-08-30T09:46:51Z"
+      "lastUpdated": "2025-08-30T09:46:52Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -5543,7 +5545,7 @@
       "lastUpdated": "2025-08-30T09:46:07Z"
     }
   },
-  "lastUpdated": "2025-08-30T08:46:52Z",
+  "lastUpdated": "2025-08-30T08:46:53Z",
   "totalUsers": 246,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
