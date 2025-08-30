@@ -1612,7 +1612,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 628,
+        "chat": 629,
         "points_spent": 41100,
         "interactive": 14,
         "follow": 1,
@@ -1653,7 +1653,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-28T20:10:21Z"
+      "lastUpdated": "2025-08-30T09:56:16Z"
     },
     "aladderinsane": {
       "counters": {
@@ -5534,7 +5534,7 @@
     "dragonnan_drakelos": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 27
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5543,22 +5543,23 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-30T09:53:50Z"
+      "lastUpdated": "2025-08-30T09:56:49Z"
     },
     "falkistan": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T09:52:40Z"
+      "lastUpdated": "2025-08-30T09:56:50Z"
     }
   },
-  "lastUpdated": "2025-08-30T08:53:50Z",
+  "lastUpdated": "2025-08-30T08:56:50Z",
   "totalUsers": 247,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
