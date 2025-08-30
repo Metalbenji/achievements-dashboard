@@ -5546,15 +5546,17 @@
     },
     "falkistan": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-08-30T09:49:52Z"
     }
   },
-  "lastUpdated": "2025-08-30T08:49:52Z",
+  "lastUpdated": "2025-08-30T08:49:53Z",
   "totalUsers": 247,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
