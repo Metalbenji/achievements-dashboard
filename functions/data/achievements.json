@@ -2976,7 +2976,7 @@
       "counters": {
         "sub": 16,
         "follow": 1,
-        "chat": 175
+        "chat": 177
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -2996,7 +2996,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-30T12:03:33Z"
+      "lastUpdated": "2025-08-30T12:09:55Z"
     },
     "khazan67": {
       "counters": {
@@ -5575,26 +5575,28 @@
     "oobalicious": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T11:39:39Z"
+      "lastUpdated": "2025-08-30T12:09:41Z"
     },
     "phayte": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-30T12:08:56Z"
+      "lastUpdated": "2025-08-30T12:10:09Z"
     }
   },
-  "lastUpdated": "2025-08-30T11:08:56Z",
+  "lastUpdated": "2025-08-30T11:10:10Z",
   "totalUsers": 250,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
