@@ -5573,15 +5573,17 @@
     },
     "oobalicious": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-30T11:35:24Z"
+      "lastUpdated": "2025-08-30T11:35:26Z"
     }
   },
-  "lastUpdated": "2025-08-30T10:35:25Z",
+  "lastUpdated": "2025-08-30T10:35:26Z",
   "totalUsers": 249,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
