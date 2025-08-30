@@ -1456,7 +1456,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 151,
+        "chat": 155,
         "points_spent": 9001,
         "screenshot": 1,
         "effects": 2,
@@ -1483,7 +1483,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-28T20:58:31Z"
+      "lastUpdated": "2025-08-30T15:49:36Z"
     },
     "dmustain": {
       "counters": {
@@ -1660,7 +1660,7 @@
         "chat": 179,
         "follow": 1,
         "sub": 31,
-        "points_spent": 20000,
+        "points_spent": 55000,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -1685,9 +1685,10 @@
         "chat_regular",
         "spender_bronze",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "spender_gold"
       ],
-      "lastUpdated": "2025-08-30T15:48:30Z"
+      "lastUpdated": "2025-08-30T15:49:42Z"
     },
     "scoman07": {
       "counters": {
@@ -2898,7 +2899,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 467,
+        "chat": 469,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2925,7 +2926,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T15:48:06Z"
+      "lastUpdated": "2025-08-30T15:49:39Z"
     },
     "majesty81": {
       "counters": {
@@ -3170,7 +3171,7 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 100,
         "sounds": 1
       },
@@ -3180,7 +3181,7 @@
         "sound_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T15:48:42Z"
+      "lastUpdated": "2025-08-30T15:49:27Z"
     },
     "domtok1": {
       "counters": {
@@ -5639,7 +5640,7 @@
       "lastUpdated": "2025-08-30T14:08:30Z"
     }
   },
-  "lastUpdated": "2025-08-30T14:48:43Z",
+  "lastUpdated": "2025-08-30T14:49:42Z",
   "totalUsers": 253,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
