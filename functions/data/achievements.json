@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1108,
+        "chat": 1111,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-30T12:10:26Z"
+      "lastUpdated": "2025-08-30T12:19:54Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1873,7 +1873,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 245,
+        "chat": 246,
         "points_spent": 9800,
         "interactive": 3,
         "sub": 24,
@@ -1907,7 +1907,7 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-30T11:12:09Z"
+      "lastUpdated": "2025-08-30T12:20:12Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2796,7 +2796,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 299,
+        "chat": 300,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2810,9 +2810,10 @@
         "chat_regular",
         "spender_bronze",
         "sound_first",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-28T20:11:40Z"
+      "lastUpdated": "2025-08-30T12:20:23Z"
     },
     "maximusis_": {
       "counters": {
@@ -2890,7 +2891,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 403,
+        "chat": 406,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2917,7 +2918,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T11:51:23Z"
+      "lastUpdated": "2025-08-30T12:16:59Z"
     },
     "majesty81": {
       "counters": {
@@ -5575,7 +5576,7 @@
     "oobalicious": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5583,7 +5584,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T12:11:19Z"
+      "lastUpdated": "2025-08-30T12:13:33Z"
     },
     "phayte": {
       "counters": {
@@ -5597,7 +5598,7 @@
       "lastUpdated": "2025-08-30T12:10:23Z"
     }
   },
-  "lastUpdated": "2025-08-30T11:11:19Z",
+  "lastUpdated": "2025-08-30T11:20:24Z",
   "totalUsers": 250,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
