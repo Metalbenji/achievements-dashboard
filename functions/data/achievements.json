@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1074,
+        "chat": 1075,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-30T09:49:06Z"
+      "lastUpdated": "2025-08-30T09:50:32Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2676,9 +2676,9 @@
       "counters": {
         "follow": 1,
         "chat": 291,
-        "points_spent": 7450,
+        "points_spent": 7950,
         "sounds": 1,
-        "effects": 16,
+        "effects": 17,
         "sub": 41,
         "bits": 3000,
         "raid": 3,
@@ -2734,7 +2734,7 @@
         "chat_frequent",
         "effect_collector"
       ],
-      "lastUpdated": "2025-08-30T09:36:41Z"
+      "lastUpdated": "2025-08-30T09:51:35Z"
     },
     "andilippi": {
       "counters": {
@@ -5534,7 +5534,7 @@
     "dragonnan_drakelos": {
       "counters": {
         "follow": 1,
-        "chat": 21
+        "chat": 24
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5542,21 +5542,22 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T09:48:52Z"
+      "lastUpdated": "2025-08-30T09:52:03Z"
     },
     "falkistan": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T09:49:52Z"
+      "lastUpdated": "2025-08-30T09:52:40Z"
     }
   },
-  "lastUpdated": "2025-08-30T08:49:53Z",
+  "lastUpdated": "2025-08-30T08:52:41Z",
   "totalUsers": 247,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
