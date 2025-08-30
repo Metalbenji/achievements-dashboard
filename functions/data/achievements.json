@@ -1612,7 +1612,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 661,
+        "chat": 662,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1653,7 +1653,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-30T13:34:48Z"
+      "lastUpdated": "2025-08-30T13:49:45Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1873,7 +1873,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 265,
+        "chat": 277,
         "points_spent": 9800,
         "interactive": 3,
         "sub": 24,
@@ -1907,7 +1907,7 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-30T13:38:04Z"
+      "lastUpdated": "2025-08-30T13:50:34Z"
     },
     "mattyuk937": {
       "counters": {
@@ -1978,7 +1978,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 6,
+        "chat": 10,
         "points_spent": 27000,
         "sounds": 1,
         "interactive": 1
@@ -1991,9 +1991,10 @@
         "spender_silver",
         "sound_first",
         "interactive_first",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T13:37:30Z"
+      "lastUpdated": "2025-08-30T13:51:16Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2187,7 +2188,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1179,
+        "chat": 1183,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2252,7 +2253,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-08-30T10:57:19Z"
+      "lastUpdated": "2025-08-30T13:46:31Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2376,7 +2377,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 118
+        "chat": 119
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2388,7 +2389,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-08-30T12:04:50Z"
+      "lastUpdated": "2025-08-30T13:51:11Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2847,14 +2848,14 @@
     "wowbrolly": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-30T13:38:25Z"
+      "lastUpdated": "2025-08-30T13:50:37Z"
     },
     "william_murdurface": {
       "counters": {
@@ -2893,7 +2894,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 441,
+        "chat": 452,
         "sub": 41
       },
       "unlockedAchievements": [
@@ -2920,7 +2921,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T13:37:08Z"
+      "lastUpdated": "2025-08-30T13:46:40Z"
     },
     "majesty81": {
       "counters": {
@@ -3131,7 +3132,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 250,
+        "chat": 252,
         "points_spent": 1900,
         "effects": 2,
         "interactive": 2
@@ -3150,7 +3151,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-08-30T13:28:11Z"
+      "lastUpdated": "2025-08-30T13:44:38Z"
     },
     "roffelonator": {
       "counters": {
@@ -3491,7 +3492,7 @@
     "daddysaffy": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3499,7 +3500,7 @@
         "weekend_warrior",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T13:37:40Z"
+      "lastUpdated": "2025-08-30T13:40:17Z"
     },
     "captainviktory": {
       "counters": {
@@ -5609,7 +5610,7 @@
       "lastUpdated": "2025-08-30T13:02:53Z"
     }
   },
-  "lastUpdated": "2025-08-30T12:38:26Z",
+  "lastUpdated": "2025-08-30T12:51:17Z",
   "totalUsers": 251,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
