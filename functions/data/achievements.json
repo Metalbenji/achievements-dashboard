@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1219,
+        "chat": 1223,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,7 +1611,7 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T13:16:27Z"
+      "lastUpdated": "2025-09-06T13:22:32Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -4222,7 +4222,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 108
+        "chat": 109
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4233,7 +4233,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T13:11:27Z"
+      "lastUpdated": "2025-09-06T13:23:10Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4676,14 +4676,15 @@
     "ashhbrown": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-06T13:18:43Z"
+      "lastUpdated": "2025-09-06T13:23:21Z"
     },
     "icyhot_10": {
       "counters": {
@@ -5748,13 +5749,13 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T13:19:52Z"
+      "lastUpdated": "2025-09-06T13:20:50Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -5789,7 +5790,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:19:53Z",
+  "lastUpdated": "2025-09-06T12:23:21Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
