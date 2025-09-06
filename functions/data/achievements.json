@@ -1456,7 +1456,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 182,
+        "chat": 197,
         "points_spent": 9401,
         "screenshot": 1,
         "effects": 2,
@@ -1484,7 +1484,7 @@
         "chat_regular",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-09-06T09:17:00Z"
+      "lastUpdated": "2025-09-06T09:25:25Z"
     },
     "dmustain": {
       "counters": {
@@ -1549,7 +1549,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1175,
+        "chat": 1178,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1609,7 +1609,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-06T09:15:07Z"
+      "lastUpdated": "2025-09-06T09:22:55Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1693,7 +1693,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 97,
+        "chat": 100,
         "follow": 1,
         "points_spent": 800,
         "screenshot": 1
@@ -1705,9 +1705,10 @@
         "follow_supporter",
         "chat_conversationalist",
         "bday2025_attend",
-        "screenshot_first"
+        "screenshot_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-08-23T18:32:45Z"
+      "lastUpdated": "2025-09-06T09:25:34Z"
     },
     "lottec": {
       "counters": {
@@ -2520,7 +2521,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 7,
         "points_spent": 1300,
         "interactive": 1,
         "effects": 1
@@ -2533,7 +2534,7 @@
         "effect_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T10:36:25Z"
+      "lastUpdated": "2025-09-06T09:18:11Z"
     },
     "soundalerts": {
       "counters": {
@@ -2552,7 +2553,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 168,
+        "chat": 172,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2583,7 +2584,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2025-09-06T09:16:25Z"
+      "lastUpdated": "2025-09-06T09:18:11Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2785,7 +2786,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 27,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -2797,7 +2798,7 @@
         "emperor_loyal",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-06T09:15:41Z"
+      "lastUpdated": "2025-09-06T09:21:58Z"
     },
     "chadrestricted": {
       "counters": {
@@ -4920,7 +4921,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 26
+        "chat": 27
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4929,7 +4930,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-30T16:48:04Z"
+      "lastUpdated": "2025-09-06T09:25:18Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5508,7 +5509,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 55,
+        "chat": 57,
         "points_spent": 1851,
         "effects": 2,
         "interactive": 2
@@ -5524,7 +5525,7 @@
         "interactive_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-09-06T09:14:58Z"
+      "lastUpdated": "2025-09-06T09:18:25Z"
     },
     "vezwarmane": {
       "counters": {
@@ -5663,7 +5664,7 @@
       "lastUpdated": "2025-08-30T17:00:48Z"
     }
   },
-  "lastUpdated": "2025-09-06T08:17:01Z",
+  "lastUpdated": "2025-09-06T08:25:35Z",
   "totalUsers": 254,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
