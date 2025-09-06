@@ -5697,7 +5697,9 @@
       "counters": {
         "sub": 10,
         "follow": 1,
-        "chat": 2
+        "chat": 2,
+        "points_spent": 500,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -5709,9 +5711,10 @@
         "sub_veteran",
         "sub_champion",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-09-06T10:29:04Z"
+      "lastUpdated": "2025-09-06T10:32:16Z"
     },
     "apex_kitty": {
       "counters": {
@@ -5726,7 +5729,7 @@
       "lastUpdated": "2025-09-06T10:31:35Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:31:35Z",
+  "lastUpdated": "2025-09-06T09:32:16Z",
   "totalUsers": 258,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
