@@ -2460,7 +2460,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 335,
+        "chat": 337,
         "sub": 34,
         "points_spent": 21651,
         "interactive": 2,
@@ -2514,7 +2514,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T08:53:25Z"
+      "lastUpdated": "2025-09-06T09:03:32Z"
     },
     "umenneske94": {
       "counters": {
@@ -3824,7 +3824,7 @@
       "counters": {
         "points_spent": 16214,
         "special_rewards": 1,
-        "chat": 98,
+        "chat": 100,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -3848,9 +3848,10 @@
         "bday2025_attend",
         "spender_bronze",
         "biggest_fan",
-        "spender_silver"
+        "spender_silver",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T08:52:05Z"
+      "lastUpdated": "2025-09-06T09:03:36Z"
     },
     "xykojen": {
       "counters": {
@@ -5505,9 +5506,9 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 50,
-        "points_spent": 701,
-        "effects": 1,
+        "chat": 51,
+        "points_spent": 901,
+        "effects": 2,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -5520,7 +5521,7 @@
         "birthday_person",
         "interactive_first"
       ],
-      "lastUpdated": "2025-09-06T08:55:52Z"
+      "lastUpdated": "2025-09-06T09:03:07Z"
     },
     "vezwarmane": {
       "counters": {
@@ -5659,7 +5660,7 @@
       "lastUpdated": "2025-08-30T17:00:48Z"
     }
   },
-  "lastUpdated": "2025-09-06T07:55:52Z",
+  "lastUpdated": "2025-09-06T08:03:37Z",
   "totalUsers": 254,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
