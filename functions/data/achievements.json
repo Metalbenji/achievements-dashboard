@@ -1456,7 +1456,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 200,
+        "chat": 206,
         "points_spent": 9401,
         "screenshot": 1,
         "effects": 2,
@@ -1485,7 +1485,7 @@
         "interactive_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-06T09:26:50Z"
+      "lastUpdated": "2025-09-06T09:30:36Z"
     },
     "dmustain": {
       "counters": {
@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1178,
+        "chat": 1179,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1610,11 +1610,11 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-06T09:22:55Z"
+      "lastUpdated": "2025-09-06T09:27:00Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 662,
+        "chat": 668,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1655,7 +1655,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-09-06T09:26:44Z"
+      "lastUpdated": "2025-09-06T09:30:03Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1694,7 +1694,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 102,
+        "chat": 104,
         "follow": 1,
         "points_spent": 800,
         "screenshot": 1
@@ -1709,7 +1709,7 @@
         "screenshot_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T09:26:01Z"
+      "lastUpdated": "2025-09-06T09:27:33Z"
     },
     "lottec": {
       "counters": {
@@ -2787,7 +2787,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 28,
+        "chat": 32,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -2799,7 +2799,7 @@
         "emperor_loyal",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-06T09:25:56Z"
+      "lastUpdated": "2025-09-06T09:33:40Z"
     },
     "chadrestricted": {
       "counters": {
@@ -4922,7 +4922,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 28
+        "chat": 29
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4931,7 +4931,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-06T09:26:32Z"
+      "lastUpdated": "2025-09-06T09:31:22Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5133,7 +5133,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 463,
+        "chat": 467,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5174,7 +5174,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-08-30T13:17:14Z"
+      "lastUpdated": "2025-09-06T09:33:14Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5663,10 +5663,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2025-08-30T17:00:48Z"
+    },
+    "cas_ttv": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-06T09:33:41Z"
     }
   },
-  "lastUpdated": "2025-09-06T08:26:51Z",
-  "totalUsers": 254,
+  "lastUpdated": "2025-09-06T08:33:41Z",
+  "totalUsers": 255,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
