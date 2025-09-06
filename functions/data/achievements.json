@@ -1615,7 +1615,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 750,
+        "chat": 751,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1657,7 +1657,7 @@
         "sub_tier1",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-06T13:02:23Z"
+      "lastUpdated": "2025-09-06T13:17:19Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2013,7 +2013,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 304,
+        "chat": 307,
         "points_spent": 17653,
         "interactive": 12,
         "effects": 19,
@@ -2050,7 +2050,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T13:16:26Z"
+      "lastUpdated": "2025-09-06T13:19:52Z"
     },
     "redunt86": {
       "counters": {
@@ -4676,14 +4676,14 @@
     "ashhbrown": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T13:16:35Z"
+      "lastUpdated": "2025-09-06T13:18:43Z"
     },
     "icyhot_10": {
       "counters": {
@@ -5748,12 +5748,13 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T12:20:09Z"
+      "lastUpdated": "2025-09-06T13:19:52Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -5788,7 +5789,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:16:36Z",
+  "lastUpdated": "2025-09-06T12:19:53Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
