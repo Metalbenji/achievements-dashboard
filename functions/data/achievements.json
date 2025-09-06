@@ -2709,7 +2709,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 315,
+        "chat": 319,
         "points_spent": 7950,
         "sounds": 1,
         "effects": 17,
@@ -2771,7 +2771,7 @@
         "chat_dedicated",
         "gift_starter"
       ],
-      "lastUpdated": "2025-09-06T13:38:59Z"
+      "lastUpdated": "2025-09-06T13:44:18Z"
     },
     "andilippi": {
       "counters": {
@@ -3946,7 +3946,7 @@
         "follow": 1,
         "points_spent": 3501,
         "interactive": 7,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3958,7 +3958,7 @@
         "first_caller",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T13:28:33Z"
+      "lastUpdated": "2025-09-06T13:44:07Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -4238,7 +4238,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 120
+        "chat": 121
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4249,7 +4249,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T13:38:00Z"
+      "lastUpdated": "2025-09-06T13:42:40Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5552,7 +5552,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 77,
+        "chat": 80,
         "points_spent": 1851,
         "effects": 2,
         "interactive": 2
@@ -5568,7 +5568,7 @@
         "interactive_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-09-06T13:40:10Z"
+      "lastUpdated": "2025-09-06T13:43:10Z"
     },
     "vezwarmane": {
       "counters": {
@@ -5629,13 +5629,14 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T13:40:24Z"
+      "lastUpdated": "2025-09-06T13:44:25Z"
     },
     "oobalicious": {
       "counters": {
@@ -5806,7 +5807,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:40:49Z",
+  "lastUpdated": "2025-09-06T12:44:25Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
