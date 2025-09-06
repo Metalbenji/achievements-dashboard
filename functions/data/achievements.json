@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 964,
+        "chat": 965,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-09-06T11:33:53Z"
+      "lastUpdated": "2025-09-06T12:20:29Z"
     },
     "celran": {
       "counters": {
@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1210,
+        "chat": 1211,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,11 +1611,11 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T12:16:34Z"
+      "lastUpdated": "2025-09-06T12:20:43Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 731,
+        "chat": 735,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1656,7 +1656,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-09-06T12:19:39Z"
+      "lastUpdated": "2025-09-06T12:21:48Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2012,9 +2012,9 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 295,
-        "points_spent": 17153,
-        "interactive": 11,
+        "chat": 296,
+        "points_spent": 17653,
+        "interactive": 12,
         "effects": 19,
         "sub": 23,
         "sounds": 1
@@ -2048,7 +2048,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-09-06T12:18:42Z"
+      "lastUpdated": "2025-09-06T12:23:11Z"
     },
     "redunt86": {
       "counters": {
@@ -2692,7 +2692,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 297,
+        "chat": 300,
         "points_spent": 7950,
         "sounds": 1,
         "effects": 17,
@@ -2749,9 +2749,10 @@
         "gift_bombs_veteran",
         "sub_tier2",
         "chat_frequent",
-        "effect_collector"
+        "effect_collector",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T11:22:30Z"
+      "lastUpdated": "2025-09-06T12:23:52Z"
     },
     "andilippi": {
       "counters": {
@@ -5749,7 +5750,7 @@
       "lastUpdated": "2025-09-06T12:20:09Z"
     }
   },
-  "lastUpdated": "2025-09-06T11:20:10Z",
+  "lastUpdated": "2025-09-06T11:23:52Z",
   "totalUsers": 259,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
