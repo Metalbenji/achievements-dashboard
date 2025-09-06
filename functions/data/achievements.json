@@ -5751,15 +5751,17 @@
     },
     "officialshwoopies": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-06T12:24:41Z"
+      "lastUpdated": "2025-09-06T12:24:42Z"
     }
   },
-  "lastUpdated": "2025-09-06T11:24:42Z",
+  "lastUpdated": "2025-09-06T11:24:43Z",
   "totalUsers": 260,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
