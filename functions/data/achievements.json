@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1213,
+        "chat": 1219,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,7 +1611,7 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T12:55:30Z"
+      "lastUpdated": "2025-09-06T13:16:27Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2013,7 +2013,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 301,
+        "chat": 304,
         "points_spent": 17653,
         "interactive": 12,
         "effects": 19,
@@ -2050,7 +2050,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T13:02:16Z"
+      "lastUpdated": "2025-09-06T13:16:26Z"
     },
     "redunt86": {
       "counters": {
@@ -2694,7 +2694,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 312,
+        "chat": 314,
         "points_spent": 7950,
         "sounds": 1,
         "effects": 17,
@@ -2756,7 +2756,7 @@
         "chat_dedicated",
         "gift_starter"
       ],
-      "lastUpdated": "2025-09-06T13:02:02Z"
+      "lastUpdated": "2025-09-06T13:04:46Z"
     },
     "andilippi": {
       "counters": {
@@ -3108,7 +3108,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 87,
+        "chat": 90,
         "follow": 1,
         "points_spent": 1500,
         "sounds": 1,
@@ -3126,7 +3126,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-09-06T09:41:53Z"
+      "lastUpdated": "2025-09-06T13:15:45Z"
     },
     "sprockettrap": {
       "counters": {
@@ -4222,7 +4222,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 107
+        "chat": 108
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4233,7 +4233,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T13:00:47Z"
+      "lastUpdated": "2025-09-06T13:11:27Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4676,13 +4676,14 @@
     "ashhbrown": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-10T10:23:43Z"
+      "lastUpdated": "2025-09-06T13:16:35Z"
     },
     "icyhot_10": {
       "counters": {
@@ -5787,7 +5788,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:03:06Z",
+  "lastUpdated": "2025-09-06T12:16:36Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
