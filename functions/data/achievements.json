@@ -5692,10 +5692,28 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-09-06T10:17:44Z"
+    },
+    "sagegaming9": {
+      "counters": {
+        "sub": 10,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-06T10:28:09Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:26:58Z",
-  "totalUsers": 256,
+  "lastUpdated": "2025-09-06T09:28:10Z",
+  "totalUsers": 257,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
