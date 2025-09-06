@@ -2692,7 +2692,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 300,
+        "chat": 301,
         "points_spent": 7950,
         "sounds": 1,
         "effects": 17,
@@ -2752,7 +2752,7 @@
         "effect_collector",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T12:23:52Z"
+      "lastUpdated": "2025-09-06T12:25:03Z"
     },
     "andilippi": {
       "counters": {
@@ -5763,16 +5763,16 @@
     "gudgeww": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-06T12:24:53Z"
+      "lastUpdated": "2025-09-06T12:25:06Z"
     }
   },
-  "lastUpdated": "2025-09-06T11:24:53Z",
+  "lastUpdated": "2025-09-06T11:25:21Z",
   "totalUsers": 261,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
