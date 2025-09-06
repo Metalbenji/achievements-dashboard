@@ -1512,7 +1512,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 158,
+        "chat": 161,
         "points_spent": 8800,
         "effects": 7,
         "follow": 1,
@@ -1546,11 +1546,11 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T10:11:49Z"
+      "lastUpdated": "2025-09-06T13:25:08Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 1223,
+        "chat": 1229,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,7 +1611,7 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T13:22:32Z"
+      "lastUpdated": "2025-09-06T13:28:02Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1850,7 +1850,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 90,
         "points_spent": 2000,
         "interactive": 3,
         "gift_bombs": 1,
@@ -1881,7 +1881,7 @@
         "raid_tier1_captain",
         "effect_first"
       ],
-      "lastUpdated": "2025-09-06T12:25:46Z"
+      "lastUpdated": "2025-09-06T13:28:30Z"
     },
     "adammmidders": {
       "counters": {
@@ -2013,7 +2013,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 307,
+        "chat": 311,
         "points_spent": 17653,
         "interactive": 12,
         "effects": 19,
@@ -2050,7 +2050,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T13:19:52Z"
+      "lastUpdated": "2025-09-06T13:27:21Z"
     },
     "redunt86": {
       "counters": {
@@ -2639,7 +2639,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 50,
+        "chat": 54,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2652,7 +2652,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-30T16:22:15Z"
+      "lastUpdated": "2025-09-06T13:26:31Z"
     },
     "chevelletv": {
       "counters": {
@@ -3931,7 +3931,7 @@
         "follow": 1,
         "points_spent": 3501,
         "interactive": 7,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3940,9 +3940,10 @@
         "night_owl",
         "weekend_warrior",
         "bday2025_attend",
-        "first_caller"
+        "first_caller",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-10T12:43:34Z"
+      "lastUpdated": "2025-09-06T13:28:33Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -4222,7 +4223,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 109
+        "chat": 113
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4233,7 +4234,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T13:23:10Z"
+      "lastUpdated": "2025-09-06T13:26:03Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5790,7 +5791,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:23:21Z",
+  "lastUpdated": "2025-09-06T12:28:33Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
