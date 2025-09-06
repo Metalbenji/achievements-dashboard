@@ -5715,15 +5715,17 @@
     },
     "apex_kitty": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-06T10:28:45Z"
+      "lastUpdated": "2025-09-06T10:28:46Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:28:45Z",
+  "lastUpdated": "2025-09-06T09:28:46Z",
   "totalUsers": 258,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
