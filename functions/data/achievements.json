@@ -2309,7 +2309,8 @@
       "counters": {
         "follow": 1,
         "chat": 22,
-        "points_spent": 20000
+        "points_spent": 20000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2317,9 +2318,11 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-09-06T13:36:08Z"
+      "lastUpdated": "2025-09-06T13:36:09Z"
     },
     "insidematt": {
       "counters": {
@@ -5802,7 +5805,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:36:08Z",
+  "lastUpdated": "2025-09-06T12:36:10Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
