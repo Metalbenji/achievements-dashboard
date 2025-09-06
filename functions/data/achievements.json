@@ -5762,15 +5762,17 @@
     },
     "gudgeww": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-06T12:24:52Z"
+      "lastUpdated": "2025-09-06T12:24:53Z"
     }
   },
-  "lastUpdated": "2025-09-06T11:24:52Z",
+  "lastUpdated": "2025-09-06T11:24:53Z",
   "totalUsers": 261,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
