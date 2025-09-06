@@ -5507,7 +5507,7 @@
       "counters": {
         "follow": 1,
         "chat": 51,
-        "points_spent": 901,
+        "points_spent": 1401,
         "effects": 2,
         "interactive": 1
       },
@@ -5519,9 +5519,10 @@
         "chat_conversationalist",
         "effect_first",
         "birthday_person",
-        "interactive_first"
+        "interactive_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-09-06T09:03:07Z"
+      "lastUpdated": "2025-09-06T09:04:02Z"
     },
     "vezwarmane": {
       "counters": {
@@ -5660,7 +5661,7 @@
       "lastUpdated": "2025-08-30T17:00:48Z"
     }
   },
-  "lastUpdated": "2025-09-06T08:03:37Z",
+  "lastUpdated": "2025-09-06T08:04:03Z",
   "totalUsers": 254,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
