@@ -5696,7 +5696,8 @@
     "sagegaming9": {
       "counters": {
         "sub": 10,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -5707,12 +5708,13 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-06T10:28:09Z"
+      "lastUpdated": "2025-09-06T10:28:10Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:28:10Z",
+  "lastUpdated": "2025-09-06T09:28:11Z",
   "totalUsers": 257,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
