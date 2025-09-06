@@ -2012,7 +2012,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 296,
+        "chat": 297,
         "points_spent": 17653,
         "interactive": 12,
         "effects": 19,
@@ -2048,7 +2048,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-09-06T12:23:11Z"
+      "lastUpdated": "2025-09-06T12:24:02Z"
     },
     "redunt86": {
       "counters": {
@@ -5748,10 +5748,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-09-06T12:20:09Z"
+    },
+    "officialshwoopies": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-06T12:24:41Z"
     }
   },
-  "lastUpdated": "2025-09-06T11:23:52Z",
-  "totalUsers": 259,
+  "lastUpdated": "2025-09-06T11:24:42Z",
+  "totalUsers": 260,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
