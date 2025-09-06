@@ -1456,12 +1456,12 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 181,
-        "points_spent": 9001,
+        "chat": 182,
+        "points_spent": 9401,
         "screenshot": 1,
         "effects": 2,
         "sounds": 1,
-        "interactive": 9,
+        "interactive": 10,
         "special_rewards": 1,
         "follow": 1
       },
@@ -1481,9 +1481,10 @@
         "follow_supporter",
         "chat_conversationalist",
         "bday2025_attend",
-        "chat_regular"
+        "chat_regular",
+        "interactive_regular"
       ],
-      "lastUpdated": "2025-08-30T15:57:32Z"
+      "lastUpdated": "2025-09-06T09:17:00Z"
     },
     "dmustain": {
       "counters": {
@@ -2551,7 +2552,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 167,
+        "chat": 168,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2582,7 +2583,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2025-09-06T09:14:30Z"
+      "lastUpdated": "2025-09-06T09:16:25Z"
     },
     "ppjackson69": {
       "counters": {
@@ -5662,7 +5663,7 @@
       "lastUpdated": "2025-08-30T17:00:48Z"
     }
   },
-  "lastUpdated": "2025-09-06T08:15:41Z",
+  "lastUpdated": "2025-09-06T08:17:01Z",
   "totalUsers": 254,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
