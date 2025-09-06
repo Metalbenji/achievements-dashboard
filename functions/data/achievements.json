@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1230,
+        "chat": 1235,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,11 +1611,11 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T13:29:31Z"
+      "lastUpdated": "2025-09-06T13:36:00Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 751,
+        "chat": 755,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1657,7 +1657,7 @@
         "sub_tier1",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-06T13:17:19Z"
+      "lastUpdated": "2025-09-06T13:35:58Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1850,7 +1850,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 92,
+        "chat": 93,
         "points_spent": 2000,
         "interactive": 3,
         "gift_bombs": 1,
@@ -1881,7 +1881,7 @@
         "raid_tier1_captain",
         "effect_first"
       ],
-      "lastUpdated": "2025-09-06T13:29:20Z"
+      "lastUpdated": "2025-09-06T13:31:06Z"
     },
     "adammmidders": {
       "counters": {
@@ -2013,7 +2013,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 311,
+        "chat": 314,
         "points_spent": 17653,
         "interactive": 12,
         "effects": 19,
@@ -2050,7 +2050,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T13:27:21Z"
+      "lastUpdated": "2025-09-06T13:35:31Z"
     },
     "redunt86": {
       "counters": {
@@ -2308,16 +2308,18 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 21
+        "chat": 22,
+        "points_spent": 20000
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-08-28T22:13:11Z"
+      "lastUpdated": "2025-09-06T13:36:08Z"
     },
     "insidematt": {
       "counters": {
@@ -2639,8 +2641,9 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 55,
-        "bits": 15
+        "chat": 56,
+        "bits": 15,
+        "sub": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2650,9 +2653,17 @@
         "bits_small",
         "night_owl",
         "weekend_warrior",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion"
       ],
-      "lastUpdated": "2025-09-06T13:28:50Z"
+      "lastUpdated": "2025-09-06T13:29:58Z"
     },
     "chevelletv": {
       "counters": {
@@ -4223,7 +4234,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 114
+        "chat": 118
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4234,7 +4245,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T13:28:51Z"
+      "lastUpdated": "2025-09-06T13:34:33Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4677,7 +4688,7 @@
     "ashhbrown": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4685,7 +4696,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-06T13:23:21Z"
+      "lastUpdated": "2025-09-06T13:33:47Z"
     },
     "icyhot_10": {
       "counters": {
@@ -5537,7 +5548,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 59,
+        "chat": 65,
         "points_spent": 1851,
         "effects": 2,
         "interactive": 2
@@ -5553,7 +5564,7 @@
         "interactive_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-09-06T10:21:28Z"
+      "lastUpdated": "2025-09-06T13:33:51Z"
     },
     "vezwarmane": {
       "counters": {
@@ -5791,7 +5802,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:29:44Z",
+  "lastUpdated": "2025-09-06T12:36:08Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
