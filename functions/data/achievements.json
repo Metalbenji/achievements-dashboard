@@ -1548,7 +1548,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1167,
+        "chat": 1175,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1608,7 +1608,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-08-30T16:47:34Z"
+      "lastUpdated": "2025-09-06T09:15:07Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2084,9 +2084,9 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 26900,
+        "points_spent": 27300,
         "follow": 1,
-        "chat": 318,
+        "chat": 322,
         "effects": 31,
         "screenshot": 1,
         "sounds": 4,
@@ -2136,7 +2136,7 @@
         "chat_dedicated",
         "bits_steady"
       ],
-      "lastUpdated": "2025-08-30T16:56:26Z"
+      "lastUpdated": "2025-09-06T09:09:59Z"
     },
     "syn__________": {
       "counters": {
@@ -2460,7 +2460,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 337,
+        "chat": 338,
         "sub": 34,
         "points_spent": 21651,
         "interactive": 2,
@@ -2514,7 +2514,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T09:03:32Z"
+      "lastUpdated": "2025-09-06T09:07:11Z"
     },
     "umenneske94": {
       "counters": {
@@ -2551,7 +2551,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 158,
+        "chat": 167,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2582,7 +2582,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2025-08-30T11:46:18Z"
+      "lastUpdated": "2025-09-06T09:14:30Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2784,7 +2784,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 22,
+        "chat": 25,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -2793,9 +2793,10 @@
         "chat_newbie",
         "chat_talker",
         "spender_bronze",
-        "emperor_loyal"
+        "emperor_loyal",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-30T09:28:47Z"
+      "lastUpdated": "2025-09-06T09:15:41Z"
     },
     "chadrestricted": {
       "counters": {
@@ -3824,7 +3825,7 @@
       "counters": {
         "points_spent": 16214,
         "special_rewards": 1,
-        "chat": 100,
+        "chat": 104,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -3851,7 +3852,7 @@
         "spender_silver",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T09:03:36Z"
+      "lastUpdated": "2025-09-06T09:15:17Z"
     },
     "xykojen": {
       "counters": {
@@ -5506,10 +5507,10 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 51,
-        "points_spent": 1401,
+        "chat": 55,
+        "points_spent": 1851,
         "effects": 2,
-        "interactive": 1
+        "interactive": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5522,7 +5523,7 @@
         "interactive_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-09-06T09:04:02Z"
+      "lastUpdated": "2025-09-06T09:14:58Z"
     },
     "vezwarmane": {
       "counters": {
@@ -5661,7 +5662,7 @@
       "lastUpdated": "2025-08-30T17:00:48Z"
     }
   },
-  "lastUpdated": "2025-09-06T08:04:03Z",
+  "lastUpdated": "2025-09-06T08:15:41Z",
   "totalUsers": 254,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
