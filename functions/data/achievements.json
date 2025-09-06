@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1208,
+        "chat": 1210,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,11 +1611,11 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T12:12:46Z"
+      "lastUpdated": "2025-09-06T12:16:34Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 729,
+        "chat": 731,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1656,7 +1656,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-09-06T12:09:39Z"
+      "lastUpdated": "2025-09-06T12:19:39Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2012,7 +2012,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 293,
+        "chat": 295,
         "points_spent": 17153,
         "interactive": 11,
         "effects": 19,
@@ -2048,7 +2048,7 @@
         "chat_frequent",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-09-06T12:14:27Z"
+      "lastUpdated": "2025-09-06T12:18:42Z"
     },
     "redunt86": {
       "counters": {
@@ -2097,7 +2097,7 @@
       "counters": {
         "points_spent": 28900,
         "follow": 1,
-        "chat": 338,
+        "chat": 339,
         "effects": 33,
         "screenshot": 1,
         "sounds": 4,
@@ -2147,7 +2147,7 @@
         "chat_dedicated",
         "bits_steady"
       ],
-      "lastUpdated": "2025-09-06T12:11:46Z"
+      "lastUpdated": "2025-09-06T12:16:48Z"
     },
     "syn__________": {
       "counters": {
@@ -2201,7 +2201,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1198,
+        "chat": 1199,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2266,7 +2266,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-06T12:10:33Z"
+      "lastUpdated": "2025-09-06T12:17:36Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5151,7 +5151,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 497,
+        "chat": 498,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5192,7 +5192,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T11:38:51Z"
+      "lastUpdated": "2025-09-06T12:16:49Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5738,10 +5738,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-09-06T10:31:35Z"
+    },
+    "s1m0n22": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-09-06T12:20:09Z"
     }
   },
-  "lastUpdated": "2025-09-06T11:14:47Z",
-  "totalUsers": 258,
+  "lastUpdated": "2025-09-06T11:20:10Z",
+  "totalUsers": 259,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
