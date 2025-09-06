@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1190,
+        "chat": 1192,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,11 +1611,11 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T10:32:34Z"
+      "lastUpdated": "2025-09-06T10:36:24Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 709,
+        "chat": 710,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1656,7 +1656,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-09-06T10:30:35Z"
+      "lastUpdated": "2025-09-06T10:36:33Z"
     },
     "aladderinsane": {
       "counters": {
@@ -5686,13 +5686,13 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T10:35:39Z"
+      "lastUpdated": "2025-09-06T10:37:23Z"
     },
     "sagegaming9": {
       "counters": {
@@ -5730,7 +5730,7 @@
       "lastUpdated": "2025-09-06T10:31:35Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:35:40Z",
+  "lastUpdated": "2025-09-06T09:37:27Z",
   "totalUsers": 258,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
