@@ -1456,7 +1456,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 197,
+        "chat": 200,
         "points_spent": 9401,
         "screenshot": 1,
         "effects": 2,
@@ -1482,9 +1482,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "chat_regular",
-        "interactive_regular"
+        "interactive_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-09-06T09:25:25Z"
+      "lastUpdated": "2025-09-06T09:26:50Z"
     },
     "dmustain": {
       "counters": {
@@ -1617,7 +1618,7 @@
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
-        "sub": 32,
+        "sub": 33,
         "effects": 6,
         "sounds": 1,
         "gift_subs": 1
@@ -1654,7 +1655,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-08-30T13:49:45Z"
+      "lastUpdated": "2025-09-06T09:26:44Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1693,7 +1694,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 100,
+        "chat": 102,
         "follow": 1,
         "points_spent": 800,
         "screenshot": 1
@@ -1708,7 +1709,7 @@
         "screenshot_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T09:25:34Z"
+      "lastUpdated": "2025-09-06T09:26:01Z"
     },
     "lottec": {
       "counters": {
@@ -2786,7 +2787,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 27,
+        "chat": 28,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -2798,7 +2799,7 @@
         "emperor_loyal",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-06T09:21:58Z"
+      "lastUpdated": "2025-09-06T09:25:56Z"
     },
     "chadrestricted": {
       "counters": {
@@ -4921,7 +4922,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 27
+        "chat": 28
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4930,7 +4931,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-06T09:25:18Z"
+      "lastUpdated": "2025-09-06T09:26:32Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5664,7 +5665,7 @@
       "lastUpdated": "2025-08-30T17:00:48Z"
     }
   },
-  "lastUpdated": "2025-09-06T08:25:35Z",
+  "lastUpdated": "2025-09-06T08:26:51Z",
   "totalUsers": 254,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
