@@ -1926,7 +1926,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 539,
+        "chat": 540,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1973,7 +1973,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-09-06T13:02:11Z"
+      "lastUpdated": "2025-09-06T13:02:44Z"
     },
     "anzerou": {
       "counters": {
@@ -5776,10 +5776,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-09-06T13:01:09Z"
+    },
+    "itsthesharktoothbaberuth": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:02:24Z",
-  "totalUsers": 261,
+  "lastUpdated": "2025-09-06T12:03:06Z",
+  "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
