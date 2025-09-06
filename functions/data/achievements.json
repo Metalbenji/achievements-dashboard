@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1189,
+        "chat": 1190,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,7 +1611,7 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T10:28:38Z"
+      "lastUpdated": "2025-09-06T10:32:34Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -5142,7 +5142,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 476,
+        "chat": 478,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5183,7 +5183,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T09:55:35Z"
+      "lastUpdated": "2025-09-06T10:35:15Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5686,12 +5686,13 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T10:17:44Z"
+      "lastUpdated": "2025-09-06T10:35:39Z"
     },
     "sagegaming9": {
       "counters": {
@@ -5729,7 +5730,7 @@
       "lastUpdated": "2025-09-06T10:31:35Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:32:16Z",
+  "lastUpdated": "2025-09-06T09:35:40Z",
   "totalUsers": 258,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
