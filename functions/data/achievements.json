@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 951,
+        "chat": 952,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-09-06T10:25:28Z"
+      "lastUpdated": "2025-09-06T10:29:26Z"
     },
     "celran": {
       "counters": {
@@ -1615,7 +1615,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 706,
+        "chat": 709,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1656,7 +1656,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-09-06T10:28:41Z"
+      "lastUpdated": "2025-09-06T10:30:35Z"
     },
     "aladderinsane": {
       "counters": {
@@ -5697,7 +5697,7 @@
       "counters": {
         "sub": 10,
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -5711,21 +5711,22 @@
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-06T10:28:10Z"
+      "lastUpdated": "2025-09-06T10:29:04Z"
     },
     "apex_kitty": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T10:28:46Z"
+      "lastUpdated": "2025-09-06T10:31:35Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:28:46Z",
+  "lastUpdated": "2025-09-06T09:31:35Z",
   "totalUsers": 258,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
