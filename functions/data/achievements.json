@@ -1615,7 +1615,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 748,
+        "chat": 750,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1654,9 +1654,10 @@
         "chat_frequent",
         "chat_dedicated",
         "interactive_regular",
-        "sub_tier1"
+        "sub_tier1",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-06T12:58:40Z"
+      "lastUpdated": "2025-09-06T13:02:23Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1925,7 +1926,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 537,
+        "chat": 539,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1972,7 +1973,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-09-06T13:01:30Z"
+      "lastUpdated": "2025-09-06T13:02:11Z"
     },
     "anzerou": {
       "counters": {
@@ -2012,7 +2013,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 300,
+        "chat": 301,
         "points_spent": 17653,
         "interactive": 12,
         "effects": 19,
@@ -2049,7 +2050,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T13:01:47Z"
+      "lastUpdated": "2025-09-06T13:02:16Z"
     },
     "redunt86": {
       "counters": {
@@ -2693,7 +2694,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 311,
+        "chat": 312,
         "points_spent": 7950,
         "sounds": 1,
         "effects": 17,
@@ -2755,7 +2756,7 @@
         "chat_dedicated",
         "gift_starter"
       ],
-      "lastUpdated": "2025-09-06T13:01:07Z"
+      "lastUpdated": "2025-09-06T13:02:02Z"
     },
     "andilippi": {
       "counters": {
@@ -5777,7 +5778,7 @@
       "lastUpdated": "2025-09-06T13:01:09Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:01:47Z",
+  "lastUpdated": "2025-09-06T12:02:24Z",
   "totalUsers": 261,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
