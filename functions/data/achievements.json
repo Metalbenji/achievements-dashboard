@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 945,
+        "chat": 946,
         "points_spent": 13200,
         "effects": 7,
         "sub": 8,
@@ -1441,7 +1441,7 @@
         "chat_enthusiast",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-09-06T10:17:38Z"
+      "lastUpdated": "2025-09-06T10:18:23Z"
     },
     "celran": {
       "counters": {
@@ -1614,7 +1614,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 702,
+        "chat": 703,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1655,7 +1655,7 @@
         "interactive_regular",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-09-06T10:11:33Z"
+      "lastUpdated": "2025-09-06T10:18:47Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1818,10 +1818,11 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 138,
+        "chat": 139,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
-        "largest_gift_bomb": 10
+        "largest_gift_bomb": 10,
+        "sub": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1834,9 +1835,15 @@
         "bday2025_support",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed"
       ],
-      "lastUpdated": "2025-08-30T16:20:30Z"
+      "lastUpdated": "2025-09-06T10:18:11Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2989,7 +2996,7 @@
       "counters": {
         "sub": 17,
         "follow": 1,
-        "chat": 192
+        "chat": 195
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3009,7 +3016,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T10:17:52Z"
+      "lastUpdated": "2025-09-06T10:18:34Z"
     },
     "khazan67": {
       "counters": {
@@ -5685,7 +5692,7 @@
       "lastUpdated": "2025-09-06T10:17:44Z"
     }
   },
-  "lastUpdated": "2025-09-06T09:17:59Z",
+  "lastUpdated": "2025-09-06T09:18:56Z",
   "totalUsers": 256,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
