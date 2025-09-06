@@ -5759,10 +5759,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-09-06T12:24:42Z"
+    },
+    "gudgeww": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-06T12:24:52Z"
     }
   },
-  "lastUpdated": "2025-09-06T11:24:43Z",
-  "totalUsers": 260,
+  "lastUpdated": "2025-09-06T11:24:52Z",
+  "totalUsers": 261,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
