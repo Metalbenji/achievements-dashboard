@@ -1550,7 +1550,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1229,
+        "chat": 1230,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1611,7 +1611,7 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-06T13:28:02Z"
+      "lastUpdated": "2025-09-06T13:29:31Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1850,7 +1850,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 90,
+        "chat": 92,
         "points_spent": 2000,
         "interactive": 3,
         "gift_bombs": 1,
@@ -1881,7 +1881,7 @@
         "raid_tier1_captain",
         "effect_first"
       ],
-      "lastUpdated": "2025-09-06T13:28:30Z"
+      "lastUpdated": "2025-09-06T13:29:20Z"
     },
     "adammmidders": {
       "counters": {
@@ -2639,7 +2639,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 54,
+        "chat": 55,
         "bits": 15
       },
       "unlockedAchievements": [
@@ -2652,7 +2652,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-06T13:26:31Z"
+      "lastUpdated": "2025-09-06T13:28:50Z"
     },
     "chevelletv": {
       "counters": {
@@ -4223,7 +4223,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 113
+        "chat": 114
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4234,7 +4234,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T13:26:03Z"
+      "lastUpdated": "2025-09-06T13:28:51Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5791,7 +5791,7 @@
       "lastUpdated": "2025-09-06T13:03:05Z"
     }
   },
-  "lastUpdated": "2025-09-06T12:28:33Z",
+  "lastUpdated": "2025-09-06T12:29:37Z",
   "totalUsers": 262,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
