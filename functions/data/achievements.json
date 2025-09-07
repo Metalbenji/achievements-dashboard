@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 188,
+        "chat": 189,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-07T12:45:32Z"
+      "lastUpdated": "2025-09-07T12:46:55Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1700,7 +1700,7 @@
       "counters": {
         "chat": 105,
         "follow": 1,
-        "points_spent": 800,
+        "points_spent": 1250,
         "screenshot": 1
       },
       "unlockedAchievements": [
@@ -1711,9 +1711,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "screenshot_first",
-        "chat_regular"
+        "chat_regular",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-09-06T09:33:59Z"
+      "lastUpdated": "2025-09-07T12:47:04Z"
     },
     "lottec": {
       "counters": {
@@ -2016,7 +2017,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 366,
+        "chat": 367,
         "points_spent": 17654,
         "interactive": 12,
         "effects": 19,
@@ -2053,7 +2054,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T12:43:53Z"
+      "lastUpdated": "2025-09-07T12:46:16Z"
     },
     "redunt86": {
       "counters": {
@@ -2653,7 +2654,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 80,
+        "chat": 82,
         "bits": 15,
         "sub": 13
       },
@@ -2675,7 +2676,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-09-07T12:44:31Z"
+      "lastUpdated": "2025-09-07T12:46:38Z"
     },
     "chevelletv": {
       "counters": {
@@ -2940,7 +2941,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 555,
+        "chat": 560,
         "sub": 42
       },
       "unlockedAchievements": [
@@ -2967,7 +2968,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T12:45:34Z"
+      "lastUpdated": "2025-09-07T12:46:48Z"
     },
     "majesty81": {
       "counters": {
@@ -5916,7 +5917,7 @@
       "lastUpdated": "2025-09-07T12:28:38Z"
     }
   },
-  "lastUpdated": "2025-09-07T11:45:53Z",
+  "lastUpdated": "2025-09-07T11:47:05Z",
   "totalUsers": 269,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
