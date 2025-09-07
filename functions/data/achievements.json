@@ -2573,7 +2573,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2602,9 +2602,10 @@
         "spender_silver",
         "sound_first",
         "chat_regular",
-        "night_owl"
+        "night_owl",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-09-07T11:48:59Z"
+      "lastUpdated": "2025-09-07T12:22:40Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2650,7 +2651,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 58,
+        "chat": 59,
         "bits": 15,
         "sub": 13
       },
@@ -2672,7 +2673,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-09-06T16:51:57Z"
+      "lastUpdated": "2025-09-07T12:21:56Z"
     },
     "chevelletv": {
       "counters": {
@@ -2936,7 +2937,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 541,
+        "chat": 542,
         "sub": 42
       },
       "unlockedAchievements": [
@@ -2963,7 +2964,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T12:20:36Z"
+      "lastUpdated": "2025-09-07T12:20:57Z"
     },
     "majesty81": {
       "counters": {
@@ -4735,7 +4736,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 419,
+        "chat": 420,
         "points_spent": 18250,
         "effects": 4,
         "sounds": 5,
@@ -4768,7 +4769,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-07T12:20:36Z"
+      "lastUpdated": "2025-09-07T12:22:02Z"
     },
     "jamie1496": {
       "counters": {
@@ -5900,15 +5901,15 @@
     },
     "vishmagesty": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-07T12:20:48Z"
+      "lastUpdated": "2025-09-07T12:22:00Z"
     }
   },
-  "lastUpdated": "2025-09-07T11:20:49Z",
+  "lastUpdated": "2025-09-07T11:22:40Z",
   "totalUsers": 269,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
