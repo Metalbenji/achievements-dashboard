@@ -2060,7 +2060,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 629,
+        "chat": 631,
         "points_spent": 6900,
         "effects": 12
       },
@@ -2079,7 +2079,7 @@
         "night_owl",
         "effect_collector"
       ],
-      "lastUpdated": "2025-09-07T16:02:15Z"
+      "lastUpdated": "2025-09-07T16:03:41Z"
     },
     "spoono__": {
       "counters": {
@@ -2209,7 +2209,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1272,
+        "chat": 1273,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2274,7 +2274,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-07T15:48:42Z"
+      "lastUpdated": "2025-09-07T16:03:35Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2656,7 +2656,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 137,
+        "chat": 138,
         "bits": 15,
         "sub": 13
       },
@@ -2679,7 +2679,7 @@
         "sub_champion",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-07T16:01:21Z"
+      "lastUpdated": "2025-09-07T16:03:30Z"
     },
     "chevelletv": {
       "counters": {
@@ -2847,7 +2847,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 379,
+        "chat": 381,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -2864,7 +2864,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T16:02:47Z"
+      "lastUpdated": "2025-09-07T16:03:39Z"
     },
     "maximusis_": {
       "counters": {
@@ -3188,7 +3188,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 340,
+        "chat": 341,
         "points_spent": 1900,
         "effects": 2,
         "interactive": 2
@@ -3208,7 +3208,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T15:56:24Z"
+      "lastUpdated": "2025-09-07T16:03:26Z"
     },
     "roffelonator": {
       "counters": {
@@ -3478,7 +3478,8 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 82
+        "chat": 82,
+        "points_spent": 30000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3486,9 +3487,10 @@
         "chat_newbie",
         "bday2025_attend",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-09-07T16:00:30Z"
+      "lastUpdated": "2025-09-07T16:03:44Z"
     },
     "mulquero": {
       "counters": {
@@ -5975,7 +5977,7 @@
     },
     "functionalchaos302": {
       "counters": {
-        "chat": 25,
+        "chat": 26,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5985,7 +5987,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-07T16:03:04Z"
+      "lastUpdated": "2025-09-07T16:03:29Z"
     },
     "hamsquatch78": {
       "counters": {
@@ -5997,7 +5999,7 @@
       "lastUpdated": "2025-09-07T15:31:45Z"
     }
   },
-  "lastUpdated": "2025-09-07T15:03:05Z",
+  "lastUpdated": "2025-09-07T15:03:45Z",
   "totalUsers": 275,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
