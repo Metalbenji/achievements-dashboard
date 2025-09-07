@@ -1698,7 +1698,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 105,
+        "chat": 107,
         "follow": 1,
         "points_spent": 1250,
         "screenshot": 1
@@ -1714,7 +1714,7 @@
         "chat_regular",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-09-07T12:47:04Z"
+      "lastUpdated": "2025-09-07T12:48:22Z"
     },
     "lottec": {
       "counters": {
@@ -2017,7 +2017,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 367,
+        "chat": 369,
         "points_spent": 17654,
         "interactive": 12,
         "effects": 19,
@@ -2054,7 +2054,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T12:46:16Z"
+      "lastUpdated": "2025-09-07T12:47:38Z"
     },
     "redunt86": {
       "counters": {
@@ -2941,7 +2941,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 560,
+        "chat": 563,
         "sub": 42
       },
       "unlockedAchievements": [
@@ -2968,7 +2968,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T12:46:48Z"
+      "lastUpdated": "2025-09-07T12:48:02Z"
     },
     "majesty81": {
       "counters": {
@@ -5915,10 +5915,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-09-07T12:28:38Z"
+    },
+    "stefzz": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-07T12:48:31Z"
     }
   },
-  "lastUpdated": "2025-09-07T11:47:05Z",
-  "totalUsers": 269,
+  "lastUpdated": "2025-09-07T11:48:32Z",
+  "totalUsers": 270,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
