@@ -1553,7 +1553,7 @@
     "ramdon101": {
       "counters": {
         "chat": 1307,
-        "points_spent": 46550,
+        "points_spent": 66550,
         "screenshot": 1,
         "follow": 1,
         "sub": 44,
@@ -1611,9 +1611,10 @@
         "emperor_loyal",
         "chat_enthusiast",
         "chat_champion",
-        "gift_bombs_veteran"
+        "gift_bombs_veteran",
+        "spender_gold"
       ],
-      "lastUpdated": "2025-09-07T13:49:39Z"
+      "lastUpdated": "2025-09-07T13:49:47Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2059,7 +2060,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 558,
+        "chat": 559,
         "points_spent": 4800,
         "effects": 9
       },
@@ -2077,7 +2078,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2025-09-07T13:46:13Z"
+      "lastUpdated": "2025-09-07T13:49:45Z"
     },
     "spoono__": {
       "counters": {
@@ -4984,7 +4985,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 90,
+        "chat": 91,
         "sub": 10
       },
       "unlockedAchievements": [
@@ -5002,7 +5003,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-09-07T13:49:21Z"
+      "lastUpdated": "2025-09-07T13:49:45Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5952,7 +5953,7 @@
       "lastUpdated": "2025-09-07T13:49:44Z"
     }
   },
-  "lastUpdated": "2025-09-07T12:49:44Z",
+  "lastUpdated": "2025-09-07T12:49:47Z",
   "totalUsers": 272,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
