@@ -1931,7 +1931,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 563,
+        "chat": 564,
         "points_spent": 2354,
         "effects": 4,
         "sounds": 4,
@@ -1978,7 +1978,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-09-06T17:20:24Z"
+      "lastUpdated": "2025-09-07T15:21:05Z"
     },
     "anzerou": {
       "counters": {
@@ -2209,7 +2209,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1258,
+        "chat": 1259,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2274,7 +2274,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-07T14:17:16Z"
+      "lastUpdated": "2025-09-07T15:20:26Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2656,7 +2656,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 122,
+        "chat": 124,
         "bits": 15,
         "sub": 13
       },
@@ -2679,7 +2679,7 @@
         "sub_champion",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-07T15:19:01Z"
+      "lastUpdated": "2025-09-07T15:21:10Z"
     },
     "chevelletv": {
       "counters": {
@@ -5973,15 +5973,16 @@
     },
     "functionalchaos302": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-07T15:19:50Z"
+      "lastUpdated": "2025-09-07T15:21:27Z"
     }
   },
-  "lastUpdated": "2025-09-07T14:19:50Z",
+  "lastUpdated": "2025-09-07T14:21:28Z",
   "totalUsers": 274,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
