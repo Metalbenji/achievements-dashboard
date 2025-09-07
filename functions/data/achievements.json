@@ -3124,7 +3124,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 91,
+        "chat": 100,
         "follow": 1,
         "points_spent": 2000,
         "sounds": 1,
@@ -3142,9 +3142,10 @@
         "sound_first",
         "spender_bronze",
         "effect_first",
-        "interactive_first"
+        "interactive_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-09-06T16:51:26Z"
+      "lastUpdated": "2025-09-07T08:26:17Z"
     },
     "sprockettrap": {
       "counters": {
@@ -5193,7 +5194,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 517,
+        "chat": 518,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5234,7 +5235,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-06T17:15:50Z"
+      "lastUpdated": "2025-09-06T17:25:50Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5857,7 +5858,7 @@
       "lastUpdated": "2025-09-06T17:25:35Z"
     }
   },
-  "lastUpdated": "2025-09-06T16:25:36Z",
+  "lastUpdated": "2025-09-07T07:26:17Z",
   "totalUsers": 265,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
