@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1102,
+        "chat": 1103,
         "points_spent": 14000,
         "effects": 7,
         "sub": 8,
@@ -1442,7 +1442,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-07T14:00:04Z"
+      "lastUpdated": "2025-09-07T14:05:12Z"
     },
     "celran": {
       "counters": {
@@ -2060,7 +2060,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 572,
+        "chat": 576,
         "points_spent": 5300,
         "effects": 10
       },
@@ -2079,7 +2079,7 @@
         "night_owl",
         "effect_collector"
       ],
-      "lastUpdated": "2025-09-07T14:02:38Z"
+      "lastUpdated": "2025-09-07T14:05:33Z"
     },
     "spoono__": {
       "counters": {
@@ -3185,7 +3185,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 300,
+        "chat": 302,
         "points_spent": 1900,
         "effects": 2,
         "interactive": 2
@@ -3205,7 +3205,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T14:03:28Z"
+      "lastUpdated": "2025-09-07T14:04:05Z"
     },
     "roffelonator": {
       "counters": {
@@ -4744,7 +4744,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 439,
+        "chat": 440,
         "points_spent": 18750,
         "effects": 4,
         "sounds": 6,
@@ -4777,7 +4777,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-07T14:02:49Z"
+      "lastUpdated": "2025-09-07T14:04:49Z"
     },
     "jamie1496": {
       "counters": {
@@ -5681,7 +5681,7 @@
     "oobalicious": {
       "counters": {
         "follow": 1,
-        "chat": 33
+        "chat": 35
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5690,7 +5690,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-07T14:01:46Z"
+      "lastUpdated": "2025-09-07T14:05:09Z"
     },
     "phayte": {
       "counters": {
@@ -5956,17 +5956,18 @@
     },
     "bobinzzzz": {
       "counters": {
-        "chat": 3,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-07T14:03:01Z"
+      "lastUpdated": "2025-09-07T14:06:09Z"
     }
   },
-  "lastUpdated": "2025-09-07T13:03:28Z",
+  "lastUpdated": "2025-09-07T13:06:09Z",
   "totalUsers": 273,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
