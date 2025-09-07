@@ -2480,11 +2480,11 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 410,
+        "chat": 411,
         "sub": 34,
-        "points_spent": 21651,
+        "points_spent": 23651,
         "interactive": 2,
-        "sounds": 1,
+        "sounds": 2,
         "gift_subs": 3,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 61,
@@ -2534,7 +2534,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T11:43:14Z"
+      "lastUpdated": "2025-09-07T11:45:29Z"
     },
     "umenneske94": {
       "counters": {
@@ -2571,7 +2571,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 195,
+        "chat": 197,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2602,7 +2602,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2025-09-07T11:28:01Z"
+      "lastUpdated": "2025-09-07T11:45:35Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3864,7 +3864,7 @@
       "counters": {
         "points_spent": 16214,
         "special_rewards": 1,
-        "chat": 115,
+        "chat": 116,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -3891,7 +3891,7 @@
         "spender_silver",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-07T11:43:17Z"
+      "lastUpdated": "2025-09-07T11:45:08Z"
     },
     "xykojen": {
       "counters": {
@@ -5651,15 +5651,17 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 13,
+        "points_spent": 10000
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-09-07T11:44:16Z"
+      "lastUpdated": "2025-09-07T11:46:14Z"
     },
     "oobalicious": {
       "counters": {
@@ -5881,7 +5883,7 @@
       "lastUpdated": "2025-09-07T10:20:46Z"
     }
   },
-  "lastUpdated": "2025-09-07T10:44:16Z",
+  "lastUpdated": "2025-09-07T10:46:15Z",
   "totalUsers": 267,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
