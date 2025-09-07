@@ -2940,7 +2940,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 554,
+        "chat": 555,
         "sub": 42
       },
       "unlockedAchievements": [
@@ -2967,7 +2967,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T12:45:28Z"
+      "lastUpdated": "2025-09-07T12:45:34Z"
     },
     "majesty81": {
       "counters": {
@@ -5894,13 +5894,14 @@
     "ferbee1": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-07T12:20:42Z"
+      "lastUpdated": "2025-09-07T12:45:53Z"
     },
     "vishmagesty": {
       "counters": {
@@ -5915,7 +5916,7 @@
       "lastUpdated": "2025-09-07T12:28:38Z"
     }
   },
-  "lastUpdated": "2025-09-07T11:45:34Z",
+  "lastUpdated": "2025-09-07T11:45:53Z",
   "totalUsers": 269,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
