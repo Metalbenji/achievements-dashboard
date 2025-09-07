@@ -3488,7 +3488,8 @@
         "bday2025_attend",
         "chat_talker",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver"
       ],
       "lastUpdated": "2025-09-07T16:03:44Z"
     },
@@ -5999,7 +6000,7 @@
       "lastUpdated": "2025-09-07T15:31:45Z"
     }
   },
-  "lastUpdated": "2025-09-07T15:03:45Z",
+  "lastUpdated": "2025-09-07T15:03:46Z",
   "totalUsers": 275,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
