@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 196,
+        "chat": 197,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1345,7 +1345,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-07T12:57:32Z"
+      "lastUpdated": "2025-09-07T13:33:32Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1087,
+        "chat": 1097,
         "points_spent": 14000,
         "effects": 7,
         "sub": 8,
@@ -1442,7 +1442,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-07T12:55:34Z"
+      "lastUpdated": "2025-09-07T13:22:07Z"
     },
     "celran": {
       "counters": {
@@ -1552,7 +1552,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1304,
+        "chat": 1305,
         "points_spent": 46550,
         "screenshot": 1,
         "follow": 1,
@@ -1613,7 +1613,7 @@
         "chat_champion",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-09-07T12:58:55Z"
+      "lastUpdated": "2025-09-07T13:19:25Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1854,8 +1854,8 @@
       "counters": {
         "follow": 1,
         "chat": 110,
-        "points_spent": 2000,
-        "interactive": 3,
+        "points_spent": 2500,
+        "interactive": 4,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 15,
@@ -1885,7 +1885,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-07T12:57:42Z"
+      "lastUpdated": "2025-09-07T13:25:30Z"
     },
     "adammmidders": {
       "counters": {
@@ -2017,7 +2017,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 377,
+        "chat": 378,
         "points_spent": 17654,
         "interactive": 12,
         "effects": 19,
@@ -2054,7 +2054,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T13:02:53Z"
+      "lastUpdated": "2025-09-07T13:19:10Z"
     },
     "redunt86": {
       "counters": {
@@ -2207,7 +2207,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1239,
+        "chat": 1244,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2272,7 +2272,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-07T13:15:14Z"
+      "lastUpdated": "2025-09-07T13:32:27Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2654,7 +2654,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 85,
+        "chat": 87,
         "bits": 15,
         "sub": 13
       },
@@ -2676,7 +2676,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-09-07T13:09:36Z"
+      "lastUpdated": "2025-09-07T13:37:09Z"
     },
     "chevelletv": {
       "counters": {
@@ -4741,7 +4741,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 435,
+        "chat": 436,
         "points_spent": 18750,
         "effects": 4,
         "sounds": 6,
@@ -4774,7 +4774,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-07T13:02:07Z"
+      "lastUpdated": "2025-09-07T13:32:05Z"
     },
     "jamie1496": {
       "counters": {
@@ -4984,7 +4984,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 79,
+        "chat": 81,
         "sub": 10
       },
       "unlockedAchievements": [
@@ -5002,7 +5002,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-09-07T13:15:13Z"
+      "lastUpdated": "2025-09-07T13:37:09Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5122,14 +5122,15 @@
     "werwin1": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-07T12:59:21Z"
+      "lastUpdated": "2025-09-07T13:38:31Z"
     },
     "remcotje1986": {
       "counters": {
@@ -5940,7 +5941,7 @@
       "lastUpdated": "2025-09-07T13:16:02Z"
     }
   },
-  "lastUpdated": "2025-09-07T12:16:03Z",
+  "lastUpdated": "2025-09-07T12:38:32Z",
   "totalUsers": 271,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
