@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1078,
+        "chat": 1080,
         "points_spent": 14000,
         "effects": 7,
         "sub": 8,
@@ -1442,7 +1442,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-07T12:19:34Z"
+      "lastUpdated": "2025-09-07T12:26:51Z"
     },
     "celran": {
       "counters": {
@@ -1617,7 +1617,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 810,
+        "chat": 812,
         "points_spent": 41600,
         "interactive": 15,
         "follow": 1,
@@ -1659,7 +1659,7 @@
         "sub_tier1",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-07T12:18:06Z"
+      "lastUpdated": "2025-09-07T12:26:20Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2651,7 +2651,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 61,
+        "chat": 64,
         "bits": 15,
         "sub": 13
       },
@@ -2673,7 +2673,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-09-07T12:24:10Z"
+      "lastUpdated": "2025-09-07T12:26:54Z"
     },
     "chevelletv": {
       "counters": {
@@ -2704,13 +2704,13 @@
     "bludshed187": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-24T12:40:41Z"
+      "lastUpdated": "2025-09-07T12:26:25Z"
     },
     "mistycal_eu": {
       "counters": {
@@ -5412,13 +5412,13 @@
     "sirwobblybutt": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T16:53:50Z"
+      "lastUpdated": "2025-09-07T12:26:19Z"
     },
     "duchydoodars": {
       "counters": {
@@ -5654,7 +5654,7 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 23,
+        "chat": 24,
         "points_spent": 10000,
         "sounds": 1
       },
@@ -5667,7 +5667,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-07T12:23:16Z"
+      "lastUpdated": "2025-09-07T12:25:10Z"
     },
     "oobalicious": {
       "counters": {
@@ -5901,16 +5901,18 @@
     },
     "vishmagesty": {
       "counters": {
-        "chat": 5
+        "chat": 8,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-09-07T12:24:33Z"
+      "lastUpdated": "2025-09-07T12:28:38Z"
     }
   },
-  "lastUpdated": "2025-09-07T11:24:34Z",
+  "lastUpdated": "2025-09-07T11:28:39Z",
   "totalUsers": 269,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
