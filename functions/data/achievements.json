@@ -3480,8 +3480,9 @@
       "counters": {
         "follow": 1,
         "chat": 83,
-        "points_spent": 30000,
-        "sounds": 1
+        "points_spent": 30800,
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3492,9 +3493,10 @@
         "chat_conversationalist",
         "spender_bronze",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "effect_first"
       ],
-      "lastUpdated": "2025-09-07T16:04:18Z"
+      "lastUpdated": "2025-09-07T16:04:48Z"
     },
     "mulquero": {
       "counters": {
@@ -6003,7 +6005,7 @@
       "lastUpdated": "2025-09-07T15:31:45Z"
     }
   },
-  "lastUpdated": "2025-09-07T15:04:38Z",
+  "lastUpdated": "2025-09-07T15:04:49Z",
   "totalUsers": 275,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
