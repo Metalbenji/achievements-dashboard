@@ -1514,7 +1514,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 202,
+        "chat": 203,
         "points_spent": 9000,
         "effects": 8,
         "follow": 1,
@@ -1549,7 +1549,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-07T16:05:51Z"
+      "lastUpdated": "2025-09-07T16:08:00Z"
     },
     "ramdon101": {
       "counters": {
@@ -2061,7 +2061,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 635,
+        "chat": 636,
         "points_spent": 7400,
         "effects": 13
       },
@@ -2080,7 +2080,7 @@
         "night_owl",
         "effect_collector"
       ],
-      "lastUpdated": "2025-09-07T16:07:29Z"
+      "lastUpdated": "2025-09-07T16:07:39Z"
     },
     "spoono__": {
       "counters": {
@@ -2848,7 +2848,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 390,
+        "chat": 391,
         "points_spent": 4000,
         "sounds": 2
       },
@@ -2865,7 +2865,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T16:07:30Z"
+      "lastUpdated": "2025-09-07T16:08:58Z"
     },
     "maximusis_": {
       "counters": {
@@ -3479,9 +3479,9 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 85,
-        "points_spent": 50800,
-        "sounds": 1,
+        "chat": 90,
+        "points_spent": 50801,
+        "sounds": 2,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -3495,9 +3495,10 @@
         "spender_silver",
         "sound_first",
         "effect_first",
-        "spender_gold"
+        "spender_gold",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-09-07T16:07:36Z"
+      "lastUpdated": "2025-09-07T16:09:46Z"
     },
     "mulquero": {
       "counters": {
@@ -5984,7 +5985,7 @@
     },
     "functionalchaos302": {
       "counters": {
-        "chat": 31,
+        "chat": 32,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5994,7 +5995,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-07T16:06:18Z"
+      "lastUpdated": "2025-09-07T16:09:08Z"
     },
     "hamsquatch78": {
       "counters": {
@@ -6006,7 +6007,7 @@
       "lastUpdated": "2025-09-07T15:31:45Z"
     }
   },
-  "lastUpdated": "2025-09-07T15:07:37Z",
+  "lastUpdated": "2025-09-07T15:09:46Z",
   "totalUsers": 275,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
