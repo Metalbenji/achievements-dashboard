@@ -1514,7 +1514,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 203,
+        "chat": 205,
         "points_spent": 9000,
         "effects": 8,
         "follow": 1,
@@ -1549,7 +1549,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-07T16:08:00Z"
+      "lastUpdated": "2025-09-07T16:10:57Z"
     },
     "ramdon101": {
       "counters": {
@@ -1932,7 +1932,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 573,
+        "chat": 574,
         "points_spent": 3654,
         "effects": 6,
         "sounds": 4,
@@ -1979,7 +1979,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-09-07T16:05:33Z"
+      "lastUpdated": "2025-09-07T16:11:00Z"
     },
     "anzerou": {
       "counters": {
@@ -2061,7 +2061,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 636,
+        "chat": 640,
         "points_spent": 7400,
         "effects": 13
       },
@@ -2080,7 +2080,7 @@
         "night_owl",
         "effect_collector"
       ],
-      "lastUpdated": "2025-09-07T16:07:39Z"
+      "lastUpdated": "2025-09-07T16:10:36Z"
     },
     "spoono__": {
       "counters": {
@@ -2659,7 +2659,8 @@
         "follow": 1,
         "chat": 138,
         "bits": 15,
-        "sub": 13
+        "sub": 13,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2678,9 +2679,10 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "chat_regular"
+        "chat_regular",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-09-07T16:03:30Z"
+      "lastUpdated": "2025-09-07T16:11:09Z"
     },
     "chevelletv": {
       "counters": {
@@ -2848,7 +2850,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 391,
+        "chat": 393,
         "points_spent": 4000,
         "sounds": 2
       },
@@ -2865,7 +2867,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T16:08:58Z"
+      "lastUpdated": "2025-09-07T16:10:46Z"
     },
     "maximusis_": {
       "counters": {
@@ -3479,8 +3481,8 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 90,
-        "points_spent": 50801,
+        "chat": 91,
+        "points_spent": 50803,
         "sounds": 2,
         "effects": 1
       },
@@ -3498,7 +3500,7 @@
         "spender_gold",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-07T16:09:46Z"
+      "lastUpdated": "2025-09-07T16:10:38Z"
     },
     "mulquero": {
       "counters": {
@@ -6007,7 +6009,7 @@
       "lastUpdated": "2025-09-07T15:31:45Z"
     }
   },
-  "lastUpdated": "2025-09-07T15:09:46Z",
+  "lastUpdated": "2025-09-07T15:11:10Z",
   "totalUsers": 275,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
