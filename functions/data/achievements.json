@@ -1514,7 +1514,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 224,
+        "chat": 225,
         "points_spent": 9300,
         "effects": 9,
         "follow": 1,
@@ -1549,7 +1549,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-14T10:38:53Z"
+      "lastUpdated": "2025-09-14T10:49:17Z"
     },
     "ramdon101": {
       "counters": {
@@ -2104,10 +2104,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 29250,
+        "points_spent": 30150,
         "follow": 1,
-        "chat": 355,
-        "effects": 34,
+        "chat": 356,
+        "effects": 35,
         "screenshot": 1,
         "sounds": 4,
         "bits": 300,
@@ -2156,7 +2156,7 @@
         "chat_dedicated",
         "bits_steady"
       ],
-      "lastUpdated": "2025-09-14T10:48:15Z"
+      "lastUpdated": "2025-09-14T10:54:24Z"
     },
     "syn__________": {
       "counters": {
@@ -3488,7 +3488,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 132,
+        "chat": 134,
         "points_spent": 50803,
         "sounds": 2,
         "effects": 1
@@ -3508,7 +3508,7 @@
         "birthday_person",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T10:46:46Z"
+      "lastUpdated": "2025-09-14T10:51:31Z"
     },
     "mulquero": {
       "counters": {
@@ -6024,17 +6024,18 @@
     },
     "luckynelis": {
       "counters": {
-        "chat": 1,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-14T10:48:17Z"
+      "lastUpdated": "2025-09-14T10:54:30Z"
     }
   },
-  "lastUpdated": "2025-09-14T09:48:18Z",
+  "lastUpdated": "2025-09-14T09:54:31Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
