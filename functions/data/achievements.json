@@ -1811,16 +1811,18 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 82
+        "chat": 82,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:38:56Z"
+      "lastUpdated": "2025-09-14T11:40:00Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1894,12 +1896,12 @@
       "counters": {
         "follow": 1,
         "chat": 298,
-        "points_spent": 10451,
+        "points_spent": 10751,
         "interactive": 3,
         "sub": 24,
         "screenshot": 1,
         "sounds": 1,
-        "effects": 2
+        "effects": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1929,7 +1931,7 @@
         "spender_silver",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:34:42Z"
+      "lastUpdated": "2025-09-14T11:39:52Z"
     },
     "mattyuk937": {
       "counters": {
@@ -6008,7 +6010,8 @@
     "bobinzzzz": {
       "counters": {
         "chat": 22,
-        "follow": 1
+        "follow": 1,
+        "points_spent": 400
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6016,7 +6019,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-14T11:38:25Z"
+      "lastUpdated": "2025-09-14T11:39:34Z"
     },
     "functionalchaos302": {
       "counters": {
@@ -6055,7 +6058,7 @@
       "lastUpdated": "2025-09-14T11:37:02Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:39:32Z",
+  "lastUpdated": "2025-09-14T10:40:01Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
