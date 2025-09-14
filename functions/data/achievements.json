@@ -5084,7 +5084,7 @@
         "follow": 1,
         "chat": 10,
         "gift_subs": 1,
-        "points_spent": 200,
+        "points_spent": 2200,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -5093,9 +5093,10 @@
         "gift_starter",
         "chat_newbie",
         "chat_talker",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-09-14T10:54:38Z"
+      "lastUpdated": "2025-09-14T10:55:29Z"
     },
     "codewithtd": {
       "counters": {
@@ -6027,7 +6028,7 @@
     },
     "luckynelis": {
       "counters": {
-        "chat": 5,
+        "chat": 6,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6035,10 +6036,10 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-14T10:54:30Z"
+      "lastUpdated": "2025-09-14T10:55:14Z"
     }
   },
-  "lastUpdated": "2025-09-14T09:54:39Z",
+  "lastUpdated": "2025-09-14T09:55:29Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
