@@ -4294,7 +4294,8 @@
         "chat_talker",
         "chat_conversationalist",
         "chat_regular",
-        "spender_bronze"
+        "spender_bronze",
+        "vip_dreamer"
       ],
       "lastUpdated": "2025-09-14T11:31:36Z"
     },
@@ -6046,7 +6047,7 @@
       "lastUpdated": "2025-09-14T11:20:01Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:31:37Z",
+  "lastUpdated": "2025-09-14T10:31:38Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
