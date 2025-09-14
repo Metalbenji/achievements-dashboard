@@ -1939,7 +1939,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 584,
+        "chat": 585,
         "points_spent": 3654,
         "effects": 6,
         "sounds": 4,
@@ -1986,7 +1986,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-09-14T16:22:43Z"
+      "lastUpdated": "2025-09-14T16:40:49Z"
     },
     "anzerou": {
       "counters": {
@@ -2115,7 +2115,7 @@
       "counters": {
         "points_spent": 32151,
         "follow": 1,
-        "chat": 415,
+        "chat": 418,
         "effects": 35,
         "screenshot": 1,
         "sounds": 4,
@@ -2167,7 +2167,7 @@
         "emperor_loyal",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T16:34:37Z"
+      "lastUpdated": "2025-09-14T16:40:15Z"
     },
     "syn__________": {
       "counters": {
@@ -4866,14 +4866,15 @@
     "coach_gief": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-14T16:37:09Z"
+      "lastUpdated": "2025-09-14T16:42:11Z"
     },
     "derxgamin": {
       "counters": {
@@ -6048,7 +6049,7 @@
     },
     "functionalchaos302": {
       "counters": {
-        "chat": 80,
+        "chat": 84,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6058,7 +6059,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T16:27:26Z"
+      "lastUpdated": "2025-09-14T16:40:02Z"
     },
     "hamsquatch78": {
       "counters": {
@@ -6128,7 +6129,7 @@
       "lastUpdated": "2025-09-14T14:46:04Z"
     }
   },
-  "lastUpdated": "2025-09-14T15:37:10Z",
+  "lastUpdated": "2025-09-14T15:42:11Z",
   "totalUsers": 280,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
