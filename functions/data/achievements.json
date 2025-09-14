@@ -5083,16 +5083,19 @@
       "counters": {
         "follow": 1,
         "chat": 10,
-        "gift_subs": 1
+        "gift_subs": 1,
+        "points_spent": 200,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "gift_starter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2025-09-14T10:36:37Z"
+      "lastUpdated": "2025-09-14T10:54:38Z"
     },
     "codewithtd": {
       "counters": {
@@ -6035,7 +6038,7 @@
       "lastUpdated": "2025-09-14T10:54:30Z"
     }
   },
-  "lastUpdated": "2025-09-14T09:54:31Z",
+  "lastUpdated": "2025-09-14T09:54:39Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
