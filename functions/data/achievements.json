@@ -1553,7 +1553,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1352,
+        "chat": 1353,
         "points_spent": 67050,
         "screenshot": 1,
         "follow": 1,
@@ -1615,13 +1615,13 @@
         "gift_bombs_veteran",
         "spender_gold"
       ],
-      "lastUpdated": "2025-09-14T10:38:23Z"
+      "lastUpdated": "2025-09-14T11:04:17Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 877,
-        "points_spent": 42900,
-        "interactive": 18,
+        "chat": 881,
+        "points_spent": 43300,
+        "interactive": 19,
         "follow": 1,
         "sub": 33,
         "effects": 6,
@@ -1661,7 +1661,7 @@
         "sub_tier1",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-14T11:01:55Z"
+      "lastUpdated": "2025-09-14T11:11:52Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1855,7 +1855,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 130,
+        "chat": 131,
         "points_spent": 2500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1887,7 +1887,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T10:58:52Z"
+      "lastUpdated": "2025-09-14T11:07:02Z"
     },
     "adammmidders": {
       "counters": {
@@ -2061,9 +2061,10 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 660,
-        "points_spent": 7400,
-        "effects": 13
+        "chat": 670,
+        "points_spent": 7500,
+        "effects": 13,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2078,9 +2079,10 @@
         "chat_frequent",
         "chat_dedicated",
         "night_owl",
-        "effect_collector"
+        "effect_collector",
+        "sound_first"
       ],
-      "lastUpdated": "2025-09-07T17:12:25Z"
+      "lastUpdated": "2025-09-14T11:13:41Z"
     },
     "spoono__": {
       "counters": {
@@ -2106,7 +2108,7 @@
       "counters": {
         "points_spent": 32150,
         "follow": 1,
-        "chat": 356,
+        "chat": 358,
         "effects": 35,
         "screenshot": 1,
         "sounds": 4,
@@ -2157,7 +2159,7 @@
         "bits_steady",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-09-14T11:02:13Z"
+      "lastUpdated": "2025-09-14T11:06:57Z"
     },
     "syn__________": {
       "counters": {
@@ -2840,7 +2842,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 51,
+        "chat": 52,
         "points_spent": 4000
       },
       "unlockedAchievements": [
@@ -2852,7 +2854,7 @@
         "emperor_loyal",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T11:01:04Z"
+      "lastUpdated": "2025-09-14T11:02:30Z"
     },
     "chadrestricted": {
       "counters": {
@@ -5083,7 +5085,7 @@
     "peregrine_101uk": {
       "counters": {
         "follow": 1,
-        "chat": 13,
+        "chat": 14,
         "gift_subs": 1,
         "points_spent": 7200,
         "effects": 2
@@ -5098,7 +5100,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:02:00Z"
+      "lastUpdated": "2025-09-14T11:02:17Z"
     },
     "codewithtd": {
       "counters": {
@@ -6041,7 +6043,7 @@
       "lastUpdated": "2025-09-14T11:01:40Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:02:13Z",
+  "lastUpdated": "2025-09-14T10:13:42Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
