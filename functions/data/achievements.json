@@ -1855,7 +1855,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 135,
+        "chat": 136,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1888,13 +1888,13 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:44Z"
+      "lastUpdated": "2025-09-14T11:32:08Z"
     },
     "adammmidders": {
       "counters": {
         "follow": 1,
         "chat": 296,
-        "points_spent": 10450,
+        "points_spent": 10451,
         "interactive": 3,
         "sub": 24,
         "screenshot": 1,
@@ -1926,9 +1926,10 @@
         "chat_regular",
         "sub_diamond",
         "chat_frequent",
-        "spender_silver"
+        "spender_silver",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:31:36Z"
+      "lastUpdated": "2025-09-14T11:32:44Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3492,8 +3493,8 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 147,
-        "points_spent": 56303,
+        "chat": 148,
+        "points_spent": 61303,
         "sounds": 2,
         "effects": 2
       },
@@ -3513,7 +3514,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:53Z"
+      "lastUpdated": "2025-09-14T11:32:21Z"
     },
     "mulquero": {
       "counters": {
@@ -3535,8 +3536,8 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 81,
-        "points_spent": 2001,
+        "chat": 82,
+        "points_spent": 2002,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -3549,7 +3550,7 @@
         "sound_first",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:32:07Z"
+      "lastUpdated": "2025-09-14T11:32:39Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -3904,7 +3905,7 @@
       "counters": {
         "points_spent": 21215,
         "special_rewards": 1,
-        "chat": 119,
+        "chat": 120,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -3932,7 +3933,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:56Z"
+      "lastUpdated": "2025-09-14T11:32:24Z"
     },
     "xykojen": {
       "counters": {
@@ -4286,7 +4287,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 171,
+        "chat": 172,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4300,7 +4301,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:58Z"
+      "lastUpdated": "2025-09-14T11:32:23Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6050,7 +6051,7 @@
       "lastUpdated": "2025-09-14T11:20:01Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:32:07Z",
+  "lastUpdated": "2025-09-14T10:32:45Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
