@@ -1811,7 +1811,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 79
+        "chat": 80
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1820,7 +1820,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-08-30T11:00:55Z"
+      "lastUpdated": "2025-09-14T11:36:44Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2733,7 +2733,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 380,
+        "chat": 381,
         "points_spent": 12550,
         "sounds": 1,
         "effects": 27,
@@ -2801,7 +2801,7 @@
         "effect_master",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-09-14T11:34:59Z"
+      "lastUpdated": "2025-09-14T11:36:10Z"
     },
     "andilippi": {
       "counters": {
@@ -3494,7 +3494,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 151,
+        "chat": 154,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3515,7 +3515,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:35:19Z"
+      "lastUpdated": "2025-09-14T11:36:57Z"
     },
     "mulquero": {
       "counters": {
@@ -3906,7 +3906,7 @@
       "counters": {
         "points_spent": 21215,
         "special_rewards": 1,
-        "chat": 120,
+        "chat": 122,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -3934,7 +3934,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:32:24Z"
+      "lastUpdated": "2025-09-14T11:36:45Z"
     },
     "xykojen": {
       "counters": {
@@ -4541,7 +4541,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 49
+        "chat": 51
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4550,7 +4550,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T11:32:02Z"
+      "lastUpdated": "2025-09-14T11:35:41Z"
     },
     "dinshara": {
       "counters": {
@@ -6005,7 +6005,7 @@
     },
     "bobinzzzz": {
       "counters": {
-        "chat": 19,
+        "chat": 21,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6014,7 +6014,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-14T11:33:55Z"
+      "lastUpdated": "2025-09-14T11:36:30Z"
     },
     "functionalchaos302": {
       "counters": {
@@ -6041,18 +6041,19 @@
     },
     "luckynelis": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-14T11:20:01Z"
+      "lastUpdated": "2025-09-14T11:37:02Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:35:25Z",
+  "lastUpdated": "2025-09-14T10:37:03Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
