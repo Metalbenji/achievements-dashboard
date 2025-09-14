@@ -1619,7 +1619,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 886,
+        "chat": 887,
         "points_spent": 43800,
         "interactive": 20,
         "follow": 1,
@@ -1661,7 +1661,7 @@
         "sub_tier1",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-14T11:27:17Z"
+      "lastUpdated": "2025-09-14T11:32:03Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2062,7 +2062,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 695,
+        "chat": 696,
         "points_spent": 9050,
         "effects": 17,
         "sounds": 2
@@ -2083,7 +2083,7 @@
         "effect_collector",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-14T11:31:56Z"
+      "lastUpdated": "2025-09-14T11:32:02Z"
     },
     "spoono__": {
       "counters": {
@@ -3536,7 +3536,7 @@
       "counters": {
         "follow": 1,
         "chat": 81,
-        "points_spent": 2000,
+        "points_spent": 2001,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -3546,9 +3546,10 @@
         "chat_talker",
         "chat_conversationalist",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:22:25Z"
+      "lastUpdated": "2025-09-14T11:32:07Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4285,7 +4286,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 170,
+        "chat": 171,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4299,7 +4300,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:49Z"
+      "lastUpdated": "2025-09-14T11:31:58Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4538,7 +4539,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 48
+        "chat": 49
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4547,7 +4548,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T11:21:30Z"
+      "lastUpdated": "2025-09-14T11:32:02Z"
     },
     "dinshara": {
       "counters": {
@@ -6049,7 +6050,7 @@
       "lastUpdated": "2025-09-14T11:20:01Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:31:57Z",
+  "lastUpdated": "2025-09-14T10:32:07Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
