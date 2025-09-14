@@ -2085,7 +2085,7 @@
     "spoono__": {
       "counters": {
         "follow": 1,
-        "chat": 60,
+        "chat": 61,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -2100,7 +2100,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-09-14T09:29:56Z"
+      "lastUpdated": "2025-09-14T09:31:55Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2725,10 +2725,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 353,
+        "chat": 355,
         "points_spent": 10050,
         "sounds": 1,
-        "effects": 20,
+        "effects": 21,
         "sub": 41,
         "bits": 3000,
         "raid": 3,
@@ -2790,7 +2790,7 @@
         "interactive_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-09-14T09:31:48Z"
+      "lastUpdated": "2025-09-14T09:32:09Z"
     },
     "andilippi": {
       "counters": {
@@ -3482,7 +3482,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 99,
+        "chat": 100,
         "points_spent": 50803,
         "sounds": 2,
         "effects": 1
@@ -3499,9 +3499,10 @@
         "sound_first",
         "effect_first",
         "spender_gold",
-        "birthday_person"
+        "birthday_person",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T09:31:31Z"
+      "lastUpdated": "2025-09-14T09:32:15Z"
     },
     "mulquero": {
       "counters": {
@@ -6011,7 +6012,7 @@
       "lastUpdated": "2025-09-07T15:31:45Z"
     }
   },
-  "lastUpdated": "2025-09-14T08:31:49Z",
+  "lastUpdated": "2025-09-14T08:32:16Z",
   "totalUsers": 275,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
