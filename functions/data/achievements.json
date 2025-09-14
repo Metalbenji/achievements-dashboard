@@ -3485,7 +3485,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 108,
+        "chat": 110,
         "points_spent": 50803,
         "sounds": 2,
         "effects": 1
@@ -3505,7 +3505,7 @@
         "birthday_person",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T09:52:50Z"
+      "lastUpdated": "2025-09-14T09:53:55Z"
     },
     "mulquero": {
       "counters": {
@@ -5079,13 +5079,16 @@
     "peregrine_101uk": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "gift_starter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-17T14:15:20Z"
+      "lastUpdated": "2025-09-14T09:53:58Z"
     },
     "codewithtd": {
       "counters": {
@@ -6015,7 +6018,7 @@
       "lastUpdated": "2025-09-07T15:31:45Z"
     }
   },
-  "lastUpdated": "2025-09-14T08:53:46Z",
+  "lastUpdated": "2025-09-14T08:53:59Z",
   "totalUsers": 275,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
