@@ -6076,15 +6076,17 @@
     },
     "betrayaleu": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-14T12:55:29Z"
+      "lastUpdated": "2025-09-14T12:55:30Z"
     }
   },
-  "lastUpdated": "2025-09-14T11:55:30Z",
+  "lastUpdated": "2025-09-14T11:55:31Z",
   "totalUsers": 278,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
