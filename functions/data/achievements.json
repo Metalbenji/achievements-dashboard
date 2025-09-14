@@ -5863,15 +5863,17 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 37
+        "chat": 37,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-09-14T13:00:13Z"
+      "lastUpdated": "2025-09-14T13:04:21Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -6098,7 +6100,7 @@
       "lastUpdated": "2025-09-14T13:04:08Z"
     }
   },
-  "lastUpdated": "2025-09-14T12:04:08Z",
+  "lastUpdated": "2025-09-14T12:04:22Z",
   "totalUsers": 279,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
