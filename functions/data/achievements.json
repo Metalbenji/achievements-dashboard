@@ -1857,7 +1857,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 148,
+        "chat": 149,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1890,12 +1890,12 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T12:26:02Z"
+      "lastUpdated": "2025-09-14T12:45:43Z"
     },
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 307,
+        "chat": 308,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 24,
@@ -1932,7 +1932,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-14T12:17:14Z"
+      "lastUpdated": "2025-09-14T12:45:10Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2359,7 +2359,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 359,
+        "chat": 365,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2387,7 +2387,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-14T12:34:18Z"
+      "lastUpdated": "2025-09-14T12:46:05Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2586,7 +2586,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 220,
+        "chat": 221,
         "sub": 40,
         "points_spent": 20000,
         "sounds": 1
@@ -2618,7 +2618,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-14T12:34:39Z"
+      "lastUpdated": "2025-09-14T12:48:02Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2951,7 +2951,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 20
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2960,7 +2960,7 @@
         "bday2025_attend",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-06T10:08:30Z"
+      "lastUpdated": "2025-09-14T12:36:36Z"
     },
     "awildbubbles": {
       "counters": {
@@ -3498,7 +3498,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 162,
+        "chat": 165,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3519,7 +3519,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:44:15Z"
+      "lastUpdated": "2025-09-14T12:47:51Z"
     },
     "mulquero": {
       "counters": {
@@ -3541,7 +3541,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 86,
+        "chat": 89,
         "points_spent": 5002,
         "sounds": 2,
         "effects": 1
@@ -3557,7 +3557,7 @@
         "birthday_person",
         "effect_first"
       ],
-      "lastUpdated": "2025-09-14T12:18:03Z"
+      "lastUpdated": "2025-09-14T12:45:15Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4426,7 +4426,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 10,
+        "chat": 11,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
@@ -4443,7 +4443,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-14T12:34:48Z"
+      "lastUpdated": "2025-09-14T12:35:17Z"
     },
     "nightboy009": {
       "counters": {
@@ -5030,7 +5030,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 110,
+        "chat": 112,
         "sub": 10
       },
       "unlockedAchievements": [
@@ -5049,7 +5049,7 @@
         "sub_champion",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T12:34:28Z"
+      "lastUpdated": "2025-09-14T12:37:59Z"
     },
     "jeditojanen": {
       "counters": {
@@ -6013,7 +6013,7 @@
     },
     "bobinzzzz": {
       "counters": {
-        "chat": 28,
+        "chat": 36,
         "follow": 1,
         "points_spent": 400
       },
@@ -6024,7 +6024,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T11:57:03Z"
+      "lastUpdated": "2025-09-14T12:45:10Z"
     },
     "functionalchaos302": {
       "counters": {
@@ -6061,10 +6061,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-09-14T11:37:02Z"
+    },
+    "crankzvio": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-14T12:48:38Z"
     }
   },
-  "lastUpdated": "2025-09-14T11:34:49Z",
-  "totalUsers": 276,
+  "lastUpdated": "2025-09-14T11:48:39Z",
+  "totalUsers": 277,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
