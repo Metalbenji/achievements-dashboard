@@ -1620,7 +1620,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 931,
+        "chat": 932,
         "points_spent": 43800,
         "interactive": 20,
         "follow": 1,
@@ -1662,7 +1662,7 @@
         "sub_tier1",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-14T15:17:19Z"
+      "lastUpdated": "2025-09-14T16:34:37Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2115,7 +2115,7 @@
       "counters": {
         "points_spent": 32151,
         "follow": 1,
-        "chat": 413,
+        "chat": 415,
         "effects": 35,
         "screenshot": 1,
         "sounds": 4,
@@ -2167,7 +2167,7 @@
         "emperor_loyal",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T16:07:05Z"
+      "lastUpdated": "2025-09-14T16:34:37Z"
     },
     "syn__________": {
       "counters": {
@@ -4866,13 +4866,14 @@
     "coach_gief": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-16T08:23:57Z"
+      "lastUpdated": "2025-09-14T16:37:09Z"
     },
     "derxgamin": {
       "counters": {
@@ -6009,14 +6010,14 @@
     "veraxl": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-14T16:30:06Z"
+      "lastUpdated": "2025-09-14T16:30:40Z"
     },
     "malovanwow": {
       "counters": {
@@ -6127,7 +6128,7 @@
       "lastUpdated": "2025-09-14T14:46:04Z"
     }
   },
-  "lastUpdated": "2025-09-14T15:30:06Z",
+  "lastUpdated": "2025-09-14T15:37:10Z",
   "totalUsers": 280,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
