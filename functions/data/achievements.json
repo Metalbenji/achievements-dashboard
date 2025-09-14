@@ -2106,7 +2106,7 @@
       "counters": {
         "points_spent": 29250,
         "follow": 1,
-        "chat": 354,
+        "chat": 355,
         "effects": 34,
         "screenshot": 1,
         "sounds": 4,
@@ -2156,7 +2156,7 @@
         "chat_dedicated",
         "bits_steady"
       ],
-      "lastUpdated": "2025-09-07T15:44:51Z"
+      "lastUpdated": "2025-09-14T10:48:15Z"
     },
     "syn__________": {
       "counters": {
@@ -6024,15 +6024,17 @@
     },
     "luckynelis": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-09-14T10:48:11Z"
+      "lastUpdated": "2025-09-14T10:48:17Z"
     }
   },
-  "lastUpdated": "2025-09-14T09:48:12Z",
+  "lastUpdated": "2025-09-14T09:48:18Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
