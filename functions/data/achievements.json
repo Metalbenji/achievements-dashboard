@@ -1811,7 +1811,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 82,
+        "chat": 85,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -1822,7 +1822,7 @@
         "chat_conversationalist",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:40:00Z"
+      "lastUpdated": "2025-09-14T11:41:19Z"
     },
     "incrediblebob": {
       "counters": {
@@ -1895,7 +1895,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 298,
+        "chat": 300,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 24,
@@ -1929,9 +1929,10 @@
         "sub_diamond",
         "chat_frequent",
         "spender_silver",
-        "birthday_person"
+        "birthday_person",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-14T11:39:52Z"
+      "lastUpdated": "2025-09-14T11:41:28Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2735,7 +2736,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 383,
+        "chat": 384,
         "points_spent": 12551,
         "sounds": 1,
         "effects": 27,
@@ -2804,7 +2805,7 @@
         "screenshot_first",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:39:31Z"
+      "lastUpdated": "2025-09-14T11:40:07Z"
     },
     "andilippi": {
       "counters": {
@@ -3098,7 +3099,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 45,
+        "chat": 47,
         "points_spent": 701,
         "effects": 2
       },
@@ -3112,7 +3113,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-07T13:43:57Z"
+      "lastUpdated": "2025-09-14T11:41:23Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3497,7 +3498,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 158,
+        "chat": 161,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3518,7 +3519,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:39:22Z"
+      "lastUpdated": "2025-09-14T11:41:10Z"
     },
     "mulquero": {
       "counters": {
@@ -6058,7 +6059,7 @@
       "lastUpdated": "2025-09-14T11:37:02Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:40:01Z",
+  "lastUpdated": "2025-09-14T10:41:29Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
