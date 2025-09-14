@@ -1937,7 +1937,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 576,
+        "chat": 577,
         "points_spent": 3654,
         "effects": 6,
         "sounds": 4,
@@ -1984,7 +1984,7 @@
         "bday2025_attend",
         "sub_elite"
       ],
-      "lastUpdated": "2025-09-14T13:32:53Z"
+      "lastUpdated": "2025-09-14T14:08:24Z"
     },
     "anzerou": {
       "counters": {
@@ -2965,7 +2965,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 635,
+        "chat": 637,
         "sub": 42
       },
       "unlockedAchievements": [
@@ -2992,7 +2992,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-14T13:53:46Z"
+      "lastUpdated": "2025-09-14T14:11:41Z"
     },
     "majesty81": {
       "counters": {
@@ -3100,8 +3100,9 @@
       "counters": {
         "follow": 1,
         "chat": 61,
-        "points_spent": 701,
-        "effects": 2
+        "points_spent": 801,
+        "effects": 2,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3111,9 +3112,10 @@
         "bday2025_attend",
         "effect_first",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sound_first"
       ],
-      "lastUpdated": "2025-09-14T11:58:09Z"
+      "lastUpdated": "2025-09-14T14:11:53Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4665,7 +4667,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 83,
+        "chat": 89,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4677,7 +4679,7 @@
         "chat_conversationalist",
         "interactive_first"
       ],
-      "lastUpdated": "2025-09-14T13:38:00Z"
+      "lastUpdated": "2025-09-14T14:11:41Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5039,7 +5041,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 116,
+        "chat": 118,
         "sub": 10
       },
       "unlockedAchievements": [
@@ -5058,7 +5060,7 @@
         "sub_champion",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T14:03:56Z"
+      "lastUpdated": "2025-09-14T14:10:36Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5647,7 +5649,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 105,
+        "chat": 107,
         "points_spent": 1851,
         "effects": 2,
         "interactive": 2
@@ -5664,7 +5666,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T13:46:21Z"
+      "lastUpdated": "2025-09-14T14:10:49Z"
     },
     "vezwarmane": {
       "counters": {
@@ -6110,16 +6112,16 @@
     "furiousbrute": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-14T14:04:05Z"
+      "lastUpdated": "2025-09-14T14:10:41Z"
     }
   },
-  "lastUpdated": "2025-09-14T13:04:06Z",
+  "lastUpdated": "2025-09-14T13:11:54Z",
   "totalUsers": 280,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
