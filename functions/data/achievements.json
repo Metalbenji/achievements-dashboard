@@ -1619,7 +1619,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 870,
+        "chat": 875,
         "points_spent": 42900,
         "interactive": 18,
         "follow": 1,
@@ -1661,7 +1661,7 @@
         "sub_tier1",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-14T10:40:08Z"
+      "lastUpdated": "2025-09-14T10:58:37Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1825,7 +1825,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 159,
+        "chat": 163,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10,
@@ -1850,12 +1850,12 @@
         "sub_dedicated",
         "sub_committed"
       ],
-      "lastUpdated": "2025-09-07T16:15:10Z"
+      "lastUpdated": "2025-09-14T10:59:33Z"
     },
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 126,
+        "chat": 130,
         "points_spent": 2500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1887,7 +1887,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T10:36:12Z"
+      "lastUpdated": "2025-09-14T10:58:52Z"
     },
     "adammmidders": {
       "counters": {
@@ -2839,8 +2839,8 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 48,
-        "points_spent": 2000
+        "chat": 49,
+        "points_spent": 4000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2851,7 +2851,7 @@
         "emperor_loyal",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T10:28:54Z"
+      "lastUpdated": "2025-09-14T11:00:28Z"
     },
     "chadrestricted": {
       "counters": {
@@ -3488,7 +3488,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 134,
+        "chat": 137,
         "points_spent": 50803,
         "sounds": 2,
         "effects": 1
@@ -3508,7 +3508,7 @@
         "birthday_person",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-14T10:51:31Z"
+      "lastUpdated": "2025-09-14T10:58:19Z"
     },
     "mulquero": {
       "counters": {
@@ -5084,8 +5084,8 @@
         "follow": 1,
         "chat": 10,
         "gift_subs": 1,
-        "points_spent": 2200,
-        "effects": 1
+        "points_spent": 7200,
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5094,9 +5094,10 @@
         "chat_newbie",
         "chat_talker",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T10:55:29Z"
+      "lastUpdated": "2025-09-14T11:00:47Z"
     },
     "codewithtd": {
       "counters": {
@@ -5240,7 +5241,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 519,
+        "chat": 524,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5281,7 +5282,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-14T10:20:59Z"
+      "lastUpdated": "2025-09-14T10:59:53Z"
     },
     "blackrobe1": {
       "counters": {
@@ -6039,7 +6040,7 @@
       "lastUpdated": "2025-09-14T10:55:14Z"
     }
   },
-  "lastUpdated": "2025-09-14T09:55:29Z",
+  "lastUpdated": "2025-09-14T10:00:47Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
