@@ -1811,7 +1811,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 80
+        "chat": 81
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1820,7 +1820,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T11:36:44Z"
+      "lastUpdated": "2025-09-14T11:37:08Z"
     },
     "incrediblebob": {
       "counters": {
@@ -3494,7 +3494,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 154,
+        "chat": 157,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3515,7 +3515,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:36:57Z"
+      "lastUpdated": "2025-09-14T11:38:29Z"
     },
     "mulquero": {
       "counters": {
@@ -3904,9 +3904,9 @@
     },
     "justpeterpg": {
       "counters": {
-        "points_spent": 21215,
+        "points_spent": 21216,
         "special_rewards": 1,
-        "chat": 122,
+        "chat": 124,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -3932,9 +3932,10 @@
         "biggest_fan",
         "spender_silver",
         "chat_regular",
-        "vip_dreamer"
+        "vip_dreamer",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:36:45Z"
+      "lastUpdated": "2025-09-14T11:38:44Z"
     },
     "xykojen": {
       "counters": {
@@ -4288,7 +4289,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 173,
+        "chat": 174,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4302,7 +4303,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:34:26Z"
+      "lastUpdated": "2025-09-14T11:38:29Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6005,7 +6006,7 @@
     },
     "bobinzzzz": {
       "counters": {
-        "chat": 21,
+        "chat": 22,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6014,7 +6015,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-14T11:36:30Z"
+      "lastUpdated": "2025-09-14T11:38:25Z"
     },
     "functionalchaos302": {
       "counters": {
@@ -6053,7 +6054,7 @@
       "lastUpdated": "2025-09-14T11:37:02Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:37:03Z",
+  "lastUpdated": "2025-09-14T10:38:44Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
