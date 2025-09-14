@@ -1855,7 +1855,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 134,
+        "chat": 135,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1888,7 +1888,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:39Z"
+      "lastUpdated": "2025-09-14T11:31:44Z"
     },
     "adammmidders": {
       "counters": {
@@ -2062,7 +2062,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 694,
+        "chat": 695,
         "points_spent": 9050,
         "effects": 17,
         "sounds": 2
@@ -2083,7 +2083,7 @@
         "effect_collector",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-14T11:30:54Z"
+      "lastUpdated": "2025-09-14T11:31:56Z"
     },
     "spoono__": {
       "counters": {
@@ -3492,7 +3492,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 145,
+        "chat": 147,
         "points_spent": 56303,
         "sounds": 2,
         "effects": 2
@@ -3513,7 +3513,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:25Z"
+      "lastUpdated": "2025-09-14T11:31:53Z"
     },
     "mulquero": {
       "counters": {
@@ -3901,7 +3901,7 @@
     },
     "justpeterpg": {
       "counters": {
-        "points_spent": 16215,
+        "points_spent": 21215,
         "special_rewards": 1,
         "chat": 119,
         "effects": 3,
@@ -3928,9 +3928,10 @@
         "spender_bronze",
         "biggest_fan",
         "spender_silver",
-        "chat_regular"
+        "chat_regular",
+        "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T09:26:30Z"
+      "lastUpdated": "2025-09-14T11:31:56Z"
     },
     "xykojen": {
       "counters": {
@@ -4284,7 +4285,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 169,
+        "chat": 170,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4298,7 +4299,7 @@
         "spender_bronze",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:31:36Z"
+      "lastUpdated": "2025-09-14T11:31:49Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6048,7 +6049,7 @@
       "lastUpdated": "2025-09-14T11:20:01Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:31:39Z",
+  "lastUpdated": "2025-09-14T10:31:57Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
