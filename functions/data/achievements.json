@@ -1394,7 +1394,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1126,
+        "chat": 1130,
         "points_spent": 14000,
         "effects": 7,
         "sub": 8,
@@ -1442,7 +1442,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-07T16:27:01Z"
+      "lastUpdated": "2025-09-14T14:18:45Z"
     },
     "celran": {
       "counters": {
@@ -1665,7 +1665,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 199,
+        "chat": 200,
         "follow": 1,
         "sub": 31,
         "points_spent": 55000,
@@ -1694,9 +1694,10 @@
         "spender_bronze",
         "spender_silver",
         "sound_first",
-        "spender_gold"
+        "spender_gold",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-09-14T12:08:25Z"
+      "lastUpdated": "2025-09-14T14:18:56Z"
     },
     "scoman07": {
       "counters": {
@@ -1895,7 +1896,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 313,
+        "chat": 314,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 24,
@@ -1932,7 +1933,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-14T14:04:04Z"
+      "lastUpdated": "2025-09-14T14:12:49Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2464,10 +2465,10 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 8250,
-        "effects": 20,
+        "points_spent": 8600,
+        "effects": 21,
         "follow": 1,
-        "chat": 113,
+        "chat": 114,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2490,12 +2491,12 @@
         "effect_collector",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-07T15:17:12Z"
+      "lastUpdated": "2025-09-14T14:14:17Z"
     },
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 418,
+        "chat": 420,
         "sub": 34,
         "points_spent": 23951,
         "interactive": 2,
@@ -2549,7 +2550,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-07T12:07:19Z"
+      "lastUpdated": "2025-09-14T14:18:01Z"
     },
     "umenneske94": {
       "counters": {
@@ -2965,7 +2966,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 637,
+        "chat": 641,
         "sub": 42
       },
       "unlockedAchievements": [
@@ -2992,7 +2993,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-14T14:11:41Z"
+      "lastUpdated": "2025-09-14T14:12:50Z"
     },
     "majesty81": {
       "counters": {
@@ -3099,7 +3100,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 61,
+        "chat": 63,
         "points_spent": 801,
         "effects": 2,
         "sounds": 1
@@ -3115,7 +3116,7 @@
         "chat_conversationalist",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-14T14:11:53Z"
+      "lastUpdated": "2025-09-14T14:17:08Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4667,7 +4668,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 90,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4679,7 +4680,7 @@
         "chat_conversationalist",
         "interactive_first"
       ],
-      "lastUpdated": "2025-09-14T14:11:41Z"
+      "lastUpdated": "2025-09-14T14:12:12Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5873,7 +5874,7 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 38,
+        "chat": 39,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5883,7 +5884,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-09-14T13:04:35Z"
+      "lastUpdated": "2025-09-14T14:15:49Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -6041,7 +6042,7 @@
     },
     "functionalchaos302": {
       "counters": {
-        "chat": 48,
+        "chat": 50,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6051,7 +6052,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-07T17:23:04Z"
+      "lastUpdated": "2025-09-14T14:17:34Z"
     },
     "hamsquatch78": {
       "counters": {
@@ -6121,7 +6122,7 @@
       "lastUpdated": "2025-09-14T14:10:41Z"
     }
   },
-  "lastUpdated": "2025-09-14T13:11:54Z",
+  "lastUpdated": "2025-09-14T13:18:57Z",
   "totalUsers": 280,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
