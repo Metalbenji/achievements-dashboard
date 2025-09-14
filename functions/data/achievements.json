@@ -6109,15 +6109,17 @@
     },
     "furiousbrute": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
       "lastUpdated": "2025-09-14T14:04:05Z"
     }
   },
-  "lastUpdated": "2025-09-14T13:04:05Z",
+  "lastUpdated": "2025-09-14T13:04:06Z",
   "totalUsers": 280,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
