@@ -1811,7 +1811,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 81
+        "chat": 82
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1820,7 +1820,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T11:37:08Z"
+      "lastUpdated": "2025-09-14T11:38:56Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2733,8 +2733,8 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 381,
-        "points_spent": 12550,
+        "chat": 383,
+        "points_spent": 12551,
         "sounds": 1,
         "effects": 27,
         "sub": 41,
@@ -2799,9 +2799,10 @@
         "interactive_first",
         "spender_silver",
         "effect_master",
-        "screenshot_first"
+        "screenshot_first",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:36:10Z"
+      "lastUpdated": "2025-09-14T11:39:31Z"
     },
     "andilippi": {
       "counters": {
@@ -3494,7 +3495,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 157,
+        "chat": 158,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3515,7 +3516,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:38:29Z"
+      "lastUpdated": "2025-09-14T11:39:22Z"
     },
     "mulquero": {
       "counters": {
@@ -3906,7 +3907,7 @@
       "counters": {
         "points_spent": 21216,
         "special_rewards": 1,
-        "chat": 124,
+        "chat": 125,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -3935,7 +3936,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-14T11:38:44Z"
+      "lastUpdated": "2025-09-14T11:39:16Z"
     },
     "xykojen": {
       "counters": {
@@ -6054,7 +6055,7 @@
       "lastUpdated": "2025-09-14T11:37:02Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:38:44Z",
+  "lastUpdated": "2025-09-14T10:39:32Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
