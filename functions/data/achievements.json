@@ -1856,7 +1856,7 @@
       "counters": {
         "follow": 1,
         "chat": 134,
-        "points_spent": 2500,
+        "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 15,
@@ -1885,9 +1885,10 @@
         "bits_regular",
         "raid_tier1_captain",
         "effect_first",
-        "chat_regular"
+        "chat_regular",
+        "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-14T11:26:53Z"
+      "lastUpdated": "2025-09-14T11:31:39Z"
     },
     "adammmidders": {
       "counters": {
@@ -6047,7 +6048,7 @@
       "lastUpdated": "2025-09-14T11:20:01Z"
     }
   },
-  "lastUpdated": "2025-09-14T10:31:38Z",
+  "lastUpdated": "2025-09-14T10:31:39Z",
   "totalUsers": 276,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
