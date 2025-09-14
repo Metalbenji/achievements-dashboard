@@ -6064,15 +6064,17 @@
     },
     "crankzvio": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-14T12:48:38Z"
+      "lastUpdated": "2025-09-14T12:48:39Z"
     }
   },
-  "lastUpdated": "2025-09-14T11:48:39Z",
+  "lastUpdated": "2025-09-14T11:48:40Z",
   "totalUsers": 277,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
