@@ -1395,7 +1395,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1217,
+        "chat": 1219,
         "points_spent": 14800,
         "effects": 8,
         "sub": 8,
@@ -1443,7 +1443,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-20T16:54:35Z"
+      "lastUpdated": "2025-09-20T17:08:51Z"
     },
     "celran": {
       "counters": {
@@ -2119,7 +2119,7 @@
       "counters": {
         "points_spent": 33751,
         "follow": 1,
-        "chat": 461,
+        "chat": 462,
         "effects": 37,
         "screenshot": 1,
         "sounds": 4,
@@ -2172,7 +2172,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-09-20T17:02:01Z"
+      "lastUpdated": "2025-09-20T17:07:34Z"
     },
     "syn__________": {
       "counters": {
@@ -2502,7 +2502,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 556,
+        "chat": 557,
         "sub": 34,
         "points_spent": 25251,
         "interactive": 2,
@@ -2557,7 +2557,7 @@
         "chat_dedicated",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-09-20T17:06:31Z"
+      "lastUpdated": "2025-09-20T17:07:37Z"
     },
     "umenneske94": {
       "counters": {
@@ -6207,26 +6207,26 @@
     },
     "legolich": {
       "counters": {
-        "chat": 13
+        "chat": 16
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T17:07:20Z"
+      "lastUpdated": "2025-09-20T17:08:43Z"
     },
     "provos": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-20T17:07:32Z"
+      "lastUpdated": "2025-09-20T17:08:26Z"
     },
     "hentaya": {
       "counters": {
@@ -6236,10 +6236,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-09-20T17:06:46Z"
+    },
+    "artic819": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-20T17:08:52Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:07:33Z",
-  "totalUsers": 286,
+  "lastUpdated": "2025-09-20T16:08:54Z",
+  "totalUsers": 287,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
