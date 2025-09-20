@@ -1804,15 +1804,16 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-20T17:21:12Z"
+      "lastUpdated": "2025-09-20T17:58:52Z"
     },
     "sealdancer": {
       "counters": {
@@ -6260,7 +6261,7 @@
       "lastUpdated": "2025-09-20T17:20:27Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:58:49Z",
+  "lastUpdated": "2025-09-20T16:58:53Z",
   "totalUsers": 288,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
