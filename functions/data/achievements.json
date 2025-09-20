@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 208,
+        "chat": 216,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1346,7 +1346,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-20T17:39:15Z"
+      "lastUpdated": "2025-09-20T18:09:38Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1395,7 +1395,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1226,
+        "chat": 1230,
         "points_spent": 14800,
         "effects": 8,
         "sub": 8,
@@ -1443,7 +1443,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-20T17:57:10Z"
+      "lastUpdated": "2025-09-20T18:08:19Z"
     },
     "celran": {
       "counters": {
@@ -1620,7 +1620,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1019,
+        "chat": 1028,
         "points_spent": 44700,
         "interactive": 22,
         "follow": 1,
@@ -1663,7 +1663,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-20T18:01:57Z"
+      "lastUpdated": "2025-09-20T18:08:14Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1746,7 +1746,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 231,
+        "chat": 233,
         "points_spent": 6451,
         "interactive": 1,
         "effects": 8,
@@ -1780,7 +1780,7 @@
         "chat_frequent",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-20T17:35:53Z"
+      "lastUpdated": "2025-09-20T18:10:17Z"
     },
     "tawmae": {
       "counters": {
@@ -3381,7 +3381,7 @@
     "kurenaii": {
       "counters": {
         "follow": 1,
-        "chat": 34
+        "chat": 35
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3392,7 +3392,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-20T17:59:32Z"
+      "lastUpdated": "2025-09-20T18:03:26Z"
     },
     "ryanstephenson232": {
       "counters": {
@@ -4287,7 +4287,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 216,
+        "chat": 220,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4302,7 +4302,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-20T18:00:46Z"
+      "lastUpdated": "2025-09-20T18:07:17Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5269,7 +5269,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 562,
+        "chat": 563,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5310,7 +5310,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-20T17:56:13Z"
+      "lastUpdated": "2025-09-20T18:09:17Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5885,7 +5885,7 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 56,
+        "chat": 58,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5895,7 +5895,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-09-20T17:22:46Z"
+      "lastUpdated": "2025-09-20T18:05:05Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -6208,7 +6208,7 @@
     },
     "legolich": {
       "counters": {
-        "chat": 57,
+        "chat": 60,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6218,7 +6218,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-20T17:59:58Z"
+      "lastUpdated": "2025-09-20T18:04:21Z"
     },
     "provos": {
       "counters": {
@@ -6234,7 +6234,7 @@
     },
     "hentaya": {
       "counters": {
-        "chat": 10,
+        "chat": 15,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6243,7 +6243,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T18:02:09Z"
+      "lastUpdated": "2025-09-20T18:09:38Z"
     },
     "artic819": {
       "counters": {
@@ -6262,10 +6262,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-09-20T17:20:27Z"
+    },
+    "snivyy__": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-20T18:10:38Z"
     }
   },
-  "lastUpdated": "2025-09-20T17:02:10Z",
-  "totalUsers": 288,
+  "lastUpdated": "2025-09-20T17:10:39Z",
+  "totalUsers": 289,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
