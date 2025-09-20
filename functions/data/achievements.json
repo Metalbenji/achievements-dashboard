@@ -1620,7 +1620,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1015,
+        "chat": 1016,
         "points_spent": 44700,
         "interactive": 22,
         "follow": 1,
@@ -1663,7 +1663,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-20T17:05:14Z"
+      "lastUpdated": "2025-09-20T17:10:25Z"
     },
     "aladderinsane": {
       "counters": {
@@ -6207,14 +6207,14 @@
     },
     "legolich": {
       "counters": {
-        "chat": 16
+        "chat": 18
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T17:08:43Z"
+      "lastUpdated": "2025-09-20T17:10:17Z"
     },
     "provos": {
       "counters": {
@@ -6245,10 +6245,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-09-20T17:08:52Z"
+    },
+    "jaste34": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-09-20T17:10:33Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:08:54Z",
-  "totalUsers": 287,
+  "lastUpdated": "2025-09-20T16:10:34Z",
+  "totalUsers": 288,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
