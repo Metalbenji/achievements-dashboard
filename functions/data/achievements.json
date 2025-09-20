@@ -2502,7 +2502,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 555,
+        "chat": 556,
         "sub": 34,
         "points_spent": 25251,
         "interactive": 2,
@@ -2557,7 +2557,7 @@
         "chat_dedicated",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-09-20T17:06:22Z"
+      "lastUpdated": "2025-09-20T17:06:31Z"
     },
     "umenneske94": {
       "counters": {
@@ -6215,10 +6215,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-09-20T17:06:26Z"
+    },
+    "provos": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-20T17:06:42Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:06:27Z",
-  "totalUsers": 284,
+  "lastUpdated": "2025-09-20T16:06:43Z",
+  "totalUsers": 285,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
