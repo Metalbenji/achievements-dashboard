@@ -2363,7 +2363,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 429,
+        "chat": 432,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2391,7 +2391,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-20T12:11:41Z"
+      "lastUpdated": "2025-09-20T12:13:23Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4781,7 +4781,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 502,
+        "chat": 504,
         "points_spent": 18850,
         "effects": 4,
         "sounds": 7,
@@ -4815,7 +4815,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-09-20T12:11:16Z"
+      "lastUpdated": "2025-09-20T12:13:24Z"
     },
     "jamie1496": {
       "counters": {
@@ -5398,7 +5398,7 @@
     "demanisraar": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5406,7 +5406,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T12:12:02Z"
+      "lastUpdated": "2025-09-20T12:13:11Z"
     },
     "bloodecho_ghoul": {
       "counters": {
@@ -6161,7 +6161,7 @@
       "lastUpdated": "2025-09-20T11:15:06Z"
     }
   },
-  "lastUpdated": "2025-09-20T11:12:03Z",
+  "lastUpdated": "2025-09-20T11:13:56Z",
   "totalUsers": 281,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
