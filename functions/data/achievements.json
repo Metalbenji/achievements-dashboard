@@ -6147,15 +6147,17 @@
     },
     "otocar": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-09-20T11:14:37Z"
+      "lastUpdated": "2025-09-20T11:14:44Z"
     }
   },
-  "lastUpdated": "2025-09-20T10:14:37Z",
+  "lastUpdated": "2025-09-20T10:14:45Z",
   "totalUsers": 281,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
