@@ -2363,7 +2363,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 442,
+        "chat": 443,
         "points_spent": 101,
         "sounds": 1,
         "sub": 23
@@ -2391,7 +2391,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-20T12:21:05Z"
+      "lastUpdated": "2025-09-20T12:23:40Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -5398,7 +5398,7 @@
     "demanisraar": {
       "counters": {
         "follow": 1,
-        "chat": 23,
+        "chat": 25,
         "sub": 16
       },
       "unlockedAchievements": [
@@ -5413,9 +5413,10 @@
         "sub_dedicated",
         "sub_committed",
         "sub_veteran",
-        "sub_champion"
+        "sub_champion",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-20T12:19:40Z"
+      "lastUpdated": "2025-09-20T12:23:42Z"
     },
     "bloodecho_ghoul": {
       "counters": {
@@ -5648,8 +5649,8 @@
       "counters": {
         "follow": 1,
         "chat": 107,
-        "points_spent": 1951,
-        "effects": 2,
+        "points_spent": 2151,
+        "effects": 3,
         "interactive": 2,
         "sounds": 1
       },
@@ -5666,7 +5667,7 @@
         "chat_regular",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-20T12:21:47Z"
+      "lastUpdated": "2025-09-20T12:22:13Z"
     },
     "vezwarmane": {
       "counters": {
@@ -6172,7 +6173,7 @@
       "lastUpdated": "2025-09-20T11:15:06Z"
     }
   },
-  "lastUpdated": "2025-09-20T11:21:47Z",
+  "lastUpdated": "2025-09-20T11:23:43Z",
   "totalUsers": 281,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
