@@ -1804,7 +1804,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 26
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1813,7 +1813,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-20T17:58:52Z"
+      "lastUpdated": "2025-09-20T17:58:55Z"
     },
     "sealdancer": {
       "counters": {
@@ -6234,13 +6234,15 @@
     },
     "hentaya": {
       "counters": {
-        "chat": 5
+        "chat": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-09-20T17:58:48Z"
+      "lastUpdated": "2025-09-20T17:58:57Z"
     },
     "artic819": {
       "counters": {
@@ -6261,7 +6263,7 @@
       "lastUpdated": "2025-09-20T17:20:27Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:58:53Z",
+  "lastUpdated": "2025-09-20T16:58:58Z",
   "totalUsers": 288,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
