@@ -1620,7 +1620,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1014,
+        "chat": 1015,
         "points_spent": 44700,
         "interactive": 22,
         "follow": 1,
@@ -1663,7 +1663,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-20T17:04:35Z"
+      "lastUpdated": "2025-09-20T17:05:14Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2502,7 +2502,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 554,
+        "chat": 555,
         "sub": 34,
         "points_spent": 25251,
         "interactive": 2,
@@ -2557,7 +2557,7 @@
         "chat_dedicated",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-09-20T17:03:03Z"
+      "lastUpdated": "2025-09-20T17:06:22Z"
     },
     "umenneske94": {
       "counters": {
@@ -4286,7 +4286,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 208,
+        "chat": 210,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4301,7 +4301,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-20T16:49:57Z"
+      "lastUpdated": "2025-09-20T17:05:43Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6207,16 +6207,17 @@
     },
     "legolich": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T17:04:42Z"
+      "lastUpdated": "2025-09-20T17:06:26Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:04:42Z",
+  "lastUpdated": "2025-09-20T16:06:27Z",
   "totalUsers": 284,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
