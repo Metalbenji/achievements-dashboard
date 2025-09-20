@@ -6207,16 +6207,17 @@
     },
     "legolich": {
       "counters": {
-        "chat": 24,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-20T17:18:36Z"
+      "lastUpdated": "2025-09-20T17:18:46Z"
     },
     "provos": {
       "counters": {
@@ -6258,7 +6259,7 @@
       "lastUpdated": "2025-09-20T17:17:51Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:18:37Z",
+  "lastUpdated": "2025-09-20T16:18:46Z",
   "totalUsers": 288,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
