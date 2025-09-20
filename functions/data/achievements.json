@@ -4286,7 +4286,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 210,
+        "chat": 212,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4301,7 +4301,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-20T17:05:43Z"
+      "lastUpdated": "2025-09-20T17:07:30Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6207,25 +6207,26 @@
     },
     "legolich": {
       "counters": {
-        "chat": 11
+        "chat": 13
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T17:06:46Z"
+      "lastUpdated": "2025-09-20T17:07:20Z"
     },
     "provos": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-20T17:06:44Z"
+      "lastUpdated": "2025-09-20T17:07:32Z"
     },
     "hentaya": {
       "counters": {
@@ -6237,7 +6238,7 @@
       "lastUpdated": "2025-09-20T17:06:46Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:06:47Z",
+  "lastUpdated": "2025-09-20T16:07:33Z",
   "totalUsers": 286,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
