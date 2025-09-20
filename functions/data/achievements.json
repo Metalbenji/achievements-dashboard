@@ -6207,29 +6207,38 @@
     },
     "legolich": {
       "counters": {
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T17:06:26Z"
+      "lastUpdated": "2025-09-20T17:06:46Z"
     },
     "provos": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-20T17:06:43Z"
+      "lastUpdated": "2025-09-20T17:06:44Z"
+    },
+    "hentaya": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-09-20T17:06:46Z"
     }
   },
-  "lastUpdated": "2025-09-20T16:06:44Z",
-  "totalUsers": 285,
+  "lastUpdated": "2025-09-20T16:06:47Z",
+  "totalUsers": 286,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
