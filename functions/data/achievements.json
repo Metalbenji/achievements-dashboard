@@ -4789,7 +4789,8 @@
         "effects": 4,
         "sounds": 7,
         "interactive": 8,
-        "sub": 30
+        "sub": 30,
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4816,9 +4817,10 @@
         "sub_champion",
         "sub_platinum",
         "sub_diamond",
-        "sub_elite"
+        "sub_elite",
+        "clip_first"
       ],
-      "lastUpdated": "2025-09-20T12:51:02Z"
+      "lastUpdated": "2025-09-20T13:21:41Z"
     },
     "jamie1496": {
       "counters": {
@@ -6179,7 +6181,7 @@
       "lastUpdated": "2025-09-20T11:15:06Z"
     }
   },
-  "lastUpdated": "2025-09-20T12:21:07Z",
+  "lastUpdated": "2025-09-20T12:21:42Z",
   "totalUsers": 281,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
