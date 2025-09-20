@@ -1620,7 +1620,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1000,
+        "chat": 1002,
         "points_spent": 44200,
         "interactive": 21,
         "follow": 1,
@@ -1663,7 +1663,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-20T15:59:57Z"
+      "lastUpdated": "2025-09-20T16:02:53Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2502,7 +2502,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 536,
+        "chat": 548,
         "sub": 34,
         "points_spent": 23951,
         "interactive": 2,
@@ -2557,7 +2557,7 @@
         "chat_dedicated",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-09-20T15:59:24Z"
+      "lastUpdated": "2025-09-20T16:16:24Z"
     },
     "umenneske94": {
       "counters": {
@@ -2974,7 +2974,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 768,
+        "chat": 774,
         "sub": 42,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3014,7 +3014,7 @@
         "gift_bombs_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-20T15:59:44Z"
+      "lastUpdated": "2025-09-20T16:04:15Z"
     },
     "majesty81": {
       "counters": {
@@ -3232,7 +3232,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 433,
+        "chat": 439,
         "points_spent": 2700,
         "effects": 2,
         "interactive": 4
@@ -3252,7 +3252,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-20T15:42:18Z"
+      "lastUpdated": "2025-09-20T16:07:02Z"
     },
     "roffelonator": {
       "counters": {
@@ -5267,7 +5267,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 559,
+        "chat": 561,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5308,7 +5308,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-20T15:59:43Z"
+      "lastUpdated": "2025-09-20T16:01:15Z"
     },
     "blackrobe1": {
       "counters": {
@@ -6194,10 +6194,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-09-20T15:29:46Z"
+    },
+    "strike879": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-09-20T16:19:00Z"
     }
   },
-  "lastUpdated": "2025-09-20T14:59:57Z",
-  "totalUsers": 282,
+  "lastUpdated": "2025-09-20T15:19:01Z",
+  "totalUsers": 283,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
