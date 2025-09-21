@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 219,
+        "chat": 220,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1346,7 +1346,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-21T09:50:05Z"
+      "lastUpdated": "2025-09-21T09:50:38Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2074,7 +2074,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 782,
+        "chat": 783,
         "points_spent": 10350,
         "effects": 19,
         "sounds": 2
@@ -2097,7 +2097,7 @@
         "chat_enthusiast",
         "spender_silver"
       ],
-      "lastUpdated": "2025-09-21T09:50:08Z"
+      "lastUpdated": "2025-09-21T09:50:39Z"
     },
     "spoono__": {
       "counters": {
@@ -2230,7 +2230,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1346,
+        "chat": 1347,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2295,7 +2295,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-21T09:48:48Z"
+      "lastUpdated": "2025-09-21T09:51:09Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6293,18 +6293,19 @@
     },
     "xhairbait": {
       "counters": {
-        "chat": 5,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-21T09:50:37Z"
+      "lastUpdated": "2025-09-21T09:51:28Z"
     }
   },
-  "lastUpdated": "2025-09-21T08:50:38Z",
+  "lastUpdated": "2025-09-21T08:51:28Z",
   "totalUsers": 291,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
