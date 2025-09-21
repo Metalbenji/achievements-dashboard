@@ -1746,10 +1746,10 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 244,
-        "points_spent": 6451,
+        "chat": 248,
+        "points_spent": 6951,
         "interactive": 1,
-        "effects": 8,
+        "effects": 9,
         "sub": 24,
         "clips": 1
       },
@@ -1780,7 +1780,7 @@
         "chat_frequent",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-21T09:23:03Z"
+      "lastUpdated": "2025-09-21T09:26:51Z"
     },
     "tawmae": {
       "counters": {
@@ -2073,7 +2073,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 749,
+        "chat": 750,
         "points_spent": 9850,
         "effects": 18,
         "sounds": 2
@@ -2092,9 +2092,10 @@
         "chat_dedicated",
         "night_owl",
         "effect_collector",
-        "sound_first"
+        "sound_first",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-20T16:22:34Z"
+      "lastUpdated": "2025-09-21T09:28:31Z"
     },
     "spoono__": {
       "counters": {
@@ -2746,10 +2747,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 424,
-        "points_spent": 13051,
+        "chat": 425,
+        "points_spent": 14051,
         "sounds": 1,
-        "effects": 28,
+        "effects": 30,
         "sub": 41,
         "bits": 3000,
         "raid": 3,
@@ -2815,7 +2816,7 @@
         "screenshot_first",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-21T09:23:32Z"
+      "lastUpdated": "2025-09-21T09:28:12Z"
     },
     "andilippi": {
       "counters": {
@@ -2975,7 +2976,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 779,
+        "chat": 786,
         "sub": 42,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3015,7 +3016,7 @@
         "gift_bombs_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-21T09:11:56Z"
+      "lastUpdated": "2025-09-21T09:28:11Z"
     },
     "majesty81": {
       "counters": {
@@ -3411,12 +3412,13 @@
       "counters": {
         "sub": 42,
         "follow": 1,
-        "chat": 188,
+        "chat": 193,
         "points_spent": 20350,
         "effects": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 45,
-        "largest_gift_bomb": 45
+        "largest_gift_bomb": 45,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3449,9 +3451,10 @@
         "gift_bombs_first",
         "chat_regular",
         "spender_bronze",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-09-21T09:24:09Z"
+      "lastUpdated": "2025-09-21T09:28:26Z"
     },
     "camm_23": {
       "counters": {
@@ -3526,7 +3529,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 207,
+        "chat": 210,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3548,7 +3551,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-20T16:21:29Z"
+      "lastUpdated": "2025-09-21T09:25:50Z"
     },
     "mulquero": {
       "counters": {
@@ -4790,7 +4793,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 538,
+        "chat": 543,
         "points_spent": 19250,
         "effects": 4,
         "sounds": 7,
@@ -4826,7 +4829,7 @@
         "sub_elite",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-20T15:25:34Z"
+      "lastUpdated": "2025-09-21T09:25:43Z"
     },
     "jamie1496": {
       "counters": {
@@ -5935,7 +5938,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 32
+        "chat": 33
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5943,7 +5946,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-21T09:20:38Z"
+      "lastUpdated": "2025-09-21T09:27:44Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6146,7 +6149,7 @@
       "counters": {
         "points_spent": 21218,
         "special_rewards": 1,
-        "chat": 135,
+        "chat": 136,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6175,7 +6178,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-21T09:11:03Z"
+      "lastUpdated": "2025-09-21T09:24:13Z"
     },
     "otocar": {
       "counters": {
@@ -6287,7 +6290,7 @@
       "lastUpdated": "2025-09-21T08:13:02Z"
     }
   },
-  "lastUpdated": "2025-09-21T08:24:11Z",
+  "lastUpdated": "2025-09-21T08:28:32Z",
   "totalUsers": 290,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
