@@ -1515,7 +1515,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 245,
+        "chat": 246,
         "points_spent": 9300,
         "effects": 9,
         "follow": 1,
@@ -1550,7 +1550,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-20T15:18:37Z"
+      "lastUpdated": "2025-09-21T09:28:32Z"
     },
     "ramdon101": {
       "counters": {
@@ -1746,7 +1746,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 248,
+        "chat": 249,
         "points_spent": 6951,
         "interactive": 1,
         "effects": 9,
@@ -1780,7 +1780,7 @@
         "chat_frequent",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-21T09:26:51Z"
+      "lastUpdated": "2025-09-21T09:28:46Z"
     },
     "tawmae": {
       "counters": {
@@ -2073,8 +2073,8 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 750,
-        "points_spent": 9850,
+        "chat": 752,
+        "points_spent": 10350,
         "effects": 18,
         "sounds": 2
       },
@@ -2093,9 +2093,10 @@
         "night_owl",
         "effect_collector",
         "sound_first",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-09-21T09:28:31Z"
+      "lastUpdated": "2025-09-21T09:29:20Z"
     },
     "spoono__": {
       "counters": {
@@ -2976,7 +2977,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 786,
+        "chat": 787,
         "sub": 42,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3016,7 +3017,7 @@
         "gift_bombs_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-21T09:28:11Z"
+      "lastUpdated": "2025-09-21T09:28:39Z"
     },
     "majesty81": {
       "counters": {
@@ -6290,7 +6291,7 @@
       "lastUpdated": "2025-09-21T08:13:02Z"
     }
   },
-  "lastUpdated": "2025-09-21T08:28:32Z",
+  "lastUpdated": "2025-09-21T08:29:21Z",
   "totalUsers": 290,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
