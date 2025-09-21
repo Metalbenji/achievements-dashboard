@@ -1746,7 +1746,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 253,
+        "chat": 255,
         "points_spent": 7751,
         "interactive": 1,
         "effects": 10,
@@ -1781,7 +1781,7 @@
         "clip_first",
         "effect_collector"
       ],
-      "lastUpdated": "2025-09-21T09:42:36Z"
+      "lastUpdated": "2025-09-21T09:44:33Z"
     },
     "tawmae": {
       "counters": {
@@ -2230,7 +2230,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1344,
+        "chat": 1345,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2295,7 +2295,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-21T09:42:37Z"
+      "lastUpdated": "2025-09-21T09:44:36Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4795,7 +4795,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 545,
+        "chat": 547,
         "points_spent": 19250,
         "effects": 4,
         "sounds": 7,
@@ -4831,7 +4831,7 @@
         "sub_elite",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-21T09:43:04Z"
+      "lastUpdated": "2025-09-21T09:44:36Z"
     },
     "jamie1496": {
       "counters": {
@@ -6293,15 +6293,17 @@
     },
     "xhairbait": {
       "counters": {
-        "chat": 1
+        "chat": 3,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-09-21T09:43:09Z"
+      "lastUpdated": "2025-09-21T09:44:44Z"
     }
   },
-  "lastUpdated": "2025-09-21T08:43:10Z",
+  "lastUpdated": "2025-09-21T08:44:45Z",
   "totalUsers": 291,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
