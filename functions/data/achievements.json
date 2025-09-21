@@ -4417,16 +4417,17 @@
         "effects": 5,
         "sounds": 1,
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "effect_first",
         "spender_bronze",
         "sound_first",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-21T11:50:27Z"
+      "lastUpdated": "2025-09-21T11:52:37Z"
     },
     "azeroth1620": {
       "counters": {
@@ -4800,7 +4801,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 587,
+        "chat": 589,
         "points_spent": 19750,
         "effects": 4,
         "sounds": 8,
@@ -4836,7 +4837,7 @@
         "sub_elite",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-21T11:49:32Z"
+      "lastUpdated": "2025-09-21T11:52:03Z"
     },
     "jamie1496": {
       "counters": {
@@ -6328,7 +6329,7 @@
       "lastUpdated": "2025-09-21T11:51:47Z"
     }
   },
-  "lastUpdated": "2025-09-21T10:51:48Z",
+  "lastUpdated": "2025-09-21T10:52:38Z",
   "totalUsers": 293,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
