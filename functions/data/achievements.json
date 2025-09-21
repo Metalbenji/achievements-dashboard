@@ -3183,7 +3183,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 123,
+        "chat": 129,
         "follow": 1,
         "points_spent": 3000,
         "sounds": 1,
@@ -3204,7 +3204,7 @@
         "interactive_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-20T15:31:46Z"
+      "lastUpdated": "2025-09-21T08:11:59Z"
     },
     "sprockettrap": {
       "counters": {
@@ -5933,7 +5933,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 25
+        "chat": 27
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5941,7 +5941,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-21T07:53:41Z"
+      "lastUpdated": "2025-09-21T08:12:09Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6272,10 +6272,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-09-20T18:10:38Z"
+    },
+    "metalafterdark": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-21T08:13:01Z"
     }
   },
-  "lastUpdated": "2025-09-21T06:53:42Z",
-  "totalUsers": 289,
+  "lastUpdated": "2025-09-21T07:13:02Z",
+  "totalUsers": 290,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
