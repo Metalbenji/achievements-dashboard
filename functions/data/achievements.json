@@ -1554,7 +1554,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1456,
+        "chat": 1458,
         "points_spent": 87550,
         "screenshot": 1,
         "follow": 1,
@@ -1616,7 +1616,7 @@
         "gift_bombs_veteran",
         "spender_gold"
       ],
-      "lastUpdated": "2025-09-20T17:59:07Z"
+      "lastUpdated": "2025-09-21T09:20:34Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1746,7 +1746,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 235,
+        "chat": 244,
         "points_spent": 6451,
         "interactive": 1,
         "effects": 8,
@@ -1780,7 +1780,7 @@
         "chat_frequent",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-20T18:13:58Z"
+      "lastUpdated": "2025-09-21T09:23:03Z"
     },
     "tawmae": {
       "counters": {
@@ -2227,7 +2227,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1327,
+        "chat": 1339,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2292,7 +2292,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-20T11:04:05Z"
+      "lastUpdated": "2025-09-21T09:23:00Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2746,7 +2746,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 419,
+        "chat": 424,
         "points_spent": 13051,
         "sounds": 1,
         "effects": 28,
@@ -2815,7 +2815,7 @@
         "screenshot_first",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-20T15:00:46Z"
+      "lastUpdated": "2025-09-21T09:23:32Z"
     },
     "andilippi": {
       "counters": {
@@ -2975,7 +2975,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 778,
+        "chat": 779,
         "sub": 42,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3015,7 +3015,7 @@
         "gift_bombs_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-20T17:25:45Z"
+      "lastUpdated": "2025-09-21T09:11:56Z"
     },
     "majesty81": {
       "counters": {
@@ -3411,8 +3411,8 @@
       "counters": {
         "sub": 42,
         "follow": 1,
-        "chat": 187,
-        "points_spent": 350,
+        "chat": 188,
+        "points_spent": 20350,
         "effects": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 45,
@@ -3447,9 +3447,10 @@
         "gift_bomb_30",
         "gift_bomb_40",
         "gift_bombs_first",
-        "chat_regular"
+        "chat_regular",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-09-20T16:49:48Z"
+      "lastUpdated": "2025-09-21T09:24:09Z"
     },
     "camm_23": {
       "counters": {
@@ -5933,7 +5934,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 27
+        "chat": 32
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5941,7 +5942,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-21T08:12:09Z"
+      "lastUpdated": "2025-09-21T09:20:38Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6142,9 +6143,9 @@
     },
     "hm_pete": {
       "counters": {
-        "points_spent": 21217,
+        "points_spent": 21218,
         "special_rewards": 1,
-        "chat": 134,
+        "chat": 135,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6173,7 +6174,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-20T18:17:03Z"
+      "lastUpdated": "2025-09-21T09:11:03Z"
     },
     "otocar": {
       "counters": {
@@ -6275,15 +6276,17 @@
     },
     "metalafterdark": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-21T08:13:01Z"
+      "lastUpdated": "2025-09-21T08:13:02Z"
     }
   },
-  "lastUpdated": "2025-09-21T07:13:02Z",
+  "lastUpdated": "2025-09-21T08:24:10Z",
   "totalUsers": 290,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
