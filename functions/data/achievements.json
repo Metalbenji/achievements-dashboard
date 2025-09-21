@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 220,
+        "chat": 224,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1346,7 +1346,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-21T09:50:38Z"
+      "lastUpdated": "2025-09-21T10:53:59Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1395,7 +1395,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1231,
+        "chat": 1232,
         "points_spent": 14800,
         "effects": 8,
         "sub": 8,
@@ -1443,7 +1443,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-20T18:12:24Z"
+      "lastUpdated": "2025-09-21T10:24:21Z"
     },
     "celran": {
       "counters": {
@@ -1515,7 +1515,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 253,
+        "chat": 254,
         "points_spent": 9300,
         "effects": 9,
         "follow": 1,
@@ -1550,7 +1550,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-21T09:52:05Z"
+      "lastUpdated": "2025-09-21T10:24:02Z"
     },
     "ramdon101": {
       "counters": {
@@ -2121,10 +2121,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 33751,
+        "points_spent": 34551,
         "follow": 1,
-        "chat": 470,
-        "effects": 37,
+        "chat": 472,
+        "effects": 38,
         "screenshot": 1,
         "sounds": 4,
         "bits": 300,
@@ -2176,7 +2176,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-09-20T18:01:48Z"
+      "lastUpdated": "2025-09-21T10:43:38Z"
     },
     "syn__________": {
       "counters": {
@@ -3125,7 +3125,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 69,
+        "chat": 72,
         "points_spent": 801,
         "effects": 2,
         "sounds": 1
@@ -3141,7 +3141,7 @@
         "chat_conversationalist",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-21T09:39:46Z"
+      "lastUpdated": "2025-09-21T10:44:30Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3236,7 +3236,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 444,
+        "chat": 445,
         "points_spent": 4100,
         "effects": 3,
         "interactive": 5
@@ -3256,7 +3256,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-21T10:02:15Z"
+      "lastUpdated": "2025-09-21T10:39:52Z"
     },
     "roffelonator": {
       "counters": {
@@ -4557,16 +4557,17 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 97
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "weekend_warrior",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-09-20T17:16:19Z"
+      "lastUpdated": "2025-09-21T10:55:28Z"
     },
     "dinshara": {
       "counters": {
@@ -4795,10 +4796,10 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 562,
-        "points_spent": 19250,
+        "chat": 574,
+        "points_spent": 19750,
         "effects": 4,
-        "sounds": 7,
+        "sounds": 8,
         "interactive": 8,
         "sub": 30,
         "clips": 1
@@ -4831,7 +4832,7 @@
         "sub_elite",
         "clip_first"
       ],
-      "lastUpdated": "2025-09-21T10:08:30Z"
+      "lastUpdated": "2025-09-21T10:55:00Z"
     },
     "jamie1496": {
       "counters": {
@@ -5045,7 +5046,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 170,
+        "chat": 171,
         "sub": 10
       },
       "unlockedAchievements": [
@@ -5064,7 +5065,7 @@
         "sub_champion",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-20T17:16:50Z"
+      "lastUpdated": "2025-09-21T10:51:30Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5940,7 +5941,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 36
+        "chat": 38
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5948,7 +5949,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-21T10:02:21Z"
+      "lastUpdated": "2025-09-21T10:47:21Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6151,7 +6152,7 @@
       "counters": {
         "points_spent": 21218,
         "special_rewards": 1,
-        "chat": 136,
+        "chat": 137,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6180,7 +6181,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-21T09:24:13Z"
+      "lastUpdated": "2025-09-21T10:40:00Z"
     },
     "otocar": {
       "counters": {
@@ -6314,7 +6315,7 @@
       "lastUpdated": "2025-09-21T10:16:16Z"
     }
   },
-  "lastUpdated": "2025-09-21T09:16:16Z",
+  "lastUpdated": "2025-09-21T09:55:28Z",
   "totalUsers": 292,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
