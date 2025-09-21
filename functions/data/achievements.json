@@ -1747,9 +1747,9 @@
       "counters": {
         "follow": 1,
         "chat": 249,
-        "points_spent": 6951,
+        "points_spent": 7751,
         "interactive": 1,
-        "effects": 9,
+        "effects": 10,
         "sub": 24,
         "clips": 1
       },
@@ -1778,9 +1778,10 @@
         "sub_diamond",
         "first_caller",
         "chat_frequent",
-        "clip_first"
+        "clip_first",
+        "effect_collector"
       ],
-      "lastUpdated": "2025-09-21T09:28:46Z"
+      "lastUpdated": "2025-09-21T09:29:27Z"
     },
     "tawmae": {
       "counters": {
@@ -2073,9 +2074,9 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 752,
+        "chat": 753,
         "points_spent": 10350,
-        "effects": 18,
+        "effects": 19,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -2096,7 +2097,7 @@
         "chat_enthusiast",
         "spender_silver"
       ],
-      "lastUpdated": "2025-09-21T09:29:20Z"
+      "lastUpdated": "2025-09-21T09:29:25Z"
     },
     "spoono__": {
       "counters": {
@@ -6291,7 +6292,7 @@
       "lastUpdated": "2025-09-21T08:13:02Z"
     }
   },
-  "lastUpdated": "2025-09-21T08:29:21Z",
+  "lastUpdated": "2025-09-21T08:29:27Z",
   "totalUsers": 290,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
