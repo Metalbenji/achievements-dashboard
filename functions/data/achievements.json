@@ -4419,7 +4419,7 @@
         "effects": 5,
         "sounds": 1,
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "effect_first",
@@ -4427,9 +4427,10 @@
         "sound_first",
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-21T11:52:37Z"
+      "lastUpdated": "2025-09-21T12:44:50Z"
     },
     "azeroth1620": {
       "counters": {
@@ -6331,7 +6332,7 @@
       "lastUpdated": "2025-09-21T11:53:42Z"
     }
   },
-  "lastUpdated": "2025-09-21T11:42:25Z",
+  "lastUpdated": "2025-09-21T11:44:51Z",
   "totalUsers": 293,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
