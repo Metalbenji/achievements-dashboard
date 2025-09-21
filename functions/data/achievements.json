@@ -2683,7 +2683,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 201,
         "bits": 15,
         "sub": 13,
         "points_spent": 1
@@ -2709,7 +2709,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-21T14:50:43Z"
+      "lastUpdated": "2025-09-21T14:51:15Z"
     },
     "chevelletv": {
       "counters": {
@@ -6331,10 +6331,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-09-21T11:53:42Z"
+    },
+    "ardracon": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-21T14:52:35Z"
     }
   },
-  "lastUpdated": "2025-09-21T13:50:44Z",
-  "totalUsers": 293,
+  "lastUpdated": "2025-09-21T13:52:35Z",
+  "totalUsers": 294,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
