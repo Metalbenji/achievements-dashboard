@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 229,
+        "chat": 230,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1346,7 +1346,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-21T11:48:45Z"
+      "lastUpdated": "2025-09-21T11:49:58Z"
     },
     "itzsilvah": {
       "counters": {
@@ -4065,7 +4065,7 @@
       "counters": {
         "sub": 40,
         "follow": 1,
-        "chat": 81,
+        "chat": 86,
         "points_spent": 500,
         "sounds": 1
       },
@@ -4090,7 +4090,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-09-21T11:49:35Z"
+      "lastUpdated": "2025-09-21T11:51:46Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4416,15 +4416,17 @@
         "points_spent": 4200,
         "effects": 5,
         "sounds": 1,
-        "follow": 1
+        "follow": 1,
+        "chat": 3
       },
       "unlockedAchievements": [
         "effect_first",
         "spender_bronze",
         "sound_first",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-21T11:49:36Z"
+      "lastUpdated": "2025-09-21T11:50:27Z"
     },
     "azeroth1620": {
       "counters": {
@@ -6315,10 +6317,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-09-21T10:16:16Z"
+    },
+    "notyusitoo": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-09-21T11:51:47Z"
     }
   },
-  "lastUpdated": "2025-09-21T10:49:37Z",
-  "totalUsers": 292,
+  "lastUpdated": "2025-09-21T10:51:48Z",
+  "totalUsers": 293,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
