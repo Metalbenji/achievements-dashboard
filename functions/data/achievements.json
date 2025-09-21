@@ -1835,7 +1835,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10,
@@ -1858,9 +1858,10 @@
         "sub_supporter",
         "sub_loyal",
         "sub_dedicated",
-        "sub_committed"
+        "sub_committed",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-09-20T16:25:07Z"
+      "lastUpdated": "2025-09-21T12:42:25Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2370,10 +2371,10 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 488,
+        "chat": 490,
         "points_spent": 101,
         "sounds": 1,
-        "sub": 23
+        "sub": 24
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2396,9 +2397,10 @@
         "sub_platinum",
         "sub_tier3",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "sub_diamond"
       ],
-      "lastUpdated": "2025-09-20T15:07:30Z"
+      "lastUpdated": "2025-09-21T12:38:37Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4562,7 +4564,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 110
+        "chat": 111
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4572,7 +4574,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-21T11:19:34Z"
+      "lastUpdated": "2025-09-21T12:39:16Z"
     },
     "dinshara": {
       "counters": {
@@ -6157,7 +6159,7 @@
       "counters": {
         "points_spent": 21218,
         "special_rewards": 1,
-        "chat": 149,
+        "chat": 150,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6186,7 +6188,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-21T12:29:07Z"
+      "lastUpdated": "2025-09-21T12:35:22Z"
     },
     "otocar": {
       "counters": {
@@ -6329,7 +6331,7 @@
       "lastUpdated": "2025-09-21T11:53:42Z"
     }
   },
-  "lastUpdated": "2025-09-21T11:33:56Z",
+  "lastUpdated": "2025-09-21T11:42:25Z",
   "totalUsers": 293,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
