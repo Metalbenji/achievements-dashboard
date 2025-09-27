@@ -1623,7 +1623,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1079,
+        "chat": 1080,
         "points_spent": 45200,
         "interactive": 23,
         "follow": 1,
@@ -1666,7 +1666,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-27T15:10:44Z"
+      "lastUpdated": "2025-09-27T15:43:29Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1818,7 +1818,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 50
+        "chat": 54
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1827,7 +1827,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-27T15:36:43Z"
+      "lastUpdated": "2025-09-27T15:42:41Z"
     },
     "sealdancer": {
       "counters": {
@@ -2766,7 +2766,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 472,
+        "chat": 473,
         "points_spent": 15051,
         "sounds": 2,
         "effects": 31,
@@ -2835,7 +2835,7 @@
         "screenshot_first",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-27T15:17:24Z"
+      "lastUpdated": "2025-09-27T15:39:38Z"
     },
     "andilippi": {
       "counters": {
@@ -4283,7 +4283,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 224,
+        "chat": 232,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4298,7 +4298,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T15:37:51Z"
+      "lastUpdated": "2025-09-27T15:42:57Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5118,7 +5118,7 @@
         "follow": 1,
         "chat": 19,
         "gift_subs": 1,
-        "points_spent": 9200,
+        "points_spent": 11200,
         "effects": 3
       },
       "unlockedAchievements": [
@@ -5129,9 +5129,10 @@
         "chat_talker",
         "effect_first",
         "spender_bronze",
-        "vip_dreamer"
+        "vip_dreamer",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-09-27T09:55:33Z"
+      "lastUpdated": "2025-09-27T15:43:43Z"
     },
     "codewithtd": {
       "counters": {
@@ -5275,7 +5276,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 634,
+        "chat": 637,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5316,7 +5317,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T15:33:37Z"
+      "lastUpdated": "2025-09-27T15:39:22Z"
     },
     "blackrobe1": {
       "counters": {
@@ -6426,7 +6427,7 @@
       "lastUpdated": "2025-09-27T15:16:54Z"
     }
   },
-  "lastUpdated": "2025-09-27T14:37:52Z",
+  "lastUpdated": "2025-09-27T14:43:45Z",
   "totalUsers": 299,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
