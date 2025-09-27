@@ -6395,15 +6395,17 @@
     },
     "kornukopian": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-27T14:47:31Z"
+      "lastUpdated": "2025-09-27T14:47:33Z"
     }
   },
-  "lastUpdated": "2025-09-27T13:47:32Z",
+  "lastUpdated": "2025-09-27T13:47:34Z",
   "totalUsers": 297,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
