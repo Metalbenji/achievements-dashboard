@@ -1704,7 +1704,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 117,
+        "chat": 118,
         "follow": 1,
         "points_spent": 1250,
         "screenshot": 1
@@ -1720,7 +1720,7 @@
         "chat_regular",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-09-07T12:55:47Z"
+      "lastUpdated": "2025-09-27T09:04:43Z"
     },
     "lottec": {
       "counters": {
@@ -2197,7 +2197,7 @@
       "counters": {
         "follow": 1,
         "chat": 168,
-        "sub": 23,
+        "sub": 24,
         "points_spent": 1250,
         "screenshot": 1,
         "sounds": 1,
@@ -2225,9 +2225,10 @@
         "chat_regular",
         "sound_first",
         "spender_bronze",
-        "effect_first"
+        "effect_first",
+        "sub_diamond"
       ],
-      "lastUpdated": "2025-09-14T17:03:24Z"
+      "lastUpdated": "2025-09-27T09:04:41Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -6347,7 +6348,7 @@
       "lastUpdated": "2025-09-21T14:53:25Z"
     }
   },
-  "lastUpdated": "2025-09-27T08:04:42Z",
+  "lastUpdated": "2025-09-27T08:05:09Z",
   "totalUsers": 294,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
