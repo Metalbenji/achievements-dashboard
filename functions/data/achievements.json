@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 246,
+        "chat": 247,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1,
@@ -1348,7 +1348,7 @@
         "chat_frequent",
         "gift_starter"
       ],
-      "lastUpdated": "2025-09-27T16:13:45Z"
+      "lastUpdated": "2025-09-27T16:15:51Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1919,7 +1919,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 391,
+        "chat": 392,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 25,
@@ -1956,7 +1956,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T16:06:23Z"
+      "lastUpdated": "2025-09-27T16:16:03Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3595,7 +3595,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 95,
+        "chat": 100,
         "points_spent": 5002,
         "sounds": 2,
         "effects": 1
@@ -3609,9 +3609,10 @@
         "spender_bronze",
         "sound_first",
         "birthday_person",
-        "effect_first"
+        "effect_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-09-27T16:03:32Z"
+      "lastUpdated": "2025-09-27T16:18:04Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -6451,7 +6452,7 @@
       "lastUpdated": "2025-09-27T16:14:19Z"
     }
   },
-  "lastUpdated": "2025-09-27T15:14:57Z",
+  "lastUpdated": "2025-09-27T15:18:05Z",
   "totalUsers": 301,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
