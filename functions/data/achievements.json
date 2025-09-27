@@ -1330,7 +1330,8 @@
         "chat": 246,
         "follow": 1,
         "points_spent": 20000,
-        "sounds": 1
+        "sounds": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1344,9 +1345,10 @@
         "spender_bronze",
         "spender_silver",
         "sound_first",
-        "chat_frequent"
+        "chat_frequent",
+        "gift_starter"
       ],
-      "lastUpdated": "2025-09-27T16:13:06Z"
+      "lastUpdated": "2025-09-27T16:13:45Z"
     },
     "itzsilvah": {
       "counters": {
@@ -4283,7 +4285,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 237,
+        "chat": 238,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4298,7 +4300,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T16:13:10Z"
+      "lastUpdated": "2025-09-27T16:14:03Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6434,10 +6436,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-09-27T16:09:36Z"
+    },
+    "marmite24": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-09-27T16:14:18Z"
     }
   },
-  "lastUpdated": "2025-09-27T15:13:47Z",
-  "totalUsers": 300,
+  "lastUpdated": "2025-09-27T15:14:18Z",
+  "totalUsers": 301,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
