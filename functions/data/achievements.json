@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 243,
+        "chat": 246,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1
@@ -1346,7 +1346,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T16:09:32Z"
+      "lastUpdated": "2025-09-27T16:13:06Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2385,7 +2385,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 523,
+        "chat": 524,
         "points_spent": 101,
         "sounds": 1,
         "sub": 24
@@ -2414,7 +2414,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-27T16:08:03Z"
+      "lastUpdated": "2025-09-27T16:10:46Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4283,7 +4283,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 235,
+        "chat": 237,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4298,7 +4298,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T16:04:30Z"
+      "lastUpdated": "2025-09-27T16:13:10Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5276,7 +5276,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 639,
+        "chat": 640,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5317,7 +5317,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T16:08:09Z"
+      "lastUpdated": "2025-09-27T16:10:05Z"
     },
     "blackrobe1": {
       "counters": {
@@ -6436,7 +6436,7 @@
       "lastUpdated": "2025-09-27T16:09:36Z"
     }
   },
-  "lastUpdated": "2025-09-27T15:09:37Z",
+  "lastUpdated": "2025-09-27T15:13:47Z",
   "totalUsers": 300,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
