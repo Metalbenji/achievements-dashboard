@@ -2614,7 +2614,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 402,
+        "chat": 404,
         "sub": 41,
         "points_spent": 20000,
         "sounds": 1
@@ -2647,7 +2647,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T12:04:42Z"
+      "lastUpdated": "2025-09-27T12:05:39Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3947,7 +3947,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 80
+        "chat": 81
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3958,7 +3958,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-27T12:04:15Z"
+      "lastUpdated": "2025-09-27T12:05:38Z"
     },
     "xykojen": {
       "counters": {
@@ -5875,13 +5875,15 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 9
+        "chat": 9,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-09-27T12:05:21Z"
+      "lastUpdated": "2025-09-27T12:05:43Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6378,7 +6380,7 @@
       "lastUpdated": "2025-09-27T12:03:00Z"
     }
   },
-  "lastUpdated": "2025-09-27T11:05:32Z",
+  "lastUpdated": "2025-09-27T11:05:43Z",
   "totalUsers": 295,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
