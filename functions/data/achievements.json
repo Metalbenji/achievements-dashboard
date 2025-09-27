@@ -1458,7 +1458,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 271,
+        "chat": 300,
         "points_spent": 11401,
         "screenshot": 1,
         "effects": 2,
@@ -1486,9 +1486,10 @@
         "chat_regular",
         "interactive_regular",
         "chat_frequent",
-        "spender_silver"
+        "spender_silver",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T10:35:35Z"
+      "lastUpdated": "2025-09-27T10:42:16Z"
     },
     "dmustain": {
       "counters": {
@@ -1515,7 +1516,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 281,
+        "chat": 283,
         "points_spent": 9300,
         "effects": 9,
         "follow": 1,
@@ -1550,11 +1551,11 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T10:33:12Z"
+      "lastUpdated": "2025-09-27T10:40:41Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 1513,
+        "chat": 1514,
         "points_spent": 87551,
         "screenshot": 1,
         "follow": 1,
@@ -1618,7 +1619,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-09-27T10:24:08Z"
+      "lastUpdated": "2025-09-27T10:38:10Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1817,7 +1818,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 46
+        "chat": 48
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1826,7 +1827,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-27T10:01:31Z"
+      "lastUpdated": "2025-09-27T10:39:15Z"
     },
     "sealdancer": {
       "counters": {
@@ -2613,7 +2614,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 368,
+        "chat": 378,
         "sub": 41,
         "points_spent": 20000,
         "sounds": 1
@@ -2646,7 +2647,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T10:35:46Z"
+      "lastUpdated": "2025-09-27T10:42:16Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2765,7 +2766,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 447,
+        "chat": 449,
         "points_spent": 15051,
         "sounds": 2,
         "effects": 31,
@@ -2834,7 +2835,7 @@
         "screenshot_first",
         "birthday_person"
       ],
-      "lastUpdated": "2025-09-27T09:58:35Z"
+      "lastUpdated": "2025-09-27T10:40:42Z"
     },
     "andilippi": {
       "counters": {
@@ -2995,7 +2996,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 880,
+        "chat": 886,
         "sub": 42,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3035,7 +3036,7 @@
         "gift_bombs_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-09-27T10:36:01Z"
+      "lastUpdated": "2025-09-27T10:40:41Z"
     },
     "majesty81": {
       "counters": {
@@ -5860,7 +5861,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5868,7 +5869,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-27T10:26:06Z"
+      "lastUpdated": "2025-09-27T10:40:55Z"
     },
     "grimlocc": {
       "counters": {
@@ -5966,7 +5967,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 70
+        "chat": 71
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5975,7 +5976,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-09-27T10:21:24Z"
+      "lastUpdated": "2025-09-27T10:36:24Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6361,7 +6362,7 @@
       "lastUpdated": "2025-09-27T09:25:15Z"
     }
   },
-  "lastUpdated": "2025-09-27T09:36:15Z",
+  "lastUpdated": "2025-09-27T09:42:17Z",
   "totalUsers": 294,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
