@@ -1623,9 +1623,9 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1047,
-        "points_spent": 44700,
-        "interactive": 22,
+        "chat": 1052,
+        "points_spent": 45200,
+        "interactive": 23,
         "follow": 1,
         "sub": 33,
         "effects": 6,
@@ -1666,7 +1666,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-27T11:57:33Z"
+      "lastUpdated": "2025-09-27T12:03:19Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2614,7 +2614,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 393,
+        "chat": 402,
         "sub": 41,
         "points_spent": 20000,
         "sounds": 1
@@ -2647,7 +2647,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T10:55:18Z"
+      "lastUpdated": "2025-09-27T12:04:42Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3947,7 +3947,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 72
+        "chat": 80
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3958,7 +3958,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-27T11:56:29Z"
+      "lastUpdated": "2025-09-27T12:04:15Z"
     },
     "xykojen": {
       "counters": {
@@ -5071,7 +5071,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 198,
+        "chat": 200,
         "sub": 10
       },
       "unlockedAchievements": [
@@ -5088,9 +5088,10 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T11:51:11Z"
+      "lastUpdated": "2025-09-27T12:05:30Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5874,13 +5875,13 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 8
+        "chat": 9
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-06T10:37:23Z"
+      "lastUpdated": "2025-09-27T12:05:21Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6366,7 +6367,7 @@
     "justbaconthings": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 19
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6374,10 +6375,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-27T11:57:47Z"
+      "lastUpdated": "2025-09-27T12:03:00Z"
     }
   },
-  "lastUpdated": "2025-09-27T10:57:48Z",
+  "lastUpdated": "2025-09-27T11:05:32Z",
   "totalUsers": 295,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
