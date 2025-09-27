@@ -1623,7 +1623,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1076,
+        "chat": 1077,
         "points_spent": 45200,
         "interactive": 23,
         "follow": 1,
@@ -1666,7 +1666,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-27T14:46:52Z"
+      "lastUpdated": "2025-09-27T14:53:43Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2245,7 +2245,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1381,
+        "chat": 1383,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2310,7 +2310,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-09-27T14:44:09Z"
+      "lastUpdated": "2025-09-27T14:54:59Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2896,7 +2896,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 558,
+        "chat": 573,
         "points_spent": 4000,
         "sounds": 2
       },
@@ -2913,7 +2913,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T14:50:05Z"
+      "lastUpdated": "2025-09-27T14:55:12Z"
     },
     "maximusis_": {
       "counters": {
@@ -5071,7 +5071,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 213,
+        "chat": 214,
         "sub": 10
       },
       "unlockedAchievements": [
@@ -5091,7 +5091,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T14:34:06Z"
+      "lastUpdated": "2025-09-27T14:53:32Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5973,7 +5973,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 89
+        "chat": 90
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5982,7 +5982,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-09-27T14:36:24Z"
+      "lastUpdated": "2025-09-27T14:51:24Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6396,17 +6396,18 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-27T14:50:22Z"
+      "lastUpdated": "2025-09-27T14:55:20Z"
     }
   },
-  "lastUpdated": "2025-09-27T13:50:22Z",
+  "lastUpdated": "2025-09-27T13:55:21Z",
   "totalUsers": 297,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
