@@ -2139,7 +2139,7 @@
       "counters": {
         "points_spent": 37251,
         "follow": 1,
-        "chat": 493,
+        "chat": 494,
         "effects": 42,
         "screenshot": 1,
         "sounds": 4,
@@ -2192,7 +2192,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-09-28T09:00:44Z"
+      "lastUpdated": "2025-09-28T09:01:01Z"
     },
     "syn__________": {
       "counters": {
@@ -3511,7 +3511,7 @@
       "counters": {
         "sub": 32,
         "follow": 1,
-        "chat": 103,
+        "chat": 105,
         "points_spent": 1000,
         "effects": 1
       },
@@ -3536,7 +3536,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-28T09:00:21Z"
+      "lastUpdated": "2025-09-28T09:01:31Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -6468,15 +6468,17 @@
     },
     "theysang": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-28T09:00:55Z"
+      "lastUpdated": "2025-09-28T09:01:47Z"
     }
   },
-  "lastUpdated": "2025-09-28T08:00:56Z",
+  "lastUpdated": "2025-09-28T08:01:48Z",
   "totalUsers": 303,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
