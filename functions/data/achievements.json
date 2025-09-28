@@ -6511,16 +6511,19 @@
     "ecl1_pse2": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 1,
+        "points_spent": 100,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "effect_first"
       ],
-      "lastUpdated": "2025-09-28T17:33:47Z"
+      "lastUpdated": "2025-09-28T17:34:39Z"
     }
   },
-  "lastUpdated": "2025-09-28T16:33:48Z",
+  "lastUpdated": "2025-09-28T16:34:40Z",
   "totalUsers": 305,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
