@@ -1919,7 +1919,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 395,
+        "chat": 396,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 25,
@@ -1956,7 +1956,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T16:41:35Z"
+      "lastUpdated": "2025-09-27T17:04:46Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2387,7 +2387,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 526,
+        "chat": 527,
         "points_spent": 101,
         "sounds": 1,
         "sub": 24
@@ -2416,7 +2416,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-27T16:22:46Z"
+      "lastUpdated": "2025-09-27T17:04:13Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4286,7 +4286,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 244,
+        "chat": 245,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4301,7 +4301,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-27T16:29:48Z"
+      "lastUpdated": "2025-09-27T17:04:27Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4795,8 +4795,8 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 617,
-        "points_spent": 26150,
+        "chat": 620,
+        "points_spent": 26151,
         "effects": 4,
         "sounds": 11,
         "interactive": 9,
@@ -4829,9 +4829,10 @@
         "sub_platinum",
         "sub_diamond",
         "sub_elite",
-        "clip_first"
+        "clip_first",
+        "first_caller"
       ],
-      "lastUpdated": "2025-09-27T14:02:12Z"
+      "lastUpdated": "2025-09-28T08:42:10Z"
     },
     "jamie1496": {
       "counters": {
@@ -5949,7 +5950,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 97
+        "chat": 98
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5958,7 +5959,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-09-27T16:36:24Z"
+      "lastUpdated": "2025-09-27T17:06:24Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6453,7 +6454,7 @@
       "lastUpdated": "2025-09-27T17:03:54Z"
     }
   },
-  "lastUpdated": "2025-09-27T16:03:54Z",
+  "lastUpdated": "2025-09-28T07:42:11Z",
   "totalUsers": 301,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
