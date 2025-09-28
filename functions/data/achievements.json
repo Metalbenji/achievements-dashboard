@@ -2139,7 +2139,7 @@
       "counters": {
         "points_spent": 37251,
         "follow": 1,
-        "chat": 496,
+        "chat": 497,
         "effects": 42,
         "screenshot": 1,
         "sounds": 4,
@@ -2192,7 +2192,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-09-28T09:25:06Z"
+      "lastUpdated": "2025-09-28T10:03:40Z"
     },
     "syn__________": {
       "counters": {
@@ -3080,7 +3080,7 @@
     "conkek": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 21
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3088,7 +3088,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-07T15:55:06Z"
+      "lastUpdated": "2025-09-28T10:04:10Z"
     },
     "mrmeanor_": {
       "counters": {
@@ -6349,14 +6349,15 @@
     "ardracon": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-28T09:34:02Z"
+      "lastUpdated": "2025-09-28T10:04:53Z"
     },
     "justbaconthings": {
       "counters": {
@@ -6490,15 +6491,15 @@
     },
     "sey10says": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-28T10:00:58Z"
+      "lastUpdated": "2025-09-28T10:01:45Z"
     }
   },
-  "lastUpdated": "2025-09-28T09:00:59Z",
+  "lastUpdated": "2025-09-28T09:04:54Z",
   "totalUsers": 304,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
