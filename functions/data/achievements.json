@@ -2389,7 +2389,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 600,
+        "chat": 602,
         "points_spent": 101,
         "sounds": 1,
         "sub": 24
@@ -2418,7 +2418,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-28T18:23:42Z"
+      "lastUpdated": "2025-09-28T18:27:29Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -6526,15 +6526,16 @@
     },
     "captchipmunk51": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-28T18:24:10Z"
+      "lastUpdated": "2025-09-28T18:28:32Z"
     }
   },
-  "lastUpdated": "2025-09-28T17:24:11Z",
+  "lastUpdated": "2025-09-28T17:28:33Z",
   "totalUsers": 306,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
