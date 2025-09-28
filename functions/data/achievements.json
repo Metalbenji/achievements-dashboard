@@ -1820,7 +1820,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 55
+        "chat": 57
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1829,7 +1829,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-27T16:31:03Z"
+      "lastUpdated": "2025-09-28T09:04:04Z"
     },
     "sealdancer": {
       "counters": {
@@ -3291,7 +3291,7 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 11,
+        "chat": 15,
         "points_spent": 100,
         "sounds": 1
       },
@@ -3302,7 +3302,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T10:18:00Z"
+      "lastUpdated": "2025-09-28T09:06:21Z"
     },
     "domtok1": {
       "counters": {
@@ -3511,7 +3511,7 @@
       "counters": {
         "sub": 32,
         "follow": 1,
-        "chat": 105,
+        "chat": 108,
         "points_spent": 1000,
         "effects": 1
       },
@@ -3536,7 +3536,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-28T09:01:31Z"
+      "lastUpdated": "2025-09-28T09:07:25Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -4087,7 +4087,7 @@
       "counters": {
         "sub": 40,
         "follow": 1,
-        "chat": 93,
+        "chat": 94,
         "points_spent": 500,
         "sounds": 1
       },
@@ -4112,7 +4112,7 @@
         "chat_conversationalist",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-09-28T09:00:36Z"
+      "lastUpdated": "2025-09-28T09:02:23Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4796,7 +4796,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 633,
+        "chat": 634,
         "points_spent": 26151,
         "effects": 4,
         "sounds": 11,
@@ -4833,7 +4833,7 @@
         "clip_first",
         "first_caller"
       ],
-      "lastUpdated": "2025-09-28T08:49:29Z"
+      "lastUpdated": "2025-09-28T09:07:32Z"
     },
     "jamie1496": {
       "counters": {
@@ -5951,16 +5951,17 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 99
+        "chat": 100
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "night_owl"
+        "night_owl",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-09-28T08:53:05Z"
+      "lastUpdated": "2025-09-28T09:08:05Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6469,16 +6470,16 @@
     "theysang": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-09-28T09:01:47Z"
+      "lastUpdated": "2025-09-28T09:01:59Z"
     }
   },
-  "lastUpdated": "2025-09-28T08:01:48Z",
+  "lastUpdated": "2025-09-28T08:08:06Z",
   "totalUsers": 303,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
