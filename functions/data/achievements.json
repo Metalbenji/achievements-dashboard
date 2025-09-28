@@ -2983,7 +2983,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 43
+        "chat": 50
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2993,7 +2993,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-21T17:59:14Z"
+      "lastUpdated": "2025-09-28T09:12:20Z"
     },
     "awildbubbles": {
       "counters": {
@@ -3511,7 +3511,7 @@
       "counters": {
         "sub": 32,
         "follow": 1,
-        "chat": 108,
+        "chat": 114,
         "points_spent": 1000,
         "effects": 1
       },
@@ -3536,7 +3536,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-28T09:07:25Z"
+      "lastUpdated": "2025-09-28T09:13:24Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -4796,7 +4796,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 634,
+        "chat": 635,
         "points_spent": 26151,
         "effects": 4,
         "sounds": 11,
@@ -4833,7 +4833,7 @@
         "clip_first",
         "first_caller"
       ],
-      "lastUpdated": "2025-09-28T09:07:32Z"
+      "lastUpdated": "2025-09-28T09:08:29Z"
     },
     "jamie1496": {
       "counters": {
@@ -6479,7 +6479,7 @@
       "lastUpdated": "2025-09-28T09:01:59Z"
     }
   },
-  "lastUpdated": "2025-09-28T08:08:06Z",
+  "lastUpdated": "2025-09-28T08:13:39Z",
   "totalUsers": 303,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
