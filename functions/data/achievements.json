@@ -6512,18 +6512,20 @@
       "counters": {
         "follow": 1,
         "chat": 1,
-        "points_spent": 100,
-        "effects": 1
+        "points_spent": 200,
+        "effects": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "effect_first"
+        "effect_first",
+        "sound_first"
       ],
-      "lastUpdated": "2025-09-28T17:34:39Z"
+      "lastUpdated": "2025-09-28T17:34:57Z"
     }
   },
-  "lastUpdated": "2025-09-28T16:34:40Z",
+  "lastUpdated": "2025-09-28T16:34:58Z",
   "totalUsers": 305,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
