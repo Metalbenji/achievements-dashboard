@@ -1460,7 +1460,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 314,
+        "chat": 318,
         "points_spent": 11401,
         "screenshot": 1,
         "effects": 2,
@@ -1491,7 +1491,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-27T10:50:29Z"
+      "lastUpdated": "2025-09-28T10:11:22Z"
     },
     "dmustain": {
       "counters": {
@@ -1625,7 +1625,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1080,
+        "chat": 1082,
         "points_spent": 45200,
         "interactive": 23,
         "follow": 1,
@@ -1668,7 +1668,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-09-27T15:43:29Z"
+      "lastUpdated": "2025-09-28T10:10:37Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1761,7 +1761,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 299,
+        "chat": 300,
         "points_spent": 7751,
         "interactive": 1,
         "effects": 10,
@@ -1794,9 +1794,10 @@
         "first_caller",
         "chat_frequent",
         "clip_first",
-        "effect_collector"
+        "effect_collector",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-28T10:07:16Z"
+      "lastUpdated": "2025-09-28T10:13:55Z"
     },
     "tawmae": {
       "counters": {
@@ -1881,7 +1882,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 184,
+        "chat": 187,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1914,7 +1915,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-28T10:07:32Z"
+      "lastUpdated": "2025-09-28T10:12:47Z"
     },
     "adammmidders": {
       "counters": {
@@ -2139,7 +2140,7 @@
       "counters": {
         "points_spent": 37251,
         "follow": 1,
-        "chat": 497,
+        "chat": 499,
         "effects": 42,
         "screenshot": 1,
         "sounds": 4,
@@ -2192,7 +2193,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-09-28T10:03:40Z"
+      "lastUpdated": "2025-09-28T10:13:05Z"
     },
     "syn__________": {
       "counters": {
@@ -2756,7 +2757,7 @@
     "bludshed187": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2764,7 +2765,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-28T10:08:59Z"
+      "lastUpdated": "2025-09-28T10:12:00Z"
     },
     "mistycal_eu": {
       "counters": {
@@ -6500,7 +6501,7 @@
       "lastUpdated": "2025-09-28T10:01:45Z"
     }
   },
-  "lastUpdated": "2025-09-28T09:08:59Z",
+  "lastUpdated": "2025-09-28T09:13:56Z",
   "totalUsers": 304,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
