@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 268,
+        "chat": 269,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1,
@@ -1348,7 +1348,7 @@
         "chat_frequent",
         "gift_starter"
       ],
-      "lastUpdated": "2025-09-28T09:55:40Z"
+      "lastUpdated": "2025-09-28T10:06:25Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1761,7 +1761,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 296,
+        "chat": 299,
         "points_spent": 7751,
         "interactive": 1,
         "effects": 10,
@@ -1796,7 +1796,7 @@
         "clip_first",
         "effect_collector"
       ],
-      "lastUpdated": "2025-09-28T09:59:02Z"
+      "lastUpdated": "2025-09-28T10:07:16Z"
     },
     "tawmae": {
       "counters": {
@@ -1881,7 +1881,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 179,
+        "chat": 184,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1914,7 +1914,7 @@
         "chat_regular",
         "vip_dreamer"
       ],
-      "lastUpdated": "2025-09-28T09:59:29Z"
+      "lastUpdated": "2025-09-28T10:07:32Z"
     },
     "adammmidders": {
       "counters": {
@@ -2756,14 +2756,15 @@
     "bludshed187": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-07T12:45:33Z"
+      "lastUpdated": "2025-09-28T10:08:59Z"
     },
     "mistycal_eu": {
       "counters": {
@@ -5291,7 +5292,7 @@
     "knightmare__eu": {
       "counters": {
         "follow": 1,
-        "chat": 647,
+        "chat": 648,
         "points_spent": 11950,
         "sounds": 8,
         "effects": 4,
@@ -5332,7 +5333,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-28T09:49:57Z"
+      "lastUpdated": "2025-09-28T10:06:55Z"
     },
     "blackrobe1": {
       "counters": {
@@ -5961,7 +5962,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 103
+        "chat": 104
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5971,7 +5972,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-28T09:53:05Z"
+      "lastUpdated": "2025-09-28T10:08:05Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6499,7 +6500,7 @@
       "lastUpdated": "2025-09-28T10:01:45Z"
     }
   },
-  "lastUpdated": "2025-09-28T09:04:54Z",
+  "lastUpdated": "2025-09-28T09:08:59Z",
   "totalUsers": 304,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
