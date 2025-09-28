@@ -2137,10 +2137,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 36501,
+        "points_spent": 37251,
         "follow": 1,
-        "chat": 491,
-        "effects": 41,
+        "chat": 492,
+        "effects": 42,
         "screenshot": 1,
         "sounds": 4,
         "bits": 300,
@@ -2192,7 +2192,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-09-27T16:49:04Z"
+      "lastUpdated": "2025-09-28T08:58:36Z"
     },
     "syn__________": {
       "counters": {
@@ -6456,15 +6456,18 @@
     },
     "vnvqt": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-28T08:57:45Z"
+      "lastUpdated": "2025-09-28T08:58:55Z"
     }
   },
-  "lastUpdated": "2025-09-28T07:57:46Z",
+  "lastUpdated": "2025-09-28T07:58:55Z",
   "totalUsers": 302,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
