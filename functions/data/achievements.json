@@ -1852,7 +1852,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 249,
+        "chat": 251,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10,
@@ -1878,7 +1878,7 @@
         "sub_committed",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-09-28T18:16:24Z"
+      "lastUpdated": "2025-09-28T18:35:48Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2212,7 +2212,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 184,
+        "chat": 189,
         "sub": 24,
         "points_spent": 1250,
         "screenshot": 1,
@@ -2244,7 +2244,7 @@
         "effect_first",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-27T09:54:46Z"
+      "lastUpdated": "2025-09-28T18:37:22Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2389,7 +2389,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 602,
+        "chat": 609,
         "points_spent": 101,
         "sounds": 1,
         "sub": 24
@@ -2418,7 +2418,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-09-28T18:27:29Z"
+      "lastUpdated": "2025-09-28T18:35:29Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3966,7 +3966,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 93
+        "chat": 96
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3977,7 +3977,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-28T16:37:55Z"
+      "lastUpdated": "2025-09-28T18:37:15Z"
     },
     "xykojen": {
       "counters": {
@@ -5966,7 +5966,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 117
+        "chat": 118
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5976,7 +5976,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-28T18:23:06Z"
+      "lastUpdated": "2025-09-28T18:36:27Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6526,16 +6526,16 @@
     },
     "captchipmunk51": {
       "counters": {
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-09-28T18:28:32Z"
+      "lastUpdated": "2025-09-28T18:30:34Z"
     }
   },
-  "lastUpdated": "2025-09-28T17:28:33Z",
+  "lastUpdated": "2025-10-11T12:22:22Z",
   "totalUsers": 306,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
