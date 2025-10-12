@@ -1822,7 +1822,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 63,
+        "chat": 67,
         "sub": 2
       },
       "unlockedAchievements": [
@@ -1835,7 +1835,7 @@
         "sub_first_month",
         "sub_supporter"
       ],
-      "lastUpdated": "2025-10-11T16:49:10Z"
+      "lastUpdated": "2025-10-12T09:31:31Z"
     },
     "sealdancer": {
       "counters": {
@@ -2065,7 +2065,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 449,
+        "chat": 451,
         "points_spent": 18155,
         "interactive": 12,
         "effects": 20,
@@ -2102,7 +2102,7 @@
         "interactive_regular",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-09-28T15:26:24Z"
+      "lastUpdated": "2025-10-12T09:35:57Z"
     },
     "redunt86": {
       "counters": {
@@ -2156,7 +2156,7 @@
       "counters": {
         "points_spent": 40051,
         "follow": 1,
-        "chat": 507,
+        "chat": 509,
         "effects": 46,
         "screenshot": 1,
         "sounds": 4,
@@ -2209,7 +2209,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-10-12T09:10:33Z"
+      "lastUpdated": "2025-10-12T09:27:22Z"
     },
     "syn__________": {
       "counters": {
@@ -2404,7 +2404,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 634,
+        "chat": 639,
         "points_spent": 101,
         "sounds": 1,
         "sub": 24
@@ -2433,7 +2433,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-10-12T09:23:50Z"
+      "lastUpdated": "2025-10-12T09:28:10Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3540,7 +3540,7 @@
       "counters": {
         "sub": 33,
         "follow": 1,
-        "chat": 176,
+        "chat": 178,
         "points_spent": 1000,
         "effects": 1
       },
@@ -3565,7 +3565,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-10-12T09:09:13Z"
+      "lastUpdated": "2025-10-12T09:27:04Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -4868,7 +4868,7 @@
     "jamie1496": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 34,
         "points_spent": 1200,
         "interactive": 3
       },
@@ -4881,7 +4881,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-10-12T09:24:24Z"
+      "lastUpdated": "2025-10-12T09:28:45Z"
     },
     "sophplayswow": {
       "counters": {
@@ -5984,7 +5984,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 127
+        "chat": 128
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5994,7 +5994,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-10-12T09:13:58Z"
+      "lastUpdated": "2025-10-12T09:28:58Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6553,7 +6553,7 @@
       "lastUpdated": "2025-09-28T18:30:34Z"
     }
   },
-  "lastUpdated": "2025-10-12T08:24:25Z",
+  "lastUpdated": "2025-10-12T08:36:07Z",
   "totalUsers": 306,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
