@@ -1460,12 +1460,12 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 322,
-        "points_spent": 11801,
+        "chat": 325,
+        "points_spent": 12201,
         "screenshot": 1,
         "effects": 2,
         "sounds": 1,
-        "interactive": 16,
+        "interactive": 17,
         "special_rewards": 1,
         "follow": 1
       },
@@ -1491,7 +1491,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-10-12T12:01:26Z"
+      "lastUpdated": "2025-10-12T12:11:09Z"
     },
     "dmustain": {
       "counters": {
@@ -1822,8 +1822,9 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 67,
-        "sub": 2
+        "chat": 68,
+        "sub": 2,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1833,9 +1834,10 @@
         "chat_conversationalist",
         "sub_tier1",
         "sub_first_month",
-        "sub_supporter"
+        "sub_supporter",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-10-12T09:31:31Z"
+      "lastUpdated": "2025-10-12T12:11:25Z"
     },
     "sealdancer": {
       "counters": {
@@ -6555,15 +6557,15 @@
     },
     "lister15th": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-10-12T12:10:19Z"
+      "lastUpdated": "2025-10-12T12:10:59Z"
     }
   },
-  "lastUpdated": "2025-10-12T11:10:19Z",
+  "lastUpdated": "2025-10-12T11:11:25Z",
   "totalUsers": 307,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
