@@ -3282,14 +3282,14 @@
     "bongo1986": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-10-19T12:42:39Z"
+      "lastUpdated": "2025-10-19T12:42:40Z"
     },
     "richie_fit": {
       "counters": {
@@ -6599,15 +6599,17 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-10-19T12:38:32Z"
+      "lastUpdated": "2025-10-19T12:43:40Z"
     }
   },
-  "lastUpdated": "2025-10-19T11:42:40Z",
+  "lastUpdated": "2025-10-19T11:43:40Z",
   "totalUsers": 310,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
