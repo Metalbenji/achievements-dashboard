@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 284,
+        "chat": 290,
         "follow": 1,
         "points_spent": 20000,
         "sounds": 1,
@@ -1348,7 +1348,7 @@
         "chat_frequent",
         "gift_starter"
       ],
-      "lastUpdated": "2025-10-19T10:45:17Z"
+      "lastUpdated": "2025-10-19T12:34:23Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1397,7 +1397,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1287,
+        "chat": 1288,
         "points_spent": 14800,
         "effects": 8,
         "sub": 9,
@@ -1445,7 +1445,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-10-19T11:51:15Z"
+      "lastUpdated": "2025-10-19T12:01:01Z"
     },
     "celran": {
       "counters": {
@@ -2270,7 +2270,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1436,
+        "chat": 1440,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2335,7 +2335,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-10-19T11:38:05Z"
+      "lastUpdated": "2025-10-19T12:23:12Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3282,18 +3282,18 @@
     "bongo1986": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-07-05T12:31:44Z"
+      "lastUpdated": "2025-10-19T12:38:19Z"
     },
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 625,
+        "chat": 626,
         "points_spent": 4850,
         "effects": 3,
         "interactive": 6,
@@ -3315,7 +3315,7 @@
         "chat_dedicated",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-10-19T11:25:22Z"
+      "lastUpdated": "2025-10-19T12:00:14Z"
     },
     "roffelonator": {
       "counters": {
@@ -3550,7 +3550,7 @@
       "counters": {
         "sub": 33,
         "follow": 1,
-        "chat": 253,
+        "chat": 256,
         "points_spent": 1000,
         "effects": 1
       },
@@ -3576,7 +3576,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-10-19T11:33:16Z"
+      "lastUpdated": "2025-10-19T12:29:23Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -5643,12 +5643,12 @@
     },
     "ieuaojames": {
       "counters": {
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-23T17:45:04Z"
+      "lastUpdated": "2025-10-19T12:38:28Z"
     },
     "simonbt": {
       "counters": {
@@ -6592,10 +6592,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-10-19T11:54:47Z"
+    },
+    "lesthelegendofficial": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-10-19T12:38:32Z"
     }
   },
-  "lastUpdated": "2025-10-19T10:54:47Z",
-  "totalUsers": 309,
+  "lastUpdated": "2025-10-19T11:38:33Z",
+  "totalUsers": 310,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
