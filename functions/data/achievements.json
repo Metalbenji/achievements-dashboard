@@ -6583,16 +6583,18 @@
     },
     "o9sasha": {
       "counters": {
-        "chat": 5
+        "chat": 9,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-10-19T11:52:34Z"
+      "lastUpdated": "2025-10-19T11:54:47Z"
     }
   },
-  "lastUpdated": "2025-10-19T10:52:34Z",
+  "lastUpdated": "2025-10-19T10:54:47Z",
   "totalUsers": 309,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
