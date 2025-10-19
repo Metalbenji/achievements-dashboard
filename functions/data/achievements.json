@@ -1460,7 +1460,7 @@
     },
     "turdtotrader": {
       "counters": {
-        "chat": 434,
+        "chat": 438,
         "points_spent": 14301,
         "screenshot": 1,
         "effects": 2,
@@ -1491,7 +1491,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-10-19T12:46:57Z"
+      "lastUpdated": "2025-10-19T12:55:51Z"
     },
     "dmustain": {
       "counters": {
@@ -5999,7 +5999,7 @@
     },
     "streamelements": {
       "counters": {
-        "chat": 160
+        "chat": 161
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6009,7 +6009,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2025-10-19T11:51:22Z"
+      "lastUpdated": "2025-10-19T12:51:22Z"
     },
     "cameronkouvola": {
       "counters": {
@@ -6599,18 +6599,19 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 5,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-10-19T12:48:32Z"
+      "lastUpdated": "2025-10-19T12:57:00Z"
     }
   },
-  "lastUpdated": "2025-10-19T11:48:33Z",
+  "lastUpdated": "2025-10-19T11:57:01Z",
   "totalUsers": 310,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
