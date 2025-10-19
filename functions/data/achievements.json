@@ -1397,7 +1397,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1276,
+        "chat": 1277,
         "points_spent": 14800,
         "effects": 8,
         "sub": 9,
@@ -1445,7 +1445,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-10-19T10:03:06Z"
+      "lastUpdated": "2025-10-19T10:04:17Z"
     },
     "celran": {
       "counters": {
@@ -1558,7 +1558,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1613,
+        "chat": 1614,
         "points_spent": 87551,
         "screenshot": 1,
         "follow": 1,
@@ -1622,7 +1622,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-10-19T10:00:20Z"
+      "lastUpdated": "2025-10-19T10:07:37Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2722,7 +2722,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 215,
+        "chat": 223,
         "bits": 15,
         "sub": 14,
         "points_spent": 1
@@ -2748,7 +2748,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-10-19T10:03:05Z"
+      "lastUpdated": "2025-10-19T10:08:24Z"
     },
     "chevelletv": {
       "counters": {
@@ -3292,7 +3292,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 605,
+        "chat": 606,
         "points_spent": 4100,
         "effects": 3,
         "interactive": 5
@@ -3312,7 +3312,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-10-19T10:02:36Z"
+      "lastUpdated": "2025-10-19T10:08:26Z"
     },
     "roffelonator": {
       "counters": {
@@ -3547,7 +3547,7 @@
       "counters": {
         "sub": 33,
         "follow": 1,
-        "chat": 245,
+        "chat": 246,
         "points_spent": 1000,
         "effects": 1
       },
@@ -3573,7 +3573,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-10-19T09:56:36Z"
+      "lastUpdated": "2025-10-19T10:07:46Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -3756,7 +3756,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 51,
+        "chat": 53,
         "points_spent": 1,
         "gift_subs": 1
       },
@@ -3771,7 +3771,7 @@
         "bday2025_support",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-10-19T10:03:49Z"
+      "lastUpdated": "2025-10-19T10:06:20Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -6568,10 +6568,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-10-12T12:10:59Z"
+    },
+    "ealansari": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-10-19T10:09:01Z"
     }
   },
-  "lastUpdated": "2025-10-19T09:04:05Z",
-  "totalUsers": 307,
+  "lastUpdated": "2025-10-19T09:09:01Z",
+  "totalUsers": 308,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
