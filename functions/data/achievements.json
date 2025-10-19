@@ -1397,7 +1397,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1290,
+        "chat": 1292,
         "points_spent": 14800,
         "effects": 8,
         "sub": 9,
@@ -1445,7 +1445,7 @@
         "screenshot_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-10-19T12:41:32Z"
+      "lastUpdated": "2025-10-19T12:42:14Z"
     },
     "celran": {
       "counters": {
@@ -5643,13 +5643,15 @@
     },
     "ieuaojames": {
       "counters": {
-        "chat": 5
+        "chat": 6,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-10-19T12:41:45Z"
+      "lastUpdated": "2025-10-19T12:42:30Z"
     },
     "simonbt": {
       "counters": {
@@ -6604,7 +6606,7 @@
       "lastUpdated": "2025-10-19T12:38:32Z"
     }
   },
-  "lastUpdated": "2025-10-19T11:41:45Z",
+  "lastUpdated": "2025-10-19T11:42:31Z",
   "totalUsers": 310,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
