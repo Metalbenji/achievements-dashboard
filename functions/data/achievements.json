@@ -1626,7 +1626,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1186,
+        "chat": 1187,
         "points_spent": 45200,
         "interactive": 23,
         "follow": 1,
@@ -1669,7 +1669,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-10-18T11:35:58Z"
+      "lastUpdated": "2025-10-19T10:10:29Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2722,7 +2722,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 223,
+        "chat": 225,
         "bits": 15,
         "sub": 14,
         "points_spent": 1
@@ -2748,7 +2748,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-10-19T10:08:24Z"
+      "lastUpdated": "2025-10-19T10:09:55Z"
     },
     "chevelletv": {
       "counters": {
@@ -3293,9 +3293,10 @@
       "counters": {
         "follow": 1,
         "chat": 606,
-        "points_spent": 4100,
+        "points_spent": 4450,
         "effects": 3,
-        "interactive": 5
+        "interactive": 5,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3310,9 +3311,10 @@
         "night_owl",
         "chat_regular",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-10-19T10:08:26Z"
+      "lastUpdated": "2025-10-19T10:11:01Z"
     },
     "roffelonator": {
       "counters": {
@@ -3547,7 +3549,7 @@
       "counters": {
         "sub": 33,
         "follow": 1,
-        "chat": 246,
+        "chat": 247,
         "points_spent": 1000,
         "effects": 1
       },
@@ -3573,7 +3575,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-10-19T10:07:46Z"
+      "lastUpdated": "2025-10-19T10:09:51Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -3756,7 +3758,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 53,
+        "chat": 54,
         "points_spent": 1,
         "gift_subs": 1
       },
@@ -3771,7 +3773,7 @@
         "bday2025_support",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-10-19T10:06:20Z"
+      "lastUpdated": "2025-10-19T10:10:03Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -6571,15 +6573,15 @@
     },
     "ealansari": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-10-19T10:09:01Z"
+      "lastUpdated": "2025-10-19T10:09:55Z"
     }
   },
-  "lastUpdated": "2025-10-19T09:09:01Z",
+  "lastUpdated": "2025-10-19T09:11:02Z",
   "totalUsers": 308,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
