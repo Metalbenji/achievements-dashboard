@@ -1626,7 +1626,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1197,
+        "chat": 1198,
         "points_spent": 45200,
         "interactive": 23,
         "follow": 1,
@@ -1669,7 +1669,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-10-19T12:48:11Z"
+      "lastUpdated": "2025-10-19T12:58:48Z"
     },
     "aladderinsane": {
       "counters": {
@@ -6599,7 +6599,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 10,
+        "chat": 13,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6608,11 +6608,20 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-10-19T12:57:00Z"
+      "lastUpdated": "2025-10-19T13:00:15Z"
+    },
+    "shawarmha": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-10-19T13:01:00Z"
     }
   },
-  "lastUpdated": "2025-10-19T11:57:01Z",
-  "totalUsers": 310,
+  "lastUpdated": "2025-10-19T12:01:01Z",
+  "totalUsers": 311,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
