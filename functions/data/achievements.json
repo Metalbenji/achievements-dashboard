@@ -2113,7 +2113,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 854,
+        "chat": 859,
         "points_spent": 10350,
         "effects": 19,
         "sounds": 2
@@ -2136,7 +2136,7 @@
         "chat_enthusiast",
         "spender_silver"
       ],
-      "lastUpdated": "2025-10-12T17:07:50Z"
+      "lastUpdated": "2025-10-19T13:12:15Z"
     },
     "spoono__": {
       "counters": {
@@ -6600,7 +6600,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 17,
+        "chat": 21,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1
@@ -6612,20 +6612,21 @@
         "chat_talker",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-10-19T13:08:17Z"
+      "lastUpdated": "2025-10-19T13:12:12Z"
     },
     "shawarmha": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-10-19T13:06:53Z"
+      "lastUpdated": "2025-10-19T13:12:19Z"
     }
   },
-  "lastUpdated": "2025-10-19T12:08:17Z",
+  "lastUpdated": "2025-10-19T12:12:20Z",
   "totalUsers": 311,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
