@@ -2244,7 +2244,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1491,
+        "chat": 1500,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2307,9 +2307,10 @@
         "bits_steady",
         "bits_dedicated",
         "raid_tier1_captain",
-        "gift_kind"
+        "gift_kind",
+        "chat_expert"
       ],
-      "lastUpdated": "2025-10-26T11:46:55Z"
+      "lastUpdated": "2025-10-26T13:48:30Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3535,7 +3536,7 @@
       "counters": {
         "sub": 33,
         "follow": 1,
-        "chat": 329,
+        "chat": 330,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3562,7 +3563,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-10-26T12:44:13Z"
+      "lastUpdated": "2025-10-26T13:43:24Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -5831,7 +5832,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 76,
+        "chat": 77,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5841,7 +5842,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-10-26T12:25:01Z"
+      "lastUpdated": "2025-10-26T13:45:50Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6529,7 +6530,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 200,
+        "chat": 203,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6552,7 +6553,7 @@
         "gift_bombs_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-10-26T13:31:51Z"
+      "lastUpdated": "2025-10-26T13:47:51Z"
     },
     "shawarmha": {
       "counters": {
@@ -6632,7 +6633,7 @@
       "lastUpdated": "2025-10-26T13:22:32Z"
     }
   },
-  "lastUpdated": "2025-10-26T13:31:52Z",
+  "lastUpdated": "2025-10-26T13:48:31Z",
   "totalUsers": 311,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
