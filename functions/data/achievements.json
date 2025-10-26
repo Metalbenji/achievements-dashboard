@@ -5419,15 +5419,6 @@
       ],
       "lastUpdated": "2025-09-21T14:10:53Z"
     },
-    "bloodecho_ghoul": {
-      "counters": {
-        "follow": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter"
-      ],
-      "lastUpdated": "2025-08-23T15:51:26Z"
-    },
     "mr_ragefuzz": {
       "counters": {
         "follow": 1,
@@ -6537,7 +6528,8 @@
         "chat": 124,
         "follow": 1,
         "points_spent": 350,
-        "screenshot": 1
+        "screenshot": 1,
+        "sub": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6546,9 +6538,11 @@
         "chat_talker",
         "screenshot_first",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "sub_tier1",
+        "sub_first_month"
       ],
-      "lastUpdated": "2025-10-26T10:14:38Z"
+      "lastUpdated": "2025-10-26T10:15:49Z"
     },
     "shawarmha": {
       "counters": {
@@ -6573,8 +6567,8 @@
       "lastUpdated": "2025-10-19T13:55:58Z"
     }
   },
-  "lastUpdated": "2025-10-26T10:15:50Z",
-  "totalUsers": 310,
+  "lastUpdated": "2025-10-26T10:16:29Z",
+  "totalUsers": 309,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
