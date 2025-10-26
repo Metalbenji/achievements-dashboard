@@ -1675,7 +1675,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 161,
+        "chat": 168,
         "follow": 1,
         "points_spent": 1250,
         "screenshot": 1,
@@ -1701,7 +1701,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2025-10-19T11:33:23Z"
+      "lastUpdated": "2025-10-26T10:24:36Z"
     },
     "lottec": {
       "counters": {
@@ -2084,7 +2084,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 912,
+        "chat": 916,
         "points_spent": 10850,
         "effects": 19,
         "sounds": 3,
@@ -2109,7 +2109,7 @@
         "spender_silver",
         "interactive_first"
       ],
-      "lastUpdated": "2025-10-26T10:20:03Z"
+      "lastUpdated": "2025-10-26T10:24:30Z"
     },
     "spoono__": {
       "counters": {
@@ -2135,7 +2135,7 @@
       "counters": {
         "points_spent": 41251,
         "follow": 1,
-        "chat": 541,
+        "chat": 542,
         "effects": 47,
         "screenshot": 1,
         "sounds": 4,
@@ -2188,7 +2188,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-10-26T10:04:29Z"
+      "lastUpdated": "2025-10-26T10:20:29Z"
     },
     "syn__________": {
       "counters": {
@@ -3274,7 +3274,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 681,
+        "chat": 682,
         "points_spent": 9250,
         "effects": 5,
         "interactive": 8,
@@ -3298,7 +3298,7 @@
         "screenshot_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-10-26T10:18:44Z"
+      "lastUpdated": "2025-10-26T10:24:21Z"
     },
     "roffelonator": {
       "counters": {
@@ -3534,7 +3534,7 @@
       "counters": {
         "sub": 33,
         "follow": 1,
-        "chat": 294,
+        "chat": 300,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3558,9 +3558,10 @@
         "spender_bronze",
         "effect_first",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-10-26T10:20:03Z"
+      "lastUpdated": "2025-10-26T10:25:03Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -6527,7 +6528,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 125,
+        "chat": 127,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6549,7 +6550,7 @@
         "gift_bomb_5",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-10-26T10:17:18Z"
+      "lastUpdated": "2025-10-26T10:24:55Z"
     },
     "shawarmha": {
       "counters": {
@@ -6574,7 +6575,7 @@
       "lastUpdated": "2025-10-19T13:55:58Z"
     }
   },
-  "lastUpdated": "2025-10-26T10:20:19Z",
+  "lastUpdated": "2025-10-26T10:25:03Z",
   "totalUsers": 309,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
