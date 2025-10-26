@@ -2241,7 +2241,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1465,
+        "chat": 1466,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2306,7 +2306,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-10-26T10:15:27Z"
+      "lastUpdated": "2025-10-26T10:16:30Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6529,7 +6529,10 @@
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
-        "sub": 1
+        "sub": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 5,
+        "largest_gift_bomb": 5
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6540,9 +6543,11 @@
         "chat_conversationalist",
         "chat_regular",
         "sub_tier1",
-        "sub_first_month"
+        "sub_first_month",
+        "gift_bomb_5",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-10-26T10:15:49Z"
+      "lastUpdated": "2025-10-26T10:16:28Z"
     },
     "shawarmha": {
       "counters": {
@@ -6567,7 +6572,7 @@
       "lastUpdated": "2025-10-19T13:55:58Z"
     }
   },
-  "lastUpdated": "2025-10-26T10:16:30Z",
+  "lastUpdated": "2025-10-26T10:17:09Z",
   "totalUsers": 309,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
