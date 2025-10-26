@@ -1397,7 +1397,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1299,
+        "chat": 1302,
         "points_spent": 14800,
         "effects": 8,
         "sub": 10,
@@ -1446,7 +1446,7 @@
         "chat_champion",
         "sub_champion"
       ],
-      "lastUpdated": "2025-10-26T10:17:08Z"
+      "lastUpdated": "2025-10-26T10:31:08Z"
     },
     "celran": {
       "counters": {
@@ -1524,7 +1524,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1641,
+        "chat": 1646,
         "points_spent": 88051,
         "screenshot": 1,
         "follow": 1,
@@ -1588,7 +1588,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-10-26T09:59:44Z"
+      "lastUpdated": "2025-10-26T10:30:02Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1675,7 +1675,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 168,
+        "chat": 169,
         "follow": 1,
         "points_spent": 1250,
         "screenshot": 1,
@@ -1701,7 +1701,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2025-10-26T10:24:36Z"
+      "lastUpdated": "2025-10-26T10:29:47Z"
     },
     "lottec": {
       "counters": {
@@ -2243,7 +2243,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1469,
+        "chat": 1472,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2308,7 +2308,7 @@
         "raid_tier1_captain",
         "gift_kind"
       ],
-      "lastUpdated": "2025-10-26T10:18:04Z"
+      "lastUpdated": "2025-10-26T10:34:00Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3274,7 +3274,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 682,
+        "chat": 692,
         "points_spent": 9250,
         "effects": 5,
         "interactive": 8,
@@ -3298,7 +3298,7 @@
         "screenshot_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-10-26T10:24:21Z"
+      "lastUpdated": "2025-10-26T10:33:24Z"
     },
     "roffelonator": {
       "counters": {
@@ -3534,7 +3534,7 @@
       "counters": {
         "sub": 33,
         "follow": 1,
-        "chat": 300,
+        "chat": 313,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3561,7 +3561,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-10-26T10:25:03Z"
+      "lastUpdated": "2025-10-26T10:34:25Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -5830,7 +5830,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 68,
+        "chat": 69,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5840,7 +5840,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-10-26T10:08:51Z"
+      "lastUpdated": "2025-10-26T10:34:35Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6528,7 +6528,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 127,
+        "chat": 133,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6550,7 +6550,7 @@
         "gift_bomb_5",
         "gift_bombs_first"
       ],
-      "lastUpdated": "2025-10-26T10:24:55Z"
+      "lastUpdated": "2025-10-26T10:31:48Z"
     },
     "shawarmha": {
       "counters": {
@@ -6573,10 +6573,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-10-19T13:55:58Z"
+    },
+    "greenthunder555": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-10-26T10:34:40Z"
     }
   },
-  "lastUpdated": "2025-10-26T10:25:03Z",
-  "totalUsers": 309,
+  "lastUpdated": "2025-10-26T10:34:40Z",
+  "totalUsers": 310,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
