@@ -3220,7 +3220,8 @@
         "points_spent": 4300,
         "sounds": 1,
         "effects": 3,
-        "interactive": 3
+        "interactive": 3,
+        "bits": 97
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -3234,9 +3235,12 @@
         "spender_bronze",
         "effect_first",
         "interactive_first",
-        "chat_regular"
+        "chat_regular",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2025-10-26T09:54:22Z"
+      "lastUpdated": "2025-10-26T09:59:35Z"
     },
     "sprockettrap": {
       "counters": {
@@ -6567,7 +6571,7 @@
       "lastUpdated": "2025-10-19T13:55:58Z"
     }
   },
-  "lastUpdated": "2025-10-26T09:59:37Z",
+  "lastUpdated": "2025-10-26T09:59:38Z",
   "totalUsers": 310,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
