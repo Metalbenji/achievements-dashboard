@@ -2385,7 +2385,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 753,
+        "chat": 754,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -2417,7 +2417,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-01T10:09:51Z"
+      "lastUpdated": "2025-11-01T10:10:46Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3011,7 +3011,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1032,
+        "chat": 1033,
         "sub": 43,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3052,7 +3052,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-01T10:10:29Z"
+      "lastUpdated": "2025-11-01T10:10:57Z"
     },
     "majesty81": {
       "counters": {
@@ -6658,15 +6658,17 @@
     },
     "kikinplays_": {
       "counters": {
-        "chat": 1
+        "chat": 2,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-01T10:10:45Z"
+      "lastUpdated": "2025-11-01T10:11:04Z"
     }
   },
-  "lastUpdated": "2025-11-01T10:10:45Z",
+  "lastUpdated": "2025-11-01T10:11:04Z",
   "totalUsers": 314,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
