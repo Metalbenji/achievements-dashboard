@@ -2042,7 +2042,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 494,
+        "chat": 496,
         "points_spent": 19155,
         "interactive": 13,
         "effects": 21,
@@ -2080,7 +2080,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-01T10:34:02Z"
+      "lastUpdated": "2025-11-01T10:36:04Z"
     },
     "redunt86": {
       "counters": {
@@ -3319,7 +3319,7 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 27,
+        "chat": 28,
         "points_spent": 100,
         "sounds": 1
       },
@@ -3331,7 +3331,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-01T10:34:19Z"
+      "lastUpdated": "2025-11-01T10:36:03Z"
     },
     "domtok1": {
       "counters": {
@@ -5837,7 +5837,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 93,
+        "chat": 94,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5847,7 +5847,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-01T10:15:01Z"
+      "lastUpdated": "2025-11-01T10:35:47Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6670,15 +6670,17 @@
     },
     "aufflimits": {
       "counters": {
-        "chat": 1
+        "chat": 3,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-01T10:34:42Z"
+      "lastUpdated": "2025-11-01T10:36:11Z"
     }
   },
-  "lastUpdated": "2025-11-01T10:34:43Z",
+  "lastUpdated": "2025-11-01T10:36:11Z",
   "totalUsers": 315,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
