@@ -1863,7 +1863,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 206,
+        "chat": 207,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1897,7 +1897,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-01T10:05:36Z"
+      "lastUpdated": "2025-11-01T10:06:59Z"
     },
     "adammmidders": {
       "counters": {
@@ -6644,10 +6644,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-10-26T14:50:48Z"
+    },
+    "draxenthor": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-11-01T10:07:28Z"
     }
   },
-  "lastUpdated": "2025-11-01T10:06:49Z",
-  "totalUsers": 312,
+  "lastUpdated": "2025-11-01T10:07:28Z",
+  "totalUsers": 313,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
