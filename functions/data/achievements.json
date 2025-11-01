@@ -3225,10 +3225,10 @@
       "counters": {
         "chat": 149,
         "follow": 1,
-        "points_spent": 11400,
+        "points_spent": 17650,
         "sounds": 1,
         "effects": 7,
-        "interactive": 10,
+        "interactive": 18,
         "bits": 97,
         "raid": 1,
         "sub": 1,
@@ -3257,7 +3257,7 @@
         "spender_silver",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-11-01T20:58:50Z"
+      "lastUpdated": "2025-11-01T21:52:00Z"
     },
     "sprockettrap": {
       "counters": {
@@ -6144,7 +6144,7 @@
     },
     "hm_pete": {
       "counters": {
-        "points_spent": 21222,
+        "points_spent": 21223,
         "special_rewards": 1,
         "chat": 192,
         "effects": 3,
@@ -6175,7 +6175,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-11-01T14:09:55Z"
+      "lastUpdated": "2025-11-01T22:00:59Z"
     },
     "otocar": {
       "counters": {
@@ -6528,7 +6528,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 258,
+        "chat": 259,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6549,9 +6549,10 @@
         "sub_first_month",
         "gift_bomb_5",
         "gift_bombs_first",
-        "chat_frequent"
+        "chat_frequent",
+        "night_owl"
       ],
-      "lastUpdated": "2025-11-01T12:17:06Z"
+      "lastUpdated": "2025-11-01T22:01:19Z"
     },
     "shawarmha": {
       "counters": {
@@ -6707,7 +6708,7 @@
       "lastUpdated": "2025-11-01T14:17:45Z"
     }
   },
-  "lastUpdated": "2025-11-01T20:58:51Z",
+  "lastUpdated": "2025-11-01T22:01:20Z",
   "totalUsers": 317,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
