@@ -1593,7 +1593,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1246,
+        "chat": 1249,
         "points_spent": 46700,
         "interactive": 26,
         "follow": 1,
@@ -1636,11 +1636,11 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-01T12:25:21Z"
+      "lastUpdated": "2025-11-01T22:26:11Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 261,
+        "chat": 263,
         "follow": 1,
         "sub": 33,
         "points_spent": 55000,
@@ -1672,7 +1672,7 @@
         "spender_gold",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-01T12:38:44Z"
+      "lastUpdated": "2025-11-01T22:26:25Z"
     },
     "scoman07": {
       "counters": {
@@ -2134,11 +2134,11 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 43851,
+        "points_spent": 44501,
         "follow": 1,
         "chat": 585,
-        "effects": 52,
-        "screenshot": 1,
+        "effects": 53,
+        "screenshot": 2,
         "sounds": 4,
         "bits": 300,
         "raid": 6,
@@ -2189,7 +2189,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-01T22:15:36Z"
+      "lastUpdated": "2025-11-01T22:21:00Z"
     },
     "syn__________": {
       "counters": {
@@ -2870,7 +2870,7 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 20
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2880,7 +2880,7 @@
         "bday2025_attend",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-01T22:17:02Z"
+      "lastUpdated": "2025-11-01T22:17:42Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -3946,7 +3946,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 46,
+        "chat": 48,
         "points_spent": 500,
         "effects": 1
       },
@@ -3960,7 +3960,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-10-12T13:21:42Z"
+      "lastUpdated": "2025-11-01T22:26:21Z"
     },
     "saluda777": {
       "counters": {
@@ -6148,7 +6148,7 @@
       "counters": {
         "points_spent": 21223,
         "special_rewards": 1,
-        "chat": 196,
+        "chat": 199,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6177,7 +6177,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-11-01T22:13:47Z"
+      "lastUpdated": "2025-11-01T22:20:48Z"
     },
     "otocar": {
       "counters": {
@@ -6708,10 +6708,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-01T14:17:45Z"
+    },
+    "profgoten": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-11-01T22:26:30Z"
     }
   },
-  "lastUpdated": "2025-11-01T22:17:03Z",
-  "totalUsers": 317,
+  "lastUpdated": "2025-11-01T22:26:31Z",
+  "totalUsers": 318,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
