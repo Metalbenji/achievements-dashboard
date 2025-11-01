@@ -1398,7 +1398,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1307,
+        "chat": 1311,
         "points_spent": 14800,
         "effects": 8,
         "sub": 10,
@@ -1447,7 +1447,7 @@
         "chat_champion",
         "sub_champion"
       ],
-      "lastUpdated": "2025-10-26T11:38:16Z"
+      "lastUpdated": "2025-11-01T10:27:20Z"
     },
     "celran": {
       "counters": {
@@ -1863,7 +1863,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 207,
+        "chat": 208,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1897,7 +1897,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-01T10:06:59Z"
+      "lastUpdated": "2025-11-01T10:22:18Z"
     },
     "adammmidders": {
       "counters": {
@@ -2042,7 +2042,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 493,
+        "chat": 494,
         "points_spent": 19155,
         "interactive": 13,
         "effects": 21,
@@ -2080,7 +2080,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-01T10:18:23Z"
+      "lastUpdated": "2025-11-01T10:34:02Z"
     },
     "redunt86": {
       "counters": {
@@ -2385,7 +2385,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 762,
+        "chat": 778,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -2417,7 +2417,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-01T10:18:17Z"
+      "lastUpdated": "2025-11-01T10:34:31Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3319,7 +3319,7 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 27,
         "points_spent": 100,
         "sounds": 1
       },
@@ -3331,7 +3331,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-01T10:18:44Z"
+      "lastUpdated": "2025-11-01T10:34:19Z"
     },
     "domtok1": {
       "counters": {
@@ -3584,7 +3584,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 233,
+        "chat": 234,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3606,7 +3606,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-01T10:17:38Z"
+      "lastUpdated": "2025-11-01T10:21:32Z"
     },
     "mulquero": {
       "counters": {
@@ -6667,10 +6667,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-11-01T10:11:04Z"
+    },
+    "aufflimits": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-01T10:34:42Z"
     }
   },
-  "lastUpdated": "2025-11-01T10:18:45Z",
-  "totalUsers": 314,
+  "lastUpdated": "2025-11-01T10:34:43Z",
+  "totalUsers": 315,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
