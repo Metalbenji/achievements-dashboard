@@ -3225,12 +3225,14 @@
       "counters": {
         "chat": 149,
         "follow": 1,
-        "points_spent": 5500,
+        "points_spent": 8400,
         "sounds": 1,
         "effects": 7,
-        "interactive": 4,
+        "interactive": 7,
         "bits": 97,
-        "raid": 1
+        "raid": 1,
+        "sub": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -3248,9 +3250,12 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "sub_tier1",
+        "sub_first_month",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-11-01T12:39:01Z"
+      "lastUpdated": "2025-11-01T20:24:56Z"
     },
     "sprockettrap": {
       "counters": {
@@ -6700,7 +6705,7 @@
       "lastUpdated": "2025-11-01T14:17:45Z"
     }
   },
-  "lastUpdated": "2025-11-01T19:52:27Z",
+  "lastUpdated": "2025-11-01T20:24:57Z",
   "totalUsers": 317,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
