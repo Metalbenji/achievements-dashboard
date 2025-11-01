@@ -2385,7 +2385,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 805,
+        "chat": 806,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -2417,7 +2417,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-01T12:05:49Z"
+      "lastUpdated": "2025-11-01T12:05:53Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -6678,15 +6678,17 @@
     },
     "falsire": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-11-01T12:05:52Z"
+      "lastUpdated": "2025-11-01T12:06:27Z"
     }
   },
-  "lastUpdated": "2025-11-01T12:05:53Z",
+  "lastUpdated": "2025-11-01T12:06:28Z",
   "totalUsers": 316,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
