@@ -3225,7 +3225,7 @@
       "counters": {
         "chat": 149,
         "follow": 1,
-        "points_spent": 8400,
+        "points_spent": 10050,
         "sounds": 1,
         "effects": 7,
         "interactive": 7,
@@ -3253,9 +3253,10 @@
         "raid_tier1_captain",
         "sub_tier1",
         "sub_first_month",
-        "screenshot_first"
+        "screenshot_first",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-11-01T20:24:56Z"
+      "lastUpdated": "2025-11-01T20:52:27Z"
     },
     "sprockettrap": {
       "counters": {
@@ -6705,7 +6706,7 @@
       "lastUpdated": "2025-11-01T14:17:45Z"
     }
   },
-  "lastUpdated": "2025-11-01T20:24:57Z",
+  "lastUpdated": "2025-11-01T20:52:28Z",
   "totalUsers": 317,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
