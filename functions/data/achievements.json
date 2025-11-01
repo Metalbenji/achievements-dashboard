@@ -6647,15 +6647,17 @@
     },
     "draxenthor": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-11-01T10:07:28Z"
+      "lastUpdated": "2025-11-01T10:07:29Z"
     }
   },
-  "lastUpdated": "2025-11-01T10:07:28Z",
+  "lastUpdated": "2025-11-01T10:07:29Z",
   "totalUsers": 313,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
