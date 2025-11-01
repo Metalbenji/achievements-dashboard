@@ -2042,7 +2042,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 491,
+        "chat": 492,
         "points_spent": 19155,
         "interactive": 13,
         "effects": 21,
@@ -2080,7 +2080,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-01T09:37:59Z"
+      "lastUpdated": "2025-11-01T10:10:14Z"
     },
     "redunt86": {
       "counters": {
@@ -2385,7 +2385,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 750,
+        "chat": 753,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -2417,7 +2417,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-01T10:06:48Z"
+      "lastUpdated": "2025-11-01T10:09:51Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3011,7 +3011,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1029,
+        "chat": 1032,
         "sub": 43,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3052,7 +3052,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-01T09:40:52Z"
+      "lastUpdated": "2025-11-01T10:10:29Z"
     },
     "majesty81": {
       "counters": {
@@ -3319,7 +3319,7 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 21,
+        "chat": 23,
         "points_spent": 100,
         "sounds": 1
       },
@@ -3330,7 +3330,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-10-18T09:20:57Z"
+      "lastUpdated": "2025-11-01T10:10:42Z"
     },
     "domtok1": {
       "counters": {
@@ -6593,7 +6593,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 711,
+        "chat": 712,
         "points_spent": 32450,
         "sounds": 10,
         "effects": 4,
@@ -6634,7 +6634,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-01T10:06:06Z"
+      "lastUpdated": "2025-11-01T10:08:55Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6655,10 +6655,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-01T10:07:29Z"
+    },
+    "kikinplays_": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-01T10:10:45Z"
     }
   },
-  "lastUpdated": "2025-11-01T10:07:29Z",
-  "totalUsers": 313,
+  "lastUpdated": "2025-11-01T10:10:45Z",
+  "totalUsers": 314,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
