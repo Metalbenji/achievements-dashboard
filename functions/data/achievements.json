@@ -3225,10 +3225,10 @@
       "counters": {
         "chat": 149,
         "follow": 1,
-        "points_spent": 17650,
+        "points_spent": 18050,
         "sounds": 1,
         "effects": 7,
-        "interactive": 18,
+        "interactive": 19,
         "bits": 97,
         "raid": 1,
         "sub": 1,
@@ -3257,7 +3257,7 @@
         "spender_silver",
         "interactive_regular"
       ],
-      "lastUpdated": "2025-11-01T21:52:00Z"
+      "lastUpdated": "2025-11-01T22:11:53Z"
     },
     "sprockettrap": {
       "counters": {
@@ -5728,7 +5728,7 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 33,
+        "chat": 34,
         "points_spent": 10000,
         "sounds": 1
       },
@@ -5740,9 +5740,10 @@
         "spender_bronze",
         "spender_silver",
         "sound_first",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
-      "lastUpdated": "2025-11-01T13:57:37Z"
+      "lastUpdated": "2025-11-01T22:14:54Z"
     },
     "oobalicious": {
       "counters": {
@@ -6146,7 +6147,7 @@
       "counters": {
         "points_spent": 21223,
         "special_rewards": 1,
-        "chat": 192,
+        "chat": 196,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6175,7 +6176,7 @@
         "vip_dreamer",
         "birthday_person"
       ],
-      "lastUpdated": "2025-11-01T22:00:59Z"
+      "lastUpdated": "2025-11-01T22:13:47Z"
     },
     "otocar": {
       "counters": {
@@ -6708,7 +6709,7 @@
       "lastUpdated": "2025-11-01T14:17:45Z"
     }
   },
-  "lastUpdated": "2025-11-01T22:01:20Z",
+  "lastUpdated": "2025-11-01T22:14:55Z",
   "totalUsers": 317,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
