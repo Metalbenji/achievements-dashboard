@@ -1525,7 +1525,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1653,
+        "chat": 1654,
         "points_spent": 88051,
         "screenshot": 1,
         "follow": 1,
@@ -1589,7 +1589,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-10-26T11:26:57Z"
+      "lastUpdated": "2025-11-01T22:16:32Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2136,7 +2136,7 @@
       "counters": {
         "points_spent": 43851,
         "follow": 1,
-        "chat": 583,
+        "chat": 585,
         "effects": 52,
         "screenshot": 1,
         "sounds": 4,
@@ -2189,7 +2189,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-01T13:59:35Z"
+      "lastUpdated": "2025-11-01T22:15:36Z"
     },
     "syn__________": {
       "counters": {
@@ -2771,7 +2771,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 521,
+        "chat": 522,
         "points_spent": 21151,
         "sounds": 4,
         "effects": 35,
@@ -2840,7 +2840,7 @@
         "screenshot_first",
         "birthday_person"
       ],
-      "lastUpdated": "2025-11-01T12:32:15Z"
+      "lastUpdated": "2025-11-01T22:15:28Z"
     },
     "andilippi": {
       "counters": {
@@ -2870,16 +2870,17 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 20
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "bday2025_attend"
+        "bday2025_attend",
+        "night_owl"
       ],
-      "lastUpdated": "2025-09-06T11:40:59Z"
+      "lastUpdated": "2025-11-01T22:17:02Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -5728,7 +5729,7 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 34,
+        "chat": 36,
         "points_spent": 10000,
         "sounds": 1
       },
@@ -5743,7 +5744,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-01T22:14:54Z"
+      "lastUpdated": "2025-11-01T22:16:27Z"
     },
     "oobalicious": {
       "counters": {
@@ -6709,7 +6710,7 @@
       "lastUpdated": "2025-11-01T14:17:45Z"
     }
   },
-  "lastUpdated": "2025-11-01T22:14:55Z",
+  "lastUpdated": "2025-11-01T22:17:03Z",
   "totalUsers": 317,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
