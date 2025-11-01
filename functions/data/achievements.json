@@ -1944,7 +1944,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 679,
+        "chat": 681,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -1992,7 +1992,7 @@
         "sub_elite",
         "spender_silver"
       ],
-      "lastUpdated": "2025-11-01T14:17:10Z"
+      "lastUpdated": "2025-11-01T14:24:37Z"
     },
     "anzerou": {
       "counters": {
@@ -2385,7 +2385,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 828,
+        "chat": 830,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -2417,7 +2417,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-01T14:16:08Z"
+      "lastUpdated": "2025-11-01T14:24:54Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -4780,7 +4780,7 @@
     "ashhbrown": {
       "counters": {
         "follow": 1,
-        "chat": 27
+        "chat": 34
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4789,7 +4789,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-01T14:17:24Z"
+      "lastUpdated": "2025-11-01T14:23:39Z"
     },
     "icyhot_10": {
       "counters": {
@@ -6700,7 +6700,7 @@
       "lastUpdated": "2025-11-01T14:17:45Z"
     }
   },
-  "lastUpdated": "2025-11-01T14:17:46Z",
+  "lastUpdated": "2025-11-01T19:52:27Z",
   "totalUsers": 317,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
