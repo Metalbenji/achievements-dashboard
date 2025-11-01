@@ -1593,7 +1593,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1236,
+        "chat": 1238,
         "points_spent": 46200,
         "interactive": 25,
         "follow": 1,
@@ -1636,7 +1636,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-01T10:14:35Z"
+      "lastUpdated": "2025-11-01T10:38:22Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2385,7 +2385,7 @@
     "mistifi_": {
       "counters": {
         "follow": 1,
-        "chat": 779,
+        "chat": 784,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -2417,7 +2417,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-01T10:36:33Z"
+      "lastUpdated": "2025-11-01T10:40:56Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3319,7 +3319,7 @@
     "mortygen": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 31,
         "points_spent": 100,
         "sounds": 1
       },
@@ -3331,7 +3331,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-01T10:36:38Z"
+      "lastUpdated": "2025-11-01T10:38:34Z"
     },
     "domtok1": {
       "counters": {
@@ -5837,7 +5837,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 94,
+        "chat": 95,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5847,7 +5847,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-01T10:35:47Z"
+      "lastUpdated": "2025-11-01T10:37:54Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6670,26 +6670,27 @@
     },
     "aufflimits": {
       "counters": {
-        "chat": 3,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-11-01T10:36:11Z"
+      "lastUpdated": "2025-11-01T10:41:11Z"
     },
     "cmasterjr": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-11-01T10:36:44Z"
+      "lastUpdated": "2025-11-01T10:41:11Z"
     }
   },
-  "lastUpdated": "2025-11-01T10:36:45Z",
+  "lastUpdated": "2025-11-01T10:41:12Z",
   "totalUsers": 316,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
