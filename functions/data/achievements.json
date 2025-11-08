@@ -1525,7 +1525,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1668,
+        "chat": 1676,
         "points_spent": 88551,
         "screenshot": 1,
         "follow": 1,
@@ -1589,7 +1589,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-08T08:51:00Z"
+      "lastUpdated": "2025-11-08T09:02:01Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1790,7 +1790,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 80,
+        "chat": 81,
         "sub": 2,
         "points_spent": 2000,
         "sounds": 1
@@ -1807,7 +1807,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-08T08:46:44Z"
+      "lastUpdated": "2025-11-08T09:01:07Z"
     },
     "sealdancer": {
       "counters": {
@@ -1863,7 +1863,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 210,
+        "chat": 211,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1897,7 +1897,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-01T11:38:04Z"
+      "lastUpdated": "2025-11-08T08:57:08Z"
     },
     "adammmidders": {
       "counters": {
@@ -3470,7 +3470,7 @@
     },
     "sarcissa": {
       "counters": {
-        "sub": 43,
+        "sub": 44,
         "follow": 1,
         "chat": 214,
         "points_spent": 20350,
@@ -3515,7 +3515,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-01T12:04:48Z"
+      "lastUpdated": "2025-11-08T08:58:45Z"
     },
     "camm_23": {
       "counters": {
@@ -3760,7 +3760,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 100,
         "points_spent": 1,
         "gift_subs": 1
       },
@@ -3773,9 +3773,10 @@
         "bday2025_attend",
         "gift_starter",
         "bday2025_support",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-11-01T09:35:57Z"
+      "lastUpdated": "2025-11-08T09:02:18Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -5229,7 +5230,7 @@
     "werwin1": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 20
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5237,7 +5238,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-08T08:40:38Z"
+      "lastUpdated": "2025-11-08T08:56:47Z"
     },
     "remcotje1986": {
       "counters": {
@@ -6725,7 +6726,7 @@
       "lastUpdated": "2025-11-01T22:26:36Z"
     }
   },
-  "lastUpdated": "2025-11-08T08:51:38Z",
+  "lastUpdated": "2025-11-08T09:02:19Z",
   "totalUsers": 318,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
