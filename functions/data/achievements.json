@@ -5769,7 +5769,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 109,
+        "chat": 111,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5780,7 +5780,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-08T19:49:35Z"
+      "lastUpdated": "2025-11-08T20:43:15Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6737,17 +6737,18 @@
     },
     "radugaspar": {
       "counters": {
-        "chat": 10
+        "chat": 25
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-08T20:34:45Z"
+      "lastUpdated": "2025-11-08T20:46:05Z"
     }
   },
-  "lastUpdated": "2025-11-08T20:34:46Z",
+  "lastUpdated": "2025-11-08T20:46:06Z",
   "totalUsers": 321,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
