@@ -1640,7 +1640,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 280,
+        "chat": 281,
         "follow": 1,
         "sub": 33,
         "points_spent": 55000,
@@ -1672,7 +1672,7 @@
         "spender_gold",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-08T19:46:18Z"
+      "lastUpdated": "2025-11-08T22:05:32Z"
     },
     "scoman07": {
       "counters": {
@@ -1790,7 +1790,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 98,
         "sub": 2,
         "points_spent": 2000,
         "sounds": 1
@@ -1805,9 +1805,10 @@
         "sub_first_month",
         "sub_supporter",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "night_owl"
       ],
-      "lastUpdated": "2025-11-08T17:04:52Z"
+      "lastUpdated": "2025-11-08T22:10:59Z"
     },
     "sealdancer": {
       "counters": {
@@ -6750,17 +6751,17 @@
     "sisterbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-11-08T21:49:03Z"
+      "lastUpdated": "2025-11-08T21:51:19Z"
     }
   },
-  "lastUpdated": "2025-11-08T21:49:04Z",
+  "lastUpdated": "2025-11-08T22:10:59Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
