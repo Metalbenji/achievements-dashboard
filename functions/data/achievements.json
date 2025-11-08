@@ -3214,7 +3214,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 730,
+        "chat": 734,
         "points_spent": 9650,
         "effects": 5,
         "interactive": 9,
@@ -3238,7 +3238,7 @@
         "screenshot_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-08T11:03:17Z"
+      "lastUpdated": "2025-11-08T11:05:46Z"
     },
     "roffelonator": {
       "counters": {
@@ -5759,7 +5759,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 99,
+        "chat": 100,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5767,9 +5767,10 @@
         "chat_newbie",
         "follow_supporter",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-11-01T13:15:16Z"
+      "lastUpdated": "2025-11-08T11:06:41Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6690,18 +6691,20 @@
     "metalbenji": {
       "counters": {
         "chat": 1,
-        "bits": 97
+        "bits": 97,
+        "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-11-08T11:03:28Z"
+      "lastUpdated": "2025-11-08T11:03:32Z"
     }
   },
-  "lastUpdated": "2025-11-08T11:03:32Z",
+  "lastUpdated": "2025-11-08T11:06:42Z",
   "totalUsers": 318,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
