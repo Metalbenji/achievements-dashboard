@@ -3226,10 +3226,10 @@
       "counters": {
         "chat": 179,
         "follow": 1,
-        "points_spent": 19150,
+        "points_spent": 20500,
         "sounds": 1,
-        "effects": 10,
-        "interactive": 19,
+        "effects": 11,
+        "interactive": 20,
         "bits": 97,
         "raid": 1,
         "sub": 1,
@@ -3259,7 +3259,7 @@
         "interactive_regular",
         "effect_collector"
       ],
-      "lastUpdated": "2025-11-06T21:39:41Z"
+      "lastUpdated": "2025-11-06T21:57:14Z"
     },
     "sprockettrap": {
       "counters": {
@@ -6147,9 +6147,9 @@
     },
     "hm_pete": {
       "counters": {
-        "points_spent": 21223,
+        "points_spent": 21224,
         "special_rewards": 1,
-        "chat": 199,
+        "chat": 200,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6176,9 +6176,10 @@
         "spender_silver",
         "chat_regular",
         "vip_dreamer",
-        "birthday_person"
+        "birthday_person",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-11-01T22:20:48Z"
+      "lastUpdated": "2025-11-08T08:24:38Z"
     },
     "otocar": {
       "counters": {
@@ -6723,7 +6724,7 @@
       "lastUpdated": "2025-11-01T22:26:36Z"
     }
   },
-  "lastUpdated": "2025-11-06T21:39:41Z",
+  "lastUpdated": "2025-11-08T08:24:40Z",
   "totalUsers": 318,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
