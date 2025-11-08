@@ -6737,16 +6737,17 @@
     },
     "radugaspar": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-11-08T20:22:54Z"
+      "lastUpdated": "2025-11-08T20:34:45Z"
     }
   },
-  "lastUpdated": "2025-11-08T20:22:54Z",
+  "lastUpdated": "2025-11-08T20:34:46Z",
   "totalUsers": 321,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
