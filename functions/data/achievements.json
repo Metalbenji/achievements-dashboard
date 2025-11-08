@@ -2047,7 +2047,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 534,
+        "chat": 537,
         "points_spent": 20105,
         "interactive": 14,
         "effects": 21,
@@ -2085,7 +2085,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-08T19:38:38Z"
+      "lastUpdated": "2025-11-08T21:47:06Z"
     },
     "redunt86": {
       "counters": {
@@ -3219,7 +3219,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 772,
+        "chat": 785,
         "points_spent": 9650,
         "effects": 5,
         "interactive": 9,
@@ -3244,7 +3244,7 @@
         "sound_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-08T16:13:14Z"
+      "lastUpdated": "2025-11-08T21:10:41Z"
     },
     "roffelonator": {
       "counters": {
@@ -5769,7 +5769,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 111,
+        "chat": 112,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5780,7 +5780,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-08T20:43:15Z"
+      "lastUpdated": "2025-11-08T20:46:57Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6470,7 +6470,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 266,
+        "chat": 279,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6494,7 +6494,7 @@
         "chat_frequent",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-08T10:33:17Z"
+      "lastUpdated": "2025-11-08T21:38:25Z"
     },
     "shawarmha": {
       "counters": {
@@ -6737,7 +6737,7 @@
     },
     "radugaspar": {
       "counters": {
-        "chat": 25
+        "chat": 30
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6745,11 +6745,20 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-08T20:46:05Z"
+      "lastUpdated": "2025-11-08T20:55:39Z"
+    },
+    "sisterbubbles": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-11-08T21:47:23Z"
     }
   },
-  "lastUpdated": "2025-11-08T20:46:06Z",
-  "totalUsers": 321,
+  "lastUpdated": "2025-11-08T21:47:23Z",
+  "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
