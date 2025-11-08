@@ -2047,7 +2047,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 537,
+        "chat": 538,
         "points_spent": 20105,
         "interactive": 14,
         "effects": 21,
@@ -2085,7 +2085,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-08T21:47:06Z"
+      "lastUpdated": "2025-11-08T21:48:22Z"
     },
     "redunt86": {
       "counters": {
@@ -6749,15 +6749,18 @@
     },
     "sisterbubbles": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-11-08T21:47:23Z"
+      "lastUpdated": "2025-11-08T21:49:03Z"
     }
   },
-  "lastUpdated": "2025-11-08T21:47:23Z",
+  "lastUpdated": "2025-11-08T21:49:04Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
