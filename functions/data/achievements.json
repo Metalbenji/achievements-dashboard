@@ -1998,9 +1998,10 @@
       "counters": {
         "follow": 1,
         "chat": 11,
-        "points_spent": 502,
+        "points_spent": 602,
         "sub": 13,
-        "effects": 1
+        "effects": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2016,9 +2017,10 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "effect_first"
+        "effect_first",
+        "sound_first"
       ],
-      "lastUpdated": "2025-11-08T19:36:05Z"
+      "lastUpdated": "2025-11-08T19:38:01Z"
     },
     "stevenbonk": {
       "counters": {
@@ -6083,7 +6085,7 @@
       "counters": {
         "points_spent": 21225,
         "special_rewards": 1,
-        "chat": 205,
+        "chat": 206,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6113,7 +6115,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-08T19:33:51Z"
+      "lastUpdated": "2025-11-08T19:37:58Z"
     },
     "otocar": {
       "counters": {
@@ -6733,7 +6735,7 @@
       "lastUpdated": "2025-11-08T16:38:31Z"
     }
   },
-  "lastUpdated": "2025-11-08T19:36:06Z",
+  "lastUpdated": "2025-11-08T19:38:01Z",
   "totalUsers": 320,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
