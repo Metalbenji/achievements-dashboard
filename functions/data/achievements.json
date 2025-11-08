@@ -3686,7 +3686,7 @@
       "counters": {
         "follow": 1,
         "chat": 200,
-        "points_spent": 1,
+        "points_spent": 1001,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -3700,9 +3700,10 @@
         "bday2025_support",
         "chat_conversationalist",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-11-08T12:17:30Z"
+      "lastUpdated": "2025-11-08T12:19:07Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -6709,7 +6710,7 @@
       "lastUpdated": "2025-11-08T12:07:34Z"
     }
   },
-  "lastUpdated": "2025-11-08T12:17:30Z",
+  "lastUpdated": "2025-11-08T12:19:08Z",
   "totalUsers": 318,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
