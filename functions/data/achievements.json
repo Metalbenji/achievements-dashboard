@@ -6689,15 +6689,19 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "bits": 97
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2025-11-08T10:28:46Z"
+      "lastUpdated": "2025-11-08T11:03:28Z"
     }
   },
-  "lastUpdated": "2025-11-08T11:03:31Z",
+  "lastUpdated": "2025-11-08T11:03:32Z",
   "totalUsers": 318,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
