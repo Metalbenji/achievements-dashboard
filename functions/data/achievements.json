@@ -6486,8 +6486,8 @@
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
-        "bits": 9,
-        "raid": 9
+        "bits": 10,
+        "raid": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6506,9 +6506,11 @@
         "chat_dedicated",
         "raid_tier1_captain",
         "bits_tiny",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "bits_small",
+        "raid_tier3_commander"
       ],
-      "lastUpdated": "2025-11-09T14:57:59Z"
+      "lastUpdated": "2025-11-09T14:59:24Z"
     },
     "shawarmha": {
       "counters": {
@@ -6778,7 +6780,7 @@
       "lastUpdated": "2025-11-09T13:26:23Z"
     }
   },
-  "lastUpdated": "2025-11-09T14:59:24Z",
+  "lastUpdated": "2025-11-09T15:01:44Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
