@@ -3485,7 +3485,7 @@
       "counters": {
         "sub": 34,
         "follow": 1,
-        "chat": 344,
+        "chat": 345,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3512,7 +3512,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T13:45:51Z"
+      "lastUpdated": "2025-11-09T15:24:27Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -6060,14 +6060,15 @@
     "betrayaleu": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-14T14:57:51Z"
+      "lastUpdated": "2025-11-09T15:24:28Z"
     },
     "supra124": {
       "counters": {
@@ -6783,7 +6784,7 @@
       "lastUpdated": "2025-11-09T13:26:23Z"
     }
   },
-  "lastUpdated": "2025-11-09T15:24:26Z",
+  "lastUpdated": "2025-11-09T15:24:29Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
