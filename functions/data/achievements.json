@@ -6486,7 +6486,7 @@
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
-        "bits": 4,
+        "bits": 5,
         "raid": 4
       },
       "unlockedAchievements": [
@@ -6504,9 +6504,10 @@
         "chat_frequent",
         "night_owl",
         "chat_dedicated",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "bits_tiny"
       ],
-      "lastUpdated": "2025-11-09T14:45:36Z"
+      "lastUpdated": "2025-11-09T14:46:51Z"
     },
     "shawarmha": {
       "counters": {
@@ -6776,7 +6777,7 @@
       "lastUpdated": "2025-11-09T13:26:23Z"
     }
   },
-  "lastUpdated": "2025-11-09T14:46:51Z",
+  "lastUpdated": "2025-11-09T14:46:52Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
