@@ -4116,7 +4116,7 @@
     "videogamegherkin": {
       "counters": {
         "follow": 1,
-        "chat": 196
+        "chat": 198
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4127,7 +4127,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-09T14:46:40Z"
+      "lastUpdated": "2025-11-09T14:56:28Z"
     },
     "lurknrip": {
       "counters": {
@@ -6478,7 +6478,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 366,
+        "chat": 376,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6486,8 +6486,8 @@
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
-        "bits": 5,
-        "raid": 4
+        "bits": 9,
+        "raid": 9
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6505,9 +6505,10 @@
         "night_owl",
         "chat_dedicated",
         "raid_tier1_captain",
-        "bits_tiny"
+        "bits_tiny",
+        "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-11-09T14:46:51Z"
+      "lastUpdated": "2025-11-09T14:57:59Z"
     },
     "shawarmha": {
       "counters": {
@@ -6777,7 +6778,7 @@
       "lastUpdated": "2025-11-09T13:26:23Z"
     }
   },
-  "lastUpdated": "2025-11-09T14:46:52Z",
+  "lastUpdated": "2025-11-09T14:59:24Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
