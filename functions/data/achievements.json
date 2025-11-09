@@ -4006,7 +4006,7 @@
         "follow": 1,
         "points_spent": 3501,
         "interactive": 7,
-        "chat": 25
+        "chat": 27
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4020,7 +4020,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T16:03:58Z"
+      "lastUpdated": "2025-11-09T16:04:53Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -5175,7 +5175,7 @@
     "werwin1": {
       "counters": {
         "follow": 1,
-        "chat": 20
+        "chat": 21
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5183,7 +5183,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-08T08:56:47Z"
+      "lastUpdated": "2025-11-09T16:05:11Z"
     },
     "remcotje1986": {
       "counters": {
@@ -6803,10 +6803,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-09T15:24:41Z"
+    },
+    "theduke492": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-09T16:05:56Z"
     }
   },
-  "lastUpdated": "2025-11-09T16:03:58Z",
-  "totalUsers": 324,
+  "lastUpdated": "2025-11-09T16:05:57Z",
+  "totalUsers": 325,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
