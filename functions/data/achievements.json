@@ -3167,7 +3167,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 182,
+        "chat": 183,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1
@@ -3184,7 +3184,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-09-27T15:30:56Z"
+      "lastUpdated": "2025-11-09T15:24:31Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -6791,10 +6791,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-09T15:24:30Z"
+    },
+    "nrage_uk": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-09T15:24:41Z"
     }
   },
-  "lastUpdated": "2025-11-09T15:24:31Z",
-  "totalUsers": 323,
+  "lastUpdated": "2025-11-09T15:24:42Z",
+  "totalUsers": 324,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
