@@ -1948,7 +1948,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 727,
+        "chat": 730,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -1996,7 +1996,7 @@
         "sub_elite",
         "spender_silver"
       ],
-      "lastUpdated": "2025-11-09T15:29:57Z"
+      "lastUpdated": "2025-11-09T16:43:55Z"
     },
     "anzerou": {
       "counters": {
@@ -2143,10 +2143,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 45151,
+        "points_spent": 46351,
         "follow": 1,
-        "chat": 603,
-        "effects": 54,
+        "chat": 607,
+        "effects": 55,
         "screenshot": 3,
         "sounds": 4,
         "bits": 300,
@@ -2198,7 +2198,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-08T19:47:11Z"
+      "lastUpdated": "2025-11-09T17:08:57Z"
     },
     "syn__________": {
       "counters": {
@@ -2744,13 +2744,13 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 529,
+        "chat": 532,
         "points_spent": 21151,
         "sounds": 4,
         "effects": 35,
         "sub": 43,
         "bits": 5000,
-        "raid": 4,
+        "raid": 5,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 303,
         "largest_gift_bomb": 228,
@@ -2812,9 +2812,10 @@
         "effect_master",
         "screenshot_first",
         "birthday_person",
-        "bits_elite"
+        "bits_elite",
+        "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-11-09T16:39:39Z"
+      "lastUpdated": "2025-11-09T16:43:42Z"
     },
     "andilippi": {
       "counters": {
@@ -3224,7 +3225,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 836,
+        "chat": 838,
         "points_spent": 9650,
         "effects": 5,
         "interactive": 9,
@@ -3249,7 +3250,7 @@
         "sound_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-09T16:38:36Z"
+      "lastUpdated": "2025-11-09T16:41:22Z"
     },
     "roffelonator": {
       "counters": {
@@ -3408,7 +3409,7 @@
       "counters": {
         "sub": 44,
         "follow": 1,
-        "chat": 228,
+        "chat": 229,
         "points_spent": 20750,
         "effects": 1,
         "gift_bombs": 1,
@@ -3451,7 +3452,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-09T16:02:16Z"
+      "lastUpdated": "2025-11-09T16:41:09Z"
     },
     "camm_23": {
       "counters": {
@@ -3486,7 +3487,7 @@
       "counters": {
         "sub": 34,
         "follow": 1,
-        "chat": 347,
+        "chat": 350,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3513,7 +3514,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T16:03:14Z"
+      "lastUpdated": "2025-11-09T16:40:36Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -4007,7 +4008,7 @@
         "follow": 1,
         "points_spent": 3501,
         "interactive": 7,
-        "chat": 36
+        "chat": 46
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4021,7 +4022,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T16:32:56Z"
+      "lastUpdated": "2025-11-09T17:00:58Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -5780,7 +5781,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 149,
+        "chat": 150,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5791,7 +5792,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-09T15:32:18Z"
+      "lastUpdated": "2025-11-09T17:05:08Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6816,7 +6817,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 464,
+        "chat": 465,
         "points_spent": 14601,
         "screenshot": 1,
         "effects": 3,
@@ -6847,11 +6848,20 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T16:35:55Z"
+      "lastUpdated": "2025-11-09T17:03:23Z"
+    },
+    "wigz666": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-11-09T17:09:32Z"
     }
   },
-  "lastUpdated": "2025-11-09T16:39:41Z",
-  "totalUsers": 326,
+  "lastUpdated": "2025-11-09T17:09:33Z",
+  "totalUsers": 327,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
