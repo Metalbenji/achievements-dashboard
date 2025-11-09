@@ -1948,7 +1948,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 723,
+        "chat": 726,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -1996,7 +1996,7 @@
         "sub_elite",
         "spender_silver"
       ],
-      "lastUpdated": "2025-11-09T14:42:57Z"
+      "lastUpdated": "2025-11-09T15:21:45Z"
     },
     "anzerou": {
       "counters": {
@@ -2051,7 +2051,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 545,
+        "chat": 548,
         "points_spent": 20105,
         "interactive": 14,
         "effects": 21,
@@ -2089,7 +2089,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-09T09:49:35Z"
+      "lastUpdated": "2025-11-09T15:16:47Z"
     },
     "redunt86": {
       "counters": {
@@ -2253,7 +2253,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1723,
+        "chat": 1725,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2319,7 +2319,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-09T14:45:02Z"
+      "lastUpdated": "2025-11-09T15:06:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2470,7 +2470,7 @@
         "points_spent": 8950,
         "effects": 22,
         "follow": 1,
-        "chat": 122,
+        "chat": 123,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2493,7 +2493,7 @@
         "effect_collector",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-28T16:58:03Z"
+      "lastUpdated": "2025-11-09T15:24:04Z"
     },
     "s3n71": {
       "counters": {
@@ -2731,7 +2731,7 @@
     "bludshed187": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2739,7 +2739,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-10-26T10:38:57Z"
+      "lastUpdated": "2025-11-09T15:23:11Z"
     },
     "mistycal_eu": {
       "counters": {
@@ -3223,7 +3223,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 805,
+        "chat": 816,
         "points_spent": 9650,
         "effects": 5,
         "interactive": 9,
@@ -3248,7 +3248,7 @@
         "sound_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-09T15:03:56Z"
+      "lastUpdated": "2025-11-09T15:13:11Z"
     },
     "roffelonator": {
       "counters": {
@@ -3763,12 +3763,13 @@
     },
     "septikknissen": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-09-27T15:15:36Z"
+      "lastUpdated": "2025-11-09T15:24:25Z"
     },
     "m0hmoh21": {
       "counters": {
@@ -4116,7 +4117,7 @@
     "videogamegherkin": {
       "counters": {
         "follow": 1,
-        "chat": 200
+        "chat": 204
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4128,7 +4129,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-09T15:04:02Z"
+      "lastUpdated": "2025-11-09T15:12:36Z"
     },
     "lurknrip": {
       "counters": {
@@ -6479,7 +6480,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 376,
+        "chat": 391,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6512,7 +6513,7 @@
         "raid_tier3_commander",
         "bits_regular"
       ],
-      "lastUpdated": "2025-11-09T15:01:44Z"
+      "lastUpdated": "2025-11-09T15:22:50Z"
     },
     "shawarmha": {
       "counters": {
@@ -6782,7 +6783,7 @@
       "lastUpdated": "2025-11-09T13:26:23Z"
     }
   },
-  "lastUpdated": "2025-11-09T15:04:02Z",
+  "lastUpdated": "2025-11-09T15:24:26Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
