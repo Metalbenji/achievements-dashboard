@@ -2253,7 +2253,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1709,
+        "chat": 1712,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2319,7 +2319,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-09T10:58:06Z"
+      "lastUpdated": "2025-11-09T11:17:05Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2359,7 +2359,7 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 35,
+        "chat": 38,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -2374,7 +2374,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-14T16:23:15Z"
+      "lastUpdated": "2025-11-09T11:25:01Z"
     },
     "insidematt": {
       "counters": {
@@ -3223,7 +3223,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 793,
+        "chat": 796,
         "points_spent": 9650,
         "effects": 5,
         "interactive": 9,
@@ -3248,7 +3248,7 @@
         "sound_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-09T11:09:03Z"
+      "lastUpdated": "2025-11-09T11:11:01Z"
     },
     "roffelonator": {
       "counters": {
@@ -5775,7 +5775,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 118,
+        "chat": 122,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5786,7 +5786,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-09T11:08:37Z"
+      "lastUpdated": "2025-11-09T11:25:13Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6476,7 +6476,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 300,
+        "chat": 301,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6501,7 +6501,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T11:09:05Z"
+      "lastUpdated": "2025-11-09T11:11:14Z"
     },
     "shawarmha": {
       "counters": {
@@ -6759,17 +6759,18 @@
     "sisterbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-11-08T21:51:19Z"
+      "lastUpdated": "2025-11-09T11:25:23Z"
     }
   },
-  "lastUpdated": "2025-11-09T11:09:06Z",
+  "lastUpdated": "2025-11-09T11:25:24Z",
   "totalUsers": 322,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
