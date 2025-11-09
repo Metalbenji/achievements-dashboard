@@ -5778,7 +5778,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 143,
+        "chat": 144,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5789,7 +5789,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-09T15:02:13Z"
+      "lastUpdated": "2025-11-09T15:24:29Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6782,10 +6782,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2025-11-09T13:26:23Z"
+    },
+    "nyx241": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-09T15:24:30Z"
     }
   },
-  "lastUpdated": "2025-11-09T15:24:29Z",
-  "totalUsers": 322,
+  "lastUpdated": "2025-11-09T15:24:31Z",
+  "totalUsers": 323,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
