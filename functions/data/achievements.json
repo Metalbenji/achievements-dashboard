@@ -5778,7 +5778,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 144,
+        "chat": 145,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -5789,7 +5789,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-09T15:24:29Z"
+      "lastUpdated": "2025-11-09T15:24:45Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6785,12 +6785,14 @@
     },
     "nyx241": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-09T15:24:30Z"
+      "lastUpdated": "2025-11-09T15:24:49Z"
     },
     "nrage_uk": {
       "counters": {
@@ -6802,7 +6804,7 @@
       "lastUpdated": "2025-11-09T15:24:41Z"
     }
   },
-  "lastUpdated": "2025-11-09T15:24:42Z",
+  "lastUpdated": "2025-11-09T15:24:50Z",
   "totalUsers": 324,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
