@@ -2749,7 +2749,7 @@
         "sounds": 4,
         "effects": 35,
         "sub": 43,
-        "bits": 4000,
+        "bits": 5000,
         "raid": 4,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 303,
@@ -2811,9 +2811,10 @@
         "spender_silver",
         "effect_master",
         "screenshot_first",
-        "birthday_person"
+        "birthday_person",
+        "bits_elite"
       ],
-      "lastUpdated": "2025-11-09T16:37:16Z"
+      "lastUpdated": "2025-11-09T16:39:39Z"
     },
     "andilippi": {
       "counters": {
@@ -6849,7 +6850,7 @@
       "lastUpdated": "2025-11-09T16:35:55Z"
     }
   },
-  "lastUpdated": "2025-11-09T16:39:39Z",
+  "lastUpdated": "2025-11-09T16:39:41Z",
   "totalUsers": 326,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
