@@ -1867,7 +1867,7 @@
     "kaiiaryn": {
       "counters": {
         "follow": 1,
-        "chat": 216,
+        "chat": 217,
         "points_spent": 7500,
         "interactive": 4,
         "gift_bombs": 1,
@@ -1901,7 +1901,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-08T09:20:15Z"
+      "lastUpdated": "2025-11-13T16:35:56Z"
     },
     "adammmidders": {
       "counters": {
@@ -2051,11 +2051,11 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 552,
+        "chat": 555,
         "points_spent": 20105,
         "interactive": 14,
         "effects": 21,
-        "sub": 24,
+        "sub": 25,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -2089,7 +2089,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-13T16:13:37Z"
+      "lastUpdated": "2025-11-13T16:34:48Z"
     },
     "redunt86": {
       "counters": {
@@ -2744,7 +2744,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 543,
+        "chat": 545,
         "points_spent": 21151,
         "sounds": 4,
         "effects": 35,
@@ -2815,7 +2815,7 @@
         "bits_elite",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-11-13T16:14:07Z"
+      "lastUpdated": "2025-11-13T16:33:35Z"
     },
     "andilippi": {
       "counters": {
@@ -3321,7 +3321,7 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 64,
+        "chat": 69,
         "points_spent": 8251,
         "effects": 7,
         "screenshot": 4,
@@ -3361,7 +3361,7 @@
         "gift_starter",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-13T16:24:42Z"
+      "lastUpdated": "2025-11-13T16:31:58Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -5781,7 +5781,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 163,
+        "chat": 165,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5797,7 +5797,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-13T16:25:07Z"
+      "lastUpdated": "2025-11-13T16:31:51Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6870,18 +6870,19 @@
     },
     "chaarleyxo": {
       "counters": {
-        "chat": 10,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-13T16:25:13Z"
+      "lastUpdated": "2025-11-13T16:37:28Z"
     }
   },
-  "lastUpdated": "2025-11-13T16:25:14Z",
+  "lastUpdated": "2025-11-13T16:37:29Z",
   "totalUsers": 328,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
