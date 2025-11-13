@@ -5783,7 +5783,8 @@
       "counters": {
         "chat": 154,
         "follow": 1,
-        "points_spent": 10000
+        "points_spent": 10000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5792,9 +5793,11 @@
         "chat_talker",
         "chat_conversationalist",
         "chat_regular",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2025-11-13T16:05:42Z"
+      "lastUpdated": "2025-11-13T16:05:45Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6866,7 +6869,7 @@
       "lastUpdated": "2025-11-09T17:24:45Z"
     }
   },
-  "lastUpdated": "2025-11-13T16:05:43Z",
+  "lastUpdated": "2025-11-13T16:05:45Z",
   "totalUsers": 327,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
