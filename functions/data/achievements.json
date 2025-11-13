@@ -3321,10 +3321,10 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 55,
-        "points_spent": 7701,
-        "effects": 6,
-        "screenshot": 3,
+        "chat": 64,
+        "points_spent": 8251,
+        "effects": 7,
+        "screenshot": 4,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 150,
         "largest_gift_bomb": 111,
@@ -3361,7 +3361,7 @@
         "gift_starter",
         "sound_first"
       ],
-      "lastUpdated": "2025-07-29T10:12:41Z"
+      "lastUpdated": "2025-11-13T16:24:42Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -5781,7 +5781,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 159,
+        "chat": 163,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5797,7 +5797,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-13T16:13:21Z"
+      "lastUpdated": "2025-11-13T16:25:07Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6870,17 +6870,18 @@
     },
     "chaarleyxo": {
       "counters": {
-        "chat": 5,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-11-13T16:15:12Z"
+      "lastUpdated": "2025-11-13T16:25:13Z"
     }
   },
-  "lastUpdated": "2025-11-13T16:15:13Z",
+  "lastUpdated": "2025-11-13T16:25:14Z",
   "totalUsers": 328,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
