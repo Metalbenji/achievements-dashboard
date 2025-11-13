@@ -2145,7 +2145,7 @@
       "counters": {
         "points_spent": 46351,
         "follow": 1,
-        "chat": 608,
+        "chat": 609,
         "effects": 55,
         "screenshot": 3,
         "sounds": 4,
@@ -2198,7 +2198,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-09T17:14:08Z"
+      "lastUpdated": "2025-11-09T17:29:29Z"
     },
     "syn__________": {
       "counters": {
@@ -2744,7 +2744,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 532,
+        "chat": 537,
         "points_spent": 21151,
         "sounds": 4,
         "effects": 35,
@@ -2815,7 +2815,7 @@
         "bits_elite",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-11-09T16:43:42Z"
+      "lastUpdated": "2025-11-13T16:05:39Z"
     },
     "andilippi": {
       "counters": {
@@ -3137,7 +3137,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 141,
+        "chat": 142,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3154,7 +3154,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-09T11:40:38Z"
+      "lastUpdated": "2025-11-13T16:02:11Z"
     },
     "hero_zappz": {
       "counters": {
@@ -5781,8 +5781,9 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 150,
-        "follow": 1
+        "chat": 154,
+        "follow": 1,
+        "points_spent": 10000
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5790,9 +5791,10 @@
         "follow_supporter",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-11-09T17:05:08Z"
+      "lastUpdated": "2025-11-13T16:05:42Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6097,9 +6099,9 @@
     },
     "hm_pete": {
       "counters": {
-        "points_spent": 21227,
+        "points_spent": 21228,
         "special_rewards": 1,
-        "chat": 218,
+        "chat": 219,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6129,7 +6131,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-09T11:50:09Z"
+      "lastUpdated": "2025-11-13T16:01:36Z"
     },
     "otocar": {
       "counters": {
@@ -6166,7 +6168,7 @@
     },
     "legolich": {
       "counters": {
-        "chat": 93,
+        "chat": 97,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6176,7 +6178,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-10-26T13:19:27Z"
+      "lastUpdated": "2025-11-09T17:43:17Z"
     },
     "provos": {
       "counters": {
@@ -6553,7 +6555,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 745,
+        "chat": 749,
         "points_spent": 34300,
         "sounds": 12,
         "effects": 6,
@@ -6594,7 +6596,7 @@
         "vip_dreamer",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T16:32:43Z"
+      "lastUpdated": "2025-11-09T17:48:45Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6817,7 +6819,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 466,
+        "chat": 470,
         "points_spent": 14601,
         "screenshot": 1,
         "effects": 3,
@@ -6848,12 +6850,12 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T17:18:33Z"
+      "lastUpdated": "2025-11-09T17:25:40Z"
     },
     "wigz666": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6861,10 +6863,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-09T17:18:51Z"
+      "lastUpdated": "2025-11-09T17:24:45Z"
     }
   },
-  "lastUpdated": "2025-11-09T17:18:51Z",
+  "lastUpdated": "2025-11-13T16:05:43Z",
   "totalUsers": 327,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
