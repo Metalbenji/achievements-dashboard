@@ -6561,7 +6561,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 750,
+        "chat": 751,
         "points_spent": 34300,
         "sounds": 12,
         "effects": 6,
@@ -6603,7 +6603,7 @@
         "chat_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-15T15:19:22Z"
+      "lastUpdated": "2025-11-15T15:19:39Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6617,15 +6617,18 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 19,
+        "points_spent": 500,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-11-15T14:54:11Z"
+      "lastUpdated": "2025-11-15T15:19:44Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6899,7 +6902,7 @@
       "lastUpdated": "2025-11-15T14:35:53Z"
     }
   },
-  "lastUpdated": "2025-11-15T15:19:23Z",
+  "lastUpdated": "2025-11-15T15:19:44Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
