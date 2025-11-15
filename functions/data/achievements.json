@@ -4073,8 +4073,8 @@
       "counters": {
         "sub": 40,
         "follow": 1,
-        "chat": 94,
-        "points_spent": 500,
+        "chat": 95,
+        "points_spent": 501,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -4096,9 +4096,10 @@
         "chat_talker",
         "sound_first",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "first_caller"
       ],
-      "lastUpdated": "2025-09-28T09:02:23Z"
+      "lastUpdated": "2025-11-15T13:32:13Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -5781,7 +5782,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 165,
+        "chat": 171,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5797,7 +5798,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-13T16:31:51Z"
+      "lastUpdated": "2025-11-13T17:08:59Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6728,7 +6729,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 14,
+        "chat": 15,
         "bits": 97,
         "raid": 1,
         "follow": 1,
@@ -6745,7 +6746,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-09T10:15:41Z"
+      "lastUpdated": "2025-11-13T17:06:17Z"
     },
     "ldbv1983": {
       "counters": {
@@ -6870,7 +6871,7 @@
     },
     "chaarleyxo": {
       "counters": {
-        "chat": 25,
+        "chat": 48,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6879,10 +6880,10 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-13T16:37:28Z"
+      "lastUpdated": "2025-11-13T17:09:31Z"
     }
   },
-  "lastUpdated": "2025-11-13T16:37:29Z",
+  "lastUpdated": "2025-11-15T13:32:14Z",
   "totalUsers": 328,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
