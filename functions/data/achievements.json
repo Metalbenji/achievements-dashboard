@@ -1593,7 +1593,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1287,
+        "chat": 1288,
         "points_spent": 47200,
         "interactive": 27,
         "follow": 1,
@@ -1636,11 +1636,11 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-15T14:48:33Z"
+      "lastUpdated": "2025-11-15T16:16:18Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 295,
+        "chat": 300,
         "follow": 1,
         "sub": 33,
         "points_spent": 55000,
@@ -1670,9 +1670,10 @@
         "spender_silver",
         "sound_first",
         "spender_gold",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-15T16:00:09Z"
+      "lastUpdated": "2025-11-15T17:07:03Z"
     },
     "scoman07": {
       "counters": {
@@ -2253,7 +2254,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1749,
+        "chat": 1751,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2319,7 +2320,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-15T15:56:39Z"
+      "lastUpdated": "2025-11-15T16:14:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2988,7 +2989,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1171,
+        "chat": 1175,
         "sub": 44,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3029,7 +3030,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-15T14:49:27Z"
+      "lastUpdated": "2025-11-15T16:21:17Z"
     },
     "majesty81": {
       "counters": {
@@ -5784,7 +5785,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 175,
+        "chat": 176,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5800,7 +5801,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-15T15:26:24Z"
+      "lastUpdated": "2025-11-15T16:44:01Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6561,9 +6562,9 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 755,
-        "points_spent": 34800,
-        "sounds": 13,
+        "chat": 763,
+        "points_spent": 35300,
+        "sounds": 14,
         "effects": 6,
         "screenshot": 1,
         "sub": 14,
@@ -6603,7 +6604,7 @@
         "chat_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-15T15:59:12Z"
+      "lastUpdated": "2025-11-15T17:05:03Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6617,7 +6618,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 29,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6629,7 +6630,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-15T16:00:50Z"
+      "lastUpdated": "2025-11-15T17:00:41Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6903,7 +6904,7 @@
       "lastUpdated": "2025-11-15T14:35:53Z"
     }
   },
-  "lastUpdated": "2025-11-15T16:00:51Z",
+  "lastUpdated": "2025-11-15T17:07:04Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
