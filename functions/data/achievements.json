@@ -1525,15 +1525,15 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1787,
+        "chat": 1802,
         "points_spent": 89051,
         "screenshot": 1,
         "follow": 1,
         "sub": 47,
         "sounds": 5,
         "effects": 9,
-        "gift_bombs": 5,
-        "total_gift_bomb_subs": 137,
+        "gift_bombs": 6,
+        "total_gift_bomb_subs": 142,
         "largest_gift_bomb": 116,
         "interactive": 1,
         "gift_subs": 1
@@ -1589,7 +1589,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-15T13:47:35Z"
+      "lastUpdated": "2025-11-15T14:10:31Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3138,7 +3138,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 142,
+        "chat": 143,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3155,7 +3155,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-13T16:02:11Z"
+      "lastUpdated": "2025-11-15T13:51:12Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4074,7 +4074,7 @@
       "counters": {
         "sub": 42,
         "follow": 1,
-        "chat": 101,
+        "chat": 104,
         "points_spent": 501,
         "sounds": 1
       },
@@ -4101,7 +4101,7 @@
         "first_caller",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-15T13:45:09Z"
+      "lastUpdated": "2025-11-15T14:02:59Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -5784,7 +5784,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 171,
+        "chat": 173,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5800,7 +5800,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-13T17:08:59Z"
+      "lastUpdated": "2025-11-15T14:03:43Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6616,14 +6616,15 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-11-15T13:48:58Z"
+      "lastUpdated": "2025-11-15T14:10:58Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6696,7 +6697,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 927,
+        "chat": 946,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6728,7 +6729,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-15T13:48:06Z"
+      "lastUpdated": "2025-11-15T14:10:17Z"
     },
     "metalbenji": {
       "counters": {
@@ -6886,7 +6887,7 @@
       "lastUpdated": "2025-11-13T17:09:31Z"
     }
   },
-  "lastUpdated": "2025-11-15T13:48:58Z",
+  "lastUpdated": "2025-11-15T14:10:59Z",
   "totalUsers": 328,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
