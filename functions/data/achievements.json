@@ -1525,11 +1525,11 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1774,
+        "chat": 1780,
         "points_spent": 89051,
         "screenshot": 1,
         "follow": 1,
-        "sub": 46,
+        "sub": 47,
         "sounds": 5,
         "effects": 9,
         "gift_bombs": 5,
@@ -1589,7 +1589,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-09T15:42:43Z"
+      "lastUpdated": "2025-11-15T13:41:50Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2001,7 +2001,7 @@
     "anzerou": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 30,
         "points_spent": 602,
         "sub": 13,
         "effects": 1,
@@ -2025,7 +2025,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-08T19:47:48Z"
+      "lastUpdated": "2025-11-15T13:34:37Z"
     },
     "stevenbonk": {
       "counters": {
@@ -4071,9 +4071,9 @@
     },
     "kallam19": {
       "counters": {
-        "sub": 40,
+        "sub": 42,
         "follow": 1,
-        "chat": 95,
+        "chat": 100,
         "points_spent": 501,
         "sounds": 1
       },
@@ -4097,9 +4097,10 @@
         "sound_first",
         "chat_conversationalist",
         "bday2025_attend",
-        "first_caller"
+        "first_caller",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-11-15T13:32:13Z"
+      "lastUpdated": "2025-11-15T13:42:01Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -6614,13 +6615,13 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-11-01T10:07:29Z"
+      "lastUpdated": "2025-11-15T13:41:32Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6693,7 +6694,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 910,
+        "chat": 919,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6725,7 +6726,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-09T14:23:42Z"
+      "lastUpdated": "2025-11-15T13:41:49Z"
     },
     "metalbenji": {
       "counters": {
@@ -6883,7 +6884,7 @@
       "lastUpdated": "2025-11-13T17:09:31Z"
     }
   },
-  "lastUpdated": "2025-11-15T13:32:14Z",
+  "lastUpdated": "2025-11-15T13:42:01Z",
   "totalUsers": 328,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
