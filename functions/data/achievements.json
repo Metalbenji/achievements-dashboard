@@ -1525,7 +1525,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1780,
+        "chat": 1785,
         "points_spent": 89051,
         "screenshot": 1,
         "follow": 1,
@@ -1589,7 +1589,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-15T13:41:50Z"
+      "lastUpdated": "2025-11-15T13:46:06Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2558,7 +2558,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 7,
+        "chat": 10,
         "points_spent": 1300,
         "interactive": 1,
         "effects": 1
@@ -2569,9 +2569,10 @@
         "interactive_first",
         "spender_bronze",
         "effect_first",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-09-06T09:18:11Z"
+      "lastUpdated": "2025-11-15T13:46:19Z"
     },
     "soundalerts": {
       "counters": {
@@ -4073,7 +4074,7 @@
       "counters": {
         "sub": 42,
         "follow": 1,
-        "chat": 100,
+        "chat": 101,
         "points_spent": 501,
         "sounds": 1
       },
@@ -4100,7 +4101,7 @@
         "first_caller",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-15T13:42:01Z"
+      "lastUpdated": "2025-11-15T13:45:09Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -6694,7 +6695,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 919,
+        "chat": 924,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6726,7 +6727,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-15T13:41:49Z"
+      "lastUpdated": "2025-11-15T13:43:40Z"
     },
     "metalbenji": {
       "counters": {
@@ -6884,7 +6885,7 @@
       "lastUpdated": "2025-11-13T17:09:31Z"
     }
   },
-  "lastUpdated": "2025-11-15T13:42:01Z",
+  "lastUpdated": "2025-11-15T13:46:19Z",
   "totalUsers": 328,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
