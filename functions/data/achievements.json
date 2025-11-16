@@ -1593,7 +1593,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1317,
+        "chat": 1327,
         "points_spent": 47700,
         "interactive": 28,
         "follow": 1,
@@ -1636,7 +1636,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T19:10:59Z"
+      "lastUpdated": "2025-11-16T19:49:59Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2127,7 +2127,7 @@
       "counters": {
         "points_spent": 46801,
         "follow": 1,
-        "chat": 621,
+        "chat": 625,
         "effects": 57,
         "screenshot": 3,
         "sounds": 4,
@@ -2180,7 +2180,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-16T19:15:51Z"
+      "lastUpdated": "2025-11-16T20:42:30Z"
     },
     "syn__________": {
       "counters": {
@@ -2322,7 +2322,7 @@
     "ke1fire": {
       "counters": {
         "follow": 1,
-        "chat": 77,
+        "chat": 79,
         "points_spent": 500,
         "interactive": 1
       },
@@ -2336,12 +2336,12 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-03T21:31:03Z"
+      "lastUpdated": "2025-11-16T20:41:36Z"
     },
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 43,
+        "chat": 50,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -2356,7 +2356,7 @@
         "sound_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T15:26:00Z"
+      "lastUpdated": "2025-11-16T19:47:33Z"
     },
     "insidematt": {
       "counters": {
@@ -2972,7 +2972,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1223,
+        "chat": 1227,
         "sub": 44,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3013,7 +3013,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T17:41:53Z"
+      "lastUpdated": "2025-11-16T20:03:34Z"
     },
     "majesty81": {
       "counters": {
@@ -4367,7 +4367,7 @@
     "funsham": {
       "counters": {
         "follow": 1,
-        "chat": 31
+        "chat": 32
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4377,7 +4377,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T15:02:09Z"
+      "lastUpdated": "2025-11-16T20:06:40Z"
     },
     "bety_bambalam": {
       "counters": {
@@ -6731,12 +6731,13 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 25,
+        "chat": 27,
         "bits": 97,
         "raid": 1,
         "follow": 1,
         "gift_subs": 1,
-        "sub": 1
+        "sub": 1,
+        "points_spent": 1000
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6750,9 +6751,10 @@
         "chat_talker",
         "sub_tier1",
         "sub_first_month",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-11-16T19:16:12Z"
+      "lastUpdated": "2025-11-16T20:44:45Z"
     },
     "ldbv1983": {
       "counters": {
@@ -6920,7 +6922,7 @@
       "lastUpdated": "2025-11-16T15:51:23Z"
     }
   },
-  "lastUpdated": "2025-11-16T19:16:13Z",
+  "lastUpdated": "2025-11-16T20:44:46Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
