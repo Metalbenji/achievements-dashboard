@@ -1485,7 +1485,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 358,
+        "chat": 364,
         "points_spent": 9800,
         "effects": 9,
         "follow": 1,
@@ -1521,11 +1521,11 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T09:50:34Z"
+      "lastUpdated": "2025-11-16T10:01:44Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 1821,
+        "chat": 1822,
         "points_spent": 89051,
         "screenshot": 1,
         "follow": 1,
@@ -1589,11 +1589,11 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-15T17:12:06Z"
+      "lastUpdated": "2025-11-16T09:41:39Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1288,
+        "chat": 1290,
         "points_spent": 47200,
         "interactive": 27,
         "follow": 1,
@@ -1636,7 +1636,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-15T16:16:18Z"
+      "lastUpdated": "2025-11-16T10:01:36Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2095,7 +2095,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 933,
+        "chat": 962,
         "points_spent": 11050,
         "effects": 20,
         "sounds": 3,
@@ -2120,33 +2120,13 @@
         "spender_silver",
         "interactive_first"
       ],
-      "lastUpdated": "2025-11-16T09:35:41Z"
-    },
-    "spoono__": {
-      "counters": {
-        "follow": 1,
-        "chat": 76,
-        "points_spent": 20000,
-        "sounds": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "spender_bronze",
-        "spender_silver",
-        "sound_first",
-        "chat_conversationalist",
-        "bday2025_attend"
-      ],
-      "lastUpdated": "2025-09-20T09:15:38Z"
+      "lastUpdated": "2025-11-16T10:04:51Z"
     },
     "oxmacerxo": {
       "counters": {
         "points_spent": 46351,
         "follow": 1,
-        "chat": 610,
+        "chat": 611,
         "effects": 55,
         "screenshot": 3,
         "sounds": 4,
@@ -2199,7 +2179,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-16T09:34:57Z"
+      "lastUpdated": "2025-11-16T09:56:12Z"
     },
     "syn__________": {
       "counters": {
@@ -2499,8 +2479,8 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 586,
-        "sub": 35,
+        "chat": 587,
+        "sub": 36,
         "points_spent": 25251,
         "interactive": 2,
         "sounds": 2,
@@ -2552,9 +2532,10 @@
         "chat_frequent",
         "night_owl",
         "chat_dedicated",
-        "gift_bombs_regular"
+        "gift_bombs_regular",
+        "sub_master"
       ],
-      "lastUpdated": "2025-10-11T14:21:44Z"
+      "lastUpdated": "2025-11-16T09:38:34Z"
     },
     "umenneske94": {
       "counters": {
@@ -2989,7 +2970,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1180,
+        "chat": 1191,
         "sub": 44,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3030,7 +3011,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T09:27:06Z"
+      "lastUpdated": "2025-11-16T10:00:46Z"
     },
     "majesty81": {
       "counters": {
@@ -6493,7 +6474,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 413,
+        "chat": 422,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6526,7 +6507,7 @@
         "raid_tier3_commander",
         "bits_regular"
       ],
-      "lastUpdated": "2025-11-16T09:34:43Z"
+      "lastUpdated": "2025-11-16T10:04:52Z"
     },
     "shawarmha": {
       "counters": {
@@ -6704,7 +6685,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 955,
+        "chat": 957,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6736,7 +6717,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-16T09:29:30Z"
+      "lastUpdated": "2025-11-16T09:38:25Z"
     },
     "metalbenji": {
       "counters": {
@@ -6906,9 +6887,29 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-15T14:35:53Z"
+    },
+    "spoono_tv": {
+      "counters": {
+        "follow": 1,
+        "chat": 78,
+        "points_spent": 20000,
+        "sounds": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie",
+        "chat_talker",
+        "spender_bronze",
+        "spender_silver",
+        "sound_first",
+        "chat_conversationalist",
+        "bday2025_attend"
+      ],
+      "lastUpdated": "2025-11-16T09:50:36Z"
     }
   },
-  "lastUpdated": "2025-11-16T09:35:55Z",
+  "lastUpdated": "2025-11-16T10:05:19Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
