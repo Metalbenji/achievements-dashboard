@@ -6563,7 +6563,7 @@
       "counters": {
         "follow": 1,
         "chat": 765,
-        "points_spent": 35300,
+        "points_spent": 35301,
         "sounds": 14,
         "effects": 6,
         "screenshot": 1,
@@ -6602,9 +6602,10 @@
         "spender_silver",
         "vip_dreamer",
         "chat_dedicated",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "first_caller"
       ],
-      "lastUpdated": "2025-11-15T17:10:05Z"
+      "lastUpdated": "2025-11-16T09:18:47Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6743,7 +6744,8 @@
         "bits": 97,
         "raid": 1,
         "follow": 1,
-        "gift_subs": 1
+        "gift_subs": 1,
+        "sub": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6754,9 +6756,11 @@
         "follow_supporter",
         "gift_starter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "sub_tier1",
+        "sub_first_month"
       ],
-      "lastUpdated": "2025-11-15T21:40:11Z"
+      "lastUpdated": "2025-11-15T21:43:49Z"
     },
     "ldbv1983": {
       "counters": {
@@ -6904,7 +6908,7 @@
       "lastUpdated": "2025-11-15T14:35:53Z"
     }
   },
-  "lastUpdated": "2025-11-15T21:40:40Z",
+  "lastUpdated": "2025-11-16T09:18:48Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
