@@ -2377,7 +2377,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 105,
         "points_spent": 5850,
         "interactive": 3,
         "effects": 2
@@ -2395,7 +2395,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-16T12:48:00Z"
+      "lastUpdated": "2025-11-16T12:56:03Z"
     },
     "qyainiana": {
       "counters": {
@@ -6161,7 +6161,7 @@
     },
     "legolich": {
       "counters": {
-        "chat": 97,
+        "chat": 98,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6171,7 +6171,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T17:43:17Z"
+      "lastUpdated": "2025-11-16T12:48:59Z"
     },
     "provos": {
       "counters": {
@@ -6481,7 +6481,7 @@
       "counters": {
         "chat": 474,
         "follow": 1,
-        "points_spent": 350,
+        "points_spent": 10350,
         "screenshot": 1,
         "sub": 1,
         "gift_bombs": 2,
@@ -6511,9 +6511,10 @@
         "bits_small",
         "raid_tier3_commander",
         "bits_regular",
-        "bits_steady"
+        "bits_steady",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-11-16T12:24:12Z"
+      "lastUpdated": "2025-11-16T13:10:55Z"
     },
     "shawarmha": {
       "counters": {
@@ -6915,7 +6916,7 @@
       "lastUpdated": "2025-11-16T09:50:36Z"
     }
   },
-  "lastUpdated": "2025-11-16T12:48:01Z",
+  "lastUpdated": "2025-11-16T13:10:56Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
