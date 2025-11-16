@@ -1593,7 +1593,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1290,
+        "chat": 1293,
         "points_spent": 47200,
         "interactive": 27,
         "follow": 1,
@@ -1636,7 +1636,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T10:01:36Z"
+      "lastUpdated": "2025-11-16T10:12:41Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2095,7 +2095,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 962,
+        "chat": 1000,
         "points_spent": 11050,
         "effects": 20,
         "sounds": 3,
@@ -2118,15 +2118,16 @@
         "sound_first",
         "chat_enthusiast",
         "spender_silver",
-        "interactive_first"
+        "interactive_first",
+        "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T10:04:51Z"
+      "lastUpdated": "2025-11-16T10:47:06Z"
     },
     "oxmacerxo": {
       "counters": {
         "points_spent": 46351,
         "follow": 1,
-        "chat": 611,
+        "chat": 614,
         "effects": 55,
         "screenshot": 3,
         "sounds": 4,
@@ -2179,7 +2180,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-16T09:56:12Z"
+      "lastUpdated": "2025-11-16T10:35:18Z"
     },
     "syn__________": {
       "counters": {
@@ -2970,7 +2971,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1191,
+        "chat": 1201,
         "sub": 44,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3011,7 +3012,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T10:00:46Z"
+      "lastUpdated": "2025-11-16T10:13:39Z"
     },
     "majesty81": {
       "counters": {
@@ -6474,7 +6475,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 422,
+        "chat": 442,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
@@ -6482,8 +6483,8 @@
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
-        "bits": 139,
-        "raid": 15
+        "bits": 340,
+        "raid": 16
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6505,9 +6506,10 @@
         "raid_tier2_seasoned",
         "bits_small",
         "raid_tier3_commander",
-        "bits_regular"
+        "bits_regular",
+        "bits_steady"
       ],
-      "lastUpdated": "2025-11-16T10:04:52Z"
+      "lastUpdated": "2025-11-16T10:45:30Z"
     },
     "shawarmha": {
       "counters": {
@@ -6685,7 +6687,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 957,
+        "chat": 962,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6717,7 +6719,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-16T09:38:25Z"
+      "lastUpdated": "2025-11-16T10:32:36Z"
     },
     "metalbenji": {
       "counters": {
@@ -6818,12 +6820,12 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 470,
-        "points_spent": 14601,
+        "chat": 482,
+        "points_spent": 15001,
         "screenshot": 1,
         "effects": 3,
         "sounds": 1,
-        "interactive": 22,
+        "interactive": 23,
         "special_rewards": 1,
         "follow": 1
       },
@@ -6849,7 +6851,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-09T17:25:40Z"
+      "lastUpdated": "2025-11-16T10:46:42Z"
     },
     "wigz666": {
       "counters": {
@@ -6909,7 +6911,7 @@
       "lastUpdated": "2025-11-16T09:50:36Z"
     }
   },
-  "lastUpdated": "2025-11-16T10:05:19Z",
+  "lastUpdated": "2025-11-16T10:47:07Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
