@@ -1593,7 +1593,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1293,
+        "chat": 1299,
         "points_spent": 47200,
         "interactive": 27,
         "follow": 1,
@@ -1636,15 +1636,15 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T10:12:41Z"
+      "lastUpdated": "2025-11-16T11:04:15Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 305,
+        "chat": 309,
         "follow": 1,
         "sub": 33,
-        "points_spent": 55000,
-        "sounds": 2
+        "points_spent": 65000,
+        "sounds": 3
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1673,7 +1673,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-15T17:15:34Z"
+      "lastUpdated": "2025-11-16T11:50:31Z"
     },
     "scoman07": {
       "counters": {
@@ -2095,7 +2095,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1000,
+        "chat": 1004,
         "points_spent": 11050,
         "effects": 20,
         "sounds": 3,
@@ -2121,13 +2121,13 @@
         "interactive_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T10:47:06Z"
+      "lastUpdated": "2025-11-16T10:56:19Z"
     },
     "oxmacerxo": {
       "counters": {
         "points_spent": 46351,
         "follow": 1,
-        "chat": 614,
+        "chat": 616,
         "effects": 55,
         "screenshot": 3,
         "sounds": 4,
@@ -2180,7 +2180,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-16T10:35:18Z"
+      "lastUpdated": "2025-11-16T11:50:22Z"
     },
     "syn__________": {
       "counters": {
@@ -2658,9 +2658,9 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 235,
+        "chat": 251,
         "bits": 15,
-        "sub": 14,
+        "sub": 15,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -2684,7 +2684,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-10-19T13:30:30Z"
+      "lastUpdated": "2025-11-16T11:50:05Z"
     },
     "chevelletv": {
       "counters": {
@@ -5013,8 +5013,10 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 221,
-        "sub": 11
+        "chat": 222,
+        "sub": 11,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5031,9 +5033,10 @@
         "sub_veteran",
         "sub_champion",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "effect_first"
       ],
-      "lastUpdated": "2025-10-12T13:20:04Z"
+      "lastUpdated": "2025-11-16T11:55:14Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5767,7 +5770,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 181,
+        "chat": 186,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5783,7 +5786,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-15T17:14:10Z"
+      "lastUpdated": "2025-11-16T11:28:39Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6475,13 +6478,13 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 442,
+        "chat": 469,
         "follow": 1,
         "points_spent": 350,
         "screenshot": 1,
         "sub": 1,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 5,
+        "gift_bombs": 2,
+        "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 5,
         "bits": 340,
         "raid": 16
@@ -6509,7 +6512,7 @@
         "bits_regular",
         "bits_steady"
       ],
-      "lastUpdated": "2025-11-16T10:45:30Z"
+      "lastUpdated": "2025-11-16T11:55:08Z"
     },
     "shawarmha": {
       "counters": {
@@ -6820,7 +6823,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 482,
+        "chat": 499,
         "points_spent": 15001,
         "screenshot": 1,
         "effects": 3,
@@ -6851,7 +6854,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-16T10:46:42Z"
+      "lastUpdated": "2025-11-16T11:09:11Z"
     },
     "wigz666": {
       "counters": {
@@ -6911,7 +6914,7 @@
       "lastUpdated": "2025-11-16T09:50:36Z"
     }
   },
-  "lastUpdated": "2025-11-16T10:47:07Z",
+  "lastUpdated": "2025-11-16T11:55:15Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
