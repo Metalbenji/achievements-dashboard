@@ -5771,7 +5771,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 188,
+        "chat": 189,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5785,9 +5785,10 @@
         "chat_regular",
         "spender_bronze",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "night_owl"
       ],
-      "lastUpdated": "2025-11-16T13:28:32Z"
+      "lastUpdated": "2025-11-16T22:06:10Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6695,7 +6696,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 988,
+        "chat": 991,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6728,7 +6729,7 @@
         "chat_enthusiast",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-16T22:02:49Z"
+      "lastUpdated": "2025-11-16T22:06:02Z"
     },
     "metalbenji": {
       "counters": {
@@ -6925,7 +6926,7 @@
       "lastUpdated": "2025-11-16T15:51:23Z"
     }
   },
-  "lastUpdated": "2025-11-16T22:02:50Z",
+  "lastUpdated": "2025-11-16T22:06:11Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
