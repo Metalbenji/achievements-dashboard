@@ -1593,9 +1593,9 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1327,
-        "points_spent": 47700,
-        "interactive": 28,
+        "chat": 1332,
+        "points_spent": 48200,
+        "interactive": 29,
         "follow": 1,
         "sub": 35,
         "effects": 6,
@@ -1636,7 +1636,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T19:49:59Z"
+      "lastUpdated": "2025-11-16T21:48:38Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2127,7 +2127,7 @@
       "counters": {
         "points_spent": 46801,
         "follow": 1,
-        "chat": 625,
+        "chat": 627,
         "effects": 57,
         "screenshot": 3,
         "sounds": 4,
@@ -2180,7 +2180,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-16T20:42:30Z"
+      "lastUpdated": "2025-11-16T21:44:25Z"
     },
     "syn__________": {
       "counters": {
@@ -2972,7 +2972,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1227,
+        "chat": 1233,
         "sub": 44,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3013,7 +3013,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T20:03:34Z"
+      "lastUpdated": "2025-11-16T21:43:13Z"
     },
     "majesty81": {
       "counters": {
@@ -6094,7 +6094,7 @@
       "counters": {
         "points_spent": 21228,
         "special_rewards": 1,
-        "chat": 223,
+        "chat": 231,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6124,7 +6124,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-16T09:30:54Z"
+      "lastUpdated": "2025-11-16T21:41:04Z"
     },
     "otocar": {
       "counters": {
@@ -6695,7 +6695,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 962,
+        "chat": 988,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6725,13 +6725,14 @@
         "sub_diamond",
         "spender_bronze",
         "spender_silver",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "night_owl"
       ],
-      "lastUpdated": "2025-11-16T10:32:36Z"
+      "lastUpdated": "2025-11-16T22:02:49Z"
     },
     "metalbenji": {
       "counters": {
-        "chat": 27,
+        "chat": 28,
         "bits": 97,
         "raid": 1,
         "follow": 1,
@@ -6756,7 +6757,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-11-16T20:44:47Z"
+      "lastUpdated": "2025-11-16T20:45:43Z"
     },
     "ldbv1983": {
       "counters": {
@@ -6924,7 +6925,7 @@
       "lastUpdated": "2025-11-16T15:51:23Z"
     }
   },
-  "lastUpdated": "2025-11-16T20:44:48Z",
+  "lastUpdated": "2025-11-16T22:02:50Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
