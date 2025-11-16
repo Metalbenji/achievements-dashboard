@@ -6737,7 +6737,8 @@
         "follow": 1,
         "gift_subs": 1,
         "sub": 1,
-        "points_spent": 1000
+        "points_spent": 1000,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6752,9 +6753,10 @@
         "sub_tier1",
         "sub_first_month",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2025-11-16T20:44:45Z"
+      "lastUpdated": "2025-11-16T20:44:47Z"
     },
     "ldbv1983": {
       "counters": {
@@ -6922,7 +6924,7 @@
       "lastUpdated": "2025-11-16T15:51:23Z"
     }
   },
-  "lastUpdated": "2025-11-16T20:44:46Z",
+  "lastUpdated": "2025-11-16T20:44:48Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
