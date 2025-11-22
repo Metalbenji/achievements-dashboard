@@ -1593,7 +1593,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1332,
+        "chat": 1336,
         "points_spent": 48200,
         "interactive": 29,
         "follow": 1,
@@ -1636,7 +1636,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T21:48:38Z"
+      "lastUpdated": "2025-11-22T08:34:56Z"
     },
     "aladderinsane": {
       "counters": {
@@ -5771,7 +5771,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 189,
+        "chat": 190,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5788,7 +5788,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-16T22:06:10Z"
+      "lastUpdated": "2025-11-16T22:06:23Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6093,9 +6093,9 @@
     },
     "hm_pete": {
       "counters": {
-        "points_spent": 21228,
+        "points_spent": 21229,
         "special_rewards": 1,
-        "chat": 231,
+        "chat": 232,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6125,7 +6125,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-16T21:41:04Z"
+      "lastUpdated": "2025-11-22T08:31:47Z"
     },
     "otocar": {
       "counters": {
@@ -6696,7 +6696,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 991,
+        "chat": 994,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6729,7 +6729,7 @@
         "chat_enthusiast",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-16T22:06:02Z"
+      "lastUpdated": "2025-11-22T08:39:19Z"
     },
     "metalbenji": {
       "counters": {
@@ -6926,7 +6926,7 @@
       "lastUpdated": "2025-11-16T15:51:23Z"
     }
   },
-  "lastUpdated": "2025-11-16T22:06:11Z",
+  "lastUpdated": "2025-11-22T08:40:41Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
