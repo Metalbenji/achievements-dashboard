@@ -1594,9 +1594,9 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1340,
-        "points_spent": 48200,
-        "interactive": 29,
+        "chat": 1341,
+        "points_spent": 48700,
+        "interactive": 30,
         "follow": 1,
         "sub": 35,
         "effects": 6,
@@ -1637,7 +1637,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-22T09:27:58Z"
+      "lastUpdated": "2025-11-22T12:46:00Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2973,7 +2973,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1233,
+        "chat": 1236,
         "sub": 44,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3014,7 +3014,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-16T21:43:13Z"
+      "lastUpdated": "2025-11-22T12:45:58Z"
     },
     "majesty81": {
       "counters": {
@@ -3211,7 +3211,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 858,
+        "chat": 859,
         "points_spent": 9650,
         "effects": 5,
         "interactive": 9,
@@ -3236,7 +3236,7 @@
         "sound_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-11-22T11:31:02Z"
+      "lastUpdated": "2025-11-22T12:39:14Z"
     },
     "roffelonator": {
       "counters": {
@@ -6930,35 +6930,36 @@
     },
     "anumra": {
       "counters": {
-        "chat": 11
+        "chat": 12
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-22T12:38:34Z"
+      "lastUpdated": "2025-11-22T12:41:03Z"
     },
     "brisbyheart": {
+      "counters": {
+        "chat": 5
+      },
+      "unlockedAchievements": [
+        "weekend_warrior",
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-11-22T12:46:49Z"
+    },
+    "lumifemboygd": {
       "counters": {
         "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-11-22T12:37:54Z"
-    },
-    "lumifemboygd": {
-      "counters": {
-        "chat": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior"
-      ],
-      "lastUpdated": "2025-11-22T12:39:05Z"
+      "lastUpdated": "2025-11-22T12:44:44Z"
     }
   },
-  "lastUpdated": "2025-11-22T12:39:05Z",
+  "lastUpdated": "2025-11-22T12:46:49Z",
   "totalUsers": 332,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
