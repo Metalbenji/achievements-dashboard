@@ -6929,15 +6929,16 @@
     },
     "anumra": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-11-22T10:26:41Z"
+      "lastUpdated": "2025-11-22T10:29:12Z"
     }
   },
-  "lastUpdated": "2025-11-22T10:26:42Z",
+  "lastUpdated": "2025-11-22T10:29:13Z",
   "totalUsers": 330,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
