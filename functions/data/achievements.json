@@ -1485,11 +1485,11 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 364,
+        "chat": 366,
         "points_spent": 9800,
         "effects": 9,
         "follow": 1,
-        "sub": 29,
+        "sub": 30,
         "sounds": 4,
         "screenshot": 2,
         "interactive": 2
@@ -1519,9 +1519,10 @@
         "interactive_first",
         "chat_regular",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "sub_elite"
       ],
-      "lastUpdated": "2025-11-16T10:01:44Z"
+      "lastUpdated": "2025-11-22T08:43:21Z"
     },
     "ramdon101": {
       "counters": {
@@ -6696,7 +6697,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 994,
+        "chat": 1000,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6727,9 +6728,10 @@
         "spender_bronze",
         "spender_silver",
         "chat_enthusiast",
-        "night_owl"
+        "night_owl",
+        "chat_champion"
       ],
-      "lastUpdated": "2025-11-22T08:39:19Z"
+      "lastUpdated": "2025-11-22T08:47:11Z"
     },
     "metalbenji": {
       "counters": {
@@ -6926,7 +6928,7 @@
       "lastUpdated": "2025-11-16T15:51:23Z"
     }
   },
-  "lastUpdated": "2025-11-22T08:40:41Z",
+  "lastUpdated": "2025-11-22T08:47:12Z",
   "totalUsers": 329,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
