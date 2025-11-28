@@ -1641,7 +1641,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 312,
+        "chat": 314,
         "follow": 1,
         "sub": 34,
         "points_spent": 65000,
@@ -1674,7 +1674,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-22T15:12:05Z"
+      "lastUpdated": "2025-11-28T15:09:18Z"
     },
     "scoman07": {
       "counters": {
@@ -1835,7 +1835,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 287,
+        "chat": 289,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10,
@@ -1864,7 +1864,7 @@
         "sub_veteran",
         "first_caller"
       ],
-      "lastUpdated": "2025-11-28T12:40:14Z"
+      "lastUpdated": "2025-11-28T15:07:21Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2976,7 +2976,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1274,
+        "chat": 1275,
         "sub": 44,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3017,7 +3017,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-28T13:44:11Z"
+      "lastUpdated": "2025-11-28T15:04:33Z"
     },
     "majesty81": {
       "counters": {
@@ -6990,10 +6990,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-11-28T13:21:42Z"
+    },
+    "dlkzyn": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-11-28T15:31:31Z"
     }
   },
-  "lastUpdated": "2025-11-28T14:58:42Z",
-  "totalUsers": 334,
+  "lastUpdated": "2025-11-28T15:31:32Z",
+  "totalUsers": 335,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
