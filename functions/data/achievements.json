@@ -1399,14 +1399,14 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1423,
-        "points_spent": 14800,
+        "chat": 1426,
+        "points_spent": 34800,
         "effects": 8,
         "sub": 11,
         "bits": 1894,
         "raid": 5,
         "interactive": 4,
-        "sounds": 1,
+        "sounds": 2,
         "screenshot": 1
       },
       "unlockedAchievements": [
@@ -1448,7 +1448,7 @@
         "chat_champion",
         "sub_champion"
       ],
-      "lastUpdated": "2025-11-29T12:43:54Z"
+      "lastUpdated": "2025-11-29T12:51:08Z"
     },
     "celran": {
       "counters": {
@@ -2054,7 +2054,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 568,
+        "chat": 569,
         "points_spent": 20605,
         "interactive": 14,
         "effects": 22,
@@ -2092,7 +2092,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-29T09:56:07Z"
+      "lastUpdated": "2025-11-29T13:01:43Z"
     },
     "redunt86": {
       "counters": {
@@ -4405,7 +4405,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 57,
+        "chat": 63,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
@@ -4430,7 +4430,7 @@
         "sub_dedicated",
         "sub_committed"
       ],
-      "lastUpdated": "2025-11-22T16:07:02Z"
+      "lastUpdated": "2025-11-29T12:52:15Z"
     },
     "nightboy009": {
       "counters": {
@@ -5680,7 +5680,7 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 44,
+        "chat": 45,
         "points_spent": 10000,
         "sounds": 1
       },
@@ -5695,7 +5695,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-29T12:44:04Z"
+      "lastUpdated": "2025-11-29T12:56:26Z"
     },
     "oobalicious": {
       "counters": {
@@ -6568,7 +6568,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 800,
+        "chat": 801,
         "points_spent": 35801,
         "sounds": 15,
         "effects": 6,
@@ -6612,7 +6612,7 @@
         "first_caller",
         "sound_dj"
       ],
-      "lastUpdated": "2025-11-29T12:45:40Z"
+      "lastUpdated": "2025-11-29T12:47:08Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7015,10 +7015,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-11-29T12:46:33Z"
+    },
+    "itsladymenace": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-29T13:01:51Z"
     }
   },
-  "lastUpdated": "2025-11-29T12:46:34Z",
-  "totalUsers": 336,
+  "lastUpdated": "2025-11-29T13:01:52Z",
+  "totalUsers": 337,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
