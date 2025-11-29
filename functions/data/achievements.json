@@ -3447,7 +3447,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 192
+        "chat": 200
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3455,9 +3455,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2025-11-29T14:52:35Z"
+      "lastUpdated": "2025-11-29T15:00:03Z"
     },
     "akiraownz": {
       "counters": {
@@ -7005,7 +7006,7 @@
     },
     "vilitingz": {
       "counters": {
-        "chat": 25,
+        "chat": 27,
         "sub": 1,
         "points_spent": 500,
         "interactive": 1,
@@ -7021,7 +7022,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-29T14:53:08Z"
+      "lastUpdated": "2025-11-29T14:54:20Z"
     },
     "itsladymenace": {
       "counters": {
@@ -7088,7 +7089,7 @@
       "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-29T14:53:09Z",
+  "lastUpdated": "2025-11-29T15:00:04Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
