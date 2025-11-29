@@ -6284,7 +6284,7 @@
     "ardracon": {
       "counters": {
         "follow": 1,
-        "chat": 15
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6292,7 +6292,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-29T12:01:29Z"
+      "lastUpdated": "2025-11-29T14:38:12Z"
     },
     "justbaconthings": {
       "counters": {
@@ -6568,7 +6568,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 801,
+        "chat": 802,
         "points_spent": 35801,
         "sounds": 15,
         "effects": 6,
@@ -6612,7 +6612,7 @@
         "first_caller",
         "sound_dj"
       ],
-      "lastUpdated": "2025-11-29T12:47:08Z"
+      "lastUpdated": "2025-11-29T14:21:09Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7005,16 +7005,19 @@
     },
     "vilitingz": {
       "counters": {
-        "chat": 5,
-        "sub": 1
+        "chat": 9,
+        "sub": 1,
+        "points_spent": 500,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "sub_tier1",
         "sub_first_month",
-        "chat_newbie"
+        "chat_newbie",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-11-29T12:46:33Z"
+      "lastUpdated": "2025-11-29T14:42:39Z"
     },
     "itsladymenace": {
       "counters": {
@@ -7071,17 +7074,17 @@
     },
     "arvidz101": {
       "counters": {
-        "chat": 10
+        "chat": 19
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-29T14:19:55Z"
+      "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-29T14:19:55Z",
+  "lastUpdated": "2025-11-29T14:42:40Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
