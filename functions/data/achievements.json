@@ -7027,12 +7027,14 @@
     },
     "itsbrumble": {
       "counters": {
-        "chat": 3
+        "chat": 3,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-29T13:02:46Z"
+      "lastUpdated": "2025-11-29T13:02:55Z"
     },
     "encryption_jwe": {
       "counters": {
@@ -7046,7 +7048,7 @@
       "lastUpdated": "2025-11-29T13:02:47Z"
     }
   },
-  "lastUpdated": "2025-11-29T13:02:48Z",
+  "lastUpdated": "2025-11-29T13:02:55Z",
   "totalUsers": 339,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
