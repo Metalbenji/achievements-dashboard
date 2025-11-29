@@ -2054,7 +2054,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 570,
+        "chat": 574,
         "points_spent": 20605,
         "interactive": 14,
         "effects": 22,
@@ -2092,7 +2092,7 @@
         "chat_dedicated",
         "sub_diamond"
       ],
-      "lastUpdated": "2025-11-29T13:02:17Z"
+      "lastUpdated": "2025-11-29T13:04:48Z"
     },
     "redunt86": {
       "counters": {
@@ -5680,7 +5680,7 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 46,
+        "chat": 49,
         "points_spent": 10000,
         "sounds": 1
       },
@@ -5695,7 +5695,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-11-29T13:02:20Z"
+      "lastUpdated": "2025-11-29T13:07:42Z"
     },
     "oobalicious": {
       "counters": {
@@ -7027,14 +7027,14 @@
     },
     "itsbrumble": {
       "counters": {
-        "chat": 3,
+        "chat": 4,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-11-29T13:02:55Z"
+      "lastUpdated": "2025-11-29T13:04:50Z"
     },
     "encryption_jwe": {
       "counters": {
@@ -7046,10 +7046,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-11-29T13:02:47Z"
+    },
+    "keinplan_xci": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-29T13:14:56Z"
     }
   },
-  "lastUpdated": "2025-11-29T13:02:55Z",
-  "totalUsers": 339,
+  "lastUpdated": "2025-11-29T13:14:57Z",
+  "totalUsers": 340,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
