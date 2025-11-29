@@ -4405,7 +4405,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 63,
+        "chat": 65,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
@@ -4430,7 +4430,7 @@
         "sub_dedicated",
         "sub_committed"
       ],
-      "lastUpdated": "2025-11-29T12:52:15Z"
+      "lastUpdated": "2025-11-29T13:15:22Z"
     },
     "nightboy009": {
       "counters": {
@@ -7057,10 +7057,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-11-29T13:15:08Z"
+    },
+    "epicbenjix": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-29T13:15:25Z"
     }
   },
-  "lastUpdated": "2025-11-29T13:15:09Z",
-  "totalUsers": 340,
+  "lastUpdated": "2025-11-29T13:15:25Z",
+  "totalUsers": 341,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
