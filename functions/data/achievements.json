@@ -7005,7 +7005,7 @@
     },
     "vilitingz": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "sub": 1,
         "points_spent": 500,
         "interactive": 1
@@ -7015,9 +7015,10 @@
         "sub_tier1",
         "sub_first_month",
         "chat_newbie",
-        "interactive_first"
+        "interactive_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-11-29T14:42:39Z"
+      "lastUpdated": "2025-11-29T14:45:24Z"
     },
     "itsladymenace": {
       "counters": {
@@ -7084,7 +7085,7 @@
       "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-29T14:42:40Z",
+  "lastUpdated": "2025-11-29T14:45:25Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
