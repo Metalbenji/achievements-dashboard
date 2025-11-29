@@ -7049,15 +7049,17 @@
     },
     "keinplan_xci": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-29T13:14:56Z"
+      "lastUpdated": "2025-11-29T13:15:08Z"
     }
   },
-  "lastUpdated": "2025-11-29T13:14:57Z",
+  "lastUpdated": "2025-11-29T13:15:09Z",
   "totalUsers": 340,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
