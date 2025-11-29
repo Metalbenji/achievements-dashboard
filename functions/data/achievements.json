@@ -3369,7 +3369,7 @@
     "kurenaii": {
       "counters": {
         "follow": 1,
-        "chat": 37
+        "chat": 38
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3380,7 +3380,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-28T11:53:08Z"
+      "lastUpdated": "2025-11-29T13:46:52Z"
     },
     "ryanstephenson232": {
       "counters": {
@@ -4405,7 +4405,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 67,
+        "chat": 80,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
@@ -4430,7 +4430,7 @@
         "sub_dedicated",
         "sub_committed"
       ],
-      "lastUpdated": "2025-11-29T13:15:44Z"
+      "lastUpdated": "2025-11-29T13:27:09Z"
     },
     "nightboy009": {
       "counters": {
@@ -7068,10 +7068,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-11-29T13:15:46Z"
+    },
+    "arvidz101": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-29T13:47:51Z"
     }
   },
-  "lastUpdated": "2025-11-29T13:15:47Z",
-  "totalUsers": 341,
+  "lastUpdated": "2025-11-29T13:47:51Z",
+  "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
