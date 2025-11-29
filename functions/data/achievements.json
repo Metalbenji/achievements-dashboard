@@ -1527,8 +1527,8 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1856,
-        "points_spent": 89051,
+        "chat": 1858,
+        "points_spent": 89451,
         "screenshot": 1,
         "follow": 1,
         "sub": 47,
@@ -1591,7 +1591,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-29T10:47:44Z"
+      "lastUpdated": "2025-11-29T14:47:36Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3447,7 +3447,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 182
+        "chat": 183
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3457,7 +3457,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-09-20T10:50:09Z"
+      "lastUpdated": "2025-11-29T14:49:59Z"
     },
     "akiraownz": {
       "counters": {
@@ -7005,10 +7005,11 @@
     },
     "vilitingz": {
       "counters": {
-        "chat": 10,
+        "chat": 20,
         "sub": 1,
         "points_spent": 500,
-        "interactive": 1
+        "interactive": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7016,9 +7017,10 @@
         "sub_first_month",
         "chat_newbie",
         "interactive_first",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-29T14:45:24Z"
+      "lastUpdated": "2025-11-29T14:50:08Z"
     },
     "itsladymenace": {
       "counters": {
@@ -7085,7 +7087,7 @@
       "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-29T14:45:25Z",
+  "lastUpdated": "2025-11-29T14:50:09Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
