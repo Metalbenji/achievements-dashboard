@@ -1399,7 +1399,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1414,
+        "chat": 1419,
         "points_spent": 14800,
         "effects": 8,
         "sub": 11,
@@ -1448,7 +1448,7 @@
         "chat_champion",
         "sub_champion"
       ],
-      "lastUpdated": "2025-11-28T14:21:53Z"
+      "lastUpdated": "2025-11-29T10:54:19Z"
     },
     "celran": {
       "counters": {
@@ -1527,7 +1527,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1855,
+        "chat": 1856,
         "points_spent": 89051,
         "screenshot": 1,
         "follow": 1,
@@ -1591,11 +1591,11 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-29T09:20:54Z"
+      "lastUpdated": "2025-11-29T10:47:44Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1352,
+        "chat": 1355,
         "points_spent": 48700,
         "interactive": 30,
         "follow": 1,
@@ -1638,11 +1638,11 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-11-29T09:58:54Z"
+      "lastUpdated": "2025-11-29T10:53:40Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 316,
+        "chat": 317,
         "follow": 1,
         "sub": 34,
         "points_spent": 65000,
@@ -1675,7 +1675,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-29T09:17:58Z"
+      "lastUpdated": "2025-11-29T10:49:56Z"
     },
     "scoman07": {
       "counters": {
@@ -2129,7 +2129,7 @@
       "counters": {
         "points_spent": 47551,
         "follow": 1,
-        "chat": 637,
+        "chat": 638,
         "effects": 58,
         "screenshot": 3,
         "sounds": 4,
@@ -2182,7 +2182,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-29T10:21:25Z"
+      "lastUpdated": "2025-11-29T10:26:44Z"
     },
     "syn__________": {
       "counters": {
@@ -6493,7 +6493,7 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 559,
+        "chat": 563,
         "follow": 1,
         "points_spent": 10350,
         "screenshot": 1,
@@ -6532,7 +6532,7 @@
         "sound_first",
         "sub_supporter"
       ],
-      "lastUpdated": "2025-11-29T10:22:13Z"
+      "lastUpdated": "2025-11-29T10:39:24Z"
     },
     "shawarmha": {
       "counters": {
@@ -7013,7 +7013,7 @@
       "lastUpdated": "2025-11-29T09:45:34Z"
     }
   },
-  "lastUpdated": "2025-11-29T10:23:57Z",
+  "lastUpdated": "2025-11-29T10:56:42Z",
   "totalUsers": 336,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
