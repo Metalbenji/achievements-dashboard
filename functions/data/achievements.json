@@ -6493,11 +6493,11 @@
     },
     "lesthelegendofficial": {
       "counters": {
-        "chat": 549,
+        "chat": 550,
         "follow": 1,
         "points_spent": 10350,
         "screenshot": 1,
-        "sub": 1,
+        "sub": 2,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 5,
@@ -6529,9 +6529,10 @@
         "bits_steady",
         "spender_bronze",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "sub_supporter"
       ],
-      "lastUpdated": "2025-11-22T12:59:13Z"
+      "lastUpdated": "2025-11-29T09:41:16Z"
     },
     "shawarmha": {
       "counters": {
@@ -7000,10 +7001,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-11-28T15:31:31Z"
+    },
+    "vilitingz": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-29T09:44:38Z"
     }
   },
-  "lastUpdated": "2025-11-29T09:40:57Z",
-  "totalUsers": 335,
+  "lastUpdated": "2025-11-29T09:44:39Z",
+  "totalUsers": 336,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
