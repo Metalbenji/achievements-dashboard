@@ -5783,7 +5783,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 207,
+        "chat": 209,
         "follow": 1,
         "points_spent": 10000,
         "sounds": 1
@@ -5801,7 +5801,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-29T11:08:50Z"
+      "lastUpdated": "2025-11-29T13:50:24Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7071,15 +7071,16 @@
     },
     "arvidz101": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-11-29T13:47:51Z"
+      "lastUpdated": "2025-11-29T13:50:45Z"
     }
   },
-  "lastUpdated": "2025-11-29T13:47:51Z",
+  "lastUpdated": "2025-11-29T13:50:45Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
