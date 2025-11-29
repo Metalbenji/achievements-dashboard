@@ -7024,10 +7024,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-29T13:01:51Z"
+    },
+    "itsbrumble": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-29T13:01:53Z"
     }
   },
-  "lastUpdated": "2025-11-29T13:01:52Z",
-  "totalUsers": 337,
+  "lastUpdated": "2025-11-29T13:01:53Z",
+  "totalUsers": 338,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
