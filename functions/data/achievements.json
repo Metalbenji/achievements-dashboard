@@ -1487,7 +1487,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 377,
+        "chat": 379,
         "points_spent": 10000,
         "effects": 10,
         "follow": 1,
@@ -1526,7 +1526,7 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-11-30T11:15:14Z"
+      "lastUpdated": "2025-11-30T11:18:30Z"
     },
     "ramdon101": {
       "counters": {
@@ -2244,7 +2244,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1777,
+        "chat": 1778,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2310,7 +2310,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-30T11:15:45Z"
+      "lastUpdated": "2025-11-30T11:17:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3406,13 +3406,13 @@
       "counters": {
         "sub": 45,
         "follow": 1,
-        "chat": 240,
-        "points_spent": 20750,
+        "chat": 247,
+        "points_spent": 40750,
         "effects": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 45,
         "largest_gift_bomb": 45,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3449,7 +3449,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-30T11:16:22Z"
+      "lastUpdated": "2025-11-30T11:18:48Z"
     },
     "camm_23": {
       "counters": {
@@ -7015,9 +7015,10 @@
       "counters": {
         "chat": 41,
         "sub": 1,
-        "points_spent": 500,
+        "points_spent": 850,
         "interactive": 1,
-        "follow": 1
+        "follow": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7027,9 +7028,10 @@
         "interactive_first",
         "chat_talker",
         "follow_supporter",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2025-11-30T10:47:42Z"
+      "lastUpdated": "2025-11-30T11:19:16Z"
     },
     "itsladymenace": {
       "counters": {
@@ -7118,7 +7120,7 @@
     },
     "knotthenameless": {
       "counters": {
-        "chat": 5,
+        "chat": 8,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7126,7 +7128,7 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-11-30T11:16:23Z"
+      "lastUpdated": "2025-11-30T11:19:12Z"
     },
     "saintthizz": {
       "counters": {
@@ -7138,7 +7140,7 @@
       "lastUpdated": "2025-11-30T11:13:54Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:16:24Z",
+  "lastUpdated": "2025-11-30T11:19:16Z",
   "totalUsers": 346,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
