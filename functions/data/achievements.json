@@ -1487,7 +1487,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 375,
+        "chat": 376,
         "points_spent": 10000,
         "effects": 10,
         "follow": 1,
@@ -1526,7 +1526,7 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-11-30T11:08:11Z"
+      "lastUpdated": "2025-11-30T11:13:40Z"
     },
     "ramdon101": {
       "counters": {
@@ -7112,10 +7112,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-30T11:13:36Z"
+    },
+    "knotthenameless": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-30T11:13:42Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:13:37Z",
-  "totalUsers": 344,
+  "lastUpdated": "2025-11-30T11:13:43Z",
+  "totalUsers": 345,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
