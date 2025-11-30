@@ -1488,7 +1488,7 @@
     "miromaaldis": {
       "counters": {
         "chat": 375,
-        "points_spent": 9800,
+        "points_spent": 10000,
         "effects": 9,
         "follow": 1,
         "sub": 30,
@@ -1522,9 +1522,10 @@
         "chat_regular",
         "chat_frequent",
         "chat_dedicated",
-        "sub_elite"
+        "sub_elite",
+        "spender_silver"
       ],
-      "lastUpdated": "2025-11-30T11:06:47Z"
+      "lastUpdated": "2025-11-30T11:08:10Z"
     },
     "ramdon101": {
       "counters": {
@@ -2183,7 +2184,8 @@
         "emperor_loyal",
         "birthday_person",
         "sub_master",
-        "spender_gold"
+        "spender_gold",
+        "biggest_fan"
       ],
       "lastUpdated": "2025-11-30T11:08:09Z"
     },
@@ -7093,7 +7095,7 @@
       "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:08:09Z",
+  "lastUpdated": "2025-11-30T11:08:11Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
