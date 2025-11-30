@@ -2129,7 +2129,7 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 47551,
+        "points_spent": 52151,
         "follow": 1,
         "chat": 645,
         "effects": 58,
@@ -2182,9 +2182,10 @@
         "bits_steady",
         "emperor_loyal",
         "birthday_person",
-        "sub_master"
+        "sub_master",
+        "spender_gold"
       ],
-      "lastUpdated": "2025-11-30T11:07:14Z"
+      "lastUpdated": "2025-11-30T11:08:09Z"
     },
     "syn__________": {
       "counters": {
@@ -7092,7 +7093,7 @@
       "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:07:52Z",
+  "lastUpdated": "2025-11-30T11:08:09Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
