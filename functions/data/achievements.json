@@ -1400,7 +1400,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1445,
+        "chat": 1449,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1449,7 +1449,7 @@
         "chat_champion",
         "sub_champion"
       ],
-      "lastUpdated": "2025-11-30T13:44:13Z"
+      "lastUpdated": "2025-11-30T13:48:09Z"
     },
     "celran": {
       "counters": {
@@ -1645,7 +1645,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 327,
+        "chat": 328,
         "follow": 1,
         "sub": 34,
         "points_spent": 65000,
@@ -1678,7 +1678,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-30T13:42:14Z"
+      "lastUpdated": "2025-11-30T13:45:56Z"
     },
     "scoman07": {
       "counters": {
@@ -2244,7 +2244,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1801,
+        "chat": 1804,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2310,7 +2310,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-30T13:44:32Z"
+      "lastUpdated": "2025-11-30T13:46:06Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5791,9 +5791,9 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 218,
+        "chat": 219,
         "follow": 1,
-        "points_spent": 15000,
+        "points_spent": 17000,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -5808,9 +5808,10 @@
         "sound_first",
         "night_owl",
         "chat_frequent",
-        "vip_dreamer"
+        "vip_dreamer",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-11-30T13:44:52Z"
+      "lastUpdated": "2025-11-30T13:52:19Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7152,7 +7153,7 @@
       "lastUpdated": "2025-11-30T13:15:39Z"
     }
   },
-  "lastUpdated": "2025-11-30T13:44:53Z",
+  "lastUpdated": "2025-11-30T13:52:20Z",
   "totalUsers": 347,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
