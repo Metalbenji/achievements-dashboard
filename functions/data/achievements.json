@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 331,
+        "chat": 334,
         "follow": 1,
         "points_spent": 20001,
         "sounds": 1,
@@ -1350,7 +1350,7 @@
         "chat_dedicated",
         "first_caller"
       ],
-      "lastUpdated": "2025-11-29T08:58:46Z"
+      "lastUpdated": "2025-11-30T12:38:28Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1400,7 +1400,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1426,
+        "chat": 1438,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1449,7 +1449,7 @@
         "chat_champion",
         "sub_champion"
       ],
-      "lastUpdated": "2025-11-29T12:51:08Z"
+      "lastUpdated": "2025-11-30T12:52:49Z"
     },
     "celran": {
       "counters": {
@@ -1487,7 +1487,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 383,
+        "chat": 389,
         "points_spent": 10000,
         "effects": 10,
         "follow": 1,
@@ -1526,7 +1526,7 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-11-30T11:25:18Z"
+      "lastUpdated": "2025-11-30T12:48:41Z"
     },
     "ramdon101": {
       "counters": {
@@ -2133,7 +2133,7 @@
       "counters": {
         "points_spent": 54951,
         "follow": 1,
-        "chat": 647,
+        "chat": 648,
         "effects": 59,
         "screenshot": 3,
         "sounds": 5,
@@ -2188,7 +2188,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-11-30T11:26:12Z"
+      "lastUpdated": "2025-11-30T12:19:19Z"
     },
     "syn__________": {
       "counters": {
@@ -3166,7 +3166,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 190,
+        "chat": 191,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1
@@ -3183,7 +3183,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2025-11-09T15:28:53Z"
+      "lastUpdated": "2025-11-30T13:15:24Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3763,13 +3763,13 @@
     },
     "septikknissen": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-11-09T15:24:25Z"
+      "lastUpdated": "2025-11-30T13:15:15Z"
     },
     "m0hmoh21": {
       "counters": {
@@ -6028,7 +6028,7 @@
     },
     "functionalchaos302": {
       "counters": {
-        "chat": 88,
+        "chat": 94,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6038,7 +6038,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-21T15:36:50Z"
+      "lastUpdated": "2025-11-30T13:14:08Z"
     },
     "hamsquatch78": {
       "counters": {
@@ -6347,35 +6347,6 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-09-27T15:15:40Z"
-    },
-    "pommykinginthebeninging": {
-      "counters": {
-        "chat": 21,
-        "gift_subs": 1,
-        "bits": 210,
-        "raid": 6,
-        "follow": 1,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 6,
-        "largest_gift_bomb": 6
-      },
-      "unlockedAchievements": [
-        "weekend_warrior",
-        "bday2025_attend",
-        "gift_starter",
-        "bday2025_support",
-        "chat_newbie",
-        "bits_tiny",
-        "bits_small",
-        "bits_regular",
-        "raid_tier1_captain",
-        "chat_talker",
-        "raid_tier2_seasoned",
-        "follow_supporter",
-        "gift_bomb_5",
-        "gift_bombs_first"
-      ],
-      "lastUpdated": "2025-09-27T15:15:49Z"
     },
     "velvet__noir": {
       "counters": {
@@ -7148,9 +7119,39 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-30T12:16:59Z"
+    },
+    "pommykeeng": {
+      "counters": {
+        "chat": 25,
+        "gift_subs": 1,
+        "bits": 210,
+        "raid": 6,
+        "follow": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 6,
+        "largest_gift_bomb": 6
+      },
+      "unlockedAchievements": [
+        "weekend_warrior",
+        "bday2025_attend",
+        "gift_starter",
+        "bday2025_support",
+        "chat_newbie",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular",
+        "raid_tier1_captain",
+        "chat_talker",
+        "raid_tier2_seasoned",
+        "follow_supporter",
+        "gift_bomb_5",
+        "gift_bombs_first",
+        "chat_conversationalist"
+      ],
+      "lastUpdated": "2025-11-30T13:15:39Z"
     }
   },
-  "lastUpdated": "2025-11-30T12:17:00Z",
+  "lastUpdated": "2025-11-30T13:15:39Z",
   "totalUsers": 347,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
