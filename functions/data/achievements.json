@@ -7115,12 +7115,14 @@
     },
     "knotthenameless": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-30T11:13:42Z"
+      "lastUpdated": "2025-11-30T11:13:56Z"
     },
     "saintthizz": {
       "counters": {
@@ -7132,7 +7134,7 @@
       "lastUpdated": "2025-11-30T11:13:54Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:13:55Z",
+  "lastUpdated": "2025-11-30T11:13:57Z",
   "totalUsers": 346,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
