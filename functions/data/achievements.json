@@ -7103,10 +7103,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-30T11:13:33Z"
+    },
+    "bittersweetraz": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-30T11:13:36Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:13:33Z",
-  "totalUsers": 343,
+  "lastUpdated": "2025-11-30T11:13:37Z",
+  "totalUsers": 344,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
