@@ -1487,7 +1487,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 376,
+        "chat": 377,
         "points_spent": 10000,
         "effects": 10,
         "follow": 1,
@@ -1526,7 +1526,7 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-11-30T11:13:40Z"
+      "lastUpdated": "2025-11-30T11:15:14Z"
     },
     "ramdon101": {
       "counters": {
@@ -2244,7 +2244,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1776,
+        "chat": 1777,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2310,7 +2310,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-30T09:40:46Z"
+      "lastUpdated": "2025-11-30T11:15:45Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3404,9 +3404,9 @@
     },
     "sarcissa": {
       "counters": {
-        "sub": 44,
+        "sub": 45,
         "follow": 1,
-        "chat": 236,
+        "chat": 240,
         "points_spent": 20750,
         "effects": 1,
         "gift_bombs": 1,
@@ -3449,7 +3449,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-22T09:42:54Z"
+      "lastUpdated": "2025-11-30T11:16:22Z"
     },
     "camm_23": {
       "counters": {
@@ -7097,12 +7097,12 @@
     },
     "geniejit": {
       "counters": {
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-11-30T11:13:58Z"
+      "lastUpdated": "2025-11-30T11:14:52Z"
     },
     "bittersweetraz": {
       "counters": {
@@ -7118,14 +7118,15 @@
     },
     "knotthenameless": {
       "counters": {
-        "chat": 2,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-11-30T11:14:22Z"
+      "lastUpdated": "2025-11-30T11:16:23Z"
     },
     "saintthizz": {
       "counters": {
@@ -7137,7 +7138,7 @@
       "lastUpdated": "2025-11-30T11:13:54Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:14:37Z",
+  "lastUpdated": "2025-11-30T11:16:24Z",
   "totalUsers": 346,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
