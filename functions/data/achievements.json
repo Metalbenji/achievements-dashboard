@@ -1487,7 +1487,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 372,
+        "chat": 375,
         "points_spent": 9800,
         "effects": 9,
         "follow": 1,
@@ -1524,7 +1524,7 @@
         "chat_dedicated",
         "sub_elite"
       ],
-      "lastUpdated": "2025-11-22T12:51:03Z"
+      "lastUpdated": "2025-11-30T11:06:47Z"
     },
     "ramdon101": {
       "counters": {
@@ -2055,8 +2055,8 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 579,
-        "points_spent": 20605,
+        "chat": 581,
+        "points_spent": 25505,
         "interactive": 14,
         "effects": 22,
         "sub": 25,
@@ -2091,9 +2091,10 @@
         "chat_frequent",
         "interactive_regular",
         "chat_dedicated",
-        "sub_diamond"
+        "sub_diamond",
+        "biggest_fan"
       ],
-      "lastUpdated": "2025-11-30T10:29:12Z"
+      "lastUpdated": "2025-11-30T11:07:51Z"
     },
     "redunt86": {
       "counters": {
@@ -2130,7 +2131,7 @@
       "counters": {
         "points_spent": 47551,
         "follow": 1,
-        "chat": 638,
+        "chat": 645,
         "effects": 58,
         "screenshot": 3,
         "sounds": 4,
@@ -2183,7 +2184,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2025-11-29T10:26:44Z"
+      "lastUpdated": "2025-11-30T11:07:14Z"
     },
     "syn__________": {
       "counters": {
@@ -2722,7 +2723,7 @@
     "bludshed187": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2730,7 +2731,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-09T15:23:11Z"
+      "lastUpdated": "2025-11-30T11:01:52Z"
     },
     "mistycal_eu": {
       "counters": {
@@ -3080,7 +3081,7 @@
       "counters": {
         "sub": 19,
         "follow": 1,
-        "chat": 300
+        "chat": 314
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3103,7 +3104,7 @@
         "sub_platinum",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-30T10:34:07Z"
+      "lastUpdated": "2025-11-30T10:43:27Z"
     },
     "khazan67": {
       "counters": {
@@ -6571,7 +6572,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 808,
+        "chat": 812,
         "points_spent": 35801,
         "sounds": 15,
         "effects": 6,
@@ -6615,7 +6616,7 @@
         "first_caller",
         "sound_dj"
       ],
-      "lastUpdated": "2025-11-30T09:40:27Z"
+      "lastUpdated": "2025-11-30T10:46:22Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7008,7 +7009,7 @@
     },
     "vilitingz": {
       "counters": {
-        "chat": 28,
+        "chat": 41,
         "sub": 1,
         "points_spent": 500,
         "interactive": 1,
@@ -7024,7 +7025,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-29T15:03:39Z"
+      "lastUpdated": "2025-11-30T10:47:42Z"
     },
     "itsladymenace": {
       "counters": {
@@ -7091,7 +7092,7 @@
       "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-30T10:34:09Z",
+  "lastUpdated": "2025-11-30T11:07:52Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
