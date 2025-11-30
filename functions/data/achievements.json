@@ -2058,7 +2058,7 @@
       "counters": {
         "follow": 1,
         "chat": 581,
-        "points_spent": 25505,
+        "points_spent": 30205,
         "interactive": 14,
         "effects": 22,
         "sub": 25,
@@ -2096,7 +2096,7 @@
         "sub_diamond",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-11-30T11:07:51Z"
+      "lastUpdated": "2025-11-30T11:08:33Z"
     },
     "redunt86": {
       "counters": {
@@ -2131,12 +2131,12 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 52151,
+        "points_spent": 54151,
         "follow": 1,
-        "chat": 645,
+        "chat": 647,
         "effects": 58,
         "screenshot": 3,
-        "sounds": 4,
+        "sounds": 5,
         "bits": 300,
         "raid": 6,
         "sub": 37,
@@ -2188,7 +2188,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-11-30T11:08:09Z"
+      "lastUpdated": "2025-11-30T11:11:46Z"
     },
     "syn__________": {
       "counters": {
@@ -7094,10 +7094,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-11-29T14:22:39Z"
+    },
+    "geniejit": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-30T11:13:33Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:08:12Z",
-  "totalUsers": 342,
+  "lastUpdated": "2025-11-30T11:13:33Z",
+  "totalUsers": 343,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
