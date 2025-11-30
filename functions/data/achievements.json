@@ -7106,13 +7106,15 @@
     },
     "bittersweetraz": {
       "counters": {
-        "chat": 5
+        "chat": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-11-30T11:14:25Z"
+      "lastUpdated": "2025-11-30T11:14:36Z"
     },
     "knotthenameless": {
       "counters": {
@@ -7135,7 +7137,7 @@
       "lastUpdated": "2025-11-30T11:13:54Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:14:26Z",
+  "lastUpdated": "2025-11-30T11:14:37Z",
   "totalUsers": 346,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
