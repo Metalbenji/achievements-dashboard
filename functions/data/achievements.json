@@ -2244,7 +2244,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1782,
+        "chat": 1783,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2310,7 +2310,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-11-30T11:48:40Z"
+      "lastUpdated": "2025-11-30T12:12:28Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7139,10 +7139,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-30T11:13:54Z"
+    },
+    "tuckybuckets": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-11-30T12:16:59Z"
     }
   },
-  "lastUpdated": "2025-11-30T12:00:59Z",
-  "totalUsers": 346,
+  "lastUpdated": "2025-11-30T12:17:00Z",
+  "totalUsers": 347,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
