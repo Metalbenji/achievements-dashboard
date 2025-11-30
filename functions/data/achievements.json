@@ -1489,7 +1489,7 @@
       "counters": {
         "chat": 375,
         "points_spent": 10000,
-        "effects": 9,
+        "effects": 10,
         "follow": 1,
         "sub": 30,
         "sounds": 4,
@@ -1523,9 +1523,10 @@
         "chat_frequent",
         "chat_dedicated",
         "sub_elite",
-        "spender_silver"
+        "spender_silver",
+        "effect_collector"
       ],
-      "lastUpdated": "2025-11-30T11:08:10Z"
+      "lastUpdated": "2025-11-30T11:08:11Z"
     },
     "ramdon101": {
       "counters": {
@@ -7095,7 +7096,7 @@
       "lastUpdated": "2025-11-29T14:22:39Z"
     }
   },
-  "lastUpdated": "2025-11-30T11:08:11Z",
+  "lastUpdated": "2025-11-30T11:08:12Z",
   "totalUsers": 342,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
