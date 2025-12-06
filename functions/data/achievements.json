@@ -1354,7 +1354,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 244,
+        "chat": 247,
         "points_spent": 22700,
         "follow": 1,
         "sub": 17
@@ -1380,7 +1380,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-30T15:59:37Z"
+      "lastUpdated": "2025-12-06T09:53:00Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1400,7 +1400,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1497,
+        "chat": 1500,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1447,9 +1447,10 @@
         "chat_enthusiast",
         "screenshot_first",
         "chat_champion",
-        "sub_champion"
+        "sub_champion",
+        "chat_expert"
       ],
-      "lastUpdated": "2025-12-01T21:40:51Z"
+      "lastUpdated": "2025-12-06T10:08:59Z"
     },
     "celran": {
       "counters": {
@@ -1530,7 +1531,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1901,
+        "chat": 1903,
         "points_spent": 89451,
         "screenshot": 1,
         "follow": 1,
@@ -1594,7 +1595,7 @@
         "first_caller",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-06T09:38:02Z"
+      "lastUpdated": "2025-12-06T09:48:19Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1736,7 +1737,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 361,
+        "chat": 362,
         "points_spent": 12551,
         "interactive": 1,
         "effects": 16,
@@ -1773,7 +1774,7 @@
         "chat_dedicated",
         "spender_silver"
       ],
-      "lastUpdated": "2025-11-30T09:14:17Z"
+      "lastUpdated": "2025-12-06T09:48:07Z"
     },
     "tawmae": {
       "counters": {
@@ -2492,7 +2493,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 596,
+        "chat": 597,
         "sub": 37,
         "points_spent": 25251,
         "interactive": 2,
@@ -2548,7 +2549,7 @@
         "gift_bombs_regular",
         "sub_master"
       ],
-      "lastUpdated": "2025-12-01T21:41:47Z"
+      "lastUpdated": "2025-12-06T09:59:37Z"
     },
     "umenneske94": {
       "counters": {
@@ -2983,7 +2984,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1284,
+        "chat": 1292,
         "sub": 45,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3024,7 +3025,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-06T09:17:14Z"
+      "lastUpdated": "2025-12-06T10:04:14Z"
     },
     "majesty81": {
       "counters": {
@@ -3483,7 +3484,7 @@
     },
     "arpi_89": {
       "counters": {
-        "sub": 34,
+        "sub": 35,
         "follow": 1,
         "chat": 385,
         "points_spent": 1100,
@@ -3512,7 +3513,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-30T15:21:06Z"
+      "lastUpdated": "2025-12-06T09:42:37Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -4552,7 +4553,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 143
+        "chat": 145
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4562,7 +4563,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-10-19T10:28:58Z"
+      "lastUpdated": "2025-12-06T09:56:24Z"
     },
     "dinshara": {
       "counters": {
@@ -6832,12 +6833,12 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 507,
-        "points_spent": 15001,
+        "chat": 534,
+        "points_spent": 15401,
         "screenshot": 1,
         "effects": 3,
         "sounds": 1,
-        "interactive": 23,
+        "interactive": 24,
         "special_rewards": 1,
         "follow": 1
       },
@@ -6863,7 +6864,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-11-16T14:00:15Z"
+      "lastUpdated": "2025-12-06T10:08:47Z"
     },
     "wigz666": {
       "counters": {
@@ -7159,15 +7160,17 @@
     },
     "senditlr": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-12-06T09:39:52Z"
+      "lastUpdated": "2025-12-06T09:39:54Z"
     }
   },
-  "lastUpdated": "2025-12-06T09:39:53Z",
+  "lastUpdated": "2025-12-06T10:08:59Z",
   "totalUsers": 348,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
