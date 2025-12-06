@@ -2374,7 +2374,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 34,
+        "chat": 35,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2387,7 +2387,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-06T14:09:15Z"
+      "lastUpdated": "2025-12-06T14:09:36Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -5194,15 +5194,16 @@
     "werwin1": {
       "counters": {
         "follow": 1,
-        "chat": 22
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T16:07:23Z"
+      "lastUpdated": "2025-12-06T14:10:54Z"
     },
     "remcotje1986": {
       "counters": {
@@ -7190,7 +7191,7 @@
       "lastUpdated": "2025-12-06T13:53:35Z"
     }
   },
-  "lastUpdated": "2025-12-06T14:09:16Z",
+  "lastUpdated": "2025-12-06T14:10:55Z",
   "totalUsers": 349,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
