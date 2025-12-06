@@ -2102,7 +2102,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1038,
+        "chat": 1039,
         "points_spent": 11150,
         "effects": 20,
         "sounds": 4,
@@ -2128,7 +2128,7 @@
         "interactive_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-06T11:24:36Z"
+      "lastUpdated": "2025-12-06T11:25:35Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2245,7 +2245,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1901,
+        "chat": 1902,
         "gift_subs": 2,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 389,
@@ -2311,7 +2311,7 @@
         "gift_kind",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-06T11:24:39Z"
+      "lastUpdated": "2025-12-06T11:25:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2753,7 +2753,7 @@
         "gift_bombs": 6,
         "total_gift_bomb_subs": 314,
         "largest_gift_bomb": 228,
-        "gift_subs": 1,
+        "gift_subs": 2,
         "interactive": 2,
         "screenshot": 1
       },
@@ -2812,9 +2812,10 @@
         "screenshot_first",
         "birthday_person",
         "bits_elite",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-12-06T11:24:27Z"
+      "lastUpdated": "2025-12-06T11:25:20Z"
     },
     "andilippi": {
       "counters": {
@@ -6835,7 +6836,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 569,
+        "chat": 571,
         "points_spent": 16201,
         "screenshot": 1,
         "effects": 3,
@@ -6866,7 +6867,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-06T11:25:17Z"
+      "lastUpdated": "2025-12-06T11:25:52Z"
     },
     "wigz666": {
       "counters": {
@@ -7172,7 +7173,7 @@
       "lastUpdated": "2025-12-06T09:39:54Z"
     }
   },
-  "lastUpdated": "2025-12-06T11:25:21Z",
+  "lastUpdated": "2025-12-06T11:25:57Z",
   "totalUsers": 348,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
