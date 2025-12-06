@@ -1400,7 +1400,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1524,
+        "chat": 1531,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1450,7 +1450,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-06T15:55:34Z"
+      "lastUpdated": "2025-12-06T16:04:46Z"
     },
     "celran": {
       "counters": {
@@ -2245,7 +2245,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1933,
+        "chat": 1938,
         "gift_subs": 2,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 400,
@@ -2312,7 +2312,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-06T15:53:50Z"
+      "lastUpdated": "2025-12-06T16:08:45Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2465,10 +2465,10 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 9300,
-        "effects": 23,
+        "points_spent": 9650,
+        "effects": 24,
         "follow": 1,
-        "chat": 123,
+        "chat": 128,
         "interactive": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -2491,7 +2491,7 @@
         "effect_collector",
         "chat_regular"
       ],
-      "lastUpdated": "2025-11-28T13:39:09Z"
+      "lastUpdated": "2025-12-06T15:59:31Z"
     },
     "s3n71": {
       "counters": {
@@ -3941,7 +3941,8 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 101
+        "chat": 106,
+        "sub": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3951,9 +3952,18 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum"
       ],
-      "lastUpdated": "2025-12-06T15:56:30Z"
+      "lastUpdated": "2025-12-06T16:01:15Z"
     },
     "xykojen": {
       "counters": {
@@ -7192,7 +7202,7 @@
       "lastUpdated": "2025-12-06T13:53:35Z"
     }
   },
-  "lastUpdated": "2025-12-06T15:56:44Z",
+  "lastUpdated": "2025-12-06T16:09:03Z",
   "totalUsers": 349,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
