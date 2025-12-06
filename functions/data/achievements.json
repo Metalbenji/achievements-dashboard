@@ -1400,7 +1400,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1514,
+        "chat": 1518,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1450,7 +1450,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-06T10:45:57Z"
+      "lastUpdated": "2025-12-06T13:27:35Z"
     },
     "celran": {
       "counters": {
@@ -1913,7 +1913,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 421,
+        "chat": 424,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 27,
@@ -1950,7 +1950,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-06T12:13:21Z"
+      "lastUpdated": "2025-12-06T13:17:14Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2134,7 +2134,7 @@
       "counters": {
         "points_spent": 55751,
         "follow": 1,
-        "chat": 654,
+        "chat": 655,
         "effects": 60,
         "screenshot": 3,
         "sounds": 5,
@@ -2189,7 +2189,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-12-06T12:14:37Z"
+      "lastUpdated": "2025-12-06T13:24:23Z"
     },
     "syn__________": {
       "counters": {
@@ -2245,7 +2245,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 1911,
+        "chat": 1914,
         "gift_subs": 2,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 400,
@@ -2312,7 +2312,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-06T12:12:20Z"
+      "lastUpdated": "2025-12-06T13:37:16Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2942,7 +2942,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 85,
+        "chat": 89,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -2958,7 +2958,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-12-06T11:51:17Z"
+      "lastUpdated": "2025-12-06T12:42:16Z"
     },
     "justflip": {
       "counters": {
@@ -2988,7 +2988,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1301,
+        "chat": 1306,
         "sub": 45,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 63,
@@ -3029,7 +3029,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-06T12:06:28Z"
+      "lastUpdated": "2025-12-06T13:19:42Z"
     },
     "majesty81": {
       "counters": {
@@ -3227,7 +3227,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 920,
+        "chat": 945,
         "points_spent": 9750,
         "effects": 6,
         "interactive": 9,
@@ -3252,7 +3252,7 @@
         "sound_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-06T12:33:48Z"
+      "lastUpdated": "2025-12-06T13:28:44Z"
     },
     "roffelonator": {
       "counters": {
@@ -4280,7 +4280,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 263,
+        "chat": 269,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4295,7 +4295,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-11-30T16:31:48Z"
+      "lastUpdated": "2025-12-06T12:59:25Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5693,7 +5693,7 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 62,
+        "chat": 64,
         "points_spent": 60350,
         "sounds": 3,
         "effects": 1
@@ -5711,7 +5711,7 @@
         "spender_gold",
         "effect_first"
       ],
-      "lastUpdated": "2025-12-06T12:34:09Z"
+      "lastUpdated": "2025-12-06T12:38:50Z"
     },
     "oobalicious": {
       "counters": {
@@ -5799,7 +5799,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 252,
+        "chat": 256,
         "follow": 1,
         "points_spent": 17000,
         "sounds": 1
@@ -5819,7 +5819,7 @@
         "vip_dreamer",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-12-01T21:41:32Z"
+      "lastUpdated": "2025-12-06T13:32:54Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7175,10 +7175,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-12-06T09:39:54Z"
+    },
+    "donfoxelite": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-12-06T13:52:24Z"
     }
   },
-  "lastUpdated": "2025-12-06T12:34:09Z",
-  "totalUsers": 348,
+  "lastUpdated": "2025-12-06T13:52:25Z",
+  "totalUsers": 349,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
