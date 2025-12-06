@@ -3227,7 +3227,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 918,
+        "chat": 920,
         "points_spent": 9750,
         "effects": 6,
         "interactive": 9,
@@ -3252,7 +3252,7 @@
         "sound_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-06T12:29:42Z"
+      "lastUpdated": "2025-12-06T12:33:48Z"
     },
     "roffelonator": {
       "counters": {
@@ -5693,9 +5693,10 @@
     "kenlee_79": {
       "counters": {
         "follow": 1,
-        "chat": 61,
-        "points_spent": 60000,
-        "sounds": 2
+        "chat": 62,
+        "points_spent": 60350,
+        "sounds": 3,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5707,9 +5708,10 @@
         "sound_first",
         "chat_conversationalist",
         "night_owl",
-        "spender_gold"
+        "spender_gold",
+        "effect_first"
       ],
-      "lastUpdated": "2025-12-06T12:31:07Z"
+      "lastUpdated": "2025-12-06T12:34:09Z"
     },
     "oobalicious": {
       "counters": {
@@ -7175,7 +7177,7 @@
       "lastUpdated": "2025-12-06T09:39:54Z"
     }
   },
-  "lastUpdated": "2025-12-06T12:31:08Z",
+  "lastUpdated": "2025-12-06T12:34:09Z",
   "totalUsers": 348,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
