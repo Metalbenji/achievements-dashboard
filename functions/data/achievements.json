@@ -1402,7 +1402,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1541,
+        "chat": 1543,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1452,7 +1452,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-07T11:48:29Z"
+      "lastUpdated": "2025-12-07T12:32:46Z"
     },
     "celran": {
       "counters": {
@@ -2062,9 +2062,9 @@
       "counters": {
         "follow": 1,
         "chat": 603,
-        "points_spent": 32605,
+        "points_spent": 33605,
         "interactive": 15,
-        "effects": 23,
+        "effects": 25,
         "sub": 25,
         "sounds": 1
       },
@@ -2098,9 +2098,10 @@
         "interactive_regular",
         "chat_dedicated",
         "sub_diamond",
-        "biggest_fan"
+        "biggest_fan",
+        "effect_master"
       ],
-      "lastUpdated": "2025-12-07T11:54:56Z"
+      "lastUpdated": "2025-12-07T12:32:53Z"
     },
     "redunt86": {
       "counters": {
@@ -2137,7 +2138,7 @@
       "counters": {
         "points_spent": 56551,
         "follow": 1,
-        "chat": 660,
+        "chat": 665,
         "effects": 61,
         "screenshot": 3,
         "sounds": 5,
@@ -2192,7 +2193,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2025-12-07T11:41:49Z"
+      "lastUpdated": "2025-12-07T12:31:57Z"
     },
     "syn__________": {
       "counters": {
@@ -3144,7 +3145,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 161,
+        "chat": 162,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3161,7 +3162,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-06T11:24:39Z"
+      "lastUpdated": "2025-12-07T11:59:58Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4296,7 +4297,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 269,
+        "chat": 273,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4311,7 +4312,7 @@
         "vip_dreamer",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-06T12:59:25Z"
+      "lastUpdated": "2025-12-07T12:31:49Z"
     },
     "gabriel245658": {
       "counters": {
@@ -7207,15 +7208,15 @@
     },
     "andypandy1238": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-12-07T11:57:53Z"
+      "lastUpdated": "2025-12-07T11:59:25Z"
     }
   },
-  "lastUpdated": "2025-12-07T11:57:53Z",
+  "lastUpdated": "2025-12-07T12:32:53Z",
   "totalUsers": 350,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
