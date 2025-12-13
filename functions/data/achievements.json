@@ -3240,9 +3240,9 @@
       "counters": {
         "follow": 1,
         "chat": 985,
-        "points_spent": 10150,
+        "points_spent": 12950,
         "effects": 6,
-        "interactive": 9,
+        "interactive": 11,
         "screenshot": 1,
         "sounds": 2
       },
@@ -3263,9 +3263,11 @@
         "screenshot_first",
         "sound_first",
         "chat_enthusiast",
-        "spender_silver"
+        "spender_silver",
+        "interactive_regular",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-12-13T14:14:29Z"
+      "lastUpdated": "2025-12-13T14:15:22Z"
     },
     "roffelonator": {
       "counters": {
@@ -7180,7 +7182,7 @@
       "lastUpdated": "2025-12-07T11:59:25Z"
     }
   },
-  "lastUpdated": "2025-12-13T14:14:30Z",
+  "lastUpdated": "2025-12-13T14:15:23Z",
   "totalUsers": 349,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
