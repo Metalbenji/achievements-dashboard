@@ -1740,7 +1740,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 370,
+        "chat": 373,
         "points_spent": 12551,
         "interactive": 1,
         "effects": 16,
@@ -1777,7 +1777,7 @@
         "chat_dedicated",
         "spender_silver"
       ],
-      "lastUpdated": "2025-12-07T10:01:18Z"
+      "lastUpdated": "2025-12-13T13:26:50Z"
     },
     "tawmae": {
       "counters": {
@@ -1801,7 +1801,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 111,
+        "chat": 112,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1822,7 +1822,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-13T12:56:19Z"
+      "lastUpdated": "2025-12-13T13:19:43Z"
     },
     "sealdancer": {
       "counters": {
@@ -2063,10 +2063,10 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 610,
-        "points_spent": 33605,
+        "chat": 614,
+        "points_spent": 34105,
         "interactive": 15,
-        "effects": 25,
+        "effects": 26,
         "sub": 25,
         "sounds": 1
       },
@@ -2103,7 +2103,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-13T13:10:35Z"
+      "lastUpdated": "2025-12-13T13:18:37Z"
     },
     "redunt86": {
       "counters": {
@@ -2421,7 +2421,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 170
+        "chat": 171
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2433,7 +2433,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-13T13:00:49Z"
+      "lastUpdated": "2025-12-13T13:25:38Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -4440,7 +4440,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 100,
+        "chat": 133,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
@@ -4466,7 +4466,7 @@
         "sub_committed",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-13T13:10:50Z"
+      "lastUpdated": "2025-12-13T13:23:58Z"
     },
     "nightboy009": {
       "counters": {
@@ -7178,7 +7178,7 @@
       "lastUpdated": "2025-12-07T11:59:25Z"
     }
   },
-  "lastUpdated": "2025-12-13T13:10:51Z",
+  "lastUpdated": "2025-12-13T13:29:46Z",
   "totalUsers": 349,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
