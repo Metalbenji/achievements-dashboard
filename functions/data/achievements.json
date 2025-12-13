@@ -1355,7 +1355,7 @@
     "itzsilvah": {
       "counters": {
         "chat": 270,
-        "points_spent": 28300,
+        "points_spent": 28700,
         "follow": 1,
         "sub": 18,
         "interactive": 1,
@@ -1385,7 +1385,7 @@
         "sub_platinum",
         "effect_first"
       ],
-      "lastUpdated": "2025-12-13T14:33:10Z"
+      "lastUpdated": "2025-12-13T14:38:02Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1405,7 +1405,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1573,
+        "chat": 1574,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1455,7 +1455,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-13T14:27:10Z"
+      "lastUpdated": "2025-12-13T14:37:03Z"
     },
     "celran": {
       "counters": {
@@ -1536,7 +1536,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1921,
+        "chat": 1923,
         "points_spent": 89451,
         "screenshot": 1,
         "follow": 1,
@@ -1601,7 +1601,7 @@
         "chat_expert",
         "sub_legendary"
       ],
-      "lastUpdated": "2025-12-13T14:28:13Z"
+      "lastUpdated": "2025-12-13T14:37:41Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1963,7 +1963,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 753,
+        "chat": 757,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2012,7 +2012,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-13T13:59:55Z"
+      "lastUpdated": "2025-12-13T14:36:09Z"
     },
     "anzerou": {
       "counters": {
@@ -2475,8 +2475,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 10000,
-        "effects": 25,
+        "points_spent": 10700,
+        "effects": 27,
         "follow": 1,
         "chat": 128,
         "interactive": 1,
@@ -2503,12 +2503,12 @@
         "spender_silver",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-07T15:20:52Z"
+      "lastUpdated": "2025-12-13T14:37:44Z"
     },
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 601,
+        "chat": 602,
         "sub": 37,
         "points_spent": 25251,
         "interactive": 2,
@@ -2564,7 +2564,7 @@
         "gift_bombs_regular",
         "sub_master"
       ],
-      "lastUpdated": "2025-12-07T09:11:12Z"
+      "lastUpdated": "2025-12-13T14:33:29Z"
     },
     "umenneske94": {
       "counters": {
@@ -7183,10 +7183,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-12-07T11:59:25Z"
+    },
+    "kenbanez": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-12-13T14:38:05Z"
     }
   },
-  "lastUpdated": "2025-12-13T14:33:10Z",
-  "totalUsers": 349,
+  "lastUpdated": "2025-12-13T14:38:06Z",
+  "totalUsers": 350,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
