@@ -3240,11 +3240,11 @@
       "counters": {
         "follow": 1,
         "chat": 985,
-        "points_spent": 12950,
+        "points_spent": 42950,
         "effects": 6,
         "interactive": 11,
         "screenshot": 1,
-        "sounds": 2
+        "sounds": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3267,7 +3267,7 @@
         "interactive_regular",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-12-13T14:15:22Z"
+      "lastUpdated": "2025-12-13T14:15:49Z"
     },
     "roffelonator": {
       "counters": {
@@ -7182,7 +7182,7 @@
       "lastUpdated": "2025-12-07T11:59:25Z"
     }
   },
-  "lastUpdated": "2025-12-13T14:15:23Z",
+  "lastUpdated": "2025-12-13T14:16:55Z",
   "totalUsers": 349,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
