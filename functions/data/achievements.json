@@ -1405,7 +1405,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1583,
+        "chat": 1584,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1455,7 +1455,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-13T15:04:05Z"
+      "lastUpdated": "2025-12-13T15:19:07Z"
     },
     "celran": {
       "counters": {
@@ -1536,12 +1536,12 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1939,
+        "chat": 1941,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
         "sub": 48,
-        "sounds": 5,
+        "sounds": 6,
         "effects": 9,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 142,
@@ -1602,7 +1602,7 @@
         "sub_legendary",
         "spender_legend"
       ],
-      "lastUpdated": "2025-12-13T15:12:51Z"
+      "lastUpdated": "2025-12-13T15:14:35Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1654,7 +1654,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 331,
+        "chat": 332,
         "follow": 1,
         "sub": 34,
         "points_spent": 65000,
@@ -1687,7 +1687,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-13T14:55:33Z"
+      "lastUpdated": "2025-12-13T15:15:53Z"
     },
     "scoman07": {
       "counters": {
@@ -1724,7 +1724,7 @@
       "counters": {
         "points_spent": 6600,
         "effects": 8,
-        "chat": 100,
+        "chat": 101,
         "sounds": 1,
         "follow": 1
       },
@@ -1741,7 +1741,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-13T14:48:13Z"
+      "lastUpdated": "2025-12-13T15:19:11Z"
     },
     "hairypawter": {
       "counters": {
@@ -1965,7 +1965,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 760,
+        "chat": 767,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2014,7 +2014,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-13T14:42:21Z"
+      "lastUpdated": "2025-12-13T16:13:50Z"
     },
     "anzerou": {
       "counters": {
@@ -2257,7 +2257,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2004,
+        "chat": 2008,
         "gift_subs": 2,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 400,
@@ -2324,7 +2324,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-13T15:10:03Z"
+      "lastUpdated": "2025-12-13T16:00:37Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2571,7 +2571,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 12,
         "points_spent": 1300,
         "interactive": 1,
         "effects": 1
@@ -2585,11 +2585,11 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-11-15T13:46:19Z"
+      "lastUpdated": "2025-12-13T16:43:40Z"
     },
     "soundalerts": {
       "counters": {
-        "chat": 91
+        "chat": 92
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2599,7 +2599,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-13T14:39:51Z"
+      "lastUpdated": "2025-12-13T15:44:24Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2980,7 +2980,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 66,
+        "chat": 70,
         "sub": 20
       },
       "unlockedAchievements": [
@@ -3000,7 +3000,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2025-11-01T10:43:10Z"
+      "lastUpdated": "2025-12-13T16:46:18Z"
     },
     "awildbubbles": {
       "counters": {
@@ -3156,7 +3156,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 163,
+        "chat": 164,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3173,7 +3173,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-13T12:52:52Z"
+      "lastUpdated": "2025-12-13T15:28:41Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3244,7 +3244,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 998,
+        "chat": 1000,
         "points_spent": 43450,
         "effects": 7,
         "interactive": 11,
@@ -3270,9 +3270,10 @@
         "chat_enthusiast",
         "spender_silver",
         "interactive_regular",
-        "emperor_loyal"
+        "emperor_loyal",
+        "chat_champion"
       ],
-      "lastUpdated": "2025-12-13T15:00:21Z"
+      "lastUpdated": "2025-12-13T16:48:23Z"
     },
     "roffelonator": {
       "counters": {
@@ -5832,7 +5833,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 276,
+        "chat": 280,
         "follow": 1,
         "points_spent": 22000,
         "sounds": 1
@@ -5852,7 +5853,7 @@
         "vip_dreamer",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-12-13T14:43:56Z"
+      "lastUpdated": "2025-12-13T15:55:23Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6728,7 +6729,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 57,
+        "chat": 58,
         "bits": 97,
         "raid": 1,
         "follow": 1,
@@ -6753,7 +6754,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2025-12-07T11:56:44Z"
+      "lastUpdated": "2025-12-13T15:27:22Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7199,7 +7200,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 669,
+        "chat": 670,
         "follow": 1,
         "points_spent": 10351,
         "screenshot": 1,
@@ -7239,10 +7240,10 @@
         "sub_supporter",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-13T15:07:32Z"
+      "lastUpdated": "2025-12-13T15:35:51Z"
     }
   },
-  "lastUpdated": "2025-12-13T15:12:51Z",
+  "lastUpdated": "2025-12-13T16:48:24Z",
   "totalUsers": 351,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
