@@ -1405,7 +1405,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1591,
+        "chat": 1595,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1455,7 +1455,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-20T10:57:41Z"
+      "lastUpdated": "2025-12-20T11:04:46Z"
     },
     "celran": {
       "counters": {
@@ -1536,7 +1536,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2009,
+        "chat": 2014,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1603,7 +1603,7 @@
         "spender_legend",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-20T10:56:55Z"
+      "lastUpdated": "2025-12-20T11:07:01Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2908,7 +2908,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 662,
+        "chat": 668,
         "points_spent": 6000,
         "sounds": 3
       },
@@ -2925,7 +2925,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-20T09:46:30Z"
+      "lastUpdated": "2025-12-20T11:08:01Z"
     },
     "maximusis_": {
       "counters": {
@@ -2972,7 +2972,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 101,
+        "chat": 105,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -2989,7 +2989,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-07T13:32:25Z"
+      "lastUpdated": "2025-12-20T11:08:10Z"
     },
     "justflip": {
       "counters": {
@@ -5847,7 +5847,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 282,
+        "chat": 286,
         "follow": 1,
         "points_spent": 22000,
         "sounds": 1
@@ -5867,7 +5867,7 @@
         "vip_dreamer",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-12-20T10:57:32Z"
+      "lastUpdated": "2025-12-20T11:03:51Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6442,16 +6442,18 @@
     "vnvqt": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 34,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "gift_starter"
       ],
-      "lastUpdated": "2025-11-09T14:15:08Z"
+      "lastUpdated": "2025-12-20T11:05:58Z"
     },
     "theysang": {
       "counters": {
@@ -7278,7 +7280,7 @@
       "lastUpdated": "2025-12-20T09:27:28Z"
     }
   },
-  "lastUpdated": "2025-12-20T10:58:04Z",
+  "lastUpdated": "2025-12-20T11:13:23Z",
   "totalUsers": 353,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
