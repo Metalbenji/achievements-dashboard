@@ -2450,7 +2450,7 @@
         "follow": 1,
         "chat": 173,
         "points_spent": 22000,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2465,7 +2465,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-12-20T14:51:28Z"
+      "lastUpdated": "2025-12-20T14:51:29Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -7355,10 +7355,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-12-20T13:56:48Z"
+    },
+    "cptjamestduck": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-12-20T14:52:39Z"
     }
   },
-  "lastUpdated": "2025-12-20T14:51:29Z",
-  "totalUsers": 357,
+  "lastUpdated": "2025-12-20T14:52:40Z",
+  "totalUsers": 358,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
