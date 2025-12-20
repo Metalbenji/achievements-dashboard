@@ -1500,7 +1500,8 @@
         "sub": 31,
         "sounds": 5,
         "screenshot": 2,
-        "interactive": 2
+        "interactive": 2,
+        "bits": 100
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1530,9 +1531,12 @@
         "chat_dedicated",
         "sub_elite",
         "spender_silver",
-        "effect_collector"
+        "effect_collector",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2025-12-20T12:18:42Z"
+      "lastUpdated": "2025-12-20T12:19:53Z"
     },
     "ramdon101": {
       "counters": {
@@ -7324,7 +7328,7 @@
       "lastUpdated": "2025-12-20T12:17:46Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:19:55Z",
+  "lastUpdated": "2025-12-20T12:19:56Z",
   "totalUsers": 356,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
