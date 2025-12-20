@@ -1536,7 +1536,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1961,
+        "chat": 1962,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1602,7 +1602,7 @@
         "sub_legendary",
         "spender_legend"
       ],
-      "lastUpdated": "2025-12-20T09:20:01Z"
+      "lastUpdated": "2025-12-20T09:23:30Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1965,7 +1965,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 773,
+        "chat": 776,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2014,7 +2014,7 @@
         "spender_silver",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-20T09:01:02Z"
+      "lastUpdated": "2025-12-20T09:26:28Z"
     },
     "anzerou": {
       "counters": {
@@ -2598,7 +2598,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 94
+        "chat": 96
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2608,7 +2608,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-20T09:19:05Z"
+      "lastUpdated": "2025-12-20T09:26:18Z"
     },
     "gwinniejones": {
       "counters": {
@@ -3520,7 +3520,7 @@
       "counters": {
         "sub": 35,
         "follow": 1,
-        "chat": 397,
+        "chat": 398,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3547,7 +3547,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-13T13:00:10Z"
+      "lastUpdated": "2025-12-20T09:25:06Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -6558,7 +6558,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 814,
+        "chat": 815,
         "points_spent": 35802,
         "sounds": 15,
         "effects": 6,
@@ -6602,7 +6602,7 @@
         "first_caller",
         "sound_dj"
       ],
-      "lastUpdated": "2025-12-20T09:21:45Z"
+      "lastUpdated": "2025-12-20T09:24:38Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7260,10 +7260,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-12-13T17:00:00Z"
+    },
+    "bagmannnnnn": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-12-20T09:26:48Z"
     }
   },
-  "lastUpdated": "2025-12-20T09:22:39Z",
-  "totalUsers": 352,
+  "lastUpdated": "2025-12-20T09:26:49Z",
+  "totalUsers": 353,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
