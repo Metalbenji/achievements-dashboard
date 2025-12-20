@@ -2930,7 +2930,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 748,
+        "chat": 750,
         "points_spent": 6000,
         "sounds": 3
       },
@@ -2945,9 +2945,10 @@
         "spender_bronze",
         "sound_first",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-20T13:58:33Z"
+      "lastUpdated": "2025-12-20T14:53:50Z"
     },
     "maximusis_": {
       "counters": {
@@ -7358,15 +7359,15 @@
     },
     "cptjamestduck": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-12-20T14:52:39Z"
+      "lastUpdated": "2025-12-20T14:53:14Z"
     }
   },
-  "lastUpdated": "2025-12-20T14:52:40Z",
+  "lastUpdated": "2025-12-20T14:53:51Z",
   "totalUsers": 358,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
