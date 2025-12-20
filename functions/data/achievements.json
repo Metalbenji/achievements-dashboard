@@ -1405,7 +1405,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1584,
+        "chat": 1591,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1455,7 +1455,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-13T15:19:07Z"
+      "lastUpdated": "2025-12-20T10:57:41Z"
     },
     "celran": {
       "counters": {
@@ -1536,7 +1536,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2004,
+        "chat": 2009,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1603,7 +1603,7 @@
         "spender_legend",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-20T10:20:54Z"
+      "lastUpdated": "2025-12-20T10:56:55Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1853,7 +1853,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 295,
+        "chat": 296,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 10,
@@ -1883,7 +1883,7 @@
         "first_caller",
         "sub_champion"
       ],
-      "lastUpdated": "2025-12-20T09:39:23Z"
+      "lastUpdated": "2025-12-20T10:56:54Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -1969,13 +1969,13 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 788,
+        "chat": 797,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
         "sub": 34,
-        "gift_bombs": 2,
-        "total_gift_bomb_subs": 41,
+        "gift_bombs": 3,
+        "total_gift_bomb_subs": 51,
         "largest_gift_bomb": 36,
         "screenshot": 2,
         "clips": 1
@@ -2016,9 +2016,10 @@
         "bday2025_attend",
         "sub_elite",
         "spender_silver",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-20T09:50:56Z"
+      "lastUpdated": "2025-12-20T10:56:29Z"
     },
     "anzerou": {
       "counters": {
@@ -2602,7 +2603,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 98
+        "chat": 99
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2612,7 +2613,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-20T10:13:35Z"
+      "lastUpdated": "2025-12-20T10:51:09Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2773,7 +2774,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 595,
+        "chat": 597,
         "points_spent": 21651,
         "sounds": 4,
         "effects": 36,
@@ -2845,7 +2846,7 @@
         "raid_tier2_seasoned",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-20T09:49:48Z"
+      "lastUpdated": "2025-12-20T10:53:36Z"
     },
     "andilippi": {
       "counters": {
@@ -3169,7 +3170,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 164,
+        "chat": 166,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3186,7 +3187,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-13T15:28:41Z"
+      "lastUpdated": "2025-12-20T10:51:50Z"
     },
     "hero_zappz": {
       "counters": {
@@ -5846,7 +5847,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 280,
+        "chat": 282,
         "follow": 1,
         "points_spent": 22000,
         "sounds": 1
@@ -5866,7 +5867,7 @@
         "vip_dreamer",
         "emperor_loyal"
       ],
-      "lastUpdated": "2025-12-13T15:55:23Z"
+      "lastUpdated": "2025-12-20T10:57:32Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7277,7 +7278,7 @@
       "lastUpdated": "2025-12-20T09:27:28Z"
     }
   },
-  "lastUpdated": "2025-12-20T10:49:33Z",
+  "lastUpdated": "2025-12-20T10:58:04Z",
   "totalUsers": 353,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
