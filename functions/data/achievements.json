@@ -3521,7 +3521,7 @@
       "counters": {
         "sub": 35,
         "follow": 1,
-        "chat": 398,
+        "chat": 399,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3548,7 +3548,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-20T09:25:06Z"
+      "lastUpdated": "2025-12-20T09:27:18Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -7264,15 +7264,17 @@
     },
     "bagmannnnnn": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-12-20T09:26:48Z"
+      "lastUpdated": "2025-12-20T09:27:28Z"
     }
   },
-  "lastUpdated": "2025-12-20T09:26:52Z",
+  "lastUpdated": "2025-12-20T09:27:29Z",
   "totalUsers": 353,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
