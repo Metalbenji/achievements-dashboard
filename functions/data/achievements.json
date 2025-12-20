@@ -7299,15 +7299,17 @@
     },
     "khaedotv": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-12-20T11:40:33Z"
+      "lastUpdated": "2025-12-20T11:40:34Z"
     }
   },
-  "lastUpdated": "2025-12-20T11:40:34Z",
+  "lastUpdated": "2025-12-20T11:40:35Z",
   "totalUsers": 355,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
