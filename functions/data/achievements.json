@@ -1976,7 +1976,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 805,
+        "chat": 808,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2026,7 +2026,7 @@
         "chat_enthusiast",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-20T12:38:17Z"
+      "lastUpdated": "2025-12-20T14:46:13Z"
     },
     "anzerou": {
       "counters": {
@@ -2231,7 +2231,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 221,
+        "chat": 223,
         "sub": 26,
         "points_spent": 1650,
         "screenshot": 1,
@@ -2264,12 +2264,12 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-01T21:40:51Z"
+      "lastUpdated": "2025-12-20T14:22:39Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2060,
+        "chat": 2062,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2336,7 +2336,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-20T13:57:58Z"
+      "lastUpdated": "2025-12-20T14:39:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2448,7 +2448,8 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 173
+        "chat": 173,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2458,9 +2459,10 @@
         "chat_talker",
         "bday2025_attend",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-12-20T09:50:55Z"
+      "lastUpdated": "2025-12-20T14:50:18Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3219,7 +3221,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 202,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1
@@ -3237,7 +3239,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-20T14:20:55Z"
+      "lastUpdated": "2025-12-20T14:22:40Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -5082,13 +5084,13 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T12:58:56Z"
+      "lastUpdated": "2025-12-20T14:40:56Z"
     },
     "stellabellas": {
       "counters": {
@@ -7352,7 +7354,7 @@
       "lastUpdated": "2025-12-20T13:56:48Z"
     }
   },
-  "lastUpdated": "2025-12-20T14:20:56Z",
+  "lastUpdated": "2025-12-20T14:50:19Z",
   "totalUsers": 357,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
