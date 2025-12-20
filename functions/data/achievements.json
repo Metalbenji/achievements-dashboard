@@ -2925,7 +2925,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 736,
+        "chat": 738,
         "points_spent": 6000,
         "sounds": 3
       },
@@ -2942,7 +2942,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-20T13:03:03Z"
+      "lastUpdated": "2025-12-20T13:15:09Z"
     },
     "maximusis_": {
       "counters": {
@@ -5866,8 +5866,9 @@
       "counters": {
         "chat": 287,
         "follow": 1,
-        "points_spent": 22000,
-        "sounds": 1
+        "points_spent": 22500,
+        "sounds": 1,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5882,9 +5883,10 @@
         "night_owl",
         "chat_frequent",
         "vip_dreamer",
-        "emperor_loyal"
+        "emperor_loyal",
+        "interactive_first"
       ],
-      "lastUpdated": "2025-12-20T11:57:17Z"
+      "lastUpdated": "2025-12-20T13:16:50Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7338,7 +7340,7 @@
     },
     "alex_russian92": {
       "counters": {
-        "chat": 5,
+        "chat": 6,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7346,10 +7348,10 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-12-20T13:10:17Z"
+      "lastUpdated": "2025-12-20T13:13:03Z"
     }
   },
-  "lastUpdated": "2025-12-20T13:10:18Z",
+  "lastUpdated": "2025-12-20T13:16:51Z",
   "totalUsers": 357,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
