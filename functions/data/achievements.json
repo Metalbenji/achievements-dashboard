@@ -1536,7 +1536,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 1982,
+        "chat": 2004,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1547,7 +1547,7 @@
         "total_gift_bomb_subs": 152,
         "largest_gift_bomb": 116,
         "interactive": 1,
-        "gift_subs": 1
+        "gift_subs": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1600,9 +1600,10 @@
         "first_caller",
         "chat_expert",
         "sub_legendary",
-        "spender_legend"
+        "spender_legend",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-12-20T09:51:59Z"
+      "lastUpdated": "2025-12-20T10:20:54Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2260,7 +2261,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2033,
+        "chat": 2037,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2327,7 +2328,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-20T09:49:42Z"
+      "lastUpdated": "2025-12-20T10:18:28Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2601,7 +2602,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 97
+        "chat": 98
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2611,7 +2612,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-20T09:49:35Z"
+      "lastUpdated": "2025-12-20T10:13:35Z"
     },
     "gwinniejones": {
       "counters": {
@@ -3256,12 +3257,12 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1002,
-        "points_spent": 43450,
+        "chat": 1020,
+        "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
-        "screenshot": 1,
-        "sounds": 3
+        "screenshot": 2,
+        "sounds": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3285,7 +3286,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-20T09:50:22Z"
+      "lastUpdated": "2025-12-20T10:28:18Z"
     },
     "roffelonator": {
       "counters": {
@@ -6561,7 +6562,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 820,
+        "chat": 822,
         "points_spent": 35802,
         "sounds": 15,
         "effects": 6,
@@ -6605,7 +6606,7 @@
         "first_caller",
         "sound_dj"
       ],
-      "lastUpdated": "2025-12-20T09:46:34Z"
+      "lastUpdated": "2025-12-20T10:38:30Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7276,7 +7277,7 @@
       "lastUpdated": "2025-12-20T09:27:28Z"
     }
   },
-  "lastUpdated": "2025-12-20T09:52:35Z",
+  "lastUpdated": "2025-12-20T10:49:33Z",
   "totalUsers": 353,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
