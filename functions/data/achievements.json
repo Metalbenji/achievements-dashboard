@@ -1405,7 +1405,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1613,
+        "chat": 1620,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1455,7 +1455,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-20T12:17:35Z"
+      "lastUpdated": "2025-12-20T12:33:19Z"
     },
     "celran": {
       "counters": {
@@ -1975,7 +1975,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 803,
+        "chat": 804,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2025,7 +2025,7 @@
         "chat_enthusiast",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-20T12:13:46Z"
+      "lastUpdated": "2025-12-20T12:29:14Z"
     },
     "anzerou": {
       "counters": {
@@ -2609,7 +2609,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 100
+        "chat": 101
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2620,7 +2620,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-20T12:13:26Z"
+      "lastUpdated": "2025-12-20T12:28:41Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2898,7 +2898,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 86,
+        "chat": 87,
         "points_spent": 4000,
         "sub": 15
       },
@@ -2919,7 +2919,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-12-20T12:17:25Z"
+      "lastUpdated": "2025-12-20T12:23:36Z"
     },
     "chadrestricted": {
       "counters": {
@@ -2988,7 +2988,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 105,
+        "chat": 106,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3005,7 +3005,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-20T11:08:10Z"
+      "lastUpdated": "2025-12-20T12:32:21Z"
     },
     "justflip": {
       "counters": {
@@ -6724,7 +6724,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1123,
+        "chat": 1134,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6758,7 +6758,7 @@
         "night_owl",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-13T13:54:53Z"
+      "lastUpdated": "2025-12-20T12:33:43Z"
     },
     "metalbenji": {
       "counters": {
@@ -7203,13 +7203,14 @@
     "donfoxelite": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-12-06T13:53:35Z"
+      "lastUpdated": "2025-12-20T12:33:54Z"
     },
     "andypandy1238": {
       "counters": {
@@ -7321,17 +7322,17 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-12-20T12:22:43Z"
+      "lastUpdated": "2025-12-20T12:25:57Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:22:44Z",
+  "lastUpdated": "2025-12-20T12:33:55Z",
   "totalUsers": 356,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
