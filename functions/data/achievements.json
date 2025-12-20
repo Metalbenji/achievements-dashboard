@@ -2988,7 +2988,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 107,
+        "chat": 108,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3005,7 +3005,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-20T12:39:51Z"
+      "lastUpdated": "2025-12-20T12:41:07Z"
     },
     "justflip": {
       "counters": {
@@ -6724,7 +6724,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1136,
+        "chat": 1137,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6758,7 +6758,7 @@
         "night_owl",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-20T12:35:55Z"
+      "lastUpdated": "2025-12-20T12:44:42Z"
     },
     "metalbenji": {
       "counters": {
@@ -7323,18 +7323,20 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 15,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "birthday_person"
       ],
-      "lastUpdated": "2025-12-20T12:38:21Z"
+      "lastUpdated": "2025-12-20T12:44:45Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:40:16Z",
+  "lastUpdated": "2025-12-20T12:44:47Z",
   "totalUsers": 356,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
