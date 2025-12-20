@@ -1405,7 +1405,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1612,
+        "chat": 1613,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1455,7 +1455,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-20T12:14:55Z"
+      "lastUpdated": "2025-12-20T12:17:35Z"
     },
     "celran": {
       "counters": {
@@ -1493,7 +1493,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 425,
+        "chat": 427,
         "points_spent": 11600,
         "effects": 13,
         "follow": 1,
@@ -1532,7 +1532,7 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-12-20T12:15:01Z"
+      "lastUpdated": "2025-12-20T12:18:42Z"
     },
     "ramdon101": {
       "counters": {
@@ -2262,7 +2262,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2053,
+        "chat": 2055,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2329,7 +2329,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-20T12:15:36Z"
+      "lastUpdated": "2025-12-20T12:17:52Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2892,7 +2892,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 85,
+        "chat": 86,
         "points_spent": 4000,
         "sub": 15
       },
@@ -2913,7 +2913,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-12-20T12:14:33Z"
+      "lastUpdated": "2025-12-20T12:17:25Z"
     },
     "chadrestricted": {
       "counters": {
@@ -7315,16 +7315,16 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-12-20T12:16:42Z"
+      "lastUpdated": "2025-12-20T12:17:46Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:16:44Z",
+  "lastUpdated": "2025-12-20T12:19:53Z",
   "totalUsers": 356,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
