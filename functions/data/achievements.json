@@ -2925,7 +2925,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 724,
+        "chat": 736,
         "points_spent": 6000,
         "sounds": 3
       },
@@ -2942,7 +2942,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-20T12:14:59Z"
+      "lastUpdated": "2025-12-20T13:03:03Z"
     },
     "maximusis_": {
       "counters": {
@@ -6725,7 +6725,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1137,
+        "chat": 1138,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6759,7 +6759,7 @@
         "night_owl",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-20T12:44:42Z"
+      "lastUpdated": "2025-12-20T12:45:59Z"
     },
     "metalbenji": {
       "counters": {
@@ -7324,7 +7324,7 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 18,
+        "chat": 23,
         "points_spent": 2
       },
       "unlockedAchievements": [
@@ -7334,11 +7334,20 @@
         "chat_talker",
         "birthday_person"
       ],
-      "lastUpdated": "2025-12-20T12:45:24Z"
+      "lastUpdated": "2025-12-20T12:50:52Z"
+    },
+    "alex_russian92": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-12-20T13:04:08Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:45:30Z",
-  "totalUsers": 356,
+  "lastUpdated": "2025-12-20T13:04:09Z",
+  "totalUsers": 357,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
