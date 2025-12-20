@@ -1501,7 +1501,8 @@
         "sounds": 5,
         "screenshot": 2,
         "interactive": 2,
-        "bits": 100
+        "bits": 100,
+        "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1534,13 +1535,14 @@
         "effect_collector",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-20T12:19:53Z"
+      "lastUpdated": "2025-12-20T12:19:56Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2032,
+        "chat": 2033,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1607,7 +1609,7 @@
         "spender_legend",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-20T12:15:08Z"
+      "lastUpdated": "2025-12-20T12:19:57Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -7319,16 +7321,17 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-12-20T12:17:46Z"
+      "lastUpdated": "2025-12-20T12:22:43Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:19:56Z",
+  "lastUpdated": "2025-12-20T12:22:44Z",
   "totalUsers": 356,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
