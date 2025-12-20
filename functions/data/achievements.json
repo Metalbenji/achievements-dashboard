@@ -2988,7 +2988,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 106,
+        "chat": 107,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3005,7 +3005,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-20T12:32:21Z"
+      "lastUpdated": "2025-12-20T12:39:51Z"
     },
     "justflip": {
       "counters": {
@@ -7203,14 +7203,15 @@
     "donfoxelite": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-12-20T12:38:04Z"
+      "lastUpdated": "2025-12-20T12:40:15Z"
     },
     "andypandy1238": {
       "counters": {
@@ -7333,7 +7334,7 @@
       "lastUpdated": "2025-12-20T12:38:21Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:38:22Z",
+  "lastUpdated": "2025-12-20T12:40:16Z",
   "totalUsers": 356,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
