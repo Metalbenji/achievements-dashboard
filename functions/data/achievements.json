@@ -1747,7 +1747,7 @@
       "counters": {
         "follow": 1,
         "chat": 375,
-        "points_spent": 13351,
+        "points_spent": 15351,
         "interactive": 1,
         "effects": 17,
         "sub": 27,
@@ -1781,9 +1781,10 @@
         "clip_first",
         "effect_collector",
         "chat_dedicated",
-        "spender_silver"
+        "spender_silver",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2025-12-20T09:22:08Z"
+      "lastUpdated": "2025-12-20T09:26:51Z"
     },
     "tawmae": {
       "counters": {
@@ -7271,7 +7272,7 @@
       "lastUpdated": "2025-12-20T09:26:48Z"
     }
   },
-  "lastUpdated": "2025-12-20T09:26:49Z",
+  "lastUpdated": "2025-12-20T09:26:52Z",
   "totalUsers": 353,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
