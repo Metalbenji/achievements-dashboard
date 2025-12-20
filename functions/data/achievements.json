@@ -2449,7 +2449,8 @@
       "counters": {
         "follow": 1,
         "chat": 173,
-        "points_spent": 2000
+        "points_spent": 2000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2460,9 +2461,10 @@
         "bday2025_attend",
         "chat_conversationalist",
         "chat_regular",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2025-12-20T14:50:18Z"
+      "lastUpdated": "2025-12-20T14:50:19Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -7354,7 +7356,7 @@
       "lastUpdated": "2025-12-20T13:56:48Z"
     }
   },
-  "lastUpdated": "2025-12-20T14:50:19Z",
+  "lastUpdated": "2025-12-20T14:50:20Z",
   "totalUsers": 357,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
