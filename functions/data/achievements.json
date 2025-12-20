@@ -1405,7 +1405,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1611,
+        "chat": 1612,
         "points_spent": 34800,
         "effects": 8,
         "sub": 11,
@@ -1455,7 +1455,7 @@
         "sub_champion",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-20T12:12:27Z"
+      "lastUpdated": "2025-12-20T12:14:55Z"
     },
     "celran": {
       "counters": {
@@ -1493,12 +1493,12 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 421,
-        "points_spent": 11500,
+        "chat": 425,
+        "points_spent": 11600,
         "effects": 13,
         "follow": 1,
         "sub": 31,
-        "sounds": 4,
+        "sounds": 5,
         "screenshot": 2,
         "interactive": 2
       },
@@ -1532,11 +1532,11 @@
         "spender_silver",
         "effect_collector"
       ],
-      "lastUpdated": "2025-12-20T12:12:52Z"
+      "lastUpdated": "2025-12-20T12:15:01Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2030,
+        "chat": 2032,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1603,7 +1603,7 @@
         "spender_legend",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-20T12:04:34Z"
+      "lastUpdated": "2025-12-20T12:15:08Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1969,7 +1969,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 802,
+        "chat": 803,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2019,7 +2019,7 @@
         "chat_enthusiast",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-20T11:46:46Z"
+      "lastUpdated": "2025-12-20T12:13:46Z"
     },
     "anzerou": {
       "counters": {
@@ -2262,7 +2262,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2048,
+        "chat": 2053,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2329,7 +2329,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-20T12:01:59Z"
+      "lastUpdated": "2025-12-20T12:15:36Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2400,7 +2400,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 37,
+        "chat": 39,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2413,7 +2413,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-20T11:54:11Z"
+      "lastUpdated": "2025-12-20T12:14:39Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2892,7 +2892,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 84,
+        "chat": 85,
         "points_spent": 4000,
         "sub": 15
       },
@@ -2913,12 +2913,12 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-12-20T11:56:41Z"
+      "lastUpdated": "2025-12-20T12:14:33Z"
     },
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 722,
+        "chat": 724,
         "points_spent": 6000,
         "sounds": 3
       },
@@ -2935,7 +2935,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-20T11:56:16Z"
+      "lastUpdated": "2025-12-20T12:14:59Z"
     },
     "maximusis_": {
       "counters": {
@@ -7311,10 +7311,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-12-20T11:46:48Z"
+    },
+    "chilldude098": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-12-20T12:16:41Z"
     }
   },
-  "lastUpdated": "2025-12-20T12:13:27Z",
-  "totalUsers": 355,
+  "lastUpdated": "2025-12-20T12:16:42Z",
+  "totalUsers": 356,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
