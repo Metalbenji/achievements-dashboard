@@ -2157,7 +2157,7 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 56851,
+        "points_spent": 56852,
         "follow": 1,
         "chat": 681,
         "effects": 62,
@@ -2212,9 +2212,10 @@
         "birthday_person",
         "sub_master",
         "spender_gold",
-        "biggest_fan"
+        "biggest_fan",
+        "first_caller"
       ],
-      "lastUpdated": "2025-12-13T15:03:33Z"
+      "lastUpdated": "2025-12-21T17:51:32Z"
     },
     "syn__________": {
       "counters": {
@@ -6780,9 +6781,9 @@
         "follow": 1,
         "gift_subs": 1,
         "sub": 1,
-        "points_spent": 1100,
+        "points_spent": 1200,
         "effects": 1,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6801,7 +6802,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-12-21T12:57:30Z"
+      "lastUpdated": "2025-12-21T13:14:19Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7373,7 +7374,7 @@
       "lastUpdated": "2025-12-20T14:55:13Z"
     }
   },
-  "lastUpdated": "2025-12-21T12:57:31Z",
+  "lastUpdated": "2025-12-21T17:51:33Z",
   "totalUsers": 358,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
