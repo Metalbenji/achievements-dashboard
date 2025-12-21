@@ -1977,7 +1977,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 840,
+        "chat": 842,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2027,7 +2027,7 @@
         "chat_enthusiast",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-21T19:28:23Z"
+      "lastUpdated": "2025-12-21T19:38:36Z"
     },
     "anzerou": {
       "counters": {
@@ -4352,7 +4352,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 321,
+        "chat": 324,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4368,7 +4368,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-21T18:51:43Z"
+      "lastUpdated": "2025-12-21T19:37:31Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6205,7 +6205,7 @@
       "counters": {
         "points_spent": 21232,
         "special_rewards": 1,
-        "chat": 252,
+        "chat": 253,
         "effects": 3,
         "follow": 1,
         "sub": 11
@@ -6235,7 +6235,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-13T12:44:25Z"
+      "lastUpdated": "2025-12-21T19:30:52Z"
     },
     "otocar": {
       "counters": {
@@ -7315,15 +7315,16 @@
     },
     "mrblue1426": {
       "counters": {
-        "chat": 5,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-12-21T19:29:29Z"
+      "lastUpdated": "2025-12-21T19:38:55Z"
     },
     "khaedotv": {
       "counters": {
@@ -7376,7 +7377,7 @@
       "lastUpdated": "2025-12-20T14:55:13Z"
     }
   },
-  "lastUpdated": "2025-12-21T19:29:30Z",
+  "lastUpdated": "2025-12-21T19:38:56Z",
   "totalUsers": 358,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
