@@ -1978,8 +1978,8 @@
       "counters": {
         "follow": 1,
         "chat": 844,
-        "points_spent": 34104,
-        "effects": 7,
+        "points_spent": 35604,
+        "effects": 10,
         "sounds": 5,
         "sub": 34,
         "gift_bombs": 3,
@@ -2025,9 +2025,10 @@
         "sub_elite",
         "spender_silver",
         "chat_enthusiast",
-        "gift_bombs_regular"
+        "gift_bombs_regular",
+        "effect_collector"
       ],
-      "lastUpdated": "2025-12-21T20:37:45Z"
+      "lastUpdated": "2025-12-21T20:50:49Z"
     },
     "anzerou": {
       "counters": {
@@ -2789,10 +2790,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 615,
-        "points_spent": 22151,
+        "chat": 616,
+        "points_spent": 22651,
         "sounds": 4,
-        "effects": 37,
+        "effects": 38,
         "sub": 44,
         "bits": 7000,
         "raid": 7,
@@ -2861,7 +2862,7 @@
         "raid_tier2_seasoned",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-21T20:41:31Z"
+      "lastUpdated": "2025-12-21T20:45:22Z"
     },
     "andilippi": {
       "counters": {
@@ -7397,7 +7398,7 @@
       "lastUpdated": "2025-12-21T20:43:46Z"
     }
   },
-  "lastUpdated": "2025-12-21T20:43:47Z",
+  "lastUpdated": "2025-12-21T20:50:49Z",
   "totalUsers": 360,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
