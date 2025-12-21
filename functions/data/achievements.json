@@ -2792,9 +2792,9 @@
       "counters": {
         "follow": 1,
         "chat": 634,
-        "points_spent": 26201,
+        "points_spent": 26701,
         "sounds": 4,
-        "effects": 45,
+        "effects": 46,
         "sub": 44,
         "bits": 7000,
         "raid": 7,
@@ -2863,7 +2863,7 @@
         "raid_tier2_seasoned",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-21T22:04:13Z"
+      "lastUpdated": "2025-12-21T22:04:42Z"
     },
     "andilippi": {
       "counters": {
@@ -7319,15 +7319,18 @@
     "mrblue1426": {
       "counters": {
         "chat": 22,
-        "follow": 1
+        "follow": 1,
+        "points_spent": 100,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "sound_first"
       ],
-      "lastUpdated": "2025-12-21T21:36:22Z"
+      "lastUpdated": "2025-12-21T22:05:22Z"
     },
     "khaedotv": {
       "counters": {
@@ -7400,7 +7403,7 @@
       "lastUpdated": "2025-12-21T20:43:46Z"
     }
   },
-  "lastUpdated": "2025-12-21T22:04:36Z",
+  "lastUpdated": "2025-12-21T22:05:23Z",
   "totalUsers": 360,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
