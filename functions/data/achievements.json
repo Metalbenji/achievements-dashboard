@@ -7387,15 +7387,17 @@
     },
     "mugalous": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-12-21T20:43:44Z"
+      "lastUpdated": "2025-12-21T20:43:46Z"
     }
   },
-  "lastUpdated": "2025-12-21T20:43:45Z",
+  "lastUpdated": "2025-12-21T20:43:47Z",
   "totalUsers": 360,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
