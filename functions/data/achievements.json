@@ -1406,7 +1406,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1657,
+        "chat": 1668,
         "points_spent": 34801,
         "effects": 8,
         "sub": 11,
@@ -1457,7 +1457,7 @@
         "chat_expert",
         "birthday_person"
       ],
-      "lastUpdated": "2025-12-20T17:29:14Z"
+      "lastUpdated": "2025-12-21T21:17:52Z"
     },
     "celran": {
       "counters": {
@@ -1818,7 +1818,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 130,
+        "chat": 132,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1839,7 +1839,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-21T20:40:21Z"
+      "lastUpdated": "2025-12-21T20:56:47Z"
     },
     "sealdancer": {
       "counters": {
@@ -1978,8 +1978,8 @@
       "counters": {
         "follow": 1,
         "chat": 844,
-        "points_spent": 35604,
-        "effects": 10,
+        "points_spent": 36604,
+        "effects": 12,
         "sounds": 5,
         "sub": 34,
         "gift_bombs": 3,
@@ -2028,7 +2028,7 @@
         "gift_bombs_regular",
         "effect_collector"
       ],
-      "lastUpdated": "2025-12-21T20:50:49Z"
+      "lastUpdated": "2025-12-21T20:53:34Z"
     },
     "anzerou": {
       "counters": {
@@ -2221,7 +2221,7 @@
     "syn__________": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2229,13 +2229,13 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-07-12T17:48:01Z"
+      "lastUpdated": "2025-12-21T21:16:15Z"
     },
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 223,
-        "sub": 26,
+        "chat": 228,
+        "sub": 27,
         "points_spent": 1650,
         "screenshot": 1,
         "sounds": 1,
@@ -2267,12 +2267,12 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-20T14:22:39Z"
+      "lastUpdated": "2025-12-21T21:13:07Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2096,
+        "chat": 2102,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2339,7 +2339,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-21T20:38:43Z"
+      "lastUpdated": "2025-12-21T21:13:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2790,10 +2790,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 616,
-        "points_spent": 22651,
+        "chat": 622,
+        "points_spent": 25501,
         "sounds": 4,
-        "effects": 38,
+        "effects": 43,
         "sub": 44,
         "bits": 7000,
         "raid": 7,
@@ -2802,7 +2802,7 @@
         "largest_gift_bomb": 228,
         "gift_subs": 2,
         "interactive": 2,
-        "screenshot": 1
+        "screenshot": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2862,7 +2862,7 @@
         "raid_tier2_seasoned",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-21T20:45:22Z"
+      "lastUpdated": "2025-12-21T21:12:49Z"
     },
     "andilippi": {
       "counters": {
@@ -3285,7 +3285,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1027,
+        "chat": 1030,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3314,7 +3314,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-21T17:56:29Z"
+      "lastUpdated": "2025-12-21T21:09:06Z"
     },
     "roffelonator": {
       "counters": {
@@ -4384,7 +4384,7 @@
     "boggieh": {
       "counters": {
         "follow": 1,
-        "chat": 6,
+        "chat": 10,
         "points_spent": 8650,
         "screenshot": 1
       },
@@ -4395,9 +4395,10 @@
         "spender_bronze",
         "biggest_fan",
         "screenshot_first",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-07-26T15:45:19Z"
+      "lastUpdated": "2025-12-21T21:18:29Z"
     },
     "mr_beardz": {
       "counters": {
@@ -7316,7 +7317,7 @@
     },
     "mrblue1426": {
       "counters": {
-        "chat": 14,
+        "chat": 19,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7325,7 +7326,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-12-21T20:43:13Z"
+      "lastUpdated": "2025-12-21T21:16:08Z"
     },
     "khaedotv": {
       "counters": {
@@ -7398,7 +7399,7 @@
       "lastUpdated": "2025-12-21T20:43:46Z"
     }
   },
-  "lastUpdated": "2025-12-21T20:50:49Z",
+  "lastUpdated": "2025-12-21T21:18:30Z",
   "totalUsers": 360,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
