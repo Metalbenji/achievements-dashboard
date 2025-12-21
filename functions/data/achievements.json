@@ -1407,7 +1407,7 @@
     "little_lilith_": {
       "counters": {
         "chat": 1671,
-        "points_spent": 34801,
+        "points_spent": 35201,
         "effects": 8,
         "sub": 11,
         "bits": 1894,
@@ -1457,7 +1457,7 @@
         "chat_expert",
         "birthday_person"
       ],
-      "lastUpdated": "2025-12-21T21:54:43Z"
+      "lastUpdated": "2025-12-21T22:05:28Z"
     },
     "celran": {
       "counters": {
@@ -7318,7 +7318,7 @@
     },
     "mrblue1426": {
       "counters": {
-        "chat": 22,
+        "chat": 23,
         "follow": 1,
         "points_spent": 100,
         "sounds": 1
@@ -7328,9 +7328,10 @@
         "follow_supporter",
         "chat_newbie",
         "chat_talker",
-        "sound_first"
+        "sound_first",
+        "night_owl"
       ],
-      "lastUpdated": "2025-12-21T22:05:22Z"
+      "lastUpdated": "2025-12-21T22:06:50Z"
     },
     "khaedotv": {
       "counters": {
@@ -7403,7 +7404,7 @@
       "lastUpdated": "2025-12-21T20:43:46Z"
     }
   },
-  "lastUpdated": "2025-12-21T22:05:23Z",
+  "lastUpdated": "2025-12-21T22:06:51Z",
   "totalUsers": 360,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
