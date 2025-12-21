@@ -5877,7 +5877,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 309,
+        "chat": 310,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5900,7 +5900,7 @@
         "interactive_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-21T21:39:50Z"
+      "lastUpdated": "2025-12-21T22:09:28Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7405,17 +7405,19 @@
     },
     "pcklnic": {
       "counters": {
-        "chat": 5
+        "chat": 9,
+        "follow": 1
       },
       "unlockedAchievements": [
         "night_owl",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2025-12-21T22:08:25Z"
+      "lastUpdated": "2025-12-21T22:10:23Z"
     }
   },
-  "lastUpdated": "2025-12-21T22:08:26Z",
+  "lastUpdated": "2025-12-21T22:10:24Z",
   "totalUsers": 361,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
