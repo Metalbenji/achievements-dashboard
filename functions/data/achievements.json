@@ -1977,7 +1977,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 814,
+        "chat": 815,
         "points_spent": 34104,
         "effects": 7,
         "sounds": 5,
@@ -2027,7 +2027,7 @@
         "chat_enthusiast",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-20T16:01:02Z"
+      "lastUpdated": "2025-12-21T17:54:18Z"
     },
     "anzerou": {
       "counters": {
@@ -2157,10 +2157,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 56852,
+        "points_spent": 58852,
         "follow": 1,
-        "chat": 681,
-        "effects": 62,
+        "chat": 688,
+        "effects": 64,
         "screenshot": 3,
         "sounds": 5,
         "bits": 300,
@@ -2215,7 +2215,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-21T17:51:32Z"
+      "lastUpdated": "2025-12-21T18:02:29Z"
     },
     "syn__________": {
       "counters": {
@@ -2271,7 +2271,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2068,
+        "chat": 2077,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2338,7 +2338,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-20T16:00:52Z"
+      "lastUpdated": "2025-12-21T18:12:42Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3195,7 +3195,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 166,
+        "chat": 167,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3212,7 +3212,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-20T10:51:50Z"
+      "lastUpdated": "2025-12-21T18:13:14Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3284,7 +3284,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1021,
+        "chat": 1027,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3313,7 +3313,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-20T11:52:26Z"
+      "lastUpdated": "2025-12-21T17:56:29Z"
     },
     "roffelonator": {
       "counters": {
@@ -4352,7 +4352,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 308,
+        "chat": 315,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4368,7 +4368,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-20T17:29:56Z"
+      "lastUpdated": "2025-12-21T18:18:35Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5874,7 +5874,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 292,
+        "chat": 300,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5894,9 +5894,10 @@
         "chat_frequent",
         "vip_dreamer",
         "emperor_loyal",
-        "interactive_first"
+        "interactive_first",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-20T16:56:38Z"
+      "lastUpdated": "2025-12-21T18:19:09Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6737,7 +6738,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1141,
+        "chat": 1144,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6771,11 +6772,11 @@
         "night_owl",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-20T16:16:43Z"
+      "lastUpdated": "2025-12-21T18:15:10Z"
     },
     "metalbenji": {
       "counters": {
-        "chat": 60,
+        "chat": 61,
         "bits": 97,
         "raid": 1,
         "follow": 1,
@@ -6802,7 +6803,7 @@
         "effect_first",
         "sound_first"
       ],
-      "lastUpdated": "2025-12-21T13:14:19Z"
+      "lastUpdated": "2025-12-21T18:04:30Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7352,7 +7353,7 @@
     },
     "alex_russian92": {
       "counters": {
-        "chat": 11,
+        "chat": 15,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7361,7 +7362,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-12-20T15:11:19Z"
+      "lastUpdated": "2025-12-21T18:11:06Z"
     },
     "cptjamestduck": {
       "counters": {
@@ -7374,7 +7375,7 @@
       "lastUpdated": "2025-12-20T14:55:13Z"
     }
   },
-  "lastUpdated": "2025-12-21T17:51:33Z",
+  "lastUpdated": "2025-12-21T18:19:09Z",
   "totalUsers": 358,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
