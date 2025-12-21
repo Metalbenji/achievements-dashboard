@@ -1818,7 +1818,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 135,
+        "chat": 136,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1839,7 +1839,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-21T21:54:32Z"
+      "lastUpdated": "2025-12-21T22:18:58Z"
     },
     "sealdancer": {
       "counters": {
@@ -1935,7 +1935,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 477,
+        "chat": 478,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 27,
@@ -1973,12 +1973,12 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-21T22:16:38Z"
+      "lastUpdated": "2025-12-21T22:19:19Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 844,
+        "chat": 845,
         "points_spent": 36604,
         "effects": 12,
         "sounds": 5,
@@ -2029,7 +2029,7 @@
         "gift_bombs_regular",
         "effect_collector"
       ],
-      "lastUpdated": "2025-12-21T20:53:34Z"
+      "lastUpdated": "2025-12-21T22:19:01Z"
     },
     "anzerou": {
       "counters": {
@@ -2791,7 +2791,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 636,
+        "chat": 637,
         "points_spent": 26701,
         "sounds": 4,
         "effects": 46,
@@ -2863,7 +2863,7 @@
         "raid_tier2_seasoned",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-21T22:12:57Z"
+      "lastUpdated": "2025-12-21T22:18:57Z"
     },
     "andilippi": {
       "counters": {
@@ -3021,7 +3021,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 94,
+        "chat": 100,
         "sub": 21
       },
       "unlockedAchievements": [
@@ -3040,9 +3040,10 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "night_owl"
+        "night_owl",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-12-21T22:18:37Z"
+      "lastUpdated": "2025-12-21T22:19:32Z"
     },
     "awildbubbles": {
       "counters": {
@@ -3957,7 +3958,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 92,
+        "chat": 93,
         "points_spent": 500,
         "effects": 1
       },
@@ -3971,7 +3972,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-21T21:40:54Z"
+      "lastUpdated": "2025-12-21T22:18:45Z"
     },
     "saluda777": {
       "counters": {
@@ -5878,7 +5879,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 313,
+        "chat": 314,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5901,7 +5902,7 @@
         "interactive_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-21T22:18:32Z"
+      "lastUpdated": "2025-12-21T22:18:53Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7419,7 +7420,7 @@
       "lastUpdated": "2025-12-21T22:12:32Z"
     }
   },
-  "lastUpdated": "2025-12-21T22:18:38Z",
+  "lastUpdated": "2025-12-21T22:19:33Z",
   "totalUsers": 361,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
