@@ -2497,7 +2497,8 @@
         "follow": 1,
         "chat": 183,
         "points_spent": 22000,
-        "sounds": 2
+        "sounds": 2,
+        "sub": 34
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2511,9 +2512,19 @@
         "spender_bronze",
         "sound_first",
         "spender_silver",
-        "spender_iron"
+        "spender_iron",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite"
       ],
-      "lastUpdated": "2025-12-28T18:40:44Z"
+      "lastUpdated": "2025-12-28T19:02:26Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2743,7 +2754,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 289,
+        "chat": 291,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2769,7 +2780,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-28T18:58:03Z"
+      "lastUpdated": "2025-12-28T19:03:44Z"
     },
     "chevelletv": {
       "counters": {
@@ -7407,7 +7418,7 @@
       "lastUpdated": "2025-12-28T18:42:24Z"
     }
   },
-  "lastUpdated": "2025-12-28T19:02:36Z",
+  "lastUpdated": "2025-12-28T19:03:58Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
