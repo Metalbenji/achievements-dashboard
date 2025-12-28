@@ -1544,7 +1544,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2069,
+        "chat": 2070,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1611,7 +1611,7 @@
         "spender_legend",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-28T12:02:54Z"
+      "lastUpdated": "2025-12-28T12:19:05Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2277,7 +2277,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2175,
+        "chat": 2177,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2350,7 +2350,7 @@
         "screenshot_first",
         "donation_first_timer"
       ],
-      "lastUpdated": "2025-12-28T12:11:47Z"
+      "lastUpdated": "2025-12-28T12:19:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2801,7 +2801,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 644,
+        "chat": 645,
         "points_spent": 27701,
         "sounds": 4,
         "effects": 48,
@@ -2873,7 +2873,7 @@
         "raid_tier2_seasoned",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-28T12:18:49Z"
+      "lastUpdated": "2025-12-28T12:19:33Z"
     },
     "andilippi": {
       "counters": {
@@ -6397,15 +6397,29 @@
     "ardracon": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 23,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 420,
+        "largest_gift_bomb": 420
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bomb_75",
+        "gift_bomb_100",
+        "gift_bombs_first"
       ],
-      "lastUpdated": "2025-11-29T14:38:12Z"
+      "lastUpdated": "2025-12-28T12:18:55Z"
     },
     "justbaconthings": {
       "counters": {
@@ -7443,7 +7457,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T12:19:05Z",
+  "lastUpdated": "2025-12-28T12:19:48Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
