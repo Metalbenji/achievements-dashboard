@@ -1736,7 +1736,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 347,
+        "chat": 348,
         "follow": 1,
         "sub": 35,
         "points_spent": 95000,
@@ -1771,7 +1771,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T18:45:41Z"
     },
     "scoman07": {
       "counters": {
@@ -2041,7 +2041,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 945,
+        "chat": 946,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -2084,7 +2084,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:34:35Z"
+      "lastUpdated": "2025-12-28T18:58:37Z"
     },
     "anzerou": {
       "counters": {
@@ -2743,7 +2743,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 286,
+        "chat": 289,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2769,7 +2769,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-28T18:30:26Z"
+      "lastUpdated": "2025-12-28T18:58:03Z"
     },
     "chevelletv": {
       "counters": {
@@ -7396,7 +7396,7 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7404,10 +7404,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-12-28T18:41:01Z"
+      "lastUpdated": "2025-12-28T18:42:24Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:41:02Z",
+  "lastUpdated": "2025-12-28T19:02:27Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
