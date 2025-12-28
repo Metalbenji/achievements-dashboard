@@ -2224,7 +2224,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2256,
+        "chat": 2259,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2275,7 +2275,7 @@
         "sub_tier3",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T15:50:02Z"
+      "lastUpdated": "2025-12-28T16:34:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3170,7 +3170,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1091,
+        "chat": 1095,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3199,7 +3199,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-28T16:28:45Z"
+      "lastUpdated": "2025-12-28T16:34:25Z"
     },
     "roffelonator": {
       "counters": {
@@ -7316,10 +7316,31 @@
         "gift_bombs_first"
       ],
       "lastUpdated": "2025-12-28T16:28:04Z"
+    },
+    "pinkywonka": {
+      "counters": {
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 420,
+        "largest_gift_bomb": 420
+      },
+      "unlockedAchievements": [
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bomb_75",
+        "gift_bomb_100",
+        "gift_bombs_first"
+      ],
+      "lastUpdated": "2025-12-28T16:29:27Z"
     }
   },
-  "lastUpdated": "2025-12-28T16:29:37Z",
-  "totalUsers": 366,
+  "lastUpdated": "2025-12-28T16:42:55Z",
+  "totalUsers": 367,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
