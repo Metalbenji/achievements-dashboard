@@ -1436,9 +1436,10 @@
         "sound_first",
         "chat_frequent",
         "chat_dedicated",
-        "first_caller"
+        "first_caller",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T18:00:04Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1471,9 +1472,11 @@
         "chat_frequent",
         "interactive_first",
         "sub_platinum",
-        "effect_first"
+        "effect_first",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-13T14:48:55Z"
+      "lastUpdated": "2025-12-28T18:00:04Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1543,9 +1546,11 @@
         "raid_tier2_seasoned",
         "bday2025_attend",
         "bday2025_support",
-        "follow_supporter"
+        "follow_supporter",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T14:45:16Z"
+      "lastUpdated": "2025-12-28T18:00:04Z"
     },
     "celran": {
       "counters": {
@@ -1626,9 +1631,10 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-20T12:19:56Z"
+      "lastUpdated": "2025-12-28T18:00:04Z"
     },
     "ramdon101": {
       "counters": {
@@ -1678,9 +1684,12 @@
         "first_caller",
         "chat_expert",
         "sub_legendary",
-        "spender_legend"
+        "spender_legend",
+        "spender_iron",
+        "spender_electrum",
+        "spender_platinum"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1725,9 +1734,11 @@
         "chat_enthusiast",
         "chat_champion",
         "sub_master",
-        "first_caller"
+        "first_caller",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T17:36:13Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1762,9 +1773,11 @@
         "sound_first",
         "spender_gold",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T17:21:13Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "scoman07": {
       "counters": {
@@ -1816,9 +1829,10 @@
         "chat_conversationalist",
         "night_owl",
         "bday2025_attend",
-        "chat_regular"
+        "chat_regular",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-21T18:35:00Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "hairypawter": {
       "counters": {
@@ -1859,9 +1873,10 @@
         "effect_collector",
         "chat_dedicated",
         "spender_silver",
-        "emperor_loyal"
+        "emperor_loyal",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-20T09:26:51Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "tawmae": {
       "counters": {
@@ -1982,9 +1997,10 @@
         "effect_first",
         "chat_regular",
         "vip_dreamer",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "adammmidders": {
       "counters": {
@@ -2025,9 +2041,10 @@
         "spender_silver",
         "birthday_person",
         "chat_dedicated",
-        "night_owl"
+        "night_owl",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T17:48:17Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2071,9 +2088,11 @@
         "spender_silver",
         "chat_enthusiast",
         "effect_collector",
-        "spender_gold"
+        "spender_gold",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T17:05:14Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "anzerou": {
       "counters": {
@@ -2121,9 +2140,11 @@
         "sound_first",
         "interactive_first",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-09-21T17:54:11Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2166,9 +2187,11 @@
         "chat_dedicated",
         "sub_diamond",
         "biggest_fan",
-        "effect_master"
+        "effect_master",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T16:53:45Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "redunt86": {
       "counters": {
@@ -2197,9 +2220,10 @@
         "chat_enthusiast",
         "spender_silver",
         "interactive_first",
-        "chat_champion"
+        "chat_champion",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T17:01:16Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2256,9 +2280,11 @@
         "sub_master",
         "spender_gold",
         "biggest_fan",
-        "first_caller"
+        "first_caller",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T15:51:00Z"
+      "lastUpdated": "2025-12-28T18:00:05Z"
     },
     "syn__________": {
       "counters": {
@@ -2364,9 +2390,11 @@
         "chat_expert",
         "sub_tier3",
         "screenshot_first",
-        "sub_tier2"
+        "sub_tier2",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T17:38:16Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2430,9 +2458,10 @@
         "spender_silver",
         "sound_first",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-11-30T10:33:47Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "insidematt": {
       "counters": {
@@ -2471,9 +2500,10 @@
         "interactive_first",
         "bday2025_attend",
         "effect_first",
-        "chat_regular"
+        "chat_regular",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-20T16:01:16Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "qyainiana": {
       "counters": {
@@ -2493,9 +2523,10 @@
         "chat_regular",
         "spender_bronze",
         "sound_first",
-        "spender_silver"
+        "spender_silver",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T17:04:38Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2554,9 +2585,10 @@
         "effect_collector",
         "chat_regular",
         "spender_silver",
-        "effect_master"
+        "effect_master",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "s3n71": {
       "counters": {
@@ -2598,9 +2630,11 @@
         "chat_frequent",
         "night_owl",
         "chat_dedicated",
-        "sub_master"
+        "sub_master",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "umenneske94": {
       "counters": {
@@ -2670,9 +2704,10 @@
         "chat_regular",
         "night_owl",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-07T15:37:26Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "ppjackson69": {
       "counters": {
@@ -2718,9 +2753,10 @@
         "screenshot_first",
         "chat_frequent",
         "spender_silver",
-        "effect_collector"
+        "effect_collector",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-20T15:45:40Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -2846,9 +2882,11 @@
         "screenshot_first",
         "birthday_person",
         "bits_elite",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T15:06:29Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "andilippi": {
       "counters": {
@@ -2935,9 +2973,10 @@
         "sound_first",
         "chat_frequent",
         "chat_dedicated",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-20T17:07:11Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "maximusis_": {
       "counters": {
@@ -3288,9 +3327,11 @@
         "spender_silver",
         "interactive_regular",
         "emperor_loyal",
-        "chat_champion"
+        "chat_champion",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T17:36:06Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "roffelonator": {
       "counters": {
@@ -3393,9 +3434,10 @@
         "bday2025_support",
         "chat_conversationalist",
         "interactive_first",
-        "sound_first"
+        "sound_first",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T18:00:06Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -3473,9 +3515,11 @@
         "spender_bronze",
         "spender_silver",
         "sound_first",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "camm_23": {
       "counters": {
@@ -3574,9 +3618,11 @@
         "birthday_person",
         "chat_regular",
         "vip_dreamer",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-21T19:19:24Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "mulquero": {
       "counters": {
@@ -3612,9 +3658,10 @@
         "birthday_person",
         "effect_first",
         "chat_regular",
-        "spender_silver"
+        "spender_silver",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T11:56:18Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -4302,9 +4349,10 @@
         "spender_bronze",
         "vip_dreamer",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-21T20:23:32Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "gabriel245658": {
       "counters": {
@@ -4331,9 +4379,10 @@
         "biggest_fan",
         "screenshot_first",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-21T21:18:29Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "mr_beardz": {
       "counters": {
@@ -4826,9 +4875,11 @@
         "sub_diamond",
         "sub_elite",
         "clip_first",
-        "first_caller"
+        "first_caller",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-09-28T12:38:13Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "jamie1496": {
       "counters": {
@@ -4904,9 +4955,10 @@
         "sound_first",
         "effect_first",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-11-09T10:22:33Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "bekevtv": {
       "counters": {
@@ -5133,9 +5185,10 @@
         "effect_first",
         "spender_bronze",
         "vip_dreamer",
-        "spender_silver"
+        "spender_silver",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T14:38:28Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "codewithtd": {
       "counters": {
@@ -5714,9 +5767,11 @@
         "chat_conversationalist",
         "night_owl",
         "spender_gold",
-        "effect_first"
+        "effect_first",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-06T12:38:50Z"
+      "lastUpdated": "2025-12-28T18:00:07Z"
     },
     "oobalicious": {
       "counters": {
@@ -5825,9 +5880,10 @@
         "vip_dreamer",
         "emperor_loyal",
         "interactive_first",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T11:39:58Z"
+      "lastUpdated": "2025-12-28T18:00:08Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6164,9 +6220,10 @@
         "vip_dreamer",
         "birthday_person",
         "chat_frequent",
-        "sub_tier1"
+        "sub_tier1",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T10:15:56Z"
+      "lastUpdated": "2025-12-28T18:00:08Z"
     },
     "otocar": {
       "counters": {
@@ -6566,9 +6623,11 @@
         "chat_dedicated",
         "chat_enthusiast",
         "first_caller",
-        "sound_dj"
+        "sound_dj",
+        "spender_iron",
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T12:22:09Z"
+      "lastUpdated": "2025-12-28T18:00:08Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6699,9 +6758,10 @@
         "spender_silver",
         "chat_enthusiast",
         "night_owl",
-        "chat_champion"
+        "chat_champion",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-21T18:27:20Z"
+      "lastUpdated": "2025-12-28T18:00:08Z"
     },
     "metalbenji": {
       "counters": {
@@ -6842,9 +6902,10 @@
         "interactive_regular",
         "chat_frequent",
         "spender_silver",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-07T17:45:26Z"
+      "lastUpdated": "2025-12-28T18:00:08Z"
     },
     "wigz666": {
       "counters": {
@@ -6899,9 +6960,10 @@
         "spender_silver",
         "sound_first",
         "chat_conversationalist",
-        "bday2025_attend"
+        "bday2025_attend",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-07T09:14:20Z"
+      "lastUpdated": "2025-12-28T18:00:08Z"
     },
     "anumra": {
       "counters": {
@@ -7214,9 +7276,10 @@
         "first_caller",
         "sub_loyal",
         "effect_first",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T16:07:30Z"
+      "lastUpdated": "2025-12-28T18:00:08Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7511,7 +7574,7 @@
       "lastUpdated": "2025-12-28T17:01:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T17:55:29Z",
+  "lastUpdated": "2025-12-28T18:00:09Z",
   "totalUsers": 371,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
