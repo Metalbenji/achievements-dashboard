@@ -2495,7 +2495,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 180,
+        "chat": 183,
         "points_spent": 22000,
         "sounds": 2
       },
@@ -2513,7 +2513,7 @@
         "spender_silver",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:34:35Z"
+      "lastUpdated": "2025-12-28T18:40:44Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -7396,17 +7396,18 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-12-28T18:33:51Z"
+      "lastUpdated": "2025-12-28T18:41:01Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:34:36Z",
+  "lastUpdated": "2025-12-28T18:41:02Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
