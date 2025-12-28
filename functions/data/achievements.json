@@ -2115,13 +2115,13 @@
       "counters": {
         "points_spent": 59252,
         "follow": 1,
-        "chat": 695,
+        "chat": 697,
         "effects": 64,
         "screenshot": 3,
         "sounds": 5,
         "bits": 300,
         "raid": 6,
-        "sub": 38,
+        "sub": 39,
         "interactive": 3
       },
       "unlockedAchievements": [
@@ -2168,7 +2168,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T15:51:00Z"
     },
     "syn__________": {
       "counters": {
@@ -2224,7 +2224,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2250,
+        "chat": 2256,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2275,7 +2275,7 @@
         "sub_tier3",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T15:16:41Z"
+      "lastUpdated": "2025-12-28T15:50:02Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6610,7 +6610,7 @@
         "points_spent": 1200,
         "effects": 1,
         "sounds": 2,
-        "gift_subs": 1
+        "gift_subs": 2
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -6627,9 +6627,10 @@
         "sound_first",
         "spender_bronze",
         "raid_tier1_captain",
-        "gift_starter"
+        "gift_starter",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-12-28T15:36:20Z"
+      "lastUpdated": "2025-12-28T15:38:32Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7070,7 +7071,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 779,
+        "chat": 783,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7109,7 +7110,7 @@
         "effect_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-28T15:37:08Z"
+      "lastUpdated": "2025-12-28T15:50:39Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7262,7 +7263,7 @@
       "lastUpdated": "2025-12-28T14:54:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T15:38:33Z",
+  "lastUpdated": "2025-12-28T15:55:08Z",
   "totalUsers": 364,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
