@@ -1687,7 +1687,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1513,
+        "chat": 1515,
         "points_spent": 49201,
         "interactive": 31,
         "follow": 1,
@@ -1733,7 +1733,7 @@
         "spender_electrum",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-28T20:31:01Z"
+      "lastUpdated": "2025-12-28T21:32:27Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2042,7 +2042,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 979,
+        "chat": 981,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -2085,7 +2085,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T21:23:43Z"
+      "lastUpdated": "2025-12-28T21:40:18Z"
     },
     "anzerou": {
       "counters": {
@@ -2330,7 +2330,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2290,
+        "chat": 2296,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2382,7 +2382,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T21:20:04Z"
+      "lastUpdated": "2025-12-28T21:38:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7296,7 +7296,7 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 31,
         "points_spent": 2
       },
       "unlockedAchievements": [
@@ -7307,7 +7307,7 @@
         "birthday_person",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-28T21:24:19Z"
+      "lastUpdated": "2025-12-28T21:26:36Z"
     },
     "alex_russian92": {
       "counters": {
@@ -7422,7 +7422,7 @@
       "lastUpdated": "2025-12-28T20:14:26Z"
     }
   },
-  "lastUpdated": "2025-12-28T21:24:20Z",
+  "lastUpdated": "2025-12-28T21:47:34Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
