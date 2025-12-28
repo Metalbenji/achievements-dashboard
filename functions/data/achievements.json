@@ -6796,7 +6796,7 @@
         "bits": 97,
         "raid": 1,
         "follow": 1,
-        "gift_subs": 1,
+        "gift_subs": 2,
         "sub": 1,
         "points_spent": 1200,
         "effects": 1,
@@ -6817,9 +6817,10 @@
         "chat_conversationalist",
         "spender_bronze",
         "effect_first",
-        "sound_first"
+        "sound_first",
+        "gift_kind"
       ],
-      "lastUpdated": "2025-12-21T18:04:30Z"
+      "lastUpdated": "2025-12-28T12:17:30Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7441,7 +7442,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T12:17:31Z",
+  "lastUpdated": "2025-12-28T12:17:45Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
