@@ -1687,7 +1687,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1482,
+        "chat": 1495,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T19:42:23Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2041,7 +2041,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 946,
+        "chat": 957,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -2084,7 +2084,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:58:37Z"
+      "lastUpdated": "2025-12-28T19:33:45Z"
     },
     "anzerou": {
       "counters": {
@@ -2141,7 +2141,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 656,
+        "chat": 658,
         "points_spent": 38455,
         "interactive": 16,
         "effects": 29,
@@ -2183,7 +2183,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:01:39Z"
+      "lastUpdated": "2025-12-28T19:41:31Z"
     },
     "redunt86": {
       "counters": {
@@ -2453,7 +2453,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 63,
+        "chat": 77,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2466,7 +2466,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T12:57:19Z"
+      "lastUpdated": "2025-12-28T19:41:46Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2754,7 +2754,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 291,
+        "chat": 300,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2778,9 +2778,10 @@
         "sub_champion",
         "chat_regular",
         "birthday_person",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T19:03:44Z"
+      "lastUpdated": "2025-12-28T19:42:25Z"
     },
     "chevelletv": {
       "counters": {
@@ -6739,7 +6740,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 62,
+        "chat": 76,
         "bits": 97,
         "follow": 1,
         "sub": 1,
@@ -6764,7 +6765,7 @@
         "spender_bronze",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T18:34:36Z"
+      "lastUpdated": "2025-12-28T19:42:05Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7418,7 +7419,7 @@
       "lastUpdated": "2025-12-28T18:42:24Z"
     }
   },
-  "lastUpdated": "2025-12-28T19:03:58Z",
+  "lastUpdated": "2025-12-28T19:42:26Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
