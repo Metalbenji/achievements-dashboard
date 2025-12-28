@@ -2048,13 +2048,14 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 942,
+        "chat": 944,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
         "sub": 34,
         "screenshot": 2,
-        "clips": 1
+        "clips": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2089,9 +2090,10 @@
         "effect_collector",
         "spender_gold",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-28T18:16:57Z"
+      "lastUpdated": "2025-12-28T18:30:12Z"
     },
     "anzerou": {
       "counters": {
@@ -2762,7 +2764,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 283,
+        "chat": 286,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2788,7 +2790,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-28T18:26:08Z"
+      "lastUpdated": "2025-12-28T18:30:26Z"
     },
     "chevelletv": {
       "counters": {
@@ -7427,10 +7429,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-12-28T18:26:09Z"
+    },
+    "fluffless_live": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-12-28T18:30:42Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:29:03Z",
-  "totalUsers": 365,
+  "lastUpdated": "2025-12-28T18:30:43Z",
+  "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
