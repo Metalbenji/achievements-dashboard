@@ -1687,7 +1687,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1495,
+        "chat": 1500,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1730,9 +1730,10 @@
         "sub_master",
         "first_caller",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "chat_expert"
       ],
-      "lastUpdated": "2025-12-28T19:42:23Z"
+      "lastUpdated": "2025-12-28T19:44:35Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2141,7 +2142,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 658,
+        "chat": 662,
         "points_spent": 38455,
         "interactive": 16,
         "effects": 29,
@@ -2183,7 +2184,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T19:41:31Z"
+      "lastUpdated": "2025-12-28T19:44:16Z"
     },
     "redunt86": {
       "counters": {
@@ -2754,7 +2755,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 300,
+        "chat": 301,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2781,7 +2782,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T19:42:25Z"
+      "lastUpdated": "2025-12-28T19:44:05Z"
     },
     "chevelletv": {
       "counters": {
@@ -6740,7 +6741,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 76,
+        "chat": 88,
         "bits": 97,
         "follow": 1,
         "sub": 1,
@@ -6765,7 +6766,7 @@
         "spender_bronze",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T19:42:05Z"
+      "lastUpdated": "2025-12-28T19:44:32Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7419,7 +7420,7 @@
       "lastUpdated": "2025-12-28T18:42:24Z"
     }
   },
-  "lastUpdated": "2025-12-28T19:42:26Z",
+  "lastUpdated": "2025-12-28T19:44:36Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
