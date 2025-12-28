@@ -7337,10 +7337,29 @@
         "gift_bombs_first"
       ],
       "lastUpdated": "2025-12-28T16:29:27Z"
+    },
+    "riku123": {
+      "counters": {
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 50,
+        "largest_gift_bomb": 50
+      },
+      "unlockedAchievements": [
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bombs_first"
+      ],
+      "lastUpdated": "2025-12-28T16:42:54Z"
     }
   },
-  "lastUpdated": "2025-12-28T16:43:01Z",
-  "totalUsers": 367,
+  "lastUpdated": "2025-12-28T16:43:22Z",
+  "totalUsers": 368,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
