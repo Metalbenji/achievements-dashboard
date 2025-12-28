@@ -2087,7 +2087,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 643,
+        "chat": 644,
         "points_spent": 37955,
         "interactive": 16,
         "effects": 28,
@@ -2127,7 +2127,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T13:25:56Z"
+      "lastUpdated": "2025-12-28T13:29:44Z"
     },
     "redunt86": {
       "counters": {
@@ -6832,9 +6832,10 @@
         "gift_starter",
         "gift_kind",
         "gift_caring",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "gift_bomb_100"
       ],
-      "lastUpdated": "2025-12-28T13:27:23Z"
+      "lastUpdated": "2025-12-28T13:31:10Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7282,7 +7283,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 742,
+        "chat": 744,
         "follow": 1,
         "points_spent": 10351,
         "screenshot": 1,
@@ -7324,7 +7325,7 @@
         "sub_loyal",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-28T13:25:48Z"
+      "lastUpdated": "2025-12-28T13:29:41Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7466,7 +7467,7 @@
       "lastUpdated": "2025-12-28T13:19:11Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:27:24Z",
+  "lastUpdated": "2025-12-28T13:31:11Z",
   "totalUsers": 363,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
