@@ -1641,7 +1641,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 344,
+        "chat": 345,
         "follow": 1,
         "sub": 35,
         "points_spent": 95000,
@@ -1674,7 +1674,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T16:18:34Z"
+      "lastUpdated": "2025-12-28T16:29:03Z"
     },
     "scoman07": {
       "counters": {
@@ -3170,7 +3170,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1090,
+        "chat": 1091,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3199,7 +3199,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-28T16:27:35Z"
+      "lastUpdated": "2025-12-28T16:28:45Z"
     },
     "roffelonator": {
       "counters": {
@@ -7295,10 +7295,31 @@
         "gift_bombs_first"
       ],
       "lastUpdated": "2025-12-28T15:58:56Z"
+    },
+    "lorralk": {
+      "counters": {
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 420,
+        "largest_gift_bomb": 420
+      },
+      "unlockedAchievements": [
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bomb_75",
+        "gift_bomb_100",
+        "gift_bombs_first"
+      ],
+      "lastUpdated": "2025-12-28T16:28:04Z"
     }
   },
-  "lastUpdated": "2025-12-28T16:28:15Z",
-  "totalUsers": 365,
+  "lastUpdated": "2025-12-28T16:29:28Z",
+  "totalUsers": 366,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
