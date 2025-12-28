@@ -2004,7 +2004,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 491,
+        "chat": 492,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 28,
@@ -2043,7 +2043,7 @@
         "night_owl",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T18:24:15Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2507,7 +2507,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 178,
+        "chat": 179,
         "points_spent": 22000,
         "sounds": 2
       },
@@ -2525,7 +2525,7 @@
         "spender_silver",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:20:54Z"
+      "lastUpdated": "2025-12-28T18:24:21Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2760,7 +2760,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 280,
+        "chat": 282,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2786,7 +2786,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-28T18:22:28Z"
+      "lastUpdated": "2025-12-28T18:24:26Z"
     },
     "chevelletv": {
       "counters": {
@@ -7416,15 +7416,18 @@
     },
     "clodagh_lunaria": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-12-28T18:22:55Z"
+      "lastUpdated": "2025-12-28T18:24:37Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:22:56Z",
+  "lastUpdated": "2025-12-28T18:24:38Z",
   "totalUsers": 365,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
