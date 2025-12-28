@@ -1978,7 +1978,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 847,
+        "chat": 850,
         "points_spent": 36604,
         "effects": 12,
         "sounds": 5,
@@ -2029,7 +2029,7 @@
         "gift_bombs_regular",
         "effect_collector"
       ],
-      "lastUpdated": "2025-12-28T10:20:46Z"
+      "lastUpdated": "2025-12-28T10:28:01Z"
     },
     "anzerou": {
       "counters": {
@@ -2273,17 +2273,18 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2116,
+        "chat": 2120,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
         "largest_gift_bomb": 339,
-        "points_spent": 44300,
+        "points_spent": 44650,
         "effects": 8,
         "sub": 42,
         "sounds": 3,
         "bits": 1000,
-        "raid": 1
+        "raid": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2338,9 +2339,11 @@
         "raid_tier1_captain",
         "gift_kind",
         "chat_expert",
-        "gift_bombs_veteran"
+        "gift_bombs_veteran",
+        "sub_tier3",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T10:24:19Z"
+      "lastUpdated": "2025-12-28T10:28:43Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7431,7 +7434,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T10:25:43Z",
+  "lastUpdated": "2025-12-28T10:28:44Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
