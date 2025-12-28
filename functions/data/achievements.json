@@ -6622,7 +6622,7 @@
         "points_spent": 1200,
         "effects": 1,
         "sounds": 2,
-        "gift_subs": 2
+        "gift_subs": 3
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -6640,9 +6640,10 @@
         "spender_bronze",
         "raid_tier1_captain",
         "gift_starter",
-        "gift_kind"
+        "gift_kind",
+        "gift_caring"
       ],
-      "lastUpdated": "2025-12-28T15:38:32Z"
+      "lastUpdated": "2025-12-28T16:27:37Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7296,7 +7297,7 @@
       "lastUpdated": "2025-12-28T15:58:56Z"
     }
   },
-  "lastUpdated": "2025-12-28T16:27:39Z",
+  "lastUpdated": "2025-12-28T16:28:05Z",
   "totalUsers": 365,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
