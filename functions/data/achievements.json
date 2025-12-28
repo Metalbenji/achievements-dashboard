@@ -1899,7 +1899,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 485,
+        "chat": 487,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 28,
@@ -1937,7 +1937,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-28T17:36:34Z"
+      "lastUpdated": "2025-12-28T17:40:05Z"
     },
     "mattyuk937": {
       "counters": {
@@ -6620,10 +6620,11 @@
         "raid": 1,
         "follow": 1,
         "sub": 1,
-        "points_spent": 1200,
+        "points_spent": 1550,
         "effects": 1,
         "sounds": 2,
-        "gift_subs": 3
+        "gift_subs": 3,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -6642,9 +6643,10 @@
         "raid_tier1_captain",
         "gift_starter",
         "gift_kind",
-        "gift_caring"
+        "gift_caring",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T16:27:37Z"
+      "lastUpdated": "2025-12-28T17:40:06Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7419,7 +7421,7 @@
       "lastUpdated": "2025-12-28T17:01:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T17:38:16Z",
+  "lastUpdated": "2025-12-28T17:40:07Z",
   "totalUsers": 371,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
