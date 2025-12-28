@@ -1614,7 +1614,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1464,
+        "chat": 1465,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1659,7 +1659,7 @@
         "sub_master",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T12:02:43Z"
+      "lastUpdated": "2025-12-28T13:13:24Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2087,12 +2087,12 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 640,
-        "points_spent": 37855,
+        "chat": 641,
+        "points_spent": 37955,
         "interactive": 16,
         "effects": 28,
         "sub": 25,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2127,7 +2127,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T13:10:17Z"
+      "lastUpdated": "2025-12-28T13:14:32Z"
     },
     "redunt86": {
       "counters": {
@@ -7282,7 +7282,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 735,
+        "chat": 737,
         "follow": 1,
         "points_spent": 10351,
         "screenshot": 1,
@@ -7324,7 +7324,7 @@
         "sub_loyal",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-28T13:09:10Z"
+      "lastUpdated": "2025-12-28T13:11:32Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7457,7 +7457,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:10:28Z",
+  "lastUpdated": "2025-12-28T13:16:07Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
