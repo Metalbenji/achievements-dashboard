@@ -1594,7 +1594,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1478,
+        "chat": 1482,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1637,11 +1637,11 @@
         "sub_master",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T16:55:32Z"
+      "lastUpdated": "2025-12-28T17:36:13Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 345,
+        "chat": 347,
         "follow": 1,
         "sub": 35,
         "points_spent": 95000,
@@ -1674,7 +1674,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T16:29:03Z"
+      "lastUpdated": "2025-12-28T17:21:13Z"
     },
     "scoman07": {
       "counters": {
@@ -1795,7 +1795,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 138,
+        "chat": 140,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1816,7 +1816,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-28T10:15:28Z"
+      "lastUpdated": "2025-12-28T17:33:31Z"
     },
     "sealdancer": {
       "counters": {
@@ -1899,10 +1899,10 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 480,
+        "chat": 485,
         "points_spent": 10751,
         "interactive": 3,
-        "sub": 27,
+        "sub": 28,
         "screenshot": 1,
         "sounds": 1,
         "effects": 3
@@ -1937,12 +1937,12 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-21T22:22:39Z"
+      "lastUpdated": "2025-12-28T17:36:34Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 938,
+        "chat": 939,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -1983,7 +1983,7 @@
         "effect_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2025-12-28T16:11:07Z"
+      "lastUpdated": "2025-12-28T17:05:14Z"
     },
     "anzerou": {
       "counters": {
@@ -2273,9 +2273,10 @@
         "raid_tier1_captain",
         "chat_expert",
         "sub_tier3",
-        "screenshot_first"
+        "screenshot_first",
+        "sub_tier2"
       ],
-      "lastUpdated": "2025-12-28T16:45:15Z"
+      "lastUpdated": "2025-12-28T17:38:16Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2387,7 +2388,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 175,
+        "chat": 176,
         "points_spent": 22000,
         "sounds": 2
       },
@@ -2404,7 +2405,7 @@
         "sound_first",
         "spender_silver"
       ],
-      "lastUpdated": "2025-12-21T19:20:19Z"
+      "lastUpdated": "2025-12-28T17:04:38Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3170,7 +3171,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1095,
+        "chat": 1106,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3199,7 +3200,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-28T16:34:25Z"
+      "lastUpdated": "2025-12-28T17:36:06Z"
     },
     "roffelonator": {
       "counters": {
@@ -7418,7 +7419,7 @@
       "lastUpdated": "2025-12-28T17:01:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T17:03:28Z",
+  "lastUpdated": "2025-12-28T17:38:16Z",
   "totalUsers": 371,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
