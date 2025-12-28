@@ -1594,7 +1594,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1476,
+        "chat": 1478,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1637,7 +1637,7 @@
         "sub_master",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T16:46:14Z"
+      "lastUpdated": "2025-12-28T16:55:32Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2038,7 +2038,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 653,
+        "chat": 655,
         "points_spent": 38455,
         "interactive": 16,
         "effects": 29,
@@ -2078,12 +2078,12 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T15:38:16Z"
+      "lastUpdated": "2025-12-28T16:53:45Z"
     },
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1055,
+        "chat": 1070,
         "points_spent": 11150,
         "effects": 20,
         "sounds": 4,
@@ -2109,7 +2109,7 @@
         "interactive_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-28T16:44:57Z"
+      "lastUpdated": "2025-12-28T17:01:16Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -7396,7 +7396,7 @@
       "lastUpdated": "2025-12-28T16:43:40Z"
     }
   },
-  "lastUpdated": "2025-12-28T16:46:46Z",
+  "lastUpdated": "2025-12-28T17:01:37Z",
   "totalUsers": 370,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
