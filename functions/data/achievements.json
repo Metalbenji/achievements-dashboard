@@ -2048,7 +2048,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 944,
+        "chat": 945,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -2093,7 +2093,7 @@
         "spender_electrum",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-28T18:30:12Z"
+      "lastUpdated": "2025-12-28T18:31:28Z"
     },
     "anzerou": {
       "counters": {
@@ -7433,16 +7433,17 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-12-28T18:30:43Z"
+      "lastUpdated": "2025-12-28T18:33:20Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:30:44Z",
+  "lastUpdated": "2025-12-28T18:33:21Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
