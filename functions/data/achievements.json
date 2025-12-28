@@ -1501,7 +1501,6 @@
         "effects": 8,
         "sub": 12,
         "bits": 1894,
-        "raid": 5,
         "interactive": 4,
         "sounds": 2,
         "screenshot": 1,
@@ -1542,15 +1541,13 @@
         "vip_dreamer",
         "emperor_loyal",
         "interactive_first",
-        "raid_tier1_captain",
-        "raid_tier2_seasoned",
         "bday2025_attend",
         "bday2025_support",
         "follow_supporter",
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:04Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "celran": {
       "counters": {
@@ -1596,8 +1593,7 @@
         "sounds": 5,
         "screenshot": 2,
         "interactive": 2,
-        "bits": 100,
-        "raid": 1
+        "bits": 100
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1631,10 +1627,9 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:04Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "ramdon101": {
       "counters": {
@@ -1975,7 +1970,6 @@
         "points_spent": 7500,
         "interactive": 4,
         "bits": 200,
-        "raid": 1,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -1992,14 +1986,13 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain",
         "effect_first",
         "chat_regular",
         "vip_dreamer",
         "chat_frequent",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "adammmidders": {
       "counters": {
@@ -2054,8 +2047,7 @@
         "sounds": 7,
         "sub": 34,
         "screenshot": 2,
-        "clips": 1,
-        "raid": 1
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2090,10 +2082,9 @@
         "effect_collector",
         "spender_gold",
         "spender_iron",
-        "spender_electrum",
-        "raid_tier1_captain"
+        "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:31:28Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "anzerou": {
       "counters": {
@@ -2235,7 +2226,6 @@
         "screenshot": 3,
         "sounds": 5,
         "bits": 300,
-        "raid": 6,
         "sub": 39,
         "interactive": 3
       },
@@ -2253,7 +2243,6 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain",
         "effect_collector",
         "spender_silver",
         "sub_tier1",
@@ -2269,7 +2258,6 @@
         "sub_elite",
         "bday2025_attend",
         "bday2025_support",
-        "raid_tier2_seasoned",
         "chat_regular",
         "interactive_first",
         "chat_frequent",
@@ -2285,7 +2273,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "syn__________": {
       "counters": {
@@ -2347,7 +2335,6 @@
         "sub": 42,
         "sounds": 3,
         "bits": 1000,
-        "raid": 1,
         "screenshot": 1
       },
       "unlockedAchievements": [
@@ -2387,7 +2374,6 @@
         "bits_regular",
         "bits_steady",
         "bits_dedicated",
-        "raid_tier1_captain",
         "chat_expert",
         "sub_tier3",
         "screenshot_first",
@@ -2395,7 +2381,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:06Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2511,8 +2497,7 @@
         "follow": 1,
         "chat": 180,
         "points_spent": 22000,
-        "sounds": 2,
-        "raid": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2526,17 +2511,15 @@
         "spender_bronze",
         "sound_first",
         "spender_silver",
-        "spender_iron",
-        "raid_tier1_captain"
+        "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:24:57Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
         "chat": 385,
         "bits": 990,
-        "raid": 46,
         "points_spent": 3600,
         "effects": 6
       },
@@ -2548,10 +2531,7 @@
         "chat_conversationalist",
         "bits_tiny",
         "bits_small",
-        "raid_tier1_captain",
         "bits_regular",
-        "raid_tier2_seasoned",
-        "raid_tier3_commander",
         "bits_steady",
         "effect_first",
         "chat_regular",
@@ -2559,11 +2539,10 @@
         "chat_frequent",
         "bday2025_attend",
         "bday2025_support",
-        "raid_tier4_warlord",
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-07-26T12:50:46Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "warl0c13": {
       "counters": {
@@ -2840,7 +2819,6 @@
         "effects": 51,
         "sub": 44,
         "bits": 7000,
-        "raid": 7,
         "interactive": 2,
         "screenshot": 2
       },
@@ -2868,7 +2846,6 @@
         "bits_regular",
         "bits_steady",
         "bits_dedicated",
-        "raid_tier1_captain",
         "chat_conversationalist",
         "bits_committed",
         "night_owl",
@@ -2885,11 +2862,10 @@
         "screenshot_first",
         "birthday_person",
         "bits_elite",
-        "raid_tier2_seasoned",
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:06Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "andilippi": {
       "counters": {
@@ -5045,8 +5021,7 @@
         "points_spent": 300,
         "effects": 1,
         "sounds": 1,
-        "bits": 95,
-        "raid": 3
+        "bits": 95
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -5057,11 +5032,10 @@
         "sound_first",
         "bits_tiny",
         "bits_small",
-        "raid_tier1_captain",
         "bits_regular",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-09-27T15:16:02Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "i_am_t3x": {
       "counters": {
@@ -6579,8 +6553,7 @@
         "screenshot": 1,
         "sub": 15,
         "interactive": 4,
-        "bits": 200,
-        "raid": 3
+        "bits": 200
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6607,7 +6580,6 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain",
         "chat_frequent",
         "spender_silver",
         "vip_dreamer",
@@ -6618,7 +6590,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:08Z"
+      "lastUpdated": "2025-12-28T18:34:35Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6758,7 +6730,6 @@
       "counters": {
         "chat": 62,
         "bits": 97,
-        "raid": 1,
         "follow": 1,
         "sub": 1,
         "points_spent": 1550,
@@ -6780,10 +6751,9 @@
         "effect_first",
         "sound_first",
         "spender_bronze",
-        "raid_tier1_captain",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T18:10:47Z"
+      "lastUpdated": "2025-12-28T18:34:36Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7161,7 +7131,6 @@
       "counters": {
         "chat": 25,
         "bits": 210,
-        "raid": 6,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7172,13 +7141,11 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain",
         "chat_talker",
-        "raid_tier2_seasoned",
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-28T14:38:28Z"
+      "lastUpdated": "2025-12-28T18:34:36Z"
     },
     "senditlr": {
       "counters": {
@@ -7232,7 +7199,6 @@
         "screenshot": 1,
         "sub": 3,
         "bits": 340,
-        "raid": 16,
         "sounds": 1,
         "effects": 1
       },
@@ -7249,11 +7215,8 @@
         "chat_frequent",
         "night_owl",
         "chat_dedicated",
-        "raid_tier1_captain",
         "bits_tiny",
-        "raid_tier2_seasoned",
         "bits_small",
-        "raid_tier3_commander",
         "bits_regular",
         "bits_steady",
         "spender_bronze",
@@ -7266,7 +7229,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:27:33Z"
+      "lastUpdated": "2025-12-28T18:34:36Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7433,17 +7396,17 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-12-28T18:33:20Z"
+      "lastUpdated": "2025-12-28T18:33:51Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:33:21Z",
+  "lastUpdated": "2025-12-28T18:34:36Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
