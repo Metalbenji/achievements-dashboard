@@ -1978,7 +1978,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 893,
+        "chat": 896,
         "points_spent": 36604,
         "effects": 12,
         "sounds": 5,
@@ -1987,7 +1987,9 @@
         "total_gift_bomb_subs": 66,
         "largest_gift_bomb": 36,
         "screenshot": 2,
-        "clips": 1
+        "clips": 1,
+        "donations": 1,
+        "total_donated": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2031,7 +2033,7 @@
         "gift_bombs_veteran",
         "donation_first_timer"
       ],
-      "lastUpdated": "2025-12-28T11:53:37Z"
+      "lastUpdated": "2025-12-28T12:07:58Z"
     },
     "anzerou": {
       "counters": {
@@ -2086,7 +2088,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 636,
+        "chat": 637,
         "points_spent": 37855,
         "interactive": 16,
         "effects": 28,
@@ -2126,7 +2128,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T12:02:54Z"
+      "lastUpdated": "2025-12-28T12:05:13Z"
     },
     "redunt86": {
       "counters": {
@@ -2275,7 +2277,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2170,
+        "chat": 2172,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2348,7 +2350,7 @@
         "screenshot_first",
         "donation_first_timer"
       ],
-      "lastUpdated": "2025-12-28T12:04:24Z"
+      "lastUpdated": "2025-12-28T12:06:19Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7439,7 +7441,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T12:04:41Z",
+  "lastUpdated": "2025-12-28T12:08:03Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
