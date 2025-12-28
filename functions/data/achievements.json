@@ -1899,7 +1899,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 143,
+        "chat": 151,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1920,7 +1920,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-28T18:10:16Z"
+      "lastUpdated": "2025-12-28T18:17:33Z"
     },
     "sealdancer": {
       "counters": {
@@ -2048,7 +2048,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 939,
+        "chat": 942,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -2091,7 +2091,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T18:16:57Z"
     },
     "anzerou": {
       "counters": {
@@ -2507,7 +2507,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 176,
+        "chat": 178,
         "points_spent": 22000,
         "sounds": 2
       },
@@ -2525,7 +2525,7 @@
         "spender_silver",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:06Z"
+      "lastUpdated": "2025-12-28T18:20:54Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2760,7 +2760,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 274,
+        "chat": 280,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2786,7 +2786,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-28T15:16:45Z"
+      "lastUpdated": "2025-12-28T18:22:28Z"
     },
     "chevelletv": {
       "counters": {
@@ -6713,7 +6713,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1147,
+        "chat": 1148,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 24
@@ -6748,7 +6748,7 @@
         "chat_champion",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:08Z"
+      "lastUpdated": "2025-12-28T18:21:49Z"
     },
     "metalbenji": {
       "counters": {
@@ -7413,10 +7413,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-12-28T14:54:36Z"
+    },
+    "clodagh_lunaria": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-12-28T18:22:55Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:10:49Z",
-  "totalUsers": 364,
+  "lastUpdated": "2025-12-28T18:22:56Z",
+  "totalUsers": 365,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
