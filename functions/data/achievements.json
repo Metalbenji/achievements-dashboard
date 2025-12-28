@@ -2039,9 +2039,9 @@
       "counters": {
         "follow": 1,
         "chat": 653,
-        "points_spent": 37955,
+        "points_spent": 38455,
         "interactive": 16,
-        "effects": 28,
+        "effects": 29,
         "sub": 25,
         "sounds": 2
       },
@@ -2078,7 +2078,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T14:50:55Z"
+      "lastUpdated": "2025-12-28T15:38:16Z"
     },
     "redunt86": {
       "counters": {
@@ -6609,7 +6609,8 @@
         "sub": 1,
         "points_spent": 1200,
         "effects": 1,
-        "sounds": 2
+        "sounds": 2,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -6625,9 +6626,10 @@
         "effect_first",
         "sound_first",
         "spender_bronze",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "gift_starter"
       ],
-      "lastUpdated": "2025-12-28T14:38:28Z"
+      "lastUpdated": "2025-12-28T15:36:20Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7068,7 +7070,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 778,
+        "chat": 779,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7107,7 +7109,7 @@
         "effect_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-28T15:21:20Z"
+      "lastUpdated": "2025-12-28T15:37:08Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7260,7 +7262,7 @@
       "lastUpdated": "2025-12-28T14:54:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T15:36:21Z",
+  "lastUpdated": "2025-12-28T15:38:33Z",
   "totalUsers": 364,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
