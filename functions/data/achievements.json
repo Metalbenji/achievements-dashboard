@@ -2224,7 +2224,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2236,
+        "chat": 2239,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2275,7 +2275,7 @@
         "sub_tier3",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T14:48:48Z"
+      "lastUpdated": "2025-12-28T14:59:52Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2704,7 +2704,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 662,
+        "chat": 663,
         "points_spent": 30501,
         "sounds": 6,
         "effects": 50,
@@ -2757,7 +2757,7 @@
         "bits_elite",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-12-28T14:49:01Z"
+      "lastUpdated": "2025-12-28T14:55:47Z"
     },
     "andilippi": {
       "counters": {
@@ -4421,8 +4421,8 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 100,
-        "points_spent": 900,
+        "chat": 101,
+        "points_spent": 1900,
         "sounds": 1,
         "effects": 1
       },
@@ -4436,9 +4436,10 @@
         "chat_conversationalist",
         "sound_first",
         "effect_first",
-        "chat_regular"
+        "chat_regular",
+        "spender_bronze"
       ],
-      "lastUpdated": "2025-12-28T14:50:07Z"
+      "lastUpdated": "2025-12-28T15:00:02Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -7067,7 +7068,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 772,
+        "chat": 774,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7106,7 +7107,7 @@
         "effect_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-28T14:50:13Z"
+      "lastUpdated": "2025-12-28T14:59:10Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7249,17 +7250,17 @@
     },
     "davutiktik": {
       "counters": {
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-12-28T14:51:38Z"
+      "lastUpdated": "2025-12-28T14:54:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T14:51:39Z",
+  "lastUpdated": "2025-12-28T15:00:03Z",
   "totalUsers": 364,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
