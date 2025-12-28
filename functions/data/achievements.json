@@ -1899,7 +1899,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 142,
+        "chat": 143,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1920,7 +1920,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-28T17:51:07Z"
+      "lastUpdated": "2025-12-28T18:10:16Z"
     },
     "sealdancer": {
       "counters": {
@@ -3347,10 +3347,7 @@
         "follow": 1,
         "chat": 45,
         "points_spent": 100,
-        "sounds": 1,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 50,
-        "largest_gift_bomb": 50
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3358,18 +3355,9 @@
         "sound_first",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist",
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50",
-        "gift_bombs_first"
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-28T15:55:07Z"
+      "lastUpdated": "2025-12-28T18:10:47Z"
     },
     "domtok1": {
       "counters": {
@@ -6772,7 +6760,6 @@
         "points_spent": 1550,
         "effects": 1,
         "sounds": 2,
-        "gift_subs": 3,
         "screenshot": 1
       },
       "unlockedAchievements": [
@@ -6790,12 +6777,9 @@
         "sound_first",
         "spender_bronze",
         "raid_tier1_captain",
-        "gift_starter",
-        "gift_kind",
-        "gift_caring",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T17:50:49Z"
+      "lastUpdated": "2025-12-28T18:10:47Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7429,159 +7413,10 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-12-28T14:54:36Z"
-    },
-    "tayyun": {
-      "counters": {
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 420,
-        "largest_gift_bomb": 420
-      },
-      "unlockedAchievements": [
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50",
-        "gift_bomb_75",
-        "gift_bomb_100",
-        "gift_bombs_first"
-      ],
-      "lastUpdated": "2025-12-28T15:58:56Z"
-    },
-    "lorralk": {
-      "counters": {
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 420,
-        "largest_gift_bomb": 420
-      },
-      "unlockedAchievements": [
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50",
-        "gift_bomb_75",
-        "gift_bomb_100",
-        "gift_bombs_first"
-      ],
-      "lastUpdated": "2025-12-28T16:28:04Z"
-    },
-    "pinkywonka": {
-      "counters": {
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 420,
-        "largest_gift_bomb": 420
-      },
-      "unlockedAchievements": [
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50",
-        "gift_bomb_75",
-        "gift_bomb_100",
-        "gift_bombs_first"
-      ],
-      "lastUpdated": "2025-12-28T16:29:27Z"
-    },
-    "riku123": {
-      "counters": {
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 50,
-        "largest_gift_bomb": 50
-      },
-      "unlockedAchievements": [
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50",
-        "gift_bombs_first"
-      ],
-      "lastUpdated": "2025-12-28T16:42:54Z"
-    },
-    "chazz90210": {
-      "counters": {
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 50,
-        "largest_gift_bomb": 50
-      },
-      "unlockedAchievements": [
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50",
-        "gift_bombs_first"
-      ],
-      "lastUpdated": "2025-12-28T16:43:21Z"
-    },
-    "thomssone": {
-      "counters": {
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 50,
-        "largest_gift_bomb": 50
-      },
-      "unlockedAchievements": [
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50",
-        "gift_bombs_first"
-      ],
-      "lastUpdated": "2025-12-28T16:43:40Z"
-    },
-    "dktax": {
-      "counters": {
-        "gift_subs": 50,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 50,
-        "largest_gift_bomb": 50
-      },
-      "unlockedAchievements": [
-        "gift_starter",
-        "gift_kind",
-        "gift_caring",
-        "gift_thoughtful",
-        "gift_supporter",
-        "gift_champion",
-        "gift_hero",
-        "gift_angel",
-        "gift_patron",
-        "gift_bombs_first",
-        "gift_bomb_5",
-        "gift_bomb_10",
-        "gift_bomb_15",
-        "gift_bomb_20",
-        "gift_bomb_25",
-        "gift_bomb_30",
-        "gift_bomb_40",
-        "gift_bomb_50"
-      ],
-      "lastUpdated": "2025-12-28T18:03:51Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:08:27Z",
-  "totalUsers": 371,
+  "lastUpdated": "2025-12-28T18:10:49Z",
+  "totalUsers": 364,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
