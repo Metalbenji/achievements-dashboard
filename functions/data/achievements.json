@@ -1945,7 +1945,7 @@
         "chat": 923,
         "points_spent": 66604,
         "effects": 12,
-        "sounds": 5,
+        "sounds": 6,
         "sub": 34,
         "screenshot": 2,
         "clips": 1
@@ -1983,7 +1983,7 @@
         "effect_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2025-12-28T14:48:58Z"
+      "lastUpdated": "2025-12-28T14:49:00Z"
     },
     "anzerou": {
       "counters": {
@@ -2704,7 +2704,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 661,
+        "chat": 662,
         "points_spent": 30501,
         "sounds": 6,
         "effects": 50,
@@ -2757,7 +2757,7 @@
         "bits_elite",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2025-12-28T14:48:28Z"
+      "lastUpdated": "2025-12-28T14:49:01Z"
     },
     "andilippi": {
       "counters": {
@@ -4421,7 +4421,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 98,
+        "chat": 100,
         "points_spent": 900,
         "sounds": 1,
         "effects": 1
@@ -4435,9 +4435,10 @@
         "chat_talker",
         "chat_conversationalist",
         "sound_first",
-        "effect_first"
+        "effect_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-12-28T14:45:10Z"
+      "lastUpdated": "2025-12-28T14:50:07Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -7257,7 +7258,7 @@
       "lastUpdated": "2025-12-28T14:45:15Z"
     }
   },
-  "lastUpdated": "2025-12-28T14:48:59Z",
+  "lastUpdated": "2025-12-28T14:50:08Z",
   "totalUsers": 364,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
