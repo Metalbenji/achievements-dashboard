@@ -1544,7 +1544,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2057,
+        "chat": 2062,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1611,11 +1611,11 @@
         "spender_legend",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-28T10:31:04Z"
+      "lastUpdated": "2025-12-28T10:47:57Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1458,
+        "chat": 1460,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1660,7 +1660,7 @@
         "sub_master",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T10:20:13Z"
+      "lastUpdated": "2025-12-28T10:45:28Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1978,13 +1978,13 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 866,
+        "chat": 872,
         "points_spent": 36604,
         "effects": 12,
         "sounds": 5,
         "sub": 34,
-        "gift_bombs": 4,
-        "total_gift_bomb_subs": 61,
+        "gift_bombs": 5,
+        "total_gift_bomb_subs": 66,
         "largest_gift_bomb": 36,
         "screenshot": 2,
         "clips": 1
@@ -2027,9 +2027,10 @@
         "spender_silver",
         "chat_enthusiast",
         "gift_bombs_regular",
-        "effect_collector"
+        "effect_collector",
+        "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-28T10:41:02Z"
+      "lastUpdated": "2025-12-28T10:45:19Z"
     },
     "anzerou": {
       "counters": {
@@ -2273,7 +2274,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2140,
+        "chat": 2141,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2343,7 +2344,7 @@
         "sub_tier3",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T10:41:34Z"
+      "lastUpdated": "2025-12-28T10:43:34Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3002,7 +3003,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 131,
+        "chat": 132,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3019,7 +3020,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-28T10:36:13Z"
+      "lastUpdated": "2025-12-28T10:43:52Z"
     },
     "justflip": {
       "counters": {
@@ -7260,7 +7261,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 681,
+        "chat": 682,
         "follow": 1,
         "points_spent": 10351,
         "screenshot": 1,
@@ -7301,7 +7302,7 @@
         "first_caller",
         "sub_loyal"
       ],
-      "lastUpdated": "2025-12-28T10:42:31Z"
+      "lastUpdated": "2025-12-28T10:47:58Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7434,7 +7435,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T10:42:38Z",
+  "lastUpdated": "2025-12-28T10:48:10Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
