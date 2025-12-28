@@ -1594,7 +1594,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1474,
+        "chat": 1476,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1637,7 +1637,7 @@
         "sub_master",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T16:26:41Z"
+      "lastUpdated": "2025-12-28T16:46:14Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2083,7 +2083,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1054,
+        "chat": 1055,
         "points_spent": 11150,
         "effects": 20,
         "sounds": 4,
@@ -2109,7 +2109,7 @@
         "interactive_first",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-20T09:09:49Z"
+      "lastUpdated": "2025-12-28T16:44:57Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2224,7 +2224,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2259,
+        "chat": 2261,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2275,7 +2275,7 @@
         "sub_tier3",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T16:34:08Z"
+      "lastUpdated": "2025-12-28T16:45:15Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7375,10 +7375,29 @@
         "gift_bombs_first"
       ],
       "lastUpdated": "2025-12-28T16:43:21Z"
+    },
+    "thomssone": {
+      "counters": {
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 50,
+        "largest_gift_bomb": 50
+      },
+      "unlockedAchievements": [
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bombs_first"
+      ],
+      "lastUpdated": "2025-12-28T16:43:40Z"
     }
   },
-  "lastUpdated": "2025-12-28T16:43:48Z",
-  "totalUsers": 369,
+  "lastUpdated": "2025-12-28T16:46:46Z",
+  "totalUsers": 370,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
