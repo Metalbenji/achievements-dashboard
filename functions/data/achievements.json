@@ -1979,7 +1979,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 909,
+        "chat": 914,
         "points_spent": 36604,
         "effects": 12,
         "sounds": 5,
@@ -2034,7 +2034,7 @@
         "gift_bombs_veteran",
         "donation_first_timer"
       ],
-      "lastUpdated": "2025-12-28T12:36:20Z"
+      "lastUpdated": "2025-12-28T13:51:12Z"
     },
     "anzerou": {
       "counters": {
@@ -2278,7 +2278,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2198,
+        "chat": 2200,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2351,7 +2351,7 @@
         "screenshot_first",
         "donation_first_timer"
       ],
-      "lastUpdated": "2025-12-28T13:45:45Z"
+      "lastUpdated": "2025-12-28T13:47:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7284,7 +7284,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 746,
+        "chat": 750,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7326,9 +7326,10 @@
         "first_caller",
         "sub_loyal",
         "gift_bombs_regular",
-        "effect_first"
+        "effect_first",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-28T13:39:32Z"
+      "lastUpdated": "2025-12-28T13:53:33Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7470,7 +7471,7 @@
       "lastUpdated": "2025-12-28T13:19:11Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:46:16Z",
+  "lastUpdated": "2025-12-28T13:53:34Z",
   "totalUsers": 363,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
