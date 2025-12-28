@@ -1406,7 +1406,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1676,
+        "chat": 1685,
         "points_spent": 35201,
         "effects": 8,
         "sub": 12,
@@ -1458,7 +1458,7 @@
         "bday2025_support",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-12-28T13:36:27Z"
+      "lastUpdated": "2025-12-28T14:28:24Z"
     },
     "celran": {
       "counters": {
@@ -1616,7 +1616,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1469,
+        "chat": 1471,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1661,7 +1661,7 @@
         "sub_master",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T13:34:07Z"
+      "lastUpdated": "2025-12-28T14:24:16Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1979,7 +1979,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 915,
+        "chat": 922,
         "points_spent": 36604,
         "effects": 12,
         "sounds": 5,
@@ -2034,7 +2034,7 @@
         "gift_bombs_veteran",
         "donation_first_timer"
       ],
-      "lastUpdated": "2025-12-28T13:54:32Z"
+      "lastUpdated": "2025-12-28T14:24:15Z"
     },
     "anzerou": {
       "counters": {
@@ -2089,7 +2089,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 644,
+        "chat": 652,
         "points_spent": 37955,
         "interactive": 16,
         "effects": 28,
@@ -2129,7 +2129,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T13:29:44Z"
+      "lastUpdated": "2025-12-28T14:24:08Z"
     },
     "redunt86": {
       "counters": {
@@ -2278,7 +2278,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2203,
+        "chat": 2220,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2351,7 +2351,7 @@
         "screenshot_first",
         "donation_first_timer"
       ],
-      "lastUpdated": "2025-12-28T13:59:04Z"
+      "lastUpdated": "2025-12-28T14:25:57Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3299,7 +3299,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1032,
+        "chat": 1050,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3328,7 +3328,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-28T13:59:09Z"
+      "lastUpdated": "2025-12-28T14:28:12Z"
     },
     "roffelonator": {
       "counters": {
@@ -4608,7 +4608,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 95,
         "points_spent": 900,
         "sounds": 1,
         "effects": 1
@@ -4624,7 +4624,7 @@
         "sound_first",
         "effect_first"
       ],
-      "lastUpdated": "2025-08-30T17:01:14Z"
+      "lastUpdated": "2025-12-28T14:27:20Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -7284,7 +7284,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 755,
+        "chat": 764,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7329,7 +7329,7 @@
         "effect_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-28T13:56:28Z"
+      "lastUpdated": "2025-12-28T14:23:57Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7469,10 +7469,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-12-28T13:19:11Z"
+    },
+    "davutiktik": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-12-28T14:28:55Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:59:16Z",
-  "totalUsers": 363,
+  "lastUpdated": "2025-12-28T14:28:55Z",
+  "totalUsers": 364,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
