@@ -1544,7 +1544,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2052,
+        "chat": 2054,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1611,7 +1611,7 @@
         "spender_legend",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-28T10:18:55Z"
+      "lastUpdated": "2025-12-28T10:22:49Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2084,10 +2084,10 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 625,
-        "points_spent": 34505,
+        "chat": 626,
+        "points_spent": 34855,
         "interactive": 15,
-        "effects": 26,
+        "effects": 27,
         "sub": 25,
         "sounds": 1
       },
@@ -2124,7 +2124,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T10:20:46Z"
+      "lastUpdated": "2025-12-28T10:24:18Z"
     },
     "redunt86": {
       "counters": {
@@ -2273,7 +2273,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2113,
+        "chat": 2116,
         "gift_subs": 2,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 425,
@@ -2340,7 +2340,7 @@
         "chat_expert",
         "gift_bombs_veteran"
       ],
-      "lastUpdated": "2025-12-28T10:19:27Z"
+      "lastUpdated": "2025-12-28T10:24:19Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2908,7 +2908,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 93,
+        "chat": 94,
         "points_spent": 4000,
         "sub": 15
       },
@@ -2929,7 +2929,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2025-12-21T19:21:24Z"
+      "lastUpdated": "2025-12-28T10:25:03Z"
     },
     "chadrestricted": {
       "counters": {
@@ -7431,7 +7431,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T10:21:04Z",
+  "lastUpdated": "2025-12-28T10:25:43Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
