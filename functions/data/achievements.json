@@ -7284,7 +7284,7 @@
       "counters": {
         "chat": 744,
         "follow": 1,
-        "points_spent": 10351,
+        "points_spent": 10551,
         "screenshot": 1,
         "sub": 3,
         "gift_bombs": 3,
@@ -7292,7 +7292,8 @@
         "largest_gift_bomb": 5,
         "bits": 340,
         "raid": 16,
-        "sounds": 1
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7322,9 +7323,10 @@
         "sub_supporter",
         "first_caller",
         "sub_loyal",
-        "gift_bombs_regular"
+        "gift_bombs_regular",
+        "effect_first"
       ],
-      "lastUpdated": "2025-12-28T13:29:41Z"
+      "lastUpdated": "2025-12-28T13:33:26Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7466,7 +7468,7 @@
       "lastUpdated": "2025-12-28T13:19:11Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:32:00Z",
+  "lastUpdated": "2025-12-28T13:33:27Z",
   "totalUsers": 363,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
