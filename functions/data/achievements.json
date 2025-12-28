@@ -6816,26 +6816,25 @@
         "sounds": 2
       },
       "unlockedAchievements": [
-        "weekend_warrior",
+        "chat_newbie",
+        "chat_talker",
+        "chat_conversationalist",
+        "follow_supporter",
+        "sub_first_month",
+        "sub_tier1",
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "raid_tier1_captain",
-        "follow_supporter",
-        "gift_starter",
-        "chat_newbie",
-        "chat_talker",
-        "sub_tier1",
-        "sub_first_month",
-        "chat_conversationalist",
-        "spender_bronze",
+        "weekend_warrior",
         "effect_first",
         "sound_first",
+        "spender_bronze",
+        "gift_starter",
         "gift_kind",
         "gift_caring",
-        "gift_bomb_100"
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-28T13:27:10Z"
+      "lastUpdated": "2025-12-28T13:27:23Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7467,7 +7466,7 @@
       "lastUpdated": "2025-12-28T13:19:11Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:27:11Z",
+  "lastUpdated": "2025-12-28T13:27:24Z",
   "totalUsers": 363,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
