@@ -1687,7 +1687,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1504,
+        "chat": 1513,
         "points_spent": 49201,
         "interactive": 31,
         "follow": 1,
@@ -1733,7 +1733,7 @@
         "spender_electrum",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-28T19:51:02Z"
+      "lastUpdated": "2025-12-28T20:31:01Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2042,7 +2042,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 959,
+        "chat": 979,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -2085,7 +2085,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T20:01:38Z"
+      "lastUpdated": "2025-12-28T21:23:43Z"
     },
     "anzerou": {
       "counters": {
@@ -2220,10 +2220,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 59252,
+        "points_spent": 60052,
         "follow": 1,
-        "chat": 697,
-        "effects": 64,
+        "chat": 700,
+        "effects": 65,
         "screenshot": 3,
         "sounds": 5,
         "bits": 300,
@@ -2274,7 +2274,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:34:35Z"
+      "lastUpdated": "2025-12-28T20:43:09Z"
     },
     "syn__________": {
       "counters": {
@@ -2330,7 +2330,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2263,
+        "chat": 2290,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2382,7 +2382,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T20:01:36Z"
+      "lastUpdated": "2025-12-28T21:20:04Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2651,7 +2651,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 111
+        "chat": 112
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2662,7 +2662,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-28T20:01:08Z"
+      "lastUpdated": "2025-12-28T20:02:29Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2755,7 +2755,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 302,
+        "chat": 304,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2782,7 +2782,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T19:50:13Z"
+      "lastUpdated": "2025-12-28T20:21:26Z"
     },
     "chevelletv": {
       "counters": {
@@ -3292,7 +3292,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1106,
+        "chat": 1108,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3323,7 +3323,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:06Z"
+      "lastUpdated": "2025-12-28T20:35:05Z"
     },
     "roffelonator": {
       "counters": {
@@ -6169,7 +6169,7 @@
       "counters": {
         "points_spent": 21233,
         "special_rewards": 1,
-        "chat": 257,
+        "chat": 258,
         "effects": 3,
         "follow": 1,
         "sub": 13
@@ -6201,7 +6201,7 @@
         "sub_tier1",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T20:00:53Z"
+      "lastUpdated": "2025-12-28T20:02:14Z"
     },
     "otocar": {
       "counters": {
@@ -7296,7 +7296,7 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 23,
+        "chat": 25,
         "points_spent": 2
       },
       "unlockedAchievements": [
@@ -7304,9 +7304,10 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "birthday_person"
+        "birthday_person",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-20T12:50:52Z"
+      "lastUpdated": "2025-12-28T21:24:19Z"
     },
     "alex_russian92": {
       "counters": {
@@ -7409,7 +7410,7 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 33
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7418,10 +7419,10 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-28T20:01:50Z"
+      "lastUpdated": "2025-12-28T20:14:26Z"
     }
   },
-  "lastUpdated": "2025-12-28T20:01:51Z",
+  "lastUpdated": "2025-12-28T21:24:20Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
