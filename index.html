@@ -1138,9 +1138,16 @@
             let progress;
             let displayedCurrentValue;
 
+            // Gift bomb SIZE achievements don't show progress - only locked or unlocked
+            const isGiftBombSizeAchievement = achievement.Type.toLowerCase() === 'gift_bomb_size';
+
             if (isUnlocked) {
                 progress = 100;
                 displayedCurrentValue = adjustedRequiredValue;
+            } else if (isGiftBombSizeAchievement) {
+                // For locked gift bomb size achievements, show 0% progress
+                progress = 0;
+                displayedCurrentValue = 0;
             } else {
                 progress = Math.min((adjustedCurrentValue / adjustedRequiredValue) * 100, 100);
                 displayedCurrentValue = Math.min(adjustedCurrentValue, adjustedRequiredValue);
