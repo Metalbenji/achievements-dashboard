@@ -1648,15 +1648,16 @@
         "interactive": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior",
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "screenshot_first",
-        "night_owl",
-        "follow_supporter",
         "chat_regular",
-        "sub_tier1",
+        "chat_frequent",
+        "chat_dedicated",
+        "chat_enthusiast",
+        "chat_champion",
+        "chat_expert",
+        "follow_supporter",
         "sub_first_month",
         "sub_supporter",
         "sub_loyal",
@@ -1668,28 +1669,26 @@
         "sub_diamond",
         "sub_elite",
         "sub_master",
+        "sub_legendary",
+        "sub_tier1",
+        "screenshot_first",
+        "night_owl",
+        "weekend_warrior",
+        "effect_first",
         "sound_first",
         "spender_bronze",
-        "effect_first",
-        "chat_frequent",
-        "bday2025_attend",
-        "bday2025_support",
-        "spender_silver",
-        "chat_dedicated",
-        "interactive_first",
-        "emperor_loyal",
-        "chat_enthusiast",
-        "chat_champion",
-        "spender_gold",
-        "first_caller",
-        "chat_expert",
-        "sub_legendary",
-        "spender_legend",
         "spender_iron",
+        "spender_silver",
         "spender_electrum",
-        "spender_platinum"
+        "spender_gold",
+        "spender_platinum",
+        "first_caller",
+        "emperor_loyal",
+        "interactive_first",
+        "bday2025_attend",
+        "bday2025_support"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T18:03:50Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2149,7 +2148,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 655,
+        "chat": 656,
         "points_spent": 38455,
         "interactive": 16,
         "effects": 29,
@@ -2191,7 +2190,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2025-12-28T18:01:39Z"
     },
     "redunt86": {
       "counters": {
@@ -7559,8 +7558,6 @@
         "largest_gift_bomb": 50
       },
       "unlockedAchievements": [
-        "gift_bomb_50",
-        "gift_bombs_first",
         "gift_starter",
         "gift_kind",
         "gift_caring",
@@ -7569,12 +7566,21 @@
         "gift_champion",
         "gift_hero",
         "gift_angel",
-        "gift_patron"
+        "gift_patron",
+        "gift_bombs_first",
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50"
       ],
-      "lastUpdated": "2025-12-28T17:01:36Z"
+      "lastUpdated": "2025-12-28T18:03:51Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:00:09Z",
+  "lastUpdated": "2025-12-28T18:03:51Z",
   "totalUsers": 371,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
