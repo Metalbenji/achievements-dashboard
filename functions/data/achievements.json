@@ -547,6 +547,15 @@
       "Icon": "💳",
       "RequiredValue": 1000,
       "Type": "points_spent",
+      "Rarity": 1
+    },
+    {
+      "Id": "spender_iron",
+      "Name": "Point Enthusiast",
+      "Description": "Spend 5,000 channel points total",
+      "Icon": "🔩",
+      "RequiredValue": 5000,
+      "Type": "points_spent",
       "Rarity": 2
     },
     {
@@ -555,6 +564,15 @@
       "Description": "Spend 10,000 channel points total",
       "Icon": "💰",
       "RequiredValue": 10000,
+      "Type": "points_spent",
+      "Rarity": 2
+    },
+    {
+      "Id": "spender_electrum",
+      "Name": "Point Collector",
+      "Description": "Spend 25,000 channel points total",
+      "Icon": "⚡",
+      "RequiredValue": 25000,
       "Type": "points_spent",
       "Rarity": 3
     },
@@ -565,14 +583,86 @@
       "Icon": "🐋",
       "RequiredValue": 50000,
       "Type": "points_spent",
+      "Rarity": 3
+    },
+    {
+      "Id": "spender_platinum",
+      "Name": "Point Baron",
+      "Description": "Spend 100,000 channel points total",
+      "Icon": "💎",
+      "RequiredValue": 100000,
+      "Type": "points_spent",
       "Rarity": 4
+    },
+    {
+      "Id": "spender_titanium",
+      "Name": "Point Tycoon",
+      "Description": "Spend 200,000 channel points total",
+      "Icon": "🔷",
+      "RequiredValue": 200000,
+      "Type": "points_spent",
+      "Rarity": 4
+    },
+    {
+      "Id": "spender_diamond",
+      "Name": "Point Emperor",
+      "Description": "Spend 350,000 channel points total",
+      "Icon": "👑",
+      "RequiredValue": 350000,
+      "Type": "points_spent",
+      "Rarity": 4
+    },
+    {
+      "Id": "spender_ruby",
+      "Name": "Point Legend",
+      "Description": "Spend 500,000 channel points total",
+      "Icon": "💍",
+      "RequiredValue": 500000,
+      "Type": "points_spent",
+      "Rarity": 5
+    },
+    {
+      "Id": "spender_emerald",
+      "Name": "Point Magnate",
+      "Description": "Spend 750,000 channel points total",
+      "Icon": "💚",
+      "RequiredValue": 750000,
+      "Type": "points_spent",
+      "Rarity": 5
     },
     {
       "Id": "spender_legend",
       "Name": "Point Millionaire",
-      "Description": "Spend 100,000 channel points total",
-      "Icon": "👑",
-      "RequiredValue": 100000,
+      "Description": "Spend 1,000,000 channel points total",
+      "Icon": "🌟",
+      "RequiredValue": 1000000,
+      "Type": "points_spent",
+      "Rarity": 5
+    },
+    {
+      "Id": "spender_mythic",
+      "Name": "Point Deity",
+      "Description": "Spend 2,500,000 channel points total",
+      "Icon": "✨",
+      "RequiredValue": 2500000,
+      "Type": "points_spent",
+      "Rarity": 5
+    },
+    {
+      "Id": "spender_celestial",
+      "Name": "Point Overlord",
+      "Description": "Spend 5,000,000 channel points total",
+      "Icon": "🌌",
+      "RequiredValue": 5000000,
+      "Type": "points_spent",
+      "Rarity": 5
+    },
+    {
+      "Id": "spender_transcendent",
+      "Name": "Point Transcendent",
+      "Description": "Spend 10,000,000 channel points total",
+      "Icon": "🔥",
+      "RequiredValue": 10000000,
       "Type": "points_spent",
       "Rarity": 5
     },
@@ -1795,7 +1885,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 140,
+        "chat": 142,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1816,7 +1906,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-28T17:33:31Z"
+      "lastUpdated": "2025-12-28T17:51:07Z"
     },
     "sealdancer": {
       "counters": {
@@ -1899,7 +1989,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 487,
+        "chat": 491,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 28,
@@ -1937,7 +2027,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-28T17:40:05Z"
+      "lastUpdated": "2025-12-28T17:48:17Z"
     },
     "mattyuk937": {
       "counters": {
@@ -6615,7 +6705,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 61,
+        "chat": 62,
         "bits": 97,
         "raid": 1,
         "follow": 1,
@@ -6646,7 +6736,7 @@
         "gift_caring",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T17:40:06Z"
+      "lastUpdated": "2025-12-28T17:50:49Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7421,8 +7511,8 @@
       "lastUpdated": "2025-12-28T17:01:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T17:40:07Z",
+  "lastUpdated": "2025-12-28T17:51:48Z",
   "totalUsers": 371,
-  "totalAchievements": 147,
+  "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
