@@ -1327,7 +1327,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 356,
+        "chat": 359,
         "follow": 1,
         "points_spent": 20002,
         "sounds": 1,
@@ -1351,7 +1351,7 @@
         "first_caller",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-20T17:07:08Z"
+      "lastUpdated": "2025-12-28T12:52:27Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2087,7 +2087,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 639,
+        "chat": 640,
         "points_spent": 37855,
         "interactive": 16,
         "effects": 28,
@@ -2127,7 +2127,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T12:22:20Z"
+      "lastUpdated": "2025-12-28T13:10:17Z"
     },
     "redunt86": {
       "counters": {
@@ -2420,7 +2420,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 55,
+        "chat": 63,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2433,7 +2433,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-28T12:41:07Z"
+      "lastUpdated": "2025-12-28T12:57:19Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -7282,7 +7282,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 721,
+        "chat": 735,
         "follow": 1,
         "points_spent": 10351,
         "screenshot": 1,
@@ -7324,7 +7324,7 @@
         "sub_loyal",
         "gift_bombs_regular"
       ],
-      "lastUpdated": "2025-12-28T12:24:00Z"
+      "lastUpdated": "2025-12-28T13:09:10Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7457,7 +7457,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T12:44:40Z",
+  "lastUpdated": "2025-12-28T13:10:28Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
