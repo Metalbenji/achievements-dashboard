@@ -1943,9 +1943,9 @@
       "counters": {
         "follow": 1,
         "chat": 923,
-        "points_spent": 66604,
+        "points_spent": 86604,
         "effects": 12,
-        "sounds": 6,
+        "sounds": 7,
         "sub": 34,
         "screenshot": 2,
         "clips": 1
@@ -1983,7 +1983,7 @@
         "effect_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2025-12-28T14:49:00Z"
+      "lastUpdated": "2025-12-28T14:50:30Z"
     },
     "anzerou": {
       "counters": {
@@ -2038,7 +2038,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 652,
+        "chat": 653,
         "points_spent": 37955,
         "interactive": 16,
         "effects": 28,
@@ -2078,7 +2078,7 @@
         "biggest_fan",
         "effect_master"
       ],
-      "lastUpdated": "2025-12-28T14:24:08Z"
+      "lastUpdated": "2025-12-28T14:50:55Z"
     },
     "redunt86": {
       "counters": {
@@ -7067,7 +7067,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 771,
+        "chat": 772,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7106,7 +7106,7 @@
         "effect_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-28T14:39:28Z"
+      "lastUpdated": "2025-12-28T14:50:13Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7249,16 +7249,17 @@
     },
     "davutiktik": {
       "counters": {
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-12-28T14:45:15Z"
+      "lastUpdated": "2025-12-28T14:51:38Z"
     }
   },
-  "lastUpdated": "2025-12-28T14:50:08Z",
+  "lastUpdated": "2025-12-28T14:51:39Z",
   "totalUsers": 364,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
