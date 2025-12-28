@@ -7394,10 +7394,32 @@
         "gift_bombs_first"
       ],
       "lastUpdated": "2025-12-28T16:43:40Z"
+    },
+    "dktax": {
+      "counters": {
+        "gift_subs": 50,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 50,
+        "largest_gift_bomb": 50
+      },
+      "unlockedAchievements": [
+        "gift_bomb_50",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion",
+        "gift_hero",
+        "gift_angel",
+        "gift_patron"
+      ],
+      "lastUpdated": "2025-12-28T17:01:36Z"
     }
   },
-  "lastUpdated": "2025-12-28T17:01:46Z",
-  "totalUsers": 370,
+  "lastUpdated": "2025-12-28T17:03:28Z",
+  "totalUsers": 371,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
