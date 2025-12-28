@@ -6832,10 +6832,9 @@
         "gift_starter",
         "gift_kind",
         "gift_caring",
-        "raid_tier1_captain",
-        "gift_bomb_100"
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-28T13:31:10Z"
+      "lastUpdated": "2025-12-28T13:32:00Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7467,7 +7466,7 @@
       "lastUpdated": "2025-12-28T13:19:11Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:31:11Z",
+  "lastUpdated": "2025-12-28T13:32:00Z",
   "totalUsers": 363,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
