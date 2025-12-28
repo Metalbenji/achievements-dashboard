@@ -1594,7 +1594,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1472,
+        "chat": 1474,
         "points_spent": 48701,
         "interactive": 30,
         "follow": 1,
@@ -1637,11 +1637,11 @@
         "sub_master",
         "first_caller"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-28T16:26:41Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 343,
+        "chat": 344,
         "follow": 1,
         "sub": 35,
         "points_spent": 95000,
@@ -1674,7 +1674,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T11:15:08Z"
+      "lastUpdated": "2025-12-28T16:18:34Z"
     },
     "scoman07": {
       "counters": {
@@ -1942,7 +1942,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 936,
+        "chat": 938,
         "points_spent": 86604,
         "effects": 12,
         "sounds": 7,
@@ -1983,7 +1983,7 @@
         "effect_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2025-12-28T15:58:35Z"
+      "lastUpdated": "2025-12-28T16:11:07Z"
     },
     "anzerou": {
       "counters": {
@@ -3170,7 +3170,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1069,
+        "chat": 1090,
         "points_spent": 43900,
         "effects": 7,
         "interactive": 11,
@@ -3199,7 +3199,7 @@
         "emperor_loyal",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-28T14:44:26Z"
+      "lastUpdated": "2025-12-28T16:27:35Z"
     },
     "roffelonator": {
       "counters": {
@@ -7083,7 +7083,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 784,
+        "chat": 786,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7122,7 +7122,7 @@
         "effect_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2025-12-28T15:58:34Z"
+      "lastUpdated": "2025-12-28T16:07:30Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7273,10 +7273,31 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-12-28T14:54:36Z"
+    },
+    "tayyun": {
+      "counters": {
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 420,
+        "largest_gift_bomb": 420
+      },
+      "unlockedAchievements": [
+        "gift_bomb_5",
+        "gift_bomb_10",
+        "gift_bomb_15",
+        "gift_bomb_20",
+        "gift_bomb_25",
+        "gift_bomb_30",
+        "gift_bomb_40",
+        "gift_bomb_50",
+        "gift_bomb_75",
+        "gift_bomb_100",
+        "gift_bombs_first"
+      ],
+      "lastUpdated": "2025-12-28T15:58:56Z"
     }
   },
-  "lastUpdated": "2025-12-28T15:59:06Z",
-  "totalUsers": 364,
+  "lastUpdated": "2025-12-28T16:27:39Z",
+  "totalUsers": 365,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
