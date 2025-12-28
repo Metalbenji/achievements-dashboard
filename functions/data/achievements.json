@@ -2801,7 +2801,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 643,
+        "chat": 644,
         "points_spent": 27701,
         "sounds": 4,
         "effects": 48,
@@ -2873,7 +2873,7 @@
         "raid_tier2_seasoned",
         "gift_kind"
       ],
-      "lastUpdated": "2025-12-21T22:22:32Z"
+      "lastUpdated": "2025-12-28T12:18:49Z"
     },
     "andilippi": {
       "counters": {
@@ -6796,7 +6796,7 @@
         "bits": 97,
         "raid": 1,
         "follow": 1,
-        "gift_subs": 2,
+        "gift_subs": 3,
         "sub": 1,
         "points_spent": 1200,
         "effects": 1,
@@ -6818,9 +6818,10 @@
         "spender_bronze",
         "effect_first",
         "sound_first",
-        "gift_kind"
+        "gift_kind",
+        "gift_caring"
       ],
-      "lastUpdated": "2025-12-28T12:17:30Z"
+      "lastUpdated": "2025-12-28T12:17:45Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7442,7 +7443,7 @@
       "lastUpdated": "2025-12-28T10:21:03Z"
     }
   },
-  "lastUpdated": "2025-12-28T12:17:45Z",
+  "lastUpdated": "2025-12-28T12:18:56Z",
   "totalUsers": 362,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
