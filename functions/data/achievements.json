@@ -1409,7 +1409,7 @@
         "chat": 1673,
         "points_spent": 35201,
         "effects": 8,
-        "sub": 11,
+        "sub": 12,
         "bits": 1894,
         "raid": 5,
         "interactive": 4,
@@ -1456,7 +1456,7 @@
         "bday2025_attend",
         "bday2025_support"
       ],
-      "lastUpdated": "2025-12-28T12:44:39Z"
+      "lastUpdated": "2025-12-28T13:18:51Z"
     },
     "celran": {
       "counters": {
@@ -7455,10 +7455,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-12-28T10:21:03Z"
+    },
+    "earbuduser": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2025-12-28T13:19:11Z"
     }
   },
-  "lastUpdated": "2025-12-28T13:17:43Z",
-  "totalUsers": 362,
+  "lastUpdated": "2025-12-28T13:19:12Z",
+  "totalUsers": 363,
   "totalAchievements": 147,
   "generatedBy": "Streamer.bot Achievement System"
 }
