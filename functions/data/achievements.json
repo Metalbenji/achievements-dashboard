@@ -2004,7 +2004,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 492,
+        "chat": 493,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 28,
@@ -2043,7 +2043,7 @@
         "night_owl",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:24:15Z"
+      "lastUpdated": "2025-12-28T18:25:40Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2507,9 +2507,10 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 179,
+        "chat": 180,
         "points_spent": 22000,
-        "sounds": 2
+        "sounds": 2,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2523,9 +2524,10 @@
         "spender_bronze",
         "sound_first",
         "spender_silver",
-        "spender_iron"
+        "spender_iron",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-28T18:24:21Z"
+      "lastUpdated": "2025-12-28T18:24:57Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2760,7 +2762,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 282,
+        "chat": 283,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2786,7 +2788,7 @@
         "birthday_person",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-28T18:24:26Z"
+      "lastUpdated": "2025-12-28T18:26:08Z"
     },
     "chevelletv": {
       "counters": {
@@ -7222,7 +7224,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 786,
+        "chat": 787,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7262,7 +7264,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:08Z"
+      "lastUpdated": "2025-12-28T18:26:28Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7417,17 +7419,17 @@
     "clodagh_lunaria": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-12-28T18:24:37Z"
+      "lastUpdated": "2025-12-28T18:26:09Z"
     }
   },
-  "lastUpdated": "2025-12-28T18:24:42Z",
+  "lastUpdated": "2025-12-28T18:26:48Z",
   "totalUsers": 365,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
