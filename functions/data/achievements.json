@@ -2465,7 +2465,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 107,
+        "chat": 113,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2479,7 +2479,7 @@
         "screenshot_first",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-30T15:51:33Z"
+      "lastUpdated": "2025-12-30T17:42:28Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2962,10 +2962,11 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 894,
-        "points_spent": 8000,
+        "chat": 933,
+        "points_spent": 8350,
         "sounds": 4,
-        "clips": 1
+        "clips": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2981,9 +2982,10 @@
         "chat_dedicated",
         "chat_enthusiast",
         "spender_iron",
-        "clip_first"
+        "clip_first",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-12-30T17:27:00Z"
+      "lastUpdated": "2025-12-30T17:44:43Z"
     },
     "maximusis_": {
       "counters": {
@@ -4330,7 +4332,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 337,
+        "chat": 341,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4347,7 +4349,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-30T17:11:22Z"
+      "lastUpdated": "2025-12-30T17:40:41Z"
     },
     "gabriel245658": {
       "counters": {
@@ -6632,7 +6634,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 72,
+        "chat": 78,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6644,7 +6646,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-30T17:26:17Z"
+      "lastUpdated": "2025-12-30T17:41:40Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6934,10 +6936,10 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 151,
+        "chat": 154,
         "points_spent": 20000,
         "sounds": 1,
-        "clips": 1
+        "clips": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6953,7 +6955,7 @@
         "chat_regular",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-30T17:19:20Z"
+      "lastUpdated": "2025-12-30T17:44:02Z"
     },
     "anumra": {
       "counters": {
@@ -7453,7 +7455,7 @@
       "lastUpdated": "2025-12-30T13:05:24Z"
     }
   },
-  "lastUpdated": "2025-12-30T17:27:01Z",
+  "lastUpdated": "2025-12-30T17:44:44Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
