@@ -1899,7 +1899,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 153,
+        "chat": 154,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1920,7 +1920,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-30T10:47:28Z"
+      "lastUpdated": "2025-12-30T10:56:35Z"
     },
     "sealdancer": {
       "counters": {
@@ -2464,7 +2464,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 86,
+        "chat": 88,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2477,7 +2477,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-30T10:55:33Z"
+      "lastUpdated": "2025-12-30T10:57:23Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3075,7 +3075,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1407,
+        "chat": 1409,
         "sub": 45
       },
       "unlockedAchievements": [
@@ -3104,7 +3104,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-30T10:50:49Z"
+      "lastUpdated": "2025-12-30T10:57:17Z"
     },
     "majesty81": {
       "counters": {
@@ -7427,16 +7427,17 @@
     "mamialex": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-12-30T10:56:14Z"
+      "lastUpdated": "2025-12-30T10:57:25Z"
     }
   },
-  "lastUpdated": "2025-12-30T10:56:15Z",
+  "lastUpdated": "2025-12-30T10:57:26Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
