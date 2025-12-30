@@ -2464,7 +2464,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 84,
+        "chat": 86,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2477,7 +2477,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2025-12-30T09:46:20Z"
+      "lastUpdated": "2025-12-30T10:55:33Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -7426,15 +7426,17 @@
     },
     "mamialex": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-12-30T10:54:43Z"
+      "lastUpdated": "2025-12-30T10:56:14Z"
     }
   },
-  "lastUpdated": "2025-12-30T10:54:44Z",
+  "lastUpdated": "2025-12-30T10:56:15Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
