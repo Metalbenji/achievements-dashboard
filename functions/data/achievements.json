@@ -2152,7 +2152,8 @@
         "effects": 29,
         "sub": 25,
         "sounds": 2,
-        "screenshot": 1
+        "screenshot": 1,
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2188,9 +2189,10 @@
         "effect_master",
         "spender_iron",
         "spender_electrum",
-        "screenshot_first"
+        "screenshot_first",
+        "clip_first"
       ],
-      "lastUpdated": "2025-12-30T09:52:32Z"
+      "lastUpdated": "2025-12-30T09:53:06Z"
     },
     "redunt86": {
       "counters": {
@@ -2336,7 +2338,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2327,
+        "chat": 2330,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2388,7 +2390,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T09:43:03Z"
+      "lastUpdated": "2025-12-30T09:53:04Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7420,7 +7422,7 @@
       "lastUpdated": "2025-12-28T20:14:26Z"
     }
   },
-  "lastUpdated": "2025-12-30T09:52:33Z",
+  "lastUpdated": "2025-12-30T09:53:06Z",
   "totalUsers": 365,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
