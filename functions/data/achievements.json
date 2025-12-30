@@ -1562,9 +1562,9 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 131,
-        "points_spent": 3000,
-        "effects": 8,
+        "chat": 132,
+        "points_spent": 3300,
+        "effects": 9,
         "follow": 1,
         "sounds": 1
       },
@@ -1581,7 +1581,7 @@
         "bday2025_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-21T21:20:24Z"
+      "lastUpdated": "2025-12-30T15:32:33Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1691,7 +1691,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1528,
+        "chat": 1531,
         "points_spent": 49201,
         "interactive": 31,
         "follow": 1,
@@ -1737,11 +1737,11 @@
         "spender_electrum",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-30T12:20:04Z"
+      "lastUpdated": "2025-12-30T15:36:13Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 348,
+        "chat": 352,
         "follow": 1,
         "sub": 35,
         "points_spent": 95000,
@@ -1776,7 +1776,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:45:41Z"
+      "lastUpdated": "2025-12-30T15:19:33Z"
     },
     "scoman07": {
       "counters": {
@@ -1942,7 +1942,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 299,
+        "chat": 300,
         "sub": 10,
         "points_spent": 4
       },
@@ -1964,9 +1964,10 @@
         "chat_frequent",
         "sub_veteran",
         "first_caller",
-        "sub_champion"
+        "sub_champion",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T14:38:27Z"
+      "lastUpdated": "2025-12-30T15:50:47Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2338,7 +2339,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2335,
+        "chat": 2348,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2392,7 +2393,7 @@
         "spender_electrum",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-30T09:59:12Z"
+      "lastUpdated": "2025-12-30T15:50:41Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3304,7 +3305,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1156,
+        "chat": 1157,
         "points_spent": 45900,
         "effects": 7,
         "interactive": 11,
@@ -3335,7 +3336,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T12:58:04Z"
+      "lastUpdated": "2025-12-30T15:50:43Z"
     },
     "roffelonator": {
       "counters": {
@@ -6571,8 +6572,8 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 824,
-        "points_spent": 35802,
+        "chat": 825,
+        "points_spent": 35803,
         "sounds": 15,
         "effects": 6,
         "screenshot": 1,
@@ -6615,7 +6616,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:34:35Z"
+      "lastUpdated": "2025-12-30T15:50:12Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6629,7 +6630,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 53,
+        "chat": 57,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6641,7 +6642,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-30T14:38:22Z"
+      "lastUpdated": "2025-12-30T15:43:35Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6753,7 +6754,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 94,
+        "chat": 95,
         "bits": 97,
         "follow": 1,
         "sub": 1,
@@ -6780,7 +6781,7 @@
         "screenshot_first",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-30T09:52:09Z"
+      "lastUpdated": "2025-12-30T15:49:57Z"
     },
     "ldbv1983": {
       "counters": {
@@ -6931,7 +6932,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 129,
+        "chat": 137,
         "points_spent": 20000,
         "sounds": 1,
         "clips": 1
@@ -6950,7 +6951,7 @@
         "chat_regular",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-30T14:52:23Z"
+      "lastUpdated": "2025-12-30T15:43:35Z"
     },
     "anumra": {
       "counters": {
@@ -7450,7 +7451,7 @@
       "lastUpdated": "2025-12-30T13:05:24Z"
     }
   },
-  "lastUpdated": "2025-12-30T14:52:24Z",
+  "lastUpdated": "2025-12-30T15:50:48Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
