@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 286,
+        "chat": 290,
         "points_spent": 28700,
         "follow": 1,
         "sub": 18,
@@ -1476,7 +1476,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:04Z"
+      "lastUpdated": "2025-12-30T13:16:24Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1496,7 +1496,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1698,
+        "chat": 1718,
         "points_spent": 35201,
         "effects": 8,
         "sub": 12,
@@ -1547,7 +1547,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:34:35Z"
+      "lastUpdated": "2025-12-30T14:46:26Z"
     },
     "celran": {
       "counters": {
@@ -1899,7 +1899,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 189,
+        "chat": 194,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1920,7 +1920,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-30T12:55:49Z"
+      "lastUpdated": "2025-12-30T13:29:28Z"
     },
     "sealdancer": {
       "counters": {
@@ -2766,7 +2766,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 315,
+        "chat": 332,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2793,7 +2793,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-30T13:05:13Z"
+      "lastUpdated": "2025-12-30T13:53:03Z"
     },
     "chevelletv": {
       "counters": {
@@ -2837,7 +2837,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 668,
+        "chat": 677,
         "points_spent": 31301,
         "sounds": 6,
         "effects": 51,
@@ -2890,7 +2890,7 @@
         "spender_electrum",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-12-30T10:52:26Z"
+      "lastUpdated": "2025-12-30T14:31:09Z"
     },
     "andilippi": {
       "counters": {
@@ -3076,7 +3076,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1443,
+        "chat": 1448,
         "sub": 45
       },
       "unlockedAchievements": [
@@ -3105,7 +3105,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-30T11:42:20Z"
+      "lastUpdated": "2025-12-30T13:12:56Z"
     },
     "majesty81": {
       "counters": {
@@ -4565,7 +4565,7 @@
     "imistorm": {
       "counters": {
         "follow": 1,
-        "chat": 104,
+        "chat": 109,
         "points_spent": 1900,
         "sounds": 1,
         "effects": 2
@@ -4583,7 +4583,7 @@
         "chat_regular",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-12-28T15:03:49Z"
+      "lastUpdated": "2025-12-30T14:15:36Z"
     },
     "doomslayer19931": {
       "counters": {
@@ -5849,7 +5849,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 324,
+        "chat": 325,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5873,7 +5873,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-30T13:05:11Z"
+      "lastUpdated": "2025-12-30T13:05:32Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6629,7 +6629,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 43,
+        "chat": 53,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6641,7 +6641,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-30T12:57:27Z"
+      "lastUpdated": "2025-12-30T14:38:22Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6931,9 +6931,10 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 121,
+        "chat": 129,
         "points_spent": 20000,
-        "sounds": 1
+        "sounds": 1,
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6946,9 +6947,10 @@
         "chat_conversationalist",
         "bday2025_attend",
         "spender_iron",
-        "chat_regular"
+        "chat_regular",
+        "clip_first"
       ],
-      "lastUpdated": "2025-12-30T12:55:50Z"
+      "lastUpdated": "2025-12-30T14:52:23Z"
     },
     "anumra": {
       "counters": {
@@ -7390,14 +7392,14 @@
     },
     "davutiktik": {
       "counters": {
-        "chat": 11
+        "chat": 14
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-12-28T14:54:36Z"
+      "lastUpdated": "2025-12-30T14:40:18Z"
     },
     "clodagh_lunaria": {
       "counters": {
@@ -7448,7 +7450,7 @@
       "lastUpdated": "2025-12-30T13:05:24Z"
     }
   },
-  "lastUpdated": "2025-12-30T13:05:26Z",
+  "lastUpdated": "2025-12-30T14:52:24Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
