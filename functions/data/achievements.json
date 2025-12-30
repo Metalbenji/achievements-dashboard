@@ -2840,7 +2840,7 @@
         "points_spent": 31301,
         "sounds": 6,
         "effects": 51,
-        "sub": 44,
+        "sub": 45,
         "bits": 7000,
         "interactive": 2,
         "screenshot": 2
@@ -2886,9 +2886,10 @@
         "birthday_person",
         "bits_elite",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "sub_tier1"
       ],
-      "lastUpdated": "2025-12-28T18:34:35Z"
+      "lastUpdated": "2025-12-30T10:52:26Z"
     },
     "andilippi": {
       "counters": {
@@ -3303,11 +3304,11 @@
       "counters": {
         "follow": 1,
         "chat": 1136,
-        "points_spent": 43900,
+        "points_spent": 45900,
         "effects": 7,
         "interactive": 11,
         "screenshot": 2,
-        "sounds": 4
+        "sounds": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3333,7 +3334,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T10:46:22Z"
+      "lastUpdated": "2025-12-30T10:54:05Z"
     },
     "roffelonator": {
       "counters": {
@@ -6929,7 +6930,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 113,
+        "chat": 114,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -6946,7 +6947,7 @@
         "spender_iron",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-30T10:51:50Z"
+      "lastUpdated": "2025-12-30T10:53:05Z"
     },
     "anumra": {
       "counters": {
@@ -7422,10 +7423,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2025-12-28T20:14:26Z"
+    },
+    "mamialex": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2025-12-30T10:54:43Z"
     }
   },
-  "lastUpdated": "2025-12-30T10:52:28Z",
-  "totalUsers": 365,
+  "lastUpdated": "2025-12-30T10:54:44Z",
+  "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
