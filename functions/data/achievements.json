@@ -2147,11 +2147,12 @@
       "counters": {
         "follow": 1,
         "chat": 696,
-        "points_spent": 38456,
+        "points_spent": 38806,
         "interactive": 16,
         "effects": 29,
         "sub": 25,
-        "sounds": 2
+        "sounds": 2,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2186,9 +2187,10 @@
         "biggest_fan",
         "effect_master",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-12-30T09:51:01Z"
+      "lastUpdated": "2025-12-30T09:52:32Z"
     },
     "redunt86": {
       "counters": {
@@ -7418,7 +7420,7 @@
       "lastUpdated": "2025-12-28T20:14:26Z"
     }
   },
-  "lastUpdated": "2025-12-30T09:52:10Z",
+  "lastUpdated": "2025-12-30T09:52:33Z",
   "totalUsers": 365,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
