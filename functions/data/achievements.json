@@ -1899,7 +1899,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 154,
+        "chat": 171,
         "sub": 4,
         "points_spent": 2000,
         "sounds": 1
@@ -1920,7 +1920,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2025-12-30T10:56:35Z"
+      "lastUpdated": "2025-12-30T12:08:40Z"
     },
     "sealdancer": {
       "counters": {
@@ -2146,7 +2146,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 707,
+        "chat": 708,
         "points_spent": 38806,
         "interactive": 16,
         "effects": 29,
@@ -2192,7 +2192,7 @@
         "screenshot_first",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-30T10:21:21Z"
+      "lastUpdated": "2025-12-30T11:05:13Z"
     },
     "redunt86": {
       "counters": {
@@ -2464,7 +2464,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 88,
+        "chat": 100,
         "points_spent": 351,
         "screenshot": 1
       },
@@ -2475,9 +2475,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "screenshot_first"
+        "screenshot_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-12-30T10:57:23Z"
+      "lastUpdated": "2025-12-30T12:13:14Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3075,7 +3076,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1409,
+        "chat": 1443,
         "sub": 45
       },
       "unlockedAchievements": [
@@ -3104,7 +3105,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2025-12-30T10:57:17Z"
+      "lastUpdated": "2025-12-30T11:42:20Z"
     },
     "majesty81": {
       "counters": {
@@ -3303,7 +3304,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1136,
+        "chat": 1153,
         "points_spent": 45900,
         "effects": 7,
         "interactive": 11,
@@ -3334,7 +3335,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T10:54:05Z"
+      "lastUpdated": "2025-12-30T11:27:45Z"
     },
     "roffelonator": {
       "counters": {
@@ -6628,7 +6629,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 34,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6640,7 +6641,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-15T17:00:41Z"
+      "lastUpdated": "2025-12-30T12:08:00Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6930,7 +6931,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 114,
+        "chat": 120,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -6947,7 +6948,7 @@
         "spender_iron",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-30T10:53:05Z"
+      "lastUpdated": "2025-12-30T12:13:01Z"
     },
     "anumra": {
       "counters": {
@@ -7220,7 +7221,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 788,
+        "chat": 795,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7256,7 +7257,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:34:36Z"
+      "lastUpdated": "2025-12-30T11:50:20Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7427,17 +7428,17 @@
     "mamialex": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-12-30T10:57:25Z"
+      "lastUpdated": "2025-12-30T11:00:32Z"
     }
   },
-  "lastUpdated": "2025-12-30T10:57:26Z",
+  "lastUpdated": "2025-12-30T12:13:15Z",
   "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
