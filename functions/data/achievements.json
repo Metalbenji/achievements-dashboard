@@ -2146,7 +2146,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 695,
+        "chat": 696,
         "points_spent": 38456,
         "interactive": 16,
         "effects": 29,
@@ -2188,7 +2188,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T09:49:15Z"
+      "lastUpdated": "2025-12-30T09:51:01Z"
     },
     "redunt86": {
       "counters": {
@@ -6752,7 +6752,8 @@
         "points_spent": 1550,
         "effects": 1,
         "sounds": 2,
-        "screenshot": 1
+        "screenshot": 1,
+        "clips": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -6768,9 +6769,10 @@
         "effect_first",
         "sound_first",
         "spender_bronze",
-        "screenshot_first"
+        "screenshot_first",
+        "clip_first"
       ],
-      "lastUpdated": "2025-12-28T21:50:09Z"
+      "lastUpdated": "2025-12-30T09:52:09Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7416,7 +7418,7 @@
       "lastUpdated": "2025-12-28T20:14:26Z"
     }
   },
-  "lastUpdated": "2025-12-30T09:50:46Z",
+  "lastUpdated": "2025-12-30T09:52:10Z",
   "totalUsers": 365,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
