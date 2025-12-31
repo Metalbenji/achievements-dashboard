@@ -1586,7 +1586,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 454,
+        "chat": 457,
         "points_spent": 12400,
         "effects": 14,
         "follow": 1,
@@ -1633,11 +1633,11 @@
         "raid_tier1_captain",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-31T23:26:17Z"
+      "lastUpdated": "2025-12-31T23:32:57Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2126,
+        "chat": 2128,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1689,11 +1689,11 @@
         "bday2025_support",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-31T23:22:07Z"
+      "lastUpdated": "2025-12-31T23:35:42Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1535,
+        "chat": 1538,
         "points_spent": 49701,
         "interactive": 32,
         "follow": 1,
@@ -1739,11 +1739,11 @@
         "spender_electrum",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-30T17:56:33Z"
+      "lastUpdated": "2025-12-31T23:36:16Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 361,
+        "chat": 362,
         "follow": 1,
         "sub": 35,
         "points_spent": 95000,
@@ -1778,7 +1778,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-31T22:00:37Z"
+      "lastUpdated": "2025-12-31T23:35:51Z"
     },
     "scoman07": {
       "counters": {
@@ -2304,7 +2304,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 270,
+        "chat": 271,
         "sub": 27,
         "points_spent": 1650,
         "screenshot": 1,
@@ -2337,12 +2337,12 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-31T23:21:26Z"
+      "lastUpdated": "2025-12-31T23:35:33Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2405,
+        "chat": 2411,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2397,7 +2397,7 @@
         "clip_first",
         "bits_committed"
       ],
-      "lastUpdated": "2025-12-31T22:35:50Z"
+      "lastUpdated": "2025-12-31T23:36:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2843,7 +2843,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 712,
+        "chat": 713,
         "points_spent": 33051,
         "sounds": 6,
         "effects": 54,
@@ -2896,7 +2896,7 @@
         "spender_electrum",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-12-31T22:25:26Z"
+      "lastUpdated": "2025-12-31T23:33:12Z"
     },
     "andilippi": {
       "counters": {
@@ -4716,7 +4716,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 98,
+        "chat": 99,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4726,9 +4726,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "interactive_first"
+        "interactive_first",
+        "night_owl"
       ],
-      "lastUpdated": "2025-09-27T11:49:58Z"
+      "lastUpdated": "2025-12-31T23:36:53Z"
     },
     "theazmaniac": {
       "counters": {
@@ -7470,7 +7471,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2025-12-31T23:26:18Z",
+  "lastUpdated": "2025-12-31T23:36:54Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
