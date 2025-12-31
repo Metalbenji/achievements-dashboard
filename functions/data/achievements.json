@@ -1496,7 +1496,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1732,
+        "chat": 1739,
         "points_spent": 35201,
         "effects": 8,
         "sub": 12,
@@ -1547,7 +1547,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-31T22:35:40Z"
+      "lastUpdated": "2025-12-31T23:17:48Z"
     },
     "celran": {
       "counters": {
@@ -1635,7 +1635,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2109,
+        "chat": 2124,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1687,7 +1687,7 @@
         "bday2025_support",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-31T22:36:21Z"
+      "lastUpdated": "2025-12-31T23:14:16Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2302,7 +2302,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 256,
+        "chat": 267,
         "sub": 27,
         "points_spent": 1650,
         "screenshot": 1,
@@ -2335,7 +2335,7 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-31T22:35:52Z"
+      "lastUpdated": "2025-12-31T23:19:11Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3123,7 +3123,7 @@
       "counters": {
         "sub": 27,
         "follow": 1,
-        "chat": 51
+        "chat": 52
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3142,9 +3142,10 @@
         "sub_tier1",
         "bday2025_support",
         "bday2025_attend",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
-      "lastUpdated": "2025-11-29T09:28:33Z"
+      "lastUpdated": "2025-12-31T23:19:17Z"
     },
     "conkek": {
       "counters": {
@@ -3227,7 +3228,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 170,
+        "chat": 173,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3245,7 +3246,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-31T22:36:45Z"
+      "lastUpdated": "2025-12-31T23:04:42Z"
     },
     "hero_zappz": {
       "counters": {
@@ -4077,7 +4078,7 @@
         "follow": 1,
         "points_spent": 3501,
         "interactive": 7,
-        "chat": 46
+        "chat": 48
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4091,7 +4092,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T17:00:58Z"
+      "lastUpdated": "2025-12-31T23:12:32Z"
     },
     "carlosgarciatb": {
       "counters": {
@@ -7467,7 +7468,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2025-12-31T22:36:46Z",
+  "lastUpdated": "2025-12-31T23:19:18Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
