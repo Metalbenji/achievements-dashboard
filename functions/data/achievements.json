@@ -1586,7 +1586,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 453,
+        "chat": 454,
         "points_spent": 12400,
         "effects": 14,
         "follow": 1,
@@ -1630,13 +1630,14 @@
         "bits_small",
         "bits_regular",
         "spender_iron",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "night_owl"
       ],
-      "lastUpdated": "2025-12-31T19:13:27Z"
+      "lastUpdated": "2025-12-31T23:26:17Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2125,
+        "chat": 2126,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1688,7 +1689,7 @@
         "bday2025_support",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-31T23:19:46Z"
+      "lastUpdated": "2025-12-31T23:22:07Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3124,7 +3125,7 @@
       "counters": {
         "sub": 27,
         "follow": 1,
-        "chat": 54
+        "chat": 61
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3146,7 +3147,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-31T23:21:26Z"
+      "lastUpdated": "2025-12-31T23:25:56Z"
     },
     "conkek": {
       "counters": {
@@ -7469,7 +7470,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2025-12-31T23:21:35Z",
+  "lastUpdated": "2025-12-31T23:26:18Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
