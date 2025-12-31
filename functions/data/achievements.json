@@ -2340,7 +2340,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2373,
+        "chat": 2381,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2394,7 +2394,7 @@
         "spender_electrum",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-31T19:57:04Z"
+      "lastUpdated": "2025-12-31T20:07:18Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2664,7 +2664,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 114
+        "chat": 115
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2675,7 +2675,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-30T16:51:38Z"
+      "lastUpdated": "2025-12-31T20:00:33Z"
     },
     "gwinniejones": {
       "counters": {
@@ -2839,12 +2839,12 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 679,
-        "points_spent": 31301,
+        "chat": 692,
+        "points_spent": 31401,
         "sounds": 6,
-        "effects": 51,
+        "effects": 52,
         "sub": 45,
-        "bits": 7000,
+        "bits": 8000,
         "interactive": 2,
         "screenshot": 2
       },
@@ -2892,7 +2892,7 @@
         "spender_electrum",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-12-31T19:59:54Z"
+      "lastUpdated": "2025-12-31T20:10:38Z"
     },
     "andilippi": {
       "counters": {
@@ -3082,7 +3082,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1500,
+        "chat": 1530,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3115,7 +3115,7 @@
         "screenshot_first",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-31T20:00:27Z"
+      "lastUpdated": "2025-12-31T20:10:45Z"
     },
     "majesty81": {
       "counters": {
@@ -6641,7 +6641,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 90,
+        "chat": 94,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6653,7 +6653,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-31T19:57:25Z"
+      "lastUpdated": "2025-12-31T20:09:27Z"
     },
     "kikinplays_": {
       "counters": {
@@ -7005,20 +7005,6 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-22T13:05:30Z"
-    },
-    "kjudge92": {
-      "counters": {
-        "follow": 1,
-        "chat": 4,
-        "points_spent": 350,
-        "effects": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "effect_first"
-      ],
-      "lastUpdated": "2025-12-01T19:31:49Z"
     },
     "dlkzyn": {
       "counters": {
@@ -7464,8 +7450,8 @@
       "lastUpdated": "2025-12-30T13:05:24Z"
     }
   },
-  "lastUpdated": "2025-12-31T20:00:28Z",
-  "totalUsers": 367,
+  "lastUpdated": "2025-12-31T20:12:12Z",
+  "totalUsers": 366,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
