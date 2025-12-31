@@ -2149,12 +2149,12 @@
       "counters": {
         "follow": 1,
         "chat": 720,
-        "points_spent": 40807,
+        "points_spent": 41157,
         "interactive": 16,
         "effects": 29,
         "sub": 25,
         "sounds": 3,
-        "screenshot": 1,
+        "screenshot": 2,
         "clips": 1
       },
       "unlockedAchievements": [
@@ -2194,7 +2194,7 @@
         "screenshot_first",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-31T19:49:15Z"
+      "lastUpdated": "2025-12-31T20:31:20Z"
     },
     "redunt86": {
       "counters": {
@@ -2340,7 +2340,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2394,
+        "chat": 2395,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2395,7 +2395,7 @@
         "clip_first",
         "bits_committed"
       ],
-      "lastUpdated": "2025-12-31T20:29:51Z"
+      "lastUpdated": "2025-12-31T20:32:16Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2840,7 +2840,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 699,
+        "chat": 702,
         "points_spent": 32251,
         "sounds": 6,
         "effects": 53,
@@ -2893,7 +2893,7 @@
         "spender_electrum",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-12-31T20:26:00Z"
+      "lastUpdated": "2025-12-31T20:36:24Z"
     },
     "andilippi": {
       "counters": {
@@ -3083,7 +3083,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1530,
+        "chat": 1532,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3116,7 +3116,7 @@
         "screenshot_first",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-31T20:10:45Z"
+      "lastUpdated": "2025-12-31T20:37:05Z"
     },
     "majesty81": {
       "counters": {
@@ -6642,7 +6642,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 101,
         "points_spent": 1200,
         "interactive": 1,
         "screenshot": 2
@@ -6658,7 +6658,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-31T20:30:02Z"
+      "lastUpdated": "2025-12-31T20:31:54Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6774,10 +6774,10 @@
         "bits": 97,
         "follow": 1,
         "sub": 1,
-        "points_spent": 2600,
+        "points_spent": 2950,
         "effects": 1,
         "sounds": 2,
-        "screenshot": 4,
+        "screenshot": 5,
         "clips": 3
       },
       "unlockedAchievements": [
@@ -6797,7 +6797,7 @@
         "screenshot_first",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-31T19:00:07Z"
+      "lastUpdated": "2025-12-31T20:33:57Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7453,10 +7453,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2025-12-30T13:05:24Z"
+    },
+    "mizzy4801": {
+      "counters": {
+        "chat": 5
+      },
+      "unlockedAchievements": [
+        "chat_newbie"
+      ],
+      "lastUpdated": "2025-12-31T20:37:11Z"
     }
   },
-  "lastUpdated": "2025-12-31T20:30:02Z",
-  "totalUsers": 366,
+  "lastUpdated": "2025-12-31T20:37:12Z",
+  "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
