@@ -2340,7 +2340,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2368,
+        "chat": 2373,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2394,7 +2394,7 @@
         "spender_electrum",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-31T19:53:15Z"
+      "lastUpdated": "2025-12-31T19:57:04Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2839,7 +2839,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 677,
+        "chat": 679,
         "points_spent": 31301,
         "sounds": 6,
         "effects": 51,
@@ -2892,7 +2892,7 @@
         "spender_electrum",
         "sub_tier1"
       ],
-      "lastUpdated": "2025-12-30T14:31:09Z"
+      "lastUpdated": "2025-12-31T19:59:54Z"
     },
     "andilippi": {
       "counters": {
@@ -3082,7 +3082,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1493,
+        "chat": 1500,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3112,9 +3112,10 @@
         "chat_dedicated",
         "chat_enthusiast",
         "chat_champion",
-        "screenshot_first"
+        "screenshot_first",
+        "chat_expert"
       ],
-      "lastUpdated": "2025-12-31T19:52:08Z"
+      "lastUpdated": "2025-12-31T20:00:27Z"
     },
     "majesty81": {
       "counters": {
@@ -6640,7 +6641,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 87,
+        "chat": 90,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6652,7 +6653,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-31T19:51:07Z"
+      "lastUpdated": "2025-12-31T19:57:25Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6725,7 +6726,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1149,
+        "chat": 1150,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 25
@@ -6760,7 +6761,7 @@
         "chat_champion",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-30T09:26:35Z"
+      "lastUpdated": "2025-12-31T19:59:51Z"
     },
     "metalbenji": {
       "counters": {
@@ -7313,7 +7314,7 @@
     "chilldude098": {
       "counters": {
         "follow": 1,
-        "chat": 31,
+        "chat": 35,
         "points_spent": 502,
         "interactive": 1
       },
@@ -7326,7 +7327,7 @@
         "chat_conversationalist",
         "interactive_first"
       ],
-      "lastUpdated": "2025-12-31T19:53:18Z"
+      "lastUpdated": "2025-12-31T19:57:25Z"
     },
     "alex_russian92": {
       "counters": {
@@ -7463,7 +7464,7 @@
       "lastUpdated": "2025-12-30T13:05:24Z"
     }
   },
-  "lastUpdated": "2025-12-31T19:53:18Z",
+  "lastUpdated": "2025-12-31T20:00:28Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
