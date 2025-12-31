@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 290,
+        "chat": 291,
         "points_spent": 28700,
         "follow": 1,
         "sub": 18,
@@ -1474,9 +1474,10 @@
         "sub_platinum",
         "effect_first",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "night_owl"
       ],
-      "lastUpdated": "2025-12-30T13:16:24Z"
+      "lastUpdated": "2025-12-31T23:21:35Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1496,7 +1497,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1739,
+        "chat": 1740,
         "points_spent": 35201,
         "effects": 8,
         "sub": 12,
@@ -1547,7 +1548,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-31T23:17:48Z"
+      "lastUpdated": "2025-12-31T23:19:30Z"
     },
     "celran": {
       "counters": {
@@ -1635,7 +1636,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2124,
+        "chat": 2125,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1687,7 +1688,7 @@
         "bday2025_support",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-31T23:14:16Z"
+      "lastUpdated": "2025-12-31T23:19:46Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2302,7 +2303,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 267,
+        "chat": 270,
         "sub": 27,
         "points_spent": 1650,
         "screenshot": 1,
@@ -2335,7 +2336,7 @@
         "sub_diamond",
         "chat_frequent"
       ],
-      "lastUpdated": "2025-12-31T23:19:11Z"
+      "lastUpdated": "2025-12-31T23:21:26Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3084,7 +3085,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1582,
+        "chat": 1583,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3117,13 +3118,13 @@
         "screenshot_first",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-31T21:44:50Z"
+      "lastUpdated": "2025-12-31T23:19:29Z"
     },
     "majesty81": {
       "counters": {
         "sub": 27,
         "follow": 1,
-        "chat": 52
+        "chat": 54
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3145,7 +3146,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2025-12-31T23:19:17Z"
+      "lastUpdated": "2025-12-31T23:21:26Z"
     },
     "conkek": {
       "counters": {
@@ -7468,7 +7469,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2025-12-31T23:19:18Z",
+  "lastUpdated": "2025-12-31T23:21:35Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
