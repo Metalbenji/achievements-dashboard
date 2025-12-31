@@ -3083,7 +3083,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1532,
+        "chat": 1535,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3116,7 +3116,7 @@
         "screenshot_first",
         "chat_expert"
       ],
-      "lastUpdated": "2025-12-31T20:37:05Z"
+      "lastUpdated": "2025-12-31T20:38:10Z"
     },
     "majesty81": {
       "counters": {
@@ -7456,15 +7456,16 @@
     },
     "mizzy4801": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-12-31T20:37:11Z"
+      "lastUpdated": "2025-12-31T20:38:13Z"
     }
   },
-  "lastUpdated": "2025-12-31T20:37:12Z",
+  "lastUpdated": "2025-12-31T20:38:14Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
