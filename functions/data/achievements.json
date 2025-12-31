@@ -1585,9 +1585,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 448,
-        "points_spent": 11600,
-        "effects": 13,
+        "chat": 453,
+        "points_spent": 12400,
+        "effects": 14,
         "follow": 1,
         "sub": 31,
         "sounds": 5,
@@ -1631,7 +1631,7 @@
         "spender_iron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-30T16:51:08Z"
+      "lastUpdated": "2025-12-31T19:13:27Z"
     },
     "ramdon101": {
       "counters": {
@@ -1741,7 +1741,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 352,
+        "chat": 353,
         "follow": 1,
         "sub": 35,
         "points_spent": 95000,
@@ -1776,7 +1776,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T15:19:33Z"
+      "lastUpdated": "2025-12-31T19:14:14Z"
     },
     "scoman07": {
       "counters": {
@@ -1942,7 +1942,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 304,
+        "chat": 312,
         "sub": 10,
         "points_spent": 4
       },
@@ -1967,7 +1967,7 @@
         "sub_champion",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-31T18:54:34Z"
+      "lastUpdated": "2025-12-31T19:04:32Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2339,7 +2339,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2359,
+        "chat": 2360,
         "points_spent": 44650,
         "effects": 8,
         "sub": 42,
@@ -2393,7 +2393,7 @@
         "spender_electrum",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-31T18:54:16Z"
+      "lastUpdated": "2025-12-31T18:55:39Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3081,8 +3081,10 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1459,
-        "sub": 45
+        "chat": 1464,
+        "sub": 45,
+        "points_spent": 350,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3108,9 +3110,10 @@
         "chat_frequent",
         "chat_dedicated",
         "chat_enthusiast",
-        "chat_champion"
+        "chat_champion",
+        "screenshot_first"
       ],
-      "lastUpdated": "2025-12-30T16:22:56Z"
+      "lastUpdated": "2025-12-31T19:15:41Z"
     },
     "majesty81": {
       "counters": {
@@ -6578,7 +6581,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 827,
+        "chat": 835,
         "points_spent": 35803,
         "sounds": 15,
         "effects": 6,
@@ -6622,7 +6625,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T15:53:50Z"
+      "lastUpdated": "2025-12-31T19:05:40Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6636,7 +6639,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 81,
+        "chat": 82,
         "points_spent": 500,
         "interactive": 1
       },
@@ -6648,7 +6651,7 @@
         "interactive_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-30T17:54:11Z"
+      "lastUpdated": "2025-12-31T19:02:52Z"
     },
     "kikinplays_": {
       "counters": {
@@ -6760,7 +6763,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 96,
+        "chat": 97,
         "bits": 97,
         "follow": 1,
         "sub": 1,
@@ -6787,7 +6790,7 @@
         "screenshot_first",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-30T20:04:42Z"
+      "lastUpdated": "2025-12-31T19:00:07Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7457,7 +7460,7 @@
       "lastUpdated": "2025-12-30T13:05:24Z"
     }
   },
-  "lastUpdated": "2025-12-31T18:54:49Z",
+  "lastUpdated": "2025-12-31T19:15:42Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
