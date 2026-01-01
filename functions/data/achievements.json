@@ -1497,7 +1497,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1742,
+        "chat": 1743,
         "points_spent": 35201,
         "effects": 8,
         "sub": 12,
@@ -1546,9 +1546,10 @@
         "bday2025_support",
         "follow_supporter",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T23:51:18Z"
+      "lastUpdated": "2026-01-01T00:03:05Z"
     },
     "celran": {
       "counters": {
@@ -2152,7 +2153,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 723,
+        "chat": 724,
         "points_spent": 42207,
         "interactive": 16,
         "effects": 29,
@@ -2199,7 +2200,7 @@
         "clip_first",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:02:22Z"
+      "lastUpdated": "2026-01-01T00:03:01Z"
     },
     "redunt86": {
       "counters": {
@@ -7478,7 +7479,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:02:42Z",
+  "lastUpdated": "2026-01-01T00:03:06Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
