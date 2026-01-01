@@ -2578,7 +2578,7 @@
         "points_spent": 10700,
         "effects": 27,
         "follow": 1,
-        "chat": 130,
+        "chat": 131,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -2597,9 +2597,10 @@
         "chat_regular",
         "spender_silver",
         "effect_master",
-        "spender_iron"
+        "spender_iron",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-28T18:00:06Z"
+      "lastUpdated": "2026-01-01T00:00:23Z"
     },
     "s3n71": {
       "counters": {
@@ -7472,7 +7473,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:00:22Z",
+  "lastUpdated": "2026-01-01T00:00:24Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
