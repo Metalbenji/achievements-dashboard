@@ -7440,7 +7440,8 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "early_bird"
       ],
       "lastUpdated": "2026-01-01T00:24:26Z"
     },
@@ -7491,7 +7492,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:24:27Z",
+  "lastUpdated": "2026-01-01T00:24:28Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
