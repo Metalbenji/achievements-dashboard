@@ -2101,7 +2101,7 @@
     "anzerou": {
       "counters": {
         "follow": 1,
-        "chat": 35,
+        "chat": 36,
         "points_spent": 602,
         "sub": 13,
         "effects": 1,
@@ -2123,9 +2123,10 @@
         "sub_champion",
         "effect_first",
         "sound_first",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "early_bird"
       ],
-      "lastUpdated": "2025-11-16T14:06:51Z"
+      "lastUpdated": "2026-01-01T00:03:06Z"
     },
     "stevenbonk": {
       "counters": {
@@ -7479,7 +7480,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:03:06Z",
+  "lastUpdated": "2026-01-01T00:03:07Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
