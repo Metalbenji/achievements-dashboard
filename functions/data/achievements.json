@@ -1637,7 +1637,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2143,
+        "chat": 2144,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1687,9 +1687,10 @@
         "interactive_first",
         "bday2025_attend",
         "bday2025_support",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T23:59:35Z"
+      "lastUpdated": "2026-01-01T00:00:45Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -7473,7 +7474,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:00:24Z",
+  "lastUpdated": "2026-01-01T00:00:46Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
