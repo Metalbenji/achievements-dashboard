@@ -3577,7 +3577,7 @@
       "counters": {
         "sub": 35,
         "follow": 1,
-        "chat": 405,
+        "chat": 406,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3605,7 +3605,7 @@
         "chat_dedicated",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:14:06Z"
+      "lastUpdated": "2026-01-01T00:14:43Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -6177,7 +6177,7 @@
     "betrayaleu": {
       "counters": {
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -6186,9 +6186,10 @@
         "chat_newbie",
         "chat_talker",
         "first_caller",
-        "early_bird"
+        "early_bird",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-01T00:14:35Z"
+      "lastUpdated": "2026-01-01T00:15:02Z"
     },
     "supra124": {
       "counters": {
@@ -7487,7 +7488,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:14:35Z",
+  "lastUpdated": "2026-01-01T00:15:03Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
