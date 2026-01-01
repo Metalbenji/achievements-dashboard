@@ -2354,7 +2354,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2430,
+        "chat": 2442,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2410,7 +2410,7 @@
         "bits_committed",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:38:57Z"
+      "lastUpdated": "2026-01-01T13:07:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2526,7 +2526,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 185,
+        "chat": 187,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 34
@@ -2555,7 +2555,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2025-12-30T10:41:15Z"
+      "lastUpdated": "2026-01-01T12:58:59Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2857,7 +2857,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 719,
+        "chat": 729,
         "points_spent": 33051,
         "sounds": 6,
         "effects": 54,
@@ -2911,7 +2911,7 @@
         "sub_tier1",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:17:56Z"
+      "lastUpdated": "2026-01-01T13:07:04Z"
     },
     "andilippi": {
       "counters": {
@@ -6217,9 +6217,9 @@
     },
     "hm_pete": {
       "counters": {
-        "points_spent": 21233,
+        "points_spent": 21234,
         "special_rewards": 1,
-        "chat": 258,
+        "chat": 259,
         "effects": 3,
         "follow": 1,
         "sub": 13
@@ -6251,7 +6251,7 @@
         "sub_tier1",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T20:02:14Z"
+      "lastUpdated": "2026-01-01T12:28:57Z"
     },
     "otocar": {
       "counters": {
@@ -6756,10 +6756,11 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1151,
+        "chat": 1157,
         "points_spent": 20101,
         "sounds": 2,
-        "sub": 25
+        "sub": 25,
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6789,9 +6790,10 @@
         "chat_enthusiast",
         "night_owl",
         "chat_champion",
-        "spender_iron"
+        "spender_iron",
+        "clip_first"
       ],
-      "lastUpdated": "2025-12-31T23:59:36Z"
+      "lastUpdated": "2026-01-01T13:08:45Z"
     },
     "metalbenji": {
       "counters": {
@@ -7519,7 +7521,7 @@
       "lastUpdated": "2026-01-01T00:40:25Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:40:26Z",
+  "lastUpdated": "2026-01-01T13:08:46Z",
   "totalUsers": 370,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
