@@ -1844,7 +1844,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 385,
+        "chat": 386,
         "points_spent": 15351,
         "interactive": 1,
         "effects": 17,
@@ -1881,9 +1881,10 @@
         "chat_dedicated",
         "spender_silver",
         "emperor_loyal",
-        "spender_iron"
+        "spender_iron",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T21:47:16Z"
+      "lastUpdated": "2026-01-01T00:14:16Z"
     },
     "tawmae": {
       "counters": {
@@ -2104,7 +2105,7 @@
     "anzerou": {
       "counters": {
         "follow": 1,
-        "chat": 40,
+        "chat": 41,
         "points_spent": 602,
         "sub": 13,
         "effects": 1,
@@ -2129,7 +2130,7 @@
         "chat_conversationalist",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:13:38Z"
+      "lastUpdated": "2026-01-01T00:14:10Z"
     },
     "stevenbonk": {
       "counters": {
@@ -7485,7 +7486,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:14:06Z",
+  "lastUpdated": "2026-01-01T00:14:17Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
