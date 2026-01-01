@@ -7499,10 +7499,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-01-01T00:40:22Z"
+    },
+    "lxrd_elyixn": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-01-01T00:40:24Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:40:24Z",
-  "totalUsers": 368,
+  "lastUpdated": "2026-01-01T00:40:25Z",
+  "totalUsers": 369,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
