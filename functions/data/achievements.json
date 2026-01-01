@@ -1497,7 +1497,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1746,
+        "chat": 1747,
         "points_spent": 35201,
         "effects": 8,
         "sub": 12,
@@ -1549,7 +1549,7 @@
         "spender_electrum",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:21:11Z"
+      "lastUpdated": "2026-01-01T00:39:05Z"
     },
     "celran": {
       "counters": {
@@ -1639,7 +1639,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2162,
+        "chat": 2164,
         "points_spent": 129451,
         "screenshot": 1,
         "follow": 1,
@@ -1694,11 +1694,11 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-01T00:22:24Z"
+      "lastUpdated": "2026-01-01T00:39:01Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1570,
+        "chat": 1573,
         "points_spent": 49701,
         "interactive": 32,
         "follow": 1,
@@ -1745,7 +1745,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:21:29Z"
+      "lastUpdated": "2026-01-01T00:39:36Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2315,7 +2315,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 274,
+        "chat": 275,
         "sub": 27,
         "points_spent": 1650,
         "screenshot": 1,
@@ -2349,12 +2349,12 @@
         "chat_frequent",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:04:30Z"
+      "lastUpdated": "2026-01-01T00:39:09Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2426,
+        "chat": 2430,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2410,7 +2410,7 @@
         "bits_committed",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:19:15Z"
+      "lastUpdated": "2026-01-01T00:38:57Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3579,7 +3579,7 @@
       "counters": {
         "sub": 35,
         "follow": 1,
-        "chat": 407,
+        "chat": 408,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3607,7 +3607,7 @@
         "chat_dedicated",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:15:12Z"
+      "lastUpdated": "2026-01-01T00:38:53Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -6179,7 +6179,7 @@
     "betrayaleu": {
       "counters": {
         "follow": 1,
-        "chat": 28,
+        "chat": 29,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -6191,7 +6191,7 @@
         "early_bird",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-01T00:15:28Z"
+      "lastUpdated": "2026-01-01T00:38:53Z"
     },
     "supra124": {
       "counters": {
@@ -7490,10 +7490,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2025-12-31T20:42:10Z"
+    },
+    "detectiveji": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-01-01T00:40:22Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:24:28Z",
-  "totalUsers": 367,
+  "lastUpdated": "2026-01-01T00:40:24Z",
+  "totalUsers": 368,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
