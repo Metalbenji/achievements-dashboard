@@ -1952,7 +1952,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 312,
+        "chat": 313,
         "sub": 10,
         "points_spent": 4
       },
@@ -1975,9 +1975,10 @@
         "sub_veteran",
         "first_caller",
         "sub_champion",
-        "chat_dedicated"
+        "chat_dedicated",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T19:04:32Z"
+      "lastUpdated": "2026-01-01T00:15:06Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -7488,7 +7489,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:15:03Z",
+  "lastUpdated": "2026-01-01T00:15:07Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
