@@ -2152,7 +2152,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 722,
+        "chat": 723,
         "points_spent": 41857,
         "interactive": 16,
         "effects": 29,
@@ -2196,9 +2196,10 @@
         "spender_iron",
         "spender_electrum",
         "screenshot_first",
-        "clip_first"
+        "clip_first",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T23:59:59Z"
+      "lastUpdated": "2026-01-01T00:00:55Z"
     },
     "redunt86": {
       "counters": {
@@ -7476,7 +7477,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:00:54Z",
+  "lastUpdated": "2026-01-01T00:00:56Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
