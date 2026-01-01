@@ -1587,7 +1587,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 484,
+        "chat": 486,
         "points_spent": 18000,
         "effects": 17,
         "follow": 1,
@@ -1635,11 +1635,11 @@
         "night_owl",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:12:38Z"
+      "lastUpdated": "2026-01-01T00:14:00Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2151,
+        "chat": 2153,
         "points_spent": 109451,
         "screenshot": 1,
         "follow": 1,
@@ -1647,7 +1647,8 @@
         "sounds": 6,
         "effects": 9,
         "interactive": 1,
-        "raid": 2
+        "raid": 2,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -1690,9 +1691,10 @@
         "bday2025_attend",
         "bday2025_support",
         "raid_tier1_captain",
-        "early_bird"
+        "early_bird",
+        "gift_starter"
       ],
-      "lastUpdated": "2026-01-01T00:12:01Z"
+      "lastUpdated": "2026-01-01T00:14:04Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2102,7 +2104,7 @@
     "anzerou": {
       "counters": {
         "follow": 1,
-        "chat": 39,
+        "chat": 40,
         "points_spent": 602,
         "sub": 13,
         "effects": 1,
@@ -2127,7 +2129,7 @@
         "chat_conversationalist",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:05:33Z"
+      "lastUpdated": "2026-01-01T00:13:38Z"
     },
     "stevenbonk": {
       "counters": {
@@ -3096,7 +3098,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1588,
+        "chat": 1590,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3130,7 +3132,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:04:01Z"
+      "lastUpdated": "2026-01-01T00:13:34Z"
     },
     "majesty81": {
       "counters": {
@@ -3574,7 +3576,7 @@
       "counters": {
         "sub": 35,
         "follow": 1,
-        "chat": 404,
+        "chat": 405,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3599,9 +3601,10 @@
         "effect_first",
         "chat_regular",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-20T09:44:58Z"
+      "lastUpdated": "2026-01-01T00:14:06Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -7482,7 +7485,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:13:07Z",
+  "lastUpdated": "2026-01-01T00:14:06Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
