@@ -2153,12 +2153,12 @@
       "counters": {
         "follow": 1,
         "chat": 723,
-        "points_spent": 41857,
+        "points_spent": 42207,
         "interactive": 16,
         "effects": 29,
         "sub": 25,
         "sounds": 3,
-        "screenshot": 4,
+        "screenshot": 5,
         "clips": 2
       },
       "unlockedAchievements": [
@@ -2199,7 +2199,7 @@
         "clip_first",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:00:55Z"
+      "lastUpdated": "2026-01-01T00:02:22Z"
     },
     "redunt86": {
       "counters": {
@@ -2307,7 +2307,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 272,
+        "chat": 273,
         "sub": 27,
         "points_spent": 1650,
         "screenshot": 1,
@@ -2338,14 +2338,15 @@
         "spender_bronze",
         "effect_first",
         "sub_diamond",
-        "chat_frequent"
+        "chat_frequent",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T23:47:33Z"
+      "lastUpdated": "2026-01-01T00:02:41Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2422,
+        "chat": 2424,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2401,7 +2402,7 @@
         "bits_committed",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:00:53Z"
+      "lastUpdated": "2026-01-01T00:01:30Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7477,7 +7478,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:00:56Z",
+  "lastUpdated": "2026-01-01T00:02:42Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
