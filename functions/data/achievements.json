@@ -1588,11 +1588,11 @@
     "miromaaldis": {
       "counters": {
         "chat": 477,
-        "points_spent": 15200,
+        "points_spent": 17200,
         "effects": 16,
         "follow": 1,
         "sub": 31,
-        "sounds": 7,
+        "sounds": 8,
         "screenshot": 2,
         "interactive": 2,
         "bits": 100,
@@ -1635,7 +1635,7 @@
         "night_owl",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:00:51Z"
+      "lastUpdated": "2026-01-01T00:03:08Z"
     },
     "ramdon101": {
       "counters": {
@@ -3095,7 +3095,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1587,
+        "chat": 1588,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3126,9 +3126,10 @@
         "chat_enthusiast",
         "chat_champion",
         "screenshot_first",
-        "chat_expert"
+        "chat_expert",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T23:55:29Z"
+      "lastUpdated": "2026-01-01T00:04:01Z"
     },
     "majesty81": {
       "counters": {
@@ -7480,7 +7481,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:03:07Z",
+  "lastUpdated": "2026-01-01T00:04:02Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
