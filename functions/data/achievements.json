@@ -1698,7 +1698,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1561,
+        "chat": 1562,
         "points_spent": 49701,
         "interactive": 32,
         "follow": 1,
@@ -1742,9 +1742,10 @@
         "first_caller",
         "spender_iron",
         "spender_electrum",
-        "chat_expert"
+        "chat_expert",
+        "early_bird"
       ],
-      "lastUpdated": "2025-12-31T23:57:00Z"
+      "lastUpdated": "2026-01-01T00:16:31Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1844,7 +1845,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 386,
+        "chat": 388,
         "points_spent": 15351,
         "interactive": 1,
         "effects": 17,
@@ -1884,7 +1885,7 @@
         "spender_iron",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:14:16Z"
+      "lastUpdated": "2026-01-01T00:16:09Z"
     },
     "tawmae": {
       "counters": {
@@ -1952,7 +1953,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 313,
+        "chat": 314,
         "sub": 10,
         "points_spent": 4
       },
@@ -1978,7 +1979,7 @@
         "chat_dedicated",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:15:06Z"
+      "lastUpdated": "2026-01-01T00:16:14Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -3578,7 +3579,7 @@
       "counters": {
         "sub": 35,
         "follow": 1,
-        "chat": 406,
+        "chat": 407,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3606,7 +3607,7 @@
         "chat_dedicated",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T00:14:43Z"
+      "lastUpdated": "2026-01-01T00:15:12Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -6178,7 +6179,7 @@
     "betrayaleu": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 28,
         "points_spent": 1
       },
       "unlockedAchievements": [
@@ -6190,7 +6191,7 @@
         "early_bird",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-01T00:15:02Z"
+      "lastUpdated": "2026-01-01T00:15:28Z"
     },
     "supra124": {
       "counters": {
@@ -7489,7 +7490,7 @@
       "lastUpdated": "2025-12-31T20:42:10Z"
     }
   },
-  "lastUpdated": "2026-01-01T00:15:07Z",
+  "lastUpdated": "2026-01-01T00:16:32Z",
   "totalUsers": 367,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
