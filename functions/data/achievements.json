@@ -2486,7 +2486,7 @@
       "counters": {
         "follow": 1,
         "chat": 124,
-        "points_spent": 2351,
+        "points_spent": 12351,
         "screenshot": 1,
         "sounds": 1
       },
@@ -2500,9 +2500,10 @@
         "screenshot_first",
         "chat_regular",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-01-03T12:53:56Z"
+      "lastUpdated": "2026-01-03T12:59:22Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3341,7 +3342,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1196,
+        "chat": 1198,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3372,7 +3373,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-03T12:47:27Z"
+      "lastUpdated": "2026-01-03T12:59:13Z"
     },
     "roffelonator": {
       "counters": {
@@ -7537,7 +7538,7 @@
       "lastUpdated": "2026-01-03T09:48:34Z"
     }
   },
-  "lastUpdated": "2026-01-03T12:53:57Z",
+  "lastUpdated": "2026-01-03T12:59:23Z",
   "totalUsers": 371,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
