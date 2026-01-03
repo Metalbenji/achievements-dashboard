@@ -2417,7 +2417,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 98
+        "chat": 99
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2428,7 +2428,7 @@
         "bday2025_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-29T15:40:36Z"
+      "lastUpdated": "2026-01-03T13:11:28Z"
     },
     "ke1fire": {
       "counters": {
@@ -2485,10 +2485,10 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 124,
+        "chat": 127,
         "points_spent": 12351,
         "screenshot": 1,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2501,9 +2501,10 @@
         "chat_regular",
         "spender_bronze",
         "sound_first",
-        "spender_iron"
+        "spender_iron",
+        "spender_silver"
       ],
-      "lastUpdated": "2026-01-03T12:59:22Z"
+      "lastUpdated": "2026-01-03T13:00:40Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2532,7 +2533,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 187,
+        "chat": 189,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 34
@@ -2561,7 +2562,7 @@
         "sub_diamond",
         "sub_elite"
       ],
-      "lastUpdated": "2026-01-01T12:58:59Z"
+      "lastUpdated": "2026-01-03T13:00:03Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3342,7 +3343,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1198,
+        "chat": 1199,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3373,7 +3374,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-03T12:59:13Z"
+      "lastUpdated": "2026-01-03T13:00:24Z"
     },
     "roffelonator": {
       "counters": {
@@ -4367,7 +4368,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 390,
+        "chat": 394,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4384,7 +4385,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-01T16:18:36Z"
+      "lastUpdated": "2026-01-03T13:11:04Z"
     },
     "gabriel245658": {
       "counters": {
@@ -7538,7 +7539,7 @@
       "lastUpdated": "2026-01-03T09:48:34Z"
     }
   },
-  "lastUpdated": "2026-01-03T12:59:23Z",
+  "lastUpdated": "2026-01-03T13:13:52Z",
   "totalUsers": 371,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
