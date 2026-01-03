@@ -1497,7 +1497,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1758,
+        "chat": 1760,
         "points_spent": 35201,
         "effects": 8,
         "sub": 12,
@@ -1549,7 +1549,7 @@
         "spender_electrum",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-01T16:34:39Z"
+      "lastUpdated": "2026-01-03T14:18:34Z"
     },
     "celran": {
       "counters": {
@@ -2356,7 +2356,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2500,
+        "chat": 2501,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2412,7 +2412,7 @@
         "bits_committed",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-03T14:11:44Z"
+      "lastUpdated": "2026-01-03T14:19:10Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2864,7 +2864,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 751,
+        "chat": 752,
         "points_spent": 35551,
         "sounds": 7,
         "effects": 59,
@@ -2919,7 +2919,7 @@
         "early_bird",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-03T14:13:11Z"
+      "lastUpdated": "2026-01-03T14:18:56Z"
     },
     "andilippi": {
       "counters": {
@@ -3109,7 +3109,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1630,
+        "chat": 1632,
         "sub": 45,
         "points_spent": 350,
         "screenshot": 1
@@ -3143,7 +3143,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-03T12:25:44Z"
+      "lastUpdated": "2026-01-03T14:19:12Z"
     },
     "majesty81": {
       "counters": {
@@ -3344,7 +3344,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1207,
+        "chat": 1208,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3375,7 +3375,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-03T14:14:08Z"
+      "lastUpdated": "2026-01-03T14:17:59Z"
     },
     "roffelonator": {
       "counters": {
@@ -7545,17 +7545,18 @@
     "dillisan": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-01-03T14:14:55Z"
+      "lastUpdated": "2026-01-03T14:19:15Z"
     }
   },
-  "lastUpdated": "2026-01-03T14:14:56Z",
+  "lastUpdated": "2026-01-03T14:19:16Z",
   "totalUsers": 372,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
