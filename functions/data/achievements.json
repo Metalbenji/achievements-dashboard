@@ -2487,7 +2487,8 @@
         "follow": 1,
         "chat": 124,
         "points_spent": 2351,
-        "screenshot": 1
+        "screenshot": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2498,9 +2499,10 @@
         "chat_conversationalist",
         "screenshot_first",
         "chat_regular",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2026-01-03T12:53:54Z"
+      "lastUpdated": "2026-01-03T12:53:56Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -7535,7 +7537,7 @@
       "lastUpdated": "2026-01-03T09:48:34Z"
     }
   },
-  "lastUpdated": "2026-01-03T12:53:55Z",
+  "lastUpdated": "2026-01-03T12:53:57Z",
   "totalUsers": 371,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
