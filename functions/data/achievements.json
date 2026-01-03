@@ -2356,7 +2356,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2479,
+        "chat": 2480,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2412,7 +2412,7 @@
         "bits_committed",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-03T08:45:29Z"
+      "lastUpdated": "2026-01-03T08:47:19Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7304,7 +7304,7 @@
     },
     "mrblue1426": {
       "counters": {
-        "chat": 24,
+        "chat": 25,
         "follow": 1,
         "points_spent": 100,
         "sounds": 1
@@ -7315,9 +7315,10 @@
         "chat_newbie",
         "chat_talker",
         "sound_first",
-        "night_owl"
+        "night_owl",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-28T10:32:08Z"
+      "lastUpdated": "2026-01-03T08:58:22Z"
     },
     "khaedotv": {
       "counters": {
@@ -7523,7 +7524,7 @@
       "lastUpdated": "2026-01-01T00:40:25Z"
     }
   },
-  "lastUpdated": "2026-01-03T08:46:05Z",
+  "lastUpdated": "2026-01-03T08:58:22Z",
   "totalUsers": 370,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
