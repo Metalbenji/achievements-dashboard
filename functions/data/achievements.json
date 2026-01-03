@@ -2356,7 +2356,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2493,
+        "chat": 2494,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2412,7 +2412,7 @@
         "bits_committed",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-03T12:16:27Z"
+      "lastUpdated": "2026-01-03T13:24:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2989,7 +2989,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 969,
+        "chat": 972,
         "points_spent": 8350,
         "sounds": 4,
         "clips": 1,
@@ -3012,7 +3012,7 @@
         "clip_first",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-01-03T11:34:21Z"
+      "lastUpdated": "2026-01-03T13:32:09Z"
     },
     "maximusis_": {
       "counters": {
@@ -7166,7 +7166,7 @@
     },
     "knotthenameless": {
       "counters": {
-        "chat": 25,
+        "chat": 38,
         "follow": 1,
         "raid": 1
       },
@@ -7178,7 +7178,7 @@
         "raid_tier1_captain",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-03T13:19:58Z"
+      "lastUpdated": "2026-01-03T13:41:39Z"
     },
     "saintthizz": {
       "counters": {
@@ -7540,10 +7540,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-01-03T09:48:34Z"
+    },
+    "dillisan": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-01-03T13:44:16Z"
     }
   },
-  "lastUpdated": "2026-01-03T13:19:58Z",
-  "totalUsers": 371,
+  "lastUpdated": "2026-01-03T13:44:17Z",
+  "totalUsers": 372,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
