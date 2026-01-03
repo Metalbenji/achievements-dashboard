@@ -2864,7 +2864,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 750,
+        "chat": 751,
         "points_spent": 35551,
         "sounds": 7,
         "effects": 59,
@@ -2919,7 +2919,7 @@
         "early_bird",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-03T14:12:56Z"
+      "lastUpdated": "2026-01-03T14:13:11Z"
     },
     "andilippi": {
       "counters": {
@@ -3344,7 +3344,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1206,
+        "chat": 1207,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3375,7 +3375,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-03T14:09:39Z"
+      "lastUpdated": "2026-01-03T14:14:08Z"
     },
     "roffelonator": {
       "counters": {
@@ -7545,16 +7545,17 @@
     "dillisan": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-01-03T14:12:29Z"
+      "lastUpdated": "2026-01-03T14:14:55Z"
     }
   },
-  "lastUpdated": "2026-01-03T14:12:57Z",
+  "lastUpdated": "2026-01-03T14:14:56Z",
   "totalUsers": 372,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
