@@ -2356,7 +2356,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2494,
+        "chat": 2500,
         "points_spent": 45100,
         "effects": 8,
         "sub": 42,
@@ -2412,7 +2412,7 @@
         "bits_committed",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-03T13:24:49Z"
+      "lastUpdated": "2026-01-03T14:11:44Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2864,10 +2864,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 744,
-        "points_spent": 35201,
+        "chat": 750,
+        "points_spent": 35551,
         "sounds": 7,
-        "effects": 58,
+        "effects": 59,
         "sub": 45,
         "bits": 9000,
         "interactive": 2,
@@ -2916,9 +2916,10 @@
         "spender_iron",
         "spender_electrum",
         "sub_tier1",
-        "early_bird"
+        "early_bird",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-03T10:42:16Z"
+      "lastUpdated": "2026-01-03T14:12:56Z"
     },
     "andilippi": {
       "counters": {
@@ -3253,7 +3254,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 178,
+        "chat": 179,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3271,7 +3272,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-01-03T11:40:39Z"
+      "lastUpdated": "2026-01-03T13:44:42Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3343,7 +3344,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1199,
+        "chat": 1206,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3374,7 +3375,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-03T13:00:24Z"
+      "lastUpdated": "2026-01-03T14:09:39Z"
     },
     "roffelonator": {
       "counters": {
@@ -7264,7 +7265,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 798,
+        "chat": 801,
         "follow": 1,
         "points_spent": 10551,
         "screenshot": 1,
@@ -7300,7 +7301,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-31T23:48:22Z"
+      "lastUpdated": "2026-01-03T14:11:56Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7544,16 +7545,16 @@
     "dillisan": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-01-03T13:44:17Z"
+      "lastUpdated": "2026-01-03T14:12:29Z"
     }
   },
-  "lastUpdated": "2026-01-03T13:44:18Z",
+  "lastUpdated": "2026-01-03T14:12:57Z",
   "totalUsers": 372,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
