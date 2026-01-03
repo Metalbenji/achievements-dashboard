@@ -1417,7 +1417,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 375,
+        "chat": 379,
         "follow": 1,
         "points_spent": 20002,
         "sounds": 1
@@ -1439,7 +1439,7 @@
         "first_caller",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-01T16:18:22Z"
+      "lastUpdated": "2026-01-03T09:20:20Z"
     },
     "itzsilvah": {
       "counters": {
@@ -1587,7 +1587,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 488,
+        "chat": 490,
         "points_spent": 18000,
         "effects": 17,
         "follow": 1,
@@ -1637,11 +1637,11 @@
         "early_bird",
         "clip_first"
       ],
-      "lastUpdated": "2026-01-03T08:46:03Z"
+      "lastUpdated": "2026-01-03T09:20:37Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2181,
+        "chat": 2185,
         "points_spent": 129451,
         "screenshot": 1,
         "follow": 1,
@@ -1696,7 +1696,7 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-03T08:44:21Z"
+      "lastUpdated": "2026-01-03T09:46:08Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1911,7 +1911,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 224,
+        "chat": 228,
         "sub": 4,
         "points_spent": 4000,
         "sounds": 2
@@ -1933,7 +1933,7 @@
         "sub_dedicated",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-01-01T17:01:15Z"
+      "lastUpdated": "2026-01-03T09:46:40Z"
     },
     "sealdancer": {
       "counters": {
@@ -2247,7 +2247,7 @@
       "counters": {
         "points_spent": 60052,
         "follow": 1,
-        "chat": 700,
+        "chat": 701,
         "effects": 65,
         "screenshot": 3,
         "sounds": 5,
@@ -2299,7 +2299,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T20:43:09Z"
+      "lastUpdated": "2026-01-03T09:33:17Z"
     },
     "syn__________": {
       "counters": {
@@ -7304,7 +7304,7 @@
     },
     "mrblue1426": {
       "counters": {
-        "chat": 25,
+        "chat": 44,
         "follow": 1,
         "points_spent": 100,
         "sounds": 1
@@ -7318,7 +7318,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-03T08:58:22Z"
+      "lastUpdated": "2026-01-03T09:40:17Z"
     },
     "khaedotv": {
       "counters": {
@@ -7522,10 +7522,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-01-01T00:40:25Z"
+    },
+    "mauri": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-01-03T09:48:34Z"
     }
   },
-  "lastUpdated": "2026-01-03T08:58:22Z",
-  "totalUsers": 370,
+  "lastUpdated": "2026-01-03T09:48:35Z",
+  "totalUsers": 371,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
