@@ -7154,7 +7154,7 @@
     },
     "bittersweetraz": {
       "counters": {
-        "chat": 6,
+        "chat": 7,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7162,20 +7162,23 @@
         "chat_newbie",
         "follow_supporter"
       ],
-      "lastUpdated": "2025-12-20T11:37:24Z"
+      "lastUpdated": "2026-01-03T13:14:36Z"
     },
     "knotthenameless": {
       "counters": {
-        "chat": 20,
-        "follow": 1
+        "chat": 25,
+        "follow": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "raid_tier1_captain",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2025-12-20T11:43:53Z"
+      "lastUpdated": "2026-01-03T13:19:58Z"
     },
     "saintthizz": {
       "counters": {
@@ -7539,7 +7542,7 @@
       "lastUpdated": "2026-01-03T09:48:34Z"
     }
   },
-  "lastUpdated": "2026-01-03T13:13:52Z",
+  "lastUpdated": "2026-01-03T13:19:58Z",
   "totalUsers": 371,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
