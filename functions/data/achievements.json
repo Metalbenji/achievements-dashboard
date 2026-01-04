@@ -1911,7 +1911,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 232,
+        "chat": 233,
         "sub": 4,
         "points_spent": 4000,
         "sounds": 2
@@ -1933,7 +1933,7 @@
         "sub_dedicated",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-01-03T14:21:56Z"
+      "lastUpdated": "2026-01-04T10:21:34Z"
     },
     "sealdancer": {
       "counters": {
@@ -2864,7 +2864,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 756,
+        "chat": 757,
         "points_spent": 36051,
         "sounds": 7,
         "effects": 60,
@@ -2919,7 +2919,7 @@
         "early_bird",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-03T16:31:34Z"
+      "lastUpdated": "2026-01-04T10:21:35Z"
     },
     "andilippi": {
       "counters": {
@@ -3110,7 +3110,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1646,
+        "chat": 1649,
         "sub": 46,
         "points_spent": 350,
         "screenshot": 1
@@ -3144,7 +3144,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-04T09:42:51Z"
+      "lastUpdated": "2026-01-04T10:29:51Z"
     },
     "majesty81": {
       "counters": {
@@ -3345,7 +3345,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1238,
+        "chat": 1256,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3376,7 +3376,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-04T10:11:22Z"
+      "lastUpdated": "2026-01-04T10:39:36Z"
     },
     "roffelonator": {
       "counters": {
@@ -6766,7 +6766,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1188,
+        "chat": 1202,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 25,
@@ -6803,7 +6803,7 @@
         "spender_iron",
         "clip_first"
       ],
-      "lastUpdated": "2026-01-04T10:06:30Z"
+      "lastUpdated": "2026-01-04T10:35:07Z"
     },
     "metalbenji": {
       "counters": {
@@ -7558,18 +7558,27 @@
     },
     "tidersky": {
       "counters": {
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-01-04T10:13:44Z"
+      "lastUpdated": "2026-01-04T10:14:07Z"
+    },
+    "brandonkv": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-01-04T10:40:20Z"
     }
   },
-  "lastUpdated": "2026-01-04T10:13:45Z",
-  "totalUsers": 373,
+  "lastUpdated": "2026-01-04T10:40:21Z",
+  "totalUsers": 374,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
