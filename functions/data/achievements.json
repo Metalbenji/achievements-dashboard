@@ -1701,7 +1701,7 @@
     "marcusmaximi": {
       "counters": {
         "chat": 1597,
-        "points_spent": 49701,
+        "points_spent": 50201,
         "interactive": 32,
         "follow": 1,
         "sub": 37,
@@ -1745,9 +1745,10 @@
         "spender_iron",
         "spender_electrum",
         "chat_expert",
-        "early_bird"
+        "early_bird",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-01-10T12:30:46Z"
+      "lastUpdated": "2026-01-10T12:45:25Z"
     },
     "aladderinsane": {
       "counters": {
@@ -7595,15 +7596,15 @@
     },
     "the_bearded_ginge": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-01-10T12:44:19Z"
+      "lastUpdated": "2026-01-10T12:44:58Z"
     }
   },
-  "lastUpdated": "2026-01-10T12:44:20Z",
+  "lastUpdated": "2026-01-10T12:45:26Z",
   "totalUsers": 376,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
