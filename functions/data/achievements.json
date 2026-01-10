@@ -7596,16 +7596,18 @@
     },
     "the_bearded_ginge": {
       "counters": {
-        "chat": 5
+        "chat": 8,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-01-10T12:46:22Z"
+      "lastUpdated": "2026-01-10T12:47:50Z"
     }
   },
-  "lastUpdated": "2026-01-10T12:46:22Z",
+  "lastUpdated": "2026-01-10T12:47:50Z",
   "totalUsers": 376,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
