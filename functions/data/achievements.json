@@ -4376,7 +4376,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 428,
+        "chat": 429,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4393,7 +4393,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-10T12:43:05Z"
+      "lastUpdated": "2026-01-10T12:57:00Z"
     },
     "gabriel245658": {
       "counters": {
@@ -7596,19 +7596,20 @@
     },
     "the_bearded_ginge": {
       "counters": {
-        "chat": 10,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "follow_supporter",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-10T12:48:47Z"
+      "lastUpdated": "2026-01-10T13:06:59Z"
     }
   },
-  "lastUpdated": "2026-01-10T12:48:48Z",
+  "lastUpdated": "2026-01-10T13:07:00Z",
   "totalUsers": 376,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
