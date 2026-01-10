@@ -2867,7 +2867,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 778,
+        "chat": 781,
         "points_spent": 41501,
         "sounds": 7,
         "effects": 65,
@@ -2922,7 +2922,7 @@
         "early_bird",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-04T16:07:24Z"
+      "lastUpdated": "2026-01-10T10:09:42Z"
     },
     "andilippi": {
       "counters": {
@@ -3113,7 +3113,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1755,
+        "chat": 1757,
         "sub": 46,
         "points_spent": 350,
         "screenshot": 1
@@ -3147,7 +3147,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-10T08:52:53Z"
+      "lastUpdated": "2026-01-10T10:07:25Z"
     },
     "majesty81": {
       "counters": {
@@ -6769,7 +6769,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1223,
+        "chat": 1224,
         "points_spent": 20101,
         "sounds": 2,
         "sub": 25,
@@ -6806,11 +6806,11 @@
         "spender_iron",
         "clip_first"
       ],
-      "lastUpdated": "2026-01-10T10:00:06Z"
+      "lastUpdated": "2026-01-10T10:00:25Z"
     },
     "metalbenji": {
       "counters": {
-        "chat": 97,
+        "chat": 99,
         "bits": 97,
         "follow": 1,
         "sub": 1,
@@ -6837,7 +6837,7 @@
         "screenshot_first",
         "clip_first"
       ],
-      "lastUpdated": "2025-12-31T21:45:42Z"
+      "lastUpdated": "2026-01-10T10:04:05Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7581,15 +7581,17 @@
     },
     "ghostzyts": {
       "counters": {
-        "chat": 1
+        "chat": 4,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-01-10T10:00:24Z"
+      "lastUpdated": "2026-01-10T10:16:38Z"
     }
   },
-  "lastUpdated": "2026-01-10T10:00:25Z",
+  "lastUpdated": "2026-01-10T10:16:38Z",
   "totalUsers": 375,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
