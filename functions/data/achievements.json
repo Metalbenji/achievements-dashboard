@@ -1642,7 +1642,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2199,
+        "chat": 2201,
         "points_spent": 129451,
         "screenshot": 1,
         "follow": 1,
@@ -1697,7 +1697,7 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-11T10:15:52Z"
+      "lastUpdated": "2026-01-11T10:19:29Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2020,7 +2020,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 525,
+        "chat": 535,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 28,
@@ -2059,7 +2059,7 @@
         "night_owl",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-10T15:17:54Z"
+      "lastUpdated": "2026-01-11T10:42:47Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2173,7 +2173,7 @@
         "sub": 25,
         "sounds": 3,
         "screenshot": 6,
-        "clips": 2
+        "clips": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2213,7 +2213,7 @@
         "clip_first",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-11T09:52:19Z"
+      "lastUpdated": "2026-01-11T10:23:39Z"
     },
     "redunt86": {
       "counters": {
@@ -3195,9 +3195,9 @@
     },
     "mrmeanor_": {
       "counters": {
-        "chat": 94,
+        "chat": 100,
         "follow": 1,
-        "raid": 1
+        "raid": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3205,9 +3205,10 @@
         "chat_talker",
         "follow_supporter",
         "chat_conversationalist",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-01-10T12:22:17Z"
+      "lastUpdated": "2026-01-11T10:46:47Z"
     },
     "djindjarinttv": {
       "counters": {
@@ -4848,7 +4849,7 @@
     "ashhbrown": {
       "counters": {
         "follow": 1,
-        "chat": 47
+        "chat": 55
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4857,7 +4858,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-10T12:09:17Z"
+      "lastUpdated": "2026-01-11T10:29:10Z"
     },
     "icyhot_10": {
       "counters": {
@@ -7274,7 +7275,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 819,
+        "chat": 832,
         "follow": 1,
         "points_spent": 10901,
         "screenshot": 2,
@@ -7310,7 +7311,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-11T10:17:00Z"
+      "lastUpdated": "2026-01-11T10:44:57Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7613,7 +7614,7 @@
       "counters": {
         "raid": 1,
         "follow": 1,
-        "chat": 5
+        "chat": 9
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
@@ -7621,10 +7622,10 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-01-11T10:17:04Z"
+      "lastUpdated": "2026-01-11T10:23:25Z"
     }
   },
-  "lastUpdated": "2026-01-11T10:17:04Z",
+  "lastUpdated": "2026-01-11T10:46:47Z",
   "totalUsers": 377,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
