@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 300,
+        "chat": 306,
         "points_spent": 28700,
         "follow": 1,
         "sub": 19,
@@ -1478,7 +1478,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-01-11T09:14:31Z"
+      "lastUpdated": "2026-01-11T09:17:19Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1588,7 +1588,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 515,
+        "chat": 517,
         "points_spent": 18400,
         "effects": 17,
         "follow": 1,
@@ -1638,7 +1638,7 @@
         "early_bird",
         "clip_first"
       ],
-      "lastUpdated": "2026-01-10T11:44:24Z"
+      "lastUpdated": "2026-01-11T10:03:05Z"
     },
     "ramdon101": {
       "counters": {
@@ -2166,8 +2166,8 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 730,
-        "points_spent": 43307,
+        "chat": 741,
+        "points_spent": 43308,
         "interactive": 17,
         "effects": 30,
         "sub": 25,
@@ -2213,7 +2213,7 @@
         "clip_first",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-04T14:18:16Z"
+      "lastUpdated": "2026-01-11T09:52:19Z"
     },
     "redunt86": {
       "counters": {
@@ -2360,10 +2360,10 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2598,
+        "chat": 2606,
         "points_spent": 46250,
         "effects": 12,
-        "sub": 42,
+        "sub": 43,
         "sounds": 3,
         "bits": 2000,
         "screenshot": 1,
@@ -2417,7 +2417,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-01-10T11:29:02Z"
+      "lastUpdated": "2026-01-11T09:49:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7274,7 +7274,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 816,
+        "chat": 817,
         "follow": 1,
         "points_spent": 10901,
         "screenshot": 2,
@@ -7310,7 +7310,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-10T12:34:19Z"
+      "lastUpdated": "2026-01-11T09:32:02Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7610,7 +7610,7 @@
       "lastUpdated": "2026-01-10T15:50:08Z"
     }
   },
-  "lastUpdated": "2026-01-11T09:14:32Z",
+  "lastUpdated": "2026-01-11T10:07:17Z",
   "totalUsers": 376,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
