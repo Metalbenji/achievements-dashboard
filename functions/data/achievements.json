@@ -2422,7 +2422,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 100
+        "chat": 101
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2434,7 +2434,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-01-11T11:51:29Z"
+      "lastUpdated": "2026-01-11T11:51:31Z"
     },
     "ke1fire": {
       "counters": {
@@ -3354,7 +3354,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1352,
+        "chat": 1353,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3385,7 +3385,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-11T11:38:07Z"
+      "lastUpdated": "2026-01-11T11:55:25Z"
     },
     "roffelonator": {
       "counters": {
@@ -5902,7 +5902,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 350,
+        "chat": 353,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5926,7 +5926,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-10T13:09:31Z"
+      "lastUpdated": "2026-01-11T12:03:28Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7145,15 +7145,18 @@
     },
     "arvidz101": {
       "counters": {
-        "chat": 25
+        "chat": 26,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2025-12-01T20:54:09Z"
+      "lastUpdated": "2026-01-11T12:09:01Z"
     },
     "geniejit": {
       "counters": {
@@ -7626,7 +7629,7 @@
       "lastUpdated": "2026-01-11T10:23:25Z"
     }
   },
-  "lastUpdated": "2026-01-11T11:51:30Z",
+  "lastUpdated": "2026-01-11T12:09:02Z",
   "totalUsers": 377,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
