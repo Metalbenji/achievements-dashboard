@@ -1443,10 +1443,10 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 291,
+        "chat": 300,
         "points_spent": 28700,
         "follow": 1,
-        "sub": 18,
+        "sub": 19,
         "interactive": 1,
         "effects": 1
       },
@@ -1475,9 +1475,10 @@
         "effect_first",
         "spender_iron",
         "spender_electrum",
-        "night_owl"
+        "night_owl",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-31T23:21:35Z"
+      "lastUpdated": "2026-01-11T09:14:31Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1497,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1811,
+        "chat": 1851,
         "points_spent": 36001,
         "effects": 9,
         "sub": 12,
@@ -1549,7 +1550,7 @@
         "spender_electrum",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-10T12:23:48Z"
+      "lastUpdated": "2026-01-10T15:26:13Z"
     },
     "celran": {
       "counters": {
@@ -1700,9 +1701,9 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1598,
-        "points_spent": 50201,
-        "interactive": 33,
+        "chat": 1599,
+        "points_spent": 50701,
+        "interactive": 34,
         "follow": 1,
         "sub": 37,
         "effects": 6,
@@ -1748,7 +1749,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-10T12:45:49Z"
+      "lastUpdated": "2026-01-10T13:10:00Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1912,7 +1913,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 243,
+        "chat": 246,
         "sub": 5,
         "points_spent": 4000,
         "sounds": 2
@@ -1935,7 +1936,7 @@
         "chat_frequent",
         "sub_committed"
       ],
-      "lastUpdated": "2026-01-10T08:45:08Z"
+      "lastUpdated": "2026-01-10T14:33:05Z"
     },
     "sealdancer": {
       "counters": {
@@ -2019,7 +2020,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 522,
+        "chat": 525,
         "points_spent": 10751,
         "interactive": 3,
         "sub": 28,
@@ -2058,7 +2059,7 @@
         "night_owl",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-10T12:43:46Z"
+      "lastUpdated": "2026-01-10T15:17:54Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2250,7 +2251,7 @@
       "counters": {
         "points_spent": 61602,
         "follow": 1,
-        "chat": 712,
+        "chat": 713,
         "effects": 66,
         "screenshot": 4,
         "sounds": 5,
@@ -2302,7 +2303,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-10T12:21:36Z"
+      "lastUpdated": "2026-01-10T16:52:05Z"
     },
     "syn__________": {
       "counters": {
@@ -2489,7 +2490,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 134,
+        "chat": 152,
         "points_spent": 12351,
         "screenshot": 1,
         "sounds": 2
@@ -2508,7 +2509,7 @@
         "spender_iron",
         "spender_silver"
       ],
-      "lastUpdated": "2026-01-04T15:14:22Z"
+      "lastUpdated": "2026-01-10T16:05:37Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2709,8 +2710,8 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 426,
-        "sub": 43,
+        "chat": 444,
+        "sub": 44,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -2743,7 +2744,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:06Z"
+      "lastUpdated": "2026-01-10T14:36:47Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3114,7 +3115,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1757,
+        "chat": 1797,
         "sub": 46,
         "points_spent": 350,
         "screenshot": 1
@@ -3148,7 +3149,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-10T10:07:25Z"
+      "lastUpdated": "2026-01-10T16:48:39Z"
     },
     "majesty81": {
       "counters": {
@@ -3351,7 +3352,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1331,
+        "chat": 1341,
         "points_spent": 48300,
         "effects": 7,
         "interactive": 12,
@@ -3382,7 +3383,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-10T12:02:03Z"
+      "lastUpdated": "2026-01-10T16:48:35Z"
     },
     "roffelonator": {
       "counters": {
@@ -4376,7 +4377,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 429,
+        "chat": 436,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4393,7 +4394,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-10T12:57:00Z"
+      "lastUpdated": "2026-01-10T14:17:36Z"
     },
     "gabriel245658": {
       "counters": {
@@ -5137,8 +5138,8 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 222,
-        "sub": 11,
+        "chat": 231,
+        "sub": 14,
         "points_spent": 300,
         "effects": 1
       },
@@ -5160,7 +5161,7 @@
         "chat_frequent",
         "effect_first"
       ],
-      "lastUpdated": "2025-11-16T11:55:14Z"
+      "lastUpdated": "2026-01-10T14:20:12Z"
     },
     "jeditojanen": {
       "counters": {
@@ -5899,7 +5900,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 349,
+        "chat": 350,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5923,7 +5924,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-10T11:29:32Z"
+      "lastUpdated": "2026-01-10T13:09:31Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6813,7 +6814,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 102,
+        "chat": 106,
         "bits": 97,
         "follow": 1,
         "sub": 1,
@@ -6841,7 +6842,7 @@
         "clip_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-01-10T12:30:43Z"
+      "lastUpdated": "2026-01-10T15:55:46Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7596,7 +7597,7 @@
     },
     "the_bearded_ginge": {
       "counters": {
-        "chat": 25,
+        "chat": 53,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7606,10 +7607,10 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-10T13:06:59Z"
+      "lastUpdated": "2026-01-10T15:50:08Z"
     }
   },
-  "lastUpdated": "2026-01-10T13:07:00Z",
+  "lastUpdated": "2026-01-11T09:14:32Z",
   "totalUsers": 376,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
