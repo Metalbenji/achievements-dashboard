@@ -2064,7 +2064,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1019,
+        "chat": 1023,
         "points_spent": 87054,
         "effects": 12,
         "sounds": 7,
@@ -2108,7 +2108,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-01-11T15:40:26Z"
+      "lastUpdated": "2026-01-11T15:50:19Z"
     },
     "anzerou": {
       "counters": {
@@ -2166,7 +2166,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 742,
+        "chat": 743,
         "points_spent": 43308,
         "interactive": 17,
         "effects": 30,
@@ -2213,7 +2213,7 @@
         "clip_first",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-11T11:39:37Z"
+      "lastUpdated": "2026-01-11T15:54:32Z"
     },
     "redunt86": {
       "counters": {
@@ -2360,7 +2360,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2622,
+        "chat": 2626,
         "points_spent": 46250,
         "effects": 12,
         "sub": 43,
@@ -2418,7 +2418,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-01-11T15:44:44Z"
+      "lastUpdated": "2026-01-11T15:52:57Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7607,7 +7607,7 @@
     },
     "the_bearded_ginge": {
       "counters": {
-        "chat": 94,
+        "chat": 100,
         "follow": 1,
         "points_spent": 450
       },
@@ -7616,9 +7616,10 @@
         "chat_newbie",
         "follow_supporter",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-01-11T15:39:47Z"
+      "lastUpdated": "2026-01-11T15:55:39Z"
     },
     "thecharginlobster": {
       "counters": {
@@ -7635,7 +7636,7 @@
       "lastUpdated": "2026-01-11T10:23:25Z"
     }
   },
-  "lastUpdated": "2026-01-11T15:44:45Z",
+  "lastUpdated": "2026-01-11T15:55:40Z",
   "totalUsers": 377,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
