@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1864,
+        "chat": 1865,
         "points_spent": 36001,
         "effects": 9,
         "sub": 12,
@@ -1550,7 +1550,7 @@
         "spender_electrum",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-11T13:59:51Z"
+      "lastUpdated": "2026-01-11T14:04:04Z"
     },
     "celran": {
       "counters": {
@@ -2251,7 +2251,7 @@
       "counters": {
         "points_spent": 61602,
         "follow": 1,
-        "chat": 729,
+        "chat": 731,
         "effects": 66,
         "screenshot": 4,
         "sounds": 5,
@@ -2303,7 +2303,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-11T13:59:22Z"
+      "lastUpdated": "2026-01-11T14:04:43Z"
     },
     "syn__________": {
       "counters": {
@@ -3354,8 +3354,8 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1390,
-        "points_spent": 48300,
+        "chat": 1394,
+        "points_spent": 50300,
         "effects": 7,
         "interactive": 12,
         "screenshot": 2,
@@ -3383,9 +3383,10 @@
         "emperor_loyal",
         "chat_champion",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-01-11T13:25:06Z"
+      "lastUpdated": "2026-01-11T14:05:06Z"
     },
     "roffelonator": {
       "counters": {
@@ -6429,7 +6430,7 @@
     "justbaconthings": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 35
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6438,7 +6439,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-11T14:01:04Z"
+      "lastUpdated": "2026-01-11T14:04:55Z"
     },
     "joyman79": {
       "counters": {
@@ -7631,7 +7632,7 @@
       "lastUpdated": "2026-01-11T10:23:25Z"
     }
   },
-  "lastUpdated": "2026-01-11T14:01:05Z",
+  "lastUpdated": "2026-01-11T14:05:07Z",
   "totalUsers": 377,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
