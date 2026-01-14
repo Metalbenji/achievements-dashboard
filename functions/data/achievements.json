@@ -2679,9 +2679,9 @@
       "counters": {
         "follow": 1,
         "chat": 14,
-        "points_spent": 1300,
+        "points_spent": 1650,
         "interactive": 1,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2692,7 +2692,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-01-14T21:54:52Z"
+      "lastUpdated": "2026-01-14T21:55:35Z"
     },
     "soundalerts": {
       "counters": {
@@ -2832,16 +2832,17 @@
     "chevelletv": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "chat_newbie",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-01-14T21:54:42Z"
+      "lastUpdated": "2026-01-14T21:55:37Z"
     },
     "devinespiritgm": {
       "counters": {
@@ -7666,7 +7667,7 @@
       "lastUpdated": "2026-01-14T21:55:30Z"
     }
   },
-  "lastUpdated": "2026-01-14T21:55:31Z",
+  "lastUpdated": "2026-01-14T21:55:38Z",
   "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
