@@ -2166,7 +2166,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 745,
+        "chat": 746,
         "points_spent": 43508,
         "interactive": 17,
         "effects": 31,
@@ -2211,9 +2211,10 @@
         "spender_electrum",
         "screenshot_first",
         "clip_first",
-        "early_bird"
+        "early_bird",
+        "night_owl"
       ],
-      "lastUpdated": "2026-01-14T21:28:30Z"
+      "lastUpdated": "2026-01-14T22:03:14Z"
     },
     "redunt86": {
       "counters": {
@@ -6075,7 +6076,7 @@
     "ferbee1": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6084,7 +6085,7 @@
         "chat_talker",
         "night_owl"
       ],
-      "lastUpdated": "2026-01-14T22:01:21Z"
+      "lastUpdated": "2026-01-14T22:02:27Z"
     },
     "vishmagesty": {
       "counters": {
@@ -7661,15 +7662,17 @@
     },
     "allisxuwu": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 4
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
-      "lastUpdated": "2026-01-14T21:55:30Z"
+      "lastUpdated": "2026-01-14T22:01:58Z"
     }
   },
-  "lastUpdated": "2026-01-14T22:01:23Z",
+  "lastUpdated": "2026-01-14T22:03:14Z",
   "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
