@@ -1588,9 +1588,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 518,
-        "points_spent": 18400,
-        "effects": 17,
+        "chat": 521,
+        "points_spent": 18600,
+        "effects": 18,
         "follow": 1,
         "sub": 31,
         "sounds": 8,
@@ -1638,7 +1638,7 @@
         "early_bird",
         "clip_first"
       ],
-      "lastUpdated": "2026-01-14T21:15:45Z"
+      "lastUpdated": "2026-01-14T21:59:43Z"
     },
     "ramdon101": {
       "counters": {
@@ -1701,7 +1701,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1614,
+        "chat": 1617,
         "points_spent": 50701,
         "interactive": 34,
         "follow": 1,
@@ -1749,7 +1749,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-14T21:55:13Z"
+      "lastUpdated": "2026-01-14T21:56:37Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2832,7 +2832,7 @@
     "chevelletv": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 12,
         "raid": 1
       },
       "unlockedAchievements": [
@@ -2842,7 +2842,7 @@
         "raid_tier1_captain",
         "chat_talker"
       ],
-      "lastUpdated": "2026-01-14T21:55:37Z"
+      "lastUpdated": "2026-01-14T21:56:45Z"
     },
     "devinespiritgm": {
       "counters": {
@@ -6075,14 +6075,15 @@
     "ferbee1": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-01-04T13:16:35Z"
+      "lastUpdated": "2026-01-14T22:01:21Z"
     },
     "vishmagesty": {
       "counters": {
@@ -7667,7 +7668,7 @@
       "lastUpdated": "2026-01-14T21:55:30Z"
     }
   },
-  "lastUpdated": "2026-01-14T21:55:38Z",
+  "lastUpdated": "2026-01-14T22:01:21Z",
   "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
