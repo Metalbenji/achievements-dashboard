@@ -6081,7 +6081,8 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "night_owl"
       ],
       "lastUpdated": "2026-01-14T22:01:21Z"
     },
@@ -7668,7 +7669,7 @@
       "lastUpdated": "2026-01-14T21:55:30Z"
     }
   },
-  "lastUpdated": "2026-01-14T22:01:21Z",
+  "lastUpdated": "2026-01-14T22:01:23Z",
   "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
