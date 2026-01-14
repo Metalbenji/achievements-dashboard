@@ -1701,7 +1701,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1613,
+        "chat": 1614,
         "points_spent": 50701,
         "interactive": 34,
         "follow": 1,
@@ -1749,7 +1749,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-14T21:53:02Z"
+      "lastUpdated": "2026-01-14T21:55:13Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2846,7 +2846,7 @@
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2855,7 +2855,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-28T22:14:04Z"
+      "lastUpdated": "2026-01-14T21:55:19Z"
     },
     "bludshed187": {
       "counters": {
@@ -7645,10 +7645,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-01-14T21:54:57Z"
+    },
+    "thething_85": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-01-14T21:55:21Z"
     }
   },
-  "lastUpdated": "2026-01-14T21:54:58Z",
-  "totalUsers": 378,
+  "lastUpdated": "2026-01-14T21:55:22Z",
+  "totalUsers": 379,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
