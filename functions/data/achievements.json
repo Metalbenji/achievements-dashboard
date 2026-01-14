@@ -7648,16 +7648,26 @@
     },
     "thething_85": {
       "counters": {
+        "follow": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-01-14T21:55:22Z"
+    },
+    "allisxuwu": {
+      "counters": {
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2026-01-14T21:55:21Z"
+      "lastUpdated": "2026-01-14T21:55:30Z"
     }
   },
-  "lastUpdated": "2026-01-14T21:55:22Z",
-  "totalUsers": 379,
+  "lastUpdated": "2026-01-14T21:55:31Z",
+  "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
