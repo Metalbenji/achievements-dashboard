@@ -1588,7 +1588,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 521,
+        "chat": 522,
         "points_spent": 18600,
         "effects": 18,
         "follow": 1,
@@ -1638,7 +1638,7 @@
         "early_bird",
         "clip_first"
       ],
-      "lastUpdated": "2026-01-14T21:59:43Z"
+      "lastUpdated": "2026-01-14T22:03:30Z"
     },
     "ramdon101": {
       "counters": {
@@ -2064,7 +2064,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1045,
+        "chat": 1046,
         "points_spent": 87054,
         "effects": 12,
         "sounds": 7,
@@ -2108,7 +2108,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-01-14T20:26:12Z"
+      "lastUpdated": "2026-01-14T22:03:33Z"
     },
     "anzerou": {
       "counters": {
@@ -2697,7 +2697,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 122
+        "chat": 123
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2708,7 +2708,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-01-11T15:28:09Z"
+      "lastUpdated": "2026-01-14T22:03:28Z"
     },
     "gwinniejones": {
       "counters": {
@@ -6853,7 +6853,7 @@
         "clip_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-01-11T15:11:08Z"
+      "lastUpdated": "2026-01-16T21:44:55Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7672,7 +7672,7 @@
       "lastUpdated": "2026-01-14T22:01:58Z"
     }
   },
-  "lastUpdated": "2026-01-14T22:03:14Z",
+  "lastUpdated": "2026-01-16T21:45:26Z",
   "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
