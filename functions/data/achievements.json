@@ -6826,14 +6826,15 @@
     "metalbenji": {
       "counters": {
         "chat": 108,
-        "bits": 97,
+        "bits": 194,
         "follow": 1,
         "sub": 4,
         "points_spent": 4100,
         "effects": 2,
         "sounds": 2,
         "screenshot": 6,
-        "clips": 3
+        "clips": 3,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -6854,9 +6855,10 @@
         "chat_regular",
         "sub_supporter",
         "sub_loyal",
-        "sub_dedicated"
+        "sub_dedicated",
+        "gift_starter"
       ],
-      "lastUpdated": "2026-01-16T21:45:36Z"
+      "lastUpdated": "2026-01-16T21:48:44Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7675,7 +7677,7 @@
       "lastUpdated": "2026-01-14T22:01:58Z"
     }
   },
-  "lastUpdated": "2026-01-16T21:46:48Z",
+  "lastUpdated": "2026-01-16T21:48:56Z",
   "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
