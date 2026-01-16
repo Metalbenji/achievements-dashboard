@@ -6828,7 +6828,7 @@
         "chat": 108,
         "bits": 97,
         "follow": 1,
-        "sub": 1,
+        "sub": 4,
         "points_spent": 4100,
         "effects": 2,
         "sounds": 2,
@@ -6851,9 +6851,12 @@
         "spender_bronze",
         "screenshot_first",
         "clip_first",
-        "chat_regular"
+        "chat_regular",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated"
       ],
-      "lastUpdated": "2026-01-16T21:44:55Z"
+      "lastUpdated": "2026-01-16T21:45:36Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7672,7 +7675,7 @@
       "lastUpdated": "2026-01-14T22:01:58Z"
     }
   },
-  "lastUpdated": "2026-01-16T21:45:28Z",
+  "lastUpdated": "2026-01-16T21:46:48Z",
   "totalUsers": 380,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
