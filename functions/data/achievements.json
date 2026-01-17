@@ -7679,10 +7679,21 @@
         "night_owl"
       ],
       "lastUpdated": "2026-01-14T22:01:58Z"
+    },
+    "rondrethreethousand": {
+      "counters": {
+        "raid": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "raid_tier1_captain",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-01-17T15:12:14Z"
     }
   },
-  "lastUpdated": "2026-01-17T15:10:52Z",
-  "totalUsers": 380,
+  "lastUpdated": "2026-01-17T15:12:15Z",
+  "totalUsers": 381,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
