@@ -7683,16 +7683,18 @@
     "rondrethreethousand": {
       "counters": {
         "raid": 1,
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-01-17T15:12:14Z"
+      "lastUpdated": "2026-01-17T15:13:33Z"
     }
   },
-  "lastUpdated": "2026-01-17T15:12:15Z",
+  "lastUpdated": "2026-01-17T15:13:34Z",
   "totalUsers": 381,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
