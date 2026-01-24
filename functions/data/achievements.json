@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 306,
+        "chat": 307,
         "points_spent": 28700,
         "follow": 1,
         "sub": 19,
@@ -1478,7 +1478,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-01-11T09:17:19Z"
+      "lastUpdated": "2026-01-24T14:21:41Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2021,7 +2021,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 607,
+        "chat": 608,
         "points_spent": 11951,
         "interactive": 3,
         "sub": 29,
@@ -2060,7 +2060,7 @@
         "night_owl",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-24T13:55:38Z"
+      "lastUpdated": "2026-01-24T14:01:36Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2252,10 +2252,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 62402,
+        "points_spent": 63202,
         "follow": 1,
         "chat": 746,
-        "effects": 67,
+        "effects": 68,
         "screenshot": 4,
         "sounds": 5,
         "bits": 300,
@@ -2306,7 +2306,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-24T12:42:00Z"
+      "lastUpdated": "2026-01-24T14:22:49Z"
     },
     "syn__________": {
       "counters": {
@@ -2363,7 +2363,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2654,
+        "chat": 2656,
         "points_spent": 46250,
         "effects": 12,
         "sub": 43,
@@ -2421,7 +2421,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-01-24T12:55:09Z"
+      "lastUpdated": "2026-01-24T14:14:53Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6787,9 +6787,9 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1304,
+        "chat": 1305,
         "points_spent": 50101,
-        "sounds": 2,
+        "sounds": 3,
         "sub": 25,
         "clips": 1
       },
@@ -6826,7 +6826,7 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-24T13:57:43Z"
+      "lastUpdated": "2026-01-24T13:58:09Z"
     },
     "metalbenji": {
       "counters": {
@@ -7698,7 +7698,7 @@
       "lastUpdated": "2026-01-17T15:21:55Z"
     }
   },
-  "lastUpdated": "2026-01-24T13:57:45Z",
+  "lastUpdated": "2026-01-24T14:36:22Z",
   "totalUsers": 381,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
