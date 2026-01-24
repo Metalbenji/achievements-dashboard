@@ -6823,7 +6823,8 @@
         "chat_champion",
         "spender_iron",
         "clip_first",
-        "spender_electrum"
+        "spender_electrum",
+        "spender_gold"
       ],
       "lastUpdated": "2026-01-24T13:57:43Z"
     },
@@ -7697,7 +7698,7 @@
       "lastUpdated": "2026-01-17T15:21:55Z"
     }
   },
-  "lastUpdated": "2026-01-24T13:57:44Z",
+  "lastUpdated": "2026-01-24T13:57:45Z",
   "totalUsers": 381,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
