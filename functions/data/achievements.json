@@ -1499,8 +1499,8 @@
     "little_lilith_": {
       "counters": {
         "chat": 1923,
-        "points_spent": 36401,
-        "effects": 9,
+        "points_spent": 37201,
+        "effects": 10,
         "sub": 13,
         "bits": 1894,
         "interactive": 4,
@@ -1548,9 +1548,10 @@
         "follow_supporter",
         "spender_iron",
         "spender_electrum",
-        "early_bird"
+        "early_bird",
+        "effect_collector"
       ],
-      "lastUpdated": "2026-01-31T13:26:56Z"
+      "lastUpdated": "2026-01-31T13:40:20Z"
     },
     "celran": {
       "counters": {
@@ -7757,7 +7758,7 @@
       "lastUpdated": "2026-01-31T11:01:47Z"
     }
   },
-  "lastUpdated": "2026-01-31T13:38:29Z",
+  "lastUpdated": "2026-01-31T13:40:21Z",
   "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
