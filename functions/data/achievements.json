@@ -1644,12 +1644,12 @@
     "ramdon101": {
       "counters": {
         "chat": 2311,
-        "points_spent": 131451,
+        "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
         "sub": 49,
         "sounds": 7,
-        "effects": 9,
+        "effects": 10,
         "interactive": 1,
         "raid": 2,
         "gift_subs": 1
@@ -1696,9 +1696,10 @@
         "bday2025_support",
         "raid_tier1_captain",
         "early_bird",
-        "gift_starter"
+        "gift_starter",
+        "effect_collector"
       ],
-      "lastUpdated": "2026-01-31T12:07:42Z"
+      "lastUpdated": "2026-01-31T12:10:04Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2022,7 +2023,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 696,
+        "chat": 697,
         "points_spent": 15702,
         "interactive": 5,
         "sub": 29,
@@ -2074,7 +2075,7 @@
         "gift_supporter",
         "gift_champion"
       ],
-      "lastUpdated": "2026-01-31T11:30:54Z"
+      "lastUpdated": "2026-01-31T12:09:31Z"
     },
     "mattyuk937": {
       "counters": {
@@ -6805,7 +6806,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1346,
+        "chat": 1348,
         "points_spent": 50101,
         "sounds": 3,
         "sub": 25,
@@ -6844,7 +6845,7 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-31T12:08:43Z"
+      "lastUpdated": "2026-01-31T12:09:58Z"
     },
     "metalbenji": {
       "counters": {
@@ -7732,9 +7733,9 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 103,
+        "chat": 104,
         "points_spent": 1053,
-        "effects": 1,
+        "effects": 2,
         "screenshot": 1,
         "sounds": 1
       },
@@ -7751,7 +7752,7 @@
         "chat_regular",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-01-31T12:08:43Z"
+      "lastUpdated": "2026-01-31T12:09:41Z"
     },
     "fuegorcj": {
       "counters": {
@@ -7768,7 +7769,7 @@
       "lastUpdated": "2026-01-31T11:01:47Z"
     }
   },
-  "lastUpdated": "2026-01-31T12:08:44Z",
+  "lastUpdated": "2026-01-31T12:10:05Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
