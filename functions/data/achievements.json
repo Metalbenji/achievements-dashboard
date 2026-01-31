@@ -2022,7 +2022,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 668,
+        "chat": 671,
         "points_spent": 15352,
         "interactive": 5,
         "sub": 29,
@@ -2062,7 +2062,7 @@
         "spender_iron",
         "effect_collector"
       ],
-      "lastUpdated": "2026-01-31T10:38:44Z"
+      "lastUpdated": "2026-01-31T10:41:46Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3541,7 +3541,7 @@
         "sub": 47,
         "follow": 1,
         "chat": 270,
-        "points_spent": 40750,
+        "points_spent": 40751,
         "effects": 1,
         "sounds": 2
       },
@@ -3572,9 +3572,10 @@
         "sound_first",
         "chat_frequent",
         "spender_iron",
-        "spender_electrum"
+        "spender_electrum",
+        "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T10:30:24Z"
+      "lastUpdated": "2026-01-31T10:42:09Z"
     },
     "camm_23": {
       "counters": {
@@ -7274,7 +7275,7 @@
       "counters": {
         "follow": 1,
         "chat": 35,
-        "points_spent": 3
+        "points_spent": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7284,7 +7285,7 @@
         "chat_conversationalist",
         "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T10:38:42Z"
+      "lastUpdated": "2026-01-31T10:38:58Z"
     },
     "andypandy1238": {
       "counters": {
@@ -7734,7 +7735,7 @@
       "lastUpdated": "2026-01-31T10:38:15Z"
     }
   },
-  "lastUpdated": "2026-01-31T10:38:45Z",
+  "lastUpdated": "2026-01-31T10:42:10Z",
   "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
