@@ -1643,7 +1643,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2255,
+        "chat": 2274,
         "points_spent": 131451,
         "screenshot": 1,
         "follow": 1,
@@ -1698,7 +1698,7 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-31T08:36:04Z"
+      "lastUpdated": "2026-01-31T09:52:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2022,7 +2022,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 646,
+        "chat": 662,
         "points_spent": 14751,
         "interactive": 4,
         "sub": 29,
@@ -2061,7 +2061,7 @@
         "night_owl",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-25T12:26:09Z"
+      "lastUpdated": "2026-01-31T09:10:00Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2255,7 +2255,7 @@
       "counters": {
         "points_spent": 64002,
         "follow": 1,
-        "chat": 750,
+        "chat": 775,
         "effects": 69,
         "screenshot": 4,
         "sounds": 5,
@@ -2308,7 +2308,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-31T08:44:37Z"
+      "lastUpdated": "2026-01-31T09:27:57Z"
     },
     "syn__________": {
       "counters": {
@@ -2365,7 +2365,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2678,
+        "chat": 2682,
         "points_spent": 46250,
         "effects": 12,
         "sub": 43,
@@ -2423,7 +2423,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-01-31T08:44:28Z"
+      "lastUpdated": "2026-01-31T10:03:12Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2638,7 +2638,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 613,
+        "chat": 617,
         "sub": 38,
         "points_spent": 25251,
         "interactive": 2,
@@ -2679,7 +2679,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-24T16:52:33Z"
+      "lastUpdated": "2026-01-31T09:49:00Z"
     },
     "umenneske94": {
       "counters": {
@@ -2880,11 +2880,11 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 812,
+        "chat": 813,
         "points_spent": 41901,
         "sounds": 7,
         "effects": 65,
-        "sub": 45,
+        "sub": 46,
         "bits": 9000,
         "interactive": 3,
         "screenshot": 6
@@ -2935,7 +2935,7 @@
         "early_bird",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-25T10:20:25Z"
+      "lastUpdated": "2026-01-31T09:25:25Z"
     },
     "andilippi": {
       "counters": {
@@ -3127,7 +3127,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1920,
+        "chat": 1946,
         "sub": 46,
         "points_spent": 350,
         "screenshot": 1
@@ -3161,7 +3161,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-31T08:33:14Z"
+      "lastUpdated": "2026-01-31T09:45:21Z"
     },
     "majesty81": {
       "counters": {
@@ -3537,9 +3537,9 @@
     },
     "sarcissa": {
       "counters": {
-        "sub": 46,
+        "sub": 47,
         "follow": 1,
-        "chat": 254,
+        "chat": 257,
         "points_spent": 40750,
         "effects": 1,
         "sounds": 2
@@ -3573,7 +3573,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-30T09:33:04Z"
+      "lastUpdated": "2026-01-31T09:25:24Z"
     },
     "camm_23": {
       "counters": {
@@ -6702,7 +6702,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 111,
+        "chat": 120,
         "points_spent": 1200,
         "interactive": 1,
         "screenshot": 2
@@ -6718,7 +6718,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-01-25T12:19:57Z"
+      "lastUpdated": "2026-01-31T09:05:47Z"
     },
     "kikinplays_": {
       "counters": {
@@ -7711,10 +7711,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-01-25T12:23:56Z"
+    },
+    "kylehdhvd": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-01-31T10:03:53Z"
     }
   },
-  "lastUpdated": "2026-01-31T08:44:38Z",
-  "totalUsers": 382,
+  "lastUpdated": "2026-01-31T10:03:54Z",
+  "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
