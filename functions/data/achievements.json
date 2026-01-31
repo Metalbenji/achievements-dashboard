@@ -1643,7 +1643,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2310,
+        "chat": 2311,
         "points_spent": 131451,
         "screenshot": 1,
         "follow": 1,
@@ -1698,7 +1698,7 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-31T11:59:19Z"
+      "lastUpdated": "2026-01-31T12:07:42Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2266,10 +2266,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 64002,
+        "points_spent": 64802,
         "follow": 1,
         "chat": 775,
-        "effects": 69,
+        "effects": 70,
         "screenshot": 4,
         "sounds": 5,
         "bits": 300,
@@ -2321,7 +2321,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-01-31T09:27:57Z"
+      "lastUpdated": "2026-01-31T12:04:41Z"
     },
     "syn__________": {
       "counters": {
@@ -3288,7 +3288,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 197,
+        "chat": 199,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3306,7 +3306,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-01-25T11:49:43Z"
+      "lastUpdated": "2026-01-31T12:04:56Z"
     },
     "hero_zappz": {
       "counters": {
@@ -6805,7 +6805,7 @@
     "shard_xdd": {
       "counters": {
         "follow": 1,
-        "chat": 1339,
+        "chat": 1346,
         "points_spent": 50101,
         "sounds": 3,
         "sub": 25,
@@ -6844,7 +6844,7 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-25T12:51:37Z"
+      "lastUpdated": "2026-01-31T12:08:43Z"
     },
     "metalbenji": {
       "counters": {
@@ -7732,8 +7732,8 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 100,
-        "points_spent": 953,
+        "chat": 103,
+        "points_spent": 1053,
         "effects": 1,
         "screenshot": 1,
         "sounds": 1
@@ -7748,9 +7748,10 @@
         "chat_conversationalist",
         "screenshot_first",
         "sound_first",
-        "chat_regular"
+        "chat_regular",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-01-31T12:02:42Z"
+      "lastUpdated": "2026-01-31T12:08:43Z"
     },
     "fuegorcj": {
       "counters": {
@@ -7767,7 +7768,7 @@
       "lastUpdated": "2026-01-31T11:01:47Z"
     }
   },
-  "lastUpdated": "2026-01-31T12:02:42Z",
+  "lastUpdated": "2026-01-31T12:08:44Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
