@@ -2365,7 +2365,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2682,
+        "chat": 2683,
         "points_spent": 46250,
         "effects": 12,
         "sub": 43,
@@ -2423,7 +2423,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-01-31T10:03:12Z"
+      "lastUpdated": "2026-01-31T10:09:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7586,7 +7586,7 @@
     "dillisan": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7594,7 +7594,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-01-11T13:28:50Z"
+      "lastUpdated": "2026-01-31T10:08:19Z"
     },
     "tidersky": {
       "counters": {
@@ -7715,17 +7715,18 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-01-31T10:06:08Z"
+      "lastUpdated": "2026-01-31T10:09:37Z"
     }
   },
-  "lastUpdated": "2026-01-31T10:06:09Z",
+  "lastUpdated": "2026-01-31T10:09:37Z",
   "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
