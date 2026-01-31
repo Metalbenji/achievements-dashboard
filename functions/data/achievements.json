@@ -1643,7 +1643,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2303,
+        "chat": 2310,
         "points_spent": 131451,
         "screenshot": 1,
         "follow": 1,
@@ -1698,11 +1698,11 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-31T11:48:14Z"
+      "lastUpdated": "2026-01-31T11:59:19Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1649,
+        "chat": 1658,
         "points_spent": 52201,
         "interactive": 37,
         "follow": 1,
@@ -1750,7 +1750,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-31T11:46:21Z"
+      "lastUpdated": "2026-01-31T11:56:19Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3140,7 +3140,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1996,
+        "chat": 2003,
         "sub": 46,
         "points_spent": 350,
         "screenshot": 1
@@ -3174,7 +3174,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-31T11:51:04Z"
+      "lastUpdated": "2026-01-31T11:55:36Z"
     },
     "majesty81": {
       "counters": {
@@ -7732,7 +7732,7 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 91,
+        "chat": 100,
         "points_spent": 953,
         "effects": 1,
         "screenshot": 1,
@@ -7747,9 +7747,10 @@
         "birthday_person",
         "chat_conversationalist",
         "screenshot_first",
-        "sound_first"
+        "sound_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-01-31T11:51:25Z"
+      "lastUpdated": "2026-01-31T12:02:42Z"
     },
     "fuegorcj": {
       "counters": {
@@ -7766,7 +7767,7 @@
       "lastUpdated": "2026-01-31T11:01:47Z"
     }
   },
-  "lastUpdated": "2026-01-31T11:51:26Z",
+  "lastUpdated": "2026-01-31T12:02:42Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
