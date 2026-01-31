@@ -1644,7 +1644,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2326,
+        "chat": 2328,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1700,7 +1700,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-01-31T13:22:38Z"
+      "lastUpdated": "2026-01-31T13:47:15Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -4394,7 +4394,7 @@
     "angloubet": {
       "counters": {
         "follow": 1,
-        "chat": 454,
+        "chat": 464,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -4411,7 +4411,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-31T13:35:51Z"
+      "lastUpdated": "2026-01-31T14:02:12Z"
     },
     "gabriel245658": {
       "counters": {
@@ -7392,8 +7392,9 @@
       "counters": {
         "follow": 1,
         "chat": 35,
-        "points_spent": 502,
-        "interactive": 1
+        "points_spent": 702,
+        "interactive": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7402,9 +7403,10 @@
         "chat_talker",
         "birthday_person",
         "chat_conversationalist",
-        "interactive_first"
+        "interactive_first",
+        "effect_first"
       ],
-      "lastUpdated": "2025-12-31T19:57:25Z"
+      "lastUpdated": "2026-01-31T14:06:16Z"
     },
     "alex_russian92": {
       "counters": {
@@ -7720,11 +7722,11 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 108,
-        "points_spent": 1553,
+        "chat": 110,
+        "points_spent": 1653,
         "effects": 2,
         "screenshot": 1,
-        "sounds": 1,
+        "sounds": 2,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -7741,7 +7743,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-01-31T13:38:28Z"
+      "lastUpdated": "2026-01-31T14:00:51Z"
     },
     "fuegorcj": {
       "counters": {
@@ -7758,7 +7760,7 @@
       "lastUpdated": "2026-01-31T11:01:47Z"
     }
   },
-  "lastUpdated": "2026-01-31T13:40:21Z",
+  "lastUpdated": "2026-01-31T14:06:17Z",
   "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
