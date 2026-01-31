@@ -1643,7 +1643,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2284,
+        "chat": 2285,
         "points_spent": 131451,
         "screenshot": 1,
         "follow": 1,
@@ -1698,7 +1698,7 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-31T10:33:43Z"
+      "lastUpdated": "2026-01-31T10:34:05Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -6253,7 +6253,7 @@
       "counters": {
         "points_spent": 21239,
         "special_rewards": 1,
-        "chat": 279,
+        "chat": 280,
         "effects": 3,
         "follow": 1,
         "sub": 13
@@ -6285,7 +6285,7 @@
         "sub_tier1",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-31T10:33:23Z"
+      "lastUpdated": "2026-01-31T10:34:11Z"
     },
     "otocar": {
       "counters": {
@@ -7272,7 +7272,7 @@
     "donfoxelite": {
       "counters": {
         "follow": 1,
-        "chat": 31
+        "chat": 33
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7281,7 +7281,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-31T10:33:44Z"
+      "lastUpdated": "2026-01-31T10:35:09Z"
     },
     "andypandy1238": {
       "counters": {
@@ -7717,7 +7717,7 @@
       "counters": {
         "follow": 1,
         "chat": 15,
-        "points_spent": 500,
+        "points_spent": 501,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -7725,12 +7725,13 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "effect_first"
+        "effect_first",
+        "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T10:34:00Z"
+      "lastUpdated": "2026-01-31T10:35:10Z"
     }
   },
-  "lastUpdated": "2026-01-31T10:34:00Z",
+  "lastUpdated": "2026-01-31T10:35:11Z",
   "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
