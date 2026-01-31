@@ -1643,7 +1643,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2285,
+        "chat": 2286,
         "points_spent": 131451,
         "screenshot": 1,
         "follow": 1,
@@ -1698,7 +1698,7 @@
         "early_bird",
         "gift_starter"
       ],
-      "lastUpdated": "2026-01-31T10:34:05Z"
+      "lastUpdated": "2026-01-31T10:36:20Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2022,8 +2022,8 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 665,
-        "points_spent": 15151,
+        "chat": 668,
+        "points_spent": 15152,
         "interactive": 5,
         "sub": 29,
         "screenshot": 1,
@@ -2061,7 +2061,7 @@
         "night_owl",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-31T10:33:49Z"
+      "lastUpdated": "2026-01-31T10:36:47Z"
     },
     "mattyuk937": {
       "counters": {
@@ -6253,7 +6253,7 @@
       "counters": {
         "points_spent": 21239,
         "special_rewards": 1,
-        "chat": 280,
+        "chat": 281,
         "effects": 3,
         "follow": 1,
         "sub": 13
@@ -6285,7 +6285,7 @@
         "sub_tier1",
         "spender_iron"
       ],
-      "lastUpdated": "2026-01-31T10:34:11Z"
+      "lastUpdated": "2026-01-31T10:35:19Z"
     },
     "otocar": {
       "counters": {
@@ -7272,16 +7272,18 @@
     "donfoxelite": {
       "counters": {
         "follow": 1,
-        "chat": 33
+        "chat": 33,
+        "points_spent": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T10:35:09Z"
+      "lastUpdated": "2026-01-31T10:36:57Z"
     },
     "andypandy1238": {
       "counters": {
@@ -7717,7 +7719,7 @@
       "counters": {
         "follow": 1,
         "chat": 15,
-        "points_spent": 501,
+        "points_spent": 503,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -7728,10 +7730,10 @@
         "effect_first",
         "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T10:35:10Z"
+      "lastUpdated": "2026-01-31T10:36:57Z"
     }
   },
-  "lastUpdated": "2026-01-31T10:35:11Z",
+  "lastUpdated": "2026-01-31T10:36:58Z",
   "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
