@@ -2028,7 +2028,11 @@
         "sub": 29,
         "screenshot": 2,
         "sounds": 2,
-        "effects": 10
+        "effects": 10,
+        "gift_subs": 17,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 16,
+        "largest_gift_bomb": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2060,9 +2064,17 @@
         "chat_dedicated",
         "night_owl",
         "spender_iron",
-        "effect_collector"
+        "effect_collector",
+        "gift_bomb_15",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion"
       ],
-      "lastUpdated": "2026-01-31T11:00:06Z"
+      "lastUpdated": "2026-01-31T11:02:19Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3656,7 +3668,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 252,
+        "chat": 253,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3680,7 +3692,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-31T19:42:18Z"
+      "lastUpdated": "2026-01-31T11:01:32Z"
     },
     "mulquero": {
       "counters": {
@@ -7720,7 +7732,7 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 22,
+        "chat": 25,
         "points_spent": 503,
         "effects": 1
       },
@@ -7730,13 +7742,14 @@
         "chat_newbie",
         "chat_talker",
         "effect_first",
-        "birthday_person"
+        "birthday_person",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-01-31T10:59:05Z"
+      "lastUpdated": "2026-01-31T11:02:46Z"
     },
     "fuegorcj": {
       "counters": {
-        "chat": 7,
+        "chat": 8,
         "follow": 1,
         "gift_subs": 1
       },
@@ -7746,10 +7759,10 @@
         "gift_starter",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-01-31T11:00:32Z"
+      "lastUpdated": "2026-01-31T11:01:47Z"
     }
   },
-  "lastUpdated": "2026-01-31T11:01:25Z",
+  "lastUpdated": "2026-01-31T11:02:47Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
