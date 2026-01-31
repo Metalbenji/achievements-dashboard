@@ -2022,7 +2022,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 681,
+        "chat": 682,
         "points_spent": 15352,
         "interactive": 5,
         "sub": 29,
@@ -2062,7 +2062,7 @@
         "spender_iron",
         "effect_collector"
       ],
-      "lastUpdated": "2026-01-31T10:52:57Z"
+      "lastUpdated": "2026-01-31T10:55:02Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3128,7 +3128,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1960,
+        "chat": 1966,
         "sub": 46,
         "points_spent": 350,
         "screenshot": 1
@@ -3162,7 +3162,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-31T10:51:11Z"
+      "lastUpdated": "2026-01-31T10:55:04Z"
     },
     "majesty81": {
       "counters": {
@@ -7720,7 +7720,7 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 18,
+        "chat": 19,
         "points_spent": 503,
         "effects": 1
       },
@@ -7732,19 +7732,21 @@
         "effect_first",
         "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T10:53:17Z"
+      "lastUpdated": "2026-01-31T10:54:59Z"
     },
     "fuegorcj": {
       "counters": {
-        "chat": 1
+        "chat": 3,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-01-31T10:54:10Z"
+      "lastUpdated": "2026-01-31T10:55:09Z"
     }
   },
-  "lastUpdated": "2026-01-31T10:54:11Z",
+  "lastUpdated": "2026-01-31T10:55:10Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
