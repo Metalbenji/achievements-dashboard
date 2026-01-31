@@ -1702,7 +1702,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1638,
+        "chat": 1639,
         "points_spent": 51701,
         "interactive": 36,
         "follow": 1,
@@ -1750,7 +1750,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-24T18:13:54Z"
+      "lastUpdated": "2026-01-31T11:29:55Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2022,7 +2022,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 685,
+        "chat": 695,
         "points_spent": 15702,
         "interactive": 5,
         "sub": 29,
@@ -2074,7 +2074,7 @@
         "gift_supporter",
         "gift_champion"
       ],
-      "lastUpdated": "2026-01-31T11:02:19Z"
+      "lastUpdated": "2026-01-31T11:30:07Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2378,7 +2378,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2699,
+        "chat": 2700,
         "points_spent": 46250,
         "effects": 12,
         "sub": 43,
@@ -2436,7 +2436,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-01-31T10:52:49Z"
+      "lastUpdated": "2026-01-31T11:03:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3140,7 +3140,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 1967,
+        "chat": 1971,
         "sub": 46,
         "points_spent": 350,
         "screenshot": 1
@@ -3174,7 +3174,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-01-31T10:55:12Z"
+      "lastUpdated": "2026-01-31T11:13:50Z"
     },
     "majesty81": {
       "counters": {
@@ -3668,7 +3668,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 253,
+        "chat": 258,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3692,7 +3692,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-01-31T11:01:32Z"
+      "lastUpdated": "2026-01-31T11:07:14Z"
     },
     "mulquero": {
       "counters": {
@@ -7732,9 +7732,10 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 25,
-        "points_spent": 503,
-        "effects": 1
+        "chat": 43,
+        "points_spent": 853,
+        "effects": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7743,9 +7744,10 @@
         "chat_talker",
         "effect_first",
         "birthday_person",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "screenshot_first"
       ],
-      "lastUpdated": "2026-01-31T11:02:46Z"
+      "lastUpdated": "2026-01-31T11:30:16Z"
     },
     "fuegorcj": {
       "counters": {
@@ -7762,7 +7764,7 @@
       "lastUpdated": "2026-01-31T11:01:47Z"
     }
   },
-  "lastUpdated": "2026-01-31T11:02:47Z",
+  "lastUpdated": "2026-01-31T11:30:17Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
