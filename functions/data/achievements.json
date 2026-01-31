@@ -2022,11 +2022,11 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 682,
-        "points_spent": 15352,
+        "chat": 684,
+        "points_spent": 15702,
         "interactive": 5,
         "sub": 29,
-        "screenshot": 1,
+        "screenshot": 2,
         "sounds": 2,
         "effects": 10
       },
@@ -2062,7 +2062,7 @@
         "spender_iron",
         "effect_collector"
       ],
-      "lastUpdated": "2026-01-31T10:55:02Z"
+      "lastUpdated": "2026-01-31T10:59:06Z"
     },
     "mattyuk937": {
       "counters": {
@@ -7720,7 +7720,7 @@
     "kylehdhvd": {
       "counters": {
         "follow": 1,
-        "chat": 19,
+        "chat": 22,
         "points_spent": 503,
         "effects": 1
       },
@@ -7732,21 +7732,24 @@
         "effect_first",
         "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T10:54:59Z"
+      "lastUpdated": "2026-01-31T10:59:05Z"
     },
     "fuegorcj": {
       "counters": {
-        "chat": 3,
-        "follow": 1
+        "chat": 5,
+        "follow": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "gift_starter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-01-31T10:55:09Z"
+      "lastUpdated": "2026-01-31T10:59:09Z"
     }
   },
-  "lastUpdated": "2026-01-31T10:55:29Z",
+  "lastUpdated": "2026-01-31T10:59:10Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
