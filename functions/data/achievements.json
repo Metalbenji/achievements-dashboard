@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1936,
+        "chat": 1939,
         "points_spent": 37201,
         "effects": 10,
         "sub": 13,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-02-07T13:35:41Z"
+      "lastUpdated": "2026-02-07T13:38:08Z"
     },
     "celran": {
       "counters": {
@@ -2024,7 +2024,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 719,
+        "chat": 720,
         "points_spent": 15702,
         "interactive": 5,
         "sub": 29,
@@ -2076,12 +2076,12 @@
         "gift_supporter",
         "gift_champion"
       ],
-      "lastUpdated": "2026-02-07T13:28:46Z"
+      "lastUpdated": "2026-02-07T13:36:32Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1077,
+        "chat": 1079,
         "points_spent": 87055,
         "effects": 12,
         "sounds": 7,
@@ -2125,7 +2125,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-02-07T13:34:45Z"
+      "lastUpdated": "2026-02-07T13:38:32Z"
     },
     "anzerou": {
       "counters": {
@@ -2718,7 +2718,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 125
+        "chat": 126
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2729,7 +2729,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-01-31T08:26:27Z"
+      "lastUpdated": "2026-02-07T13:37:37Z"
     },
     "gwinniejones": {
       "counters": {
@@ -5919,7 +5919,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 396,
+        "chat": 397,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5943,7 +5943,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-02-07T13:33:12Z"
+      "lastUpdated": "2026-02-07T13:36:17Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7764,18 +7764,21 @@
     },
     "xx_luciifer_xx": {
       "counters": {
-        "chat": 5,
-        "follow": 1
+        "chat": 6,
+        "follow": 1,
+        "points_spent": 100,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "sound_first"
       ],
-      "lastUpdated": "2026-02-07T13:36:15Z"
+      "lastUpdated": "2026-02-07T13:38:38Z"
     }
   },
-  "lastUpdated": "2026-02-07T13:36:16Z",
+  "lastUpdated": "2026-02-07T13:38:38Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
