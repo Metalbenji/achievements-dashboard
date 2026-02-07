@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1927,
+        "chat": 1932,
         "points_spent": 37201,
         "effects": 10,
         "sub": 13,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-01-31T16:33:07Z"
+      "lastUpdated": "2026-02-07T13:31:39Z"
     },
     "celran": {
       "counters": {
@@ -2024,7 +2024,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 712,
+        "chat": 719,
         "points_spent": 15702,
         "interactive": 5,
         "sub": 29,
@@ -2076,12 +2076,12 @@
         "gift_supporter",
         "gift_champion"
       ],
-      "lastUpdated": "2026-02-07T13:17:24Z"
+      "lastUpdated": "2026-02-07T13:28:46Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1070,
+        "chat": 1073,
         "points_spent": 87055,
         "effects": 12,
         "sounds": 7,
@@ -2125,7 +2125,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-02-07T13:18:08Z"
+      "lastUpdated": "2026-02-07T13:31:31Z"
     },
     "anzerou": {
       "counters": {
@@ -2512,7 +2512,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 216,
         "points_spent": 12351,
         "screenshot": 1,
         "sounds": 2
@@ -2532,7 +2532,7 @@
         "spender_silver",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-02-07T13:18:27Z"
+      "lastUpdated": "2026-02-07T13:26:18Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3143,7 +3143,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2036,
+        "chat": 2039,
         "sub": 47,
         "points_spent": 350,
         "screenshot": 1
@@ -3177,7 +3177,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-02-07T13:17:34Z"
+      "lastUpdated": "2026-02-07T13:22:06Z"
     },
     "majesty81": {
       "counters": {
@@ -3368,7 +3368,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1452,
+        "chat": 1453,
         "points_spent": 52300,
         "effects": 7,
         "interactive": 12,
@@ -3400,7 +3400,7 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-01-24T15:41:11Z"
+      "lastUpdated": "2026-02-07T13:31:00Z"
     },
     "roffelonator": {
       "counters": {
@@ -7276,7 +7276,7 @@
     "donfoxelite": {
       "counters": {
         "follow": 1,
-        "chat": 42,
+        "chat": 44,
         "points_spent": 4
       },
       "unlockedAchievements": [
@@ -7287,7 +7287,7 @@
         "chat_conversationalist",
         "birthday_person"
       ],
-      "lastUpdated": "2026-01-31T13:30:07Z"
+      "lastUpdated": "2026-02-07T13:20:51Z"
     },
     "andypandy1238": {
       "counters": {
@@ -7582,7 +7582,7 @@
     "dillisan": {
       "counters": {
         "follow": 1,
-        "chat": 22
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7590,7 +7590,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-01-31T10:10:57Z"
+      "lastUpdated": "2026-02-07T13:30:11Z"
     },
     "tidersky": {
       "counters": {
@@ -7748,7 +7748,7 @@
     },
     "j5hot": {
       "counters": {
-        "chat": 182,
+        "chat": 186,
         "follow": 1,
         "points_spent": 450
       },
@@ -7760,11 +7760,20 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-07T13:14:43Z"
+      "lastUpdated": "2026-02-07T13:28:55Z"
+    },
+    "xx_luciifer_xx": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-02-07T13:31:40Z"
     }
   },
-  "lastUpdated": "2026-02-07T13:18:28Z",
-  "totalUsers": 383,
+  "lastUpdated": "2026-02-07T13:31:41Z",
+  "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
