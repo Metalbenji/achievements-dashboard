@@ -2086,7 +2086,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1091,
+        "chat": 1093,
         "points_spent": 87056,
         "effects": 12,
         "sounds": 7,
@@ -2131,7 +2131,7 @@
         "chat_champion",
         "birthday_person"
       ],
-      "lastUpdated": "2026-02-07T17:00:07Z"
+      "lastUpdated": "2026-02-07T17:12:26Z"
     },
     "anzerou": {
       "counters": {
@@ -7032,7 +7032,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 178,
+        "chat": 179,
         "points_spent": 20000,
         "sounds": 1,
         "clips": 2
@@ -7051,7 +7051,7 @@
         "chat_regular",
         "clip_first"
       ],
-      "lastUpdated": "2026-02-07T17:10:41Z"
+      "lastUpdated": "2026-02-07T17:11:11Z"
     },
     "anumra": {
       "counters": {
@@ -7650,13 +7650,14 @@
     "teknokyo": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-02-07T17:10:43Z"
+      "lastUpdated": "2026-02-07T17:14:36Z"
     },
     "thething_85": {
       "counters": {
@@ -7789,7 +7790,7 @@
       "lastUpdated": "2026-02-07T13:38:38Z"
     }
   },
-  "lastUpdated": "2026-02-07T17:10:43Z",
+  "lastUpdated": "2026-02-07T17:14:37Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
