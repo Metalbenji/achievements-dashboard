@@ -2024,7 +2024,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 710,
+        "chat": 712,
         "points_spent": 15702,
         "interactive": 5,
         "sub": 29,
@@ -2076,12 +2076,12 @@
         "gift_supporter",
         "gift_champion"
       ],
-      "lastUpdated": "2026-02-07T13:12:53Z"
+      "lastUpdated": "2026-02-07T13:17:24Z"
     },
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1068,
+        "chat": 1070,
         "points_spent": 87055,
         "effects": 12,
         "sounds": 7,
@@ -2125,7 +2125,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-02-07T13:12:55Z"
+      "lastUpdated": "2026-02-07T13:18:08Z"
     },
     "anzerou": {
       "counters": {
@@ -2512,7 +2512,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "points_spent": 12351,
         "screenshot": 1,
         "sounds": 2
@@ -2529,9 +2529,10 @@
         "spender_bronze",
         "sound_first",
         "spender_iron",
-        "spender_silver"
+        "spender_silver",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-01-25T10:25:11Z"
+      "lastUpdated": "2026-02-07T13:18:27Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3142,7 +3143,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2026,
+        "chat": 2036,
         "sub": 47,
         "points_spent": 350,
         "screenshot": 1
@@ -3176,7 +3177,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-02-07T13:12:05Z"
+      "lastUpdated": "2026-02-07T13:17:34Z"
     },
     "majesty81": {
       "counters": {
@@ -3276,7 +3277,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 204,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3295,7 +3296,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-02-07T13:15:09Z"
+      "lastUpdated": "2026-02-07T13:16:31Z"
     },
     "hero_zappz": {
       "counters": {
@@ -5918,7 +5919,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 392,
+        "chat": 394,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5942,7 +5943,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-02-07T13:15:06Z"
+      "lastUpdated": "2026-02-07T13:15:42Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7762,7 +7763,7 @@
       "lastUpdated": "2026-02-07T13:14:43Z"
     }
   },
-  "lastUpdated": "2026-02-07T13:15:11Z",
+  "lastUpdated": "2026-02-07T13:18:28Z",
   "totalUsers": 383,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
