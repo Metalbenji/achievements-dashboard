@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 1933,
+        "chat": 1936,
         "points_spent": 37201,
         "effects": 10,
         "sub": 13,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-02-07T13:32:14Z"
+      "lastUpdated": "2026-02-07T13:35:41Z"
     },
     "celran": {
       "counters": {
@@ -2081,7 +2081,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1075,
+        "chat": 1077,
         "points_spent": 87055,
         "effects": 12,
         "sounds": 7,
@@ -2125,7 +2125,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-02-07T13:33:07Z"
+      "lastUpdated": "2026-02-07T13:34:45Z"
     },
     "anzerou": {
       "counters": {
@@ -3368,7 +3368,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1457,
+        "chat": 1458,
         "points_spent": 52300,
         "effects": 7,
         "interactive": 12,
@@ -3400,7 +3400,7 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-02-07T13:32:56Z"
+      "lastUpdated": "2026-02-07T13:34:03Z"
     },
     "roffelonator": {
       "counters": {
@@ -7764,17 +7764,18 @@
     },
     "xx_luciifer_xx": {
       "counters": {
-        "chat": 2,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-02-07T13:33:32Z"
+      "lastUpdated": "2026-02-07T13:36:15Z"
     }
   },
-  "lastUpdated": "2026-02-07T13:33:33Z",
+  "lastUpdated": "2026-02-07T13:36:16Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
