@@ -2024,7 +2024,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 727,
+        "chat": 728,
         "points_spent": 15902,
         "interactive": 5,
         "sub": 29,
@@ -2081,7 +2081,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-02-07T14:20:12Z"
+      "lastUpdated": "2026-02-07T14:31:54Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2567,7 +2567,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 201,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 35
@@ -2598,7 +2598,7 @@
         "sub_tier1",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-02-07T14:29:52Z"
+      "lastUpdated": "2026-02-07T14:30:28Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2903,8 +2903,8 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 814,
-        "points_spent": 41901,
+        "chat": 816,
+        "points_spent": 51901,
         "sounds": 7,
         "effects": 65,
         "sub": 46,
@@ -2956,9 +2956,10 @@
         "spender_electrum",
         "sub_tier1",
         "early_bird",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-01-31T10:15:18Z"
+      "lastUpdated": "2026-02-07T14:48:38Z"
     },
     "andilippi": {
       "counters": {
@@ -7785,7 +7786,7 @@
       "lastUpdated": "2026-02-07T13:38:38Z"
     }
   },
-  "lastUpdated": "2026-02-07T14:29:53Z",
+  "lastUpdated": "2026-02-07T14:48:39Z",
   "totalUsers": 384,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
