@@ -2086,7 +2086,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1162,
+        "chat": 1163,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2131,7 +2131,7 @@
         "chat_champion",
         "birthday_person"
       ],
-      "lastUpdated": "2026-02-08T14:26:48Z"
+      "lastUpdated": "2026-02-08T14:41:03Z"
     },
     "anzerou": {
       "counters": {
@@ -7793,16 +7793,17 @@
     },
     "bigbuds420": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-02-08T14:40:11Z"
+      "lastUpdated": "2026-02-08T14:44:38Z"
     }
   },
-  "lastUpdated": "2026-02-08T14:40:12Z",
+  "lastUpdated": "2026-02-08T14:44:39Z",
   "totalUsers": 385,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
