@@ -2086,7 +2086,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1163,
+        "chat": 1183,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2131,7 +2131,7 @@
         "chat_champion",
         "birthday_person"
       ],
-      "lastUpdated": "2026-02-08T14:41:03Z"
+      "lastUpdated": "2026-02-08T15:48:39Z"
     },
     "anzerou": {
       "counters": {
@@ -2386,7 +2386,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2709,
+        "chat": 2716,
         "points_spent": 46250,
         "effects": 12,
         "sub": 43,
@@ -2444,7 +2444,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-02-08T09:27:13Z"
+      "lastUpdated": "2026-02-08T15:05:39Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2466,7 +2466,7 @@
     "ke1fire": {
       "counters": {
         "follow": 1,
-        "chat": 103,
+        "chat": 110,
         "points_spent": 500,
         "interactive": 1,
         "sub": 11
@@ -2490,7 +2490,7 @@
         "sub_champion",
         "chat_regular"
       ],
-      "lastUpdated": "2025-12-31T22:15:56Z"
+      "lastUpdated": "2026-02-08T15:30:31Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -2903,7 +2903,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 821,
+        "chat": 822,
         "points_spent": 51901,
         "sounds": 8,
         "effects": 65,
@@ -2959,7 +2959,7 @@
         "chat_enthusiast",
         "spender_gold"
       ],
-      "lastUpdated": "2026-02-08T12:00:41Z"
+      "lastUpdated": "2026-02-08T14:57:54Z"
     },
     "andilippi": {
       "counters": {
@@ -5165,8 +5165,8 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 236,
-        "sub": 14,
+        "chat": 238,
+        "sub": 15,
         "points_spent": 300,
         "effects": 1
       },
@@ -5188,7 +5188,7 @@
         "chat_frequent",
         "effect_first"
       ],
-      "lastUpdated": "2026-01-24T12:28:58Z"
+      "lastUpdated": "2026-02-08T15:28:39Z"
     },
     "jeditojanen": {
       "counters": {
@@ -7007,16 +7007,17 @@
     },
     "chaarleyxo": {
       "counters": {
-        "chat": 48,
+        "chat": 49,
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2025-11-13T17:09:31Z"
+      "lastUpdated": "2026-02-08T15:50:11Z"
     },
     "wizzanoo": {
       "counters": {
@@ -7793,17 +7794,17 @@
     },
     "bigbuds420": {
       "counters": {
-        "chat": 10
+        "chat": 15
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-02-08T14:44:38Z"
+      "lastUpdated": "2026-02-08T14:45:39Z"
     }
   },
-  "lastUpdated": "2026-02-08T14:44:39Z",
+  "lastUpdated": "2026-02-08T15:50:11Z",
   "totalUsers": 385,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
