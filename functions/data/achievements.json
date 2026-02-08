@@ -2086,7 +2086,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1183,
+        "chat": 1187,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2131,7 +2131,7 @@
         "chat_champion",
         "birthday_person"
       ],
-      "lastUpdated": "2026-02-08T15:48:39Z"
+      "lastUpdated": "2026-02-08T16:44:47Z"
     },
     "anzerou": {
       "counters": {
@@ -3376,7 +3376,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1496,
+        "chat": 1499,
         "points_spent": 52300,
         "effects": 7,
         "interactive": 12,
@@ -3408,7 +3408,7 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-02-08T10:59:28Z"
+      "lastUpdated": "2026-02-08T16:40:58Z"
     },
     "roffelonator": {
       "counters": {
@@ -7007,7 +7007,7 @@
     },
     "chaarleyxo": {
       "counters": {
-        "chat": 49,
+        "chat": 54,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7017,7 +7017,7 @@
         "chat_conversationalist",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-02-08T15:50:11Z"
+      "lastUpdated": "2026-02-08T15:52:58Z"
     },
     "wizzanoo": {
       "counters": {
@@ -7802,10 +7802,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2026-02-08T14:45:39Z"
+    },
+    "ruinedstrife": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-02-08T16:49:30Z"
     }
   },
-  "lastUpdated": "2026-02-08T15:50:11Z",
-  "totalUsers": 385,
+  "lastUpdated": "2026-02-08T16:49:31Z",
+  "totalUsers": 386,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
