@@ -2086,7 +2086,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1187,
+        "chat": 1190,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2131,7 +2131,7 @@
         "chat_champion",
         "birthday_person"
       ],
-      "lastUpdated": "2026-02-08T16:44:47Z"
+      "lastUpdated": "2026-02-08T17:07:37Z"
     },
     "anzerou": {
       "counters": {
@@ -4169,14 +4169,15 @@
     "wowsmael": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2025-08-30T08:58:25Z"
+      "lastUpdated": "2026-02-08T17:08:49Z"
     },
     "dustingorbit": {
       "counters": {
@@ -7805,16 +7806,16 @@
     },
     "ruinedstrife": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-02-08T16:54:35Z"
+      "lastUpdated": "2026-02-08T16:57:00Z"
     }
   },
-  "lastUpdated": "2026-02-08T16:54:36Z",
+  "lastUpdated": "2026-02-08T17:08:50Z",
   "totalUsers": 386,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
