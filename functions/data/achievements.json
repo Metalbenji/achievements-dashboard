@@ -2521,11 +2521,11 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 267,
-        "points_spent": 17451,
+        "chat": 269,
+        "points_spent": 17751,
         "screenshot": 1,
         "sounds": 3,
-        "effects": 2
+        "effects": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2544,7 +2544,7 @@
         "effect_first",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-02-14T13:43:32Z"
+      "lastUpdated": "2026-02-14T13:56:37Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3108,7 +3108,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 161,
+        "chat": 162,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3125,7 +3125,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-14T13:20:42Z"
+      "lastUpdated": "2026-02-14T14:07:50Z"
     },
     "justflip": {
       "counters": {
@@ -3382,7 +3382,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1556,
+        "chat": 1561,
         "points_spent": 54300,
         "effects": 7,
         "interactive": 12,
@@ -3415,7 +3415,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-02-14T12:07:48Z"
+      "lastUpdated": "2026-02-14T14:05:08Z"
     },
     "roffelonator": {
       "counters": {
@@ -7834,10 +7834,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2026-02-14T10:22:34Z"
+    },
+    "firstcomeswar": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-02-14T14:09:29Z"
     }
   },
-  "lastUpdated": "2026-02-14T13:43:33Z",
-  "totalUsers": 387,
+  "lastUpdated": "2026-02-14T14:09:30Z",
+  "totalUsers": 388,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
