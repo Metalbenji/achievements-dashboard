@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2068,
+        "chat": 2069,
         "points_spent": 37201,
         "effects": 10,
         "sub": 13,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-02-14T14:55:03Z"
+      "lastUpdated": "2026-02-14T15:20:14Z"
     },
     "celran": {
       "counters": {
@@ -1589,7 +1589,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 615,
+        "chat": 618,
         "points_spent": 24701,
         "effects": 22,
         "follow": 1,
@@ -1640,7 +1640,7 @@
         "clip_first",
         "first_caller"
       ],
-      "lastUpdated": "2026-02-14T14:10:12Z"
+      "lastUpdated": "2026-02-14T15:20:23Z"
     },
     "ramdon101": {
       "counters": {
@@ -1756,7 +1756,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 402,
+        "chat": 403,
         "follow": 1,
         "sub": 36,
         "points_spent": 95000,
@@ -1793,7 +1793,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-02-14T15:05:39Z"
+      "lastUpdated": "2026-02-14T15:29:38Z"
     },
     "scoman07": {
       "counters": {
@@ -2389,7 +2389,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2737,
+        "chat": 2740,
         "points_spent": 46250,
         "effects": 12,
         "sub": 44,
@@ -2447,7 +2447,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-02-14T11:21:52Z"
+      "lastUpdated": "2026-02-14T15:28:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3110,7 +3110,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 163,
+        "chat": 166,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3127,7 +3127,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-14T14:10:38Z"
+      "lastUpdated": "2026-02-14T15:23:42Z"
     },
     "justflip": {
       "counters": {
@@ -7839,19 +7839,20 @@
     },
     "firstcomeswar": {
       "counters": {
-        "chat": 12,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-02-14T15:12:13Z"
+      "lastUpdated": "2026-02-14T15:40:23Z"
     }
   },
-  "lastUpdated": "2026-02-14T15:12:14Z",
+  "lastUpdated": "2026-02-14T15:40:24Z",
   "totalUsers": 388,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
