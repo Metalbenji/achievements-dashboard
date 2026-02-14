@@ -7862,10 +7862,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-02-14T16:25:51Z"
+    },
+    "inge__nl": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-02-14T16:25:53Z"
     }
   },
-  "lastUpdated": "2026-02-14T16:25:53Z",
-  "totalUsers": 389,
+  "lastUpdated": "2026-02-14T16:25:55Z",
+  "totalUsers": 390,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
