@@ -2997,7 +2997,7 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 27,
         "raid": 1
       },
       "unlockedAchievements": [
@@ -3010,7 +3010,7 @@
         "raid_tier1_captain",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-02-14T16:26:24Z"
+      "lastUpdated": "2026-02-14T16:27:04Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -7857,28 +7857,29 @@
     },
     "spinalprizon": {
       "counters": {
-        "chat": 2,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-02-14T16:26:14Z"
+      "lastUpdated": "2026-02-14T16:27:33Z"
     },
     "inge__nl": {
       "counters": {
-        "chat": 1,
+        "chat": 3,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-02-14T16:26:26Z"
+      "lastUpdated": "2026-02-14T16:26:49Z"
     }
   },
-  "lastUpdated": "2026-02-14T16:26:27Z",
+  "lastUpdated": "2026-02-14T16:27:34Z",
   "totalUsers": 390,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
