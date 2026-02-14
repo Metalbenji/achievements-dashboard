@@ -1858,7 +1858,8 @@
         "interactive": 1,
         "effects": 19,
         "sub": 29,
-        "clips": 1
+        "clips": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1892,9 +1893,10 @@
         "emperor_loyal",
         "spender_iron",
         "early_bird",
-        "spender_electrum"
+        "spender_electrum",
+        "sound_first"
       ],
-      "lastUpdated": "2026-02-14T09:45:18Z"
+      "lastUpdated": "2026-02-14T09:45:19Z"
     },
     "tawmae": {
       "counters": {
@@ -7817,7 +7819,7 @@
       "lastUpdated": "2026-02-08T16:57:00Z"
     }
   },
-  "lastUpdated": "2026-02-14T09:45:19Z",
+  "lastUpdated": "2026-02-14T09:45:20Z",
   "totalUsers": 386,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
