@@ -7857,17 +7857,19 @@
     },
     "spinalprizon": {
       "counters": {
-        "chat": 7,
+        "chat": 8,
         "follow": 1,
-        "points_spent": 1
+        "points_spent": 201,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "birthday_person"
+        "birthday_person",
+        "effect_first"
       ],
-      "lastUpdated": "2026-02-14T16:28:56Z"
+      "lastUpdated": "2026-02-14T16:29:08Z"
     },
     "inge__nl": {
       "counters": {
@@ -7882,7 +7884,7 @@
       "lastUpdated": "2026-02-14T16:28:28Z"
     }
   },
-  "lastUpdated": "2026-02-14T16:28:57Z",
+  "lastUpdated": "2026-02-14T16:29:09Z",
   "totalUsers": 390,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
