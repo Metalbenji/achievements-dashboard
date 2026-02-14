@@ -1589,7 +1589,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 611,
+        "chat": 612,
         "points_spent": 24701,
         "effects": 22,
         "follow": 1,
@@ -1640,7 +1640,7 @@
         "clip_first",
         "first_caller"
       ],
-      "lastUpdated": "2026-02-14T10:20:59Z"
+      "lastUpdated": "2026-02-14T13:25:57Z"
     },
     "ramdon101": {
       "counters": {
@@ -2521,11 +2521,11 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 260,
-        "points_spent": 15151,
+        "chat": 267,
+        "points_spent": 17451,
         "screenshot": 1,
         "sounds": 3,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2541,9 +2541,10 @@
         "spender_iron",
         "spender_silver",
         "chat_frequent",
-        "effect_first"
+        "effect_first",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2026-02-14T12:52:07Z"
+      "lastUpdated": "2026-02-14T13:43:32Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3107,7 +3108,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 158,
+        "chat": 161,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3124,7 +3125,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-08T14:19:17Z"
+      "lastUpdated": "2026-02-14T13:20:42Z"
     },
     "justflip": {
       "counters": {
@@ -7835,7 +7836,7 @@
       "lastUpdated": "2026-02-14T10:22:34Z"
     }
   },
-  "lastUpdated": "2026-02-14T12:52:08Z",
+  "lastUpdated": "2026-02-14T13:43:33Z",
   "totalUsers": 387,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
