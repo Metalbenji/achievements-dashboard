@@ -7839,17 +7839,19 @@
     },
     "firstcomeswar": {
       "counters": {
-        "chat": 10
+        "chat": 12,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-02-14T15:09:37Z"
+      "lastUpdated": "2026-02-14T15:12:13Z"
     }
   },
-  "lastUpdated": "2026-02-14T15:09:38Z",
+  "lastUpdated": "2026-02-14T15:12:14Z",
   "totalUsers": 388,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
