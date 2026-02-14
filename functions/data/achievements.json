@@ -2169,7 +2169,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 18,
+        "chat": 19,
         "points_spent": 27000,
         "sounds": 1,
         "interactive": 1
@@ -2187,7 +2187,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2025-12-28T18:00:05Z"
+      "lastUpdated": "2026-02-14T16:09:06Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2389,7 +2389,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2740,
+        "chat": 2742,
         "points_spent": 46250,
         "effects": 12,
         "sub": 44,
@@ -2447,7 +2447,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-02-14T15:28:08Z"
+      "lastUpdated": "2026-02-14T15:42:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3159,7 +3159,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2146,
+        "chat": 2148,
         "sub": 47,
         "points_spent": 350,
         "screenshot": 1
@@ -3193,7 +3193,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-02-14T11:47:19Z"
+      "lastUpdated": "2026-02-14T15:44:27Z"
     },
     "majesty81": {
       "counters": {
@@ -4040,7 +4040,7 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 95
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4048,9 +4048,10 @@
         "weekend_warrior",
         "bday2025_attend",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-01-24T18:13:57Z"
+      "lastUpdated": "2026-02-14T16:19:25Z"
     },
     "neburgy": {
       "counters": {
@@ -4067,7 +4068,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 106,
+        "chat": 111,
         "sub": 18
       },
       "unlockedAchievements": [
@@ -4089,7 +4090,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2025-12-06T16:01:15Z"
+      "lastUpdated": "2026-02-14T16:14:36Z"
     },
     "xykojen": {
       "counters": {
@@ -6666,7 +6667,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 866,
+        "chat": 868,
         "points_spent": 46803,
         "sounds": 17,
         "effects": 6,
@@ -6710,7 +6711,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-02-14T14:26:55Z"
+      "lastUpdated": "2026-02-14T16:19:20Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7839,7 +7840,7 @@
     },
     "firstcomeswar": {
       "counters": {
-        "chat": 25,
+        "chat": 37,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7849,10 +7850,10 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-02-14T15:40:23Z"
+      "lastUpdated": "2026-02-14T16:18:01Z"
     }
   },
-  "lastUpdated": "2026-02-14T15:40:24Z",
+  "lastUpdated": "2026-02-14T16:19:25Z",
   "totalUsers": 388,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
