@@ -2521,11 +2521,12 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 273,
+        "chat": 274,
         "points_spent": 17751,
         "screenshot": 1,
         "sounds": 3,
-        "effects": 3
+        "effects": 3,
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2542,9 +2543,10 @@
         "spender_silver",
         "chat_frequent",
         "effect_first",
-        "emperor_loyal"
+        "emperor_loyal",
+        "clip_first"
       ],
-      "lastUpdated": "2026-02-14T14:20:44Z"
+      "lastUpdated": "2026-02-14T14:23:55Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -7846,7 +7848,7 @@
       "lastUpdated": "2026-02-14T14:22:54Z"
     }
   },
-  "lastUpdated": "2026-02-14T14:22:55Z",
+  "lastUpdated": "2026-02-14T14:23:56Z",
   "totalUsers": 388,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
