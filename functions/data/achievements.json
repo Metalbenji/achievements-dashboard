@@ -7857,7 +7857,7 @@
     },
     "spinalprizon": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "follow": 1,
         "points_spent": 201,
         "effects": 1
@@ -7867,9 +7867,10 @@
         "follow_supporter",
         "chat_newbie",
         "birthday_person",
-        "effect_first"
+        "effect_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-02-14T16:29:08Z"
+      "lastUpdated": "2026-02-14T16:29:44Z"
     },
     "inge__nl": {
       "counters": {
@@ -7884,7 +7885,7 @@
       "lastUpdated": "2026-02-14T16:28:28Z"
     }
   },
-  "lastUpdated": "2026-02-14T16:29:09Z",
+  "lastUpdated": "2026-02-14T16:29:45Z",
   "totalUsers": 390,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
