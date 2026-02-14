@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2066,
+        "chat": 2068,
         "points_spent": 37201,
         "effects": 10,
         "sub": 13,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-02-14T11:22:24Z"
+      "lastUpdated": "2026-02-14T14:55:03Z"
     },
     "celran": {
       "counters": {
@@ -1756,7 +1756,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 400,
+        "chat": 402,
         "follow": 1,
         "sub": 36,
         "points_spent": 95000,
@@ -1793,7 +1793,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-02-14T10:50:23Z"
+      "lastUpdated": "2026-02-14T15:05:39Z"
     },
     "scoman07": {
       "counters": {
@@ -5937,7 +5937,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 422,
+        "chat": 424,
         "follow": 1,
         "points_spent": 22500,
         "sounds": 1,
@@ -5961,7 +5961,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-02-14T10:57:49Z"
+      "lastUpdated": "2026-02-14T15:05:27Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6666,7 +6666,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 861,
+        "chat": 866,
         "points_spent": 46803,
         "sounds": 17,
         "effects": 6,
@@ -6710,7 +6710,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-02-14T10:59:00Z"
+      "lastUpdated": "2026-02-14T14:26:55Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6856,7 +6856,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 122,
+        "chat": 123,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -6891,7 +6891,7 @@
         "bits_steady",
         "gift_kind"
       ],
-      "lastUpdated": "2026-02-08T09:49:25Z"
+      "lastUpdated": "2026-02-14T15:03:34Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7839,16 +7839,17 @@
     },
     "firstcomeswar": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-02-14T14:22:54Z"
+      "lastUpdated": "2026-02-14T15:09:37Z"
     }
   },
-  "lastUpdated": "2026-02-14T14:23:56Z",
+  "lastUpdated": "2026-02-14T15:09:38Z",
   "totalUsers": 388,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
