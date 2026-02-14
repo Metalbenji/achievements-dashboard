@@ -1589,7 +1589,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 612,
+        "chat": 615,
         "points_spent": 24701,
         "effects": 22,
         "follow": 1,
@@ -1640,7 +1640,7 @@
         "clip_first",
         "first_caller"
       ],
-      "lastUpdated": "2026-02-14T13:25:57Z"
+      "lastUpdated": "2026-02-14T14:10:12Z"
     },
     "ramdon101": {
       "counters": {
@@ -2521,7 +2521,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 269,
+        "chat": 273,
         "points_spent": 17751,
         "screenshot": 1,
         "sounds": 3,
@@ -2544,7 +2544,7 @@
         "effect_first",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-02-14T13:56:37Z"
+      "lastUpdated": "2026-02-14T14:20:44Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3108,7 +3108,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 162,
+        "chat": 163,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3125,7 +3125,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-14T14:07:50Z"
+      "lastUpdated": "2026-02-14T14:10:38Z"
     },
     "justflip": {
       "counters": {
@@ -7837,15 +7837,16 @@
     },
     "firstcomeswar": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-02-14T14:09:29Z"
+      "lastUpdated": "2026-02-14T14:22:54Z"
     }
   },
-  "lastUpdated": "2026-02-14T14:09:30Z",
+  "lastUpdated": "2026-02-14T14:22:55Z",
   "totalUsers": 388,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
