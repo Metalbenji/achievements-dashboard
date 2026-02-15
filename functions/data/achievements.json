@@ -7863,14 +7863,16 @@
     },
     "harusia_ch": {
       "counters": {
-        "chat": 21
+        "chat": 21,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-02-15T17:07:35Z"
+      "lastUpdated": "2026-02-15T17:33:58Z"
     },
     "kelpyeeee": {
       "counters": {
@@ -7943,7 +7945,7 @@
       "lastUpdated": "2026-02-15T17:33:04Z"
     }
   },
-  "lastUpdated": "2026-02-15T17:33:05Z",
+  "lastUpdated": "2026-02-15T17:33:58Z",
   "totalUsers": 394,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
