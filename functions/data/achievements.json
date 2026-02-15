@@ -7903,16 +7903,18 @@
     "eggfriedcheese": {
       "counters": {
         "points_spent": 1,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "birthday_person",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-02-15T16:48:55Z"
+      "lastUpdated": "2026-02-15T16:48:57Z"
     }
   },
-  "lastUpdated": "2026-02-15T16:48:56Z",
+  "lastUpdated": "2026-02-15T16:48:57Z",
   "totalUsers": 392,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
