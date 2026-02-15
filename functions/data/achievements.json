@@ -2027,7 +2027,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 748,
+        "chat": 750,
         "points_spent": 16552,
         "interactive": 5,
         "sub": 29,
@@ -2082,9 +2082,10 @@
         "gift_champion",
         "donation_first_timer",
         "total_donation_starter",
-        "total_donation_generous"
+        "total_donation_generous",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2026-02-07T16:14:32Z"
+      "lastUpdated": "2026-02-15T14:26:42Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2391,7 +2392,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2771,
+        "chat": 2773,
         "points_spent": 46250,
         "effects": 12,
         "sub": 44,
@@ -2449,7 +2450,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-02-15T12:56:59Z"
+      "lastUpdated": "2026-02-15T14:22:07Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2467,35 +2468,6 @@
         "chat_regular"
       ],
       "lastUpdated": "2026-01-11T15:19:11Z"
-    },
-    "ke1fire": {
-      "counters": {
-        "follow": 1,
-        "chat": 110,
-        "points_spent": 500,
-        "interactive": 1,
-        "sub": 11
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "night_owl",
-        "weekend_warrior",
-        "bday2025_attend",
-        "chat_newbie",
-        "interactive_first",
-        "chat_talker",
-        "chat_conversationalist",
-        "sub_tier1",
-        "sub_first_month",
-        "sub_supporter",
-        "sub_loyal",
-        "sub_dedicated",
-        "sub_committed",
-        "sub_veteran",
-        "sub_champion",
-        "chat_regular"
-      ],
-      "lastUpdated": "2026-02-08T15:30:31Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -3115,7 +3087,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 178,
+        "chat": 182,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3132,7 +3104,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-15T13:23:45Z"
+      "lastUpdated": "2026-02-15T14:19:13Z"
     },
     "justflip": {
       "counters": {
@@ -3389,7 +3361,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1573,
+        "chat": 1580,
         "points_spent": 54300,
         "effects": 7,
         "interactive": 12,
@@ -3422,7 +3394,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-02-15T13:37:16Z"
+      "lastUpdated": "2026-02-15T14:17:45Z"
     },
     "roffelonator": {
       "counters": {
@@ -5943,7 +5915,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 434,
+        "chat": 437,
         "follow": 1,
         "points_spent": 42500,
         "sounds": 2,
@@ -5968,7 +5940,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-02-15T13:18:54Z"
+      "lastUpdated": "2026-02-15T14:23:09Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6864,7 +6836,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 126,
+        "chat": 127,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -6899,7 +6871,7 @@
         "bits_steady",
         "gift_kind"
       ],
-      "lastUpdated": "2026-02-15T13:05:10Z"
+      "lastUpdated": "2026-02-15T14:23:31Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7890,15 +7862,44 @@
     },
     "harusia_ch": {
       "counters": {
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-02-15T13:37:22Z"
+      "lastUpdated": "2026-02-15T13:57:45Z"
+    },
+    "kelpyeeee": {
+      "counters": {
+        "follow": 1,
+        "chat": 113,
+        "points_spent": 500,
+        "interactive": 1,
+        "sub": 11
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "night_owl",
+        "weekend_warrior",
+        "bday2025_attend",
+        "chat_newbie",
+        "interactive_first",
+        "chat_talker",
+        "chat_conversationalist",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "chat_regular"
+      ],
+      "lastUpdated": "2026-02-15T14:26:09Z"
     }
   },
-  "lastUpdated": "2026-02-15T13:37:23Z",
+  "lastUpdated": "2026-02-15T14:26:43Z",
   "totalUsers": 391,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
