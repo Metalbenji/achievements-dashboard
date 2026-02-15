@@ -2027,7 +2027,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 750,
+        "chat": 763,
         "points_spent": 16552,
         "interactive": 5,
         "sub": 29,
@@ -2085,7 +2085,7 @@
         "total_donation_generous",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-02-15T14:26:42Z"
+      "lastUpdated": "2026-02-15T14:34:11Z"
     },
     "mattyuk937": {
       "counters": {
@@ -2392,7 +2392,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2773,
+        "chat": 2776,
         "points_spent": 46250,
         "effects": 12,
         "sub": 44,
@@ -2450,7 +2450,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-02-15T14:22:07Z"
+      "lastUpdated": "2026-02-15T14:31:17Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7862,12 +7862,13 @@
     },
     "harusia_ch": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-02-15T13:57:45Z"
+      "lastUpdated": "2026-02-15T14:37:55Z"
     },
     "kelpyeeee": {
       "counters": {
@@ -7899,7 +7900,7 @@
       "lastUpdated": "2026-02-15T14:26:09Z"
     }
   },
-  "lastUpdated": "2026-02-15T14:26:43Z",
+  "lastUpdated": "2026-02-15T14:37:56Z",
   "totalUsers": 391,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
