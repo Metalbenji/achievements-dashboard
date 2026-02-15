@@ -1644,7 +1644,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2375,
+        "chat": 2376,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1700,7 +1700,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-02-15T10:48:22Z"
+      "lastUpdated": "2026-02-15T13:08:49Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2391,7 +2391,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2769,
+        "chat": 2771,
         "points_spent": 46250,
         "effects": 12,
         "sub": 44,
@@ -2449,7 +2449,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-02-15T10:51:49Z"
+      "lastUpdated": "2026-02-15T12:56:59Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2523,7 +2523,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 274,
+        "chat": 276,
         "points_spent": 17751,
         "screenshot": 1,
         "sounds": 3,
@@ -2548,7 +2548,7 @@
         "emperor_loyal",
         "clip_first"
       ],
-      "lastUpdated": "2026-02-14T14:23:55Z"
+      "lastUpdated": "2026-02-15T13:12:24Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3115,7 +3115,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 172,
+        "chat": 178,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3132,7 +3132,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-15T10:15:07Z"
+      "lastUpdated": "2026-02-15T13:23:45Z"
     },
     "justflip": {
       "counters": {
@@ -3389,7 +3389,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1572,
+        "chat": 1573,
         "points_spent": 54300,
         "effects": 7,
         "interactive": 12,
@@ -3422,7 +3422,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-02-15T10:30:42Z"
+      "lastUpdated": "2026-02-15T13:37:16Z"
     },
     "roffelonator": {
       "counters": {
@@ -3724,7 +3724,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 172,
+        "chat": 176,
         "points_spent": 17002,
         "sounds": 4,
         "effects": 1
@@ -3743,7 +3743,7 @@
         "spender_silver",
         "spender_iron"
       ],
-      "lastUpdated": "2026-02-15T12:40:48Z"
+      "lastUpdated": "2026-02-15T13:08:14Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -5943,10 +5943,10 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 432,
+        "chat": 434,
         "follow": 1,
         "points_spent": 42500,
-        "sounds": 1,
+        "sounds": 2,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -5968,7 +5968,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-02-15T12:45:13Z"
+      "lastUpdated": "2026-02-15T13:18:54Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6864,7 +6864,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 124,
+        "chat": 126,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -6899,7 +6899,7 @@
         "bits_steady",
         "gift_kind"
       ],
-      "lastUpdated": "2026-02-15T10:06:03Z"
+      "lastUpdated": "2026-02-15T13:05:10Z"
     },
     "ldbv1983": {
       "counters": {
@@ -7339,7 +7339,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 893,
+        "chat": 894,
         "follow": 1,
         "points_spent": 10901,
         "screenshot": 2,
@@ -7375,7 +7375,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2026-02-15T12:44:40Z"
+      "lastUpdated": "2026-02-15T12:46:29Z"
     },
     "richiecuhh": {
       "counters": {
@@ -7887,10 +7887,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-02-14T16:30:17Z"
+    },
+    "harusia_ch": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-02-15T13:37:22Z"
     }
   },
-  "lastUpdated": "2026-02-15T12:45:14Z",
-  "totalUsers": 390,
+  "lastUpdated": "2026-02-15T13:37:23Z",
+  "totalUsers": 391,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
