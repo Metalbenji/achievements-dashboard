@@ -3608,7 +3608,7 @@
         "sub": 37,
         "follow": 1,
         "chat": 502,
-        "points_spent": 1100,
+        "points_spent": 1101,
         "effects": 2
       },
       "unlockedAchievements": [
@@ -3634,9 +3634,10 @@
         "chat_frequent",
         "chat_dedicated",
         "early_bird",
-        "sub_master"
+        "sub_master",
+        "birthday_person"
       ],
-      "lastUpdated": "2026-02-15T16:49:44Z"
+      "lastUpdated": "2026-02-15T16:50:20Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -7904,7 +7905,7 @@
       "counters": {
         "points_spent": 2,
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "birthday_person",
@@ -7912,10 +7913,10 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-02-15T16:49:50Z"
+      "lastUpdated": "2026-02-15T16:50:00Z"
     }
   },
-  "lastUpdated": "2026-02-15T16:49:51Z",
+  "lastUpdated": "2026-02-15T16:50:21Z",
   "totalUsers": 392,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
