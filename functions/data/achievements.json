@@ -1644,7 +1644,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2377,
+        "chat": 2378,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1700,7 +1700,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-02-15T15:42:44Z"
+      "lastUpdated": "2026-02-15T16:47:06Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1853,7 +1853,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 447,
+        "chat": 448,
         "points_spent": 36951,
         "interactive": 1,
         "effects": 19,
@@ -1896,7 +1896,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-02-14T09:53:56Z"
+      "lastUpdated": "2026-02-15T16:30:54Z"
     },
     "tawmae": {
       "counters": {
@@ -2707,7 +2707,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 129
+        "chat": 130
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2718,12 +2718,12 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-15T09:58:51Z"
+      "lastUpdated": "2026-02-15T16:44:42Z"
     },
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 533,
+        "chat": 541,
         "sub": 45,
         "points_spent": 20000,
         "sounds": 1
@@ -2757,7 +2757,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-02-14T17:33:21Z"
+      "lastUpdated": "2026-02-15T16:10:52Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3361,7 +3361,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1581,
+        "chat": 1583,
         "points_spent": 54300,
         "effects": 7,
         "interactive": 12,
@@ -3394,7 +3394,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-02-15T15:13:55Z"
+      "lastUpdated": "2026-02-15T16:04:24Z"
     },
     "roffelonator": {
       "counters": {
@@ -3607,7 +3607,7 @@
       "counters": {
         "sub": 37,
         "follow": 1,
-        "chat": 487,
+        "chat": 501,
         "points_spent": 1100,
         "effects": 2
       },
@@ -3636,7 +3636,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-02-15T16:00:03Z"
+      "lastUpdated": "2026-02-15T16:42:55Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -7862,14 +7862,14 @@
     },
     "harusia_ch": {
       "counters": {
-        "chat": 10
+        "chat": 17
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-02-15T16:00:09Z"
+      "lastUpdated": "2026-02-15T16:47:25Z"
     },
     "kelpyeeee": {
       "counters": {
@@ -7899,10 +7899,19 @@
         "chat_regular"
       ],
       "lastUpdated": "2026-02-15T14:26:09Z"
+    },
+    "eggfriedcheese": {
+      "counters": {
+        "points_spent": 1
+      },
+      "unlockedAchievements": [
+        "birthday_person"
+      ],
+      "lastUpdated": "2026-02-15T16:48:34Z"
     }
   },
-  "lastUpdated": "2026-02-15T16:00:10Z",
-  "totalUsers": 391,
+  "lastUpdated": "2026-02-15T16:48:36Z",
+  "totalUsers": 392,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
