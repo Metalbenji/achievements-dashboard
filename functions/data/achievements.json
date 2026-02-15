@@ -2707,7 +2707,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 130
+        "chat": 131
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -2718,7 +2718,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-15T16:44:42Z"
+      "lastUpdated": "2026-02-15T16:50:32Z"
     },
     "gwinniejones": {
       "counters": {
@@ -3607,7 +3607,7 @@
       "counters": {
         "sub": 37,
         "follow": 1,
-        "chat": 502,
+        "chat": 503,
         "points_spent": 1101,
         "effects": 2
       },
@@ -3637,7 +3637,7 @@
         "sub_master",
         "birthday_person"
       ],
-      "lastUpdated": "2026-02-15T16:50:20Z"
+      "lastUpdated": "2026-02-15T16:50:24Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -7914,10 +7914,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-02-15T16:50:00Z"
+    },
+    "d1mag3": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-02-15T16:55:34Z"
     }
   },
-  "lastUpdated": "2026-02-15T16:50:21Z",
-  "totalUsers": 392,
+  "lastUpdated": "2026-02-15T16:55:35Z",
+  "totalUsers": 393,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
