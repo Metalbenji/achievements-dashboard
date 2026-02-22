@@ -3137,7 +3137,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2221,
+        "chat": 2227,
         "sub": 47,
         "points_spent": 350,
         "screenshot": 1
@@ -3171,7 +3171,7 @@
         "chat_expert",
         "early_bird"
       ],
-      "lastUpdated": "2026-02-22T10:56:01Z"
+      "lastUpdated": "2026-02-22T11:44:19Z"
     },
     "majesty81": {
       "counters": {
@@ -3271,7 +3271,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 207,
+        "chat": 208,
         "points_spent": 901,
         "effects": 2,
         "sounds": 2
@@ -3290,7 +3290,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-02-15T11:32:39Z"
+      "lastUpdated": "2026-02-22T11:28:26Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3362,7 +3362,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1603,
+        "chat": 1607,
         "points_spent": 54300,
         "effects": 7,
         "interactive": 12,
@@ -3395,7 +3395,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-02-22T10:58:14Z"
+      "lastUpdated": "2026-02-22T11:45:35Z"
     },
     "roffelonator": {
       "counters": {
@@ -7989,10 +7989,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-02-22T11:22:32Z"
+    },
+    "rainbowunicornwatchdog": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-02-22T11:52:40Z"
     }
   },
-  "lastUpdated": "2026-02-22T11:22:33Z",
-  "totalUsers": 398,
+  "lastUpdated": "2026-02-22T11:52:41Z",
+  "totalUsers": 399,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
