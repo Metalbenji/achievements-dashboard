@@ -1853,7 +1853,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 451,
+        "chat": 452,
         "points_spent": 36951,
         "interactive": 1,
         "effects": 19,
@@ -1896,7 +1896,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-02-22T09:26:14Z"
+      "lastUpdated": "2026-02-22T09:40:51Z"
     },
     "tawmae": {
       "counters": {
@@ -2090,7 +2090,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1247,
+        "chat": 1249,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2136,7 +2136,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-02-22T09:25:06Z"
+      "lastUpdated": "2026-02-22T09:41:20Z"
     },
     "anzerou": {
       "counters": {
@@ -2195,7 +2195,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 803,
+        "chat": 804,
         "points_spent": 44808,
         "interactive": 18,
         "effects": 32,
@@ -2244,7 +2244,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-02-22T09:38:52Z"
+      "lastUpdated": "2026-02-22T09:41:51Z"
     },
     "redunt86": {
       "counters": {
@@ -3087,7 +3087,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 190,
+        "chat": 191,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3104,7 +3104,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-02-22T09:39:27Z"
+      "lastUpdated": "2026-02-22T09:41:03Z"
     },
     "justflip": {
       "counters": {
@@ -7946,16 +7946,25 @@
     },
     "notgreatnate": {
       "counters": {
+        "chat": 4
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-02-22T09:42:03Z"
+    },
+    "kennybust": {
+      "counters": {
         "chat": 1
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-02-22T09:39:43Z"
+      "lastUpdated": "2026-02-22T09:42:13Z"
     }
   },
-  "lastUpdated": "2026-02-22T09:39:44Z",
-  "totalUsers": 395,
+  "lastUpdated": "2026-02-22T09:42:13Z",
+  "totalUsers": 396,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
