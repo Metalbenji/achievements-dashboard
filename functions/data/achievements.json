@@ -6847,7 +6847,7 @@
         "bits": 291,
         "follow": 1,
         "sub": 1,
-        "points_spent": 4800,
+        "points_spent": 5300,
         "effects": 3,
         "sounds": 2,
         "screenshot": 6,
@@ -6878,9 +6878,10 @@
         "gift_starter",
         "bits_steady",
         "gift_kind",
-        "interactive_first"
+        "interactive_first",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-02-22T20:31:14Z"
+      "lastUpdated": "2026-02-22T20:36:37Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8021,7 +8022,7 @@
       "lastUpdated": "2026-02-22T13:43:00Z"
     }
   },
-  "lastUpdated": "2026-02-22T20:31:14Z",
+  "lastUpdated": "2026-02-22T20:36:38Z",
   "totalUsers": 400,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
