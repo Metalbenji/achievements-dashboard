@@ -1589,8 +1589,8 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 636,
-        "points_spent": 24701,
+        "chat": 637,
+        "points_spent": 26701,
         "effects": 22,
         "follow": 1,
         "sub": 33,
@@ -1638,9 +1638,10 @@
         "night_owl",
         "early_bird",
         "clip_first",
-        "first_caller"
+        "first_caller",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-02-22T16:08:49Z"
+      "lastUpdated": "2026-02-22T16:29:59Z"
     },
     "ramdon101": {
       "counters": {
@@ -2497,10 +2498,10 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 300,
-        "points_spent": 17751,
+        "chat": 314,
+        "points_spent": 17851,
         "screenshot": 1,
-        "sounds": 3,
+        "sounds": 4,
         "effects": 3,
         "clips": 1
       },
@@ -2523,7 +2524,7 @@
         "clip_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-02-22T16:09:16Z"
+      "lastUpdated": "2026-02-22T16:28:21Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -2646,11 +2647,11 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 630,
+        "chat": 633,
         "sub": 38,
-        "points_spent": 25251,
+        "points_spent": 27251,
         "interactive": 2,
-        "sounds": 2,
+        "sounds": 3,
         "effects": 9
       },
       "unlockedAchievements": [
@@ -2687,7 +2688,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-02-22T15:33:52Z"
+      "lastUpdated": "2026-02-22T16:29:30Z"
     },
     "umenneske94": {
       "counters": {
@@ -8016,7 +8017,7 @@
       "lastUpdated": "2026-02-22T13:43:00Z"
     }
   },
-  "lastUpdated": "2026-02-22T16:09:17Z",
+  "lastUpdated": "2026-02-22T16:30:00Z",
   "totalUsers": 400,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
