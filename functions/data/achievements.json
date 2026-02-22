@@ -1644,7 +1644,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2390,
+        "chat": 2393,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1700,7 +1700,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-02-22T09:38:58Z"
+      "lastUpdated": "2026-02-22T09:46:21Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2195,10 +2195,10 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 804,
-        "points_spent": 44808,
+        "chat": 805,
+        "points_spent": 45308,
         "interactive": 18,
-        "effects": 32,
+        "effects": 33,
         "sub": 27,
         "sounds": 3,
         "screenshot": 6,
@@ -2244,7 +2244,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-02-22T09:41:51Z"
+      "lastUpdated": "2026-02-22T09:46:54Z"
     },
     "redunt86": {
       "counters": {
@@ -2885,7 +2885,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 830,
+        "chat": 836,
         "points_spent": 57701,
         "sounds": 10,
         "effects": 68,
@@ -2941,7 +2941,7 @@
         "chat_enthusiast",
         "spender_gold"
       ],
-      "lastUpdated": "2026-02-15T10:49:47Z"
+      "lastUpdated": "2026-02-22T09:46:52Z"
     },
     "andilippi": {
       "counters": {
@@ -7946,12 +7946,13 @@
     },
     "notgreatnate": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-02-22T09:42:03Z"
+      "lastUpdated": "2026-02-22T09:48:45Z"
     },
     "kennybust": {
       "counters": {
@@ -7963,7 +7964,7 @@
       "lastUpdated": "2026-02-22T09:42:13Z"
     }
   },
-  "lastUpdated": "2026-02-22T09:42:13Z",
+  "lastUpdated": "2026-02-22T09:48:46Z",
   "totalUsers": 396,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
