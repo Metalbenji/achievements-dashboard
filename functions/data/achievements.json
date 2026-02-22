@@ -8005,15 +8005,17 @@
     },
     "limpidx_": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-02-22T13:23:12Z"
+      "lastUpdated": "2026-02-22T13:24:39Z"
     }
   },
-  "lastUpdated": "2026-02-22T13:23:13Z",
+  "lastUpdated": "2026-02-22T13:24:39Z",
   "totalUsers": 400,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
