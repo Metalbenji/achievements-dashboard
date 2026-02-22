@@ -7980,16 +7980,18 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 1
+        "chat": 3,
+        "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-02-22T11:18:25Z"
+      "lastUpdated": "2026-02-22T11:22:32Z"
     }
   },
-  "lastUpdated": "2026-02-22T11:18:26Z",
+  "lastUpdated": "2026-02-22T11:22:33Z",
   "totalUsers": 398,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
