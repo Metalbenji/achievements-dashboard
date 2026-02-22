@@ -2354,7 +2354,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 300,
+        "chat": 302,
         "sub": 29,
         "points_spent": 1650,
         "screenshot": 1,
@@ -2389,7 +2389,7 @@
         "early_bird",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-02-22T12:19:13Z"
+      "lastUpdated": "2026-02-22T12:21:17Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2587,10 +2587,10 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 385,
+        "chat": 411,
         "bits": 990,
-        "points_spent": 3600,
-        "effects": 6
+        "points_spent": 4400,
+        "effects": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2611,14 +2611,14 @@
         "bits_dedicated",
         "chat_dedicated"
       ],
-      "lastUpdated": "2025-12-28T18:34:35Z"
+      "lastUpdated": "2026-02-22T12:48:01Z"
     },
     "warl0c13": {
       "counters": {
         "points_spent": 10700,
         "effects": 27,
         "follow": 1,
-        "chat": 134,
+        "chat": 137,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -2640,7 +2640,7 @@
         "spender_iron",
         "early_bird"
       ],
-      "lastUpdated": "2026-02-22T12:18:44Z"
+      "lastUpdated": "2026-02-22T12:21:29Z"
     },
     "s3n71": {
       "counters": {
@@ -3363,7 +3363,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1612,
+        "chat": 1613,
         "points_spent": 54300,
         "effects": 7,
         "interactive": 12,
@@ -3396,7 +3396,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-02-22T12:08:37Z"
+      "lastUpdated": "2026-02-22T13:06:22Z"
     },
     "roffelonator": {
       "counters": {
@@ -7993,7 +7993,7 @@
     },
     "rainbowunicornwatchdog": {
       "counters": {
-        "chat": 25
+        "chat": 30
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -8001,11 +8001,20 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-02-22T12:17:00Z"
+      "lastUpdated": "2026-02-22T12:38:04Z"
+    },
+    "limpidx_": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-02-22T13:23:12Z"
     }
   },
-  "lastUpdated": "2026-02-22T12:19:14Z",
-  "totalUsers": 399,
+  "lastUpdated": "2026-02-22T13:23:13Z",
+  "totalUsers": 400,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
