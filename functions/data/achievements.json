@@ -1589,12 +1589,12 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 697,
-        "points_spent": 31102,
-        "effects": 24,
+        "chat": 698,
+        "points_spent": 31402,
+        "effects": 25,
         "follow": 1,
         "sub": 33,
-        "sounds": 11,
+        "sounds": 12,
         "screenshot": 2,
         "interactive": 8,
         "bits": 200,
@@ -1640,9 +1640,10 @@
         "clip_first",
         "first_caller",
         "spender_electrum",
-        "birthday_person"
+        "birthday_person",
+        "effect_master"
       ],
-      "lastUpdated": "2026-03-07T11:44:00Z"
+      "lastUpdated": "2026-03-07T11:50:33Z"
     },
     "ramdon101": {
       "counters": {
@@ -1758,7 +1759,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 414,
+        "chat": 415,
         "follow": 1,
         "sub": 37,
         "points_spent": 95000,
@@ -1795,7 +1796,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-03-07T11:29:26Z"
+      "lastUpdated": "2026-03-07T11:49:43Z"
     },
     "scoman07": {
       "counters": {
@@ -3106,7 +3107,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 202,
+        "chat": 203,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3124,7 +3125,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-07T11:45:27Z"
+      "lastUpdated": "2026-03-07T11:50:31Z"
     },
     "justflip": {
       "counters": {
@@ -6668,7 +6669,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 928,
+        "chat": 929,
         "points_spent": 48153,
         "sounds": 18,
         "effects": 6,
@@ -6712,7 +6713,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-03-07T11:24:48Z"
+      "lastUpdated": "2026-03-07T11:46:25Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7777,7 +7778,7 @@
     },
     "j5hot": {
       "counters": {
-        "chat": 247,
+        "chat": 248,
         "follow": 1,
         "points_spent": 3450,
         "effects": 1
@@ -7794,7 +7795,7 @@
         "effect_first",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-03-07T11:45:38Z"
+      "lastUpdated": "2026-03-07T11:45:54Z"
     },
     "xx_luciifer_xx": {
       "counters": {
@@ -8042,7 +8043,7 @@
     },
     "jettbuster": {
       "counters": {
-        "chat": 13,
+        "chat": 20,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8051,7 +8052,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-07T11:44:54Z"
+      "lastUpdated": "2026-03-07T11:48:39Z"
     },
     "wezzlaan": {
       "counters": {
@@ -8065,7 +8066,7 @@
       "lastUpdated": "2026-03-07T11:36:40Z"
     }
   },
-  "lastUpdated": "2026-03-07T11:45:39Z",
+  "lastUpdated": "2026-03-07T11:50:34Z",
   "totalUsers": 402,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
