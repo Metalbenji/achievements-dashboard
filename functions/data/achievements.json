@@ -8037,15 +8037,17 @@
     },
     "jettbuster": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-03-07T11:18:51Z"
+      "lastUpdated": "2026-03-07T11:18:53Z"
     }
   },
-  "lastUpdated": "2026-03-07T11:18:52Z",
+  "lastUpdated": "2026-03-07T11:18:53Z",
   "totalUsers": 401,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
