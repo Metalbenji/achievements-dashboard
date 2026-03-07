@@ -1589,7 +1589,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 663,
+        "chat": 670,
         "points_spent": 27502,
         "effects": 22,
         "follow": 1,
@@ -1642,7 +1642,7 @@
         "spender_electrum",
         "birthday_person"
       ],
-      "lastUpdated": "2026-03-07T08:36:30Z"
+      "lastUpdated": "2026-03-07T08:40:54Z"
     },
     "ramdon101": {
       "counters": {
@@ -2093,7 +2093,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1259,
+        "chat": 1260,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2139,7 +2139,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-03-07T08:38:22Z"
+      "lastUpdated": "2026-03-07T08:41:06Z"
     },
     "anzerou": {
       "counters": {
@@ -2593,10 +2593,10 @@
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 420,
+        "chat": 423,
         "bits": 990,
         "points_spent": 5200,
-        "effects": 7
+        "effects": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2618,7 +2618,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-03-07T08:38:44Z"
+      "lastUpdated": "2026-03-07T08:40:58Z"
     },
     "warl0c13": {
       "counters": {
@@ -8035,7 +8035,7 @@
       "lastUpdated": "2026-02-22T13:43:00Z"
     }
   },
-  "lastUpdated": "2026-03-07T08:38:44Z",
+  "lastUpdated": "2026-03-07T08:41:19Z",
   "totalUsers": 400,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
