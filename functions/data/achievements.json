@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2156,
+        "chat": 2175,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-07T13:28:43Z"
+      "lastUpdated": "2026-03-07T13:41:44Z"
     },
     "celran": {
       "counters": {
@@ -1647,7 +1647,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2439,
+        "chat": 2441,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1703,11 +1703,11 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-07T13:17:32Z"
+      "lastUpdated": "2026-03-07T13:36:06Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1723,
+        "chat": 1724,
         "points_spent": 52701,
         "interactive": 38,
         "follow": 1,
@@ -1755,7 +1755,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-03-07T12:48:15Z"
+      "lastUpdated": "2026-03-07T13:30:59Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2253,9 +2253,9 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1160,
-        "points_spent": 12750,
-        "effects": 23,
+        "chat": 1163,
+        "points_spent": 14050,
+        "effects": 25,
         "sounds": 5,
         "interactive": 1
       },
@@ -2278,15 +2278,16 @@
         "spender_silver",
         "interactive_first",
         "chat_champion",
-        "spender_iron"
+        "spender_iron",
+        "effect_master"
       ],
-      "lastUpdated": "2026-02-14T17:13:30Z"
+      "lastUpdated": "2026-03-07T13:41:57Z"
     },
     "oxmacerxo": {
       "counters": {
         "points_spent": 69952,
         "follow": 1,
-        "chat": 850,
+        "chat": 852,
         "effects": 77,
         "screenshot": 4,
         "sounds": 5,
@@ -2339,7 +2340,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-03-07T13:23:43Z"
+      "lastUpdated": "2026-03-07T13:41:34Z"
     },
     "syn__________": {
       "counters": {
@@ -2460,7 +2461,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 132
+        "chat": 135
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2472,12 +2473,12 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-07T13:28:42Z"
+      "lastUpdated": "2026-03-07T13:36:42Z"
     },
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 69,
+        "chat": 71,
         "points_spent": 20500,
         "sounds": 1,
         "effects": 1
@@ -2495,7 +2496,7 @@
         "effect_first",
         "spender_iron"
       ],
-      "lastUpdated": "2025-12-28T18:00:06Z"
+      "lastUpdated": "2026-03-07T13:40:25Z"
     },
     "insidematt": {
       "counters": {
@@ -2623,10 +2624,10 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 10700,
-        "effects": 27,
+        "points_spent": 11050,
+        "effects": 28,
         "follow": 1,
-        "chat": 137,
+        "chat": 147,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -2648,7 +2649,7 @@
         "spender_iron",
         "early_bird"
       ],
-      "lastUpdated": "2026-02-22T12:21:29Z"
+      "lastUpdated": "2026-03-07T13:41:55Z"
     },
     "s3n71": {
       "counters": {
@@ -3107,7 +3108,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 219,
+        "chat": 220,
         "follow": 1,
         "points_spent": 2350,
         "effects": 2
@@ -3125,7 +3126,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-07T13:12:08Z"
+      "lastUpdated": "2026-03-07T13:35:28Z"
     },
     "justflip": {
       "counters": {
@@ -5176,7 +5177,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 252,
+        "chat": 253,
         "sub": 16,
         "points_spent": 300,
         "effects": 1
@@ -5199,7 +5200,7 @@
         "chat_frequent",
         "effect_first"
       ],
-      "lastUpdated": "2026-03-07T13:24:43Z"
+      "lastUpdated": "2026-03-07T13:38:03Z"
     },
     "jeditojanen": {
       "counters": {
@@ -6669,7 +6670,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 944,
+        "chat": 947,
         "points_spent": 48153,
         "sounds": 18,
         "effects": 6,
@@ -6713,7 +6714,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-03-07T13:27:50Z"
+      "lastUpdated": "2026-03-07T13:36:55Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7778,7 +7779,7 @@
     },
     "j5hot": {
       "counters": {
-        "chat": 300,
+        "chat": 319,
         "follow": 1,
         "points_spent": 3450,
         "effects": 1
@@ -7796,7 +7797,7 @@
         "emperor_loyal",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-07T13:29:09Z"
+      "lastUpdated": "2026-03-07T13:41:49Z"
     },
     "xx_luciifer_xx": {
       "counters": {
@@ -8070,7 +8071,7 @@
       "lastUpdated": "2026-03-07T11:36:40Z"
     }
   },
-  "lastUpdated": "2026-03-07T13:29:10Z",
+  "lastUpdated": "2026-03-07T13:41:58Z",
   "totalUsers": 402,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
