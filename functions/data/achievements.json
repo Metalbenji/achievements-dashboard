@@ -1589,14 +1589,14 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 658,
-        "points_spent": 27102,
+        "chat": 663,
+        "points_spent": 27502,
         "effects": 22,
         "follow": 1,
         "sub": 33,
         "sounds": 10,
         "screenshot": 2,
-        "interactive": 7,
+        "interactive": 8,
         "bits": 200,
         "raid": 2,
         "clips": 1
@@ -1642,7 +1642,7 @@
         "spender_electrum",
         "birthday_person"
       ],
-      "lastUpdated": "2026-03-07T08:29:52Z"
+      "lastUpdated": "2026-03-07T08:36:30Z"
     },
     "ramdon101": {
       "counters": {
@@ -2093,7 +2093,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1256,
+        "chat": 1259,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2139,7 +2139,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-03-07T08:21:53Z"
+      "lastUpdated": "2026-03-07T08:38:22Z"
     },
     "anzerou": {
       "counters": {
@@ -2556,7 +2556,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 207,
+        "chat": 208,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 36
@@ -2588,14 +2588,14 @@
         "chat_frequent",
         "sub_master"
       ],
-      "lastUpdated": "2026-02-28T15:29:43Z"
+      "lastUpdated": "2026-03-07T08:36:45Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
         "follow": 1,
-        "chat": 411,
+        "chat": 420,
         "bits": 990,
-        "points_spent": 4400,
+        "points_spent": 5200,
         "effects": 7
       },
       "unlockedAchievements": [
@@ -2615,9 +2615,10 @@
         "bday2025_attend",
         "bday2025_support",
         "bits_dedicated",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-02-22T12:48:01Z"
+      "lastUpdated": "2026-03-07T08:38:44Z"
     },
     "warl0c13": {
       "counters": {
@@ -3237,9 +3238,9 @@
     },
     "djindjarinttv": {
       "counters": {
-        "sub": 21,
+        "sub": 22,
         "follow": 1,
-        "chat": 336
+        "chat": 344
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3262,7 +3263,7 @@
         "sub_platinum",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-02-08T12:45:22Z"
+      "lastUpdated": "2026-03-07T08:36:49Z"
     },
     "khazan67": {
       "counters": {
@@ -8034,7 +8035,7 @@
       "lastUpdated": "2026-02-22T13:43:00Z"
     }
   },
-  "lastUpdated": "2026-03-07T08:29:53Z",
+  "lastUpdated": "2026-03-07T08:38:44Z",
   "totalUsers": 400,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
