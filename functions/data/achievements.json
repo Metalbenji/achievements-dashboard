@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2117,
+        "chat": 2118,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-07T11:42:24Z"
+      "lastUpdated": "2026-03-07T11:42:43Z"
     },
     "celran": {
       "counters": {
@@ -1589,9 +1589,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 696,
-        "points_spent": 30302,
-        "effects": 23,
+        "chat": 697,
+        "points_spent": 31102,
+        "effects": 24,
         "follow": 1,
         "sub": 33,
         "sounds": 11,
@@ -1642,7 +1642,7 @@
         "spender_electrum",
         "birthday_person"
       ],
-      "lastUpdated": "2026-03-07T11:42:26Z"
+      "lastUpdated": "2026-03-07T11:44:00Z"
     },
     "ramdon101": {
       "counters": {
@@ -3106,7 +3106,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 200,
+        "chat": 201,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3124,7 +3124,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-07T11:41:37Z"
+      "lastUpdated": "2026-03-07T11:43:34Z"
     },
     "justflip": {
       "counters": {
@@ -7779,7 +7779,7 @@
       "counters": {
         "chat": 247,
         "follow": 1,
-        "points_spent": 450
+        "points_spent": 1450
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7788,9 +7788,10 @@
         "chat_talker",
         "chat_conversationalist",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-03-07T11:42:19Z"
+      "lastUpdated": "2026-03-07T11:44:31Z"
     },
     "xx_luciifer_xx": {
       "counters": {
@@ -8038,7 +8039,7 @@
     },
     "jettbuster": {
       "counters": {
-        "chat": 10,
+        "chat": 12,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8047,7 +8048,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-07T11:42:35Z"
+      "lastUpdated": "2026-03-07T11:44:23Z"
     },
     "wezzlaan": {
       "counters": {
@@ -8061,7 +8062,7 @@
       "lastUpdated": "2026-03-07T11:36:40Z"
     }
   },
-  "lastUpdated": "2026-03-07T11:42:36Z",
+  "lastUpdated": "2026-03-07T11:44:32Z",
   "totalUsers": 402,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
