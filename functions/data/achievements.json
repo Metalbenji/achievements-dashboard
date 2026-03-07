@@ -1647,7 +1647,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2443,
+        "chat": 2444,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-07T13:48:08Z"
+      "lastUpdated": "2026-03-07T14:19:03Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -8072,15 +8072,17 @@
     },
     "volthir": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-03-07T14:19:01Z"
+      "lastUpdated": "2026-03-07T14:19:11Z"
     }
   },
-  "lastUpdated": "2026-03-07T14:19:02Z",
+  "lastUpdated": "2026-03-07T14:19:12Z",
   "totalUsers": 403,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
