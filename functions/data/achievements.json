@@ -3106,7 +3106,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 201,
+        "chat": 202,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -3124,7 +3124,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-07T11:43:34Z"
+      "lastUpdated": "2026-03-07T11:45:27Z"
     },
     "justflip": {
       "counters": {
@@ -7779,7 +7779,8 @@
       "counters": {
         "chat": 247,
         "follow": 1,
-        "points_spent": 1450
+        "points_spent": 3450,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7789,9 +7790,11 @@
         "chat_conversationalist",
         "chat_regular",
         "chat_frequent",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2026-03-07T11:44:31Z"
+      "lastUpdated": "2026-03-07T11:45:38Z"
     },
     "xx_luciifer_xx": {
       "counters": {
@@ -8039,7 +8042,7 @@
     },
     "jettbuster": {
       "counters": {
-        "chat": 12,
+        "chat": 13,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8048,7 +8051,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-07T11:44:23Z"
+      "lastUpdated": "2026-03-07T11:44:54Z"
     },
     "wezzlaan": {
       "counters": {
@@ -8062,7 +8065,7 @@
       "lastUpdated": "2026-03-07T11:36:40Z"
     }
   },
-  "lastUpdated": "2026-03-07T11:44:32Z",
+  "lastUpdated": "2026-03-07T11:45:39Z",
   "totalUsers": 402,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
