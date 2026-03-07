@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2118,
+        "chat": 2125,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-07T11:42:43Z"
+      "lastUpdated": "2026-03-07T12:03:37Z"
     },
     "celran": {
       "counters": {
@@ -1589,7 +1589,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 698,
+        "chat": 700,
         "points_spent": 31402,
         "effects": 25,
         "follow": 1,
@@ -1643,7 +1643,7 @@
         "birthday_person",
         "effect_master"
       ],
-      "lastUpdated": "2026-03-07T11:50:33Z"
+      "lastUpdated": "2026-03-07T11:58:13Z"
     },
     "ramdon101": {
       "counters": {
@@ -3107,10 +3107,10 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 203,
+        "chat": 206,
         "follow": 1,
-        "points_spent": 2000,
-        "effects": 1
+        "points_spent": 2350,
+        "effects": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3125,7 +3125,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-07T11:50:31Z"
+      "lastUpdated": "2026-03-07T12:05:22Z"
     },
     "justflip": {
       "counters": {
@@ -5176,7 +5176,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 243,
+        "chat": 244,
         "sub": 16,
         "points_spent": 300,
         "effects": 1
@@ -5199,7 +5199,7 @@
         "chat_frequent",
         "effect_first"
       ],
-      "lastUpdated": "2026-03-07T11:37:47Z"
+      "lastUpdated": "2026-03-07T11:50:59Z"
     },
     "jeditojanen": {
       "counters": {
@@ -6158,7 +6158,7 @@
     "malovanwow": {
       "counters": {
         "follow": 1,
-        "chat": 15
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6166,7 +6166,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-09-20T15:20:35Z"
+      "lastUpdated": "2026-03-07T12:02:15Z"
     },
     "bobinzzzz": {
       "counters": {
@@ -6669,7 +6669,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 929,
+        "chat": 930,
         "points_spent": 48153,
         "sounds": 18,
         "effects": 6,
@@ -6713,7 +6713,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-03-07T11:46:25Z"
+      "lastUpdated": "2026-03-07T11:50:45Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8043,16 +8043,17 @@
     },
     "jettbuster": {
       "counters": {
-        "chat": 20,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-07T11:48:39Z"
+      "lastUpdated": "2026-03-07T12:05:55Z"
     },
     "wezzlaan": {
       "counters": {
@@ -8066,7 +8067,7 @@
       "lastUpdated": "2026-03-07T11:36:40Z"
     }
   },
-  "lastUpdated": "2026-03-07T11:50:34Z",
+  "lastUpdated": "2026-03-07T12:05:56Z",
   "totalUsers": 402,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
