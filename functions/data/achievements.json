@@ -1759,7 +1759,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 423,
+        "chat": 424,
         "follow": 1,
         "sub": 38,
         "points_spent": 95000,
@@ -1796,7 +1796,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-03-21T14:08:10Z"
+      "lastUpdated": "2026-03-21T14:08:39Z"
     },
     "scoman07": {
       "counters": {
@@ -8148,15 +8148,17 @@
     },
     "biopineapple": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-21T14:08:25Z"
+      "lastUpdated": "2026-03-21T14:08:44Z"
     }
   },
-  "lastUpdated": "2026-03-21T14:08:26Z",
+  "lastUpdated": "2026-03-21T14:08:45Z",
   "totalUsers": 406,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
