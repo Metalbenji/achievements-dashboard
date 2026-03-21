@@ -8125,15 +8125,17 @@
     },
     "barefoot_on_bricks": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-21T13:01:48Z"
+      "lastUpdated": "2026-03-21T13:01:49Z"
     }
   },
-  "lastUpdated": "2026-03-21T13:01:49Z",
+  "lastUpdated": "2026-03-21T13:01:50Z",
   "totalUsers": 404,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
