@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2311,
+        "chat": 2316,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-21T15:49:19Z"
+      "lastUpdated": "2026-03-21T15:53:32Z"
     },
     "celran": {
       "counters": {
@@ -2177,7 +2177,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 23,
+        "chat": 24,
         "points_spent": 57000,
         "sounds": 2,
         "interactive": 1
@@ -2196,7 +2196,7 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-03-21T15:47:08Z"
+      "lastUpdated": "2026-03-21T15:51:04Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2648,7 +2648,7 @@
         "points_spent": 12450,
         "effects": 32,
         "follow": 1,
-        "chat": 170,
+        "chat": 172,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -2670,7 +2670,7 @@
         "spender_iron",
         "early_bird"
       ],
-      "lastUpdated": "2026-03-21T15:43:40Z"
+      "lastUpdated": "2026-03-21T15:51:55Z"
     },
     "s3n71": {
       "counters": {
@@ -3198,7 +3198,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2377,
+        "chat": 2388,
         "sub": 48,
         "points_spent": 350,
         "screenshot": 1
@@ -3233,7 +3233,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-03-21T15:42:14Z"
+      "lastUpdated": "2026-03-21T15:53:41Z"
     },
     "majesty81": {
       "counters": {
@@ -4830,7 +4830,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 99,
+        "chat": 100,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4841,9 +4841,10 @@
         "chat_talker",
         "chat_conversationalist",
         "interactive_first",
-        "night_owl"
+        "night_owl",
+        "chat_regular"
       ],
-      "lastUpdated": "2025-12-31T23:36:53Z"
+      "lastUpdated": "2026-03-21T15:53:47Z"
     },
     "theazmaniac": {
       "counters": {
@@ -8212,7 +8213,7 @@
       "lastUpdated": "2026-03-21T15:44:07Z"
     }
   },
-  "lastUpdated": "2026-03-21T15:49:51Z",
+  "lastUpdated": "2026-03-21T15:53:48Z",
   "totalUsers": 410,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
