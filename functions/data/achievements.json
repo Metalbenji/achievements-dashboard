@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2263,
+        "chat": 2271,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-21T14:07:28Z"
+      "lastUpdated": "2026-03-21T14:16:07Z"
     },
     "celran": {
       "counters": {
@@ -2917,7 +2917,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 878,
+        "chat": 879,
         "points_spent": 59401,
         "sounds": 10,
         "effects": 72,
@@ -2992,7 +2992,7 @@
         "gift_lord",
         "gift_emperor"
       ],
-      "lastUpdated": "2026-03-21T14:04:21Z"
+      "lastUpdated": "2026-03-21T14:13:54Z"
     },
     "andilippi": {
       "counters": {
@@ -3198,7 +3198,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2342,
+        "chat": 2347,
         "sub": 48,
         "points_spent": 350,
         "screenshot": 1
@@ -3233,7 +3233,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-03-21T14:06:10Z"
+      "lastUpdated": "2026-03-21T14:13:38Z"
     },
     "majesty81": {
       "counters": {
@@ -8149,17 +8149,26 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-21T14:08:44Z"
+      "lastUpdated": "2026-03-21T14:13:49Z"
+    },
+    "nightworgdk": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-03-21T14:18:04Z"
     }
   },
-  "lastUpdated": "2026-03-21T14:08:45Z",
-  "totalUsers": 406,
+  "lastUpdated": "2026-03-21T14:18:05Z",
+  "totalUsers": 407,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
