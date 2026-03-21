@@ -2407,7 +2407,11 @@
         "sounds": 3,
         "bits": 2000,
         "screenshot": 1,
-        "clips": 6
+        "clips": 6,
+        "gift_subs": 445,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 445,
+        "largest_gift_bomb": 445
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2456,9 +2460,24 @@
         "bits_committed",
         "early_bird",
         "effect_collector",
-        "clip_enthusiast"
+        "clip_enthusiast",
+        "gift_bomb_100",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion",
+        "gift_hero",
+        "gift_angel",
+        "gift_patron",
+        "gift_guardian",
+        "gift_baron",
+        "gift_lord",
+        "gift_emperor"
       ],
-      "lastUpdated": "2026-03-21T13:01:14Z"
+      "lastUpdated": "2026-03-21T13:01:29Z"
     },
     "purgemonster91": {
       "counters": {
@@ -8103,10 +8122,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-03-07T14:19:28Z"
+    },
+    "barefoot_on_bricks": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-03-21T13:01:48Z"
     }
   },
-  "lastUpdated": "2026-03-21T13:01:47Z",
-  "totalUsers": 403,
+  "lastUpdated": "2026-03-21T13:01:49Z",
+  "totalUsers": 404,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
