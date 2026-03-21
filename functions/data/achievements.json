@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 321,
+        "chat": 323,
         "points_spent": 28700,
         "follow": 1,
         "sub": 21,
@@ -1478,7 +1478,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-21T14:46:20Z"
+      "lastUpdated": "2026-03-21T14:50:26Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2288,
+        "chat": 2290,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-21T14:45:31Z"
+      "lastUpdated": "2026-03-21T14:47:48Z"
     },
     "celran": {
       "counters": {
@@ -2400,12 +2400,12 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2871,
+        "chat": 2875,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
         "sounds": 3,
-        "bits": 2000,
+        "bits": 3000,
         "screenshot": 1,
         "clips": 6,
         "gift_subs": 445,
@@ -2477,7 +2477,7 @@
         "gift_lord",
         "gift_emperor"
       ],
-      "lastUpdated": "2026-03-21T14:45:11Z"
+      "lastUpdated": "2026-03-21T14:50:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2645,8 +2645,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 12100,
-        "effects": 31,
+        "points_spent": 12450,
+        "effects": 32,
         "follow": 1,
         "chat": 164,
         "interactive": 1
@@ -2670,7 +2670,7 @@
         "spender_iron",
         "early_bird"
       ],
-      "lastUpdated": "2026-03-21T14:39:12Z"
+      "lastUpdated": "2026-03-21T14:49:05Z"
     },
     "s3n71": {
       "counters": {
@@ -2917,12 +2917,12 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 879,
+        "chat": 880,
         "points_spent": 59401,
         "sounds": 10,
         "effects": 72,
         "sub": 47,
-        "bits": 10000,
+        "bits": 11000,
         "interactive": 3,
         "screenshot": 6,
         "gift_subs": 346,
@@ -2992,7 +2992,7 @@
         "gift_lord",
         "gift_emperor"
       ],
-      "lastUpdated": "2026-03-21T14:43:38Z"
+      "lastUpdated": "2026-03-21T14:48:27Z"
     },
     "andilippi": {
       "counters": {
@@ -8170,29 +8170,37 @@
     "skyeblue182": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 15,
+        "sub": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed"
       ],
-      "lastUpdated": "2026-03-21T14:41:55Z"
+      "lastUpdated": "2026-03-21T14:47:54Z"
     },
     "zabroke": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-03-21T14:45:36Z"
+      "lastUpdated": "2026-03-21T14:50:34Z"
     }
   },
-  "lastUpdated": "2026-03-21T14:46:29Z",
+  "lastUpdated": "2026-03-21T14:50:35Z",
   "totalUsers": 409,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
