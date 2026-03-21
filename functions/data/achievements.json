@@ -8215,15 +8215,17 @@
     },
     "oblivioux": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-21T16:32:31Z"
+      "lastUpdated": "2026-03-21T16:32:50Z"
     }
   },
-  "lastUpdated": "2026-03-21T16:32:32Z",
+  "lastUpdated": "2026-03-21T16:32:51Z",
   "totalUsers": 411,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
