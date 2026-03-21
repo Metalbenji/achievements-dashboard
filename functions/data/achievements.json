@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 326,
+        "chat": 328,
         "points_spent": 28700,
         "follow": 1,
         "sub": 21,
@@ -1478,7 +1478,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-21T14:52:29Z"
+      "lastUpdated": "2026-03-21T14:59:48Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2291,
+        "chat": 2302,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-21T14:51:16Z"
+      "lastUpdated": "2026-03-21T15:15:00Z"
     },
     "celran": {
       "counters": {
@@ -1707,7 +1707,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1739,
+        "chat": 1745,
         "points_spent": 52701,
         "interactive": 38,
         "follow": 1,
@@ -1755,7 +1755,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-03-21T14:39:36Z"
+      "lastUpdated": "2026-03-21T15:17:41Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2400,7 +2400,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2875,
+        "chat": 2876,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
@@ -2477,7 +2477,7 @@
         "gift_lord",
         "gift_emperor"
       ],
-      "lastUpdated": "2026-03-21T14:50:14Z"
+      "lastUpdated": "2026-03-21T14:59:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2648,7 +2648,7 @@
         "points_spent": 12450,
         "effects": 32,
         "follow": 1,
-        "chat": 166,
+        "chat": 167,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -2670,7 +2670,7 @@
         "spender_iron",
         "early_bird"
       ],
-      "lastUpdated": "2026-03-21T14:52:39Z"
+      "lastUpdated": "2026-03-21T15:12:44Z"
     },
     "s3n71": {
       "counters": {
@@ -2843,7 +2843,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 343,
+        "chat": 360,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -2870,7 +2870,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-21T14:43:29Z"
+      "lastUpdated": "2026-03-21T15:13:44Z"
     },
     "chevelletv": {
       "counters": {
@@ -2917,7 +2917,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 883,
+        "chat": 886,
         "points_spent": 59401,
         "sounds": 10,
         "effects": 72,
@@ -2992,7 +2992,7 @@
         "gift_lord",
         "gift_emperor"
       ],
-      "lastUpdated": "2026-03-21T14:52:24Z"
+      "lastUpdated": "2026-03-21T15:02:02Z"
     },
     "andilippi": {
       "counters": {
@@ -3198,7 +3198,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2350,
+        "chat": 2352,
         "sub": 48,
         "points_spent": 350,
         "screenshot": 1
@@ -3233,7 +3233,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-03-21T14:39:21Z"
+      "lastUpdated": "2026-03-21T15:17:19Z"
     },
     "majesty81": {
       "counters": {
@@ -8149,13 +8149,14 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-03-21T14:36:39Z"
+      "lastUpdated": "2026-03-21T15:21:24Z"
     },
     "nightworgdk": {
       "counters": {
@@ -8201,7 +8202,7 @@
       "lastUpdated": "2026-03-21T14:56:16Z"
     }
   },
-  "lastUpdated": "2026-03-21T14:56:17Z",
+  "lastUpdated": "2026-03-21T15:21:25Z",
   "totalUsers": 409,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
