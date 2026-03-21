@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2271,
+        "chat": 2273,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-21T14:16:07Z"
+      "lastUpdated": "2026-03-21T14:27:29Z"
     },
     "celran": {
       "counters": {
@@ -1647,7 +1647,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2466,
+        "chat": 2467,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-21T14:05:12Z"
+      "lastUpdated": "2026-03-21T14:27:12Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -8159,16 +8159,25 @@
     },
     "nightworgdk": {
       "counters": {
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-21T14:18:04Z"
+      "lastUpdated": "2026-03-21T14:20:31Z"
+    },
+    "skyeblue182": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-03-21T14:32:35Z"
     }
   },
-  "lastUpdated": "2026-03-21T14:18:05Z",
-  "totalUsers": 407,
+  "lastUpdated": "2026-03-21T14:32:36Z",
+  "totalUsers": 408,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
