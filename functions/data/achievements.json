@@ -2400,7 +2400,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2860,
+        "chat": 2861,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
@@ -2458,7 +2458,7 @@
         "effect_collector",
         "clip_enthusiast"
       ],
-      "lastUpdated": "2026-03-21T12:59:20Z"
+      "lastUpdated": "2026-03-21T13:01:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2898,14 +2898,18 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 870,
+        "chat": 871,
         "points_spent": 58401,
         "sounds": 10,
         "effects": 70,
         "sub": 47,
         "bits": 9000,
         "interactive": 3,
-        "screenshot": 6
+        "screenshot": 6,
+        "gift_subs": 345,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 345,
+        "largest_gift_bomb": 345
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2952,9 +2956,24 @@
         "sub_tier1",
         "early_bird",
         "chat_enthusiast",
-        "spender_gold"
+        "spender_gold",
+        "gift_bomb_100",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion",
+        "gift_hero",
+        "gift_angel",
+        "gift_patron",
+        "gift_guardian",
+        "gift_baron",
+        "gift_lord",
+        "gift_emperor"
       ],
-      "lastUpdated": "2026-03-21T12:58:00Z"
+      "lastUpdated": "2026-03-21T13:01:09Z"
     },
     "andilippi": {
       "counters": {
@@ -4220,7 +4239,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 160,
+        "chat": 162,
         "points_spent": 501,
         "sounds": 1
       },
@@ -4247,7 +4266,7 @@
         "first_caller",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-21T12:59:50Z"
+      "lastUpdated": "2026-03-21T13:01:24Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -8086,7 +8105,7 @@
       "lastUpdated": "2026-03-07T14:19:28Z"
     }
   },
-  "lastUpdated": "2026-03-21T13:00:51Z",
+  "lastUpdated": "2026-03-21T13:01:30Z",
   "totalUsers": 403,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
