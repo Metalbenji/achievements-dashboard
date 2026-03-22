@@ -3371,7 +3371,8 @@
         "chat": 202,
         "points_spent": 2350,
         "effects": 1,
-        "sounds": 1
+        "sounds": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3384,9 +3385,10 @@
         "effect_first",
         "spender_bronze",
         "sound_first",
-        "chat_frequent"
+        "chat_frequent",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-12-20T14:22:40Z"
+      "lastUpdated": "2026-03-22T12:52:10Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -3952,13 +3954,13 @@
     },
     "septikknissen": {
       "counters": {
-        "chat": 7
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-11-30T13:16:22Z"
+      "lastUpdated": "2026-03-22T12:52:12Z"
     },
     "m0hmoh21": {
       "counters": {
@@ -8226,10 +8228,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-03-21T16:32:50Z"
+    },
+    "slipfinite": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-03-22T12:52:16Z"
     }
   },
-  "lastUpdated": "2026-03-22T12:52:11Z",
-  "totalUsers": 411,
+  "lastUpdated": "2026-03-22T12:52:17Z",
+  "totalUsers": 412,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
