@@ -2209,7 +2209,7 @@
         "sub": 28,
         "sounds": 3,
         "screenshot": 6,
-        "clips": 4
+        "clips": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2249,9 +2249,10 @@
         "clip_first",
         "early_bird",
         "night_owl",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "clip_enthusiast"
       ],
-      "lastUpdated": "2026-03-22T14:20:22Z"
+      "lastUpdated": "2026-03-22T14:21:25Z"
     },
     "redunt86": {
       "counters": {
@@ -8287,7 +8288,7 @@
       "lastUpdated": "2026-03-22T14:12:42Z"
     }
   },
-  "lastUpdated": "2026-03-22T14:21:09Z",
+  "lastUpdated": "2026-03-22T14:21:26Z",
   "totalUsers": 415,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
