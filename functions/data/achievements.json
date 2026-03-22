@@ -8265,10 +8265,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-03-22T14:12:37Z"
+    },
+    "confusedsanta": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-03-22T14:12:42Z"
     }
   },
-  "lastUpdated": "2026-03-22T14:12:38Z",
-  "totalUsers": 414,
+  "lastUpdated": "2026-03-22T14:12:43Z",
+  "totalUsers": 415,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
