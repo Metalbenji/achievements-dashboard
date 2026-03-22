@@ -8262,14 +8262,15 @@
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "effect_first",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-03-22T14:13:11Z"
+      "lastUpdated": "2026-03-22T14:14:15Z"
     },
     "confusedsanta": {
       "counters": {
@@ -8281,7 +8282,7 @@
       "lastUpdated": "2026-03-22T14:12:42Z"
     }
   },
-  "lastUpdated": "2026-03-22T14:13:12Z",
+  "lastUpdated": "2026-03-22T14:14:16Z",
   "totalUsers": 415,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
