@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2384,
+        "chat": 2385,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-22T14:03:06Z"
+      "lastUpdated": "2026-03-22T14:23:49Z"
     },
     "celran": {
       "counters": {
@@ -2581,7 +2581,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 219,
+        "chat": 220,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 37
@@ -2613,7 +2613,7 @@
         "chat_frequent",
         "sub_master"
       ],
-      "lastUpdated": "2026-03-22T14:02:58Z"
+      "lastUpdated": "2026-03-22T14:22:13Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3202,7 +3202,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2507,
+        "chat": 2510,
         "sub": 48,
         "points_spent": 350,
         "screenshot": 1
@@ -3237,7 +3237,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-03-22T14:17:43Z"
+      "lastUpdated": "2026-03-22T14:24:28Z"
     },
     "majesty81": {
       "counters": {
@@ -4257,7 +4257,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 261,
+        "chat": 262,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4287,7 +4287,7 @@
         "chat_frequent",
         "interactive_first"
       ],
-      "lastUpdated": "2026-03-22T14:19:44Z"
+      "lastUpdated": "2026-03-22T14:22:14Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4738,7 +4738,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 166
+        "chat": 167
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4748,7 +4748,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-22T14:12:17Z"
+      "lastUpdated": "2026-03-22T14:23:42Z"
     },
     "dinshara": {
       "counters": {
@@ -8267,7 +8267,7 @@
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
-        "chat": 11
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8276,19 +8276,20 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-22T14:19:37Z"
+      "lastUpdated": "2026-03-22T14:23:39Z"
     },
     "confusedsanta": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-03-22T14:12:42Z"
+      "lastUpdated": "2026-03-22T14:24:42Z"
     }
   },
-  "lastUpdated": "2026-03-22T14:21:26Z",
+  "lastUpdated": "2026-03-22T14:24:43Z",
   "totalUsers": 415,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
