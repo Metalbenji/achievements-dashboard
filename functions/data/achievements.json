@@ -8232,26 +8232,28 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 3
+        "chat": 4,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-03-22T13:03:20Z"
+      "lastUpdated": "2026-03-22T13:05:02Z"
     },
     "captain_starhawk": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-22T13:03:57Z"
+      "lastUpdated": "2026-03-22T13:05:01Z"
     }
   },
-  "lastUpdated": "2026-03-22T13:03:58Z",
+  "lastUpdated": "2026-03-22T13:05:03Z",
   "totalUsers": 413,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
