@@ -8259,12 +8259,15 @@
     },
     "misslupine": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "effect_first"
       ],
-      "lastUpdated": "2026-03-22T14:12:37Z"
+      "lastUpdated": "2026-03-22T14:12:44Z"
     },
     "confusedsanta": {
       "counters": {
@@ -8276,7 +8279,7 @@
       "lastUpdated": "2026-03-22T14:12:42Z"
     }
   },
-  "lastUpdated": "2026-03-22T14:12:43Z",
+  "lastUpdated": "2026-03-22T14:12:45Z",
   "totalUsers": 415,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
