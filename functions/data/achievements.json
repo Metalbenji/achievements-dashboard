@@ -1647,7 +1647,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2476,
+        "chat": 2477,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-22T13:06:23Z"
+      "lastUpdated": "2026-03-22T13:10:16Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2483,7 +2483,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 149
+        "chat": 150
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2495,7 +2495,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-22T12:59:11Z"
+      "lastUpdated": "2026-03-22T13:10:18Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -3954,14 +3954,14 @@
     },
     "septikknissen": {
       "counters": {
-        "chat": 10
+        "chat": 15
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-22T12:53:40Z"
+      "lastUpdated": "2026-03-22T13:19:09Z"
     },
     "m0hmoh21": {
       "counters": {
@@ -4254,7 +4254,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 233,
+        "chat": 234,
         "points_spent": 501,
         "sounds": 1
       },
@@ -4282,7 +4282,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-22T13:06:27Z"
+      "lastUpdated": "2026-03-22T13:18:31Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -6317,7 +6317,7 @@
       "counters": {
         "points_spent": 21248,
         "special_rewards": 1,
-        "chat": 335,
+        "chat": 337,
         "effects": 3,
         "follow": 1,
         "sub": 13
@@ -6350,7 +6350,7 @@
         "spender_iron",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-22T12:52:37Z"
+      "lastUpdated": "2026-03-22T13:16:08Z"
     },
     "otocar": {
       "counters": {
@@ -8147,7 +8147,7 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 57
+        "chat": 58
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8156,7 +8156,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-22T13:05:17Z"
+      "lastUpdated": "2026-03-22T13:12:20Z"
     },
     "nightworgdk": {
       "counters": {
@@ -8232,7 +8232,7 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 5,
+        "chat": 8,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8240,23 +8240,24 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-03-22T13:05:15Z"
+      "lastUpdated": "2026-03-22T13:13:07Z"
     },
     "captain_starhawk": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-22T13:09:02Z"
+      "lastUpdated": "2026-03-22T13:19:57Z"
     }
   },
-  "lastUpdated": "2026-03-22T13:09:04Z",
+  "lastUpdated": "2026-03-22T13:19:58Z",
   "totalUsers": 413,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
