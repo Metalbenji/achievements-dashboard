@@ -1647,7 +1647,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2475,
+        "chat": 2476,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-22T13:01:30Z"
+      "lastUpdated": "2026-03-22T13:06:23Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2290,7 +2290,7 @@
       "counters": {
         "points_spent": 70752,
         "follow": 1,
-        "chat": 863,
+        "chat": 865,
         "effects": 78,
         "screenshot": 4,
         "sounds": 5,
@@ -2343,7 +2343,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-03-22T13:05:11Z"
+      "lastUpdated": "2026-03-22T13:07:52Z"
     },
     "syn__________": {
       "counters": {
@@ -2401,7 +2401,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2880,
+        "chat": 2881,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
@@ -2478,7 +2478,7 @@
         "gift_lord",
         "gift_emperor"
       ],
-      "lastUpdated": "2026-03-22T13:05:04Z"
+      "lastUpdated": "2026-03-22T13:07:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4254,7 +4254,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 232,
+        "chat": 233,
         "points_spent": 501,
         "sounds": 1
       },
@@ -4282,7 +4282,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-22T13:03:09Z"
+      "lastUpdated": "2026-03-22T13:06:27Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -8147,7 +8147,7 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 56
+        "chat": 57
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8156,7 +8156,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-22T13:02:58Z"
+      "lastUpdated": "2026-03-22T13:05:17Z"
     },
     "nightworgdk": {
       "counters": {
@@ -8245,17 +8245,18 @@
     "captain_starhawk": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-03-22T13:05:11Z"
+      "lastUpdated": "2026-03-22T13:09:02Z"
     }
   },
-  "lastUpdated": "2026-03-22T13:05:16Z",
+  "lastUpdated": "2026-03-22T13:09:04Z",
   "totalUsers": 413,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
