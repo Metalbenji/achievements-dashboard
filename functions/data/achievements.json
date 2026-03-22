@@ -2202,7 +2202,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 826,
+        "chat": 829,
         "points_spent": 45308,
         "interactive": 18,
         "effects": 33,
@@ -2251,7 +2251,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-03-22T13:50:07Z"
+      "lastUpdated": "2026-03-22T14:20:22Z"
     },
     "redunt86": {
       "counters": {
@@ -2723,9 +2723,10 @@
       "counters": {
         "follow": 1,
         "chat": 15,
-        "points_spent": 2000,
+        "points_spent": 2350,
         "interactive": 1,
-        "effects": 3
+        "effects": 3,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2734,9 +2735,10 @@
         "spender_bronze",
         "effect_first",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "screenshot_first"
       ],
-      "lastUpdated": "2026-03-22T14:08:00Z"
+      "lastUpdated": "2026-03-22T14:21:08Z"
     },
     "soundalerts": {
       "counters": {
@@ -3427,7 +3429,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1708,
+        "chat": 1709,
         "points_spent": 58800,
         "effects": 7,
         "interactive": 13,
@@ -3460,7 +3462,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-03-22T14:03:06Z"
+      "lastUpdated": "2026-03-22T14:18:53Z"
     },
     "roffelonator": {
       "counters": {
@@ -4254,7 +4256,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 259,
+        "chat": 261,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4284,7 +4286,7 @@
         "chat_frequent",
         "interactive_first"
       ],
-      "lastUpdated": "2026-03-22T14:17:27Z"
+      "lastUpdated": "2026-03-22T14:19:44Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4829,7 +4831,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 126,
+        "chat": 127,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4843,7 +4845,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-22T14:17:47Z"
+      "lastUpdated": "2026-03-22T14:19:46Z"
     },
     "theazmaniac": {
       "counters": {
@@ -8149,7 +8151,7 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 69
+        "chat": 71
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8158,7 +8160,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-22T14:17:22Z"
+      "lastUpdated": "2026-03-22T14:20:01Z"
     },
     "nightworgdk": {
       "counters": {
@@ -8264,7 +8266,7 @@
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8273,7 +8275,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-22T14:17:56Z"
+      "lastUpdated": "2026-03-22T14:19:37Z"
     },
     "confusedsanta": {
       "counters": {
@@ -8285,7 +8287,7 @@
       "lastUpdated": "2026-03-22T14:12:42Z"
     }
   },
-  "lastUpdated": "2026-03-22T14:17:57Z",
+  "lastUpdated": "2026-03-22T14:21:09Z",
   "totalUsers": 415,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
