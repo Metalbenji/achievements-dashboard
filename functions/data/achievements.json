@@ -3199,7 +3199,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2501,
+        "chat": 2507,
         "sub": 48,
         "points_spent": 350,
         "screenshot": 1
@@ -3234,7 +3234,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-03-22T14:15:41Z"
+      "lastUpdated": "2026-03-22T14:17:43Z"
     },
     "majesty81": {
       "counters": {
@@ -4254,7 +4254,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 257,
+        "chat": 259,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4284,7 +4284,7 @@
         "chat_frequent",
         "interactive_first"
       ],
-      "lastUpdated": "2026-03-22T14:16:06Z"
+      "lastUpdated": "2026-03-22T14:17:27Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4829,7 +4829,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 124,
+        "chat": 126,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4843,7 +4843,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-22T14:15:46Z"
+      "lastUpdated": "2026-03-22T14:17:47Z"
     },
     "theazmaniac": {
       "counters": {
@@ -8149,7 +8149,7 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 68
+        "chat": 69
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8158,7 +8158,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-22T14:15:04Z"
+      "lastUpdated": "2026-03-22T14:17:22Z"
     },
     "nightworgdk": {
       "counters": {
@@ -8264,15 +8264,16 @@
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "effect_first",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-03-22T14:16:05Z"
+      "lastUpdated": "2026-03-22T14:17:56Z"
     },
     "confusedsanta": {
       "counters": {
@@ -8284,7 +8285,7 @@
       "lastUpdated": "2026-03-22T14:12:42Z"
     }
   },
-  "lastUpdated": "2026-03-22T14:16:07Z",
+  "lastUpdated": "2026-03-22T14:17:57Z",
   "totalUsers": 415,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
