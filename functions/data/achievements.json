@@ -8241,15 +8241,17 @@
     },
     "captain_starhawk": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-22T13:03:36Z"
+      "lastUpdated": "2026-03-22T13:03:57Z"
     }
   },
-  "lastUpdated": "2026-03-22T13:03:38Z",
+  "lastUpdated": "2026-03-22T13:03:58Z",
   "totalUsers": 413,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
