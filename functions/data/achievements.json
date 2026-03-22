@@ -8237,10 +8237,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-03-22T12:52:16Z"
+    },
+    "missallykat": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-03-22T12:52:18Z"
     }
   },
-  "lastUpdated": "2026-03-22T12:52:17Z",
-  "totalUsers": 412,
+  "lastUpdated": "2026-03-22T12:52:19Z",
+  "totalUsers": 413,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
