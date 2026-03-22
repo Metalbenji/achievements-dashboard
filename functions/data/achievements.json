@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2382,
+        "chat": 2383,
         "points_spent": 39201,
         "effects": 11,
         "sub": 14,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-22T12:06:15Z"
+      "lastUpdated": "2026-03-22T12:47:42Z"
     },
     "celran": {
       "counters": {
@@ -2202,7 +2202,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 818,
+        "chat": 823,
         "points_spent": 45308,
         "interactive": 18,
         "effects": 33,
@@ -2251,7 +2251,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-03-22T12:43:40Z"
+      "lastUpdated": "2026-03-22T12:52:05Z"
     },
     "redunt86": {
       "counters": {
@@ -2483,7 +2483,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 143
+        "chat": 145
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2495,7 +2495,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-22T12:37:01Z"
+      "lastUpdated": "2026-03-22T12:49:10Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -2756,8 +2756,8 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 541,
-        "sub": 45,
+        "chat": 546,
+        "sub": 47,
         "points_spent": 20000,
         "sounds": 1
       },
@@ -2790,7 +2790,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-02-15T16:10:52Z"
+      "lastUpdated": "2026-03-22T12:51:37Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4260,7 +4260,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 200,
+        "chat": 214,
         "points_spent": 501,
         "sounds": 1
       },
@@ -4288,7 +4288,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-03-22T12:43:45Z"
+      "lastUpdated": "2026-03-22T12:51:41Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -6323,7 +6323,7 @@
       "counters": {
         "points_spent": 21248,
         "special_rewards": 1,
-        "chat": 332,
+        "chat": 333,
         "effects": 3,
         "follow": 1,
         "sub": 13
@@ -6356,7 +6356,7 @@
         "spender_iron",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-22T11:50:59Z"
+      "lastUpdated": "2026-03-22T12:47:31Z"
     },
     "otocar": {
       "counters": {
@@ -8094,7 +8094,7 @@
     },
     "jettbuster": {
       "counters": {
-        "chat": 34,
+        "chat": 38,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8104,7 +8104,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-07T13:16:50Z"
+      "lastUpdated": "2026-03-22T12:50:58Z"
     },
     "wezzlaan": {
       "counters": {
@@ -8153,7 +8153,7 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 44
+        "chat": 49
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8162,7 +8162,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-22T12:41:22Z"
+      "lastUpdated": "2026-03-22T12:50:52Z"
     },
     "nightworgdk": {
       "counters": {
@@ -8228,7 +8228,7 @@
       "lastUpdated": "2026-03-21T16:32:50Z"
     }
   },
-  "lastUpdated": "2026-03-22T12:43:46Z",
+  "lastUpdated": "2026-03-22T12:52:11Z",
   "totalUsers": 411,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
