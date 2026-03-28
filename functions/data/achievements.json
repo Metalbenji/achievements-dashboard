@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2470,
+        "chat": 2475,
         "points_spent": 39201,
         "effects": 11,
         "sub": 15,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-28T17:05:40Z"
+      "lastUpdated": "2026-03-28T17:09:46Z"
     },
     "celran": {
       "counters": {
@@ -1759,7 +1759,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 434,
+        "chat": 435,
         "follow": 1,
         "sub": 38,
         "points_spent": 95000,
@@ -1796,7 +1796,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-03-28T16:54:09Z"
+      "lastUpdated": "2026-03-28T17:06:58Z"
     },
     "scoman07": {
       "counters": {
@@ -3027,7 +3027,7 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 37,
+        "chat": 39,
         "raid": 2
       },
       "unlockedAchievements": [
@@ -3040,7 +3040,7 @@
         "raid_tier1_captain",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-28T17:06:03Z"
+      "lastUpdated": "2026-03-28T17:07:53Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -4260,7 +4260,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 325,
+        "chat": 327,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4291,7 +4291,7 @@
         "interactive_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-28T17:03:03Z"
+      "lastUpdated": "2026-03-28T17:08:38Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -5987,7 +5987,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 447,
+        "chat": 448,
         "follow": 1,
         "points_spent": 42500,
         "sounds": 2,
@@ -6012,7 +6012,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-03-28T17:04:07Z"
+      "lastUpdated": "2026-03-28T17:07:01Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7938,7 +7938,7 @@
     },
     "inge__nl": {
       "counters": {
-        "chat": 12,
+        "chat": 15,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -7947,7 +7947,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-28T17:06:26Z"
+      "lastUpdated": "2026-03-28T17:08:11Z"
     },
     "harusia_ch": {
       "counters": {
@@ -8347,17 +8347,18 @@
     "helloaamir": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-03-28T17:06:27Z"
+      "lastUpdated": "2026-03-28T17:10:22Z"
     }
   },
-  "lastUpdated": "2026-03-28T17:06:28Z",
+  "lastUpdated": "2026-03-28T17:10:23Z",
   "totalUsers": 419,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
