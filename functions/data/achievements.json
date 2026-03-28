@@ -1856,7 +1856,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 453,
+        "chat": 455,
         "points_spent": 36951,
         "interactive": 1,
         "effects": 19,
@@ -1899,7 +1899,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-03-28T15:01:41Z"
+      "lastUpdated": "2026-03-28T15:03:16Z"
     },
     "tawmae": {
       "counters": {
@@ -4260,7 +4260,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 286,
+        "chat": 287,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4290,7 +4290,7 @@
         "chat_frequent",
         "interactive_first"
       ],
-      "lastUpdated": "2026-03-28T14:57:50Z"
+      "lastUpdated": "2026-03-28T15:03:01Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -8067,15 +8067,16 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 3,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-02-22T11:22:32Z"
+      "lastUpdated": "2026-03-28T15:04:22Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -8303,7 +8304,7 @@
     "judgegaming92": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 350,
         "effects": 1
       },
@@ -8313,10 +8314,10 @@
         "effect_first",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-03-28T15:02:02Z"
+      "lastUpdated": "2026-03-28T15:02:37Z"
     }
   },
-  "lastUpdated": "2026-03-28T15:02:04Z",
+  "lastUpdated": "2026-03-28T15:04:23Z",
   "totalUsers": 416,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
