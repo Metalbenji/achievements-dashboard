@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2452,
+        "chat": 2468,
         "points_spent": 39201,
         "effects": 11,
         "sub": 15,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-03-28T16:47:04Z"
+      "lastUpdated": "2026-03-28T17:02:57Z"
     },
     "celran": {
       "counters": {
@@ -1759,7 +1759,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 431,
+        "chat": 434,
         "follow": 1,
         "sub": 38,
         "points_spent": 95000,
@@ -1796,7 +1796,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-03-28T16:41:18Z"
+      "lastUpdated": "2026-03-28T16:54:09Z"
     },
     "scoman07": {
       "counters": {
@@ -4260,7 +4260,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 323,
+        "chat": 325,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4291,7 +4291,7 @@
         "interactive_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-03-28T16:38:23Z"
+      "lastUpdated": "2026-03-28T17:03:03Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4742,7 +4742,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 180
+        "chat": 181
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4752,7 +4752,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-28T15:37:54Z"
+      "lastUpdated": "2026-03-28T16:52:08Z"
     },
     "dinshara": {
       "counters": {
@@ -6605,7 +6605,7 @@
     "vnvqt": {
       "counters": {
         "follow": 1,
-        "chat": 63
+        "chat": 89
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6614,7 +6614,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-28T16:46:57Z"
+      "lastUpdated": "2026-03-28T17:03:11Z"
     },
     "theysang": {
       "counters": {
@@ -8342,10 +8342,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-03-28T16:47:20Z"
+    },
+    "helloaamir": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-03-28T17:03:17Z"
     }
   },
-  "lastUpdated": "2026-03-28T16:47:21Z",
-  "totalUsers": 418,
+  "lastUpdated": "2026-03-28T17:03:18Z",
+  "totalUsers": 419,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
