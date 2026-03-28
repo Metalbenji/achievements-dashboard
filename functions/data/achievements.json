@@ -3027,8 +3027,8 @@
     "timoted": {
       "counters": {
         "follow": 1,
-        "chat": 29,
-        "raid": 1
+        "chat": 32,
+        "raid": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3040,7 +3040,7 @@
         "raid_tier1_captain",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-02-14T16:30:42Z"
+      "lastUpdated": "2026-03-28T17:04:19Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -4836,7 +4836,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 127,
+        "chat": 128,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4850,7 +4850,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-22T14:19:46Z"
+      "lastUpdated": "2026-03-28T17:04:06Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5987,7 +5987,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 446,
+        "chat": 447,
         "follow": 1,
         "points_spent": 42500,
         "sounds": 2,
@@ -6012,7 +6012,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-03-28T16:26:27Z"
+      "lastUpdated": "2026-03-28T17:04:07Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7938,15 +7938,16 @@
     },
     "inge__nl": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-02-14T16:30:17Z"
+      "lastUpdated": "2026-03-28T17:04:19Z"
     },
     "harusia_ch": {
       "counters": {
@@ -8346,16 +8347,16 @@
     "helloaamir": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-03-28T17:03:24Z"
+      "lastUpdated": "2026-03-28T17:03:32Z"
     }
   },
-  "lastUpdated": "2026-03-28T17:03:25Z",
+  "lastUpdated": "2026-03-28T17:04:20Z",
   "totalUsers": 419,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
