@@ -8067,16 +8067,17 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 5,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-03-28T15:04:22Z"
+      "lastUpdated": "2026-03-28T15:11:39Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -8317,7 +8318,7 @@
       "lastUpdated": "2026-03-28T15:02:37Z"
     }
   },
-  "lastUpdated": "2026-03-28T15:04:23Z",
+  "lastUpdated": "2026-03-28T15:11:40Z",
   "totalUsers": 416,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
