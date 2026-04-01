@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2488,
+        "chat": 2491,
         "points_spent": 39201,
         "effects": 11,
         "sub": 15,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-01T20:46:07Z"
+      "lastUpdated": "2026-04-01T20:46:37Z"
     },
     "celran": {
       "counters": {
@@ -1856,11 +1856,11 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 460,
+        "chat": 461,
         "points_spent": 36951,
         "interactive": 1,
         "effects": 19,
-        "sub": 29,
+        "sub": 31,
         "clips": 1,
         "sounds": 1
       },
@@ -1897,9 +1897,10 @@
         "spender_iron",
         "early_bird",
         "spender_electrum",
-        "sound_first"
+        "sound_first",
+        "sub_elite"
       ],
-      "lastUpdated": "2026-04-01T20:45:45Z"
+      "lastUpdated": "2026-04-01T20:46:42Z"
     },
     "tawmae": {
       "counters": {
@@ -4836,7 +4837,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 128,
+        "chat": 129,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4850,7 +4851,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-03-28T17:04:06Z"
+      "lastUpdated": "2026-04-01T20:46:34Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5105,13 +5106,13 @@
     "hazzabella": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-08-16T08:52:54Z"
+      "lastUpdated": "2026-04-01T20:46:44Z"
     },
     "biggestbadjohn": {
       "counters": {
@@ -8360,15 +8361,16 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-04-01T20:45:54Z"
+      "lastUpdated": "2026-04-01T20:46:53Z"
     }
   },
-  "lastUpdated": "2026-04-01T19:46:10Z",
+  "lastUpdated": "2026-04-01T19:46:54Z",
   "totalUsers": 420,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
