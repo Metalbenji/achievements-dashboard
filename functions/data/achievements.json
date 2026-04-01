@@ -8374,14 +8374,25 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
-      "unlockedAchievements": [],
-      "lastUpdated": "2026-04-01T21:34:10Z"
+      "unlockedAchievements": [
+        "chat_newbie"
+      ],
+      "lastUpdated": "2026-04-01T21:35:37Z"
+    },
+    "hedgeswine": {
+      "counters": {
+        "raid": 1
+      },
+      "unlockedAchievements": [
+        "raid_tier1_captain"
+      ],
+      "lastUpdated": "2026-04-01T21:35:33Z"
     }
   },
-  "lastUpdated": "2026-04-01T20:35:35Z",
-  "totalUsers": 421,
+  "lastUpdated": "2026-04-01T20:35:39Z",
+  "totalUsers": 422,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
