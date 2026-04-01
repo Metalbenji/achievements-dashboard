@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2527,
+        "chat": 2528,
         "points_spent": 39201,
         "effects": 11,
         "sub": 15,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-01T22:17:08Z"
+      "lastUpdated": "2026-04-01T22:20:04Z"
     },
     "celran": {
       "counters": {
@@ -1927,7 +1927,7 @@
         "chat": 279,
         "sub": 5,
         "points_spent": 6000,
-        "sounds": 2
+        "sounds": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -1948,7 +1948,7 @@
         "sub_committed",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-01T22:18:17Z"
+      "lastUpdated": "2026-04-01T22:18:18Z"
     },
     "sealdancer": {
       "counters": {
@@ -2098,7 +2098,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1341,
+        "chat": 1344,
         "points_spent": 88359,
         "effects": 14,
         "sounds": 7,
@@ -2144,7 +2144,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-01T22:18:10Z"
+      "lastUpdated": "2026-04-01T22:21:02Z"
     },
     "anzerou": {
       "counters": {
@@ -2293,7 +2293,7 @@
       "counters": {
         "points_spent": 70752,
         "follow": 1,
-        "chat": 876,
+        "chat": 877,
         "effects": 78,
         "screenshot": 4,
         "sounds": 5,
@@ -2346,7 +2346,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-04-01T21:50:18Z"
+      "lastUpdated": "2026-04-01T22:20:07Z"
     },
     "syn__________": {
       "counters": {
@@ -3208,7 +3208,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2528,
+        "chat": 2553,
         "sub": 48,
         "points_spent": 350,
         "screenshot": 1
@@ -3243,7 +3243,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-04-01T22:18:16Z"
+      "lastUpdated": "2026-04-01T22:21:18Z"
     },
     "majesty81": {
       "counters": {
@@ -8402,7 +8402,7 @@
       "lastUpdated": "2026-04-01T21:41:45Z"
     }
   },
-  "lastUpdated": "2026-04-01T21:18:18Z",
+  "lastUpdated": "2026-04-01T21:21:28Z",
   "totalUsers": 422,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
