@@ -1589,7 +1589,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 730,
+        "chat": 731,
         "points_spent": 31402,
         "effects": 25,
         "follow": 1,
@@ -1643,7 +1643,7 @@
         "birthday_person",
         "effect_master"
       ],
-      "lastUpdated": "2026-03-22T12:03:16Z"
+      "lastUpdated": "2026-04-01T22:21:53Z"
     },
     "ramdon101": {
       "counters": {
@@ -7842,10 +7842,11 @@
     },
     "j5hot": {
       "counters": {
-        "chat": 324,
+        "chat": 325,
         "follow": 1,
         "points_spent": 3450,
-        "effects": 1
+        "effects": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7858,9 +7859,11 @@
         "spender_bronze",
         "effect_first",
         "emperor_loyal",
-        "chat_dedicated"
+        "chat_dedicated",
+        "raid_tier1_captain",
+        "night_owl"
       ],
-      "lastUpdated": "2026-03-15T11:49:15Z"
+      "lastUpdated": "2026-04-01T22:21:55Z"
     },
     "xx_luciifer_xx": {
       "counters": {
@@ -8402,7 +8405,7 @@
       "lastUpdated": "2026-04-01T21:41:45Z"
     }
   },
-  "lastUpdated": "2026-04-01T21:21:28Z",
+  "lastUpdated": "2026-04-01T21:21:57Z",
   "totalUsers": 422,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
