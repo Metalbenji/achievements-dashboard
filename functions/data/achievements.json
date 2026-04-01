@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2525,
+        "chat": 2526,
         "points_spent": 39201,
         "effects": 11,
         "sub": 15,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-01T22:04:12Z"
+      "lastUpdated": "2026-04-01T22:05:12Z"
     },
     "celran": {
       "counters": {
@@ -1647,7 +1647,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2498,
+        "chat": 2500,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-01T21:51:25Z"
+      "lastUpdated": "2026-04-01T22:07:15Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1924,7 +1924,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 278,
+        "chat": 279,
         "sub": 5,
         "points_spent": 4000,
         "sounds": 2
@@ -1947,7 +1947,7 @@
         "chat_frequent",
         "sub_committed"
       ],
-      "lastUpdated": "2026-04-01T21:26:49Z"
+      "lastUpdated": "2026-04-01T22:07:11Z"
     },
     "sealdancer": {
       "counters": {
@@ -2726,7 +2726,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 20,
+        "chat": 21,
         "points_spent": 2700,
         "interactive": 1,
         "effects": 3,
@@ -2740,9 +2740,10 @@
         "effect_first",
         "chat_newbie",
         "chat_talker",
-        "screenshot_first"
+        "screenshot_first",
+        "night_owl"
       ],
-      "lastUpdated": "2026-04-01T21:57:07Z"
+      "lastUpdated": "2026-04-01T22:07:58Z"
     },
     "soundalerts": {
       "counters": {
@@ -4263,7 +4264,7 @@
       "counters": {
         "sub": 46,
         "follow": 1,
-        "chat": 329,
+        "chat": 334,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4295,7 +4296,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2026-04-01T22:05:08Z"
+      "lastUpdated": "2026-04-01T22:07:52Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -4840,7 +4841,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 135,
+        "chat": 136,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4854,7 +4855,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-04-01T22:00:04Z"
+      "lastUpdated": "2026-04-01T22:06:29Z"
     },
     "theazmaniac": {
       "counters": {
@@ -8398,7 +8399,7 @@
       "lastUpdated": "2026-04-01T21:41:45Z"
     }
   },
-  "lastUpdated": "2026-04-01T21:05:09Z",
+  "lastUpdated": "2026-04-01T21:07:59Z",
   "totalUsers": 422,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
