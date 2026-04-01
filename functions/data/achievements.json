@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2504,
+        "chat": 2507,
         "points_spent": 39201,
         "effects": 11,
         "sub": 15,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-01T21:20:01Z"
+      "lastUpdated": "2026-04-01T21:39:46Z"
     },
     "celran": {
       "counters": {
@@ -2292,7 +2292,7 @@
       "counters": {
         "points_spent": 70752,
         "follow": 1,
-        "chat": 872,
+        "chat": 873,
         "effects": 78,
         "screenshot": 4,
         "sounds": 5,
@@ -2345,7 +2345,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-04-01T21:26:54Z"
+      "lastUpdated": "2026-04-01T21:39:16Z"
     },
     "syn__________": {
       "counters": {
@@ -6788,7 +6788,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 125,
+        "chat": 127,
         "points_spent": 1200,
         "interactive": 1,
         "screenshot": 2
@@ -6804,7 +6804,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-04-01T21:29:50Z"
+      "lastUpdated": "2026-04-01T21:39:19Z"
     },
     "kikinplays_": {
       "counters": {
@@ -8384,16 +8384,18 @@
     "hedgeswine": {
       "counters": {
         "raid": 1,
-        "chat": 5
+        "chat": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-04-01T21:38:31Z"
+      "lastUpdated": "2026-04-01T21:39:59Z"
     }
   },
-  "lastUpdated": "2026-04-01T20:38:32Z",
+  "lastUpdated": "2026-04-01T20:40:01Z",
   "totalUsers": 422,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
