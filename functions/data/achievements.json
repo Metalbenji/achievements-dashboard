@@ -6601,7 +6601,8 @@
         "sub_loyal",
         "sub_dedicated",
         "sub_committed",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_iron"
       ],
       "lastUpdated": "2026-04-03T16:42:08Z"
     },
@@ -8538,7 +8539,7 @@
       "lastUpdated": "2026-04-03T16:16:24Z"
     }
   },
-  "lastUpdated": "2026-04-03T15:42:09Z",
+  "lastUpdated": "2026-04-03T15:42:10Z",
   "totalUsers": 430,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
