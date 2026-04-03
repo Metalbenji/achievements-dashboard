@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2694,
+        "chat": 2716,
         "points_spent": 41401,
         "effects": 13,
         "sub": 15,
@@ -1560,7 +1560,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-04-03T16:03:32Z"
+      "lastUpdated": "2026-04-03T16:36:56Z"
     },
     "celran": {
       "counters": {
@@ -1934,7 +1934,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 311,
+        "chat": 321,
         "sub": 1,
         "points_spent": 6350,
         "sounds": 3,
@@ -1961,7 +1961,7 @@
         "screenshot_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-03T16:03:19Z"
+      "lastUpdated": "2026-04-03T16:37:03Z"
     },
     "sealdancer": {
       "counters": {
@@ -2948,7 +2948,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 968,
+        "chat": 969,
         "points_spent": 60551,
         "sounds": 11,
         "effects": 72,
@@ -3026,7 +3026,7 @@
         "sub_legendary",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-03T15:38:55Z"
+      "lastUpdated": "2026-04-03T16:32:05Z"
     },
     "andilippi": {
       "counters": {
@@ -4256,7 +4256,7 @@
     "wowsmael": {
       "counters": {
         "follow": 1,
-        "chat": 27,
+        "chat": 31,
         "points_spent": 500,
         "sounds": 1
       },
@@ -4268,7 +4268,7 @@
         "chat_conversationalist",
         "sound_first"
       ],
-      "lastUpdated": "2026-04-03T16:03:42Z"
+      "lastUpdated": "2026-04-03T16:08:11Z"
     },
     "dustingorbit": {
       "counters": {
@@ -6368,7 +6368,7 @@
       "counters": {
         "points_spent": 21451,
         "special_rewards": 1,
-        "chat": 346,
+        "chat": 347,
         "effects": 4,
         "follow": 1,
         "sub": 13
@@ -6401,7 +6401,7 @@
         "spender_iron",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-03T12:42:01Z"
+      "lastUpdated": "2026-04-03T16:06:17Z"
     },
     "otocar": {
       "counters": {
@@ -6585,7 +6585,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 31,
+        "chat": 50,
         "sub": 6
       },
       "unlockedAchievements": [
@@ -6601,7 +6601,7 @@
         "sub_dedicated",
         "sub_committed"
       ],
-      "lastUpdated": "2026-03-22T15:16:07Z"
+      "lastUpdated": "2026-04-03T16:35:58Z"
     },
     "daddy0ps": {
       "counters": {
@@ -6768,7 +6768,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1002,
+        "chat": 1003,
         "points_spent": 48653,
         "sounds": 18,
         "effects": 6,
@@ -6813,7 +6813,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-04-03T16:01:52Z"
+      "lastUpdated": "2026-04-03T16:23:43Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8484,8 +8484,8 @@
     "callmeflayer": {
       "counters": {
         "follow": 1,
-        "chat": 47,
-        "points_spent": 500,
+        "chat": 57,
+        "points_spent": 1300,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -8493,9 +8493,10 @@
         "chat_newbie",
         "chat_talker",
         "effect_first",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-04-03T16:02:51Z"
+      "lastUpdated": "2026-04-03T16:38:44Z"
     },
     "totally_jace": {
       "counters": {
@@ -8526,10 +8527,17 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-04-03T15:42:45Z"
+    },
+    "tyb666": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2026-04-03T16:16:24Z"
     }
   },
-  "lastUpdated": "2026-04-03T15:03:43Z",
-  "totalUsers": 429,
+  "lastUpdated": "2026-04-03T15:38:46Z",
+  "totalUsers": 430,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
