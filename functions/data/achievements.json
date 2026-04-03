@@ -1499,13 +1499,13 @@
     "little_lilith_": {
       "counters": {
         "chat": 2648,
-        "points_spent": 40301,
+        "points_spent": 41051,
         "effects": 12,
         "sub": 15,
         "bits": 1894,
-        "interactive": 4,
+        "interactive": 5,
         "sounds": 2,
-        "screenshot": 2,
+        "screenshot": 3,
         "follow": 1,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -1560,7 +1560,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-04-03T14:25:06Z"
+      "lastUpdated": "2026-04-03T14:27:12Z"
     },
     "celran": {
       "counters": {
@@ -1769,7 +1769,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 438,
+        "chat": 439,
         "follow": 1,
         "sub": 38,
         "points_spent": 95000,
@@ -1806,7 +1806,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-03T14:24:54Z"
+      "lastUpdated": "2026-04-03T14:27:26Z"
     },
     "scoman07": {
       "counters": {
@@ -2192,9 +2192,10 @@
       "counters": {
         "follow": 1,
         "chat": 47,
-        "points_spent": 57000,
+        "points_spent": 57350,
         "sounds": 2,
-        "interactive": 1
+        "interactive": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2209,9 +2210,10 @@
         "spender_iron",
         "spender_electrum",
         "spender_gold",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "screenshot_first"
       ],
-      "lastUpdated": "2026-04-01T21:37:01Z"
+      "lastUpdated": "2026-04-03T14:27:45Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2665,11 +2667,11 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 15500,
+        "points_spent": 15900,
         "effects": 35,
         "follow": 1,
         "chat": 188,
-        "interactive": 1,
+        "interactive": 2,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -2692,7 +2694,7 @@
         "early_bird",
         "sound_first"
       ],
-      "lastUpdated": "2026-04-03T14:25:13Z"
+      "lastUpdated": "2026-04-03T14:26:42Z"
     },
     "s3n71": {
       "counters": {
@@ -8490,7 +8492,7 @@
       "lastUpdated": "2026-04-03T13:50:15Z"
     }
   },
-  "lastUpdated": "2026-04-03T13:25:14Z",
+  "lastUpdated": "2026-04-03T13:27:47Z",
   "totalUsers": 427,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
