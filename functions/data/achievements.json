@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2685,
+        "chat": 2694,
         "points_spent": 41401,
         "effects": 13,
         "sub": 15,
@@ -1560,7 +1560,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-04-03T15:58:32Z"
+      "lastUpdated": "2026-04-03T16:03:32Z"
     },
     "celran": {
       "counters": {
@@ -1934,7 +1934,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 310,
+        "chat": 311,
         "sub": 1,
         "points_spent": 6350,
         "sounds": 3,
@@ -1961,7 +1961,7 @@
         "screenshot_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-03T15:57:50Z"
+      "lastUpdated": "2026-04-03T16:03:19Z"
     },
     "sealdancer": {
       "counters": {
@@ -4256,16 +4256,19 @@
     "wowsmael": {
       "counters": {
         "follow": 1,
-        "chat": 27
+        "chat": 27,
+        "points_spent": 500,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sound_first"
       ],
-      "lastUpdated": "2026-03-21T17:29:55Z"
+      "lastUpdated": "2026-04-03T16:03:42Z"
     },
     "dustingorbit": {
       "counters": {
@@ -6765,7 +6768,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1000,
+        "chat": 1002,
         "points_spent": 48653,
         "sounds": 18,
         "effects": 6,
@@ -6810,7 +6813,7 @@
         "spender_electrum",
         "chat_champion"
       ],
-      "lastUpdated": "2026-04-03T15:58:35Z"
+      "lastUpdated": "2026-04-03T16:01:52Z"
     },
     "wolcenmae": {
       "counters": {
@@ -6985,7 +6988,7 @@
     "sisterbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 55
+        "chat": 60
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6994,7 +6997,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2025-11-09T13:26:23Z"
+      "lastUpdated": "2026-04-03T16:01:18Z"
     },
     "nyx241": {
       "counters": {
@@ -8481,7 +8484,7 @@
     "callmeflayer": {
       "counters": {
         "follow": 1,
-        "chat": 42,
+        "chat": 47,
         "points_spent": 500,
         "effects": 1
       },
@@ -8492,7 +8495,7 @@
         "effect_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-03T15:41:50Z"
+      "lastUpdated": "2026-04-03T16:02:51Z"
     },
     "totally_jace": {
       "counters": {
@@ -8525,7 +8528,7 @@
       "lastUpdated": "2026-04-03T15:42:45Z"
     }
   },
-  "lastUpdated": "2026-04-03T14:58:37Z",
+  "lastUpdated": "2026-04-03T15:03:43Z",
   "totalUsers": 429,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
