@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2611,
+        "chat": 2616,
         "points_spent": 40301,
         "effects": 12,
         "sub": 15,
@@ -1560,7 +1560,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-04-03T13:46:38Z"
+      "lastUpdated": "2026-04-03T13:49:14Z"
     },
     "celran": {
       "counters": {
@@ -1934,7 +1934,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 290,
+        "chat": 291,
         "sub": 1,
         "points_spent": 6350,
         "sounds": 3,
@@ -1960,7 +1960,7 @@
         "spender_iron",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-04-03T13:46:06Z"
+      "lastUpdated": "2026-04-03T13:48:10Z"
     },
     "sealdancer": {
       "counters": {
@@ -2417,7 +2417,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2915,
+        "chat": 2916,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
@@ -2495,7 +2495,7 @@
         "gift_emperor",
         "bits_elite"
       ],
-      "lastUpdated": "2026-04-03T13:46:10Z"
+      "lastUpdated": "2026-04-03T13:48:00Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2943,7 +2943,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 952,
+        "chat": 953,
         "points_spent": 60201,
         "sounds": 11,
         "effects": 72,
@@ -3021,7 +3021,7 @@
         "sub_legendary",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-03T13:45:25Z"
+      "lastUpdated": "2026-04-03T13:49:01Z"
     },
     "andilippi": {
       "counters": {
@@ -3750,7 +3750,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 263,
+        "chat": 266,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3774,7 +3774,7 @@
         "spender_iron",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-03-21T14:43:37Z"
+      "lastUpdated": "2026-04-03T13:49:53Z"
     },
     "mulquero": {
       "counters": {
@@ -8465,18 +8465,27 @@
     "callmeflayer": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-04-03T13:46:56Z"
+      "lastUpdated": "2026-04-03T13:50:01Z"
+    },
+    "totally_jace": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-04-03T13:50:13Z"
     }
   },
-  "lastUpdated": "2026-04-03T12:46:57Z",
-  "totalUsers": 426,
+  "lastUpdated": "2026-04-03T12:50:14Z",
+  "totalUsers": 427,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
