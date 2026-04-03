@@ -2728,7 +2728,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 29,
         "points_spent": 3700,
         "interactive": 1,
         "effects": 6,
@@ -2746,7 +2746,7 @@
         "night_owl",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-03T10:22:58Z"
+      "lastUpdated": "2026-04-03T10:27:20Z"
     },
     "soundalerts": {
       "counters": {
@@ -3611,9 +3611,9 @@
     },
     "sarcissa": {
       "counters": {
-        "sub": 47,
+        "sub": 49,
         "follow": 1,
-        "chat": 288,
+        "chat": 290,
         "points_spent": 40752,
         "effects": 1,
         "sounds": 2
@@ -3646,9 +3646,10 @@
         "chat_frequent",
         "spender_iron",
         "spender_electrum",
-        "birthday_person"
+        "birthday_person",
+        "sub_legendary"
       ],
-      "lastUpdated": "2026-04-03T10:22:50Z"
+      "lastUpdated": "2026-04-03T10:25:06Z"
     },
     "camm_23": {
       "counters": {
@@ -3775,9 +3776,10 @@
       "counters": {
         "follow": 1,
         "chat": 177,
-        "points_spent": 17002,
+        "points_spent": 17402,
         "sounds": 4,
-        "effects": 1
+        "effects": 1,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3791,9 +3793,10 @@
         "effect_first",
         "chat_regular",
         "spender_silver",
-        "spender_iron"
+        "spender_iron",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-02-15T14:50:26Z"
+      "lastUpdated": "2026-04-03T10:27:27Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -8363,7 +8366,7 @@
       "lastUpdated": "2026-04-01T21:41:45Z"
     }
   },
-  "lastUpdated": "2026-04-03T09:23:12Z",
+  "lastUpdated": "2026-04-03T09:27:28Z",
   "totalUsers": 421,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
