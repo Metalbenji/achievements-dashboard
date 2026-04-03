@@ -8465,26 +8465,30 @@
     "callmeflayer": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 12,
+        "points_spent": 500,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2026-04-03T13:50:01Z"
+      "lastUpdated": "2026-04-03T13:50:48Z"
     },
     "totally_jace": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2026-04-03T13:50:13Z"
+      "lastUpdated": "2026-04-03T13:50:15Z"
     }
   },
-  "lastUpdated": "2026-04-03T12:50:14Z",
+  "lastUpdated": "2026-04-03T12:50:48Z",
   "totalUsers": 427,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
