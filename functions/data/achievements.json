@@ -8463,15 +8463,16 @@
     "callmeflayer": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-04-03T13:38:52Z"
+      "lastUpdated": "2026-04-03T13:41:00Z"
     }
   },
-  "lastUpdated": "2026-04-03T12:40:19Z",
+  "lastUpdated": "2026-04-03T12:41:02Z",
   "totalUsers": 426,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
