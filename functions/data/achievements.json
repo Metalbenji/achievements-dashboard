@@ -6587,7 +6587,8 @@
         "follow": 1,
         "chat": 50,
         "sub": 6,
-        "points_spent": 10000
+        "points_spent": 10000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6603,9 +6604,10 @@
         "sub_committed",
         "spender_bronze",
         "spender_iron",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2026-04-03T16:42:08Z"
+      "lastUpdated": "2026-04-03T16:42:12Z"
     },
     "daddy0ps": {
       "counters": {
@@ -8540,7 +8542,7 @@
       "lastUpdated": "2026-04-03T16:16:24Z"
     }
   },
-  "lastUpdated": "2026-04-03T15:42:11Z",
+  "lastUpdated": "2026-04-03T15:42:12Z",
   "totalUsers": 430,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
