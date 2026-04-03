@@ -1934,7 +1934,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 299,
+        "chat": 300,
         "sub": 1,
         "points_spent": 6350,
         "sounds": 3,
@@ -1958,9 +1958,10 @@
         "chat_frequent",
         "sub_committed",
         "spender_iron",
-        "screenshot_first"
+        "screenshot_first",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-03T15:05:32Z"
+      "lastUpdated": "2026-04-03T15:13:37Z"
     },
     "sealdancer": {
       "counters": {
@@ -2110,7 +2111,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1371,
+        "chat": 1372,
         "points_spent": 88709,
         "effects": 14,
         "sounds": 7,
@@ -2156,7 +2157,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-03T15:04:13Z"
+      "lastUpdated": "2026-04-03T15:06:31Z"
     },
     "anzerou": {
       "counters": {
@@ -2419,7 +2420,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2924,
+        "chat": 2930,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
@@ -2497,7 +2498,7 @@
         "gift_emperor",
         "bits_elite"
       ],
-      "lastUpdated": "2026-04-03T15:05:50Z"
+      "lastUpdated": "2026-04-03T15:12:53Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2667,8 +2668,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 16250,
-        "effects": 36,
+        "points_spent": 16600,
+        "effects": 37,
         "follow": 1,
         "chat": 190,
         "interactive": 2,
@@ -2694,7 +2695,7 @@
         "early_bird",
         "sound_first"
       ],
-      "lastUpdated": "2026-04-03T14:39:11Z"
+      "lastUpdated": "2026-04-03T15:10:52Z"
     },
     "s3n71": {
       "counters": {
@@ -2947,14 +2948,14 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 957,
-        "points_spent": 60201,
+        "chat": 959,
+        "points_spent": 60551,
         "sounds": 11,
         "effects": 72,
         "sub": 48,
         "bits": 12500,
         "interactive": 3,
-        "screenshot": 8,
+        "screenshot": 9,
         "gift_subs": 346,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 345,
@@ -3025,7 +3026,7 @@
         "sub_legendary",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-03T14:33:41Z"
+      "lastUpdated": "2026-04-03T15:13:32Z"
     },
     "andilippi": {
       "counters": {
@@ -4871,7 +4872,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 152,
+        "chat": 153,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4885,7 +4886,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-04-03T14:51:29Z"
+      "lastUpdated": "2026-04-03T15:10:49Z"
     },
     "theazmaniac": {
       "counters": {
@@ -8332,14 +8333,14 @@
     "s0fde": {
       "counters": {
         "follow": 1,
-        "chat": 6
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-04-03T15:06:18Z"
+      "lastUpdated": "2026-04-03T15:09:09Z"
     },
     "helloaamir": {
       "counters": {
@@ -8357,16 +8358,22 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 30
+        "chat": 37,
+        "sub": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "night_owl",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated"
       ],
-      "lastUpdated": "2026-04-03T15:06:15Z"
+      "lastUpdated": "2026-04-03T15:13:22Z"
     },
     "galithoreu": {
       "counters": {
@@ -8471,7 +8478,7 @@
     "callmeflayer": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 33,
         "points_spent": 500,
         "effects": 1
       },
@@ -8482,7 +8489,7 @@
         "effect_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-03T14:59:13Z"
+      "lastUpdated": "2026-04-03T15:12:36Z"
     },
     "totally_jace": {
       "counters": {
@@ -8495,7 +8502,7 @@
       "lastUpdated": "2026-04-03T13:50:15Z"
     }
   },
-  "lastUpdated": "2026-04-03T14:06:26Z",
+  "lastUpdated": "2026-04-03T14:13:39Z",
   "totalUsers": 427,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
