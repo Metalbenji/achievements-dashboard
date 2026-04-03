@@ -2110,7 +2110,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1370,
+        "chat": 1371,
         "points_spent": 88709,
         "effects": 14,
         "sounds": 7,
@@ -2156,7 +2156,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-03T15:04:06Z"
+      "lastUpdated": "2026-04-03T15:04:13Z"
     },
     "anzerou": {
       "counters": {
@@ -8332,13 +8332,14 @@
     "s0fde": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-03-28T16:47:20Z"
+      "lastUpdated": "2026-04-03T15:05:06Z"
     },
     "helloaamir": {
       "counters": {
@@ -8356,7 +8357,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 27
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8365,7 +8366,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-03T15:04:08Z"
+      "lastUpdated": "2026-04-03T15:04:52Z"
     },
     "galithoreu": {
       "counters": {
@@ -8494,7 +8495,7 @@
       "lastUpdated": "2026-04-03T13:50:15Z"
     }
   },
-  "lastUpdated": "2026-04-03T14:04:09Z",
+  "lastUpdated": "2026-04-03T14:05:07Z",
   "totalUsers": 427,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
