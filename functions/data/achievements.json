@@ -3655,7 +3655,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 266
+        "chat": 267
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3666,7 +3666,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-04-03T11:10:00Z"
+      "lastUpdated": "2026-04-03T11:27:29Z"
     },
     "akiraownz": {
       "counters": {
@@ -8370,22 +8370,25 @@
     },
     "l4mk": {
       "counters": {
-        "chat": 3
+        "chat": 5
       },
-      "unlockedAchievements": [],
-      "lastUpdated": "2026-04-03T11:27:00Z"
+      "unlockedAchievements": [
+        "chat_newbie"
+      ],
+      "lastUpdated": "2026-04-03T11:27:56Z"
     },
     "epicure1217": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2026-04-03T11:27:00Z"
+      "lastUpdated": "2026-04-03T11:27:36Z"
     }
   },
-  "lastUpdated": "2026-04-03T10:27:01Z",
+  "lastUpdated": "2026-04-03T10:27:58Z",
   "totalUsers": 423,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
