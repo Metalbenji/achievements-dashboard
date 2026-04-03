@@ -2933,7 +2933,7 @@
         "sounds": 11,
         "effects": 72,
         "sub": 48,
-        "bits": 12000,
+        "bits": 12500,
         "interactive": 3,
         "screenshot": 7,
         "gift_subs": 346,
@@ -3004,7 +3004,7 @@
         "gift_emperor",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-04-03T10:21:28Z"
+      "lastUpdated": "2026-04-03T10:23:09Z"
     },
     "andilippi": {
       "counters": {
@@ -8363,7 +8363,7 @@
       "lastUpdated": "2026-04-01T21:41:45Z"
     }
   },
-  "lastUpdated": "2026-04-03T09:23:00Z",
+  "lastUpdated": "2026-04-03T09:23:12Z",
   "totalUsers": 421,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
