@@ -1498,8 +1498,8 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2570,
-        "points_spent": 39551,
+        "chat": 2571,
+        "points_spent": 39951,
         "effects": 12,
         "sub": 15,
         "bits": 1894,
@@ -1551,7 +1551,7 @@
         "early_bird",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-03T12:02:28Z"
+      "lastUpdated": "2026-04-03T12:05:08Z"
     },
     "celran": {
       "counters": {
@@ -1857,7 +1857,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 467,
+        "chat": 468,
         "points_spent": 38551,
         "interactive": 1,
         "effects": 21,
@@ -1901,7 +1901,7 @@
         "sound_first",
         "sub_elite"
       ],
-      "lastUpdated": "2026-04-03T12:01:45Z"
+      "lastUpdated": "2026-04-03T12:02:51Z"
     },
     "tawmae": {
       "counters": {
@@ -2562,10 +2562,11 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 150,
-        "points_spent": 7950,
+        "chat": 151,
+        "points_spent": 8050,
         "interactive": 3,
-        "effects": 3
+        "effects": 3,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2579,9 +2580,10 @@
         "bday2025_attend",
         "effect_first",
         "chat_regular",
-        "spender_iron"
+        "spender_iron",
+        "sound_first"
       ],
-      "lastUpdated": "2026-04-03T11:59:02Z"
+      "lastUpdated": "2026-04-03T12:05:48Z"
     },
     "qyainiana": {
       "counters": {
@@ -2732,7 +2734,7 @@
         "chat": 40,
         "points_spent": 5550,
         "interactive": 2,
-        "effects": 7,
+        "effects": 8,
         "screenshot": 3
       },
       "unlockedAchievements": [
@@ -2748,7 +2750,7 @@
         "chat_conversationalist",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-03T12:02:49Z"
+      "lastUpdated": "2026-04-03T12:02:51Z"
     },
     "soundalerts": {
       "counters": {
@@ -3081,7 +3083,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1062,
+        "chat": 1071,
         "points_spent": 8350,
         "sounds": 4,
         "clips": 1,
@@ -3115,7 +3117,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2026-04-03T12:02:49Z"
+      "lastUpdated": "2026-04-03T12:05:47Z"
     },
     "maximusis_": {
       "counters": {
@@ -3778,7 +3780,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 214,
+        "chat": 215,
         "points_spent": 17602,
         "sounds": 4,
         "effects": 2,
@@ -3800,7 +3802,7 @@
         "interactive_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-04-03T12:02:15Z"
+      "lastUpdated": "2026-04-03T12:03:46Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -8393,7 +8395,7 @@
     "drjohnshardmd": {
       "counters": {
         "follow": 1,
-        "chat": 1406,
+        "chat": 1407,
         "points_spent": 50101,
         "sounds": 3,
         "sub": 28,
@@ -8432,10 +8434,10 @@
         "spender_electrum",
         "spender_gold"
       ],
-      "lastUpdated": "2026-04-03T11:58:56Z"
+      "lastUpdated": "2026-04-03T12:04:18Z"
     }
   },
-  "lastUpdated": "2026-04-03T11:02:51Z",
+  "lastUpdated": "2026-04-03T11:05:49Z",
   "totalUsers": 424,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
