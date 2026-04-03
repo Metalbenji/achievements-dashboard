@@ -2948,7 +2948,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 970,
+        "chat": 971,
         "points_spent": 60551,
         "sounds": 11,
         "effects": 72,
@@ -3026,7 +3026,7 @@
         "sub_legendary",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-03T16:47:00Z"
+      "lastUpdated": "2026-04-03T16:53:15Z"
     },
     "andilippi": {
       "counters": {
@@ -4875,7 +4875,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 153,
+        "chat": 155,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4889,7 +4889,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-04-03T15:10:49Z"
+      "lastUpdated": "2026-04-03T16:54:05Z"
     },
     "theazmaniac": {
       "counters": {
@@ -6585,7 +6585,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 53,
+        "chat": 54,
         "sub": 6,
         "points_spent": 10000,
         "sounds": 1
@@ -6607,7 +6607,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2026-04-03T16:52:26Z"
+      "lastUpdated": "2026-04-03T16:53:01Z"
     },
     "daddy0ps": {
       "counters": {
@@ -8370,7 +8370,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 65,
+        "chat": 66,
         "sub": 4
       },
       "unlockedAchievements": [
@@ -8385,7 +8385,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2026-04-03T16:51:44Z"
+      "lastUpdated": "2026-04-03T16:54:17Z"
     },
     "galithoreu": {
       "counters": {
@@ -8490,7 +8490,7 @@
     "callmeflayer": {
       "counters": {
         "follow": 1,
-        "chat": 67,
+        "chat": 68,
         "points_spent": 1300,
         "effects": 2
       },
@@ -8502,7 +8502,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-04-03T16:51:31Z"
+      "lastUpdated": "2026-04-03T16:54:15Z"
     },
     "totally_jace": {
       "counters": {
@@ -8544,16 +8544,17 @@
     "applst0rm": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-04-03T16:52:47Z"
+      "lastUpdated": "2026-04-03T16:54:36Z"
     }
   },
-  "lastUpdated": "2026-04-03T15:52:49Z",
+  "lastUpdated": "2026-04-03T15:54:37Z",
   "totalUsers": 431,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
