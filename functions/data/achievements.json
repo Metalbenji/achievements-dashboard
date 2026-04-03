@@ -1708,7 +1708,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1818,
+        "chat": 1819,
         "points_spent": 53201,
         "interactive": 39,
         "follow": 1,
@@ -1756,7 +1756,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-04-03T11:26:20Z"
+      "lastUpdated": "2026-04-03T11:28:22Z"
     },
     "aladderinsane": {
       "counters": {
@@ -8370,25 +8370,26 @@
     },
     "l4mk": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-04-03T11:27:56Z"
+      "lastUpdated": "2026-04-03T11:28:56Z"
     },
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2026-04-03T11:27:36Z"
+      "lastUpdated": "2026-04-03T11:28:36Z"
     }
   },
-  "lastUpdated": "2026-04-03T10:27:58Z",
+  "lastUpdated": "2026-04-03T10:28:57Z",
   "totalUsers": 423,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
