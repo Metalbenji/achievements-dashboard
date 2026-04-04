@@ -1658,7 +1658,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2629,
+        "chat": 2630,
         "points_spent": 137851,
         "screenshot": 1,
         "follow": 1,
@@ -1715,7 +1715,7 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-04T16:33:45Z"
+      "lastUpdated": "2026-04-04T16:43:19Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2311,10 +2311,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 72202,
+        "points_spent": 73002,
         "follow": 1,
         "chat": 909,
-        "effects": 80,
+        "effects": 81,
         "screenshot": 5,
         "sounds": 5,
         "bits": 300,
@@ -2366,7 +2366,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-04-04T16:24:03Z"
+      "lastUpdated": "2026-04-04T16:45:19Z"
     },
     "syn__________": {
       "counters": {
@@ -3481,7 +3481,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1777,
+        "chat": 1780,
         "points_spent": 58800,
         "effects": 7,
         "interactive": 13,
@@ -3514,7 +3514,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-04-04T16:21:05Z"
+      "lastUpdated": "2026-04-04T16:46:43Z"
     },
     "roffelonator": {
       "counters": {
@@ -3698,7 +3698,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 325
+        "chat": 330
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3710,7 +3710,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-04T16:24:08Z"
+      "lastUpdated": "2026-04-04T16:45:55Z"
     },
     "akiraownz": {
       "counters": {
@@ -7099,15 +7099,16 @@
     "wigz666": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-04T16:41:54Z"
+      "lastUpdated": "2026-04-04T16:47:24Z"
     },
     "chaarleyxo": {
       "counters": {
@@ -8641,7 +8642,7 @@
       "lastUpdated": "2026-04-04T15:17:19Z"
     }
   },
-  "lastUpdated": "2026-04-04T15:42:53Z",
+  "lastUpdated": "2026-04-04T15:47:25Z",
   "totalUsers": 435,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
