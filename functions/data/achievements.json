@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2768,
+        "chat": 2774,
         "points_spent": 41401,
         "effects": 13,
         "sub": 15,
@@ -1560,7 +1560,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-04-04T13:38:27Z"
+      "lastUpdated": "2026-04-04T13:49:16Z"
     },
     "celran": {
       "counters": {
@@ -1657,7 +1657,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2558,
+        "chat": 2559,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1713,7 +1713,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-04T13:31:14Z"
+      "lastUpdated": "2026-04-04T13:49:05Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2421,7 +2421,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2970,
+        "chat": 2974,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
@@ -2499,7 +2499,7 @@
         "gift_emperor",
         "bits_elite"
       ],
-      "lastUpdated": "2026-04-04T13:39:15Z"
+      "lastUpdated": "2026-04-04T13:53:51Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2672,7 +2672,7 @@
         "points_spent": 16600,
         "effects": 37,
         "follow": 1,
-        "chat": 191,
+        "chat": 192,
         "interactive": 2,
         "sounds": 1
       },
@@ -2696,7 +2696,7 @@
         "early_bird",
         "sound_first"
       ],
-      "lastUpdated": "2026-04-03T15:26:34Z"
+      "lastUpdated": "2026-04-04T13:48:22Z"
     },
     "s3n71": {
       "counters": {
@@ -4645,7 +4645,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 163,
+        "chat": 164,
         "follow": 1,
         "sub": 10
       },
@@ -4668,7 +4668,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2026-04-04T12:17:30Z"
+      "lastUpdated": "2026-04-04T13:44:12Z"
     },
     "nightboy009": {
       "counters": {
@@ -6781,7 +6781,7 @@
         "chat": 1017,
         "points_spent": 50003,
         "sounds": 19,
-        "effects": 6,
+        "effects": 7,
         "screenshot": 2,
         "sub": 17,
         "interactive": 8,
@@ -6824,7 +6824,7 @@
         "chat_champion",
         "spender_gold"
       ],
-      "lastUpdated": "2026-04-04T13:42:49Z"
+      "lastUpdated": "2026-04-04T13:42:51Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8580,10 +8580,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-04-04T12:29:21Z"
+    },
+    "killakris": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-04-04T13:53:57Z"
     }
   },
-  "lastUpdated": "2026-04-04T12:42:50Z",
-  "totalUsers": 433,
+  "lastUpdated": "2026-04-04T12:53:58Z",
+  "totalUsers": 434,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
