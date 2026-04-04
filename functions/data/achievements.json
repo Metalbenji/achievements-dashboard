@@ -1657,7 +1657,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2586,
+        "chat": 2589,
         "points_spent": 137851,
         "screenshot": 1,
         "follow": 1,
@@ -1714,7 +1714,7 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-04T15:13:59Z"
+      "lastUpdated": "2026-04-04T15:15:29Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1937,7 +1937,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 331,
+        "chat": 332,
         "sub": 1,
         "points_spent": 6350,
         "sounds": 3,
@@ -1964,7 +1964,7 @@
         "screenshot_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-04T15:09:56Z"
+      "lastUpdated": "2026-04-04T15:15:27Z"
     },
     "sealdancer": {
       "counters": {
@@ -2050,7 +2050,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 816,
+        "chat": 817,
         "points_spent": 16902,
         "interactive": 5,
         "sub": 31,
@@ -2109,7 +2109,7 @@
         "chat_enthusiast",
         "sub_elite"
       ],
-      "lastUpdated": "2026-04-04T15:11:25Z"
+      "lastUpdated": "2026-04-04T15:15:22Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3252,7 +3252,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2671,
+        "chat": 2672,
         "sub": 49,
         "points_spent": 350,
         "screenshot": 1
@@ -3287,7 +3287,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-04-04T15:14:16Z"
+      "lastUpdated": "2026-04-04T15:15:13Z"
     },
     "majesty81": {
       "counters": {
@@ -8627,16 +8627,17 @@
     "tibirius93": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-04-04T15:14:47Z"
+      "lastUpdated": "2026-04-04T15:15:51Z"
     }
   },
-  "lastUpdated": "2026-04-04T14:14:56Z",
+  "lastUpdated": "2026-04-04T14:15:52Z",
   "totalUsers": 435,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
