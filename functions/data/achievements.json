@@ -1598,12 +1598,12 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 787,
-        "points_spent": 35502,
+        "chat": 788,
+        "points_spent": 37502,
         "effects": 27,
         "follow": 1,
         "sub": 34,
-        "sounds": 14,
+        "sounds": 15,
         "screenshot": 2,
         "interactive": 9,
         "bits": 200,
@@ -1651,9 +1651,10 @@
         "spender_electrum",
         "birthday_person",
         "effect_master",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "sound_dj"
       ],
-      "lastUpdated": "2026-04-04T15:53:38Z"
+      "lastUpdated": "2026-04-04T15:54:56Z"
     },
     "ramdon101": {
       "counters": {
@@ -8638,7 +8639,7 @@
       "lastUpdated": "2026-04-04T15:17:19Z"
     }
   },
-  "lastUpdated": "2026-04-04T14:54:28Z",
+  "lastUpdated": "2026-04-04T14:54:58Z",
   "totalUsers": 435,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
