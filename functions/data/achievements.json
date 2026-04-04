@@ -1598,7 +1598,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 780,
+        "chat": 781,
         "points_spent": 33102,
         "effects": 27,
         "follow": 1,
@@ -1653,11 +1653,11 @@
         "effect_master",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-04-04T15:00:38Z"
+      "lastUpdated": "2026-04-04T15:08:59Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2584,
+        "chat": 2585,
         "points_spent": 137851,
         "screenshot": 1,
         "follow": 1,
@@ -1714,7 +1714,7 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-04T15:04:38Z"
+      "lastUpdated": "2026-04-04T15:06:49Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2050,7 +2050,7 @@
     "adammmidders": {
       "counters": {
         "follow": 1,
-        "chat": 813,
+        "chat": 815,
         "points_spent": 16902,
         "interactive": 5,
         "sub": 31,
@@ -2109,7 +2109,7 @@
         "chat_enthusiast",
         "sub_elite"
       ],
-      "lastUpdated": "2026-04-04T15:06:03Z"
+      "lastUpdated": "2026-04-04T15:07:53Z"
     },
     "mattyuk937": {
       "counters": {
@@ -3252,7 +3252,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2648,
+        "chat": 2653,
         "sub": 49,
         "points_spent": 350,
         "screenshot": 1
@@ -3287,7 +3287,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-04-04T12:04:06Z"
+      "lastUpdated": "2026-04-04T15:09:23Z"
     },
     "majesty81": {
       "counters": {
@@ -3655,7 +3655,7 @@
       "counters": {
         "sub": 49,
         "follow": 1,
-        "chat": 321,
+        "chat": 326,
         "points_spent": 40752,
         "effects": 1,
         "sounds": 2
@@ -3692,7 +3692,7 @@
         "sub_legendary",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-04T15:06:10Z"
+      "lastUpdated": "2026-04-04T15:07:59Z"
     },
     "camm_23": {
       "counters": {
@@ -8202,7 +8202,7 @@
     "biopineapple": {
       "counters": {
         "follow": 1,
-        "chat": 100
+        "chat": 103
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8212,7 +8212,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-04-04T15:06:18Z"
+      "lastUpdated": "2026-04-04T15:09:36Z"
     },
     "nightworgdk": {
       "counters": {
@@ -8600,14 +8600,15 @@
     },
     "trilani": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-04-04T14:05:27Z"
+      "lastUpdated": "2026-04-04T15:09:40Z"
     },
     "killakris": {
       "counters": {
@@ -8622,7 +8623,7 @@
       "lastUpdated": "2026-04-04T14:01:06Z"
     }
   },
-  "lastUpdated": "2026-04-04T14:06:19Z",
+  "lastUpdated": "2026-04-04T14:09:41Z",
   "totalUsers": 434,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
