@@ -1657,7 +1657,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2551,
+        "chat": 2554,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1713,11 +1713,11 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-04T12:13:56Z"
+      "lastUpdated": "2026-04-04T12:27:51Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1845,
+        "chat": 1849,
         "points_spent": 53201,
         "interactive": 39,
         "follow": 1,
@@ -1765,7 +1765,7 @@
         "early_bird",
         "spender_gold"
       ],
-      "lastUpdated": "2026-04-04T12:22:44Z"
+      "lastUpdated": "2026-04-04T12:28:02Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2111,7 +2111,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1401,
+        "chat": 1402,
         "points_spent": 88710,
         "effects": 14,
         "sounds": 7,
@@ -2157,7 +2157,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-04T12:04:54Z"
+      "lastUpdated": "2026-04-04T12:28:50Z"
     },
     "anzerou": {
       "counters": {
@@ -2603,7 +2603,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 228,
+        "chat": 230,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 37
@@ -2635,7 +2635,7 @@
         "chat_frequent",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-04T12:24:58Z"
+      "lastUpdated": "2026-04-04T12:27:56Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3462,7 +3462,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1749,
+        "chat": 1750,
         "points_spent": 58800,
         "effects": 7,
         "interactive": 13,
@@ -3495,7 +3495,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-04-04T12:17:17Z"
+      "lastUpdated": "2026-04-04T12:26:38Z"
     },
     "roffelonator": {
       "counters": {
@@ -8377,7 +8377,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 71,
+        "chat": 77,
         "sub": 4
       },
       "unlockedAchievements": [
@@ -8393,7 +8393,7 @@
         "sub_dedicated",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-04-04T12:25:13Z"
+      "lastUpdated": "2026-04-04T12:28:41Z"
     },
     "galithoreu": {
       "counters": {
@@ -8568,10 +8568,19 @@
       },
       "unlockedAchievements": [],
       "lastUpdated": "2026-04-03T16:59:28Z"
+    },
+    "trilani": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-04-04T12:29:00Z"
     }
   },
-  "lastUpdated": "2026-04-04T11:25:14Z",
-  "totalUsers": 432,
+  "lastUpdated": "2026-04-04T11:29:01Z",
+  "totalUsers": 433,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
