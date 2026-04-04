@@ -1657,7 +1657,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2560,
+        "chat": 2561,
         "points_spent": 132251,
         "screenshot": 1,
         "follow": 1,
@@ -1713,7 +1713,7 @@
         "gift_starter",
         "effect_collector"
       ],
-      "lastUpdated": "2026-04-04T13:56:02Z"
+      "lastUpdated": "2026-04-04T13:58:29Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2606,7 +2606,11 @@
         "chat": 231,
         "points_spent": 22000,
         "sounds": 2,
-        "sub": 37
+        "sub": 37,
+        "gift_subs": 32,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 32,
+        "largest_gift_bomb": 32
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2633,9 +2637,19 @@
         "sub_elite",
         "sub_tier1",
         "chat_frequent",
-        "sub_master"
+        "sub_master",
+        "gift_bomb_30",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion",
+        "gift_hero",
+        "gift_angel"
       ],
-      "lastUpdated": "2026-04-04T12:29:17Z"
+      "lastUpdated": "2026-04-04T13:58:15Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2748,7 +2762,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 41,
+        "chat": 42,
         "points_spent": 5550,
         "interactive": 2,
         "effects": 8,
@@ -2767,7 +2781,7 @@
         "chat_conversationalist",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-04T11:13:08Z"
+      "lastUpdated": "2026-04-04T13:58:55Z"
     },
     "soundalerts": {
       "counters": {
@@ -4645,7 +4659,7 @@
     },
     "azeroth1620": {
       "counters": {
-        "chat": 164,
+        "chat": 165,
         "follow": 1,
         "sub": 10
       },
@@ -4668,7 +4682,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2026-04-04T13:44:12Z"
+      "lastUpdated": "2026-04-04T13:58:44Z"
     },
     "nightboy009": {
       "counters": {
@@ -6123,7 +6137,7 @@
     "gudgeww": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6131,7 +6145,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-04-04T13:56:03Z"
+      "lastUpdated": "2026-04-04T13:58:46Z"
     },
     "itsthesharktoothbaberuth": {
       "counters": {
@@ -8584,16 +8598,17 @@
     "killakris": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-04-04T13:54:39Z"
+      "lastUpdated": "2026-04-04T13:59:05Z"
     }
   },
-  "lastUpdated": "2026-04-04T12:58:28Z",
+  "lastUpdated": "2026-04-04T12:59:06Z",
   "totalUsers": 434,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
