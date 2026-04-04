@@ -8571,15 +8571,17 @@
     },
     "trilani": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-04-04T12:29:00Z"
+      "lastUpdated": "2026-04-04T12:29:05Z"
     }
   },
-  "lastUpdated": "2026-04-04T11:29:01Z",
+  "lastUpdated": "2026-04-04T11:29:07Z",
   "totalUsers": 433,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
