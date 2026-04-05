@@ -2583,11 +2583,11 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 220,
+        "chat": 221,
         "points_spent": 18050,
         "interactive": 3,
         "effects": 3,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2606,7 +2606,7 @@
         "chat_frequent",
         "spender_silver"
       ],
-      "lastUpdated": "2026-04-05T16:59:25Z"
+      "lastUpdated": "2026-04-05T17:00:20Z"
     },
     "qyainiana": {
       "counters": {
@@ -4323,7 +4323,7 @@
       "counters": {
         "sub": 47,
         "follow": 1,
-        "chat": 395,
+        "chat": 406,
         "points_spent": 901,
         "sounds": 1,
         "interactive": 1
@@ -4355,7 +4355,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2026-04-05T12:58:24Z"
+      "lastUpdated": "2026-04-05T17:28:47Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -8651,10 +8651,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-04-04T15:17:19Z"
+    },
+    "bucks1973": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-04-05T17:29:44Z"
     }
   },
-  "lastUpdated": "2026-04-05T15:59:26Z",
-  "totalUsers": 435,
+  "lastUpdated": "2026-04-05T16:29:45Z",
+  "totalUsers": 436,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
