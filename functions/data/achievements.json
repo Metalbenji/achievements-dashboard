@@ -1498,7 +1498,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 2886,
+        "chat": 2897,
         "points_spent": 51751,
         "effects": 14,
         "sub": 15,
@@ -1561,7 +1561,7 @@
         "gift_caring",
         "spender_gold"
       ],
-      "lastUpdated": "2026-04-05T14:21:31Z"
+      "lastUpdated": "2026-04-05T14:50:08Z"
     },
     "celran": {
       "counters": {
@@ -1971,7 +1971,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 108,
+        "chat": 109,
         "points_spent": 1,
         "raid": 1
       },
@@ -1985,7 +1985,7 @@
         "chat_regular",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-03-21T12:57:11Z"
+      "lastUpdated": "2026-04-05T14:49:54Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2426,7 +2426,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 2989,
+        "chat": 3000,
         "points_spent": 46250,
         "effects": 12,
         "sub": 45,
@@ -2502,9 +2502,10 @@
         "gift_baron",
         "gift_lord",
         "gift_emperor",
-        "bits_elite"
+        "bits_elite",
+        "chat_master_tier"
       ],
-      "lastUpdated": "2026-04-04T16:13:33Z"
+      "lastUpdated": "2026-04-05T14:50:13Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2968,7 +2969,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1042,
+        "chat": 1051,
         "points_spent": 61551,
         "sounds": 11,
         "effects": 74,
@@ -3047,7 +3048,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-04-05T14:26:02Z"
+      "lastUpdated": "2026-04-05T14:46:41Z"
     },
     "andilippi": {
       "counters": {
@@ -3731,7 +3732,7 @@
       "counters": {
         "sub": 38,
         "follow": 1,
-        "chat": 523,
+        "chat": 525,
         "points_spent": 1101,
         "effects": 2
       },
@@ -3761,7 +3762,7 @@
         "sub_master",
         "birthday_person"
       ],
-      "lastUpdated": "2026-04-05T12:40:33Z"
+      "lastUpdated": "2026-04-05T14:48:10Z"
     },
     "ppodsedly97": {
       "counters": {
@@ -7936,16 +7937,18 @@
     "conzrr": {
       "counters": {
         "follow": 1,
-        "chat": 97
+        "chat": 99,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-04-04T15:49:04Z"
+      "lastUpdated": "2026-04-05T14:28:17Z"
     },
     "firstcomeswar": {
       "counters": {
@@ -8404,7 +8407,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 93,
+        "chat": 98,
         "sub": 4,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -8429,7 +8432,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-04-04T17:02:22Z"
+      "lastUpdated": "2026-04-05T14:48:36Z"
     },
     "galithoreu": {
       "counters": {
@@ -8647,7 +8650,7 @@
       "lastUpdated": "2026-04-04T15:17:19Z"
     }
   },
-  "lastUpdated": "2026-04-05T13:26:55Z",
+  "lastUpdated": "2026-04-05T13:50:14Z",
   "totalUsers": 435,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
