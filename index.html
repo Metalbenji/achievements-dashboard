@@ -29,18 +29,13 @@
             --achievement-gold: #ffd700;
             --neon-blue: #00d4ff;
             
-            /* Container max-widths for different screen sizes */
-            --max-width-mobile: 100%;
-            --max-width-tablet: 768px;
-            --max-width-desktop: 1200px;
+            /* Layout max-widths */
             --max-width-large: 1400px;
-            --max-width-ultrawide: 1800px;
             --max-width-superwide: 2400px;
             
             /* Grid settings */
             --grid-gap: clamp(15px, 2vw, 25px);
             --card-min-width: 280px;
-            --card-max-width: 400px;
             
             /* Rarity colors */
             --rarity-1-main-color: #ffffff;
@@ -410,7 +405,7 @@
             line-height: 1.1;
             /* Allow natural text wrapping */
             hyphens: auto;
-            word-spacing: 0.15em;
+            word-spacing: 0.05em;
         }
 
         .achievement-card.unlocked .achievement-info h3 {
@@ -950,7 +945,8 @@
 
         // Security helper to prevent XSS by escaping HTML special characters.
         function escapeHTML(str) {
-            if (typeof str !== 'string') return str;
+            if (str == null) return '';
+            str = String(str);
             return str.replace(/[&<>"']/g, function(match) {
                 return {
                     '&': '&amp;',
@@ -1367,14 +1363,14 @@
         }
 
         function adjustSingleWordTitles() {
-            // Simple function that just handles basic overflow if needed
+            // Check for overflowing titles and apply word-break fix + tooltip
             setTimeout(() => {
                 const titleElements = contentElement ? contentElement.querySelectorAll('.achievement-info h3') : [];
                 
                 titleElements.forEach(h3 => {
-                    // Simple check - if text is overflowing significantly, just add a tooltip
-                    if (h3.scrollWidth > h3.clientWidth * 1.2) {
+                    if (h3.scrollWidth > h3.clientWidth) {
                         h3.title = h3.textContent; // Show full text on hover
+                        h3.style.wordBreak = 'break-all'; // Force long words to wrap
                     }
                 });
             }, 100);
