@@ -1130,6 +1130,8 @@
                 counterKey = 'sounds';
             } else if (typeKey === 'giftsub') {
                 counterKey = 'gift_subs';
+            } else if (typeKey === 'sub' && achievement.Type.toLowerCase() === 'sub_tier') {
+                counterKey = 'sub_tier';
             }
 
             const currentValue = userProgress.Counters[counterKey] || 0;
@@ -1148,6 +1150,8 @@
 
             // Gift bomb SIZE achievements don't show progress - only locked or unlocked
             const isGiftBombSizeAchievement = achievement.Type.toLowerCase() === 'gift_bomb_size';
+            // Subscription tier achievements show tier number vs required tier
+            const isSubTierAchievement = counterKey === 'sub_tier';
 
             if (isUnlocked) {
                 progress = 100;
@@ -1156,6 +1160,10 @@
                 // For locked gift bomb size achievements, show 0% progress
                 progress = 0;
                 displayedCurrentValue = 0;
+            } else if (isSubTierAchievement) {
+                // For locked tier achievements, show current tier vs required tier
+                progress = 0;
+                displayedCurrentValue = adjustedCurrentValue;
             } else {
                 progress = Math.min((adjustedCurrentValue / adjustedRequiredValue) * 100, 100);
                 displayedCurrentValue = Math.min(adjustedCurrentValue, adjustedRequiredValue);
@@ -1163,8 +1171,17 @@
 
             const isDonationAmount = typeKey === 'donations' && !isDonationCountAchievement(achievement);
 
-            const currentDisplayValue = isDonationAmount ? `£${displayedCurrentValue.toFixed(2)}` : displayedCurrentValue.toString();
-            const requiredDisplayValue = isDonationAmount ? `£${adjustedRequiredValue.toFixed(2)}` : adjustedRequiredValue.toString();
+            let currentDisplayValue, requiredDisplayValue;
+            if (isSubTierAchievement) {
+                currentDisplayValue = 'Tier ' + adjustedCurrentValue;
+                requiredDisplayValue = 'Tier ' + adjustedRequiredValue;
+            } else if (isDonationAmount) {
+                currentDisplayValue = '£' + displayedCurrentValue.toFixed(2);
+                requiredDisplayValue = '£' + adjustedRequiredValue.toFixed(2);
+            } else {
+                currentDisplayValue = displayedCurrentValue.toString();
+                requiredDisplayValue = adjustedRequiredValue.toString();
+            }
 
             const convertedDescription = convertDescriptionCurrency(achievement.Description, isDonationAmount);
 
