@@ -8398,7 +8398,7 @@
     "s0fde": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 5000
       },
       "unlockedAchievements": [
@@ -8407,9 +8407,10 @@
         "chat_newbie",
         "spender_bronze",
         "spender_iron",
-        "vip_dreamer"
+        "vip_dreamer",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-04-06T18:06:38Z"
+      "lastUpdated": "2026-04-06T18:07:23Z"
     },
     "helloaamir": {
       "counters": {
@@ -8701,7 +8702,7 @@
       "lastUpdated": "2026-04-06T16:35:05Z"
     }
   },
-  "lastUpdated": "2026-04-06T17:06:42Z",
+  "lastUpdated": "2026-04-06T17:07:24Z",
   "totalUsers": 438,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
