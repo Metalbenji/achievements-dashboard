@@ -1122,8 +1122,6 @@
                 counterKey = 'big_donation';
             } else if (typeKey === 'donations') {
                 counterKey = isDonationCountAchievement(achievement) ? 'donations' : 'total_donated';
-            } else if (typeKey === 'channelpoints') {
-                counterKey = 'points_spent';
             }
 
             const currentValue = userProgress.Counters[counterKey] || 0;
