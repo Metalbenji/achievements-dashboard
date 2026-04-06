@@ -1122,6 +1122,14 @@
                 counterKey = 'big_donation';
             } else if (typeKey === 'donations') {
                 counterKey = isDonationCountAchievement(achievement) ? 'donations' : 'total_donated';
+            } else if (typeKey === 'channelpoints') {
+                counterKey = 'points_spent';
+            } else if (typeKey === 'effect') {
+                counterKey = 'effects';
+            } else if (typeKey === 'sound') {
+                counterKey = 'sounds';
+            } else if (typeKey === 'giftsub') {
+                counterKey = 'gift_subs';
             }
 
             const currentValue = userProgress.Counters[counterKey] || 0;
