@@ -347,7 +347,7 @@
             overflow: hidden;
             transition: all 0.3s ease;
             min-width: 0; /* Prevent overflow */
-            max-width: var(--card-max-width);
+            max-width: 100%;
             width: 100%;
         }
 
@@ -767,9 +767,75 @@
                 margin-top: 0;
             }
             
+            body {
+                background: white !important;
+                color: black !important;
+            }
+            
             .achievement-card {
                 break-inside: avoid;
                 page-break-inside: avoid;
+                background: white !important;
+                color: black !important;
+                border-color: #ccc !important;
+                box-shadow: none !important;
+            }
+            
+            .achievement-info h3 {
+                color: #333 !important;
+                text-shadow: none !important;
+                -webkit-text-fill-color: #333 !important;
+            }
+            
+            .achievement-description {
+                color: #333 !important;
+                opacity: 1 !important;
+            }
+            
+            .achievement-icon {
+                filter: none !important;
+                color: #666 !important;
+            }
+            
+            .progress-bar {
+                border-color: #999 !important;
+            }
+            
+            .progress-fill {
+                print-color-adjust: exact;
+                -webkit-print-color-adjust: exact;
+            }
+            
+            .progress-text {
+                color: white !important;
+            }
+            
+            .stat-card {
+                background: white !important;
+                border-color: #ccc !important;
+            }
+            
+            .stat-card .number {
+                color: #333 !important;
+                -webkit-text-fill-color: #333 !important;
+            }
+            
+            .stat-card h3 {
+                color: #333 !important;
+            }
+            
+            .unlock-date {
+                color: #333 !important;
+                text-shadow: none !important;
+            }
+        }
+
+        /* Respect user motion preferences */
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
             }
         }
     </style>
@@ -851,6 +917,10 @@
         let currentFilter = 'all';
         let achievements = [];
         let userProgress = null;
+        let isLoading = false;
+
+        // Currency conversion rate (must match C# backend scripts)
+        const USD_TO_GBP_RATE = 0.8;
 
         // DOM Element References
         let usernameInputElement;
@@ -901,6 +971,8 @@
 
         // Load data from JSON file
         async function loadUserData() {
+            if (isLoading) return; // Prevent duplicate requests
+            isLoading = true;
             try {
                 if (!usernameInputElement) {
                     console.error("Username input element not found.");
@@ -939,6 +1011,8 @@
             } catch (error) {
                 console.error('Failed to load user data:', error);
                 showError(error.message);
+            } finally {
+                isLoading = false;
             }
         }
 
@@ -986,6 +1060,7 @@
                     <button class="filter-tab ${currentFilter === 'clips' ? 'active' : ''}" data-filter="clips">Clips</button>
                     <button class="filter-tab ${currentFilter === 'raid' ? 'active' : ''}" data-filter="raid">Raids</button>
                     <button class="filter-tab ${currentFilter === 'bday' ? 'active' : ''}" data-filter="bday">Birthday Bash</button>
+                    <button class="filter-tab ${currentFilter === 'other' ? 'active' : ''}" data-filter="other">Other</button>
                 </div>
 
                 <div id="achievementsContainer">
@@ -1080,8 +1155,7 @@
         }
 
         function convertUSDtoGBP(usdAmount) {
-            const conversionRate = 0.8;
-            return Math.round(usdAmount * conversionRate * 100) / 100;
+            return Math.round(usdAmount * USD_TO_GBP_RATE * 100) / 100;
         }
 
         function formatCurrencyValue(value, isDonationAmount) {
@@ -1142,7 +1216,7 @@
 
             if (counterKey === 'total_donated') {
                 adjustedCurrentValue = currentValue / 100;
-                adjustedRequiredValue = requiredValue * 0.8;
+                adjustedRequiredValue = requiredValue * USD_TO_GBP_RATE;
             }
 
             let progress;
@@ -1204,9 +1278,28 @@
             `;
         }
 
+        // Shared group display order (single source of truth for category names)
+        const GROUP_DISPLAY_ORDER = [
+            { key: 'chat', name: 'Chat' },
+            { key: 'sub', name: 'Subscription' },
+            { key: 'bits', name: 'Bits' },
+            { key: 'screenshot', name: 'Screenshot' },
+            { key: 'timewatched', name: 'Time Watched' },
+            { key: 'effect', name: 'Effect' },
+            { key: 'sound', name: 'Sound' },
+            { key: 'channelpoints', name: 'Channel Points' },
+            { key: 'giftsub', name: 'Gift Sub' },
+            { key: 'donations', name: 'Donations' },
+            { key: 'bigdonation', name: 'Big Donations' },
+            { key: 'giftbomb', name: 'Gift Bomb' },
+            { key: 'clips', name: 'Clips' },
+            { key: 'raid', name: 'Raids' },
+            { key: 'bday', name: 'Birthday Bash 2025' }
+        ];
+
         function renderAchievements() {
             let html = '';
-            const definedAchievementTypes = ['chat', 'sub', 'bits', 'screenshot', 'timewatched', 'effect', 'sound', 'channelpoints', 'giftsub', 'donations', 'bigdonation', 'giftbomb', 'clips', 'raid', 'bday'];
+            const definedAchievementTypes = GROUP_DISPLAY_ORDER.map(g => g.key);
 
             if (currentFilter === 'all') {
                 const groupedByType = {};
@@ -1224,25 +1317,7 @@
                     }
                 });
 
-                const groupDisplayOrder = [
-                    { key: 'chat', name: 'Chat' },
-                    { key: 'sub', name: 'Subscription' },
-                    { key: 'bits', name: 'Bits' },
-                    { key: 'screenshot', name: 'Screenshot' },
-                    { key: 'timewatched', name: 'Time Watched' },
-                    { key: 'effect', name: 'Effect' },
-                    { key: 'sound', name: 'Sound' },
-                    { key: 'channelpoints', name: 'Channel Points' },
-                    { key: 'giftsub', name: 'Gift Sub' },
-                    { key: 'donations', name: 'Donations' },
-                    { key: 'bigdonation', name: 'Big Donations' },
-                    { key: 'giftbomb', name: 'Gift Bomb' },
-                    { key: 'clips', name: 'Clips' },
-                    { key: 'raid', name: 'Raids' },
-                    { key: 'bday', name: 'Birthday Bash 2025' }
-                ];
-
-                groupDisplayOrder.forEach(group => {
+                GROUP_DISPLAY_ORDER.forEach(group => {
                     if (groupedByType[group.key] && groupedByType[group.key].length > 0) {
                         html += `<h2 class="achievement-group-title">${group.name} Achievements</h2>`;
                         html += '<div class="achievements-grid">';
@@ -1268,32 +1343,18 @@
                 const filteredAchievements = achievements.filter(achievement => {
                     if (currentFilter === 'unlocked') return userProgress.UnlockedAchievements.includes(achievement.Id);
                     if (currentFilter === 'locked') return !userProgress.UnlockedAchievements.includes(achievement.Id);
+                    if (currentFilter === 'other') return !definedAchievementTypes.includes(getAchievementCategory(achievement));
                     const typeKey = getAchievementCategory(achievement);
                     return typeKey === currentFilter;
                 });
 
                 if (filteredAchievements.length > 0) {
                     if (definedAchievementTypes.includes(currentFilter)) {
-                        const groupDisplayOrder = [
-                            { key: 'chat', name: 'Chat' },
-                            { key: 'sub', name: 'Subscription' },
-                            { key: 'bits', name: 'Bits' },
-                            { key: 'screenshot', name: 'Screenshot' },
-                            { key: 'timewatched', name: 'Time Watched' },
-                            { key: 'effect', name: 'Effect' },
-                            { key: 'sound', name: 'Sound' },
-                            { key: 'channelpoints', name: 'Channel Points' },
-                            { key: 'giftsub', name: 'Gift Sub' },
-                            { key: 'donations', name: 'Donations' },
-                            { key: 'bigdonation', name: 'Big Donations' },
-                            { key: 'giftbomb', name: 'Gift Bomb' },
-                            { key: 'clips', name: 'Clips' },
-                            { key: 'raid', name: 'Raids' },
-                            { key: 'bday', name: 'Birthday Bash 2025' }
-                        ];
-                        const groupInfo = groupDisplayOrder.find(g => g.key === currentFilter);
+                        const groupInfo = GROUP_DISPLAY_ORDER.find(g => g.key === currentFilter);
                         const groupName = groupInfo ? groupInfo.name : currentFilter.charAt(0).toUpperCase() + currentFilter.slice(1);
                         html += `<h2 class="achievement-group-title">${groupName} Achievements</h2>`;
+                    } else if (currentFilter === 'other') {
+                        html += `<h2 class="achievement-group-title">Other Achievements</h2>`;
                     }
                     html += '<div class="achievements-grid">';
                     html += filteredAchievements.map(ach => mapAchievementToHtml(ach)).join('');

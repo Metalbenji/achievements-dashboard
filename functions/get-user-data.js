@@ -1,7 +1,23 @@
 const fs = require('fs');
 const path = require('path');
 
+const corsHeaders = {
+  'Content-Type': 'application/json',
+  'Access-Control-Allow-Origin': '*',
+  'Access-Control-Allow-Headers': 'Content-Type',
+  'Access-Control-Allow-Methods': 'POST, OPTIONS',
+};
+
 exports.handler = async (event, context) => {
+  // Handle CORS preflight requests
+  if (event.httpMethod === 'OPTIONS') {
+    return {
+      statusCode: 204,
+      headers: corsHeaders,
+      body: '',
+    };
+  }
+
   try {
     console.log("Function started");
     
@@ -16,10 +32,7 @@ exports.handler = async (event, context) => {
         console.error("Error parsing request body:", parseError);
         return {
           statusCode: 400,
-          headers: {
-            'Content-Type': 'application/json',
-            'Access-Control-Allow-Origin': '*',
-          },
+          headers: corsHeaders,
           body: JSON.stringify({ 
             error: 'Invalid request body' 
           })
@@ -30,10 +43,7 @@ exports.handler = async (event, context) => {
     if (!username) {
       return {
         statusCode: 400,
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
+        headers: corsHeaders,
         body: JSON.stringify({ 
           error: 'Username is required' 
         })
@@ -43,7 +53,7 @@ exports.handler = async (event, context) => {
     const dataPath = path.join(__dirname, 'data', 'achievements.json');
     console.log("Data file path:", dataPath);
     
-    const rawData = fs.readFileSync(dataPath, 'utf8');
+    const rawData = await fs.promises.readFile(dataPath, 'utf8');
     console.log("File read successfully");
     
     const fullData = JSON.parse(rawData);
@@ -54,10 +64,7 @@ exports.handler = async (event, context) => {
       console.error("No users section found in data");
       return {
         statusCode: 500,
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
+        headers: corsHeaders,
         body: JSON.stringify({ 
           error: 'Invalid data structure - no users section found' 
         })
@@ -68,10 +75,7 @@ exports.handler = async (event, context) => {
       console.error("No achievements section found in data");
       return {
         statusCode: 500,
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
+        headers: corsHeaders,
         body: JSON.stringify({ 
           error: 'Invalid data structure - no achievements section found' 
         })
@@ -88,10 +92,7 @@ exports.handler = async (event, context) => {
       console.log(`User "${username}" not found`);
       return {
         statusCode: 404,
-        headers: {
-          'Content-Type': 'application/json',
-          'Access-Control-Allow-Origin': '*',
-        },
+        headers: corsHeaders,
         body: JSON.stringify({ 
           error: `No achievement data found for user "${username}".` 
         })
@@ -109,10 +110,7 @@ exports.handler = async (event, context) => {
     // Return data in the format the frontend expects
     return {
       statusCode: 200,
-      headers: {
-        'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': '*',
-      },
+      headers: corsHeaders,
       body: JSON.stringify({
         achievements: fullData.achievements,
         userProgress: userProgress
@@ -123,13 +121,9 @@ exports.handler = async (event, context) => {
     console.error("Function error:", error);
     return {
       statusCode: 500,
-      headers: {
-        'Content-Type': 'application/json',
-        'Access-Control-Allow-Origin': '*',
-      },
+      headers: corsHeaders,
       body: JSON.stringify({ 
-        error: 'Failed to load data',
-        details: error.message 
+        error: 'Failed to load data'
       })
     };
   }
