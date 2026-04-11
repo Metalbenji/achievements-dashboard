@@ -4337,7 +4337,8 @@
         "points_spent": 1251,
         "sounds": 1,
         "interactive": 1,
-        "clips": 3
+        "clips": 3,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4366,9 +4367,10 @@
         "chat_dedicated",
         "night_owl",
         "clip_first",
-        "spender_bronze"
+        "spender_bronze",
+        "screenshot_first"
       ],
-      "lastUpdated": "2026-04-11T14:54:00Z"
+      "lastUpdated": "2026-04-11T14:54:02Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -8752,7 +8754,7 @@
       "lastUpdated": "2026-04-11T14:40:39Z"
     }
   },
-  "lastUpdated": "2026-04-11T13:54:02Z",
+  "lastUpdated": "2026-04-11T13:54:03Z",
   "totalUsers": 442,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
