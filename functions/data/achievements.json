@@ -5013,16 +5013,18 @@
     "ashhbrown": {
       "counters": {
         "follow": 1,
-        "chat": 61
+        "chat": 61,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-04-04T10:54:30Z"
+      "lastUpdated": "2026-04-11T14:27:30Z"
     },
     "icyhot_10": {
       "counters": {
@@ -8726,10 +8728,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-04-11T13:14:02Z"
+    },
+    "drakenvev": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-04-11T14:27:36Z"
     }
   },
-  "lastUpdated": "2026-04-11T13:27:34Z",
-  "totalUsers": 440,
+  "lastUpdated": "2026-04-11T13:27:38Z",
+  "totalUsers": 441,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
