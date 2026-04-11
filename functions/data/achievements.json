@@ -1661,7 +1661,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2693,
+        "chat": 2694,
         "points_spent": 137851,
         "screenshot": 1,
         "follow": 1,
@@ -1718,11 +1718,11 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-11T15:52:38Z"
+      "lastUpdated": "2026-04-11T15:57:13Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1967,
+        "chat": 1968,
         "points_spent": 53201,
         "interactive": 39,
         "follow": 1,
@@ -1772,7 +1772,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-11T15:41:20Z"
+      "lastUpdated": "2026-04-11T16:00:20Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2122,10 +2122,10 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1466,
+        "chat": 1468,
         "points_spent": 109061,
         "effects": 14,
-        "sounds": 7,
+        "sounds": 8,
         "sub": 38,
         "screenshot": 4,
         "clips": 1,
@@ -2170,7 +2170,7 @@
         "sub_master",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-04-11T15:56:32Z"
+      "lastUpdated": "2026-04-11T16:00:26Z"
     },
     "anzerou": {
       "counters": {
@@ -2593,7 +2593,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 248,
+        "chat": 251,
         "points_spent": 18050,
         "interactive": 3,
         "effects": 3,
@@ -2616,7 +2616,7 @@
         "chat_frequent",
         "spender_silver"
       ],
-      "lastUpdated": "2026-04-06T14:49:38Z"
+      "lastUpdated": "2026-04-11T16:01:07Z"
     },
     "qyainiana": {
       "counters": {
@@ -2780,7 +2780,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 73,
+        "chat": 75,
         "points_spent": 5550,
         "interactive": 2,
         "effects": 8,
@@ -2799,7 +2799,7 @@
         "chat_conversationalist",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-11T15:46:47Z"
+      "lastUpdated": "2026-04-11T16:01:48Z"
     },
     "soundalerts": {
       "counters": {
@@ -3496,7 +3496,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1822,
+        "chat": 1823,
         "points_spent": 62800,
         "effects": 7,
         "interactive": 13,
@@ -3529,7 +3529,7 @@
         "spender_gold",
         "chat_expert"
       ],
-      "lastUpdated": "2026-04-11T15:31:55Z"
+      "lastUpdated": "2026-04-11T15:57:11Z"
     },
     "roffelonator": {
       "counters": {
@@ -6830,7 +6830,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1157,
+        "chat": 1159,
         "points_spent": 70003,
         "sounds": 20,
         "effects": 7,
@@ -6876,7 +6876,7 @@
         "chat_champion",
         "spender_gold"
       ],
-      "lastUpdated": "2026-04-11T15:52:26Z"
+      "lastUpdated": "2026-04-11T16:02:05Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8769,7 +8769,7 @@
       "lastUpdated": "2026-04-11T15:46:15Z"
     }
   },
-  "lastUpdated": "2026-04-11T14:56:34Z",
+  "lastUpdated": "2026-04-11T15:02:24Z",
   "totalUsers": 443,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
