@@ -8755,15 +8755,17 @@
     },
     "camelsman": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-04-11T15:06:22Z"
+      "lastUpdated": "2026-04-11T15:06:24Z"
     }
   },
-  "lastUpdated": "2026-04-11T14:06:23Z",
+  "lastUpdated": "2026-04-11T14:06:25Z",
   "totalUsers": 443,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
