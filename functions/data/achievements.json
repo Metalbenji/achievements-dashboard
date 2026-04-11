@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 387,
+        "chat": 388,
         "points_spent": 28700,
         "follow": 1,
         "sub": 22,
@@ -1479,7 +1479,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-11T15:46:05Z"
+      "lastUpdated": "2026-04-11T15:47:07Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1661,7 +1661,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2691,
+        "chat": 2693,
         "points_spent": 137851,
         "screenshot": 1,
         "follow": 1,
@@ -1718,7 +1718,7 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-11T15:45:30Z"
+      "lastUpdated": "2026-04-11T15:52:38Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2123,7 +2123,7 @@
       "counters": {
         "follow": 1,
         "chat": 1466,
-        "points_spent": 89061,
+        "points_spent": 109061,
         "effects": 14,
         "sounds": 7,
         "sub": 38,
@@ -2167,9 +2167,10 @@
         "spender_electrum",
         "chat_champion",
         "birthday_person",
-        "sub_master"
+        "sub_master",
+        "spender_platinum"
       ],
-      "lastUpdated": "2026-04-11T15:42:17Z"
+      "lastUpdated": "2026-04-11T15:56:32Z"
     },
     "anzerou": {
       "counters": {
@@ -2322,7 +2323,7 @@
       "counters": {
         "points_spent": 80952,
         "follow": 1,
-        "chat": 942,
+        "chat": 943,
         "effects": 88,
         "screenshot": 5,
         "sounds": 6,
@@ -2376,7 +2377,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-04-11T15:46:12Z"
+      "lastUpdated": "2026-04-11T15:46:28Z"
     },
     "syn__________": {
       "counters": {
@@ -2779,7 +2780,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 72,
+        "chat": 73,
         "points_spent": 5550,
         "interactive": 2,
         "effects": 8,
@@ -2798,7 +2799,7 @@
         "chat_conversationalist",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-11T15:43:01Z"
+      "lastUpdated": "2026-04-11T15:46:47Z"
     },
     "soundalerts": {
       "counters": {
@@ -5540,7 +5541,7 @@
     "nonick1337": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5548,7 +5549,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-04-11T15:45:24Z"
+      "lastUpdated": "2026-04-11T15:46:33Z"
     },
     "blackrobe1": {
       "counters": {
@@ -6829,9 +6830,9 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1154,
-        "points_spent": 50003,
-        "sounds": 19,
+        "chat": 1157,
+        "points_spent": 70003,
+        "sounds": 20,
         "effects": 7,
         "screenshot": 2,
         "sub": 17,
@@ -6875,7 +6876,7 @@
         "chat_champion",
         "spender_gold"
       ],
-      "lastUpdated": "2026-04-11T14:32:08Z"
+      "lastUpdated": "2026-04-11T15:52:26Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8757,7 +8758,7 @@
     "camelsman": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8765,10 +8766,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-04-11T15:46:13Z"
+      "lastUpdated": "2026-04-11T15:46:15Z"
     }
   },
-  "lastUpdated": "2026-04-11T14:46:14Z",
+  "lastUpdated": "2026-04-11T14:56:34Z",
   "totalUsers": 443,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
