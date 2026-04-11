@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 374,
+        "chat": 381,
         "points_spent": 28700,
         "follow": 1,
         "sub": 22,
@@ -1479,7 +1479,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-11T15:39:57Z"
+      "lastUpdated": "2026-04-11T15:43:10Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1722,7 +1722,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 1966,
+        "chat": 1967,
         "points_spent": 53201,
         "interactive": 39,
         "follow": 1,
@@ -1772,7 +1772,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-11T15:39:21Z"
+      "lastUpdated": "2026-04-11T15:41:20Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1943,7 +1943,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 435,
+        "chat": 436,
         "sub": 1,
         "points_spent": 6350,
         "sounds": 3,
@@ -1972,7 +1972,7 @@
         "chat_dedicated",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-11T14:33:38Z"
+      "lastUpdated": "2026-04-11T15:44:03Z"
     },
     "sealdancer": {
       "counters": {
@@ -2122,7 +2122,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1465,
+        "chat": 1466,
         "points_spent": 89061,
         "effects": 14,
         "sounds": 7,
@@ -2169,7 +2169,7 @@
         "birthday_person",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-11T15:31:17Z"
+      "lastUpdated": "2026-04-11T15:42:17Z"
     },
     "anzerou": {
       "counters": {
@@ -2779,7 +2779,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 67,
+        "chat": 72,
         "points_spent": 5550,
         "interactive": 2,
         "effects": 8,
@@ -2798,7 +2798,7 @@
         "chat_conversationalist",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-11T15:40:16Z"
+      "lastUpdated": "2026-04-11T15:43:01Z"
     },
     "soundalerts": {
       "counters": {
@@ -4291,7 +4291,7 @@
     "wowsmael": {
       "counters": {
         "follow": 1,
-        "chat": 46,
+        "chat": 47,
         "points_spent": 500,
         "sounds": 1
       },
@@ -4303,7 +4303,7 @@
         "chat_conversationalist",
         "sound_first"
       ],
-      "lastUpdated": "2026-04-11T15:30:35Z"
+      "lastUpdated": "2026-04-11T15:43:54Z"
     },
     "dustingorbit": {
       "counters": {
@@ -5177,15 +5177,16 @@
     "bekevtv": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 900
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-04-11T15:08:01Z"
+      "lastUpdated": "2026-04-11T15:44:06Z"
     },
     "hazzabella": {
       "counters": {
@@ -5539,7 +5540,7 @@
     "nonick1337": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5547,7 +5548,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-04-06T10:15:31Z"
+      "lastUpdated": "2026-04-11T15:40:33Z"
     },
     "blackrobe1": {
       "counters": {
@@ -6976,7 +6977,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 191,
+        "chat": 197,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -7014,7 +7015,7 @@
         "interactive_first",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-11T14:54:23Z"
+      "lastUpdated": "2026-04-11T15:41:33Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8756,17 +8757,17 @@
     "camelsman": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-04-11T15:40:30Z"
+      "lastUpdated": "2026-04-11T15:42:39Z"
     }
   },
-  "lastUpdated": "2026-04-11T14:40:32Z",
+  "lastUpdated": "2026-04-11T14:44:07Z",
   "totalUsers": 443,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
