@@ -8736,7 +8736,8 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "weekend_warrior"
       ],
       "lastUpdated": "2026-04-18T13:34:14Z"
     },
@@ -8803,7 +8804,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T12:34:17Z",
+  "lastUpdated": "2026-04-18T12:34:19Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
