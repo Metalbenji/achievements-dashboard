@@ -3268,7 +3268,8 @@
         "night_owl",
         "chat_regular",
         "interactive_first",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_iron"
       ],
       "lastUpdated": "2026-04-18T13:03:00Z"
     },
@@ -8798,7 +8799,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T12:03:02Z",
+  "lastUpdated": "2026-04-18T12:03:05Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
