@@ -1661,7 +1661,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2816,
+        "chat": 2819,
         "points_spent": 138651,
         "screenshot": 1,
         "follow": 1,
@@ -1719,7 +1719,7 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-18T14:59:58Z"
+      "lastUpdated": "2026-04-18T15:08:34Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2326,7 +2326,7 @@
       "counters": {
         "points_spent": 82502,
         "follow": 1,
-        "chat": 964,
+        "chat": 968,
         "effects": 89,
         "screenshot": 6,
         "sounds": 6,
@@ -2380,7 +2380,7 @@
         "spender_electrum",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-04-18T15:02:45Z"
+      "lastUpdated": "2026-04-18T15:06:24Z"
     },
     "syn__________": {
       "counters": {
@@ -2628,7 +2628,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 245,
+        "chat": 246,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 37,
@@ -2674,7 +2674,7 @@
         "gift_hero",
         "gift_angel"
       ],
-      "lastUpdated": "2026-04-18T14:12:59Z"
+      "lastUpdated": "2026-04-18T15:08:41Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -2990,7 +2990,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1181,
+        "chat": 1186,
         "points_spent": 62951,
         "sounds": 11,
         "effects": 78,
@@ -3069,7 +3069,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-04-18T15:03:11Z"
+      "lastUpdated": "2026-04-18T15:07:19Z"
     },
     "andilippi": {
       "counters": {
@@ -3100,7 +3100,7 @@
       "counters": {
         "follow": 1,
         "chat": 39,
-        "raid": 2
+        "raid": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3112,7 +3112,7 @@
         "raid_tier1_captain",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-28T17:07:53Z"
+      "lastUpdated": "2026-04-18T15:09:24Z"
     },
     "haggisneepsandpotatoes": {
       "counters": {
@@ -6106,7 +6106,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 478,
+        "chat": 482,
         "follow": 1,
         "points_spent": 43200,
         "sounds": 2,
@@ -6133,7 +6133,7 @@
         "spender_electrum",
         "effect_first"
       ],
-      "lastUpdated": "2026-04-18T14:59:24Z"
+      "lastUpdated": "2026-04-18T15:08:08Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7347,7 +7347,7 @@
     },
     "arvidz101": {
       "counters": {
-        "chat": 35,
+        "chat": 39,
         "points_spent": 300,
         "effects": 1
       },
@@ -7358,7 +7358,7 @@
         "chat_conversationalist",
         "effect_first"
       ],
-      "lastUpdated": "2026-02-14T18:00:39Z"
+      "lastUpdated": "2026-04-18T15:09:18Z"
     },
     "geniejit": {
       "counters": {
@@ -8811,10 +8811,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-04-18T09:50:48Z"
+    },
+    "icecoldsoph": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-04-18T15:09:26Z"
     }
   },
-  "lastUpdated": "2026-04-18T14:03:20Z",
-  "totalUsers": 444,
+  "lastUpdated": "2026-04-18T14:09:31Z",
+  "totalUsers": 445,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
