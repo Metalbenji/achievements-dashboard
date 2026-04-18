@@ -2123,7 +2123,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1500,
+        "chat": 1501,
         "points_spent": 109062,
         "effects": 14,
         "sounds": 8,
@@ -2172,7 +2172,7 @@
         "spender_platinum",
         "chat_expert"
       ],
-      "lastUpdated": "2026-04-18T14:38:47Z"
+      "lastUpdated": "2026-04-18T14:38:59Z"
     },
     "anzerou": {
       "counters": {
@@ -8662,15 +8662,16 @@
     "applst0rm": {
       "counters": {
         "follow": 1,
-        "chat": 42
+        "chat": 43
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-04-06T09:41:47Z"
+      "lastUpdated": "2026-04-18T14:41:04Z"
     },
     "deusvult1089": {
       "counters": {
@@ -8808,7 +8809,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T13:38:52Z",
+  "lastUpdated": "2026-04-18T13:41:07Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
