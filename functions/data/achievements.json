@@ -1723,7 +1723,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2059,
+        "chat": 2062,
         "points_spent": 53201,
         "interactive": 39,
         "follow": 1,
@@ -1773,7 +1773,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-18T14:13:22Z"
+      "lastUpdated": "2026-04-18T14:46:23Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3251,7 +3251,7 @@
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3278,7 +3278,7 @@
         "sound_first",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-04-18T14:41:43Z"
+      "lastUpdated": "2026-04-18T14:41:46Z"
     },
     "awildbubbles": {
       "counters": {
@@ -3513,11 +3513,11 @@
       "counters": {
         "follow": 1,
         "chat": 1853,
-        "points_spent": 62800,
+        "points_spent": 64800,
         "effects": 7,
         "interactive": 13,
         "screenshot": 2,
-        "sounds": 14
+        "sounds": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3543,9 +3543,10 @@
         "spender_iron",
         "spender_electrum",
         "spender_gold",
-        "chat_expert"
+        "chat_expert",
+        "sound_dj"
       ],
-      "lastUpdated": "2026-04-18T14:00:05Z"
+      "lastUpdated": "2026-04-18T14:47:29Z"
     },
     "roffelonator": {
       "counters": {
@@ -8663,7 +8664,7 @@
     "applst0rm": {
       "counters": {
         "follow": 1,
-        "chat": 44
+        "chat": 53
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8672,7 +8673,7 @@
         "chat_conversationalist",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-04-18T14:41:19Z"
+      "lastUpdated": "2026-04-18T14:46:13Z"
     },
     "deusvult1089": {
       "counters": {
@@ -8810,7 +8811,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T13:41:46Z",
+  "lastUpdated": "2026-04-18T13:47:31Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
