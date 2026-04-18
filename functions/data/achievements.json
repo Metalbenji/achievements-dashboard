@@ -3245,7 +3245,9 @@
       "counters": {
         "follow": 1,
         "chat": 162,
-        "sub": 21
+        "sub": 21,
+        "points_spent": 400,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3264,9 +3266,10 @@
         "sub_champion",
         "sub_platinum",
         "night_owl",
-        "chat_regular"
+        "chat_regular",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-04-18T12:21:09Z"
+      "lastUpdated": "2026-04-18T13:01:21Z"
     },
     "awildbubbles": {
       "counters": {
@@ -8794,7 +8797,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T12:01:21Z",
+  "lastUpdated": "2026-04-18T12:01:23Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
