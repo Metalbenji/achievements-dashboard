@@ -1661,7 +1661,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2761,
+        "chat": 2767,
         "points_spent": 138651,
         "screenshot": 1,
         "follow": 1,
@@ -1719,11 +1719,11 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-18T11:30:57Z"
+      "lastUpdated": "2026-04-18T12:07:54Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2009,
+        "chat": 2012,
         "points_spent": 53201,
         "interactive": 39,
         "follow": 1,
@@ -1773,7 +1773,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-18T11:42:26Z"
+      "lastUpdated": "2026-04-18T11:58:56Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3355,7 +3355,7 @@
       "counters": {
         "sub": 23,
         "follow": 1,
-        "chat": 440
+        "chat": 443
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3378,7 +3378,7 @@
         "sub_platinum",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-18T11:25:29Z"
+      "lastUpdated": "2026-04-18T12:08:59Z"
     },
     "khazan67": {
       "counters": {
@@ -3792,7 +3792,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 312,
+        "chat": 313,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3817,7 +3817,7 @@
         "spender_electrum",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-18T11:44:47Z"
+      "lastUpdated": "2026-04-18T11:56:01Z"
     },
     "mulquero": {
       "counters": {
@@ -4737,7 +4737,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 134,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -4759,7 +4759,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-04-18T11:47:22Z"
+      "lastUpdated": "2026-04-18T12:10:32Z"
     },
     "auriaya__": {
       "counters": {
@@ -6087,7 +6087,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 465,
+        "chat": 467,
         "follow": 1,
         "points_spent": 43200,
         "sounds": 2,
@@ -6114,7 +6114,7 @@
         "spender_electrum",
         "effect_first"
       ],
-      "lastUpdated": "2026-04-11T12:57:23Z"
+      "lastUpdated": "2026-04-18T12:01:19Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6429,7 +6429,7 @@
       "counters": {
         "points_spent": 21453,
         "special_rewards": 1,
-        "chat": 354,
+        "chat": 358,
         "effects": 4,
         "follow": 1,
         "sub": 13
@@ -6462,7 +6462,7 @@
         "spender_iron",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-11T13:36:40Z"
+      "lastUpdated": "2026-04-18T11:56:13Z"
     },
     "otocar": {
       "counters": {
@@ -8517,20 +8517,21 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 22
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-18T11:29:06Z"
+      "lastUpdated": "2026-04-18T12:11:19Z"
     },
     "drjohnshardmd": {
       "counters": {
         "follow": 1,
-        "chat": 1525,
+        "chat": 1530,
         "points_spent": 50101,
         "sounds": 3,
         "sub": 28,
@@ -8572,7 +8573,7 @@
         "gift_starter",
         "chat_expert"
       ],
-      "lastUpdated": "2026-04-18T11:46:02Z"
+      "lastUpdated": "2026-04-18T11:52:17Z"
     },
     "mrlawson__": {
       "counters": {
@@ -8588,8 +8589,8 @@
       "counters": {
         "follow": 1,
         "chat": 93,
-        "points_spent": 3850,
-        "effects": 4,
+        "points_spent": 4200,
+        "effects": 5,
         "interactive": 2
       },
       "unlockedAchievements": [
@@ -8602,7 +8603,7 @@
         "weekend_warrior",
         "interactive_first"
       ],
-      "lastUpdated": "2026-04-06T13:12:21Z"
+      "lastUpdated": "2026-04-18T12:06:45Z"
     },
     "totally_jace": {
       "counters": {
@@ -8790,7 +8791,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T10:47:25Z",
+  "lastUpdated": "2026-04-18T11:11:28Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
