@@ -3249,7 +3249,7 @@
         "follow": 1,
         "chat": 164,
         "sub": 21,
-        "points_spent": 20800,
+        "points_spent": 40800,
         "interactive": 1,
         "sounds": 1
       },
@@ -3275,9 +3275,10 @@
         "spender_bronze",
         "spender_iron",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-04-18T13:04:02Z"
+      "lastUpdated": "2026-04-18T14:41:43Z"
     },
     "awildbubbles": {
       "counters": {
@@ -8662,7 +8663,7 @@
     "applst0rm": {
       "counters": {
         "follow": 1,
-        "chat": 43
+        "chat": 44
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8671,7 +8672,7 @@
         "chat_conversationalist",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-04-18T14:41:04Z"
+      "lastUpdated": "2026-04-18T14:41:19Z"
     },
     "deusvult1089": {
       "counters": {
@@ -8809,7 +8810,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T13:41:07Z",
+  "lastUpdated": "2026-04-18T13:41:46Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
