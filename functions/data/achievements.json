@@ -1874,7 +1874,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 510,
+        "chat": 514,
         "points_spent": 38551,
         "interactive": 1,
         "effects": 21,
@@ -1918,7 +1918,7 @@
         "sound_first",
         "sub_elite"
       ],
-      "lastUpdated": "2026-04-18T09:07:40Z"
+      "lastUpdated": "2026-04-18T09:45:55Z"
     },
     "tawmae": {
       "counters": {
@@ -8476,7 +8476,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 19,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8484,9 +8484,10 @@
         "chat_talker",
         "night_owl",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-18T09:40:15Z"
+      "lastUpdated": "2026-04-18T09:46:23Z"
     },
     "hedgeswine": {
       "counters": {
@@ -8777,7 +8778,7 @@
       "lastUpdated": "2026-04-11T15:46:15Z"
     }
   },
-  "lastUpdated": "2026-04-18T08:40:17Z",
+  "lastUpdated": "2026-04-18T08:46:24Z",
   "totalUsers": 443,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
