@@ -2124,7 +2124,7 @@
       "counters": {
         "follow": 1,
         "chat": 1505,
-        "points_spent": 110212,
+        "points_spent": 115712,
         "effects": 15,
         "sounds": 8,
         "sub": 38,
@@ -2172,9 +2172,10 @@
         "sub_master",
         "spender_platinum",
         "chat_expert",
-        "interactive_first"
+        "interactive_first",
+        "biggest_fan"
       ],
-      "lastUpdated": "2026-04-18T16:08:41Z"
+      "lastUpdated": "2026-04-18T16:09:01Z"
     },
     "anzerou": {
       "counters": {
@@ -8834,7 +8835,7 @@
       "lastUpdated": "2026-04-18T15:26:02Z"
     }
   },
-  "lastUpdated": "2026-04-18T15:08:44Z",
+  "lastUpdated": "2026-04-18T15:09:04Z",
   "totalUsers": 446,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
