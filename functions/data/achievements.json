@@ -2588,7 +2588,8 @@
         "clip_first",
         "chat_dedicated",
         "interactive_first",
-        "spender_electrum"
+        "spender_electrum",
+        "biggest_fan"
       ],
       "lastUpdated": "2026-04-18T13:00:35Z"
     },
@@ -8792,7 +8793,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T12:00:37Z",
+  "lastUpdated": "2026-04-18T12:00:40Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
