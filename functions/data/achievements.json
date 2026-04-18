@@ -3247,7 +3247,8 @@
         "chat": 162,
         "sub": 21,
         "points_spent": 20800,
-        "interactive": 1
+        "interactive": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3270,9 +3271,10 @@
         "interactive_first",
         "spender_bronze",
         "spender_iron",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2026-04-18T13:03:00Z"
+      "lastUpdated": "2026-04-18T13:03:07Z"
     },
     "awildbubbles": {
       "counters": {
@@ -8800,7 +8802,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T12:03:07Z",
+  "lastUpdated": "2026-04-18T12:03:09Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
