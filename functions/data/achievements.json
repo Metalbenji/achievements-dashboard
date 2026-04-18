@@ -1723,7 +1723,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2030,
+        "chat": 2031,
         "points_spent": 53201,
         "interactive": 39,
         "follow": 1,
@@ -1773,7 +1773,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-18T12:55:07Z"
+      "lastUpdated": "2026-04-18T13:01:02Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2208,7 +2208,7 @@
       "counters": {
         "follow": 1,
         "chat": 58,
-        "points_spent": 57350,
+        "points_spent": 62650,
         "sounds": 2,
         "interactive": 1,
         "screenshot": 1
@@ -2227,9 +2227,10 @@
         "spender_electrum",
         "spender_gold",
         "chat_conversationalist",
-        "screenshot_first"
+        "screenshot_first",
+        "biggest_fan"
       ],
-      "lastUpdated": "2026-04-18T12:59:42Z"
+      "lastUpdated": "2026-04-18T13:01:18Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2561,7 +2562,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 377,
+        "chat": 378,
         "points_spent": 26801,
         "screenshot": 1,
         "sounds": 6,
@@ -2591,7 +2592,7 @@
         "spender_electrum",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-18T13:00:35Z"
+      "lastUpdated": "2026-04-18T13:01:12Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -8793,7 +8794,7 @@
       "lastUpdated": "2026-04-18T09:50:48Z"
     }
   },
-  "lastUpdated": "2026-04-18T12:00:40Z",
+  "lastUpdated": "2026-04-18T12:01:21Z",
   "totalUsers": 444,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
