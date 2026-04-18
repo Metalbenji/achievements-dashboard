@@ -4945,7 +4945,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "points_spent": 500,
         "interactive": 1
       },
@@ -4957,9 +4957,10 @@
         "chat_conversationalist",
         "interactive_first",
         "night_owl",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-04-18T16:04:13Z"
+      "lastUpdated": "2026-04-18T16:09:18Z"
     },
     "theazmaniac": {
       "counters": {
@@ -8835,7 +8836,7 @@
       "lastUpdated": "2026-04-18T15:26:02Z"
     }
   },
-  "lastUpdated": "2026-04-18T15:09:04Z",
+  "lastUpdated": "2026-04-18T15:09:20Z",
   "totalUsers": 446,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
