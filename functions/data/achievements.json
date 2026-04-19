@@ -2124,7 +2124,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1547,
+        "chat": 1548,
         "points_spent": 117413,
         "effects": 17,
         "sounds": 9,
@@ -2176,7 +2176,7 @@
         "interactive_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-19T17:19:57Z"
+      "lastUpdated": "2026-04-19T17:20:47Z"
     },
     "anzerou": {
       "counters": {
@@ -8838,15 +8838,21 @@
     },
     "blt666": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "sub": 1,
+        "sub_tier": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "sub_tier1",
+        "sub_first_month",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-04-19T17:17:44Z"
+      "lastUpdated": "2026-04-19T17:20:50Z"
     }
   },
-  "lastUpdated": "2026-04-19T16:20:07Z",
+  "lastUpdated": "2026-04-19T16:20:51Z",
   "totalUsers": 447,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
