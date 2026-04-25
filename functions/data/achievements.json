@@ -1825,7 +1825,8 @@
         "follow": 1,
         "points_spent": 21250,
         "screenshot": 1,
-        "sub": 22
+        "sub": 22,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1847,9 +1848,11 @@
         "sub_champion",
         "sub_platinum",
         "chat_frequent",
-        "spender_iron"
+        "spender_iron",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2026-04-25T15:45:51Z"
+      "lastUpdated": "2026-04-25T15:45:54Z"
     },
     "lottec": {
       "counters": {
@@ -8861,7 +8864,7 @@
       "lastUpdated": "2026-04-19T17:20:50Z"
     }
   },
-  "lastUpdated": "2026-04-25T14:45:53Z",
+  "lastUpdated": "2026-04-25T14:45:55Z",
   "totalUsers": 447,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
