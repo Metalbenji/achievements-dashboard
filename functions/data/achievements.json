@@ -7022,7 +7022,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 200,
+        "chat": 300,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -7059,9 +7059,10 @@
         "gift_kind",
         "interactive_first",
         "spender_iron",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-02T13:33:48Z"
+      "lastUpdated": "2026-05-02T13:43:23Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8865,7 +8866,7 @@
       "lastUpdated": "2026-04-19T17:20:50Z"
     }
   },
-  "lastUpdated": "2026-05-02T12:33:50Z",
+  "lastUpdated": "2026-05-02T12:43:25Z",
   "totalUsers": 447,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
