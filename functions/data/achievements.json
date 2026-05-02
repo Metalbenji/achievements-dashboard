@@ -1663,7 +1663,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2832,
+        "chat": 2841,
         "points_spent": 138651,
         "screenshot": 1,
         "follow": 1,
@@ -1721,11 +1721,11 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-25T09:54:17Z"
+      "lastUpdated": "2026-04-25T16:47:06Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2098,
+        "chat": 2102,
         "points_spent": 53202,
         "interactive": 39,
         "follow": 1,
@@ -1775,11 +1775,11 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-25T13:22:48Z"
+      "lastUpdated": "2026-04-25T16:48:26Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 508,
+        "chat": 516,
         "follow": 1,
         "sub": 39,
         "points_spent": 95000,
@@ -1817,11 +1817,11 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-04-25T14:22:50Z"
+      "lastUpdated": "2026-04-25T16:46:47Z"
     },
     "scoman07": {
       "counters": {
-        "chat": 242,
+        "chat": 247,
         "follow": 1,
         "points_spent": 21250,
         "screenshot": 1,
@@ -1852,7 +1852,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2026-04-25T15:45:54Z"
+      "lastUpdated": "2026-04-25T15:47:48Z"
     },
     "lottec": {
       "counters": {
@@ -1929,7 +1929,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 97,
+        "chat": 99,
         "follow": 1,
         "points_spent": 12600,
         "effects": 1
@@ -1947,7 +1947,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2026-04-19T14:04:27Z"
+      "lastUpdated": "2026-04-25T16:35:28Z"
     },
     "kripoje": {
       "counters": {
@@ -2131,7 +2131,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1572,
+        "chat": 1574,
         "points_spent": 119763,
         "effects": 20,
         "sounds": 9,
@@ -2183,7 +2183,7 @@
         "interactive_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-19T18:10:54Z"
+      "lastUpdated": "2026-04-25T16:48:42Z"
     },
     "anzerou": {
       "counters": {
@@ -7022,7 +7022,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 199,
+        "chat": 200,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -7058,9 +7058,10 @@
         "bits_steady",
         "gift_kind",
         "interactive_first",
-        "spender_iron"
+        "spender_iron",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-04-19T16:46:18Z"
+      "lastUpdated": "2026-05-02T13:33:48Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8864,7 +8865,7 @@
       "lastUpdated": "2026-04-19T17:20:50Z"
     }
   },
-  "lastUpdated": "2026-04-25T14:45:55Z",
+  "lastUpdated": "2026-05-02T12:33:50Z",
   "totalUsers": 447,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
