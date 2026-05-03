@@ -2131,7 +2131,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1574,
+        "chat": 1575,
         "points_spent": 119763,
         "effects": 20,
         "sounds": 9,
@@ -2183,7 +2183,7 @@
         "interactive_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-25T16:48:42Z"
+      "lastUpdated": "2026-05-02T15:14:24Z"
     },
     "anzerou": {
       "counters": {
@@ -7022,7 +7022,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 300,
+        "chat": 661,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -7062,7 +7062,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-02T13:43:23Z"
+      "lastUpdated": "2026-05-03T09:00:17Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8773,13 +8773,15 @@
     "metalbenji247": {
       "counters": {
         "sub": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
-        "sub_first_month"
+        "sub_first_month",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-04-06T21:30:55Z"
+      "lastUpdated": "2026-05-03T09:01:11Z"
     },
     "bonnielet": {
       "counters": {
@@ -8866,7 +8868,7 @@
       "lastUpdated": "2026-04-19T17:20:50Z"
     }
   },
-  "lastUpdated": "2026-05-02T12:43:25Z",
+  "lastUpdated": "2026-05-03T08:01:12Z",
   "totalUsers": 447,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
