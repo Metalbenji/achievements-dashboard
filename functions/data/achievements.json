@@ -8775,7 +8775,7 @@
         "sub": 1,
         "sub_tier": 1,
         "follow": 1,
-        "chat": 10
+        "chat": 25
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -8783,9 +8783,10 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-03T09:13:45Z"
+      "lastUpdated": "2026-05-03T09:15:04Z"
     },
     "bonnielet": {
       "counters": {
@@ -8872,7 +8873,7 @@
       "lastUpdated": "2026-04-19T17:20:50Z"
     }
   },
-  "lastUpdated": "2026-05-03T08:13:45Z",
+  "lastUpdated": "2026-05-03T08:15:05Z",
   "totalUsers": 447,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
