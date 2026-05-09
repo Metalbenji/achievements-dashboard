@@ -1663,8 +1663,8 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2841,
-        "points_spent": 138651,
+        "chat": 2847,
+        "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
         "sub": 52,
@@ -1721,7 +1721,7 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-04-25T16:47:06Z"
+      "lastUpdated": "2026-05-09T09:10:14Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1952,7 +1952,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 443,
+        "chat": 445,
         "sub": 1,
         "points_spent": 6350,
         "sounds": 3,
@@ -1981,7 +1981,7 @@
         "chat_dedicated",
         "clip_first"
       ],
-      "lastUpdated": "2026-04-11T16:46:10Z"
+      "lastUpdated": "2026-05-09T09:05:33Z"
     },
     "sealdancer": {
       "counters": {
@@ -2131,7 +2131,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1575,
+        "chat": 1582,
         "points_spent": 119763,
         "effects": 20,
         "sounds": 9,
@@ -2183,7 +2183,7 @@
         "interactive_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-02T15:14:24Z"
+      "lastUpdated": "2026-05-09T09:10:07Z"
     },
     "anzerou": {
       "counters": {
@@ -3302,9 +3302,10 @@
       "counters": {
         "follow": 1,
         "chat": 2807,
-        "sub": 49,
+        "sub": 50,
         "points_spent": 350,
-        "screenshot": 1
+        "screenshot": 1,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3336,7 +3337,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-04-19T13:38:09Z"
+      "lastUpdated": "2026-05-09T09:10:29Z"
     },
     "majesty81": {
       "counters": {
@@ -3706,7 +3707,7 @@
       "counters": {
         "sub": 49,
         "follow": 1,
-        "chat": 411,
+        "chat": 412,
         "points_spent": 40752,
         "effects": 1,
         "sounds": 2
@@ -3743,7 +3744,7 @@
         "sub_legendary",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-18T11:14:34Z"
+      "lastUpdated": "2026-05-09T09:01:41Z"
     },
     "camm_23": {
       "counters": {
@@ -6464,9 +6465,9 @@
     },
     "hm_pete": {
       "counters": {
-        "points_spent": 21455,
+        "points_spent": 21457,
         "special_rewards": 1,
-        "chat": 364,
+        "chat": 367,
         "effects": 4,
         "follow": 1,
         "sub": 13
@@ -6499,7 +6500,7 @@
         "spender_iron",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-19T16:00:04Z"
+      "lastUpdated": "2026-05-09T09:02:47Z"
     },
     "otocar": {
       "counters": {
@@ -7022,7 +7023,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 661,
+        "chat": 676,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -7062,7 +7063,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-03T09:00:17Z"
+      "lastUpdated": "2026-05-09T09:01:03Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8775,7 +8776,7 @@
         "sub": 1,
         "sub_tier": 1,
         "follow": 1,
-        "chat": 25
+        "chat": 41
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -8786,7 +8787,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-03T09:15:04Z"
+      "lastUpdated": "2026-05-03T09:15:36Z"
     },
     "bonnielet": {
       "counters": {
@@ -8871,10 +8872,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-04-19T17:20:50Z"
+    },
+    "theb8ked": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-05-09T09:10:30Z"
     }
   },
-  "lastUpdated": "2026-05-03T08:15:05Z",
-  "totalUsers": 447,
+  "lastUpdated": "2026-05-09T08:10:32Z",
+  "totalUsers": 448,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
