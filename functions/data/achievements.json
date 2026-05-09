@@ -8492,12 +8492,13 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 139,
-        "sub": 4,
+        "chat": 140,
+        "sub": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
-        "largest_gift_bomb": 5
+        "largest_gift_bomb": 5,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8516,9 +8517,10 @@
         "gift_starter",
         "gift_kind",
         "gift_caring",
-        "chat_regular"
+        "chat_regular",
+        "sub_committed"
       ],
-      "lastUpdated": "2026-04-18T12:21:01Z"
+      "lastUpdated": "2026-05-09T14:08:28Z"
     },
     "galithoreu": {
       "counters": {
@@ -8888,15 +8890,15 @@
     },
     "lucstr1999": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-09T14:01:21Z"
+      "lastUpdated": "2026-05-09T14:08:24Z"
     }
   },
-  "lastUpdated": "2026-05-09T13:08:06Z",
+  "lastUpdated": "2026-05-09T13:08:38Z",
   "totalUsers": 449,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
