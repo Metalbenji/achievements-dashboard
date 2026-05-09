@@ -2724,10 +2724,10 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 16600,
-        "effects": 37,
+        "points_spent": 16950,
+        "effects": 38,
         "follow": 1,
-        "chat": 194,
+        "chat": 195,
         "interactive": 2,
         "sounds": 1
       },
@@ -2751,7 +2751,7 @@
         "early_bird",
         "sound_first"
       ],
-      "lastUpdated": "2026-05-09T13:53:51Z"
+      "lastUpdated": "2026-05-09T14:06:19Z"
     },
     "s3n71": {
       "counters": {
@@ -8194,7 +8194,7 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 13,
+        "chat": 18,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8204,7 +8204,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-03-28T16:08:30Z"
+      "lastUpdated": "2026-05-09T14:03:22Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -8896,7 +8896,7 @@
       "lastUpdated": "2026-05-09T14:01:21Z"
     }
   },
-  "lastUpdated": "2026-05-09T13:01:26Z",
+  "lastUpdated": "2026-05-09T13:08:06Z",
   "totalUsers": 449,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
