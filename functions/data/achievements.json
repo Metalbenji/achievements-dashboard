@@ -8945,15 +8945,17 @@
     },
     "princess_3lodie": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-16T11:28:18Z"
+      "lastUpdated": "2026-05-16T11:28:21Z"
     }
   },
-  "lastUpdated": "2026-05-16T10:28:20Z",
+  "lastUpdated": "2026-05-16T10:28:22Z",
   "totalUsers": 452,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
