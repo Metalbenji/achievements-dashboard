@@ -1663,7 +1663,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3004,
+        "chat": 3008,
         "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-16T14:19:36Z"
+      "lastUpdated": "2026-05-16T14:31:20Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -8530,7 +8530,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 162,
+        "chat": 165,
         "sub": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -8558,7 +8558,7 @@
         "chat_regular",
         "sub_committed"
       ],
-      "lastUpdated": "2026-05-16T14:24:32Z"
+      "lastUpdated": "2026-05-16T14:30:04Z"
     },
     "galithoreu": {
       "counters": {
@@ -8948,15 +8948,16 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 5,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-05-16T14:25:49Z"
+      "lastUpdated": "2026-05-16T14:32:36Z"
     },
     "princess_3lodie": {
       "counters": {
@@ -8970,7 +8971,7 @@
       "lastUpdated": "2026-05-16T11:28:45Z"
     }
   },
-  "lastUpdated": "2026-05-16T13:25:50Z",
+  "lastUpdated": "2026-05-16T13:32:37Z",
   "totalUsers": 452,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
