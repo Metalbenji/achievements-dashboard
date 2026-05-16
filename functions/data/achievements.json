@@ -4893,7 +4893,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 209
+        "chat": 219
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4904,7 +4904,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-04-18T16:04:45Z"
+      "lastUpdated": "2026-05-16T10:33:18Z"
     },
     "dinshara": {
       "counters": {
@@ -6037,15 +6037,16 @@
     "falkistan": {
       "counters": {
         "follow": 1,
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-16T10:12:32Z"
+      "lastUpdated": "2026-05-16T10:34:00Z"
     },
     "kenlee_79": {
       "counters": {
@@ -6158,7 +6159,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 515,
+        "chat": 517,
         "follow": 1,
         "points_spent": 43200,
         "sounds": 2,
@@ -6185,7 +6186,7 @@
         "spender_electrum",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-09T11:04:01Z"
+      "lastUpdated": "2026-05-16T10:31:24Z"
     },
     "sagegaming9": {
       "counters": {
@@ -8207,7 +8208,7 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 22,
+        "chat": 23,
         "follow": 1,
         "sub": 1,
         "sub_tier": 1,
@@ -8224,7 +8225,7 @@
         "sub_first_month",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-16T10:27:10Z"
+      "lastUpdated": "2026-05-16T10:32:03Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -8942,7 +8943,7 @@
       "lastUpdated": "2026-05-16T08:29:09Z"
     }
   },
-  "lastUpdated": "2026-05-16T09:27:12Z",
+  "lastUpdated": "2026-05-16T09:34:02Z",
   "totalUsers": 451,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
