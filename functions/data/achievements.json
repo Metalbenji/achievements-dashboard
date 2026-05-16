@@ -1663,7 +1663,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2873,
+        "chat": 2901,
         "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
@@ -1721,11 +1721,11 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-16T08:28:57Z"
+      "lastUpdated": "2026-05-16T08:54:15Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2117,
+        "chat": 2121,
         "points_spent": 53202,
         "interactive": 39,
         "follow": 1,
@@ -1776,7 +1776,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-15T22:31:23Z"
+      "lastUpdated": "2026-05-16T08:54:16Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3481,7 +3481,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 214,
+        "chat": 224,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1,
@@ -3501,7 +3501,7 @@
         "chat_frequent",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-03-22T12:56:35Z"
+      "lastUpdated": "2026-05-16T08:55:32Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -6904,7 +6904,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1293,
+        "chat": 1299,
         "points_spent": 72804,
         "sounds": 22,
         "effects": 9,
@@ -6952,7 +6952,7 @@
         "spender_gold",
         "sub_platinum"
       ],
-      "lastUpdated": "2026-05-16T08:22:35Z"
+      "lastUpdated": "2026-05-16T08:54:27Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8392,15 +8392,18 @@
     "missallykat": {
       "counters": {
         "chat": 15,
-        "follow": 1
+        "follow": 1,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2026-03-22T13:50:18Z"
+      "lastUpdated": "2026-05-16T08:55:36Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -8537,7 +8540,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 39,
+        "chat": 45,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8548,7 +8551,7 @@
         "weekend_warrior",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-04-19T11:35:56Z"
+      "lastUpdated": "2026-05-16T08:46:40Z"
     },
     "hedgeswine": {
       "counters": {
@@ -8576,7 +8579,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 34
+        "chat": 40
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8585,7 +8588,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-16T08:22:39Z"
+      "lastUpdated": "2026-05-16T08:41:49Z"
     },
     "drjohnshardmd": {
       "counters": {
@@ -8921,17 +8924,17 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-05-16T08:28:58Z"
+      "lastUpdated": "2026-05-16T08:29:09Z"
     }
   },
-  "lastUpdated": "2026-05-16T07:28:59Z",
+  "lastUpdated": "2026-05-16T07:55:38Z",
   "totalUsers": 451,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
