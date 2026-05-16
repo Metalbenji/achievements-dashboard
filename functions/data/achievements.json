@@ -5390,7 +5390,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 299,
+        "chat": 300,
         "sub": 18,
         "points_spent": 300,
         "effects": 1,
@@ -5413,9 +5413,10 @@
         "chat_regular",
         "chat_frequent",
         "effect_first",
-        "sub_platinum"
+        "sub_platinum",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-16T12:23:33Z"
+      "lastUpdated": "2026-05-16T12:24:39Z"
     },
     "jeditojanen": {
       "counters": {
@@ -8609,7 +8610,7 @@
     "drjohnshardmd": {
       "counters": {
         "follow": 1,
-        "chat": 1783,
+        "chat": 1784,
         "points_spent": 70101,
         "sounds": 4,
         "sub": 29,
@@ -8652,7 +8653,7 @@
         "gift_starter",
         "chat_expert"
       ],
-      "lastUpdated": "2026-05-16T12:01:29Z"
+      "lastUpdated": "2026-05-16T12:23:36Z"
     },
     "mrlawson__": {
       "counters": {
@@ -8962,7 +8963,7 @@
       "lastUpdated": "2026-05-16T11:28:45Z"
     }
   },
-  "lastUpdated": "2026-05-16T11:23:36Z",
+  "lastUpdated": "2026-05-16T11:24:40Z",
   "totalUsers": 452,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
