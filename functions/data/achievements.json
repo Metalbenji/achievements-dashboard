@@ -6575,7 +6575,8 @@
       "counters": {
         "chat": 98,
         "follow": 1,
-        "points_spent": 2000
+        "points_spent": 2000,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -6583,9 +6584,10 @@
         "chat_talker",
         "follow_supporter",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "effect_first"
       ],
-      "lastUpdated": "2026-05-16T11:55:11Z"
+      "lastUpdated": "2026-05-16T11:55:13Z"
     },
     "provos": {
       "counters": {
@@ -8959,7 +8961,7 @@
       "lastUpdated": "2026-05-16T11:28:45Z"
     }
   },
-  "lastUpdated": "2026-05-16T10:55:13Z",
+  "lastUpdated": "2026-05-16T10:55:15Z",
   "totalUsers": 452,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
