@@ -1602,7 +1602,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 857,
+        "chat": 859,
         "points_spent": 38402,
         "effects": 29,
         "follow": 1,
@@ -1659,15 +1659,15 @@
         "chat_enthusiast",
         "sound_dj"
       ],
-      "lastUpdated": "2026-05-15T21:49:31Z"
+      "lastUpdated": "2026-05-15T22:31:10Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 2865,
+        "chat": 2872,
         "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
-        "sub": 52,
+        "sub": 53,
         "sounds": 7,
         "effects": 12,
         "interactive": 1,
@@ -1721,11 +1721,11 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-09T09:29:48Z"
+      "lastUpdated": "2026-05-16T08:28:40Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2115,
+        "chat": 2117,
         "points_spent": 53202,
         "interactive": 39,
         "follow": 1,
@@ -1776,7 +1776,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-15T20:54:51Z"
+      "lastUpdated": "2026-05-15T22:31:23Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2456,7 +2456,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3282,
+        "chat": 3284,
         "points_spent": 47550,
         "effects": 13,
         "sub": 46,
@@ -2536,7 +2536,7 @@
         "gift_bomb_30",
         "clip_collector"
       ],
-      "lastUpdated": "2026-05-15T22:25:50Z"
+      "lastUpdated": "2026-05-15T22:31:21Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3014,10 +3014,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1254,
-        "points_spent": 65051,
+        "chat": 1257,
+        "points_spent": 65401,
         "sounds": 11,
-        "effects": 83,
+        "effects": 84,
         "sub": 49,
         "bits": 12500,
         "interactive": 3,
@@ -3094,7 +3094,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-15T22:26:43Z"
+      "lastUpdated": "2026-05-15T22:29:58Z"
     },
     "andilippi": {
       "counters": {
@@ -6904,8 +6904,8 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1290,
-        "points_spent": 72803,
+        "chat": 1293,
+        "points_spent": 72804,
         "sounds": 22,
         "effects": 9,
         "screenshot": 2,
@@ -6952,7 +6952,7 @@
         "spender_gold",
         "sub_platinum"
       ],
-      "lastUpdated": "2026-04-25T14:09:49Z"
+      "lastUpdated": "2026-05-16T08:22:35Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7054,14 +7054,14 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 681,
+        "chat": 682,
         "bits": 291,
         "follow": 1,
         "sub": 1,
-        "points_spent": 12350,
+        "points_spent": 12700,
         "effects": 9,
         "sounds": 4,
-        "screenshot": 7,
+        "screenshot": 8,
         "clips": 3,
         "gift_subs": 2,
         "interactive": 3
@@ -7096,7 +7096,7 @@
         "spender_silver",
         "night_owl"
       ],
-      "lastUpdated": "2026-05-15T22:26:54Z"
+      "lastUpdated": "2026-05-16T08:26:44Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8576,7 +8576,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 33
+        "chat": 34
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8585,7 +8585,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-09T14:51:58Z"
+      "lastUpdated": "2026-05-16T08:22:39Z"
     },
     "drjohnshardmd": {
       "counters": {
@@ -8918,10 +8918,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-05-15T20:48:41Z"
+    },
+    "recedetv": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-05-16T08:28:52Z"
     }
   },
-  "lastUpdated": "2026-05-15T21:26:56Z",
-  "totalUsers": 450,
+  "lastUpdated": "2026-05-16T07:28:53Z",
+  "totalUsers": 451,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
