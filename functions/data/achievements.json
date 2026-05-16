@@ -1663,7 +1663,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 2872,
+        "chat": 2873,
         "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
@@ -1721,7 +1721,7 @@
         "effect_collector",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-16T08:28:40Z"
+      "lastUpdated": "2026-05-16T08:28:57Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -8921,15 +8921,17 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-05-16T08:28:52Z"
+      "lastUpdated": "2026-05-16T08:28:58Z"
     }
   },
-  "lastUpdated": "2026-05-16T07:28:53Z",
+  "lastUpdated": "2026-05-16T07:28:59Z",
   "totalUsers": 451,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
