@@ -9037,14 +9037,14 @@
     },
     "elcucuylawl": {
       "counters": {
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-05-17T14:10:34Z"
+      "lastUpdated": "2026-05-17T14:11:30Z"
     },
     "mothgirl45": {
       "counters": {
@@ -9054,10 +9054,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-05-17T14:10:44Z"
+    },
+    "omaneye": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-05-17T14:11:33Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:10:45Z",
-  "totalUsers": 458,
+  "lastUpdated": "2026-05-17T13:11:35Z",
+  "totalUsers": 459,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
