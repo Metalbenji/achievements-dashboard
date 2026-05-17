@@ -2761,7 +2761,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 758,
+        "chat": 759,
         "sub": 41,
         "points_spent": 37901,
         "interactive": 2,
@@ -2807,7 +2807,7 @@
         "gift_starter",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-05-17T10:16:06Z"
+      "lastUpdated": "2026-05-17T10:29:47Z"
     },
     "umenneske94": {
       "counters": {
@@ -3543,7 +3543,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1928,
+        "chat": 1929,
         "points_spent": 64800,
         "effects": 7,
         "interactive": 13,
@@ -3577,7 +3577,7 @@
         "chat_expert",
         "sound_dj"
       ],
-      "lastUpdated": "2026-05-17T10:27:34Z"
+      "lastUpdated": "2026-05-17T10:29:41Z"
     },
     "roffelonator": {
       "counters": {
@@ -8969,10 +8969,21 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-05-16T11:28:45Z"
+    },
+    "philpseyforce": {
+      "counters": {
+        "raid": 1,
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "raid_tier1_captain",
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-05-17T10:29:48Z"
     }
   },
-  "lastUpdated": "2026-05-17T09:29:37Z",
-  "totalUsers": 452,
+  "lastUpdated": "2026-05-17T09:29:49Z",
+  "totalUsers": 453,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
