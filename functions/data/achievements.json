@@ -1664,7 +1664,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3060,
+        "chat": 3062,
         "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
@@ -1723,11 +1723,11 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-17T12:23:11Z"
+      "lastUpdated": "2026-05-17T14:12:52Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2202,
+        "chat": 2203,
         "points_spent": 60203,
         "interactive": 41,
         "follow": 1,
@@ -1778,7 +1778,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-17T13:23:22Z"
+      "lastUpdated": "2026-05-17T14:13:00Z"
     },
     "aladderinsane": {
       "counters": {
@@ -5007,7 +5007,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 218,
+        "chat": 219,
         "points_spent": 900,
         "interactive": 2
       },
@@ -5022,7 +5022,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-17T13:53:21Z"
+      "lastUpdated": "2026-05-17T14:12:43Z"
     },
     "theazmaniac": {
       "counters": {
@@ -8435,7 +8435,7 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 18,
+        "chat": 19,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -8447,7 +8447,7 @@
         "chat_talker",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-17T14:09:27Z"
+      "lastUpdated": "2026-05-17T14:11:49Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -9028,12 +9028,12 @@
     },
     "shaamooo": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-17T14:09:16Z"
+      "lastUpdated": "2026-05-17T14:12:38Z"
     },
     "elcucuylawl": {
       "counters": {
@@ -9048,24 +9048,26 @@
     },
     "mothgirl45": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-17T14:10:44Z"
+      "lastUpdated": "2026-05-17T14:13:07Z"
     },
     "omaneye": {
       "counters": {
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-17T14:11:33Z"
+      "lastUpdated": "2026-05-17T14:12:40Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:11:35Z",
+  "lastUpdated": "2026-05-17T13:13:08Z",
   "totalUsers": 459,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
