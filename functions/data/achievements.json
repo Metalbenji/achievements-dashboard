@@ -4911,7 +4911,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 263
+        "chat": 264
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4922,7 +4922,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-17T13:24:26Z"
+      "lastUpdated": "2026-05-17T14:10:40Z"
     },
     "dinshara": {
       "counters": {
@@ -9045,10 +9045,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-05-17T14:10:34Z"
+    },
+    "mothgirl45": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-05-17T14:10:44Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:10:35Z",
-  "totalUsers": 457,
+  "lastUpdated": "2026-05-17T13:10:45Z",
+  "totalUsers": 458,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
