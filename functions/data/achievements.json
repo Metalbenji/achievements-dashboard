@@ -1603,7 +1603,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 923,
+        "chat": 925,
         "points_spent": 44502,
         "effects": 30,
         "follow": 1,
@@ -1660,7 +1660,7 @@
         "chat_enthusiast",
         "sound_dj"
       ],
-      "lastUpdated": "2026-05-17T16:06:33Z"
+      "lastUpdated": "2026-05-17T16:14:28Z"
     },
     "ramdon101": {
       "counters": {
@@ -4400,14 +4400,15 @@
     },
     "kallam19": {
       "counters": {
-        "sub": 47,
+        "sub": 48,
         "follow": 1,
-        "chat": 638,
+        "chat": 644,
         "points_spent": 1251,
         "sounds": 1,
         "interactive": 1,
         "clips": 3,
-        "screenshot": 1
+        "screenshot": 1,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4437,9 +4438,10 @@
         "night_owl",
         "clip_first",
         "spender_bronze",
-        "screenshot_first"
+        "screenshot_first",
+        "sub_legendary"
       ],
-      "lastUpdated": "2026-04-11T16:52:06Z"
+      "lastUpdated": "2026-05-17T16:14:21Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -9011,15 +9013,16 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-05-17T16:10:12Z"
+      "lastUpdated": "2026-05-17T16:14:33Z"
     },
     "noggen_": {
       "counters": {
@@ -9083,7 +9086,7 @@
       "lastUpdated": "2026-05-17T14:27:59Z"
     }
   },
-  "lastUpdated": "2026-05-17T15:11:59Z",
+  "lastUpdated": "2026-05-17T15:14:35Z",
   "totalUsers": 460,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
