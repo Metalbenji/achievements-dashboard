@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3273,
+        "chat": 3281,
         "points_spent": 54151,
         "effects": 16,
         "sub": 16,
@@ -1564,7 +1564,7 @@
         "spender_gold",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-16T14:10:50Z"
+      "lastUpdated": "2026-05-17T12:04:02Z"
     },
     "celran": {
       "counters": {
@@ -1883,7 +1883,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 552,
+        "chat": 567,
         "points_spent": 43301,
         "interactive": 1,
         "effects": 24,
@@ -1930,7 +1930,7 @@
         "sub_elite",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-05-17T11:53:02Z"
+      "lastUpdated": "2026-05-17T12:03:30Z"
     },
     "tawmae": {
       "counters": {
@@ -2763,7 +2763,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 766,
+        "chat": 767,
         "sub": 41,
         "points_spent": 38001,
         "interactive": 2,
@@ -2809,7 +2809,7 @@
         "gift_starter",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-05-17T11:20:10Z"
+      "lastUpdated": "2026-05-17T12:01:27Z"
     },
     "umenneske94": {
       "counters": {
@@ -2853,7 +2853,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 690,
+        "chat": 713,
         "sub": 48,
         "points_spent": 20000,
         "sounds": 1,
@@ -2889,7 +2889,7 @@
         "spender_iron",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-05-17T11:52:57Z"
+      "lastUpdated": "2026-05-17T12:03:49Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3019,7 +3019,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1347,
+        "chat": 1349,
         "points_spent": 66251,
         "sounds": 11,
         "effects": 87,
@@ -3099,7 +3099,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-17T11:49:46Z"
+      "lastUpdated": "2026-05-17T11:56:12Z"
     },
     "andilippi": {
       "counters": {
@@ -3315,7 +3315,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 2967,
+        "chat": 2980,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3351,7 +3351,7 @@
         "early_bird",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-05-17T11:24:25Z"
+      "lastUpdated": "2026-05-17T12:04:01Z"
     },
     "majesty81": {
       "counters": {
@@ -3841,7 +3841,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 347,
+        "chat": 356,
         "points_spent": 61304,
         "sounds": 2,
         "effects": 2
@@ -3866,7 +3866,7 @@
         "spender_electrum",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-17T11:52:52Z"
+      "lastUpdated": "2026-05-17T12:02:10Z"
     },
     "mulquero": {
       "counters": {
@@ -5134,11 +5134,11 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 727,
-        "points_spent": 27801,
+        "chat": 733,
+        "points_spent": 28601,
         "effects": 6,
         "sounds": 13,
-        "interactive": 11,
+        "interactive": 13,
         "sub": 31,
         "clips": 1,
         "sub_tier": 1
@@ -5176,7 +5176,7 @@
         "sub_tier1",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-05-17T11:03:32Z"
+      "lastUpdated": "2026-05-17T12:02:46Z"
     },
     "jamie1496": {
       "counters": {
@@ -8986,10 +8986,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-05-17T10:31:25Z"
+    },
+    "plexhii": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-05-17T12:04:04Z"
     }
   },
-  "lastUpdated": "2026-05-17T10:53:04Z",
-  "totalUsers": 453,
+  "lastUpdated": "2026-05-17T11:04:05Z",
+  "totalUsers": 454,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
