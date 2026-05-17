@@ -1663,7 +1663,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3054,
+        "chat": 3056,
         "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-17T12:14:33Z"
+      "lastUpdated": "2026-05-17T12:17:03Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1883,7 +1883,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 592,
+        "chat": 595,
         "points_spent": 43301,
         "interactive": 1,
         "effects": 24,
@@ -1930,7 +1930,7 @@
         "sub_elite",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-05-17T12:15:35Z"
+      "lastUpdated": "2026-05-17T12:17:41Z"
     },
     "tawmae": {
       "counters": {
@@ -2763,14 +2763,15 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 767,
+        "chat": 768,
         "sub": 41,
         "points_spent": 38001,
         "interactive": 2,
         "sounds": 3,
         "effects": 11,
         "gift_subs": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "bits": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2807,9 +2808,12 @@
         "spender_electrum",
         "effect_collector",
         "gift_starter",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2026-05-17T12:01:27Z"
+      "lastUpdated": "2026-05-17T12:17:13Z"
     },
     "umenneske94": {
       "counters": {
@@ -2853,7 +2857,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 742,
+        "chat": 746,
         "sub": 48,
         "points_spent": 20000,
         "sounds": 1,
@@ -2889,7 +2893,7 @@
         "spender_iron",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-05-17T12:15:55Z"
+      "lastUpdated": "2026-05-17T12:17:11Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3019,7 +3023,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1349,
+        "chat": 1350,
         "points_spent": 66251,
         "sounds": 11,
         "effects": 87,
@@ -3099,7 +3103,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-17T11:56:12Z"
+      "lastUpdated": "2026-05-17T12:16:28Z"
     },
     "andilippi": {
       "counters": {
@@ -8998,7 +9002,7 @@
       "lastUpdated": "2026-05-17T12:04:18Z"
     }
   },
-  "lastUpdated": "2026-05-17T11:16:00Z",
+  "lastUpdated": "2026-05-17T11:18:07Z",
   "totalUsers": 454,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
