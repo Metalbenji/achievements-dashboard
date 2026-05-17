@@ -6774,13 +6774,15 @@
     "daddy0ps": {
       "counters": {
         "follow": 1,
-        "raid": 1
+        "raid": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-17T14:08:50Z"
+      "lastUpdated": "2026-05-17T14:09:07Z"
     },
     "velvet__noir": {
       "counters": {
@@ -9023,7 +9025,7 @@
       "lastUpdated": "2026-05-17T14:09:00Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:09:01Z",
+  "lastUpdated": "2026-05-17T13:09:09Z",
   "totalUsers": 455,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
