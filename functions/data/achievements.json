@@ -1782,7 +1782,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 527,
+        "chat": 528,
         "follow": 1,
         "sub": 39,
         "points_spent": 95000,
@@ -1820,7 +1820,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-05-17T13:58:10Z"
+      "lastUpdated": "2026-05-17T14:08:31Z"
     },
     "scoman07": {
       "counters": {
@@ -2766,12 +2766,12 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 822,
+        "chat": 825,
         "sub": 41,
-        "points_spent": 44701,
+        "points_spent": 45001,
         "interactive": 2,
         "sounds": 3,
-        "effects": 12,
+        "effects": 13,
         "gift_subs": 1,
         "sub_tier": 1,
         "bits": 1000
@@ -2818,7 +2818,7 @@
         "bits_steady",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-05-17T13:58:03Z"
+      "lastUpdated": "2026-05-17T14:07:10Z"
     },
     "umenneske94": {
       "counters": {
@@ -3852,7 +3852,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 392,
+        "chat": 395,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -3879,7 +3879,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2026-05-17T13:59:50Z"
+      "lastUpdated": "2026-05-17T14:00:55Z"
     },
     "mulquero": {
       "counters": {
@@ -8550,7 +8550,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 185,
+        "chat": 191,
         "sub": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -8578,7 +8578,7 @@
         "chat_regular",
         "sub_committed"
       ],
-      "lastUpdated": "2026-05-16T15:28:44Z"
+      "lastUpdated": "2026-05-17T14:07:34Z"
     },
     "galithoreu": {
       "counters": {
@@ -8968,7 +8968,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 16,
+        "chat": 17,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8977,7 +8977,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-05-17T13:59:48Z"
+      "lastUpdated": "2026-05-17T14:00:35Z"
     },
     "princess_3lodie": {
       "counters": {
@@ -9012,7 +9012,7 @@
       "lastUpdated": "2026-05-17T12:04:18Z"
     }
   },
-  "lastUpdated": "2026-05-17T12:59:51Z",
+  "lastUpdated": "2026-05-17T13:08:51Z",
   "totalUsers": 454,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
