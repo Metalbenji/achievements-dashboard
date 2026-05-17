@@ -6775,14 +6775,14 @@
       "counters": {
         "follow": 1,
         "raid": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "raid_tier1_captain",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-17T14:09:41Z"
+      "lastUpdated": "2026-05-17T14:10:23Z"
     },
     "velvet__noir": {
       "counters": {
@@ -9037,15 +9037,17 @@
     },
     "elcucuylawl": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-05-17T14:09:54Z"
+      "lastUpdated": "2026-05-17T14:10:34Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:09:56Z",
+  "lastUpdated": "2026-05-17T13:10:35Z",
   "totalUsers": 457,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
