@@ -1664,7 +1664,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3070,
+        "chat": 3071,
         "points_spent": 164351,
         "screenshot": 1,
         "follow": 1,
@@ -1723,11 +1723,11 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-17T14:35:25Z"
+      "lastUpdated": "2026-05-17T14:36:33Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2209,
+        "chat": 2210,
         "points_spent": 60703,
         "interactive": 42,
         "follow": 1,
@@ -1778,7 +1778,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-17T14:30:58Z"
+      "lastUpdated": "2026-05-17T14:39:15Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2227,7 +2227,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 93,
+        "chat": 96,
         "points_spent": 62650,
         "sounds": 2,
         "interactive": 1,
@@ -2250,7 +2250,7 @@
         "screenshot_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T14:34:40Z"
+      "lastUpdated": "2026-05-17T15:02:12Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -3854,7 +3854,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 404,
+        "chat": 410,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -3881,7 +3881,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2026-05-17T14:34:47Z"
+      "lastUpdated": "2026-05-17T14:45:35Z"
     },
     "mulquero": {
       "counters": {
@@ -3901,7 +3901,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 312,
+        "chat": 313,
         "points_spent": 21502,
         "sounds": 5,
         "effects": 4,
@@ -3924,7 +3924,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-17T11:18:07Z"
+      "lastUpdated": "2026-05-17T14:36:22Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -6821,7 +6821,7 @@
     "vnvqt": {
       "counters": {
         "follow": 1,
-        "chat": 89
+        "chat": 98
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6830,7 +6830,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-28T17:03:11Z"
+      "lastUpdated": "2026-05-17T14:45:03Z"
     },
     "theysang": {
       "counters": {
@@ -8641,7 +8641,7 @@
     "drjohnshardmd": {
       "counters": {
         "follow": 1,
-        "chat": 1818,
+        "chat": 1825,
         "points_spent": 70101,
         "sounds": 4,
         "sub": 29,
@@ -8684,7 +8684,7 @@
         "gift_starter",
         "chat_expert"
       ],
-      "lastUpdated": "2026-05-17T10:40:12Z"
+      "lastUpdated": "2026-05-17T14:47:38Z"
     },
     "mrlawson__": {
       "counters": {
@@ -9010,12 +9010,14 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2
+        "chat": 4,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-05-17T12:04:18Z"
+      "lastUpdated": "2026-05-17T15:02:34Z"
     },
     "noggen_": {
       "counters": {
@@ -9079,7 +9081,7 @@
       "lastUpdated": "2026-05-17T14:27:59Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:35:33Z",
+  "lastUpdated": "2026-05-17T14:02:35Z",
   "totalUsers": 460,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
