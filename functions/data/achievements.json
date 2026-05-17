@@ -1664,12 +1664,12 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3068,
-        "points_spent": 144351,
+        "chat": 3069,
+        "points_spent": 164351,
         "screenshot": 1,
         "follow": 1,
         "sub": 53,
-        "sounds": 7,
+        "sounds": 8,
         "effects": 12,
         "interactive": 1,
         "raid": 2,
@@ -1723,13 +1723,13 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-17T14:27:57Z"
+      "lastUpdated": "2026-05-17T14:29:26Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2208,
-        "points_spent": 60203,
-        "interactive": 41,
+        "chat": 2209,
+        "points_spent": 60703,
+        "interactive": 42,
         "follow": 1,
         "sub": 41,
         "effects": 6,
@@ -1778,7 +1778,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-17T14:24:26Z"
+      "lastUpdated": "2026-05-17T14:30:58Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2227,7 +2227,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 88,
+        "chat": 89,
         "points_spent": 62650,
         "sounds": 2,
         "interactive": 1,
@@ -2250,7 +2250,7 @@
         "screenshot_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T14:23:48Z"
+      "lastUpdated": "2026-05-17T14:29:31Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2463,8 +2463,8 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3450,
-        "points_spent": 48250,
+        "chat": 3451,
+        "points_spent": 68250,
         "effects": 15,
         "sub": 47,
         "sounds": 4,
@@ -2541,9 +2541,10 @@
         "bits_elite",
         "chat_master_tier",
         "gift_bomb_30",
-        "clip_collector"
+        "clip_collector",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-05-17T13:57:36Z"
+      "lastUpdated": "2026-05-17T14:31:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2766,7 +2767,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 835,
+        "chat": 836,
         "sub": 41,
         "points_spent": 45401,
         "interactive": 3,
@@ -2818,7 +2819,7 @@
         "bits_steady",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-05-17T14:27:16Z"
+      "lastUpdated": "2026-05-17T14:29:52Z"
     },
     "umenneske94": {
       "counters": {
@@ -3030,9 +3031,9 @@
       "counters": {
         "follow": 1,
         "chat": 1351,
-        "points_spent": 66601,
-        "sounds": 11,
-        "effects": 88,
+        "points_spent": 97101,
+        "sounds": 12,
+        "effects": 89,
         "sub": 49,
         "bits": 13000,
         "interactive": 3,
@@ -3109,7 +3110,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-17T14:22:59Z"
+      "lastUpdated": "2026-05-17T14:30:49Z"
     },
     "andilippi": {
       "counters": {
@@ -3852,7 +3853,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 396,
+        "chat": 397,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -3879,7 +3880,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2026-05-17T14:24:28Z"
+      "lastUpdated": "2026-05-17T14:30:58Z"
     },
     "mulquero": {
       "counters": {
@@ -9077,7 +9078,7 @@
       "lastUpdated": "2026-05-17T14:27:59Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:28:01Z",
+  "lastUpdated": "2026-05-17T13:31:15Z",
   "totalUsers": 460,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
