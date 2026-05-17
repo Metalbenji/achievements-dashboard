@@ -1664,7 +1664,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3071,
+        "chat": 3074,
         "points_spent": 164351,
         "screenshot": 1,
         "follow": 1,
@@ -1723,7 +1723,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-17T14:36:33Z"
+      "lastUpdated": "2026-05-17T15:07:27Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2227,7 +2227,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 100,
         "points_spent": 62650,
         "sounds": 2,
         "interactive": 1,
@@ -2248,9 +2248,10 @@
         "spender_gold",
         "chat_conversationalist",
         "screenshot_first",
-        "biggest_fan"
+        "biggest_fan",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-05-17T15:03:07Z"
+      "lastUpdated": "2026-05-17T15:07:51Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2463,7 +2464,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3453,
+        "chat": 3459,
         "points_spent": 68250,
         "effects": 15,
         "sub": 47,
@@ -2544,7 +2545,7 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-17T15:03:10Z"
+      "lastUpdated": "2026-05-17T15:07:11Z"
     },
     "purgemonster91": {
       "counters": {
@@ -8556,7 +8557,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 196,
+        "chat": 197,
         "sub": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -8584,7 +8585,7 @@
         "chat_regular",
         "sub_committed"
       ],
-      "lastUpdated": "2026-05-17T14:21:31Z"
+      "lastUpdated": "2026-05-17T15:05:14Z"
     },
     "galithoreu": {
       "counters": {
@@ -9010,7 +9011,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 5,
+        "chat": 6,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9018,7 +9019,7 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-05-17T15:03:18Z"
+      "lastUpdated": "2026-05-17T15:07:49Z"
     },
     "noggen_": {
       "counters": {
@@ -9082,7 +9083,7 @@
       "lastUpdated": "2026-05-17T14:27:59Z"
     }
   },
-  "lastUpdated": "2026-05-17T14:03:19Z",
+  "lastUpdated": "2026-05-17T14:07:53Z",
   "totalUsers": 460,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
