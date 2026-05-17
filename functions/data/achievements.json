@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3297,
+        "chat": 3298,
         "points_spent": 54151,
         "effects": 16,
         "sub": 16,
@@ -1564,7 +1564,7 @@
         "spender_gold",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-17T12:41:22Z"
+      "lastUpdated": "2026-05-17T12:44:18Z"
     },
     "celran": {
       "counters": {
@@ -1727,8 +1727,8 @@
     "marcusmaximi": {
       "counters": {
         "chat": 2181,
-        "points_spent": 53203,
-        "interactive": 39,
+        "points_spent": 60203,
+        "interactive": 41,
         "follow": 1,
         "sub": 41,
         "effects": 6,
@@ -1777,7 +1777,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-17T12:21:26Z"
+      "lastUpdated": "2026-05-17T12:44:59Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2418,7 +2418,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 379,
+        "chat": 381,
         "sub": 31,
         "points_spent": 2000,
         "screenshot": 2,
@@ -2455,7 +2455,7 @@
         "chat_dedicated",
         "sub_elite"
       ],
-      "lastUpdated": "2026-05-17T12:41:42Z"
+      "lastUpdated": "2026-05-17T12:43:54Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2763,7 +2763,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 781,
+        "chat": 783,
         "sub": 41,
         "points_spent": 43901,
         "interactive": 2,
@@ -2814,7 +2814,7 @@
         "bits_regular",
         "bits_steady"
       ],
-      "lastUpdated": "2026-05-17T12:42:19Z"
+      "lastUpdated": "2026-05-17T12:45:24Z"
     },
     "umenneske94": {
       "counters": {
@@ -3849,7 +3849,7 @@
       "counters": {
         "follow": 1,
         "chat": 369,
-        "points_spent": 67304,
+        "points_spent": 73504,
         "sounds": 2,
         "effects": 2
       },
@@ -3874,7 +3874,7 @@
         "chat_dedicated",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T12:43:02Z"
+      "lastUpdated": "2026-05-17T12:45:21Z"
     },
     "mulquero": {
       "counters": {
@@ -5143,7 +5143,7 @@
       "counters": {
         "follow": 1,
         "chat": 734,
-        "points_spent": 28601,
+        "points_spent": 34901,
         "effects": 6,
         "sounds": 13,
         "interactive": 13,
@@ -5182,9 +5182,10 @@
         "spender_iron",
         "spender_electrum",
         "sub_tier1",
-        "interactive_regular"
+        "interactive_regular",
+        "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T12:43:01Z"
+      "lastUpdated": "2026-05-17T12:45:33Z"
     },
     "jamie1496": {
       "counters": {
@@ -6243,7 +6244,7 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 89,
+        "chat": 90,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6253,7 +6254,7 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-05-17T12:39:15Z"
+      "lastUpdated": "2026-05-17T12:43:26Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -9005,7 +9006,7 @@
       "lastUpdated": "2026-05-17T12:04:18Z"
     }
   },
-  "lastUpdated": "2026-05-17T11:43:03Z",
+  "lastUpdated": "2026-05-17T11:45:34Z",
   "totalUsers": 454,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
