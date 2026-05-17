@@ -1443,10 +1443,10 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 392,
+        "chat": 397,
         "points_spent": 28700,
         "follow": 1,
-        "sub": 22,
+        "sub": 23,
         "interactive": 1,
         "effects": 1,
         "sub_tier": 1
@@ -1479,7 +1479,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-19T11:37:19Z"
+      "lastUpdated": "2026-05-17T22:09:09Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3310,
+        "chat": 3311,
         "points_spent": 67451,
         "effects": 16,
         "sub": 16,
@@ -1565,7 +1565,7 @@
         "chat_master_tier",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T21:31:59Z"
+      "lastUpdated": "2026-05-17T21:34:05Z"
     },
     "celran": {
       "counters": {
@@ -1603,7 +1603,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 933,
+        "chat": 936,
         "points_spent": 47003,
         "effects": 31,
         "follow": 1,
@@ -1660,7 +1660,7 @@
         "chat_enthusiast",
         "sound_dj"
       ],
-      "lastUpdated": "2026-05-17T21:33:01Z"
+      "lastUpdated": "2026-05-17T21:49:02Z"
     },
     "ramdon101": {
       "counters": {
@@ -1727,7 +1727,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2219,
+        "chat": 2231,
         "points_spent": 60703,
         "interactive": 42,
         "follow": 1,
@@ -1735,7 +1735,8 @@
         "effects": 6,
         "sounds": 1,
         "clips": 2,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1776,9 +1777,10 @@
         "chat_expert",
         "early_bird",
         "spender_gold",
-        "clip_first"
+        "clip_first",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-17T16:23:31Z"
+      "lastUpdated": "2026-05-17T22:06:17Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3035,7 +3037,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1351,
+        "chat": 1355,
         "points_spent": 97101,
         "sounds": 12,
         "effects": 89,
@@ -3115,7 +3117,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-17T14:30:49Z"
+      "lastUpdated": "2026-05-17T22:09:48Z"
     },
     "andilippi": {
       "counters": {
@@ -7012,7 +7014,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 249,
+        "chat": 252,
         "points_spent": 1200,
         "interactive": 1,
         "screenshot": 2
@@ -7027,9 +7029,10 @@
         "screenshot_first",
         "spender_bronze",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "night_owl"
       ],
-      "lastUpdated": "2026-05-17T21:29:22Z"
+      "lastUpdated": "2026-05-17T22:11:47Z"
     },
     "kikinplays_": {
       "counters": {
@@ -8994,13 +8997,13 @@
     "princess_3lodie": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-16T11:28:45Z"
+      "lastUpdated": "2026-05-17T21:33:08Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9089,7 +9092,7 @@
       "lastUpdated": "2026-05-17T14:27:59Z"
     }
   },
-  "lastUpdated": "2026-05-17T20:33:03Z",
+  "lastUpdated": "2026-05-17T21:11:49Z",
   "totalUsers": 460,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
