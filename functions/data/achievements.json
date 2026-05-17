@@ -2766,7 +2766,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 825,
+        "chat": 826,
         "sub": 41,
         "points_spent": 45001,
         "interactive": 2,
@@ -2818,7 +2818,7 @@
         "bits_steady",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-05-17T14:07:10Z"
+      "lastUpdated": "2026-05-17T14:09:49Z"
     },
     "umenneske94": {
       "counters": {
@@ -6775,14 +6775,14 @@
       "counters": {
         "follow": 1,
         "raid": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "raid_tier1_captain",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-17T14:09:07Z"
+      "lastUpdated": "2026-05-17T14:09:41Z"
     },
     "velvet__noir": {
       "counters": {
@@ -8435,7 +8435,7 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 17,
+        "chat": 18,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -8447,7 +8447,7 @@
         "chat_talker",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-17T14:08:55Z"
+      "lastUpdated": "2026-05-17T14:09:27Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -9034,10 +9034,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-05-17T14:09:16Z"
+    },
+    "elcucuylawl": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-05-17T14:09:54Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:09:17Z",
-  "totalUsers": 456,
+  "lastUpdated": "2026-05-17T13:09:56Z",
+  "totalUsers": 457,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
