@@ -1727,7 +1727,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2182,
+        "chat": 2183,
         "points_spent": 60203,
         "interactive": 41,
         "follow": 1,
@@ -1778,7 +1778,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-17T12:45:54Z"
+      "lastUpdated": "2026-05-17T12:46:12Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2421,7 +2421,7 @@
         "follow": 1,
         "chat": 381,
         "sub": 31,
-        "points_spent": 2000,
+        "points_spent": 8600,
         "screenshot": 2,
         "sounds": 1,
         "effects": 1,
@@ -2454,9 +2454,10 @@
         "chat_frequent",
         "early_bird",
         "chat_dedicated",
-        "sub_elite"
+        "sub_elite",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-05-17T12:43:54Z"
+      "lastUpdated": "2026-05-17T12:46:17Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -9007,7 +9008,7 @@
       "lastUpdated": "2026-05-17T12:04:18Z"
     }
   },
-  "lastUpdated": "2026-05-17T11:46:06Z",
+  "lastUpdated": "2026-05-17T11:46:18Z",
   "totalUsers": 454,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
