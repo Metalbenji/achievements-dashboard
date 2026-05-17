@@ -8625,7 +8625,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 53
+        "chat": 54
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8634,7 +8634,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-17T13:59:07Z"
+      "lastUpdated": "2026-05-17T14:09:12Z"
     },
     "drjohnshardmd": {
       "counters": {
@@ -9025,10 +9025,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-05-17T14:09:10Z"
+    },
+    "shaamooo": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-05-17T14:09:16Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:09:11Z",
-  "totalUsers": 455,
+  "lastUpdated": "2026-05-17T13:09:17Z",
+  "totalUsers": 456,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
