@@ -2227,7 +2227,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 96,
+        "chat": 97,
         "points_spent": 62650,
         "sounds": 2,
         "interactive": 1,
@@ -2250,7 +2250,7 @@
         "screenshot_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T15:02:12Z"
+      "lastUpdated": "2026-05-17T15:03:07Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2463,7 +2463,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3452,
+        "chat": 3453,
         "points_spent": 68250,
         "effects": 15,
         "sub": 47,
@@ -2544,7 +2544,7 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-17T14:32:43Z"
+      "lastUpdated": "2026-05-17T15:03:10Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5009,7 +5009,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 221,
+        "chat": 222,
         "points_spent": 900,
         "interactive": 2
       },
@@ -5024,7 +5024,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-17T14:32:39Z"
+      "lastUpdated": "2026-05-17T15:03:16Z"
     },
     "theazmaniac": {
       "counters": {
@@ -9010,14 +9010,15 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-05-17T15:02:34Z"
+      "lastUpdated": "2026-05-17T15:03:18Z"
     },
     "noggen_": {
       "counters": {
@@ -9081,7 +9082,7 @@
       "lastUpdated": "2026-05-17T14:27:59Z"
     }
   },
-  "lastUpdated": "2026-05-17T14:02:35Z",
+  "lastUpdated": "2026-05-17T14:03:19Z",
   "totalUsers": 460,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
