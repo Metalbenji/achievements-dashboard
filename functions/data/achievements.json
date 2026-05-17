@@ -1663,7 +1663,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3025,
+        "chat": 3026,
         "points_spent": 144351,
         "screenshot": 1,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-16T16:24:14Z"
+      "lastUpdated": "2026-05-17T10:31:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2458,7 +2458,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3408,
+        "chat": 3409,
         "points_spent": 48250,
         "effects": 15,
         "sub": 47,
@@ -2538,7 +2538,7 @@
         "gift_bomb_30",
         "clip_collector"
       ],
-      "lastUpdated": "2026-05-17T10:27:44Z"
+      "lastUpdated": "2026-05-17T10:31:19Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3543,7 +3543,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1929,
+        "chat": 1930,
         "points_spent": 64800,
         "effects": 7,
         "interactive": 13,
@@ -3577,7 +3577,7 @@
         "chat_expert",
         "sound_dj"
       ],
-      "lastUpdated": "2026-05-17T10:29:41Z"
+      "lastUpdated": "2026-05-17T10:31:33Z"
     },
     "roffelonator": {
       "counters": {
@@ -8220,7 +8220,7 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 28,
+        "chat": 30,
         "follow": 1,
         "sub": 1,
         "sub_tier": 1,
@@ -8238,7 +8238,7 @@
         "effect_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-16T11:18:43Z"
+      "lastUpdated": "2026-05-17T10:32:20Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -8484,7 +8484,7 @@
     },
     "slojdmajjen": {
       "counters": {
-        "points_spent": 750,
+        "points_spent": 1100,
         "effects": 3,
         "follow": 1,
         "chat": 5
@@ -8493,9 +8493,10 @@
         "effect_first",
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-05-16T13:27:47Z"
+      "lastUpdated": "2026-05-17T10:32:52Z"
     },
     "s0fde": {
       "counters": {
@@ -8973,17 +8974,17 @@
     "philpseyforce": {
       "counters": {
         "raid": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-05-17T10:30:09Z"
+      "lastUpdated": "2026-05-17T10:31:25Z"
     }
   },
-  "lastUpdated": "2026-05-17T09:30:10Z",
+  "lastUpdated": "2026-05-17T09:32:53Z",
   "totalUsers": 453,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
