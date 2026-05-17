@@ -6773,12 +6773,14 @@
     },
     "daddy0ps": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2025-09-27T15:15:40Z"
+      "lastUpdated": "2026-05-17T14:08:50Z"
     },
     "velvet__noir": {
       "counters": {
@@ -8431,7 +8433,7 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 16,
+        "chat": 17,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -8443,7 +8445,7 @@
         "chat_talker",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-16T08:55:56Z"
+      "lastUpdated": "2026-05-17T14:08:55Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -9010,10 +9012,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-05-17T12:04:18Z"
+    },
+    "noggen_": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-05-17T14:09:00Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:08:51Z",
-  "totalUsers": 454,
+  "lastUpdated": "2026-05-17T13:09:01Z",
+  "totalUsers": 455,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
