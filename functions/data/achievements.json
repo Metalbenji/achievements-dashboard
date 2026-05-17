@@ -1727,7 +1727,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2203,
+        "chat": 2204,
         "points_spent": 60203,
         "interactive": 41,
         "follow": 1,
@@ -1778,7 +1778,7 @@
         "spender_gold",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-17T14:13:00Z"
+      "lastUpdated": "2026-05-17T14:13:20Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3556,7 +3556,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 1945,
+        "chat": 1946,
         "points_spent": 64800,
         "effects": 7,
         "interactive": 13,
@@ -3590,7 +3590,7 @@
         "chat_expert",
         "sound_dj"
       ],
-      "lastUpdated": "2026-05-17T12:53:51Z"
+      "lastUpdated": "2026-05-17T14:13:11Z"
     },
     "roffelonator": {
       "counters": {
@@ -9028,12 +9028,13 @@
     },
     "shaamooo": {
       "counters": {
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-05-17T14:12:38Z"
+      "lastUpdated": "2026-05-17T14:13:49Z"
     },
     "elcucuylawl": {
       "counters": {
@@ -9067,7 +9068,7 @@
       "lastUpdated": "2026-05-17T14:12:40Z"
     }
   },
-  "lastUpdated": "2026-05-17T13:13:08Z",
+  "lastUpdated": "2026-05-17T13:13:50Z",
   "totalUsers": 459,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
