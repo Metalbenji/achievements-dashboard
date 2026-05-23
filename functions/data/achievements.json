@@ -2357,11 +2357,11 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 91652,
+        "points_spent": 92002,
         "follow": 1,
         "chat": 1060,
         "effects": 98,
-        "screenshot": 9,
+        "screenshot": 10,
         "sounds": 7,
         "bits": 300,
         "sub": 43,
@@ -2412,9 +2412,10 @@
         "spender_iron",
         "spender_electrum",
         "chat_enthusiast",
-        "chat_champion"
+        "chat_champion",
+        "screenshot_enthusiast"
       ],
-      "lastUpdated": "2026-05-23T15:31:01Z"
+      "lastUpdated": "2026-05-23T15:31:25Z"
     },
     "syn__________": {
       "counters": {
@@ -9131,7 +9132,7 @@
       "lastUpdated": "2026-05-23T13:55:09Z"
     }
   },
-  "lastUpdated": "2026-05-23T14:31:23Z",
+  "lastUpdated": "2026-05-23T14:31:26Z",
   "totalUsers": 461,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
