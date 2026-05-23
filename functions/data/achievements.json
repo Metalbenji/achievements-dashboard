@@ -2477,7 +2477,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3495,
+        "chat": 3498,
         "points_spent": 68600,
         "effects": 16,
         "sub": 47,
@@ -2558,7 +2558,7 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-23T15:53:04Z"
+      "lastUpdated": "2026-05-23T15:54:59Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2784,7 +2784,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 869,
+        "chat": 871,
         "sub": 41,
         "points_spent": 46401,
         "interactive": 4,
@@ -2851,7 +2851,7 @@
         "gift_guardian",
         "bits_committed"
       ],
-      "lastUpdated": "2026-05-23T15:51:10Z"
+      "lastUpdated": "2026-05-23T15:56:20Z"
     },
     "umenneske94": {
       "counters": {
@@ -3360,7 +3360,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3128,
+        "chat": 3133,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3397,7 +3397,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-23T15:52:37Z"
+      "lastUpdated": "2026-05-23T15:57:50Z"
     },
     "majesty81": {
       "counters": {
@@ -4392,9 +4392,11 @@
     "wowsmael": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 54,
         "points_spent": 500,
-        "sounds": 1
+        "sounds": 1,
+        "sub": 17,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4402,9 +4404,17 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "sound_first"
+        "sound_first",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion"
       ],
-      "lastUpdated": "2026-04-25T15:31:56Z"
+      "lastUpdated": "2026-05-23T15:57:08Z"
     },
     "dustingorbit": {
       "counters": {
@@ -4948,7 +4958,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 274
+        "chat": 282
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4959,7 +4969,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-23T15:52:00Z"
+      "lastUpdated": "2026-05-23T15:57:33Z"
     },
     "dinshara": {
       "counters": {
@@ -6207,7 +6217,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 107
+        "chat": 111
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6217,7 +6227,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-23T15:52:34Z"
+      "lastUpdated": "2026-05-23T15:56:40Z"
     },
     "grimlocc": {
       "counters": {
@@ -9049,16 +9059,17 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 23,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-23T15:52:38Z"
+      "lastUpdated": "2026-05-23T15:57:54Z"
     },
     "noggen_": {
       "counters": {
@@ -9133,7 +9144,7 @@
       "lastUpdated": "2026-05-23T13:55:09Z"
     }
   },
-  "lastUpdated": "2026-05-23T14:53:14Z",
+  "lastUpdated": "2026-05-23T14:57:55Z",
   "totalUsers": 461,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
