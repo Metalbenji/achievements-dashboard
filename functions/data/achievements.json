@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3311,
+        "chat": 3322,
         "points_spent": 67451,
         "effects": 16,
         "sub": 16,
@@ -1565,7 +1565,7 @@
         "chat_master_tier",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T21:34:05Z"
+      "lastUpdated": "2026-05-23T13:27:11Z"
     },
     "celran": {
       "counters": {
@@ -1664,7 +1664,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3091,
+        "chat": 3094,
         "points_spent": 164351,
         "screenshot": 1,
         "follow": 1,
@@ -1723,12 +1723,12 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-17T21:22:11Z"
+      "lastUpdated": "2026-05-23T13:27:18Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2231,
-        "points_spent": 60703,
+        "chat": 2245,
+        "points_spent": 60704,
         "interactive": 42,
         "follow": 1,
         "sub": 41,
@@ -1736,7 +1736,7 @@
         "sounds": 1,
         "clips": 2,
         "sub_tier": 1,
-        "raid": 1
+        "raid": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1780,7 +1780,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-17T22:06:17Z"
+      "lastUpdated": "2026-05-23T13:27:01Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2141,7 +2141,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1611,
+        "chat": 1614,
         "points_spent": 119764,
         "effects": 20,
         "sounds": 9,
@@ -2193,7 +2193,7 @@
         "interactive_first",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-15T20:08:04Z"
+      "lastUpdated": "2026-05-23T13:27:20Z"
     },
     "anzerou": {
       "counters": {
@@ -2258,10 +2258,10 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 950,
-        "points_spent": 52808,
+        "chat": 951,
+        "points_spent": 53108,
         "interactive": 19,
-        "effects": 36,
+        "effects": 37,
         "sub": 29,
         "sounds": 4,
         "screenshot": 6,
@@ -2310,7 +2310,7 @@
         "clip_enthusiast",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-17T21:10:24Z"
+      "lastUpdated": "2026-05-17T22:15:10Z"
     },
     "redunt86": {
       "counters": {
@@ -2422,7 +2422,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 384,
+        "chat": 385,
         "sub": 31,
         "points_spent": 8600,
         "screenshot": 2,
@@ -2461,7 +2461,7 @@
         "spender_iron",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-17T18:57:04Z"
+      "lastUpdated": "2026-05-17T22:15:08Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3037,7 +3037,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1355,
+        "chat": 1356,
         "points_spent": 97101,
         "sounds": 12,
         "effects": 89,
@@ -3117,7 +3117,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-17T22:09:48Z"
+      "lastUpdated": "2026-05-17T22:16:56Z"
     },
     "andilippi": {
       "counters": {
@@ -7014,7 +7014,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 252,
+        "chat": 253,
         "points_spent": 1200,
         "interactive": 1,
         "screenshot": 2
@@ -7032,7 +7032,7 @@
         "chat_frequent",
         "night_owl"
       ],
-      "lastUpdated": "2026-05-17T22:11:47Z"
+      "lastUpdated": "2026-05-17T22:15:06Z"
     },
     "kikinplays_": {
       "counters": {
@@ -8636,7 +8636,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 59
+        "chat": 62
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8645,7 +8645,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-17T19:10:25Z"
+      "lastUpdated": "2026-05-23T13:25:56Z"
     },
     "drjohnshardmd": {
       "counters": {
@@ -9092,7 +9092,7 @@
       "lastUpdated": "2026-05-17T14:27:59Z"
     }
   },
-  "lastUpdated": "2026-05-17T21:11:49Z",
+  "lastUpdated": "2026-05-23T12:27:24Z",
   "totalUsers": 460,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
