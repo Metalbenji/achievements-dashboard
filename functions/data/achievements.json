@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3381,
+        "chat": 3383,
         "points_spent": 67451,
         "effects": 16,
         "sub": 16,
@@ -1565,7 +1565,7 @@
         "chat_master_tier",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-23T15:22:42Z"
+      "lastUpdated": "2026-05-23T15:26:07Z"
     },
     "celran": {
       "counters": {
@@ -1997,7 +1997,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 118,
+        "chat": 120,
         "points_spent": 1,
         "raid": 1
       },
@@ -2011,7 +2011,7 @@
         "chat_regular",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-23T15:24:32Z"
+      "lastUpdated": "2026-05-23T15:26:16Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2350,7 +2350,7 @@
       "counters": {
         "points_spent": 91252,
         "follow": 1,
-        "chat": 1057,
+        "chat": 1058,
         "effects": 98,
         "screenshot": 9,
         "sounds": 7,
@@ -2405,7 +2405,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-23T15:24:38Z"
+      "lastUpdated": "2026-05-23T15:26:58Z"
     },
     "syn__________": {
       "counters": {
@@ -2467,7 +2467,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3487,
+        "chat": 3490,
         "points_spent": 68250,
         "effects": 15,
         "sub": 47,
@@ -2548,7 +2548,7 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-23T15:24:24Z"
+      "lastUpdated": "2026-05-23T15:25:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2774,15 +2774,18 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 854,
+        "chat": 856,
         "sub": 41,
         "points_spent": 46101,
         "interactive": 4,
         "sounds": 3,
         "effects": 14,
-        "gift_subs": 1,
+        "gift_subs": 76,
         "sub_tier": 1,
-        "bits": 1000
+        "bits": 1000,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 75,
+        "largest_gift_bomb": 75
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2824,9 +2827,20 @@
         "bits_small",
         "bits_regular",
         "bits_steady",
-        "bits_dedicated"
+        "bits_dedicated",
+        "gift_bomb_75",
+        "gift_bombs_first",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion",
+        "gift_hero",
+        "gift_angel",
+        "gift_patron",
+        "gift_guardian"
       ],
-      "lastUpdated": "2026-05-23T15:17:26Z"
+      "lastUpdated": "2026-05-23T15:27:55Z"
     },
     "umenneske94": {
       "counters": {
@@ -3038,7 +3052,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1367,
+        "chat": 1368,
         "points_spent": 97451,
         "sounds": 12,
         "effects": 90,
@@ -3118,7 +3132,7 @@
         "clip_first",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-23T15:24:48Z"
+      "lastUpdated": "2026-05-23T15:25:54Z"
     },
     "andilippi": {
       "counters": {
@@ -9106,7 +9120,7 @@
       "lastUpdated": "2026-05-23T13:55:09Z"
     }
   },
-  "lastUpdated": "2026-05-23T14:25:10Z",
+  "lastUpdated": "2026-05-23T14:28:05Z",
   "totalUsers": 461,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
