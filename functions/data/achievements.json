@@ -5038,7 +5038,9 @@
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_iron",
+        "spender_silver"
       ],
       "lastUpdated": "2026-05-23T17:24:18Z"
     },
@@ -9148,7 +9150,7 @@
       "lastUpdated": "2026-05-23T13:55:09Z"
     }
   },
-  "lastUpdated": "2026-05-23T16:24:19Z",
+  "lastUpdated": "2026-05-23T16:24:22Z",
   "totalUsers": 461,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
