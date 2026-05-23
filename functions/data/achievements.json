@@ -2784,7 +2784,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 902,
+        "chat": 903,
         "sub": 41,
         "points_spent": 46401,
         "interactive": 4,
@@ -2851,7 +2851,7 @@
         "gift_guardian",
         "bits_committed"
       ],
-      "lastUpdated": "2026-05-23T17:12:09Z"
+      "lastUpdated": "2026-05-23T17:21:17Z"
     },
     "umenneske94": {
       "counters": {
@@ -5030,15 +5030,17 @@
     "ewoksareninjas": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 19,
+        "points_spent": 20000
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-04-18T14:10:11Z"
+      "lastUpdated": "2026-05-23T17:24:18Z"
     },
     "jangerbox": {
       "counters": {
@@ -9146,7 +9148,7 @@
       "lastUpdated": "2026-05-23T13:55:09Z"
     }
   },
-  "lastUpdated": "2026-05-23T16:16:12Z",
+  "lastUpdated": "2026-05-23T16:24:19Z",
   "totalUsers": 461,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
