@@ -2357,9 +2357,9 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 91252,
+        "points_spent": 91652,
         "follow": 1,
-        "chat": 1058,
+        "chat": 1060,
         "effects": 98,
         "screenshot": 9,
         "sounds": 7,
@@ -2414,7 +2414,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-23T15:26:58Z"
+      "lastUpdated": "2026-05-23T15:31:01Z"
     },
     "syn__________": {
       "counters": {
@@ -2750,8 +2750,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 18350,
-        "effects": 42,
+        "points_spent": 18700,
+        "effects": 43,
         "follow": 1,
         "chat": 204,
         "interactive": 2,
@@ -2778,7 +2778,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-23T14:45:11Z"
+      "lastUpdated": "2026-05-23T15:30:47Z"
     },
     "s3n71": {
       "counters": {
@@ -2791,7 +2791,7 @@
         "effects": 14,
         "gift_subs": 76,
         "sub_tier": 1,
-        "bits": 1000,
+        "bits": 1510,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 75,
         "largest_gift_bomb": 75
@@ -2847,9 +2847,10 @@
         "gift_hero",
         "gift_angel",
         "gift_patron",
-        "gift_guardian"
+        "gift_guardian",
+        "bits_committed"
       ],
-      "lastUpdated": "2026-05-23T15:27:55Z"
+      "lastUpdated": "2026-05-23T15:29:49Z"
     },
     "umenneske94": {
       "counters": {
@@ -3061,14 +3062,14 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1368,
-        "points_spent": 97451,
+        "chat": 1369,
+        "points_spent": 97801,
         "sounds": 12,
         "effects": 90,
         "sub": 49,
         "bits": 13552,
         "interactive": 3,
-        "screenshot": 9,
+        "screenshot": 10,
         "gift_subs": 346,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 345,
@@ -3139,9 +3140,10 @@
         "gift_emperor",
         "sub_legendary",
         "clip_first",
-        "chat_champion"
+        "chat_champion",
+        "screenshot_enthusiast"
       ],
-      "lastUpdated": "2026-05-23T15:29:01Z"
+      "lastUpdated": "2026-05-23T15:31:21Z"
     },
     "andilippi": {
       "counters": {
@@ -4945,7 +4947,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 268
+        "chat": 269
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4956,7 +4958,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-23T14:41:45Z"
+      "lastUpdated": "2026-05-23T15:31:16Z"
     },
     "dinshara": {
       "counters": {
@@ -9129,7 +9131,7 @@
       "lastUpdated": "2026-05-23T13:55:09Z"
     }
   },
-  "lastUpdated": "2026-05-23T14:29:50Z",
+  "lastUpdated": "2026-05-23T14:31:23Z",
   "totalUsers": 461,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
