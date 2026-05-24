@@ -3533,7 +3533,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 232,
+        "chat": 233,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1,
@@ -3553,7 +3553,7 @@
         "chat_frequent",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-24T15:09:42Z"
+      "lastUpdated": "2026-05-24T15:09:49Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -9239,15 +9239,17 @@
     },
     "epoch70": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-24T15:09:45Z"
+      "lastUpdated": "2026-05-24T15:09:53Z"
     }
   },
-  "lastUpdated": "2026-05-24T14:09:49Z",
+  "lastUpdated": "2026-05-24T14:09:56Z",
   "totalUsers": 469,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
