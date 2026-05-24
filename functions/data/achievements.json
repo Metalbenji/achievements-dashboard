@@ -4650,7 +4650,9 @@
       "counters": {
         "chat": 28,
         "bits": 210,
-        "follow": 1
+        "follow": 1,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -4662,9 +4664,10 @@
         "bits_regular",
         "chat_talker",
         "follow_supporter",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2026-05-24T15:09:08Z"
+      "lastUpdated": "2026-05-24T15:10:04Z"
     },
     "technoninjatv": {
       "counters": {
@@ -9251,7 +9254,7 @@
       "lastUpdated": "2026-05-24T15:09:53Z"
     }
   },
-  "lastUpdated": "2026-05-24T14:10:04Z",
+  "lastUpdated": "2026-05-24T14:10:07Z",
   "totalUsers": 469,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
