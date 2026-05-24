@@ -4131,14 +4131,16 @@
     },
     "septikknissen": {
       "counters": {
-        "chat": 17
+        "chat": 17,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-05-24T15:09:13Z"
+      "lastUpdated": "2026-05-24T15:10:00Z"
     },
     "m0hmoh21": {
       "counters": {
@@ -9249,7 +9251,7 @@
       "lastUpdated": "2026-05-24T15:09:53Z"
     }
   },
-  "lastUpdated": "2026-05-24T14:09:56Z",
+  "lastUpdated": "2026-05-24T14:10:04Z",
   "totalUsers": 469,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
