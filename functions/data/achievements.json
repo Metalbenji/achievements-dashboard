@@ -9228,15 +9228,17 @@
     },
     "little_demon_girl123": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-24T15:09:32Z"
+      "lastUpdated": "2026-05-24T15:09:35Z"
     }
   },
-  "lastUpdated": "2026-05-24T14:09:35Z",
+  "lastUpdated": "2026-05-24T14:09:39Z",
   "totalUsers": 468,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
