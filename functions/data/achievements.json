@@ -9183,15 +9183,17 @@
     },
     "discostarz": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-24T12:53:32Z"
+      "lastUpdated": "2026-05-24T12:53:33Z"
     }
   },
-  "lastUpdated": "2026-05-24T11:53:33Z",
+  "lastUpdated": "2026-05-24T11:53:35Z",
   "totalUsers": 464,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
