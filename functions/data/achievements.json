@@ -1603,7 +1603,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 954,
+        "chat": 955,
         "points_spent": 47004,
         "effects": 31,
         "follow": 1,
@@ -1661,7 +1661,7 @@
         "sound_dj",
         "sub_master"
       ],
-      "lastUpdated": "2026-05-24T09:47:10Z"
+      "lastUpdated": "2026-05-24T09:48:38Z"
     },
     "ramdon101": {
       "counters": {
@@ -1728,7 +1728,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2272,
+        "chat": 2273,
         "points_spent": 60704,
         "interactive": 42,
         "follow": 1,
@@ -1781,7 +1781,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-24T09:47:34Z"
+      "lastUpdated": "2026-05-24T09:48:26Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3193,7 +3193,7 @@
       "counters": {
         "follow": 1,
         "chat": 128,
-        "points_spent": 4000,
+        "points_spent": 6000,
         "sub": 16
       },
       "unlockedAchievements": [
@@ -3212,9 +3212,10 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "chat_regular"
+        "chat_regular",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-05-17T11:36:52Z"
+      "lastUpdated": "2026-05-24T09:51:45Z"
     },
     "chadrestricted": {
       "counters": {
@@ -3935,7 +3936,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 318,
+        "chat": 321,
         "points_spent": 21502,
         "sounds": 5,
         "effects": 4,
@@ -3958,7 +3959,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-24T09:45:05Z"
+      "lastUpdated": "2026-05-24T09:51:35Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -5050,14 +5051,14 @@
     "jangerbox": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-05-24T09:48:17Z"
+      "lastUpdated": "2026-05-24T09:49:08Z"
     },
     "rejuv": {
       "counters": {
@@ -9154,7 +9155,7 @@
       "lastUpdated": "2026-05-23T13:55:09Z"
     }
   },
-  "lastUpdated": "2026-05-24T08:48:19Z",
+  "lastUpdated": "2026-05-24T08:51:46Z",
   "totalUsers": 461,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
