@@ -1665,7 +1665,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3205,
+        "chat": 3206,
         "points_spent": 171751,
         "screenshot": 1,
         "follow": 1,
@@ -1724,7 +1724,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-24T12:09:48Z"
+      "lastUpdated": "2026-05-24T12:47:42Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3361,7 +3361,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3242,
+        "chat": 3245,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3398,7 +3398,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-24T12:45:47Z"
+      "lastUpdated": "2026-05-24T12:48:04Z"
     },
     "majesty81": {
       "counters": {
@@ -9073,7 +9073,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 71,
+        "chat": 74,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9083,7 +9083,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-24T12:46:05Z"
+      "lastUpdated": "2026-05-24T12:49:20Z"
     },
     "noggen_": {
       "counters": {
@@ -9173,17 +9173,26 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-05-24T12:46:52Z"
+      "lastUpdated": "2026-05-24T12:47:20Z"
+    },
+    "discostarz": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-05-24T12:53:32Z"
     }
   },
-  "lastUpdated": "2026-05-24T11:46:54Z",
-  "totalUsers": 463,
+  "lastUpdated": "2026-05-24T11:53:33Z",
+  "totalUsers": 464,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
