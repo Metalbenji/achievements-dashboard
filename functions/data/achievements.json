@@ -3533,7 +3533,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 225,
+        "chat": 228,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1,
@@ -3553,7 +3553,7 @@
         "chat_frequent",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-24T15:08:58Z"
+      "lastUpdated": "2026-05-24T15:09:22Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -4131,14 +4131,14 @@
     },
     "septikknissen": {
       "counters": {
-        "chat": 16
+        "chat": 17
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-05-24T15:08:56Z"
+      "lastUpdated": "2026-05-24T15:09:13Z"
     },
     "m0hmoh21": {
       "counters": {
@@ -4646,7 +4646,7 @@
     },
     "pommyking": {
       "counters": {
-        "chat": 27,
+        "chat": 28,
         "bits": 210,
         "follow": 1
       },
@@ -4662,7 +4662,7 @@
         "follow_supporter",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-24T15:08:58Z"
+      "lastUpdated": "2026-05-24T15:09:08Z"
     },
     "technoninjatv": {
       "counters": {
@@ -9214,10 +9214,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-05-24T15:09:03Z"
+    },
+    "grave607": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-05-24T15:09:23Z"
     }
   },
-  "lastUpdated": "2026-05-24T14:09:07Z",
-  "totalUsers": 466,
+  "lastUpdated": "2026-05-24T14:09:27Z",
+  "totalUsers": 467,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
