@@ -9225,10 +9225,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-05-24T15:09:27Z"
+    },
+    "little_demon_girl123": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-05-24T15:09:32Z"
     }
   },
-  "lastUpdated": "2026-05-24T14:09:31Z",
-  "totalUsers": 467,
+  "lastUpdated": "2026-05-24T14:09:35Z",
+  "totalUsers": 468,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
