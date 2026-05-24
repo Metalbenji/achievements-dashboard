@@ -1665,7 +1665,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3181,
+        "chat": 3182,
         "points_spent": 164351,
         "screenshot": 1,
         "follow": 1,
@@ -1724,7 +1724,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-24T10:56:55Z"
+      "lastUpdated": "2026-05-24T11:01:10Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3063,7 +3063,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1415,
+        "chat": 1419,
         "points_spent": 99401,
         "sounds": 12,
         "effects": 93,
@@ -3144,7 +3144,7 @@
         "chat_champion",
         "screenshot_enthusiast"
       ],
-      "lastUpdated": "2026-05-24T11:00:41Z"
+      "lastUpdated": "2026-05-24T11:02:23Z"
     },
     "andilippi": {
       "counters": {
@@ -3361,7 +3361,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3185,
+        "chat": 3191,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3398,7 +3398,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-24T11:00:50Z"
+      "lastUpdated": "2026-05-24T11:02:25Z"
     },
     "majesty81": {
       "counters": {
@@ -5053,14 +5053,15 @@
     "jangerbox": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-05-24T10:57:31Z"
+      "lastUpdated": "2026-05-24T11:02:33Z"
     },
     "rejuv": {
       "counters": {
@@ -9072,7 +9073,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 56,
+        "chat": 57,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9082,7 +9083,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-24T10:57:20Z"
+      "lastUpdated": "2026-05-24T11:00:57Z"
     },
     "noggen_": {
       "counters": {
@@ -9158,7 +9159,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 25
+        "chat": 26
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9166,10 +9167,10 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-24T11:00:55Z"
+      "lastUpdated": "2026-05-24T11:02:24Z"
     }
   },
-  "lastUpdated": "2026-05-24T10:00:56Z",
+  "lastUpdated": "2026-05-24T10:02:35Z",
   "totalUsers": 462,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
