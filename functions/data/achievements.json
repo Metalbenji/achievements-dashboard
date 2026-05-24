@@ -5469,7 +5469,7 @@
     "gulliblezero": {
       "counters": {
         "follow": 1,
-        "chat": 355,
+        "chat": 356,
         "sub": 18,
         "points_spent": 300,
         "effects": 1,
@@ -5495,7 +5495,7 @@
         "sub_platinum",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-24T13:01:52Z"
+      "lastUpdated": "2026-05-24T13:22:52Z"
     },
     "jeditojanen": {
       "counters": {
@@ -9173,15 +9173,16 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 7,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-05-24T13:22:30Z"
+      "lastUpdated": "2026-05-24T13:23:15Z"
     },
     "discostarz": {
       "counters": {
@@ -9195,7 +9196,7 @@
       "lastUpdated": "2026-05-24T12:54:45Z"
     }
   },
-  "lastUpdated": "2026-05-24T12:22:31Z",
+  "lastUpdated": "2026-05-24T12:23:16Z",
   "totalUsers": 464,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
