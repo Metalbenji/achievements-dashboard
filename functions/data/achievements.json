@@ -8629,7 +8629,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 228,
+        "chat": 229,
         "sub": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -8658,7 +8658,7 @@
         "sub_committed",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-25T11:39:21Z"
+      "lastUpdated": "2026-05-25T12:54:48Z"
     },
     "galithoreu": {
       "counters": {
@@ -9275,18 +9275,20 @@
     "lorko_19": {
       "counters": {
         "points_spent": 20000,
-        "sounds": 1
+        "sounds": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "spender_bronze",
         "spender_iron",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-05-25T12:54:47Z"
+      "lastUpdated": "2026-05-25T12:54:54Z"
     }
   },
-  "lastUpdated": "2026-05-25T11:54:48Z",
+  "lastUpdated": "2026-05-25T11:54:56Z",
   "totalUsers": 471,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
