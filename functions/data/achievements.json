@@ -2478,7 +2478,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3532,
+        "chat": 3533,
         "points_spent": 69350,
         "effects": 17,
         "sub": 47,
@@ -2559,7 +2559,7 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-25T15:05:11Z"
+      "lastUpdated": "2026-05-25T15:06:07Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3222,12 +3222,13 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1285,
-        "points_spent": 12350,
+        "chat": 1293,
+        "points_spent": 12650,
         "sounds": 6,
         "clips": 1,
         "screenshot": 1,
-        "sub": 22
+        "sub": 22,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3255,9 +3256,10 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "spender_silver"
+        "spender_silver",
+        "effect_first"
       ],
-      "lastUpdated": "2026-05-25T15:05:05Z"
+      "lastUpdated": "2026-05-25T15:07:12Z"
     },
     "maximusis_": {
       "counters": {
@@ -9318,7 +9320,7 @@
       "lastUpdated": "2026-05-25T15:05:16Z"
     }
   },
-  "lastUpdated": "2026-05-25T14:05:18Z",
+  "lastUpdated": "2026-05-25T14:07:15Z",
   "totalUsers": 474,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
