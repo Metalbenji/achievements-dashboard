@@ -9274,17 +9274,19 @@
     },
     "lorko_19": {
       "counters": {
-        "points_spent": 20000
+        "points_spent": 20000,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "spender_bronze",
         "spender_iron",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2026-05-25T12:54:42Z"
+      "lastUpdated": "2026-05-25T12:54:47Z"
     }
   },
-  "lastUpdated": "2026-05-25T11:54:47Z",
+  "lastUpdated": "2026-05-25T11:54:48Z",
   "totalUsers": 471,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
