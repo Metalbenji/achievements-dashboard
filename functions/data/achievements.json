@@ -2478,7 +2478,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3514,
+        "chat": 3527,
         "points_spent": 69350,
         "effects": 17,
         "sub": 47,
@@ -2559,12 +2559,12 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-25T13:53:01Z"
+      "lastUpdated": "2026-05-25T14:18:55Z"
     },
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 180
+        "chat": 185
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2576,7 +2576,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-25T13:47:08Z"
+      "lastUpdated": "2026-05-25T14:14:42Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -2670,7 +2670,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 281,
+        "chat": 284,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 38,
@@ -2717,7 +2717,7 @@
         "gift_hero",
         "gift_angel"
       ],
-      "lastUpdated": "2026-05-25T13:06:20Z"
+      "lastUpdated": "2026-05-25T14:17:53Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3770,7 +3770,7 @@
       "counters": {
         "sub": 51,
         "follow": 1,
-        "chat": 430,
+        "chat": 432,
         "points_spent": 40752,
         "effects": 1,
         "sounds": 2,
@@ -3808,7 +3808,7 @@
         "sub_legendary",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-25T13:41:31Z"
+      "lastUpdated": "2026-05-25T14:14:27Z"
     },
     "camm_23": {
       "counters": {
@@ -4798,7 +4798,7 @@
     "funsham": {
       "counters": {
         "follow": 1,
-        "chat": 46
+        "chat": 47
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4808,7 +4808,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-17T16:26:46Z"
+      "lastUpdated": "2026-05-25T14:15:49Z"
     },
     "bety_bambalam": {
       "counters": {
@@ -4972,7 +4972,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 333
+        "chat": 334
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4984,7 +4984,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-25T13:20:22Z"
+      "lastUpdated": "2026-05-25T14:18:07Z"
     },
     "dinshara": {
       "counters": {
@@ -7077,7 +7077,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 330,
+        "chat": 335,
         "points_spent": 3200,
         "interactive": 1,
         "screenshot": 2,
@@ -7098,7 +7098,7 @@
         "chat_dedicated",
         "sound_first"
       ],
-      "lastUpdated": "2026-05-25T13:56:03Z"
+      "lastUpdated": "2026-05-25T14:18:38Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9088,7 +9088,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 166,
+        "chat": 172,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9099,7 +9099,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-25T13:55:52Z"
+      "lastUpdated": "2026-05-25T14:18:10Z"
     },
     "noggen_": {
       "counters": {
@@ -9175,7 +9175,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 93,
+        "chat": 94,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9185,11 +9185,11 @@
         "chat_conversationalist",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-05-25T13:41:55Z"
+      "lastUpdated": "2026-05-25T14:12:29Z"
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 94,
+        "chat": 99,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9199,7 +9199,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-25T13:43:16Z"
+      "lastUpdated": "2026-05-25T14:14:08Z"
     },
     "discostarz": {
       "counters": {
@@ -9297,10 +9297,19 @@
       },
       "unlockedAchievements": [],
       "lastUpdated": "2026-05-25T13:00:14Z"
+    },
+    "inovas_": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-05-25T14:19:15Z"
     }
   },
-  "lastUpdated": "2026-05-25T12:56:05Z",
-  "totalUsers": 472,
+  "lastUpdated": "2026-05-25T13:19:18Z",
+  "totalUsers": 473,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
