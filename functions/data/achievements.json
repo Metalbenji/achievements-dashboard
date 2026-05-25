@@ -2478,7 +2478,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3533,
+        "chat": 3539,
         "points_spent": 69350,
         "effects": 17,
         "sub": 47,
@@ -2559,7 +2559,7 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-25T15:06:07Z"
+      "lastUpdated": "2026-05-25T15:11:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3222,7 +3222,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1293,
+        "chat": 1305,
         "points_spent": 12650,
         "sounds": 6,
         "clips": 1,
@@ -3259,7 +3259,7 @@
         "spender_silver",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-25T15:07:12Z"
+      "lastUpdated": "2026-05-25T15:11:24Z"
     },
     "maximusis_": {
       "counters": {
@@ -3365,7 +3365,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3439,
+        "chat": 3443,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3402,7 +3402,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-25T14:23:11Z"
+      "lastUpdated": "2026-05-25T15:11:23Z"
     },
     "majesty81": {
       "counters": {
@@ -6242,7 +6242,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 154
+        "chat": 155
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6252,7 +6252,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-25T14:33:23Z"
+      "lastUpdated": "2026-05-25T15:10:39Z"
     },
     "grimlocc": {
       "counters": {
@@ -7079,7 +7079,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 346,
+        "chat": 348,
         "points_spent": 3200,
         "interactive": 1,
         "screenshot": 2,
@@ -7100,7 +7100,7 @@
         "chat_dedicated",
         "sound_first"
       ],
-      "lastUpdated": "2026-05-25T15:04:08Z"
+      "lastUpdated": "2026-05-25T15:10:17Z"
     },
     "kikinplays_": {
       "counters": {
@@ -8719,7 +8719,7 @@
     "drjohnshardmd": {
       "counters": {
         "follow": 1,
-        "chat": 1878,
+        "chat": 1882,
         "points_spent": 70101,
         "sounds": 4,
         "sub": 29,
@@ -8762,7 +8762,7 @@
         "gift_starter",
         "chat_expert"
       ],
-      "lastUpdated": "2026-05-25T14:36:27Z"
+      "lastUpdated": "2026-05-25T15:10:52Z"
     },
     "mrlawson__": {
       "counters": {
@@ -9177,7 +9177,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 95,
+        "chat": 100,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9185,9 +9185,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-05-25T14:50:32Z"
+      "lastUpdated": "2026-05-25T15:11:26Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -9320,7 +9321,7 @@
       "lastUpdated": "2026-05-25T15:05:16Z"
     }
   },
-  "lastUpdated": "2026-05-25T14:07:15Z",
+  "lastUpdated": "2026-05-25T14:11:29Z",
   "totalUsers": 474,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
