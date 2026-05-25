@@ -2360,7 +2360,7 @@
       "counters": {
         "points_spent": 92352,
         "follow": 1,
-        "chat": 1072,
+        "chat": 1082,
         "effects": 98,
         "screenshot": 11,
         "sounds": 7,
@@ -2416,7 +2416,7 @@
         "chat_champion",
         "screenshot_enthusiast"
       ],
-      "lastUpdated": "2026-05-25T16:24:50Z"
+      "lastUpdated": "2026-05-25T16:43:38Z"
     },
     "syn__________": {
       "counters": {
@@ -2478,7 +2478,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3555,
+        "chat": 3556,
         "points_spent": 69350,
         "effects": 17,
         "sub": 47,
@@ -2559,7 +2559,7 @@
         "clip_collector",
         "spender_gold"
       ],
-      "lastUpdated": "2026-05-25T16:23:05Z"
+      "lastUpdated": "2026-05-25T16:26:18Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3222,13 +3222,13 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1336,
-        "points_spent": 12650,
+        "chat": 1342,
+        "points_spent": 12850,
         "sounds": 6,
         "clips": 1,
         "screenshot": 1,
         "sub": 22,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3259,7 +3259,7 @@
         "spender_silver",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-25T16:21:42Z"
+      "lastUpdated": "2026-05-25T16:37:29Z"
     },
     "maximusis_": {
       "counters": {
@@ -3365,7 +3365,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3459,
+        "chat": 3472,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3402,7 +3402,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-25T16:24:39Z"
+      "lastUpdated": "2026-05-25T16:38:58Z"
     },
     "majesty81": {
       "counters": {
@@ -6257,7 +6257,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 518,
+        "chat": 520,
         "follow": 1,
         "points_spent": 48200,
         "sounds": 2,
@@ -6284,7 +6284,7 @@
         "spender_electrum",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-24T14:11:30Z"
+      "lastUpdated": "2026-05-25T16:30:29Z"
     },
     "sagegaming9": {
       "counters": {
@@ -6822,7 +6822,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 100,
         "sub": 7,
         "points_spent": 10000,
         "sounds": 1,
@@ -6843,9 +6843,10 @@
         "spender_bronze",
         "spender_iron",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-05-24T15:40:41Z"
+      "lastUpdated": "2026-05-25T16:45:47Z"
     },
     "daddy0ps": {
       "counters": {
@@ -9092,7 +9093,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 213,
+        "chat": 218,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9104,7 +9105,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-25T16:25:25Z"
+      "lastUpdated": "2026-05-25T16:45:27Z"
     },
     "noggen_": {
       "counters": {
@@ -9334,7 +9335,7 @@
       "lastUpdated": "2026-05-25T16:12:39Z"
     }
   },
-  "lastUpdated": "2026-05-25T15:25:50Z",
+  "lastUpdated": "2026-05-25T15:45:48Z",
   "totalUsers": 475,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
