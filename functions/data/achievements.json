@@ -1603,7 +1603,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 997,
+        "chat": 1000,
         "points_spent": 47604,
         "effects": 31,
         "follow": 1,
@@ -1660,9 +1660,10 @@
         "chat_enthusiast",
         "sound_dj",
         "sub_master",
-        "interactive_regular"
+        "interactive_regular",
+        "chat_champion"
       ],
-      "lastUpdated": "2026-05-25T17:05:01Z"
+      "lastUpdated": "2026-05-25T17:05:58Z"
     },
     "ramdon101": {
       "counters": {
@@ -3598,9 +3599,9 @@
       "counters": {
         "follow": 1,
         "chat": 2015,
-        "points_spent": 68100,
+        "points_spent": 68500,
         "effects": 7,
-        "interactive": 16,
+        "interactive": 17,
         "screenshot": 2,
         "sounds": 16
       },
@@ -3631,7 +3632,7 @@
         "chat_expert",
         "sound_dj"
       ],
-      "lastUpdated": "2026-05-25T16:46:47Z"
+      "lastUpdated": "2026-05-25T17:05:55Z"
     },
     "roffelonator": {
       "counters": {
@@ -9336,7 +9337,7 @@
       "lastUpdated": "2026-05-25T16:12:39Z"
     }
   },
-  "lastUpdated": "2026-05-25T16:05:02Z",
+  "lastUpdated": "2026-05-25T16:05:59Z",
   "totalUsers": 475,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
