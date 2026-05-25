@@ -9277,12 +9277,13 @@
         "points_spent": 20000
       },
       "unlockedAchievements": [
-        "spender_bronze"
+        "spender_bronze",
+        "spender_iron"
       ],
       "lastUpdated": "2026-05-25T12:54:42Z"
     }
   },
-  "lastUpdated": "2026-05-25T11:54:44Z",
+  "lastUpdated": "2026-05-25T11:54:45Z",
   "totalUsers": 471,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
