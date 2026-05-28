@@ -1604,11 +1604,11 @@
     "miromaaldis": {
       "counters": {
         "chat": 1003,
-        "points_spent": 47604,
+        "points_spent": 50104,
         "effects": 31,
         "follow": 1,
         "sub": 36,
-        "sounds": 18,
+        "sounds": 19,
         "screenshot": 2,
         "interactive": 10,
         "bits": 200,
@@ -1661,9 +1661,10 @@
         "sound_dj",
         "sub_master",
         "interactive_regular",
-        "chat_champion"
+        "chat_champion",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-05-28T21:56:16Z"
+      "lastUpdated": "2026-05-28T22:05:34Z"
     },
     "ramdon101": {
       "counters": {
@@ -2481,9 +2482,9 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3650,
-        "points_spent": 77700,
-        "effects": 19,
+        "chat": 3651,
+        "points_spent": 78050,
+        "effects": 20,
         "sub": 47,
         "sounds": 5,
         "bits": 5000,
@@ -2563,7 +2564,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-28T22:00:43Z"
+      "lastUpdated": "2026-05-28T22:04:07Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2610,7 +2611,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 410,
+        "chat": 412,
         "points_spent": 27701,
         "screenshot": 1,
         "sounds": 6,
@@ -2641,7 +2642,7 @@
         "biggest_fan",
         "night_owl"
       ],
-      "lastUpdated": "2026-05-28T22:00:50Z"
+      "lastUpdated": "2026-05-28T22:03:10Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3069,7 +3070,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1468,
+        "chat": 1469,
         "points_spent": 100601,
         "sounds": 12,
         "effects": 95,
@@ -3151,7 +3152,7 @@
         "screenshot_enthusiast",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-05-28T21:14:35Z"
+      "lastUpdated": "2026-05-28T22:01:07Z"
     },
     "andilippi": {
       "counters": {
@@ -9343,7 +9344,7 @@
       "lastUpdated": "2026-05-25T16:12:39Z"
     }
   },
-  "lastUpdated": "2026-05-28T21:00:52Z",
+  "lastUpdated": "2026-05-28T21:05:35Z",
   "totalUsers": 475,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
