@@ -2481,7 +2481,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3649,
+        "chat": 3650,
         "points_spent": 77700,
         "effects": 19,
         "sub": 47,
@@ -2563,7 +2563,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-28T21:59:06Z"
+      "lastUpdated": "2026-05-28T22:00:43Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2610,7 +2610,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 409,
+        "chat": 410,
         "points_spent": 27701,
         "screenshot": 1,
         "sounds": 6,
@@ -2638,9 +2638,10 @@
         "chat_dedicated",
         "interactive_first",
         "spender_electrum",
-        "biggest_fan"
+        "biggest_fan",
+        "night_owl"
       ],
-      "lastUpdated": "2026-05-28T21:59:09Z"
+      "lastUpdated": "2026-05-28T22:00:50Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -9342,7 +9343,7 @@
       "lastUpdated": "2026-05-25T16:12:39Z"
     }
   },
-  "lastUpdated": "2026-05-28T21:00:06Z",
+  "lastUpdated": "2026-05-28T21:00:52Z",
   "totalUsers": 475,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
