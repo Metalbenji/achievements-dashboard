@@ -1603,7 +1603,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1002,
+        "chat": 1003,
         "points_spent": 47604,
         "effects": 31,
         "follow": 1,
@@ -1663,11 +1663,11 @@
         "interactive_regular",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-25T17:07:01Z"
+      "lastUpdated": "2026-05-28T21:56:16Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3227,
+        "chat": 3229,
         "points_spent": 171751,
         "screenshot": 1,
         "follow": 1,
@@ -1675,7 +1675,7 @@
         "sounds": 8,
         "effects": 13,
         "interactive": 1,
-        "raid": 3,
+        "raid": 4,
         "gift_subs": 1,
         "sub_tier": 1
       },
@@ -1726,7 +1726,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-24T15:53:25Z"
+      "lastUpdated": "2026-05-28T21:54:13Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2481,7 +2481,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3645,
+        "chat": 3649,
         "points_spent": 77700,
         "effects": 19,
         "sub": 47,
@@ -2563,7 +2563,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-28T21:46:25Z"
+      "lastUpdated": "2026-05-28T21:59:06Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2610,7 +2610,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 392,
+        "chat": 409,
         "points_spent": 27701,
         "screenshot": 1,
         "sounds": 6,
@@ -2640,7 +2640,7 @@
         "spender_electrum",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-16T12:29:09Z"
+      "lastUpdated": "2026-05-28T21:59:09Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3897,7 +3897,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 520,
+        "chat": 522,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -3924,7 +3924,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2026-05-28T21:38:31Z"
+      "lastUpdated": "2026-05-28T21:52:48Z"
     },
     "mulquero": {
       "counters": {
@@ -6826,7 +6826,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 104,
+        "chat": 105,
         "sub": 7,
         "points_spent": 10000,
         "sounds": 1,
@@ -6850,7 +6850,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-28T21:38:58Z"
+      "lastUpdated": "2026-05-28T21:49:30Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7182,8 +7182,8 @@
         "bits": 291,
         "follow": 1,
         "sub": 1,
-        "points_spent": 13400,
-        "effects": 9,
+        "points_spent": 13750,
+        "effects": 10,
         "sounds": 4,
         "screenshot": 10,
         "clips": 3,
@@ -7219,9 +7219,10 @@
         "chat_dedicated",
         "spender_silver",
         "night_owl",
-        "screenshot_enthusiast"
+        "screenshot_enthusiast",
+        "effect_collector"
       ],
-      "lastUpdated": "2026-05-28T21:46:59Z"
+      "lastUpdated": "2026-05-28T22:00:04Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9341,7 +9342,7 @@
       "lastUpdated": "2026-05-25T16:12:39Z"
     }
   },
-  "lastUpdated": "2026-05-28T20:47:01Z",
+  "lastUpdated": "2026-05-28T21:00:06Z",
   "totalUsers": 475,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
