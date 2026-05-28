@@ -1500,7 +1500,7 @@
     "little_lilith_": {
       "counters": {
         "chat": 3538,
-        "points_spent": 82351,
+        "points_spent": 89651,
         "effects": 18,
         "sub": 17,
         "bits": 1894,
@@ -1565,7 +1565,7 @@
         "chat_master_tier",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-28T21:41:34Z"
+      "lastUpdated": "2026-05-28T21:42:35Z"
     },
     "celran": {
       "counters": {
@@ -1787,7 +1787,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 554,
+        "chat": 555,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1825,7 +1825,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-05-28T21:35:22Z"
+      "lastUpdated": "2026-05-28T21:45:02Z"
     },
     "scoman07": {
       "counters": {
@@ -2481,13 +2481,13 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3639,
-        "points_spent": 77350,
+        "chat": 3645,
+        "points_spent": 77700,
         "effects": 19,
         "sub": 47,
         "sounds": 5,
         "bits": 5000,
-        "screenshot": 1,
+        "screenshot": 2,
         "clips": 14,
         "gift_subs": 480,
         "gift_bombs": 2,
@@ -2563,7 +2563,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-28T21:42:12Z"
+      "lastUpdated": "2026-05-28T21:46:25Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7085,7 +7085,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 367,
+        "chat": 368,
         "points_spent": 3200,
         "interactive": 1,
         "screenshot": 2,
@@ -7106,7 +7106,7 @@
         "chat_dedicated",
         "sound_first"
       ],
-      "lastUpdated": "2026-05-28T21:18:29Z"
+      "lastUpdated": "2026-05-28T21:42:29Z"
     },
     "kikinplays_": {
       "counters": {
@@ -7182,10 +7182,10 @@
         "bits": 291,
         "follow": 1,
         "sub": 1,
-        "points_spent": 12700,
+        "points_spent": 13400,
         "effects": 9,
         "sounds": 4,
-        "screenshot": 8,
+        "screenshot": 10,
         "clips": 3,
         "gift_subs": 2,
         "interactive": 3
@@ -7218,9 +7218,10 @@
         "chat_frequent",
         "chat_dedicated",
         "spender_silver",
-        "night_owl"
+        "night_owl",
+        "screenshot_enthusiast"
       ],
-      "lastUpdated": "2026-05-28T20:09:58Z"
+      "lastUpdated": "2026-05-28T21:46:59Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9340,7 +9341,7 @@
       "lastUpdated": "2026-05-25T16:12:39Z"
     }
   },
-  "lastUpdated": "2026-05-28T20:42:14Z",
+  "lastUpdated": "2026-05-28T20:47:01Z",
   "totalUsers": 475,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
