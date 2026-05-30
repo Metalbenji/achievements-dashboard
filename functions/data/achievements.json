@@ -5225,7 +5225,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 798,
+        "chat": 799,
         "points_spent": 37601,
         "effects": 9,
         "sounds": 13,
@@ -5272,7 +5272,7 @@
         "sub_tier2",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-05-30T11:27:42Z"
+      "lastUpdated": "2026-05-30T11:27:57Z"
     },
     "jamie1496": {
       "counters": {
@@ -6144,7 +6144,7 @@
     "falkistan": {
       "counters": {
         "follow": 1,
-        "chat": 100
+        "chat": 101
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6154,7 +6154,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-30T11:27:49Z"
+      "lastUpdated": "2026-05-30T11:27:53Z"
     },
     "kenlee_79": {
       "counters": {
@@ -9348,10 +9348,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-05-30T11:03:10Z"
+    },
+    "warcraftthor": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-05-30T11:27:58Z"
     }
   },
-  "lastUpdated": "2026-05-30T10:27:50Z",
-  "totalUsers": 475,
+  "lastUpdated": "2026-05-30T10:27:59Z",
+  "totalUsers": 476,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
