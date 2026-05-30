@@ -1668,7 +1668,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3261,
+        "chat": 3263,
         "points_spent": 171751,
         "screenshot": 1,
         "follow": 1,
@@ -1727,7 +1727,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-30T12:10:49Z"
+      "lastUpdated": "2026-05-30T12:40:40Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2483,7 +2483,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3671,
+        "chat": 3679,
         "points_spent": 78850,
         "effects": 21,
         "sub": 47,
@@ -2565,7 +2565,7 @@
         "spender_gold",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-30T12:24:25Z"
+      "lastUpdated": "2026-05-30T12:40:37Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3372,7 +3372,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3558,
+        "chat": 3569,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3409,7 +3409,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-30T11:57:07Z"
+      "lastUpdated": "2026-05-30T12:30:17Z"
     },
     "majesty81": {
       "counters": {
@@ -4981,7 +4981,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 354
+        "chat": 358
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4993,7 +4993,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-30T12:21:13Z"
+      "lastUpdated": "2026-05-30T12:30:22Z"
     },
     "dinshara": {
       "counters": {
@@ -5226,7 +5226,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 832,
+        "chat": 835,
         "points_spent": 40101,
         "effects": 10,
         "sounds": 14,
@@ -5274,7 +5274,7 @@
         "screenshot_first",
         "effect_collector"
       ],
-      "lastUpdated": "2026-05-30T12:26:59Z"
+      "lastUpdated": "2026-05-30T12:29:32Z"
     },
     "jamie1496": {
       "counters": {
@@ -7030,7 +7030,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1366,
+        "chat": 1367,
         "points_spent": 74304,
         "sounds": 23,
         "effects": 10,
@@ -7080,7 +7080,7 @@
         "effect_collector",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-05-30T12:24:41Z"
+      "lastUpdated": "2026-05-30T12:37:41Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8723,16 +8723,17 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 99
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-05-30T12:08:36Z"
+      "lastUpdated": "2026-05-30T12:40:59Z"
     },
     "drjohnshardmd": {
       "counters": {
@@ -8815,7 +8816,7 @@
     "totally_jace": {
       "counters": {
         "follow": 1,
-        "chat": 17,
+        "chat": 20,
         "points_spent": 500,
         "interactive": 1
       },
@@ -8826,7 +8827,7 @@
         "chat_talker",
         "interactive_first"
       ],
-      "lastUpdated": "2026-05-30T12:20:02Z"
+      "lastUpdated": "2026-05-30T12:39:53Z"
     },
     "krysmoma": {
       "counters": {
@@ -8880,7 +8881,7 @@
     },
     "trilani": {
       "counters": {
-        "chat": 10,
+        "chat": 11,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8889,7 +8890,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-05-30T12:08:56Z"
+      "lastUpdated": "2026-05-30T12:40:07Z"
     },
     "killakris": {
       "counters": {
@@ -9364,7 +9365,7 @@
       "lastUpdated": "2026-05-30T11:45:35Z"
     }
   },
-  "lastUpdated": "2026-05-30T11:27:00Z",
+  "lastUpdated": "2026-05-30T11:41:00Z",
   "totalUsers": 476,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
