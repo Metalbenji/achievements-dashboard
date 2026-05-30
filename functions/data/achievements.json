@@ -5229,7 +5229,7 @@
         "chat": 868,
         "points_spent": 50101,
         "effects": 10,
-        "sounds": 14,
+        "sounds": 15,
         "interactive": 16,
         "sub": 32,
         "clips": 1,
@@ -5275,9 +5275,10 @@
         "screenshot_first",
         "effect_collector",
         "gift_starter",
-        "spender_gold"
+        "spender_gold",
+        "sound_dj"
       ],
-      "lastUpdated": "2026-05-30T13:31:27Z"
+      "lastUpdated": "2026-05-30T13:31:29Z"
     },
     "jamie1496": {
       "counters": {
@@ -9369,7 +9370,7 @@
       "lastUpdated": "2026-05-30T11:45:35Z"
     }
   },
-  "lastUpdated": "2026-05-30T12:31:29Z",
+  "lastUpdated": "2026-05-30T12:31:31Z",
   "totalUsers": 476,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
