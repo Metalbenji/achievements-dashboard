@@ -4075,7 +4075,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 251,
+        "chat": 255,
         "points_spent": 1001,
         "effects": 1
       },
@@ -4093,7 +4093,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-30T11:01:30Z"
+      "lastUpdated": "2026-05-30T11:04:40Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -8809,7 +8809,7 @@
     "totally_jace": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 13
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8817,7 +8817,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-05-16T14:05:39Z"
+      "lastUpdated": "2026-05-30T11:05:33Z"
     },
     "krysmoma": {
       "counters": {
@@ -9194,7 +9194,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 109,
+        "chat": 110,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9205,7 +9205,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-30T10:59:16Z"
+      "lastUpdated": "2026-05-30T11:04:22Z"
     },
     "discostarz": {
       "counters": {
@@ -9335,15 +9335,15 @@
     },
     "mrkraniel": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-30T11:02:44Z"
+      "lastUpdated": "2026-05-30T11:03:10Z"
     }
   },
-  "lastUpdated": "2026-05-30T10:02:45Z",
+  "lastUpdated": "2026-05-30T10:05:58Z",
   "totalUsers": 475,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
