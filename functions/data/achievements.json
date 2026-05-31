@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3705,
+        "chat": 3720,
         "points_spent": 90401,
         "effects": 18,
         "sub": 17,
@@ -1567,7 +1567,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-05-31T13:39:24Z"
+      "lastUpdated": "2026-05-31T13:51:45Z"
     },
     "celran": {
       "counters": {
@@ -1733,7 +1733,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2430,
+        "chat": 2432,
         "points_spent": 62206,
         "interactive": 45,
         "follow": 1,
@@ -1786,7 +1786,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-31T13:29:20Z"
+      "lastUpdated": "2026-05-31T13:56:13Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2441,7 +2441,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 423,
+        "chat": 424,
         "sub": 32,
         "points_spent": 8600,
         "screenshot": 2,
@@ -2480,7 +2480,7 @@
         "spender_iron",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-05-31T13:39:13Z"
+      "lastUpdated": "2026-05-31T13:42:05Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2574,7 +2574,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 191
+        "chat": 192
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2586,7 +2586,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-31T13:09:14Z"
+      "lastUpdated": "2026-05-31T13:42:43Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -3377,7 +3377,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3738,
+        "chat": 3739,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3414,7 +3414,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-31T13:25:56Z"
+      "lastUpdated": "2026-05-31T13:46:16Z"
     },
     "majesty81": {
       "counters": {
@@ -5292,7 +5292,7 @@
     "jamie1496": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 105,
         "points_spent": 1600,
         "interactive": 4
       },
@@ -5306,7 +5306,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-31T13:40:38Z"
+      "lastUpdated": "2026-05-31T13:42:17Z"
     },
     "sophplayswow": {
       "counters": {
@@ -9121,7 +9121,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 350,
+        "chat": 355,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9134,7 +9134,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-31T13:40:21Z"
+      "lastUpdated": "2026-05-31T13:41:11Z"
     },
     "noggen_": {
       "counters": {
@@ -9210,7 +9210,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 198,
+        "chat": 200,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9219,13 +9219,14 @@
         "chat_talker",
         "chat_conversationalist",
         "follow_supporter",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-05-31T13:40:01Z"
+      "lastUpdated": "2026-05-31T13:56:36Z"
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 158,
+        "chat": 160,
         "follow": 1,
         "points_spent": 300,
         "effects": 1
@@ -9239,7 +9240,7 @@
         "chat_regular",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-31T13:38:40Z"
+      "lastUpdated": "2026-05-31T13:45:01Z"
     },
     "discostarz": {
       "counters": {
@@ -9401,7 +9402,7 @@
       "lastUpdated": "2026-05-31T11:22:40Z"
     }
   },
-  "lastUpdated": "2026-05-31T12:40:39Z",
+  "lastUpdated": "2026-05-31T12:56:38Z",
   "totalUsers": 477,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
