@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3657,
+        "chat": 3659,
         "points_spent": 90001,
         "effects": 18,
         "sub": 17,
@@ -1567,7 +1567,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-05-31T11:14:41Z"
+      "lastUpdated": "2026-05-31T11:18:04Z"
     },
     "celran": {
       "counters": {
@@ -3232,7 +3232,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1342,
+        "chat": 1345,
         "points_spent": 12850,
         "sounds": 6,
         "clips": 1,
@@ -3269,7 +3269,7 @@
         "spender_silver",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-25T16:37:29Z"
+      "lastUpdated": "2026-05-31T11:18:11Z"
     },
     "maximusis_": {
       "counters": {
@@ -8661,7 +8661,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 233,
+        "chat": 236,
         "sub": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -8690,7 +8690,7 @@
         "sub_committed",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-31T10:45:44Z"
+      "lastUpdated": "2026-05-31T11:17:25Z"
     },
     "galithoreu": {
       "counters": {
@@ -8872,7 +8872,7 @@
     "applst0rm": {
       "counters": {
         "follow": 1,
-        "chat": 103
+        "chat": 105
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8882,7 +8882,7 @@
         "weekend_warrior",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-31T11:15:06Z"
+      "lastUpdated": "2026-05-31T11:18:22Z"
     },
     "deusvult1089": {
       "counters": {
@@ -9217,8 +9217,10 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 141,
-        "follow": 1
+        "chat": 142,
+        "follow": 1,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9226,9 +9228,10 @@
         "follow_supporter",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "effect_first"
       ],
-      "lastUpdated": "2026-05-31T11:12:43Z"
+      "lastUpdated": "2026-05-31T11:18:30Z"
     },
     "discostarz": {
       "counters": {
@@ -9379,17 +9382,17 @@
     },
     "delpz10": {
       "counters": {
-        "chat": 2,
+        "chat": 3,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-05-31T11:16:05Z"
+      "lastUpdated": "2026-05-31T11:16:20Z"
     }
   },
-  "lastUpdated": "2026-05-31T10:16:06Z",
+  "lastUpdated": "2026-05-31T10:18:31Z",
   "totalUsers": 477,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
