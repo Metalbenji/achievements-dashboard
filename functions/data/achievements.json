@@ -2485,7 +2485,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3717,
+        "chat": 3719,
         "points_spent": 80050,
         "effects": 23,
         "sub": 47,
@@ -2569,7 +2569,7 @@
         "biggest_fan",
         "interactive_first"
       ],
-      "lastUpdated": "2026-05-31T12:08:49Z"
+      "lastUpdated": "2026-05-31T12:10:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3377,7 +3377,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3669,
+        "chat": 3675,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3414,7 +3414,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-31T12:08:59Z"
+      "lastUpdated": "2026-05-31T12:10:02Z"
     },
     "majesty81": {
       "counters": {
@@ -4442,7 +4442,7 @@
     },
     "dustingorbit": {
       "counters": {
-        "chat": 22,
+        "chat": 25,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
@@ -4454,9 +4454,10 @@
         "chat_newbie",
         "effect_first",
         "sound_first",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-05-31T12:06:34Z"
+      "lastUpdated": "2026-05-31T12:10:49Z"
     },
     "stephen_thornley1997": {
       "counters": {
@@ -5233,7 +5234,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 1098,
+        "chat": 1103,
         "points_spent": 53301,
         "effects": 11,
         "sounds": 16,
@@ -5286,7 +5287,7 @@
         "sound_dj",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-31T12:08:21Z"
+      "lastUpdated": "2026-05-31T12:10:23Z"
     },
     "jamie1496": {
       "counters": {
@@ -9118,7 +9119,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 300,
+        "chat": 304,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9131,7 +9132,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-31T12:09:02Z"
+      "lastUpdated": "2026-05-31T12:10:02Z"
     },
     "noggen_": {
       "counters": {
@@ -9222,7 +9223,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 151,
+        "chat": 152,
         "follow": 1,
         "points_spent": 300,
         "effects": 1
@@ -9236,7 +9237,7 @@
         "chat_regular",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-31T12:08:42Z"
+      "lastUpdated": "2026-05-31T12:10:13Z"
     },
     "discostarz": {
       "counters": {
@@ -9398,7 +9399,7 @@
       "lastUpdated": "2026-05-31T11:22:40Z"
     }
   },
-  "lastUpdated": "2026-05-31T11:09:03Z",
+  "lastUpdated": "2026-05-31T11:10:50Z",
   "totalUsers": 477,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
