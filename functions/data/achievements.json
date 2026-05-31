@@ -9379,15 +9379,17 @@
     },
     "delpz10": {
       "counters": {
-        "chat": 1
+        "chat": 2,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-05-31T11:15:56Z"
+      "lastUpdated": "2026-05-31T11:16:05Z"
     }
   },
-  "lastUpdated": "2026-05-31T10:15:57Z",
+  "lastUpdated": "2026-05-31T10:16:06Z",
   "totalUsers": 477,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
