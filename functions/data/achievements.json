@@ -1733,7 +1733,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2396,
+        "chat": 2399,
         "points_spent": 61706,
         "interactive": 44,
         "follow": 1,
@@ -1786,7 +1786,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-30T16:23:08Z"
+      "lastUpdated": "2026-05-31T11:22:28Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3232,7 +3232,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1345,
+        "chat": 1346,
         "points_spent": 12850,
         "sounds": 6,
         "clips": 1,
@@ -3269,7 +3269,7 @@
         "spender_silver",
         "effect_first"
       ],
-      "lastUpdated": "2026-05-31T11:18:11Z"
+      "lastUpdated": "2026-05-31T11:19:35Z"
     },
     "maximusis_": {
       "counters": {
@@ -3903,7 +3903,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 544,
+        "chat": 545,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -3930,7 +3930,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2026-05-31T11:03:39Z"
+      "lastUpdated": "2026-05-31T11:21:22Z"
     },
     "mulquero": {
       "counters": {
@@ -8872,7 +8872,7 @@
     "applst0rm": {
       "counters": {
         "follow": 1,
-        "chat": 105
+        "chat": 107
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8882,7 +8882,7 @@
         "weekend_warrior",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-31T11:18:22Z"
+      "lastUpdated": "2026-05-31T11:21:12Z"
     },
     "deusvult1089": {
       "counters": {
@@ -9114,7 +9114,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 286,
+        "chat": 287,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9126,7 +9126,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-30T16:28:17Z"
+      "lastUpdated": "2026-05-31T11:22:08Z"
     },
     "noggen_": {
       "counters": {
@@ -9382,17 +9382,18 @@
     },
     "delpz10": {
       "counters": {
-        "chat": 3,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-05-31T11:16:20Z"
+      "lastUpdated": "2026-05-31T11:22:40Z"
     }
   },
-  "lastUpdated": "2026-05-31T10:18:31Z",
+  "lastUpdated": "2026-05-31T10:22:41Z",
   "totalUsers": 477,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
