@@ -3377,7 +3377,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3667,
+        "chat": 3669,
         "sub": 50,
         "points_spent": 350,
         "screenshot": 1,
@@ -3414,7 +3414,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-05-31T12:08:45Z"
+      "lastUpdated": "2026-05-31T12:08:59Z"
     },
     "majesty81": {
       "counters": {
@@ -9118,7 +9118,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 298,
+        "chat": 300,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9128,9 +9128,10 @@
         "chat_talker",
         "chat_conversationalist",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-31T12:08:41Z"
+      "lastUpdated": "2026-05-31T12:09:02Z"
     },
     "noggen_": {
       "counters": {
@@ -9397,7 +9398,7 @@
       "lastUpdated": "2026-05-31T11:22:40Z"
     }
   },
-  "lastUpdated": "2026-05-31T11:08:50Z",
+  "lastUpdated": "2026-05-31T11:09:03Z",
   "totalUsers": 477,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
