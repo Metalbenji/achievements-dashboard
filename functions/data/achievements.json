@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3631,
+        "chat": 3656,
         "points_spent": 90001,
         "effects": 18,
         "sub": 17,
@@ -1567,7 +1567,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-05-30T16:23:20Z"
+      "lastUpdated": "2026-05-31T11:11:58Z"
     },
     "celran": {
       "counters": {
@@ -3903,7 +3903,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 531,
+        "chat": 544,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -3930,7 +3930,7 @@
         "biggest_fan",
         "first_caller"
       ],
-      "lastUpdated": "2026-05-30T16:17:23Z"
+      "lastUpdated": "2026-05-31T11:03:39Z"
     },
     "mulquero": {
       "counters": {
@@ -4122,7 +4122,7 @@
     },
     "hopetusurvive": {
       "counters": {
-        "chat": 15,
+        "chat": 19,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -4132,7 +4132,7 @@
         "chat_talker",
         "bday2025_attend"
       ],
-      "lastUpdated": "2025-07-28T18:43:02Z"
+      "lastUpdated": "2026-05-31T11:12:38Z"
     },
     "hsdmon": {
       "counters": {
@@ -5230,8 +5230,8 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 1032,
-        "points_spent": 50451,
+        "chat": 1069,
+        "points_spent": 50901,
         "effects": 11,
         "sounds": 15,
         "interactive": 16,
@@ -5283,7 +5283,7 @@
         "sound_dj",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-30T16:27:15Z"
+      "lastUpdated": "2026-05-31T11:05:22Z"
     },
     "jamie1496": {
       "counters": {
@@ -7196,17 +7196,18 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 707,
+        "chat": 709,
         "bits": 291,
         "follow": 1,
         "sub": 1,
-        "points_spent": 14750,
-        "effects": 13,
+        "points_spent": 15100,
+        "effects": 14,
         "sounds": 5,
         "screenshot": 10,
         "clips": 3,
-        "gift_subs": 2,
-        "interactive": 3
+        "gift_subs": 4,
+        "interactive": 3,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -7238,9 +7239,10 @@
         "spender_silver",
         "night_owl",
         "screenshot_enthusiast",
-        "effect_collector"
+        "effect_collector",
+        "gift_caring"
       ],
-      "lastUpdated": "2026-05-31T07:33:00Z"
+      "lastUpdated": "2026-05-31T11:10:18Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8659,7 +8661,7 @@
     "alrielda": {
       "counters": {
         "follow": 1,
-        "chat": 231,
+        "chat": 233,
         "sub": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -8688,7 +8690,7 @@
         "sub_committed",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-05-30T12:06:21Z"
+      "lastUpdated": "2026-05-31T10:45:44Z"
     },
     "galithoreu": {
       "counters": {
@@ -8732,7 +8734,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 107
+        "chat": 108
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8742,7 +8744,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-30T16:26:03Z"
+      "lastUpdated": "2026-05-31T11:11:45Z"
     },
     "drjohnshardmd": {
       "counters": {
@@ -8870,16 +8872,17 @@
     "applst0rm": {
       "counters": {
         "follow": 1,
-        "chat": 74
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-04-19T14:50:08Z"
+      "lastUpdated": "2026-05-31T11:13:41Z"
     },
     "deusvult1089": {
       "counters": {
@@ -9214,7 +9217,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 127,
+        "chat": 141,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9225,7 +9228,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-05-30T16:22:35Z"
+      "lastUpdated": "2026-05-31T11:12:43Z"
     },
     "discostarz": {
       "counters": {
@@ -9375,7 +9378,7 @@
       "lastUpdated": "2026-05-30T11:45:35Z"
     }
   },
-  "lastUpdated": "2026-05-31T06:33:29Z",
+  "lastUpdated": "2026-05-31T10:13:42Z",
   "totalUsers": 476,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
