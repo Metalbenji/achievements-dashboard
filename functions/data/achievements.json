@@ -1499,7 +1499,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3723,
+        "chat": 3725,
         "points_spent": 90401,
         "effects": 18,
         "sub": 17,
@@ -1567,7 +1567,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-05-31T14:16:00Z"
+      "lastUpdated": "2026-05-31T14:33:10Z"
     },
     "celran": {
       "counters": {
@@ -3075,7 +3075,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1506,
+        "chat": 1507,
         "points_spent": 102151,
         "sounds": 12,
         "effects": 99,
@@ -3158,7 +3158,7 @@
         "spender_platinum",
         "chat_expert"
       ],
-      "lastUpdated": "2026-05-31T14:07:19Z"
+      "lastUpdated": "2026-05-31T14:28:02Z"
     },
     "andilippi": {
       "counters": {
@@ -4415,7 +4415,7 @@
     "wowsmael": {
       "counters": {
         "follow": 1,
-        "chat": 80,
+        "chat": 85,
         "points_spent": 500,
         "sounds": 1,
         "sub": 18,
@@ -4438,7 +4438,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2026-05-31T14:25:24Z"
+      "lastUpdated": "2026-05-31T14:33:05Z"
     },
     "dustingorbit": {
       "counters": {
@@ -7206,7 +7206,7 @@
         "bits": 291,
         "follow": 1,
         "sub": 1,
-        "points_spent": 15100,
+        "points_spent": 45100,
         "effects": 14,
         "sounds": 5,
         "screenshot": 10,
@@ -7246,9 +7246,10 @@
         "night_owl",
         "screenshot_enthusiast",
         "effect_collector",
-        "gift_caring"
+        "gift_caring",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-05-31T11:10:18Z"
+      "lastUpdated": "2026-06-01T18:35:06Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9121,7 +9122,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 368,
+        "chat": 373,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9134,7 +9135,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-31T14:23:07Z"
+      "lastUpdated": "2026-05-31T14:32:55Z"
     },
     "noggen_": {
       "counters": {
@@ -9404,16 +9405,16 @@
     "polski67uk": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-05-31T14:26:13Z"
+      "lastUpdated": "2026-05-31T14:26:35Z"
     }
   },
-  "lastUpdated": "2026-05-31T13:26:15Z",
+  "lastUpdated": "2026-06-01T17:35:08Z",
   "totalUsers": 478,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
