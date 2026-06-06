@@ -2487,7 +2487,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3820,
+        "chat": 3822,
         "points_spent": 80900,
         "effects": 25,
         "sub": 47,
@@ -2572,7 +2572,7 @@
         "interactive_first",
         "effect_master"
       ],
-      "lastUpdated": "2026-06-06T11:33:04Z"
+      "lastUpdated": "2026-06-06T11:35:51Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4994,7 +4994,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 371
+        "chat": 373
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5006,7 +5006,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-06T11:32:12Z"
+      "lastUpdated": "2026-06-06T11:36:20Z"
     },
     "dinshara": {
       "counters": {
@@ -6634,7 +6634,7 @@
       "counters": {
         "points_spent": 21457,
         "special_rewards": 1,
-        "chat": 383,
+        "chat": 385,
         "effects": 4,
         "follow": 1,
         "sub": 13
@@ -6667,7 +6667,7 @@
         "spender_iron",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-06T11:34:09Z"
+      "lastUpdated": "2026-06-06T11:36:20Z"
     },
     "otocar": {
       "counters": {
@@ -7331,7 +7331,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 779,
+        "chat": 784,
         "points_spent": 21401,
         "screenshot": 1,
         "effects": 3,
@@ -7364,7 +7364,7 @@
         "spender_iron",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-06-06T11:34:10Z"
+      "lastUpdated": "2026-06-06T11:36:20Z"
     },
     "wigz666": {
       "counters": {
@@ -9421,16 +9421,17 @@
     "infincible": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-06-06T11:34:46Z"
+      "lastUpdated": "2026-06-06T11:37:03Z"
     }
   },
-  "lastUpdated": "2026-06-06T10:34:47Z",
+  "lastUpdated": "2026-06-06T10:37:04Z",
   "totalUsers": 479,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
