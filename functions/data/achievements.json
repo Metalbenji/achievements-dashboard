@@ -1736,7 +1736,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2457,
+        "chat": 2469,
         "points_spent": 62206,
         "interactive": 45,
         "follow": 1,
@@ -1789,11 +1789,11 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-06T15:54:03Z"
+      "lastUpdated": "2026-06-06T16:46:51Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 572,
+        "chat": 581,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1831,7 +1831,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-06-06T15:53:03Z"
+      "lastUpdated": "2026-06-06T17:01:58Z"
     },
     "scoman07": {
       "counters": {
@@ -2160,7 +2160,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1713,
+        "chat": 1718,
         "points_spent": 130116,
         "effects": 21,
         "sounds": 10,
@@ -2213,7 +2213,7 @@
         "biggest_fan",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-06-06T15:40:16Z"
+      "lastUpdated": "2026-06-06T16:54:31Z"
     },
     "anzerou": {
       "counters": {
@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3884,
+        "chat": 3888,
         "points_spent": 81700,
         "effects": 26,
         "sub": 47,
@@ -2584,7 +2584,7 @@
         "interactive_first",
         "effect_master"
       ],
-      "lastUpdated": "2026-06-06T15:39:19Z"
+      "lastUpdated": "2026-06-06T16:06:41Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5503,13 +5503,14 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-12-20T14:40:56Z"
+      "lastUpdated": "2026-06-06T17:36:48Z"
     },
     "stellabellas": {
       "counters": {
@@ -7062,7 +7063,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1479,
+        "chat": 1481,
         "points_spent": 76904,
         "sounds": 23,
         "effects": 16,
@@ -7112,7 +7113,7 @@
         "effect_collector",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-06-06T15:38:18Z"
+      "lastUpdated": "2026-06-06T15:54:54Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7343,7 +7344,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 817,
+        "chat": 828,
         "points_spent": 30201,
         "screenshot": 1,
         "effects": 4,
@@ -7378,7 +7379,7 @@
         "spender_electrum",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-06-06T12:08:24Z"
+      "lastUpdated": "2026-06-06T15:57:29Z"
     },
     "wigz666": {
       "counters": {
@@ -9476,7 +9477,7 @@
     "prestoncodes3": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 14,
         "points_spent": 200,
         "effects": 1
       },
@@ -9487,10 +9488,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-06-06T15:54:47Z"
+      "lastUpdated": "2026-06-06T15:57:31Z"
     }
   },
-  "lastUpdated": "2026-06-06T14:54:49Z",
+  "lastUpdated": "2026-06-06T16:36:49Z",
   "totalUsers": 481,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
