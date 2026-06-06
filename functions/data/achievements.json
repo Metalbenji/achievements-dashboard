@@ -1605,9 +1605,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1035,
-        "points_spent": 56454,
-        "effects": 33,
+        "chat": 1040,
+        "points_spent": 56754,
+        "effects": 34,
         "follow": 1,
         "sub": 36,
         "sounds": 22,
@@ -1667,7 +1667,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-06-06T11:58:19Z"
+      "lastUpdated": "2026-06-06T12:11:17Z"
     },
     "ramdon101": {
       "counters": {
@@ -1734,11 +1734,11 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2435,
+        "chat": 2437,
         "points_spent": 62206,
         "interactive": 45,
         "follow": 1,
-        "sub": 41,
+        "sub": 42,
         "effects": 6,
         "sounds": 1,
         "clips": 2,
@@ -1787,7 +1787,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-31T14:04:01Z"
+      "lastUpdated": "2026-06-06T12:09:02Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2158,7 +2158,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1696,
+        "chat": 1700,
         "points_spent": 130116,
         "effects": 21,
         "sounds": 10,
@@ -2211,7 +2211,7 @@
         "biggest_fan",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-06-06T11:59:13Z"
+      "lastUpdated": "2026-06-06T12:05:41Z"
     },
     "anzerou": {
       "counters": {
@@ -2910,7 +2910,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 841,
+        "chat": 842,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -2947,7 +2947,7 @@
         "sub_legendary",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-06-06T12:00:55Z"
+      "lastUpdated": "2026-06-06T12:01:46Z"
     },
     "ppjackson69": {
       "counters": {
@@ -7331,7 +7331,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 804,
+        "chat": 817,
         "points_spent": 30201,
         "screenshot": 1,
         "effects": 4,
@@ -7366,7 +7366,7 @@
         "spender_electrum",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-06-06T12:01:27Z"
+      "lastUpdated": "2026-06-06T12:08:24Z"
     },
     "wigz666": {
       "counters": {
@@ -9423,7 +9423,7 @@
     "infincible": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 38
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9432,11 +9432,20 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-06-06T12:01:43Z"
+      "lastUpdated": "2026-06-06T12:11:59Z"
+    },
+    "chillidragon": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-06-06T12:12:45Z"
     }
   },
-  "lastUpdated": "2026-06-06T11:01:44Z",
-  "totalUsers": 479,
+  "lastUpdated": "2026-06-06T11:12:47Z",
+  "totalUsers": 480,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
