@@ -1605,7 +1605,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1043,
+        "chat": 1045,
         "points_spent": 56754,
         "effects": 34,
         "follow": 1,
@@ -1667,7 +1667,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-06-06T12:28:52Z"
+      "lastUpdated": "2026-06-06T13:31:38Z"
     },
     "ramdon101": {
       "counters": {
@@ -3381,7 +3381,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3758,
+        "chat": 3761,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3418,7 +3418,7 @@
         "sub_legendary",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T09:35:38Z"
+      "lastUpdated": "2026-06-06T13:31:26Z"
     },
     "majesty81": {
       "counters": {
@@ -9186,7 +9186,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 178,
+        "chat": 180,
         "follow": 1,
         "points_spent": 300,
         "effects": 1
@@ -9200,7 +9200,7 @@
         "chat_regular",
         "effect_first"
       ],
-      "lastUpdated": "2026-06-06T13:30:06Z"
+      "lastUpdated": "2026-06-06T13:31:30Z"
     },
     "discostarz": {
       "counters": {
@@ -9437,17 +9437,18 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-06-06T13:30:14Z"
+      "lastUpdated": "2026-06-06T13:31:50Z"
     }
   },
-  "lastUpdated": "2026-06-06T12:30:16Z",
+  "lastUpdated": "2026-06-06T12:31:51Z",
   "totalUsers": 480,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
