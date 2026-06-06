@@ -1967,7 +1967,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 486,
+        "chat": 496,
         "sub": 7,
         "points_spent": 6350,
         "sounds": 3,
@@ -1997,7 +1997,7 @@
         "chat_dedicated",
         "clip_first"
       ],
-      "lastUpdated": "2026-05-17T15:35:32Z"
+      "lastUpdated": "2026-06-06T08:08:33Z"
     },
     "sealdancer": {
       "counters": {
@@ -2485,7 +2485,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3740,
+        "chat": 3744,
         "points_spent": 80050,
         "effects": 23,
         "sub": 47,
@@ -2569,7 +2569,7 @@
         "biggest_fan",
         "interactive_first"
       ],
-      "lastUpdated": "2026-05-31T12:43:15Z"
+      "lastUpdated": "2026-06-06T08:06:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3609,7 +3609,7 @@
       "counters": {
         "follow": 1,
         "chat": 2034,
-        "points_spent": 68900,
+        "points_spent": 68901,
         "effects": 7,
         "interactive": 18,
         "screenshot": 2,
@@ -3640,9 +3640,10 @@
         "spender_electrum",
         "spender_gold",
         "chat_expert",
-        "sound_dj"
+        "sound_dj",
+        "first_caller"
       ],
-      "lastUpdated": "2026-05-28T21:09:07Z"
+      "lastUpdated": "2026-06-06T08:09:12Z"
     },
     "roffelonator": {
       "counters": {
@@ -7208,7 +7209,7 @@
         "sub": 1,
         "points_spent": 45100,
         "effects": 14,
-        "sounds": 5,
+        "sounds": 6,
         "screenshot": 10,
         "clips": 3,
         "gift_subs": 4,
@@ -7249,7 +7250,7 @@
         "gift_caring",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-06-01T18:35:06Z"
+      "lastUpdated": "2026-06-01T18:35:09Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8754,54 +8755,6 @@
       ],
       "lastUpdated": "2026-05-31T13:40:32Z"
     },
-    "drjohnshardmd": {
-      "counters": {
-        "follow": 1,
-        "chat": 1934,
-        "points_spent": 70101,
-        "sounds": 4,
-        "sub": 29,
-        "clips": 1,
-        "gift_subs": 1,
-        "sub_tier": 1
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "first_caller",
-        "chat_conversationalist",
-        "bday2025_attend",
-        "chat_regular",
-        "sound_first",
-        "sub_tier1",
-        "sub_first_month",
-        "sub_supporter",
-        "sub_loyal",
-        "sub_dedicated",
-        "sub_committed",
-        "sub_veteran",
-        "sub_champion",
-        "sub_platinum",
-        "sub_tier3",
-        "chat_frequent",
-        "chat_dedicated",
-        "sub_diamond",
-        "spender_bronze",
-        "spender_silver",
-        "chat_enthusiast",
-        "night_owl",
-        "chat_champion",
-        "spender_iron",
-        "clip_first",
-        "spender_electrum",
-        "spender_gold",
-        "gift_starter",
-        "chat_expert"
-      ],
-      "lastUpdated": "2026-05-28T21:17:43Z"
-    },
     "mrlawson__": {
       "counters": {
         "follow": 1,
@@ -9412,9 +9365,57 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-05-31T14:26:35Z"
+    },
+    "shard_lin": {
+      "counters": {
+        "follow": 1,
+        "chat": 1937,
+        "points_spent": 70101,
+        "sounds": 4,
+        "sub": 29,
+        "clips": 1,
+        "gift_subs": 1,
+        "sub_tier": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie",
+        "chat_talker",
+        "first_caller",
+        "chat_conversationalist",
+        "bday2025_attend",
+        "chat_regular",
+        "sound_first",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_tier3",
+        "chat_frequent",
+        "chat_dedicated",
+        "sub_diamond",
+        "spender_bronze",
+        "spender_silver",
+        "chat_enthusiast",
+        "night_owl",
+        "chat_champion",
+        "spender_iron",
+        "clip_first",
+        "spender_electrum",
+        "spender_gold",
+        "gift_starter",
+        "chat_expert"
+      ],
+      "lastUpdated": "2026-06-06T08:08:29Z"
     }
   },
-  "lastUpdated": "2026-06-01T17:35:08Z",
+  "lastUpdated": "2026-06-06T07:09:14Z",
   "totalUsers": 478,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
