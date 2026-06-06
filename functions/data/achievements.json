@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3353,
+        "chat": 3354,
         "points_spent": 171751,
         "screenshot": 1,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T22:36:47Z"
+      "lastUpdated": "2026-06-06T22:43:13Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1793,7 +1793,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 581,
+        "chat": 582,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1831,7 +1831,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-06-06T17:01:58Z"
+      "lastUpdated": "2026-06-06T22:43:15Z"
     },
     "scoman07": {
       "counters": {
@@ -2507,7 +2507,7 @@
         "bits": 5000,
         "screenshot": 2,
         "clips": 16,
-        "gift_subs": 483,
+        "gift_subs": 484,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 480,
         "largest_gift_bomb": 445,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-06T22:42:57Z"
+      "lastUpdated": "2026-06-06T22:43:19Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4274,7 +4274,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 98,
         "points_spent": 500,
         "effects": 1,
         "raid": 1
@@ -4290,7 +4290,7 @@
         "chat_conversationalist",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-06T22:43:02Z"
+      "lastUpdated": "2026-06-06T22:43:17Z"
     },
     "saluda777": {
       "counters": {
@@ -8773,7 +8773,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 112
+        "chat": 113
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8781,9 +8781,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "night_owl"
       ],
-      "lastUpdated": "2026-06-06T08:30:51Z"
+      "lastUpdated": "2026-06-06T22:43:21Z"
     },
     "mrlawson__": {
       "counters": {
@@ -9536,7 +9537,7 @@
       "lastUpdated": "2026-06-06T22:43:09Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:43:10Z",
+  "lastUpdated": "2026-06-06T21:43:22Z",
   "totalUsers": 484,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
