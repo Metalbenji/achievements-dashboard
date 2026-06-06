@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3881,
+        "chat": 3883,
         "points_spent": 81700,
         "effects": 26,
         "sub": 47,
@@ -2584,7 +2584,7 @@
         "interactive_first",
         "effect_master"
       ],
-      "lastUpdated": "2026-06-06T15:37:18Z"
+      "lastUpdated": "2026-06-06T15:39:06Z"
     },
     "purgemonster91": {
       "counters": {
@@ -9471,15 +9471,17 @@
     },
     "prestoncodes3": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-06-06T15:38:27Z"
+      "lastUpdated": "2026-06-06T15:39:16Z"
     }
   },
-  "lastUpdated": "2026-06-06T14:38:30Z",
+  "lastUpdated": "2026-06-06T14:39:18Z",
   "totalUsers": 481,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
