@@ -1673,14 +1673,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3360,
-        "points_spent": 193051,
+        "chat": 3361,
+        "points_spent": 193951,
         "screenshot": 1,
         "follow": 1,
         "sub": 53,
         "sounds": 9,
-        "effects": 13,
-        "interactive": 4,
+        "effects": 14,
+        "interactive": 5,
         "raid": 4,
         "gift_subs": 1,
         "sub_tier": 1
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T22:47:14Z"
+      "lastUpdated": "2026-06-06T22:50:33Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1793,7 +1793,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 583,
+        "chat": 584,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1831,7 +1831,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-06-06T22:47:30Z"
+      "lastUpdated": "2026-06-06T22:49:40Z"
     },
     "scoman07": {
       "counters": {
@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4073,
+        "chat": 4078,
         "points_spent": 83550,
         "effects": 31,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-06T22:46:48Z"
+      "lastUpdated": "2026-06-06T22:49:10Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3017,7 +3017,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 380,
+        "chat": 381,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -3044,7 +3044,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-06T22:43:04Z"
+      "lastUpdated": "2026-06-06T22:49:13Z"
     },
     "chevelletv": {
       "counters": {
@@ -4274,7 +4274,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 108,
+        "chat": 110,
         "points_spent": 500,
         "effects": 1,
         "raid": 1
@@ -4291,7 +4291,7 @@
         "raid_tier1_captain",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-06T22:47:00Z"
+      "lastUpdated": "2026-06-06T22:50:27Z"
     },
     "saluda777": {
       "counters": {
@@ -5508,8 +5508,8 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 49,
-        "points_spent": 700,
+        "chat": 51,
+        "points_spent": 1000,
         "effects": 2
       },
       "unlockedAchievements": [
@@ -5519,9 +5519,10 @@
         "chat_talker",
         "chat_conversationalist",
         "effect_first",
-        "night_owl"
+        "night_owl",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-06-06T22:47:21Z"
+      "lastUpdated": "2026-06-06T22:50:51Z"
     },
     "stellabellas": {
       "counters": {
@@ -8887,7 +8888,7 @@
     },
     "trilani": {
       "counters": {
-        "chat": 25,
+        "chat": 27,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8898,7 +8899,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2026-06-06T22:47:50Z"
+      "lastUpdated": "2026-06-06T22:49:27Z"
     },
     "killakris": {
       "counters": {
@@ -9534,17 +9535,17 @@
     "tyranus102": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-06-06T22:47:03Z"
+      "lastUpdated": "2026-06-06T22:49:35Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:47:53Z",
+  "lastUpdated": "2026-06-06T21:50:52Z",
   "totalUsers": 484,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
