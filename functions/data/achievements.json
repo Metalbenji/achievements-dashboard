@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3354,
+        "chat": 3355,
         "points_spent": 171751,
         "screenshot": 1,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T22:43:13Z"
+      "lastUpdated": "2026-06-06T22:43:47Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1870,8 +1870,8 @@
     },
     "lottec": {
       "counters": {
-        "points_spent": 6600,
-        "effects": 8,
+        "points_spent": 7100,
+        "effects": 9,
         "chat": 132,
         "sounds": 1,
         "follow": 1
@@ -1890,7 +1890,7 @@
         "chat_regular",
         "spender_iron"
       ],
-      "lastUpdated": "2026-06-06T10:58:39Z"
+      "lastUpdated": "2026-06-06T22:43:43Z"
     },
     "hairypawter": {
       "counters": {
@@ -4274,7 +4274,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 98,
+        "chat": 100,
         "points_spent": 500,
         "effects": 1,
         "raid": 1
@@ -4288,9 +4288,10 @@
         "weekend_warrior",
         "bday2025_attend",
         "chat_conversationalist",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-06-06T22:43:17Z"
+      "lastUpdated": "2026-06-06T22:44:05Z"
     },
     "saluda777": {
       "counters": {
@@ -9537,7 +9538,7 @@
       "lastUpdated": "2026-06-06T22:43:09Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:43:22Z",
+  "lastUpdated": "2026-06-06T21:44:06Z",
   "totalUsers": 484,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
