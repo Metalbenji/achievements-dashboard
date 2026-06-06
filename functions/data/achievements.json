@@ -3923,7 +3923,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 553,
+        "chat": 554,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -3948,9 +3948,10 @@
         "spender_electrum",
         "chat_dedicated",
         "biggest_fan",
-        "first_caller"
+        "first_caller",
+        "night_owl"
       ],
-      "lastUpdated": "2026-05-31T13:07:42Z"
+      "lastUpdated": "2026-06-06T22:42:54Z"
     },
     "mulquero": {
       "counters": {
@@ -4275,7 +4276,8 @@
         "follow": 1,
         "chat": 96,
         "points_spent": 500,
-        "effects": 1
+        "effects": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4285,9 +4287,10 @@
         "night_owl",
         "weekend_warrior",
         "bday2025_attend",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-06T19:04:57Z"
+      "lastUpdated": "2026-06-06T22:42:42Z"
     },
     "saluda777": {
       "counters": {
@@ -9524,7 +9527,7 @@
       "lastUpdated": "2026-06-06T22:20:41Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:42:43Z",
+  "lastUpdated": "2026-06-06T21:42:56Z",
   "totalUsers": 483,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
