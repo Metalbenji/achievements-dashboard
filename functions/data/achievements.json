@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3359,
+        "chat": 3360,
         "points_spent": 193051,
         "screenshot": 1,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T22:46:47Z"
+      "lastUpdated": "2026-06-06T22:47:14Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -5508,7 +5508,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 49,
         "points_spent": 700,
         "effects": 2
       },
@@ -5518,9 +5518,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "night_owl"
       ],
-      "lastUpdated": "2026-06-06T21:38:06Z"
+      "lastUpdated": "2026-06-06T22:47:21Z"
     },
     "stellabellas": {
       "counters": {
@@ -9541,7 +9542,7 @@
       "lastUpdated": "2026-06-06T22:47:03Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:47:07Z",
+  "lastUpdated": "2026-06-06T21:47:23Z",
   "totalUsers": 484,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
