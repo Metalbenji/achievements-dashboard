@@ -5503,14 +5503,14 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-06-06T17:36:48Z"
+      "lastUpdated": "2026-06-06T17:38:45Z"
     },
     "stellabellas": {
       "counters": {
@@ -7424,7 +7424,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 196,
+        "chat": 198,
         "points_spent": 20000,
         "sounds": 1,
         "clips": 2
@@ -7443,7 +7443,7 @@
         "chat_regular",
         "clip_first"
       ],
-      "lastUpdated": "2026-06-06T10:07:21Z"
+      "lastUpdated": "2026-06-06T17:39:47Z"
     },
     "anumra": {
       "counters": {
@@ -9489,10 +9489,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2026-06-06T15:57:31Z"
+    },
+    "h1k3_swe": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-06-06T17:40:54Z"
     }
   },
-  "lastUpdated": "2026-06-06T16:36:49Z",
-  "totalUsers": 481,
+  "lastUpdated": "2026-06-06T16:40:56Z",
+  "totalUsers": 482,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
