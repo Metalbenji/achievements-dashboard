@@ -2158,7 +2158,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1692,
+        "chat": 1693,
         "points_spent": 130116,
         "effects": 21,
         "sounds": 10,
@@ -2211,7 +2211,7 @@
         "biggest_fan",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-06-06T11:38:56Z"
+      "lastUpdated": "2026-06-06T11:44:01Z"
     },
     "anzerou": {
       "counters": {
@@ -2487,14 +2487,14 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3823,
-        "points_spent": 80900,
-        "effects": 25,
+        "chat": 3827,
+        "points_spent": 81250,
+        "effects": 26,
         "sub": 47,
         "sounds": 5,
         "bits": 5000,
         "screenshot": 2,
-        "clips": 14,
+        "clips": 15,
         "gift_subs": 482,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 480,
@@ -2572,7 +2572,7 @@
         "interactive_first",
         "effect_master"
       ],
-      "lastUpdated": "2026-06-06T11:39:31Z"
+      "lastUpdated": "2026-06-06T11:51:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7331,10 +7331,10 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 795,
-        "points_spent": 21401,
+        "chat": 800,
+        "points_spent": 29801,
         "screenshot": 1,
-        "effects": 3,
+        "effects": 4,
         "sounds": 1,
         "interactive": 39,
         "special_rewards": 1,
@@ -7362,9 +7362,10 @@
         "spender_silver",
         "chat_dedicated",
         "spender_iron",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-06-06T11:40:54Z"
+      "lastUpdated": "2026-06-06T11:52:54Z"
     },
     "wigz666": {
       "counters": {
@@ -9421,7 +9422,7 @@
     "infincible": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9429,10 +9430,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-06-06T11:41:56Z"
+      "lastUpdated": "2026-06-06T11:52:48Z"
     }
   },
-  "lastUpdated": "2026-06-06T10:41:57Z",
+  "lastUpdated": "2026-06-06T10:52:55Z",
   "totalUsers": 479,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
