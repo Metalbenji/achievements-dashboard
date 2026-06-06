@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 460,
+        "chat": 463,
         "points_spent": 48700,
         "follow": 1,
         "sub": 23,
@@ -1481,7 +1481,7 @@
         "chat_dedicated",
         "sound_first"
       ],
-      "lastUpdated": "2026-06-06T14:13:19Z"
+      "lastUpdated": "2026-06-06T14:16:54Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2489,7 +2489,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3852,
+        "chat": 3853,
         "points_spent": 81250,
         "effects": 26,
         "sub": 47,
@@ -2574,7 +2574,7 @@
         "interactive_first",
         "effect_master"
       ],
-      "lastUpdated": "2026-06-06T14:09:32Z"
+      "lastUpdated": "2026-06-06T14:17:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2621,7 +2621,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 418,
+        "chat": 419,
         "points_spent": 27701,
         "screenshot": 1,
         "sounds": 6,
@@ -2652,7 +2652,7 @@
         "biggest_fan",
         "night_owl"
       ],
-      "lastUpdated": "2026-06-06T13:59:37Z"
+      "lastUpdated": "2026-06-06T14:16:39Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -9439,18 +9439,27 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 13
+        "chat": 14,
+        "gift_subs": 5,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 5,
+        "largest_gift_bomb": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "gift_bomb_5",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring"
       ],
-      "lastUpdated": "2026-06-06T13:36:47Z"
+      "lastUpdated": "2026-06-06T14:14:38Z"
     }
   },
-  "lastUpdated": "2026-06-06T13:14:26Z",
+  "lastUpdated": "2026-06-06T13:17:13Z",
   "totalUsers": 480,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
