@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4070,
+        "chat": 4071,
         "points_spent": 83200,
         "effects": 30,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-06T22:40:40Z"
+      "lastUpdated": "2026-06-06T22:42:57Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3017,7 +3017,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 379,
+        "chat": 380,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -3044,7 +3044,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-18T14:52:09Z"
+      "lastUpdated": "2026-06-06T22:43:04Z"
     },
     "chevelletv": {
       "counters": {
@@ -4274,7 +4274,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 96,
+        "chat": 97,
         "points_spent": 500,
         "effects": 1,
         "raid": 1
@@ -4290,7 +4290,7 @@
         "chat_conversationalist",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-06T22:42:42Z"
+      "lastUpdated": "2026-06-06T22:43:02Z"
     },
     "saluda777": {
       "counters": {
@@ -9525,10 +9525,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-06-06T22:20:41Z"
+    },
+    "tyranus102": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-06-06T22:43:09Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:42:56Z",
-  "totalUsers": 483,
+  "lastUpdated": "2026-06-06T21:43:10Z",
+  "totalUsers": 484,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
