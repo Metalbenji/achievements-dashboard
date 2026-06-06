@@ -1791,7 +1791,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 567,
+        "chat": 568,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1829,7 +1829,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-06-06T11:33:32Z"
+      "lastUpdated": "2026-06-06T11:38:55Z"
     },
     "scoman07": {
       "counters": {
@@ -2158,7 +2158,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1690,
+        "chat": 1692,
         "points_spent": 130116,
         "effects": 21,
         "sounds": 10,
@@ -2211,7 +2211,7 @@
         "biggest_fan",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-06-06T11:33:44Z"
+      "lastUpdated": "2026-06-06T11:38:56Z"
     },
     "anzerou": {
       "counters": {
@@ -2487,7 +2487,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 3822,
+        "chat": 3823,
         "points_spent": 80900,
         "effects": 25,
         "sub": 47,
@@ -2572,7 +2572,7 @@
         "interactive_first",
         "effect_master"
       ],
-      "lastUpdated": "2026-06-06T11:35:51Z"
+      "lastUpdated": "2026-06-06T11:39:31Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2687,7 +2687,7 @@
         "chat": 286,
         "points_spent": 22000,
         "sounds": 2,
-        "sub": 38,
+        "sub": 39,
         "gift_subs": 32,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 32,
@@ -2731,7 +2731,7 @@
         "gift_hero",
         "gift_angel"
       ],
-      "lastUpdated": "2026-05-25T16:05:48Z"
+      "lastUpdated": "2026-06-06T11:41:23Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -4994,7 +4994,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 373
+        "chat": 374
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5006,7 +5006,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-06T11:36:20Z"
+      "lastUpdated": "2026-06-06T11:37:19Z"
     },
     "dinshara": {
       "counters": {
@@ -7331,7 +7331,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 784,
+        "chat": 795,
         "points_spent": 21401,
         "screenshot": 1,
         "effects": 3,
@@ -7364,7 +7364,7 @@
         "spender_iron",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-06-06T11:36:20Z"
+      "lastUpdated": "2026-06-06T11:40:54Z"
     },
     "wigz666": {
       "counters": {
@@ -7631,13 +7631,13 @@
     "senditlr": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2025-12-07T16:18:24Z"
+      "lastUpdated": "2026-06-06T11:38:48Z"
     },
     "donfoxelite": {
       "counters": {
@@ -9421,17 +9421,18 @@
     "infincible": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-06-06T11:37:03Z"
+      "lastUpdated": "2026-06-06T11:41:56Z"
     }
   },
-  "lastUpdated": "2026-06-06T10:37:04Z",
+  "lastUpdated": "2026-06-06T10:41:57Z",
   "totalUsers": 479,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
