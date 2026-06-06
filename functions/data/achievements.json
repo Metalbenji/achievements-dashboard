@@ -1673,14 +1673,14 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3355,
-        "points_spent": 171751,
+        "chat": 3359,
+        "points_spent": 193051,
         "screenshot": 1,
         "follow": 1,
         "sub": 53,
-        "sounds": 8,
+        "sounds": 9,
         "effects": 13,
-        "interactive": 1,
+        "interactive": 4,
         "raid": 4,
         "gift_subs": 1,
         "sub_tier": 1
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T22:43:47Z"
+      "lastUpdated": "2026-06-06T22:46:47Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2499,9 +2499,9 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4071,
-        "points_spent": 83200,
-        "effects": 30,
+        "chat": 4073,
+        "points_spent": 83550,
+        "effects": 31,
         "sub": 47,
         "sounds": 6,
         "bits": 5000,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-06T22:43:19Z"
+      "lastUpdated": "2026-06-06T22:46:48Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4274,7 +4274,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 108,
         "points_spent": 500,
         "effects": 1,
         "raid": 1
@@ -4291,7 +4291,7 @@
         "raid_tier1_captain",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-06T22:44:05Z"
+      "lastUpdated": "2026-06-06T22:47:00Z"
     },
     "saluda777": {
       "counters": {
@@ -8774,7 +8774,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 113
+        "chat": 115
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8785,7 +8785,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-06-06T22:43:21Z"
+      "lastUpdated": "2026-06-06T22:45:20Z"
     },
     "mrlawson__": {
       "counters": {
@@ -9530,15 +9530,17 @@
     },
     "tyranus102": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "night_owl"
       ],
-      "lastUpdated": "2026-06-06T22:43:09Z"
+      "lastUpdated": "2026-06-06T22:47:03Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:44:06Z",
+  "lastUpdated": "2026-06-06T21:47:05Z",
   "totalUsers": 484,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
