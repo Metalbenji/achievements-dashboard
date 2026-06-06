@@ -5503,7 +5503,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 14
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5511,7 +5511,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-06-06T17:44:41Z"
+      "lastUpdated": "2026-06-06T17:46:32Z"
     },
     "stellabellas": {
       "counters": {
@@ -7425,7 +7425,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "points_spent": 20000,
         "sounds": 1,
         "clips": 2
@@ -7442,9 +7442,10 @@
         "bday2025_attend",
         "spender_iron",
         "chat_regular",
-        "clip_first"
+        "clip_first",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-06-06T17:40:58Z"
+      "lastUpdated": "2026-06-06T17:47:01Z"
     },
     "anumra": {
       "counters": {
@@ -8723,7 +8724,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 111,
+        "chat": 114,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8735,7 +8736,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-06T17:43:58Z"
+      "lastUpdated": "2026-06-06T17:46:13Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9503,7 +9504,7 @@
       "lastUpdated": "2026-06-06T17:43:16Z"
     }
   },
-  "lastUpdated": "2026-06-06T16:44:42Z",
+  "lastUpdated": "2026-06-06T16:47:02Z",
   "totalUsers": 482,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
