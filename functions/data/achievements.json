@@ -7363,7 +7363,8 @@
         "chat_dedicated",
         "spender_iron",
         "chat_enthusiast",
-        "spender_electrum"
+        "spender_electrum",
+        "biggest_fan"
       ],
       "lastUpdated": "2026-06-06T11:52:54Z"
     },
@@ -9433,7 +9434,7 @@
       "lastUpdated": "2026-06-06T11:52:48Z"
     }
   },
-  "lastUpdated": "2026-06-06T10:52:55Z",
+  "lastUpdated": "2026-06-06T10:52:57Z",
   "totalUsers": 479,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
