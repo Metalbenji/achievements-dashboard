@@ -6722,7 +6722,7 @@
     },
     "legolich": {
       "counters": {
-        "chat": 99,
+        "chat": 100,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -6734,9 +6734,10 @@
         "follow_supporter",
         "chat_conversationalist",
         "spender_bronze",
-        "effect_first"
+        "effect_first",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-05-16T11:55:38Z"
+      "lastUpdated": "2026-06-06T20:48:24Z"
     },
     "provos": {
       "counters": {
@@ -9100,7 +9101,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 373,
+        "chat": 379,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -9116,7 +9117,7 @@
         "chat_dedicated",
         "effect_first"
       ],
-      "lastUpdated": "2026-06-06T20:36:18Z"
+      "lastUpdated": "2026-06-06T20:45:43Z"
     },
     "noggen_": {
       "counters": {
@@ -9511,7 +9512,7 @@
       "lastUpdated": "2026-06-06T17:43:16Z"
     }
   },
-  "lastUpdated": "2026-06-06T19:36:20Z",
+  "lastUpdated": "2026-06-06T19:48:26Z",
   "totalUsers": 482,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
