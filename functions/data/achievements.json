@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3333,
+        "chat": 3347,
         "points_spent": 171751,
         "screenshot": 1,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T21:39:03Z"
+      "lastUpdated": "2026-06-06T22:15:42Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2160,7 +2160,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1724,
+        "chat": 1733,
         "points_spent": 130466,
         "effects": 21,
         "sounds": 10,
@@ -2213,7 +2213,7 @@
         "biggest_fan",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-06-06T21:05:16Z"
+      "lastUpdated": "2026-06-06T22:14:14Z"
     },
     "anzerou": {
       "counters": {
@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4000,
+        "chat": 4042,
         "points_spent": 83200,
         "effects": 30,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-06T21:40:24Z"
+      "lastUpdated": "2026-06-06T22:12:26Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3091,7 +3091,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1536,
+        "chat": 1547,
         "points_spent": 102351,
         "sounds": 12,
         "effects": 100,
@@ -3175,7 +3175,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-06T21:39:13Z"
+      "lastUpdated": "2026-06-06T21:59:49Z"
     },
     "andilippi": {
       "counters": {
@@ -8881,7 +8881,7 @@
     },
     "trilani": {
       "counters": {
-        "chat": 23,
+        "chat": 24,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8890,7 +8890,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-06-06T21:16:44Z"
+      "lastUpdated": "2026-06-06T21:57:47Z"
     },
     "killakris": {
       "counters": {
@@ -9511,10 +9511,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-06-06T17:43:16Z"
+    },
+    "riverrrz": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "night_owl"
+      ],
+      "lastUpdated": "2026-06-06T22:17:30Z"
     }
   },
-  "lastUpdated": "2026-06-06T20:40:25Z",
-  "totalUsers": 482,
+  "lastUpdated": "2026-06-06T21:17:31Z",
+  "totalUsers": 483,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
