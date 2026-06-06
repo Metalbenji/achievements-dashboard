@@ -1736,7 +1736,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2456,
+        "chat": 2457,
         "points_spent": 62206,
         "interactive": 45,
         "follow": 1,
@@ -1789,11 +1789,11 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-06T15:40:02Z"
+      "lastUpdated": "2026-06-06T15:54:03Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 570,
+        "chat": 572,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1831,7 +1831,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-06-06T15:39:29Z"
+      "lastUpdated": "2026-06-06T15:53:03Z"
     },
     "scoman07": {
       "counters": {
@@ -9476,7 +9476,7 @@
     "prestoncodes3": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 10,
         "points_spent": 200,
         "effects": 1
       },
@@ -9484,12 +9484,13 @@
         "follow_supporter",
         "weekend_warrior",
         "effect_first",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-06-06T15:48:12Z"
+      "lastUpdated": "2026-06-06T15:54:47Z"
     }
   },
-  "lastUpdated": "2026-06-06T14:48:14Z",
+  "lastUpdated": "2026-06-06T14:54:49Z",
   "totalUsers": 481,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
