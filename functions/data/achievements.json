@@ -1443,7 +1443,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 463,
+        "chat": 465,
         "points_spent": 48700,
         "follow": 1,
         "sub": 23,
@@ -1481,7 +1481,7 @@
         "chat_dedicated",
         "sound_first"
       ],
-      "lastUpdated": "2026-06-06T14:16:54Z"
+      "lastUpdated": "2026-06-06T14:34:09Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1736,7 +1736,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2448,
+        "chat": 2449,
         "points_spent": 62206,
         "interactive": 45,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-06T14:09:31Z"
+      "lastUpdated": "2026-06-06T14:29:27Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2250,7 +2250,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 164,
+        "chat": 165,
         "points_spent": 62650,
         "sounds": 2,
         "interactive": 1,
@@ -2274,7 +2274,7 @@
         "biggest_fan",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-06T13:46:52Z"
+      "lastUpdated": "2026-06-06T14:17:24Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2445,13 +2445,17 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 432,
+        "chat": 433,
         "sub": 32,
         "points_spent": 8600,
         "screenshot": 2,
         "sounds": 1,
         "effects": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "gift_subs": 7,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 7,
+        "largest_gift_bomb": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2482,9 +2486,15 @@
         "chat_dedicated",
         "sub_elite",
         "spender_iron",
-        "biggest_fan"
+        "biggest_fan",
+        "gift_bomb_5",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful"
       ],
-      "lastUpdated": "2026-06-06T13:22:22Z"
+      "lastUpdated": "2026-06-06T14:19:32Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2768,8 +2778,8 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 20400,
-        "effects": 46,
+        "points_spent": 20750,
+        "effects": 47,
         "follow": 1,
         "chat": 215,
         "interactive": 2,
@@ -2796,7 +2806,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-06-06T13:53:15Z"
+      "lastUpdated": "2026-06-06T14:21:50Z"
     },
     "s3n71": {
       "counters": {
@@ -7052,13 +7062,13 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1438,
-        "points_spent": 75354,
+        "chat": 1445,
+        "points_spent": 76904,
         "sounds": 23,
-        "effects": 13,
+        "effects": 16,
         "screenshot": 2,
         "sub": 19,
-        "interactive": 10,
+        "interactive": 11,
         "bits": 200,
         "sub_tier": 1
       },
@@ -7102,7 +7112,7 @@
         "effect_collector",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-06-06T13:59:32Z"
+      "lastUpdated": "2026-06-06T14:29:02Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7209,7 +7219,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 709,
+        "chat": 710,
         "bits": 291,
         "follow": 1,
         "sub": 1,
@@ -7256,7 +7266,7 @@
         "gift_caring",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-06-01T18:35:09Z"
+      "lastUpdated": "2026-06-06T14:24:37Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9439,7 +9449,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 14,
+        "chat": 25,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -9454,12 +9464,13 @@
         "gift_bombs_first",
         "gift_starter",
         "gift_kind",
-        "gift_caring"
+        "gift_caring",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-06-06T14:14:38Z"
+      "lastUpdated": "2026-06-06T14:35:27Z"
     }
   },
-  "lastUpdated": "2026-06-06T13:17:24Z",
+  "lastUpdated": "2026-06-06T13:35:29Z",
   "totalUsers": 480,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
