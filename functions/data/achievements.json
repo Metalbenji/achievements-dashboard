@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3347,
+        "chat": 3348,
         "points_spent": 171751,
         "screenshot": 1,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-06T22:15:42Z"
+      "lastUpdated": "2026-06-06T22:18:18Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4042,
+        "chat": 4044,
         "points_spent": 83200,
         "effects": 30,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-06T22:12:26Z"
+      "lastUpdated": "2026-06-06T22:18:33Z"
     },
     "purgemonster91": {
       "counters": {
@@ -9514,16 +9514,17 @@
     },
     "riverrrz": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-06-06T22:17:30Z"
+      "lastUpdated": "2026-06-06T22:19:10Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:17:33Z",
+  "lastUpdated": "2026-06-06T21:19:11Z",
   "totalUsers": 483,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
