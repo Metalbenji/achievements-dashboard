@@ -8895,7 +8895,8 @@
         "follow_supporter",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "night_owl"
       ],
       "lastUpdated": "2026-06-06T22:47:50Z"
     },
@@ -9543,7 +9544,7 @@
       "lastUpdated": "2026-06-06T22:47:03Z"
     }
   },
-  "lastUpdated": "2026-06-06T21:47:52Z",
+  "lastUpdated": "2026-06-06T21:47:53Z",
   "totalUsers": 484,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
