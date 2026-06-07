@@ -9546,15 +9546,16 @@
     },
     "cradzygd": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-06-07T09:56:40Z"
+      "lastUpdated": "2026-06-07T09:57:47Z"
     }
   },
-  "lastUpdated": "2026-06-07T08:56:41Z",
+  "lastUpdated": "2026-06-07T08:57:48Z",
   "totalUsers": 485,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
