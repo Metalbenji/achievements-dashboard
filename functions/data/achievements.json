@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4103,
+        "chat": 4106,
         "points_spent": 83900,
         "effects": 32,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-07T09:59:13Z"
+      "lastUpdated": "2026-06-07T10:02:03Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 377,
+        "chat": 385,
         "points_spent": 21300,
         "interactive": 3,
         "effects": 4,
@@ -2692,7 +2692,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-07T10:00:20Z"
+      "lastUpdated": "2026-06-07T10:06:38Z"
     },
     "qyainiana": {
       "counters": {
@@ -7076,7 +7076,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1484,
+        "chat": 1486,
         "points_spent": 76904,
         "sounds": 23,
         "effects": 16,
@@ -7126,7 +7126,7 @@
         "effect_collector",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-06-07T09:53:57Z"
+      "lastUpdated": "2026-06-07T10:04:48Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7706,7 +7706,7 @@
     },
     "lesthelegend": {
       "counters": {
-        "chat": 915,
+        "chat": 918,
         "follow": 1,
         "points_spent": 10901,
         "screenshot": 2,
@@ -7742,7 +7742,7 @@
         "chat_enthusiast",
         "spender_iron"
       ],
-      "lastUpdated": "2026-04-19T10:48:52Z"
+      "lastUpdated": "2026-06-07T10:08:03Z"
     },
     "richiecuhh": {
       "counters": {
@@ -9219,7 +9219,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 183,
+        "chat": 184,
         "follow": 1,
         "points_spent": 300,
         "effects": 1
@@ -9233,7 +9233,7 @@
         "chat_regular",
         "effect_first"
       ],
-      "lastUpdated": "2026-06-06T20:22:32Z"
+      "lastUpdated": "2026-06-07T10:08:21Z"
     },
     "discostarz": {
       "counters": {
@@ -9546,17 +9546,18 @@
     },
     "cradzygd": {
       "counters": {
-        "chat": 10
+        "chat": 25
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-06-07T10:00:54Z"
+      "lastUpdated": "2026-06-07T10:08:52Z"
     }
   },
-  "lastUpdated": "2026-06-07T09:00:55Z",
+  "lastUpdated": "2026-06-07T09:08:53Z",
   "totalUsers": 485,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
