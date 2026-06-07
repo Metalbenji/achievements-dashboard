@@ -1607,7 +1607,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1057,
+        "chat": 1059,
         "points_spent": 57104,
         "effects": 35,
         "follow": 1,
@@ -1669,7 +1669,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-06-07T11:54:30Z"
+      "lastUpdated": "2026-06-07T12:08:14Z"
     },
     "ramdon101": {
       "counters": {
@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4137,
+        "chat": 4144,
         "points_spent": 83900,
         "effects": 32,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-07T12:00:41Z"
+      "lastUpdated": "2026-06-07T12:05:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 404,
+        "chat": 405,
         "points_spent": 23300,
         "interactive": 7,
         "effects": 4,
@@ -2692,7 +2692,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-07T11:58:14Z"
+      "lastUpdated": "2026-06-07T12:09:17Z"
     },
     "qyainiana": {
       "counters": {
@@ -3093,7 +3093,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1574,
+        "chat": 1582,
         "points_spent": 102851,
         "sounds": 12,
         "effects": 101,
@@ -3177,7 +3177,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-07T11:57:41Z"
+      "lastUpdated": "2026-06-07T12:08:57Z"
     },
     "andilippi": {
       "counters": {
@@ -5259,7 +5259,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 1158,
+        "chat": 1160,
         "points_spent": 53301,
         "effects": 11,
         "sounds": 16,
@@ -5325,7 +5325,7 @@
         "gift_angel",
         "gift_patron"
       ],
-      "lastUpdated": "2026-06-07T12:00:08Z"
+      "lastUpdated": "2026-06-07T12:02:54Z"
     },
     "jamie1496": {
       "counters": {
@@ -9235,7 +9235,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 199,
+        "chat": 200,
         "follow": 1,
         "points_spent": 300,
         "effects": 1
@@ -9247,9 +9247,10 @@
         "chat_talker",
         "chat_conversationalist",
         "chat_regular",
-        "effect_first"
+        "effect_first",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-06-07T11:54:39Z"
+      "lastUpdated": "2026-06-07T12:10:09Z"
     },
     "discostarz": {
       "counters": {
@@ -9573,7 +9574,7 @@
       "lastUpdated": "2026-06-07T10:09:16Z"
     }
   },
-  "lastUpdated": "2026-06-07T11:01:21Z",
+  "lastUpdated": "2026-06-07T11:10:10Z",
   "totalUsers": 485,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
