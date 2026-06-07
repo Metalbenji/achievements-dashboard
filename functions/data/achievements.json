@@ -1736,7 +1736,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2534,
+        "chat": 2542,
         "points_spent": 62206,
         "interactive": 45,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-07T14:39:57Z"
+      "lastUpdated": "2026-06-07T14:53:52Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2500,7 +2500,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4182,
+        "chat": 4190,
         "points_spent": 84600,
         "effects": 34,
         "sub": 47,
@@ -2586,7 +2586,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-07T14:37:49Z"
+      "lastUpdated": "2026-06-07T14:55:18Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3021,7 +3021,7 @@
     "cheerfulprophet": {
       "counters": {
         "follow": 1,
-        "chat": 387,
+        "chat": 388,
         "bits": 15,
         "sub": 15,
         "points_spent": 1
@@ -3048,7 +3048,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-07T14:38:03Z"
+      "lastUpdated": "2026-06-07T14:50:02Z"
     },
     "chevelletv": {
       "counters": {
@@ -3095,10 +3095,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1600,
-        "points_spent": 104201,
+        "chat": 1606,
+        "points_spent": 104401,
         "sounds": 12,
-        "effects": 102,
+        "effects": 103,
         "sub": 50,
         "bits": 13552,
         "interactive": 7,
@@ -3179,7 +3179,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-07T14:37:34Z"
+      "lastUpdated": "2026-06-07T14:54:08Z"
     },
     "andilippi": {
       "counters": {
@@ -3362,11 +3362,12 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 170,
+        "chat": 180,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
-        "sounds": 2
+        "sounds": 2,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3391,9 +3392,10 @@
         "spender_iron",
         "spender_silver",
         "sound_first",
-        "spender_electrum"
+        "spender_electrum",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-07T12:15:43Z"
+      "lastUpdated": "2026-06-07T14:46:11Z"
     },
     "awildbubbles": {
       "counters": {
@@ -5261,7 +5263,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 1191,
+        "chat": 1198,
         "points_spent": 55601,
         "effects": 12,
         "sounds": 17,
@@ -5327,7 +5329,7 @@
         "gift_angel",
         "gift_patron"
       ],
-      "lastUpdated": "2026-06-07T14:39:58Z"
+      "lastUpdated": "2026-06-07T14:53:51Z"
     },
     "jamie1496": {
       "counters": {
@@ -9575,10 +9577,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2026-06-07T10:09:16Z"
+    },
+    "laurab28291": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-06-07T14:55:58Z"
     }
   },
-  "lastUpdated": "2026-06-07T13:41:19Z",
-  "totalUsers": 485,
+  "lastUpdated": "2026-06-07T13:55:59Z",
+  "totalUsers": 486,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
