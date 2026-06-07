@@ -1607,7 +1607,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1092,
+        "chat": 1115,
         "points_spent": 57604,
         "effects": 35,
         "follow": 1,
@@ -1669,7 +1669,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-06-07T17:02:14Z"
+      "lastUpdated": "2026-06-07T17:26:49Z"
     },
     "ramdon101": {
       "counters": {
@@ -1793,7 +1793,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 589,
+        "chat": 603,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1831,7 +1831,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-06-07T16:51:43Z"
+      "lastUpdated": "2026-06-07T17:27:00Z"
     },
     "scoman07": {
       "counters": {
@@ -3095,7 +3095,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1633,
+        "chat": 1636,
         "points_spent": 104401,
         "sounds": 12,
         "effects": 103,
@@ -3179,7 +3179,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-07T16:52:35Z"
+      "lastUpdated": "2026-06-07T17:23:31Z"
     },
     "andilippi": {
       "counters": {
@@ -3400,7 +3400,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3853,
+        "chat": 3854,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3439,7 +3439,7 @@
         "chat_master_tier",
         "gift_starter"
       ],
-      "lastUpdated": "2026-06-07T16:37:51Z"
+      "lastUpdated": "2026-06-07T17:06:48Z"
     },
     "majesty81": {
       "counters": {
@@ -4282,7 +4282,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 114,
+        "chat": 125,
         "points_spent": 500,
         "effects": 1,
         "raid": 1
@@ -4299,7 +4299,7 @@
         "raid_tier1_captain",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-07T17:02:23Z"
+      "lastUpdated": "2026-06-07T17:15:23Z"
     },
     "saluda777": {
       "counters": {
@@ -5531,7 +5531,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 100,
         "points_spent": 1000,
         "effects": 3
       },
@@ -5543,9 +5543,10 @@
         "chat_conversationalist",
         "effect_first",
         "night_owl",
-        "spender_bronze"
+        "spender_bronze",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-06-07T17:01:58Z"
+      "lastUpdated": "2026-06-07T17:27:22Z"
     },
     "stellabellas": {
       "counters": {
@@ -7099,7 +7100,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1536,
+        "chat": 1553,
         "points_spent": 77904,
         "sounds": 24,
         "effects": 17,
@@ -7150,7 +7151,7 @@
         "interactive_regular",
         "chat_expert"
       ],
-      "lastUpdated": "2026-06-07T16:52:56Z"
+      "lastUpdated": "2026-06-07T17:25:12Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8760,7 +8761,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 127,
+        "chat": 128,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8772,7 +8773,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-06T22:35:50Z"
+      "lastUpdated": "2026-06-07T17:02:58Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9316,7 +9317,7 @@
     "epoch70": {
       "counters": {
         "follow": 1,
-        "chat": 12
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9324,7 +9325,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-06-07T16:45:35Z"
+      "lastUpdated": "2026-06-07T17:26:31Z"
     },
     "mstotoroe": {
       "counters": {
@@ -9355,14 +9356,14 @@
     },
     "rayahaa": {
       "counters": {
-        "chat": 3,
+        "chat": 4,
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-06-07T17:02:34Z"
+      "lastUpdated": "2026-06-07T17:03:00Z"
     },
     "inovas_": {
       "counters": {
@@ -9624,7 +9625,7 @@
       "lastUpdated": "2026-06-07T16:24:04Z"
     }
   },
-  "lastUpdated": "2026-06-07T16:02:35Z",
+  "lastUpdated": "2026-06-07T16:27:23Z",
   "totalUsers": 488,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
