@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3364,
+        "chat": 3368,
         "points_spent": 193951,
         "screenshot": 1,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-07T09:47:59Z"
+      "lastUpdated": "2026-06-07T10:45:53Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2160,7 +2160,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1742,
+        "chat": 1746,
         "points_spent": 130467,
         "effects": 21,
         "sounds": 10,
@@ -2213,7 +2213,7 @@
         "biggest_fan",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-06-07T09:43:22Z"
+      "lastUpdated": "2026-06-07T10:45:17Z"
     },
     "anzerou": {
       "counters": {
@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4106,
+        "chat": 4123,
         "points_spent": 83900,
         "effects": 32,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-07T10:02:03Z"
+      "lastUpdated": "2026-06-07T10:45:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2668,9 +2668,9 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 385,
-        "points_spent": 21300,
-        "interactive": 3,
+        "chat": 400,
+        "points_spent": 23300,
+        "interactive": 7,
         "effects": 4,
         "sounds": 2
       },
@@ -2692,7 +2692,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-07T10:06:38Z"
+      "lastUpdated": "2026-06-07T10:28:34Z"
     },
     "qyainiana": {
       "counters": {
@@ -3091,7 +3091,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1560,
+        "chat": 1568,
         "points_spent": 102351,
         "sounds": 12,
         "effects": 100,
@@ -3175,7 +3175,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-07T09:59:27Z"
+      "lastUpdated": "2026-06-07T10:44:49Z"
     },
     "andilippi": {
       "counters": {
@@ -4873,7 +4873,8 @@
       "counters": {
         "chat": 165,
         "follow": 1,
-        "sub": 10
+        "sub": 12,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -4894,7 +4895,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2026-04-04T13:58:44Z"
+      "lastUpdated": "2026-06-07T10:45:21Z"
     },
     "nightboy009": {
       "counters": {
@@ -5011,7 +5012,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 374
+        "chat": 376
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5023,7 +5024,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-06T11:37:19Z"
+      "lastUpdated": "2026-06-07T10:26:59Z"
     },
     "dinshara": {
       "counters": {
@@ -5256,12 +5257,12 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 1117,
+        "chat": 1133,
         "points_spent": 53301,
         "effects": 11,
         "sounds": 16,
         "interactive": 17,
-        "sub": 32,
+        "sub": 33,
         "clips": 1,
         "sub_tier": 3,
         "screenshot": 1,
@@ -5309,7 +5310,7 @@
         "sound_dj",
         "chat_champion"
       ],
-      "lastUpdated": "2026-05-31T12:27:41Z"
+      "lastUpdated": "2026-06-07T10:45:26Z"
     },
     "jamie1496": {
       "counters": {
@@ -7076,7 +7077,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1486,
+        "chat": 1488,
         "points_spent": 76904,
         "sounds": 23,
         "effects": 16,
@@ -7126,7 +7127,7 @@
         "effect_collector",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-06-07T10:04:48Z"
+      "lastUpdated": "2026-06-07T10:23:25Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9219,7 +9220,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 184,
+        "chat": 192,
         "follow": 1,
         "points_spent": 300,
         "effects": 1
@@ -9233,7 +9234,7 @@
         "chat_regular",
         "effect_first"
       ],
-      "lastUpdated": "2026-06-07T10:08:21Z"
+      "lastUpdated": "2026-06-07T10:11:50Z"
     },
     "discostarz": {
       "counters": {
@@ -9546,7 +9547,7 @@
     },
     "cradzygd": {
       "counters": {
-        "chat": 25
+        "chat": 26
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9554,10 +9555,10 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-06-07T10:08:52Z"
+      "lastUpdated": "2026-06-07T10:09:16Z"
     }
   },
-  "lastUpdated": "2026-06-07T09:08:53Z",
+  "lastUpdated": "2026-06-07T09:45:56Z",
   "totalUsers": 485,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
