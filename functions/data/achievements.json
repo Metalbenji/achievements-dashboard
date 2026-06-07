@@ -2500,7 +2500,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4190,
+        "chat": 4194,
         "points_spent": 84600,
         "effects": 34,
         "sub": 47,
@@ -2586,7 +2586,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-07T14:55:18Z"
+      "lastUpdated": "2026-06-07T14:56:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -9580,15 +9580,18 @@
     },
     "laurab28291": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-06-07T14:55:58Z"
+      "lastUpdated": "2026-06-07T14:57:57Z"
     }
   },
-  "lastUpdated": "2026-06-07T13:55:59Z",
+  "lastUpdated": "2026-06-07T13:57:58Z",
   "totalUsers": 486,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
