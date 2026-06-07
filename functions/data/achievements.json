@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4101,
+        "chat": 4103,
         "points_spent": 83900,
         "effects": 32,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-07T09:52:55Z"
+      "lastUpdated": "2026-06-07T09:59:13Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 376,
+        "chat": 377,
         "points_spent": 21300,
         "interactive": 3,
         "effects": 4,
@@ -2692,7 +2692,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-30T13:39:27Z"
+      "lastUpdated": "2026-06-07T10:00:20Z"
     },
     "qyainiana": {
       "counters": {
@@ -3091,7 +3091,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1559,
+        "chat": 1560,
         "points_spent": 102351,
         "sounds": 12,
         "effects": 100,
@@ -3175,7 +3175,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-07T09:46:02Z"
+      "lastUpdated": "2026-06-07T09:59:27Z"
     },
     "andilippi": {
       "counters": {
@@ -9546,16 +9546,17 @@
     },
     "cradzygd": {
       "counters": {
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-06-07T09:57:47Z"
+      "lastUpdated": "2026-06-07T10:00:54Z"
     }
   },
-  "lastUpdated": "2026-06-07T08:57:48Z",
+  "lastUpdated": "2026-06-07T09:00:55Z",
   "totalUsers": 485,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
