@@ -2499,7 +2499,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4136,
+        "chat": 4137,
         "points_spent": 83900,
         "effects": 32,
         "sub": 47,
@@ -2585,7 +2585,7 @@
         "effect_master",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-07T11:57:11Z"
+      "lastUpdated": "2026-06-07T12:00:41Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 403,
+        "chat": 404,
         "points_spent": 23300,
         "interactive": 7,
         "effects": 4,
@@ -2692,7 +2692,7 @@
         "spender_silver",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-07T10:51:57Z"
+      "lastUpdated": "2026-06-07T11:58:14Z"
     },
     "qyainiana": {
       "counters": {
@@ -2976,8 +2976,8 @@
         "points_spent": 13601,
         "effects": 14,
         "follow": 1,
-        "chat": 296,
-        "sub": 29,
+        "chat": 300,
+        "sub": 30,
         "sounds": 1,
         "screenshot": 1,
         "interactive": 1,
@@ -3010,9 +3010,11 @@
         "spender_silver",
         "effect_collector",
         "spender_iron",
-        "interactive_first"
+        "interactive_first",
+        "sub_elite",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-05-24T09:38:55Z"
+      "lastUpdated": "2026-06-07T12:01:20Z"
     },
     "cheerfulprophet": {
       "counters": {
@@ -3091,7 +3093,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1573,
+        "chat": 1574,
         "points_spent": 102851,
         "sounds": 12,
         "effects": 101,
@@ -3175,7 +3177,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-07T11:52:05Z"
+      "lastUpdated": "2026-06-07T11:57:41Z"
     },
     "andilippi": {
       "counters": {
@@ -3223,7 +3225,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 138,
+        "chat": 141,
         "points_spent": 6000,
         "sub": 16
       },
@@ -3246,7 +3248,7 @@
         "chat_regular",
         "spender_iron"
       ],
-      "lastUpdated": "2026-06-07T11:55:59Z"
+      "lastUpdated": "2026-06-07T11:59:36Z"
     },
     "chadrestricted": {
       "counters": {
@@ -3358,7 +3360,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 164,
+        "chat": 166,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3389,7 +3391,7 @@
         "sound_first",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-04-18T14:41:46Z"
+      "lastUpdated": "2026-06-07T12:00:42Z"
     },
     "awildbubbles": {
       "counters": {
@@ -5257,7 +5259,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 1152,
+        "chat": 1158,
         "points_spent": 53301,
         "effects": 11,
         "sounds": 16,
@@ -5323,7 +5325,7 @@
         "gift_angel",
         "gift_patron"
       ],
-      "lastUpdated": "2026-06-07T11:56:43Z"
+      "lastUpdated": "2026-06-07T12:00:08Z"
     },
     "jamie1496": {
       "counters": {
@@ -9571,7 +9573,7 @@
       "lastUpdated": "2026-06-07T10:09:16Z"
     }
   },
-  "lastUpdated": "2026-06-07T10:57:13Z",
+  "lastUpdated": "2026-06-07T11:01:21Z",
   "totalUsers": 485,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
