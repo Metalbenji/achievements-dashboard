@@ -1501,7 +1501,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 3791,
+        "chat": 3800,
         "points_spent": 90401,
         "effects": 18,
         "sub": 17,
@@ -1569,7 +1569,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-06-07T16:34:46Z"
+      "lastUpdated": "2026-06-07T16:40:31Z"
     },
     "celran": {
       "counters": {
@@ -1607,7 +1607,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1068,
+        "chat": 1072,
         "points_spent": 57604,
         "effects": 35,
         "follow": 1,
@@ -1669,7 +1669,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-06-07T16:24:47Z"
+      "lastUpdated": "2026-06-07T16:40:20Z"
     },
     "ramdon101": {
       "counters": {
@@ -1736,7 +1736,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2560,
+        "chat": 2569,
         "points_spent": 62707,
         "interactive": 46,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-07T16:34:59Z"
+      "lastUpdated": "2026-06-07T16:40:39Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2446,7 +2446,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 437,
+        "chat": 440,
         "sub": 32,
         "points_spent": 8600,
         "screenshot": 2,
@@ -2495,7 +2495,7 @@
         "gift_caring",
         "gift_thoughtful"
       ],
-      "lastUpdated": "2026-06-07T16:15:16Z"
+      "lastUpdated": "2026-06-07T16:40:18Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3095,7 +3095,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1618,
+        "chat": 1624,
         "points_spent": 104401,
         "sounds": 12,
         "effects": 103,
@@ -3179,7 +3179,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-07T16:34:48Z"
+      "lastUpdated": "2026-06-07T16:39:13Z"
     },
     "andilippi": {
       "counters": {
@@ -3400,7 +3400,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3846,
+        "chat": 3853,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3439,7 +3439,7 @@
         "chat_master_tier",
         "gift_starter"
       ],
-      "lastUpdated": "2026-06-07T16:17:55Z"
+      "lastUpdated": "2026-06-07T16:37:51Z"
     },
     "majesty81": {
       "counters": {
@@ -5531,7 +5531,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 72,
+        "chat": 81,
         "points_spent": 1000,
         "effects": 3
       },
@@ -5545,7 +5545,7 @@
         "night_owl",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-06-07T16:34:53Z"
+      "lastUpdated": "2026-06-07T16:38:42Z"
     },
     "stellabellas": {
       "counters": {
@@ -7099,7 +7099,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1511,
+        "chat": 1517,
         "points_spent": 77904,
         "sounds": 24,
         "effects": 17,
@@ -7150,7 +7150,7 @@
         "interactive_regular",
         "chat_expert"
       ],
-      "lastUpdated": "2026-06-07T16:31:34Z"
+      "lastUpdated": "2026-06-07T16:40:21Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9135,7 +9135,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 408,
+        "chat": 409,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -9151,7 +9151,7 @@
         "chat_dedicated",
         "effect_first"
       ],
-      "lastUpdated": "2026-06-07T16:20:09Z"
+      "lastUpdated": "2026-06-07T16:36:07Z"
     },
     "noggen_": {
       "counters": {
@@ -9316,14 +9316,15 @@
     "epoch70": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-06-07T16:35:01Z"
+      "lastUpdated": "2026-06-07T16:40:41Z"
     },
     "mstotoroe": {
       "counters": {
@@ -9619,7 +9620,7 @@
       "lastUpdated": "2026-06-07T16:24:04Z"
     }
   },
-  "lastUpdated": "2026-06-07T15:35:02Z",
+  "lastUpdated": "2026-06-07T15:40:42Z",
   "totalUsers": 488,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
