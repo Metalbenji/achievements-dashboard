@@ -9601,15 +9601,18 @@
     },
     "mr_reaper_soul": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "points_spent": 300,
+        "effects": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "effect_first"
       ],
-      "lastUpdated": "2026-06-13T09:17:18Z"
+      "lastUpdated": "2026-06-13T09:17:45Z"
     }
   },
-  "lastUpdated": "2026-06-13T08:17:19Z",
+  "lastUpdated": "2026-06-13T08:17:46Z",
   "totalUsers": 488,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
