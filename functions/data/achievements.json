@@ -5414,20 +5414,6 @@
       ],
       "lastUpdated": "2026-02-28T14:53:56Z"
     },
-    "bekevtv": {
-      "counters": {
-        "follow": 1,
-        "chat": 14,
-        "points_spent": 900
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker"
-      ],
-      "lastUpdated": "2026-04-11T16:49:46Z"
-    },
     "hazzabella": {
       "counters": {
         "follow": 1,
@@ -9634,8 +9620,8 @@
       "lastUpdated": "2026-06-07T20:24:20Z"
     }
   },
-  "lastUpdated": "2026-06-07T19:24:21Z",
-  "totalUsers": 489,
+  "lastUpdated": "2026-06-13T07:00:40Z",
+  "totalUsers": 488,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
