@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3402,
+        "chat": 3404,
         "points_spent": 193951,
         "screenshot": 1,
         "follow": 1,
@@ -1732,7 +1732,7 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-13T13:08:29Z"
+      "lastUpdated": "2026-06-13T13:48:46Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1970,7 +1970,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 515,
+        "chat": 521,
         "sub": 8,
         "points_spent": 6350,
         "sounds": 3,
@@ -2001,7 +2001,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-06-13T13:10:39Z"
+      "lastUpdated": "2026-06-13T14:00:00Z"
     },
     "sealdancer": {
       "counters": {
@@ -2370,7 +2370,7 @@
       "counters": {
         "points_spent": 103002,
         "follow": 1,
-        "chat": 1188,
+        "chat": 1194,
         "effects": 110,
         "screenshot": 15,
         "sounds": 7,
@@ -2429,7 +2429,7 @@
         "spender_platinum",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-06-13T13:13:11Z"
+      "lastUpdated": "2026-06-13T13:19:05Z"
     },
     "syn__________": {
       "counters": {
@@ -2501,14 +2501,14 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4293,
+        "chat": 4306,
         "points_spent": 86400,
         "effects": 38,
         "sub": 48,
         "sounds": 6,
         "bits": 5000,
         "screenshot": 2,
-        "clips": 18,
+        "clips": 19,
         "gift_subs": 484,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 480,
@@ -2588,7 +2588,7 @@
         "chat_elite",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-06-13T13:13:09Z"
+      "lastUpdated": "2026-06-13T13:57:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3101,7 +3101,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1685,
+        "chat": 1689,
         "points_spent": 105701,
         "sounds": 12,
         "effects": 106,
@@ -3185,7 +3185,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-06-13T12:27:11Z"
+      "lastUpdated": "2026-06-13T13:29:30Z"
     },
     "andilippi": {
       "counters": {
@@ -3407,7 +3407,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3923,
+        "chat": 3926,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3446,7 +3446,7 @@
         "chat_master_tier",
         "gift_starter"
       ],
-      "lastUpdated": "2026-06-13T12:06:13Z"
+      "lastUpdated": "2026-06-13T13:46:13Z"
     },
     "majesty81": {
       "counters": {
@@ -4137,7 +4137,7 @@
     },
     "theperfectblunt": {
       "counters": {
-        "chat": 241,
+        "chat": 248,
         "follow": 1,
         "points_spent": 1600,
         "effects": 2
@@ -4154,7 +4154,7 @@
         "chat_frequent",
         "spender_bronze"
       ],
-      "lastUpdated": "2025-07-19T14:05:28Z"
+      "lastUpdated": "2026-06-13T13:25:50Z"
     },
     "hopetusurvive": {
       "counters": {
@@ -9106,7 +9106,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 523,
+        "chat": 546,
         "follow": 1,
         "points_spent": 700,
         "effects": 2
@@ -9122,7 +9122,7 @@
         "chat_dedicated",
         "effect_first"
       ],
-      "lastUpdated": "2026-06-13T13:06:40Z"
+      "lastUpdated": "2026-06-13T14:02:05Z"
     },
     "noggen_": {
       "counters": {
@@ -9625,10 +9625,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-06-13T10:01:16Z"
+    },
+    "rockf_playerr": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-06-13T14:07:23Z"
     }
   },
-  "lastUpdated": "2026-06-13T12:13:13Z",
-  "totalUsers": 489,
+  "lastUpdated": "2026-06-13T13:07:24Z",
+  "totalUsers": 490,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
