@@ -1673,7 +1673,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3404,
+        "chat": 3417,
         "points_spent": 193951,
         "screenshot": 1,
         "follow": 1,
@@ -1732,11 +1732,11 @@
         "biggest_fan",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-06-13T13:48:46Z"
+      "lastUpdated": "2026-06-20T14:06:05Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2650,
+        "chat": 2654,
         "points_spent": 64108,
         "interactive": 49,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-20T13:17:04Z"
+      "lastUpdated": "2026-06-20T14:01:41Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2501,7 +2501,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4362,
+        "chat": 4385,
         "points_spent": 87150,
         "effects": 39,
         "sub": 48,
@@ -2588,7 +2588,7 @@
         "chat_elite",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-06-20T13:37:17Z"
+      "lastUpdated": "2026-06-20T14:18:00Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2610,7 +2610,7 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 99,
+        "chat": 100,
         "points_spent": 20700,
         "sounds": 1,
         "effects": 2,
@@ -2628,9 +2628,10 @@
         "chat_conversationalist",
         "effect_first",
         "spender_iron",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-05-25T11:04:15Z"
+      "lastUpdated": "2026-06-20T14:29:36Z"
     },
     "insidematt": {
       "counters": {
@@ -3498,7 +3499,7 @@
       "counters": {
         "sub": 23,
         "follow": 1,
-        "chat": 443
+        "chat": 458
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3521,7 +3522,7 @@
         "sub_platinum",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-04-18T12:08:59Z"
+      "lastUpdated": "2026-06-20T14:10:12Z"
     },
     "khazan67": {
       "counters": {
@@ -7070,7 +7071,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1568,
+        "chat": 1573,
         "points_spent": 78754,
         "sounds": 25,
         "effects": 18,
@@ -7121,7 +7122,7 @@
         "interactive_regular",
         "chat_expert"
       ],
-      "lastUpdated": "2026-06-20T13:27:21Z"
+      "lastUpdated": "2026-06-20T14:26:49Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9410,10 +9411,10 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 1948,
+        "chat": 1949,
         "points_spent": 70101,
         "sounds": 4,
-        "sub": 29,
+        "sub": 30,
         "clips": 1,
         "gift_subs": 1,
         "sub_tier": 1
@@ -9451,9 +9452,10 @@
         "spender_electrum",
         "spender_gold",
         "gift_starter",
-        "chat_expert"
+        "chat_expert",
+        "sub_elite"
       ],
-      "lastUpdated": "2026-06-13T08:59:47Z"
+      "lastUpdated": "2026-06-20T14:14:12Z"
     },
     "infincible": {
       "counters": {
@@ -9636,7 +9638,7 @@
       "lastUpdated": "2026-06-13T14:07:23Z"
     }
   },
-  "lastUpdated": "2026-06-20T12:43:10Z",
+  "lastUpdated": "2026-06-20T13:29:37Z",
   "totalUsers": 490,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
