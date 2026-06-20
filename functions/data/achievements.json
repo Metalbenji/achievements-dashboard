@@ -2501,7 +2501,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4385,
+        "chat": 4387,
         "points_spent": 87150,
         "effects": 39,
         "sub": 48,
@@ -2588,7 +2588,7 @@
         "chat_elite",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-06-20T14:18:00Z"
+      "lastUpdated": "2026-06-20T14:46:10Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2610,7 +2610,7 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 103,
         "points_spent": 20700,
         "sounds": 1,
         "effects": 2,
@@ -2631,7 +2631,7 @@
         "raid_tier1_captain",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-20T14:29:36Z"
+      "lastUpdated": "2026-06-20T14:30:40Z"
     },
     "insidematt": {
       "counters": {
@@ -7071,7 +7071,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1573,
+        "chat": 1574,
         "points_spent": 78754,
         "sounds": 25,
         "effects": 18,
@@ -7122,7 +7122,7 @@
         "interactive_regular",
         "chat_expert"
       ],
-      "lastUpdated": "2026-06-20T14:26:49Z"
+      "lastUpdated": "2026-06-20T14:44:56Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8519,7 +8519,7 @@
     "skyeblue182": {
       "counters": {
         "follow": 1,
-        "chat": 17,
+        "chat": 25,
         "sub": 5
       },
       "unlockedAchievements": [
@@ -8532,9 +8532,10 @@
         "sub_supporter",
         "sub_loyal",
         "sub_dedicated",
-        "sub_committed"
+        "sub_committed",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-03-28T14:53:51Z"
+      "lastUpdated": "2026-06-20T14:46:14Z"
     },
     "zabroke": {
       "counters": {
@@ -8990,13 +8991,13 @@
     "xlostsoulgamingx": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-04-19T14:44:21Z"
+      "lastUpdated": "2026-06-20T14:45:32Z"
     },
     "camelsman": {
       "counters": {
@@ -9638,7 +9639,7 @@
       "lastUpdated": "2026-06-13T14:07:23Z"
     }
   },
-  "lastUpdated": "2026-06-20T13:29:37Z",
+  "lastUpdated": "2026-06-20T13:46:16Z",
   "totalUsers": 490,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
