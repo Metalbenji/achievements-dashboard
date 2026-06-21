@@ -1736,7 +1736,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2675,
+        "chat": 2676,
         "points_spent": 64108,
         "interactive": 49,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-21T11:43:06Z"
+      "lastUpdated": "2026-06-21T11:48:27Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3409,7 +3409,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3999,
+        "chat": 4000,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3446,9 +3446,10 @@
         "early_bird",
         "sub_legendary",
         "chat_master_tier",
-        "gift_starter"
+        "gift_starter",
+        "chat_elite"
       ],
-      "lastUpdated": "2026-06-21T11:48:15Z"
+      "lastUpdated": "2026-06-21T11:48:29Z"
     },
     "majesty81": {
       "counters": {
@@ -9644,7 +9645,7 @@
       "lastUpdated": "2026-06-13T14:07:23Z"
     }
   },
-  "lastUpdated": "2026-06-21T10:48:20Z",
+  "lastUpdated": "2026-06-21T10:48:30Z",
   "totalUsers": 490,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
