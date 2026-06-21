@@ -3410,7 +3410,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4007,
+        "chat": 4012,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3450,7 +3450,7 @@
         "gift_starter",
         "chat_elite"
       ],
-      "lastUpdated": "2026-06-21T12:13:07Z"
+      "lastUpdated": "2026-06-21T13:17:57Z"
     },
     "majesty81": {
       "counters": {
@@ -5617,9 +5617,10 @@
     "peregrine_101uk": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 28,
         "points_spent": 11200,
-        "effects": 4
+        "effects": 4,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5631,9 +5632,10 @@
         "vip_dreamer",
         "spender_silver",
         "spender_iron",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "gift_starter"
       ],
-      "lastUpdated": "2026-06-21T13:10:25Z"
+      "lastUpdated": "2026-06-21T13:17:40Z"
     },
     "codewithtd": {
       "counters": {
@@ -9118,7 +9120,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 636,
+        "chat": 637,
         "follow": 1,
         "points_spent": 700,
         "effects": 2
@@ -9134,7 +9136,7 @@
         "chat_dedicated",
         "effect_first"
       ],
-      "lastUpdated": "2026-06-21T13:00:43Z"
+      "lastUpdated": "2026-06-21T13:17:25Z"
     },
     "noggen_": {
       "counters": {
@@ -9649,7 +9651,7 @@
       "lastUpdated": "2026-06-13T14:07:23Z"
     }
   },
-  "lastUpdated": "2026-06-21T12:11:04Z",
+  "lastUpdated": "2026-06-21T12:18:00Z",
   "totalUsers": 490,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
