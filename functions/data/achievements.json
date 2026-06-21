@@ -1607,9 +1607,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1155,
-        "points_spent": 58354,
-        "effects": 36,
+        "chat": 1156,
+        "points_spent": 58704,
+        "effects": 37,
         "follow": 1,
         "sub": 37,
         "sounds": 22,
@@ -1669,7 +1669,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-06-21T11:46:23Z"
+      "lastUpdated": "2026-06-21T11:47:44Z"
     },
     "ramdon101": {
       "counters": {
@@ -3409,7 +3409,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 3998,
+        "chat": 3999,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3448,7 +3448,7 @@
         "chat_master_tier",
         "gift_starter"
       ],
-      "lastUpdated": "2026-06-21T11:45:51Z"
+      "lastUpdated": "2026-06-21T11:48:15Z"
     },
     "majesty81": {
       "counters": {
@@ -5135,7 +5135,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 273,
+        "chat": 274,
         "points_spent": 900,
         "interactive": 2
       },
@@ -5150,7 +5150,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-06-21T11:46:00Z"
+      "lastUpdated": "2026-06-21T11:48:02Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5275,7 +5275,7 @@
     "mrgamingchris": {
       "counters": {
         "follow": 1,
-        "chat": 1348,
+        "chat": 1349,
         "points_spent": 58802,
         "effects": 12,
         "sounds": 22,
@@ -5341,7 +5341,7 @@
         "gift_angel",
         "gift_patron"
       ],
-      "lastUpdated": "2026-06-21T11:45:42Z"
+      "lastUpdated": "2026-06-21T11:47:44Z"
     },
     "jamie1496": {
       "counters": {
@@ -9099,15 +9099,17 @@
     "philpseyforce": {
       "counters": {
         "raid": 2,
-        "chat": 10
+        "chat": 12,
+        "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-06-21T11:47:19Z"
+      "lastUpdated": "2026-06-21T11:48:19Z"
     },
     "plexhii": {
       "counters": {
@@ -9642,7 +9644,7 @@
       "lastUpdated": "2026-06-13T14:07:23Z"
     }
   },
-  "lastUpdated": "2026-06-21T10:47:20Z",
+  "lastUpdated": "2026-06-21T10:48:20Z",
   "totalUsers": 490,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
