@@ -2617,7 +2617,7 @@
       "counters": {
         "follow": 1,
         "chat": 205,
-        "points_spent": 41200,
+        "points_spent": 46200,
         "sounds": 2,
         "effects": 3,
         "raid": 1
@@ -2637,9 +2637,10 @@
         "raid_tier1_captain",
         "chat_regular",
         "spender_electrum",
-        "chat_frequent"
+        "chat_frequent",
+        "vip_dreamer"
       ],
-      "lastUpdated": "2026-06-27T15:31:30Z"
+      "lastUpdated": "2026-06-27T16:13:52Z"
     },
     "insidematt": {
       "counters": {
@@ -9748,7 +9749,7 @@
       "lastUpdated": "2026-06-27T15:45:50Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:13:51Z",
+  "lastUpdated": "2026-06-27T15:13:53Z",
   "totalUsers": 495,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
