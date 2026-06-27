@@ -9770,10 +9770,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-06-27T16:14:27Z"
+    },
+    "pippotheoak": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-06-27T16:14:32Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:14:32Z",
-  "totalUsers": 497,
+  "lastUpdated": "2026-06-27T15:14:33Z",
+  "totalUsers": 498,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
