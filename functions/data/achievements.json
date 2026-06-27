@@ -5174,7 +5174,8 @@
         "chat_regular",
         "chat_frequent",
         "chat_dedicated",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_iron"
       ],
       "lastUpdated": "2026-06-27T16:15:24Z"
     },
@@ -9800,7 +9801,7 @@
       "lastUpdated": "2026-06-27T16:14:55Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:15:26Z",
+  "lastUpdated": "2026-06-27T15:15:27Z",
   "totalUsers": 500,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
