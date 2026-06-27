@@ -2829,7 +2829,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1009,
+        "chat": 1010,
         "sub": 43,
         "points_spent": 47851,
         "interactive": 4,
@@ -2897,7 +2897,7 @@
         "bits_committed",
         "chat_champion"
       ],
-      "lastUpdated": "2026-06-27T16:20:08Z"
+      "lastUpdated": "2026-06-27T16:20:34Z"
     },
     "umenneske94": {
       "counters": {
@@ -5468,7 +5468,7 @@
     "biggestbadjohn": {
       "counters": {
         "follow": 1,
-        "chat": 89,
+        "chat": 92,
         "points_spent": 23100
       },
       "unlockedAchievements": [
@@ -5482,7 +5482,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2026-06-27T16:20:32Z"
+      "lastUpdated": "2026-06-27T16:20:57Z"
     },
     "thefoxyfae": {
       "counters": {
@@ -9816,10 +9816,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-06-27T16:20:32Z"
+    },
+    "moqvistan": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-06-27T16:21:13Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:20:34Z",
-  "totalUsers": 501,
+  "lastUpdated": "2026-06-27T15:21:15Z",
+  "totalUsers": 502,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
