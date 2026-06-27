@@ -5161,7 +5161,8 @@
         "follow": 1,
         "chat": 306,
         "points_spent": 20900,
-        "interactive": 2
+        "interactive": 2,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5175,9 +5176,11 @@
         "chat_frequent",
         "chat_dedicated",
         "spender_bronze",
-        "spender_iron"
+        "spender_iron",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2026-06-27T16:15:24Z"
+      "lastUpdated": "2026-06-27T16:15:29Z"
     },
     "theazmaniac": {
       "counters": {
@@ -9801,7 +9804,7 @@
       "lastUpdated": "2026-06-27T16:14:55Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:15:27Z",
+  "lastUpdated": "2026-06-27T15:15:30Z",
   "totalUsers": 500,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
