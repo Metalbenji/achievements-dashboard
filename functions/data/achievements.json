@@ -1742,7 +1742,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2800,
+        "chat": 2802,
         "points_spent": 64608,
         "interactive": 50,
         "follow": 1,
@@ -1795,7 +1795,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-27T16:10:20Z"
+      "lastUpdated": "2026-06-27T16:14:41Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2829,7 +2829,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1001,
+        "chat": 1002,
         "sub": 43,
         "points_spent": 47651,
         "interactive": 4,
@@ -2897,7 +2897,7 @@
         "bits_committed",
         "chat_champion"
       ],
-      "lastUpdated": "2026-06-27T16:14:09Z"
+      "lastUpdated": "2026-06-27T16:14:38Z"
     },
     "umenneske94": {
       "counters": {
@@ -5159,7 +5159,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 305,
+        "chat": 306,
         "points_spent": 900,
         "interactive": 2
       },
@@ -5175,7 +5175,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-27T16:12:54Z"
+      "lastUpdated": "2026-06-27T16:14:37Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5463,8 +5463,8 @@
     "biggestbadjohn": {
       "counters": {
         "follow": 1,
-        "chat": 78,
-        "points_spent": 15200
+        "chat": 80,
+        "points_spent": 23100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5477,7 +5477,7 @@
         "biggest_fan",
         "spender_silver"
       ],
-      "lastUpdated": "2026-06-27T16:14:10Z"
+      "lastUpdated": "2026-06-27T16:14:52Z"
     },
     "thefoxyfae": {
       "counters": {
@@ -5949,7 +5949,7 @@
     "snoodydoodars": {
       "counters": {
         "follow": 1,
-        "chat": 1,
+        "chat": 3,
         "raid": 1
       },
       "unlockedAchievements": [
@@ -5957,7 +5957,7 @@
         "weekend_warrior",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-27T16:14:21Z"
+      "lastUpdated": "2026-06-27T16:14:49Z"
     },
     "heavyhexa": {
       "counters": {
@@ -5994,7 +5994,7 @@
     },
     "duchydoodars": {
       "counters": {
-        "chat": 6,
+        "chat": 8,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6002,7 +6002,7 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-06-27T16:14:24Z"
+      "lastUpdated": "2026-06-27T16:14:52Z"
     },
     "bears_adventures": {
       "counters": {
@@ -6332,7 +6332,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 225
+        "chat": 226
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6343,7 +6343,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-06-27T16:12:42Z"
+      "lastUpdated": "2026-06-27T16:14:55Z"
     },
     "grimlocc": {
       "counters": {
@@ -9788,10 +9788,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-06-27T16:14:34Z"
+    },
+    "kcdcd": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-06-27T16:14:55Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:14:36Z",
-  "totalUsers": 499,
+  "lastUpdated": "2026-06-27T15:14:57Z",
+  "totalUsers": 500,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
