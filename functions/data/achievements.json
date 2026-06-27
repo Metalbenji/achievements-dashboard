@@ -5470,7 +5470,9 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_iron",
+        "biggest_fan"
       ],
       "lastUpdated": "2026-06-27T16:13:12Z"
     },
@@ -9745,7 +9747,7 @@
       "lastUpdated": "2026-06-27T15:45:50Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:13:14Z",
+  "lastUpdated": "2026-06-27T15:13:17Z",
   "totalUsers": 495,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
