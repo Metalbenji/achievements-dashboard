@@ -9819,15 +9819,17 @@
     },
     "moqvistan": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-06-27T16:21:13Z"
+      "lastUpdated": "2026-06-27T16:21:26Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:21:15Z",
+  "lastUpdated": "2026-06-27T15:21:27Z",
   "totalUsers": 502,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
