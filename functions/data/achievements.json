@@ -3843,7 +3843,7 @@
       "counters": {
         "sub": 52,
         "follow": 1,
-        "chat": 457,
+        "chat": 459,
         "points_spent": 40752,
         "effects": 1,
         "sounds": 2,
@@ -3881,7 +3881,7 @@
         "sub_legendary",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-27T16:54:31Z"
+      "lastUpdated": "2026-06-27T17:02:25Z"
     },
     "camm_23": {
       "counters": {
@@ -8779,7 +8779,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 182,
+        "chat": 183,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8791,7 +8791,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-27T16:30:29Z"
+      "lastUpdated": "2026-06-27T16:57:31Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9821,7 +9821,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 19
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9829,22 +9829,23 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-06-27T16:51:02Z"
+      "lastUpdated": "2026-06-27T17:02:51Z"
     },
     "no_rep_": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-06-27T16:54:55Z"
+      "lastUpdated": "2026-06-27T17:02:57Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:54:57Z",
+  "lastUpdated": "2026-06-27T16:02:59Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
