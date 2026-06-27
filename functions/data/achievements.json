@@ -9748,10 +9748,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-06-27T15:45:50Z"
+    },
+    "faydetoblackagain": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-06-27T16:14:18Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:14:13Z",
-  "totalUsers": 495,
+  "lastUpdated": "2026-06-27T15:14:20Z",
+  "totalUsers": 496,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
