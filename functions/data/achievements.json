@@ -5159,7 +5159,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 306,
+        "chat": 307,
         "points_spent": 20900,
         "interactive": 2,
         "sounds": 1
@@ -5180,7 +5180,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2026-06-27T16:15:29Z"
+      "lastUpdated": "2026-06-27T16:15:54Z"
     },
     "theazmaniac": {
       "counters": {
@@ -9769,14 +9769,14 @@
     },
     "zeems__": {
       "counters": {
-        "chat": 2,
+        "chat": 3,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-06-27T16:15:33Z"
+      "lastUpdated": "2026-06-27T16:15:44Z"
     },
     "pippotheoak": {
       "counters": {
@@ -9798,15 +9798,17 @@
     },
     "kcdcd": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-06-27T16:14:55Z"
+      "lastUpdated": "2026-06-27T16:15:55Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:15:34Z",
+  "lastUpdated": "2026-06-27T15:15:56Z",
   "totalUsers": 500,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
