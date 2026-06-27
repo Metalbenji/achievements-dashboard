@@ -1501,7 +1501,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4229,
+        "chat": 4230,
         "points_spent": 111501,
         "effects": 20,
         "sub": 18,
@@ -1574,7 +1574,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-06-27T16:05:20Z"
+      "lastUpdated": "2026-06-27T16:12:36Z"
     },
     "celran": {
       "counters": {
@@ -5157,7 +5157,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 304,
+        "chat": 305,
         "points_spent": 900,
         "interactive": 2
       },
@@ -5173,7 +5173,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-06-27T16:10:45Z"
+      "lastUpdated": "2026-06-27T16:12:54Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5461,16 +5461,18 @@
     "biggestbadjohn": {
       "counters": {
         "follow": 1,
-        "chat": 73
+        "chat": 74,
+        "points_spent": 7500
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-06-27T16:09:23Z"
+      "lastUpdated": "2026-06-27T16:13:12Z"
     },
     "thefoxyfae": {
       "counters": {
@@ -6323,7 +6325,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 223
+        "chat": 225
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6334,7 +6336,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-06-27T16:11:31Z"
+      "lastUpdated": "2026-06-27T16:12:42Z"
     },
     "grimlocc": {
       "counters": {
@@ -8763,7 +8765,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 178,
+        "chat": 179,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8775,7 +8777,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-27T16:09:47Z"
+      "lastUpdated": "2026-06-27T16:12:18Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9743,7 +9745,7 @@
       "lastUpdated": "2026-06-27T15:45:50Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:12:10Z",
+  "lastUpdated": "2026-06-27T15:13:14Z",
   "totalUsers": 495,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
