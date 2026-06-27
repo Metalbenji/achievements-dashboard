@@ -1678,8 +1678,8 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3626,
-        "points_spent": 195952,
+        "chat": 3627,
+        "points_spent": 203552,
         "screenshot": 1,
         "follow": 1,
         "sub": 54,
@@ -1735,9 +1735,10 @@
         "gift_starter",
         "effect_collector",
         "biggest_fan",
-        "chat_master_tier"
+        "chat_master_tier",
+        "spender_titanium"
       ],
-      "lastUpdated": "2026-06-27T16:11:49Z"
+      "lastUpdated": "2026-06-27T16:13:49Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -5461,7 +5462,7 @@
     "biggestbadjohn": {
       "counters": {
         "follow": 1,
-        "chat": 74,
+        "chat": 77,
         "points_spent": 7500
       },
       "unlockedAchievements": [
@@ -5474,7 +5475,7 @@
         "spender_iron",
         "biggest_fan"
       ],
-      "lastUpdated": "2026-06-27T16:13:12Z"
+      "lastUpdated": "2026-06-27T16:13:49Z"
     },
     "thefoxyfae": {
       "counters": {
@@ -9747,7 +9748,7 @@
       "lastUpdated": "2026-06-27T15:45:50Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:13:17Z",
+  "lastUpdated": "2026-06-27T15:13:51Z",
   "totalUsers": 495,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
