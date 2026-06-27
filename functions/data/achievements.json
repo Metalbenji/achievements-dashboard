@@ -9670,15 +9670,17 @@
     },
     "dehira": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-06-27T10:09:45Z"
+      "lastUpdated": "2026-06-27T10:09:47Z"
     }
   },
-  "lastUpdated": "2026-06-27T09:09:46Z",
+  "lastUpdated": "2026-06-27T09:09:48Z",
   "totalUsers": 491,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
