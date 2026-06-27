@@ -5949,13 +5949,15 @@
     "snoodydoodars": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-05-24T15:53:24Z"
+      "lastUpdated": "2026-06-27T16:14:21Z"
     },
     "heavyhexa": {
       "counters": {
@@ -5992,7 +5994,7 @@
     },
     "duchydoodars": {
       "counters": {
-        "chat": 5,
+        "chat": 6,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6000,7 +6002,7 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2025-08-23T16:46:58Z"
+      "lastUpdated": "2026-06-27T16:14:24Z"
     },
     "bears_adventures": {
       "counters": {
@@ -9757,10 +9759,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-06-27T16:14:18Z"
+    },
+    "zeems__": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-06-27T16:14:27Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:14:23Z",
-  "totalUsers": 496,
+  "lastUpdated": "2026-06-27T15:14:30Z",
+  "totalUsers": 497,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
