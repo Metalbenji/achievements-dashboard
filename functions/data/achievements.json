@@ -1502,7 +1502,7 @@
     "little_lilith_": {
       "counters": {
         "chat": 4230,
-        "points_spent": 111501,
+        "points_spent": 119501,
         "effects": 20,
         "sub": 18,
         "bits": 1894,
@@ -1574,7 +1574,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-06-27T16:12:36Z"
+      "lastUpdated": "2026-06-27T16:16:12Z"
     },
     "celran": {
       "counters": {
@@ -2829,7 +2829,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1003,
+        "chat": 1004,
         "sub": 43,
         "points_spent": 47651,
         "interactive": 4,
@@ -2897,7 +2897,7 @@
         "bits_committed",
         "chat_champion"
       ],
-      "lastUpdated": "2026-06-27T16:15:16Z"
+      "lastUpdated": "2026-06-27T16:16:05Z"
     },
     "umenneske94": {
       "counters": {
@@ -5954,15 +5954,16 @@
     "snoodydoodars": {
       "counters": {
         "follow": 1,
-        "chat": 4,
+        "chat": 5,
         "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-06-27T16:15:13Z"
+      "lastUpdated": "2026-06-27T16:16:32Z"
     },
     "heavyhexa": {
       "counters": {
@@ -9808,7 +9809,7 @@
       "lastUpdated": "2026-06-27T16:15:55Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:15:56Z",
+  "lastUpdated": "2026-06-27T15:16:33Z",
   "totalUsers": 500,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
