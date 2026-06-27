@@ -2616,7 +2616,7 @@
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 206,
+        "chat": 208,
         "points_spent": 46200,
         "sounds": 2,
         "effects": 3,
@@ -2640,7 +2640,7 @@
         "chat_frequent",
         "vip_dreamer"
       ],
-      "lastUpdated": "2026-06-27T16:14:34Z"
+      "lastUpdated": "2026-06-27T16:15:24Z"
     },
     "insidematt": {
       "counters": {
@@ -2829,7 +2829,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1002,
+        "chat": 1003,
         "sub": 43,
         "points_spent": 47651,
         "interactive": 4,
@@ -2897,7 +2897,7 @@
         "bits_committed",
         "chat_champion"
       ],
-      "lastUpdated": "2026-06-27T16:14:38Z"
+      "lastUpdated": "2026-06-27T16:15:16Z"
     },
     "umenneske94": {
       "counters": {
@@ -5160,7 +5160,7 @@
       "counters": {
         "follow": 1,
         "chat": 306,
-        "points_spent": 900,
+        "points_spent": 20900,
         "interactive": 2
       },
       "unlockedAchievements": [
@@ -5173,9 +5173,10 @@
         "night_owl",
         "chat_regular",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-06-27T16:14:37Z"
+      "lastUpdated": "2026-06-27T16:15:24Z"
     },
     "theazmaniac": {
       "counters": {
@@ -5949,7 +5950,7 @@
     "snoodydoodars": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 4,
         "raid": 1
       },
       "unlockedAchievements": [
@@ -5957,7 +5958,7 @@
         "weekend_warrior",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-27T16:14:49Z"
+      "lastUpdated": "2026-06-27T16:15:13Z"
     },
     "heavyhexa": {
       "counters": {
@@ -9799,7 +9800,7 @@
       "lastUpdated": "2026-06-27T16:14:55Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:14:57Z",
+  "lastUpdated": "2026-06-27T15:15:26Z",
   "totalUsers": 500,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
