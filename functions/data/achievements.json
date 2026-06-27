@@ -9769,12 +9769,14 @@
     },
     "zeems__": {
       "counters": {
-        "chat": 2
+        "chat": 2,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-06-27T16:14:33Z"
+      "lastUpdated": "2026-06-27T16:15:33Z"
     },
     "pippotheoak": {
       "counters": {
@@ -9804,7 +9806,7 @@
       "lastUpdated": "2026-06-27T16:14:55Z"
     }
   },
-  "lastUpdated": "2026-06-27T15:15:30Z",
+  "lastUpdated": "2026-06-27T15:15:34Z",
   "totalUsers": 500,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
