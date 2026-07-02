@@ -7291,7 +7291,8 @@
         "effect_collector",
         "gift_caring",
         "spender_electrum",
-        "spender_gold"
+        "spender_gold",
+        "emperor_loyal"
       ],
       "lastUpdated": "2026-07-02T16:41:18Z"
     },
@@ -9824,7 +9825,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-02T15:41:19Z",
+  "lastUpdated": "2026-07-02T15:41:21Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
