@@ -1443,12 +1443,12 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 467,
-        "points_spent": 48700,
+        "chat": 469,
+        "points_spent": 49500,
         "follow": 1,
-        "sub": 23,
+        "sub": 24,
         "interactive": 1,
-        "effects": 1,
+        "effects": 2,
         "sub_tier": 1,
         "sounds": 1
       },
@@ -1479,9 +1479,10 @@
         "spender_electrum",
         "night_owl",
         "chat_dedicated",
-        "sound_first"
+        "sound_first",
+        "sub_diamond"
       ],
-      "lastUpdated": "2026-06-06T21:22:37Z"
+      "lastUpdated": "2026-07-02T17:12:49Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2682,7 +2683,7 @@
       "counters": {
         "follow": 1,
         "chat": 416,
-        "points_spent": 25100,
+        "points_spent": 25450,
         "interactive": 10,
         "effects": 5,
         "sounds": 2
@@ -2707,7 +2708,7 @@
         "interactive_regular",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-07-02T16:50:00Z"
+      "lastUpdated": "2026-07-02T17:13:02Z"
     },
     "qyainiana": {
       "counters": {
@@ -7529,7 +7530,7 @@
       "counters": {
         "chat": 94,
         "sub": 2,
-        "points_spent": 2300,
+        "points_spent": 2301,
         "interactive": 1,
         "follow": 1,
         "effects": 4
@@ -7545,9 +7546,10 @@
         "chat_conversationalist",
         "effect_first",
         "spender_bronze",
-        "sub_supporter"
+        "sub_supporter",
+        "first_caller"
       ],
-      "lastUpdated": "2026-07-02T15:52:34Z"
+      "lastUpdated": "2026-07-02T17:13:13Z"
     },
     "itsladymenace": {
       "counters": {
@@ -9825,7 +9827,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-02T16:10:48Z",
+  "lastUpdated": "2026-07-02T16:13:21Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
