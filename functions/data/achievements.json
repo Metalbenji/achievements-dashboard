@@ -1501,7 +1501,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4274,
+        "chat": 4276,
         "points_spent": 119501,
         "effects": 20,
         "sub": 18,
@@ -1574,7 +1574,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-02T16:37:28Z"
+      "lastUpdated": "2026-07-02T16:44:58Z"
     },
     "celran": {
       "counters": {
@@ -1742,7 +1742,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2811,
+        "chat": 2812,
         "points_spent": 64608,
         "interactive": 50,
         "follow": 1,
@@ -1795,7 +1795,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-06-27T17:06:17Z"
+      "lastUpdated": "2026-07-02T16:46:03Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1976,7 +1976,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 539,
+        "chat": 552,
         "sub": 8,
         "points_spent": 6350,
         "sounds": 3,
@@ -2007,7 +2007,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-02T16:12:53Z"
+      "lastUpdated": "2026-07-02T17:09:42Z"
     },
     "sealdancer": {
       "counters": {
@@ -2681,7 +2681,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 415,
+        "chat": 416,
         "points_spent": 25100,
         "interactive": 10,
         "effects": 5,
@@ -2707,7 +2707,7 @@
         "interactive_regular",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-06-21T12:46:45Z"
+      "lastUpdated": "2026-07-02T16:50:00Z"
     },
     "qyainiana": {
       "counters": {
@@ -2829,7 +2829,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1048,
+        "chat": 1050,
         "sub": 43,
         "points_spent": 49151,
         "interactive": 4,
@@ -2897,7 +2897,7 @@
         "bits_committed",
         "chat_champion"
       ],
-      "lastUpdated": "2026-07-02T16:38:32Z"
+      "lastUpdated": "2026-07-02T16:51:29Z"
     },
     "umenneske94": {
       "counters": {
@@ -3419,7 +3419,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4046,
+        "chat": 4047,
         "sub": 51,
         "points_spent": 350,
         "screenshot": 1,
@@ -3474,7 +3474,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-02T15:08:08Z"
+      "lastUpdated": "2026-07-02T16:41:40Z"
     },
     "majesty81": {
       "counters": {
@@ -6310,7 +6310,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 226
+        "chat": 234
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6321,7 +6321,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-06-27T16:14:55Z"
+      "lastUpdated": "2026-07-02T17:05:23Z"
     },
     "grimlocc": {
       "counters": {
@@ -6892,7 +6892,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 139,
+        "chat": 140,
         "sub": 7,
         "points_spent": 10350,
         "sounds": 1,
@@ -6916,7 +6916,7 @@
         "sound_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-07-02T16:34:20Z"
+      "lastUpdated": "2026-07-02T16:51:57Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7249,8 +7249,8 @@
         "bits": 291,
         "follow": 1,
         "sub": 1,
-        "points_spent": 51650,
-        "effects": 19,
+        "points_spent": 52800,
+        "effects": 21,
         "sounds": 9,
         "screenshot": 10,
         "clips": 3,
@@ -7294,7 +7294,7 @@
         "spender_gold",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-07-02T16:41:18Z"
+      "lastUpdated": "2026-07-02T16:47:30Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9131,7 +9131,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 722,
+        "chat": 725,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9148,7 +9148,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-02T16:37:49Z"
+      "lastUpdated": "2026-07-02T16:45:34Z"
     },
     "noggen_": {
       "counters": {
@@ -9825,7 +9825,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-02T15:41:21Z",
+  "lastUpdated": "2026-07-02T16:10:48Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
