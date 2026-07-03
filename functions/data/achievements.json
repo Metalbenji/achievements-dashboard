@@ -3274,7 +3274,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1707,
+        "chat": 1709,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3312,7 +3312,7 @@
         "effect_first",
         "chat_expert"
       ],
-      "lastUpdated": "2026-07-03T09:49:44Z"
+      "lastUpdated": "2026-07-03T09:50:26Z"
     },
     "maximusis_": {
       "counters": {
@@ -4144,7 +4144,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 299,
+        "chat": 300,
         "points_spent": 1001,
         "effects": 1
       },
@@ -4160,9 +4160,10 @@
         "chat_regular",
         "chat_frequent",
         "spender_bronze",
-        "effect_first"
+        "effect_first",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-03T09:47:04Z"
+      "lastUpdated": "2026-07-03T09:50:28Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -9828,7 +9829,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-03T08:50:07Z",
+  "lastUpdated": "2026-07-03T08:50:29Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
