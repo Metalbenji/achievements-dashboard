@@ -1502,7 +1502,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4455,
+        "chat": 4460,
         "points_spent": 119501,
         "effects": 20,
         "sub": 18,
@@ -1575,7 +1575,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-03T18:21:26Z"
+      "lastUpdated": "2026-07-03T22:18:20Z"
     },
     "celran": {
       "counters": {
@@ -2508,7 +2508,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4860,
+        "chat": 4869,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
@@ -2596,7 +2596,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-03T22:09:22Z"
+      "lastUpdated": "2026-07-03T22:20:05Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7251,7 +7251,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 816,
+        "chat": 820,
         "bits": 1157,
         "follow": 1,
         "sub": 1,
@@ -7304,7 +7304,7 @@
         "chat_enthusiast",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-03T22:10:03Z"
+      "lastUpdated": "2026-07-03T22:21:41Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9149,7 +9149,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 742,
+        "chat": 750,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9165,9 +9165,10 @@
         "chat_dedicated",
         "effect_first",
         "spender_bronze",
-        "night_owl"
+        "night_owl",
+        "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-03T22:14:09Z"
+      "lastUpdated": "2026-07-03T22:21:54Z"
     },
     "noggen_": {
       "counters": {
@@ -9862,7 +9863,7 @@
       "lastUpdated": "2026-07-03T21:31:17Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:14:11Z",
+  "lastUpdated": "2026-07-03T21:21:56Z",
   "totalUsers": 505,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
