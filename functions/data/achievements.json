@@ -1502,7 +1502,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4435,
+        "chat": 4436,
         "points_spent": 119501,
         "effects": 20,
         "sub": 18,
@@ -1575,7 +1575,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-03T16:03:51Z"
+      "lastUpdated": "2026-07-03T16:05:10Z"
     },
     "celran": {
       "counters": {
@@ -8339,7 +8339,7 @@
       "counters": {
         "points_spent": 102,
         "follow": 1,
-        "chat": 6,
+        "chat": 10,
         "bits": 200,
         "sounds": 1
       },
@@ -8351,9 +8351,10 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "sound_first"
+        "sound_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-03T16:04:40Z"
+      "lastUpdated": "2026-07-03T16:05:51Z"
     },
     "d1mag3": {
       "counters": {
@@ -9832,7 +9833,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-03T15:04:41Z",
+  "lastUpdated": "2026-07-03T15:05:52Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
