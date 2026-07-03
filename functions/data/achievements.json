@@ -9859,7 +9859,8 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "night_owl"
       ],
       "lastUpdated": "2026-07-03T22:49:39Z"
     },
@@ -9873,7 +9874,7 @@
       "lastUpdated": "2026-07-03T22:49:29Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:49:41Z",
+  "lastUpdated": "2026-07-03T21:49:44Z",
   "totalUsers": 506,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
