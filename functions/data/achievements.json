@@ -1679,7 +1679,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3668,
+        "chat": 3669,
         "points_spent": 212102,
         "screenshot": 2,
         "follow": 1,
@@ -1739,7 +1739,7 @@
         "chat_master_tier",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-07-03T19:11:43Z"
+      "lastUpdated": "2026-07-03T22:49:44Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -9587,14 +9587,14 @@
     "tyranus102": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "night_owl",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-06-06T22:51:27Z"
+      "lastUpdated": "2026-07-03T22:49:46Z"
     },
     "cradzygd": {
       "counters": {
@@ -9855,27 +9855,60 @@
     "kingofm0sh": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-03T22:49:39Z"
+      "lastUpdated": "2026-07-03T22:49:47Z"
     },
     "ravencro": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "night_owl"
+        "night_owl",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-03T22:49:29Z"
+      "lastUpdated": "2026-07-03T22:49:49Z"
+    },
+    "gullible84": {
+      "counters": {
+        "follow": 1,
+        "chat": 436,
+        "sub": 20,
+        "points_spent": 300,
+        "effects": 1,
+        "sub_tier": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie",
+        "chat_talker",
+        "chat_conversationalist",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "chat_regular",
+        "chat_frequent",
+        "effect_first",
+        "sub_platinum",
+        "chat_dedicated"
+      ],
+      "lastUpdated": "2026-07-03T22:49:48Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:49:44Z",
-  "totalUsers": 506,
+  "lastUpdated": "2026-07-03T21:49:53Z",
+  "totalUsers": 507,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
