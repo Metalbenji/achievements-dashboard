@@ -8340,8 +8340,8 @@
       "counters": {
         "points_spent": 102,
         "follow": 1,
-        "chat": 75,
-        "bits": 200,
+        "chat": 88,
+        "bits": 300,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -8354,9 +8354,10 @@
         "bits_regular",
         "sound_first",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "bits_steady"
       ],
-      "lastUpdated": "2026-07-03T16:35:42Z"
+      "lastUpdated": "2026-07-03T16:39:52Z"
     },
     "d1mag3": {
       "counters": {
@@ -9804,15 +9805,16 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-06-27T17:02:51Z"
+      "lastUpdated": "2026-07-03T16:41:09Z"
     },
     "no_rep_": {
       "counters": {
@@ -9835,7 +9837,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-03T15:35:52Z",
+  "lastUpdated": "2026-07-03T15:41:10Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
