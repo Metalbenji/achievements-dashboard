@@ -9855,12 +9855,13 @@
     "kingofm0sh": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-03T21:31:17Z"
+      "lastUpdated": "2026-07-03T22:49:39Z"
     },
     "ravencro": {
       "counters": {
@@ -9872,7 +9873,7 @@
       "lastUpdated": "2026-07-03T22:49:29Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:49:32Z",
+  "lastUpdated": "2026-07-03T21:49:41Z",
   "totalUsers": 506,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
