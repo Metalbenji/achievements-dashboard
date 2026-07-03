@@ -9149,7 +9149,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 741,
+        "chat": 742,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9164,9 +9164,10 @@
         "chat_frequent",
         "chat_dedicated",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "night_owl"
       ],
-      "lastUpdated": "2026-07-03T21:52:54Z"
+      "lastUpdated": "2026-07-03T22:14:09Z"
     },
     "noggen_": {
       "counters": {
@@ -9861,7 +9862,7 @@
       "lastUpdated": "2026-07-03T21:31:17Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:10:04Z",
+  "lastUpdated": "2026-07-03T21:14:11Z",
   "totalUsers": 505,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
