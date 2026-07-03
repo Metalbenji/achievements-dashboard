@@ -1679,7 +1679,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3664,
+        "chat": 3668,
         "points_spent": 212102,
         "screenshot": 2,
         "follow": 1,
@@ -1739,11 +1739,11 @@
         "chat_master_tier",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-07-03T18:43:22Z"
+      "lastUpdated": "2026-07-03T19:11:43Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2822,
+        "chat": 2825,
         "points_spent": 64608,
         "interactive": 50,
         "follow": 1,
@@ -1796,11 +1796,11 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-03T16:18:41Z"
+      "lastUpdated": "2026-07-03T19:12:36Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 668,
+        "chat": 671,
         "follow": 1,
         "sub": 40,
         "points_spent": 95000,
@@ -1838,7 +1838,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-07-03T17:42:02Z"
+      "lastUpdated": "2026-07-03T19:12:10Z"
     },
     "scoman07": {
       "counters": {
@@ -2508,7 +2508,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4837,
+        "chat": 4842,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
@@ -2595,7 +2595,7 @@
         "chat_elite",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-07-03T18:52:28Z"
+      "lastUpdated": "2026-07-03T18:57:42Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7250,7 +7250,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 808,
+        "chat": 813,
         "bits": 1157,
         "follow": 1,
         "sub": 1,
@@ -7302,7 +7302,7 @@
         "bits_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-03T18:20:47Z"
+      "lastUpdated": "2026-07-03T21:17:32Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8343,7 +8343,7 @@
       "counters": {
         "points_spent": 103,
         "follow": 1,
-        "chat": 240,
+        "chat": 276,
         "bits": 350,
         "sounds": 1
       },
@@ -8362,7 +8362,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-03T18:51:38Z"
+      "lastUpdated": "2026-07-03T19:13:16Z"
     },
     "d1mag3": {
       "counters": {
@@ -9847,10 +9847,19 @@
       },
       "unlockedAchievements": [],
       "lastUpdated": "2026-07-03T18:10:26Z"
+    },
+    "kingofm0sh": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-07-03T21:26:46Z"
     }
   },
-  "lastUpdated": "2026-07-03T17:53:33Z",
-  "totalUsers": 504,
+  "lastUpdated": "2026-07-03T20:26:47Z",
+  "totalUsers": 505,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
