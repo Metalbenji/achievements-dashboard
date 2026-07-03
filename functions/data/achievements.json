@@ -1502,7 +1502,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4454,
+        "chat": 4455,
         "points_spent": 119501,
         "effects": 20,
         "sub": 18,
@@ -1575,7 +1575,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-03T17:47:35Z"
+      "lastUpdated": "2026-07-03T18:21:26Z"
     },
     "celran": {
       "counters": {
@@ -1679,7 +1679,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3656,
+        "chat": 3660,
         "points_spent": 212102,
         "screenshot": 2,
         "follow": 1,
@@ -1739,7 +1739,7 @@
         "chat_master_tier",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-07-03T17:41:03Z"
+      "lastUpdated": "2026-07-03T18:19:26Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2041,7 +2041,7 @@
     "incrediblebob": {
       "counters": {
         "follow": 1,
-        "chat": 340,
+        "chat": 341,
         "sub": 10,
         "points_spent": 4
       },
@@ -2067,7 +2067,7 @@
         "chat_dedicated",
         "early_bird"
       ],
-      "lastUpdated": "2026-05-15T21:44:17Z"
+      "lastUpdated": "2026-07-03T18:13:42Z"
     },
     "kaiiaryn": {
       "counters": {
@@ -2713,7 +2713,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 326,
+        "chat": 328,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 40,
@@ -2761,7 +2761,7 @@
         "gift_angel",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-03T17:43:27Z"
+      "lastUpdated": "2026-07-03T18:17:16Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -5625,7 +5625,7 @@
     "peregrine_101uk": {
       "counters": {
         "follow": 1,
-        "chat": 34,
+        "chat": 39,
         "points_spent": 11200,
         "effects": 4,
         "gift_subs": 1
@@ -5643,7 +5643,7 @@
         "chat_conversationalist",
         "gift_starter"
       ],
-      "lastUpdated": "2026-06-21T14:39:41Z"
+      "lastUpdated": "2026-07-03T18:19:34Z"
     },
     "codewithtd": {
       "counters": {
@@ -7249,7 +7249,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 750,
+        "chat": 808,
         "bits": 1157,
         "follow": 1,
         "sub": 1,
@@ -7301,7 +7301,7 @@
         "bits_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-03T18:06:02Z"
+      "lastUpdated": "2026-07-03T18:20:47Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8342,7 +8342,7 @@
       "counters": {
         "points_spent": 103,
         "follow": 1,
-        "chat": 183,
+        "chat": 200,
         "bits": 350,
         "sounds": 1
       },
@@ -8358,9 +8358,10 @@
         "chat_talker",
         "chat_conversationalist",
         "bits_steady",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-07-03T18:05:11Z"
+      "lastUpdated": "2026-07-03T18:23:12Z"
     },
     "d1mag3": {
       "counters": {
@@ -9808,7 +9809,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 40
+        "chat": 41
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9817,7 +9818,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-03T18:05:52Z"
+      "lastUpdated": "2026-07-03T18:07:06Z"
     },
     "no_rep_": {
       "counters": {
@@ -9838,10 +9839,17 @@
       },
       "unlockedAchievements": [],
       "lastUpdated": "2026-07-02T15:07:24Z"
+    },
+    "scottishchiddy": {
+      "counters": {
+        "chat": 4
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2026-07-03T18:10:26Z"
     }
   },
-  "lastUpdated": "2026-07-03T17:06:03Z",
-  "totalUsers": 503,
+  "lastUpdated": "2026-07-03T17:23:14Z",
+  "totalUsers": 504,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
