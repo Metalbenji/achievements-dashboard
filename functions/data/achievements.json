@@ -2508,14 +2508,14 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4842,
+        "chat": 4858,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
         "sounds": 6,
         "bits": 5000,
         "screenshot": 2,
-        "clips": 24,
+        "clips": 25,
         "gift_subs": 484,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 480,
@@ -2593,9 +2593,10 @@
         "interactive_first",
         "effect_master",
         "chat_elite",
-        "sub_legendary"
+        "sub_legendary",
+        "clip_master"
       ],
-      "lastUpdated": "2026-07-03T18:57:42Z"
+      "lastUpdated": "2026-07-03T22:07:20Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7250,7 +7251,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 813,
+        "chat": 816,
         "bits": 1157,
         "follow": 1,
         "sub": 1,
@@ -7302,7 +7303,7 @@
         "bits_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-03T21:17:32Z"
+      "lastUpdated": "2026-07-03T21:52:15Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9147,7 +9148,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 737,
+        "chat": 741,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9164,7 +9165,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-03T15:12:22Z"
+      "lastUpdated": "2026-07-03T21:52:54Z"
     },
     "noggen_": {
       "counters": {
@@ -9850,15 +9851,16 @@
     },
     "kingofm0sh": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2026-07-03T21:26:46Z"
+      "lastUpdated": "2026-07-03T21:31:17Z"
     }
   },
-  "lastUpdated": "2026-07-03T20:26:47Z",
+  "lastUpdated": "2026-07-03T21:07:21Z",
   "totalUsers": 505,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
