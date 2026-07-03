@@ -1502,7 +1502,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4460,
+        "chat": 4483,
         "points_spent": 119501,
         "effects": 20,
         "sub": 18,
@@ -1575,7 +1575,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-03T22:18:20Z"
+      "lastUpdated": "2026-07-03T22:45:40Z"
     },
     "celran": {
       "counters": {
@@ -2454,7 +2454,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 471,
+        "chat": 473,
         "sub": 33,
         "points_spent": 9050,
         "screenshot": 2,
@@ -2503,12 +2503,12 @@
         "gift_caring",
         "gift_thoughtful"
       ],
-      "lastUpdated": "2026-07-03T18:34:07Z"
+      "lastUpdated": "2026-07-03T22:26:53Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4869,
+        "chat": 4903,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
@@ -2596,7 +2596,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-03T22:20:05Z"
+      "lastUpdated": "2026-07-03T22:47:46Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4325,7 +4325,7 @@
         "chat": 144,
         "points_spent": 500,
         "effects": 1,
-        "raid": 1
+        "raid": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4339,7 +4339,7 @@
         "raid_tier1_captain",
         "chat_regular"
       ],
-      "lastUpdated": "2026-06-27T16:05:01Z"
+      "lastUpdated": "2026-07-03T22:49:21Z"
     },
     "saluda777": {
       "counters": {
@@ -7251,7 +7251,7 @@
     },
     "metalbenji": {
       "counters": {
-        "chat": 820,
+        "chat": 828,
         "bits": 1157,
         "follow": 1,
         "sub": 1,
@@ -7304,7 +7304,7 @@
         "chat_enthusiast",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-03T22:21:41Z"
+      "lastUpdated": "2026-07-03T22:24:09Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9149,7 +9149,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 750,
+        "chat": 772,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9168,7 +9168,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-03T22:21:54Z"
+      "lastUpdated": "2026-07-03T22:45:30Z"
     },
     "noggen_": {
       "counters": {
@@ -9861,10 +9861,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-07-03T21:31:17Z"
+    },
+    "ravencro": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "night_owl"
+      ],
+      "lastUpdated": "2026-07-03T22:49:29Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:21:56Z",
-  "totalUsers": 505,
+  "lastUpdated": "2026-07-03T21:49:32Z",
+  "totalUsers": 506,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
 }
