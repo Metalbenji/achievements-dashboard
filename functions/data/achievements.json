@@ -4322,7 +4322,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 144,
+        "chat": 145,
         "points_spent": 500,
         "effects": 1,
         "raid": 2
@@ -4339,7 +4339,7 @@
         "raid_tier1_captain",
         "chat_regular"
       ],
-      "lastUpdated": "2026-07-03T22:49:21Z"
+      "lastUpdated": "2026-07-03T22:49:53Z"
     },
     "saluda777": {
       "counters": {
@@ -9855,14 +9855,15 @@
     "kingofm0sh": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
-        "night_owl"
+        "night_owl",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-03T22:49:47Z"
+      "lastUpdated": "2026-07-03T22:49:55Z"
     },
     "ravencro": {
       "counters": {
@@ -9907,7 +9908,7 @@
       "lastUpdated": "2026-07-03T22:49:48Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:49:53Z",
+  "lastUpdated": "2026-07-03T21:49:58Z",
   "totalUsers": 507,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
