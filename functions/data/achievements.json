@@ -7090,14 +7090,14 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1633,
+        "chat": 1636,
         "points_spent": 84104,
         "sounds": 25,
         "effects": 19,
         "screenshot": 2,
         "sub": 20,
         "interactive": 11,
-        "bits": 202,
+        "bits": 290,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -7139,9 +7139,10 @@
         "sub_platinum",
         "effect_collector",
         "interactive_regular",
-        "chat_expert"
+        "chat_expert",
+        "bits_steady"
       ],
-      "lastUpdated": "2026-07-03T16:09:04Z"
+      "lastUpdated": "2026-07-03T16:29:06Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8339,7 +8340,7 @@
       "counters": {
         "points_spent": 102,
         "follow": 1,
-        "chat": 49,
+        "chat": 75,
         "bits": 200,
         "sounds": 1
       },
@@ -8355,7 +8356,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-03T16:26:45Z"
+      "lastUpdated": "2026-07-03T16:35:42Z"
     },
     "d1mag3": {
       "counters": {
@@ -9834,7 +9835,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-03T15:27:38Z",
+  "lastUpdated": "2026-07-03T15:35:52Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
