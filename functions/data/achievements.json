@@ -2508,7 +2508,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4917,
+        "chat": 4926,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
@@ -2596,7 +2596,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-03T22:59:34Z"
+      "lastUpdated": "2026-07-03T23:10:28Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2944,7 +2944,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 896,
+        "chat": 897,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -2983,7 +2983,7 @@
         "chat_enthusiast",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-03T22:59:19Z"
+      "lastUpdated": "2026-07-03T23:02:47Z"
     },
     "ppjackson69": {
       "counters": {
@@ -9855,15 +9855,16 @@
     "kingofm0sh": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "chat_newbie",
         "night_owl",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-03T22:50:15Z"
+      "lastUpdated": "2026-07-03T23:11:48Z"
     },
     "ravencro": {
       "counters": {
@@ -9879,7 +9880,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 443,
+        "chat": 446,
         "sub": 20,
         "points_spent": 300,
         "effects": 1,
@@ -9906,7 +9907,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-03T22:58:43Z"
+      "lastUpdated": "2026-07-03T23:10:30Z"
     },
     "vrishcath": {
       "counters": {
@@ -9920,7 +9921,7 @@
       "lastUpdated": "2026-07-03T23:00:07Z"
     }
   },
-  "lastUpdated": "2026-07-03T22:00:09Z",
+  "lastUpdated": "2026-07-03T22:11:51Z",
   "totalUsers": 508,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
