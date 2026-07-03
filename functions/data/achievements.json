@@ -2508,7 +2508,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4820,
+        "chat": 4829,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
@@ -2595,7 +2595,7 @@
         "chat_elite",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-07-03T15:46:05Z"
+      "lastUpdated": "2026-07-03T16:13:28Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5544,7 +5544,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 133,
+        "chat": 134,
         "points_spent": 1800,
         "effects": 6
       },
@@ -5559,7 +5559,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-07-03T09:55:19Z"
+      "lastUpdated": "2026-07-03T16:16:33Z"
     },
     "stellabellas": {
       "counters": {
@@ -7090,7 +7090,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1632,
+        "chat": 1633,
         "points_spent": 84104,
         "sounds": 25,
         "effects": 19,
@@ -7141,7 +7141,7 @@
         "interactive_regular",
         "chat_expert"
       ],
-      "lastUpdated": "2026-07-03T15:30:36Z"
+      "lastUpdated": "2026-07-03T16:09:04Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8339,7 +8339,7 @@
       "counters": {
         "points_spent": 102,
         "follow": 1,
-        "chat": 10,
+        "chat": 25,
         "bits": 200,
         "sounds": 1
       },
@@ -8352,9 +8352,10 @@
         "bits_small",
         "bits_regular",
         "sound_first",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-03T16:05:51Z"
+      "lastUpdated": "2026-07-03T16:16:56Z"
     },
     "d1mag3": {
       "counters": {
@@ -9833,7 +9834,7 @@
       "lastUpdated": "2026-07-02T15:07:24Z"
     }
   },
-  "lastUpdated": "2026-07-03T15:05:52Z",
+  "lastUpdated": "2026-07-03T15:16:57Z",
   "totalUsers": 503,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
