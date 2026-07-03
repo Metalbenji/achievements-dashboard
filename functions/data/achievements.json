@@ -2508,7 +2508,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4858,
+        "chat": 4860,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
@@ -2596,7 +2596,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-03T22:07:20Z"
+      "lastUpdated": "2026-07-03T22:09:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7301,9 +7301,10 @@
         "emperor_loyal",
         "effect_master",
         "bits_dedicated",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-03T21:52:15Z"
+      "lastUpdated": "2026-07-03T22:10:03Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9454,7 +9455,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 1995,
+        "chat": 1996,
         "points_spent": 70101,
         "sounds": 4,
         "sub": 30,
@@ -9498,7 +9499,7 @@
         "chat_expert",
         "sub_elite"
       ],
-      "lastUpdated": "2026-07-03T17:54:10Z"
+      "lastUpdated": "2026-07-03T22:09:14Z"
     },
     "infincible": {
       "counters": {
@@ -9860,7 +9861,7 @@
       "lastUpdated": "2026-07-03T21:31:17Z"
     }
   },
-  "lastUpdated": "2026-07-03T21:07:21Z",
+  "lastUpdated": "2026-07-03T21:10:04Z",
   "totalUsers": 505,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
