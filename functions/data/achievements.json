@@ -1679,7 +1679,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3660,
+        "chat": 3664,
         "points_spent": 212102,
         "screenshot": 2,
         "follow": 1,
@@ -1739,7 +1739,7 @@
         "chat_master_tier",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-07-03T18:19:26Z"
+      "lastUpdated": "2026-07-03T18:43:22Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1879,7 +1879,7 @@
       "counters": {
         "points_spent": 7100,
         "effects": 9,
-        "chat": 155,
+        "chat": 158,
         "sounds": 1,
         "follow": 1
       },
@@ -1897,7 +1897,7 @@
         "chat_regular",
         "spender_iron"
       ],
-      "lastUpdated": "2026-06-27T15:54:42Z"
+      "lastUpdated": "2026-07-03T18:43:31Z"
     },
     "hairypawter": {
       "counters": {
@@ -2454,7 +2454,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 468,
+        "chat": 471,
         "sub": 33,
         "points_spent": 9050,
         "screenshot": 2,
@@ -2503,12 +2503,12 @@
         "gift_caring",
         "gift_thoughtful"
       ],
-      "lastUpdated": "2026-07-03T17:48:08Z"
+      "lastUpdated": "2026-07-03T18:34:07Z"
     },
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4830,
+        "chat": 4837,
         "points_spent": 91700,
         "effects": 49,
         "sub": 48,
@@ -2595,7 +2595,7 @@
         "chat_elite",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-07-03T16:17:05Z"
+      "lastUpdated": "2026-07-03T18:52:28Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2943,7 +2943,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 885,
+        "chat": 893,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -2982,7 +2982,7 @@
         "chat_enthusiast",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-03T12:30:58Z"
+      "lastUpdated": "2026-07-03T18:53:03Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4017,7 +4017,7 @@
       "counters": {
         "follow": 1,
         "chat": 334,
-        "points_spent": 21902,
+        "points_spent": 21903,
         "sounds": 5,
         "effects": 4,
         "interactive": 6
@@ -4037,9 +4037,10 @@
         "spender_iron",
         "interactive_first",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "first_caller"
       ],
-      "lastUpdated": "2026-07-03T12:42:12Z"
+      "lastUpdated": "2026-07-03T18:53:32Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -8342,7 +8343,7 @@
       "counters": {
         "points_spent": 103,
         "follow": 1,
-        "chat": 200,
+        "chat": 240,
         "bits": 350,
         "sounds": 1
       },
@@ -8361,7 +8362,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-03T18:23:12Z"
+      "lastUpdated": "2026-07-03T18:51:38Z"
     },
     "d1mag3": {
       "counters": {
@@ -9848,7 +9849,7 @@
       "lastUpdated": "2026-07-03T18:10:26Z"
     }
   },
-  "lastUpdated": "2026-07-03T17:23:14Z",
+  "lastUpdated": "2026-07-03T17:53:33Z",
   "totalUsers": 504,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
