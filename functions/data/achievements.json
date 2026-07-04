@@ -1502,7 +1502,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4504,
+        "chat": 4509,
         "points_spent": 119501,
         "effects": 20,
         "sub": 18,
@@ -1575,7 +1575,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-04T20:42:23Z"
+      "lastUpdated": "2026-07-04T22:02:35Z"
     },
     "celran": {
       "counters": {
@@ -1679,13 +1679,13 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3698,
-        "points_spent": 212102,
+        "chat": 3705,
+        "points_spent": 212452,
         "screenshot": 2,
         "follow": 1,
         "sub": 54,
         "sounds": 9,
-        "effects": 15,
+        "effects": 16,
         "interactive": 6,
         "raid": 5,
         "gift_subs": 1,
@@ -1740,7 +1740,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-04T21:11:54Z"
+      "lastUpdated": "2026-07-04T22:01:12Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2376,10 +2376,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 105802,
+        "points_spent": 106602,
         "follow": 1,
-        "chat": 1230,
-        "effects": 117,
+        "chat": 1235,
+        "effects": 118,
         "screenshot": 15,
         "sounds": 7,
         "bits": 300,
@@ -2437,7 +2437,7 @@
         "spender_platinum",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-07-04T21:12:09Z"
+      "lastUpdated": "2026-07-04T22:03:01Z"
     },
     "syn__________": {
       "counters": {
@@ -2509,9 +2509,9 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4973,
-        "points_spent": 91700,
-        "effects": 49,
+        "chat": 4985,
+        "points_spent": 92050,
+        "effects": 50,
         "sub": 48,
         "sounds": 6,
         "bits": 5000,
@@ -2597,7 +2597,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-04T21:08:10Z"
+      "lastUpdated": "2026-07-04T22:04:37Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6317,7 +6317,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 243
+        "chat": 244
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6326,9 +6326,10 @@
         "chat_talker",
         "chat_conversationalist",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "night_owl"
       ],
-      "lastUpdated": "2026-07-04T20:51:43Z"
+      "lastUpdated": "2026-07-04T22:04:49Z"
     },
     "grimlocc": {
       "counters": {
@@ -7260,8 +7261,8 @@
         "bits": 1157,
         "follow": 1,
         "sub": 1,
-        "points_spent": 65450,
-        "effects": 29,
+        "points_spent": 66800,
+        "effects": 32,
         "sounds": 9,
         "screenshot": 13,
         "clips": 3,
@@ -7309,7 +7310,7 @@
         "chat_enthusiast",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-04T21:06:57Z"
+      "lastUpdated": "2026-07-04T21:48:48Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9927,7 +9928,7 @@
       "lastUpdated": "2026-07-03T23:00:07Z"
     }
   },
-  "lastUpdated": "2026-07-04T20:12:53Z",
+  "lastUpdated": "2026-07-04T21:04:50Z",
   "totalUsers": 508,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
