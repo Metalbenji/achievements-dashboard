@@ -7164,7 +7164,8 @@
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
-        "sounds": 1
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7180,9 +7181,10 @@
         "night_owl",
         "chat_dedicated",
         "sound_first",
-        "spender_iron"
+        "spender_iron",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-04T21:12:50Z"
+      "lastUpdated": "2026-07-04T21:12:52Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9925,7 +9927,7 @@
       "lastUpdated": "2026-07-03T23:00:07Z"
     }
   },
-  "lastUpdated": "2026-07-04T20:12:52Z",
+  "lastUpdated": "2026-07-04T20:12:53Z",
   "totalUsers": 508,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
