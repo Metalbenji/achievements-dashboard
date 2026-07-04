@@ -1502,7 +1502,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4514,
+        "chat": 4515,
         "points_spent": 119501,
         "effects": 20,
         "sub": 18,
@@ -1575,7 +1575,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-04T22:27:41Z"
+      "lastUpdated": "2026-07-04T22:36:39Z"
     },
     "celran": {
       "counters": {
@@ -1801,7 +1801,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 673,
+        "chat": 676,
         "follow": 1,
         "sub": 41,
         "points_spent": 95000,
@@ -1839,7 +1839,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-07-04T22:31:59Z"
+      "lastUpdated": "2026-07-04T22:36:22Z"
     },
     "scoman07": {
       "counters": {
@@ -2509,7 +2509,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 4990,
+        "chat": 4994,
         "points_spent": 92050,
         "effects": 50,
         "sub": 48,
@@ -2597,7 +2597,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-04T22:16:48Z"
+      "lastUpdated": "2026-07-04T22:36:29Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4324,9 +4324,9 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 164,
-        "points_spent": 1600,
-        "effects": 4,
+        "chat": 170,
+        "points_spent": 1950,
+        "effects": 5,
         "raid": 3,
         "sounds": 1
       },
@@ -4344,7 +4344,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2026-07-04T22:33:01Z"
+      "lastUpdated": "2026-07-04T22:37:32Z"
     },
     "saluda777": {
       "counters": {
@@ -7264,7 +7264,7 @@
         "bits": 1157,
         "follow": 1,
         "sub": 1,
-        "points_spent": 66800,
+        "points_spent": 67100,
         "effects": 32,
         "sounds": 9,
         "screenshot": 13,
@@ -7313,7 +7313,7 @@
         "chat_enthusiast",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-04T21:48:48Z"
+      "lastUpdated": "2026-07-04T22:34:55Z"
     },
     "ldbv1983": {
       "counters": {
@@ -8627,7 +8627,7 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 22,
+        "chat": 25,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -8638,9 +8638,10 @@
         "chat_newbie",
         "chat_talker",
         "effect_first",
-        "night_owl"
+        "night_owl",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-04T22:16:48Z"
+      "lastUpdated": "2026-07-04T22:37:50Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -9891,7 +9892,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 460,
+        "chat": 462,
         "sub": 20,
         "points_spent": 300,
         "effects": 1,
@@ -9918,7 +9919,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-04T22:28:25Z"
+      "lastUpdated": "2026-07-04T22:35:20Z"
     },
     "vrishcath": {
       "counters": {
@@ -9932,7 +9933,7 @@
       "lastUpdated": "2026-07-03T23:00:07Z"
     }
   },
-  "lastUpdated": "2026-07-04T21:33:02Z",
+  "lastUpdated": "2026-07-04T21:37:51Z",
   "totalUsers": 508,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
