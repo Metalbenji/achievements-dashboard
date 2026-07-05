@@ -7269,7 +7269,7 @@
         "sounds": 9,
         "screenshot": 13,
         "clips": 3,
-        "gift_subs": 6,
+        "gift_subs": 9,
         "interactive": 8,
         "sub_tier": 1
       },
@@ -7311,9 +7311,10 @@
         "effect_master",
         "bits_dedicated",
         "chat_enthusiast",
-        "chat_master_tier"
+        "chat_master_tier",
+        "gift_thoughtful"
       ],
-      "lastUpdated": "2026-07-05T13:12:05Z"
+      "lastUpdated": "2026-07-05T13:14:26Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9933,7 +9934,7 @@
       "lastUpdated": "2026-07-03T23:00:07Z"
     }
   },
-  "lastUpdated": "2026-07-05T12:12:47Z",
+  "lastUpdated": "2026-07-05T12:16:04Z",
   "totalUsers": 508,
   "totalAchievements": 157,
   "generatedBy": "Streamer.bot Achievement System"
