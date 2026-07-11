@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4620,
+        "chat": 4621,
         "points_spent": 124851,
         "effects": 20,
         "sub": 18,
@@ -1594,7 +1594,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-11T13:48:18Z"
+      "lastUpdated": "2026-07-11T14:22:16Z"
     },
     "celran": {
       "counters": {
@@ -1632,7 +1632,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1315,
+        "chat": 1320,
         "points_spent": 59405,
         "effects": 38,
         "follow": 1,
@@ -1694,7 +1694,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-11T14:19:25Z"
+      "lastUpdated": "2026-07-11T14:23:53Z"
     },
     "ramdon101": {
       "counters": {
@@ -2529,7 +2529,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5075,
+        "chat": 5077,
         "points_spent": 92750,
         "effects": 52,
         "sub": 49,
@@ -2617,7 +2617,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-11T14:15:12Z"
+      "lastUpdated": "2026-07-11T14:23:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6340,7 +6340,9 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 276
+        "chat": 279,
+        "sub": 23,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6350,9 +6352,18 @@
         "chat_conversationalist",
         "chat_regular",
         "chat_frequent",
-        "night_owl"
+        "night_owl",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum"
       ],
-      "lastUpdated": "2026-07-11T14:19:57Z"
+      "lastUpdated": "2026-07-11T14:23:40Z"
     },
     "grimlocc": {
       "counters": {
@@ -7277,65 +7288,6 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2025-11-01T22:26:36Z"
-    },
-    "metalbenji": {
-      "counters": {
-        "chat": 841,
-        "bits": 1457,
-        "follow": 1,
-        "sub": 1,
-        "points_spent": 74850,
-        "effects": 42,
-        "sounds": 9,
-        "screenshot": 13,
-        "clips": 3,
-        "gift_subs": 13,
-        "interactive": 9,
-        "sub_tier": 1
-      },
-      "unlockedAchievements": [
-        "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist",
-        "follow_supporter",
-        "sub_first_month",
-        "sub_tier1",
-        "bits_tiny",
-        "bits_small",
-        "bits_regular",
-        "weekend_warrior",
-        "effect_first",
-        "sound_first",
-        "spender_bronze",
-        "screenshot_first",
-        "clip_first",
-        "chat_regular",
-        "sub_supporter",
-        "sub_loyal",
-        "sub_dedicated",
-        "gift_starter",
-        "bits_steady",
-        "gift_kind",
-        "interactive_first",
-        "spender_iron",
-        "chat_frequent",
-        "chat_dedicated",
-        "spender_silver",
-        "night_owl",
-        "screenshot_enthusiast",
-        "effect_collector",
-        "gift_caring",
-        "spender_electrum",
-        "spender_gold",
-        "emperor_loyal",
-        "effect_master",
-        "bits_dedicated",
-        "chat_enthusiast",
-        "chat_master_tier",
-        "gift_thoughtful",
-        "gift_supporter"
-      ],
-      "lastUpdated": "2026-07-07T19:56:20Z"
     },
     "ldbv1983": {
       "counters": {
@@ -9956,8 +9908,8 @@
       "lastUpdated": "2026-07-03T23:00:07Z"
     }
   },
-  "lastUpdated": "2026-07-11T13:21:12Z",
-  "totalUsers": 508,
+  "lastUpdated": "2026-07-11T13:26:17Z",
+  "totalUsers": 507,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
