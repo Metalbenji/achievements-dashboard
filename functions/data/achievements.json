@@ -2278,7 +2278,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 229,
+        "chat": 230,
         "points_spent": 63000,
         "sounds": 2,
         "interactive": 1,
@@ -2307,7 +2307,7 @@
         "raid_tier1_captain",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T13:31:18Z"
+      "lastUpdated": "2026-07-12T13:31:33Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2534,7 +2534,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5093,
+        "chat": 5094,
         "points_spent": 92750,
         "effects": 52,
         "sub": 49,
@@ -2622,7 +2622,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-12T13:29:26Z"
+      "lastUpdated": "2026-07-12T13:31:39Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7912,8 +7912,8 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 68,
-        "points_spent": 700,
+        "chat": 69,
+        "points_spent": 1050,
         "screenshot": 1,
         "effects": 1
       },
@@ -7924,9 +7924,10 @@
         "chat_talker",
         "chat_conversationalist",
         "screenshot_first",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-07-12T13:29:58Z"
+      "lastUpdated": "2026-07-12T13:31:48Z"
     },
     "mamialex": {
       "counters": {
@@ -9951,7 +9952,7 @@
       "lastUpdated": "2026-07-12T13:26:54Z"
     }
   },
-  "lastUpdated": "2026-07-12T12:31:19Z",
+  "lastUpdated": "2026-07-12T12:31:49Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
