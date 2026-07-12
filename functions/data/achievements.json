@@ -1698,7 +1698,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3802,
+        "chat": 3803,
         "points_spent": 212453,
         "screenshot": 2,
         "follow": 1,
@@ -1759,7 +1759,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-12T13:19:43Z"
+      "lastUpdated": "2026-07-12T13:22:59Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3447,7 +3447,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4201,
+        "chat": 4202,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3502,7 +3502,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T13:15:50Z"
+      "lastUpdated": "2026-07-12T13:24:48Z"
     },
     "majesty81": {
       "counters": {
@@ -9146,7 +9146,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 933,
+        "chat": 935,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9165,7 +9165,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-12T13:17:12Z"
+      "lastUpdated": "2026-07-12T13:25:51Z"
     },
     "noggen_": {
       "counters": {
@@ -9455,7 +9455,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2052,
+        "chat": 2053,
         "points_spent": 70451,
         "sounds": 4,
         "sub": 30,
@@ -9501,7 +9501,7 @@
         "sub_elite",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T13:19:42Z"
+      "lastUpdated": "2026-07-12T13:22:52Z"
     },
     "infincible": {
       "counters": {
@@ -9925,8 +9925,8 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 1050,
-        "effects": 2
+        "points_spent": 1400,
+        "effects": 4
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -9934,21 +9934,22 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-12T13:22:29Z"
+      "lastUpdated": "2026-07-12T13:25:34Z"
     },
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-12T12:47:46Z"
+      "lastUpdated": "2026-07-12T13:26:54Z"
     }
   },
-  "lastUpdated": "2026-07-12T12:22:30Z",
+  "lastUpdated": "2026-07-12T12:26:56Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
