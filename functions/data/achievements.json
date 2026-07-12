@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4687,
+        "chat": 4688,
         "points_spent": 133051,
         "effects": 20,
         "sub": 18,
@@ -1596,7 +1596,7 @@
         "gift_champion",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T16:48:11Z"
+      "lastUpdated": "2026-07-12T16:50:46Z"
     },
     "celran": {
       "counters": {
@@ -9153,7 +9153,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 977,
+        "chat": 978,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9172,7 +9172,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-12T16:49:20Z"
+      "lastUpdated": "2026-07-12T16:49:58Z"
     },
     "noggen_": {
       "counters": {
@@ -9935,7 +9935,7 @@
         "points_spent": 1400,
         "effects": 4,
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -9943,9 +9943,10 @@
         "effect_first",
         "spender_bronze",
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-12T16:49:35Z"
+      "lastUpdated": "2026-07-12T16:51:30Z"
     },
     "lokonak": {
       "counters": {
@@ -9961,7 +9962,7 @@
       "lastUpdated": "2026-07-12T16:08:24Z"
     }
   },
-  "lastUpdated": "2026-07-12T15:49:45Z",
+  "lastUpdated": "2026-07-12T15:51:32Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
