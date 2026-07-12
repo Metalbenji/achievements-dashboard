@@ -7909,7 +7909,7 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 58,
+        "chat": 59,
         "points_spent": 350,
         "screenshot": 1
       },
@@ -7921,7 +7921,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-07-12T11:31:44Z"
+      "lastUpdated": "2026-07-12T11:32:08Z"
     },
     "mamialex": {
       "counters": {
@@ -9453,12 +9453,13 @@
       "counters": {
         "follow": 1,
         "chat": 2014,
-        "points_spent": 70101,
+        "points_spent": 70451,
         "sounds": 4,
         "sub": 30,
         "clips": 1,
         "gift_subs": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9494,9 +9495,10 @@
         "spender_gold",
         "gift_starter",
         "chat_expert",
-        "sub_elite"
+        "sub_elite",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-12T11:28:31Z"
+      "lastUpdated": "2026-07-12T11:32:11Z"
     },
     "infincible": {
       "counters": {
@@ -9928,7 +9930,7 @@
       "lastUpdated": "2026-07-11T14:26:57Z"
     }
   },
-  "lastUpdated": "2026-07-12T10:31:59Z",
+  "lastUpdated": "2026-07-12T10:32:12Z",
   "totalUsers": 508,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
