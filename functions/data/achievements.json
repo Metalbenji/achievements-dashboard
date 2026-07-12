@@ -1698,7 +1698,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3822,
+        "chat": 3826,
         "points_spent": 212453,
         "screenshot": 2,
         "follow": 1,
@@ -1759,11 +1759,11 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-12T14:28:24Z"
+      "lastUpdated": "2026-07-12T14:45:08Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2913,
+        "chat": 2916,
         "points_spent": 65108,
         "interactive": 51,
         "follow": 1,
@@ -1816,7 +1816,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T14:27:14Z"
+      "lastUpdated": "2026-07-12T14:42:35Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2278,7 +2278,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 239,
+        "chat": 241,
         "points_spent": 63000,
         "sounds": 2,
         "interactive": 1,
@@ -2307,7 +2307,7 @@
         "raid_tier1_captain",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T14:27:22Z"
+      "lastUpdated": "2026-07-12T14:42:27Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2534,7 +2534,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5097,
+        "chat": 5098,
         "points_spent": 93150,
         "effects": 52,
         "sub": 49,
@@ -2622,7 +2622,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-12T13:39:07Z"
+      "lastUpdated": "2026-07-12T14:42:48Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3449,7 +3449,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4212,
+        "chat": 4214,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3504,7 +3504,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T14:26:48Z"
+      "lastUpdated": "2026-07-12T14:42:34Z"
     },
     "majesty81": {
       "counters": {
@@ -5657,7 +5657,7 @@
     "peregrine_101uk": {
       "counters": {
         "follow": 1,
-        "chat": 41,
+        "chat": 42,
         "points_spent": 11200,
         "effects": 4,
         "gift_subs": 1
@@ -5675,7 +5675,7 @@
         "chat_conversationalist",
         "gift_starter"
       ],
-      "lastUpdated": "2026-07-12T14:39:38Z"
+      "lastUpdated": "2026-07-12T14:41:56Z"
     },
     "codewithtd": {
       "counters": {
@@ -8676,7 +8676,7 @@
     "judgegaming92": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 350,
         "effects": 1
       },
@@ -8684,9 +8684,10 @@
         "follow_supporter",
         "weekend_warrior",
         "effect_first",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-04-04T15:01:47Z"
+      "lastUpdated": "2026-07-12T14:53:35Z"
     },
     "slojdmajjen": {
       "counters": {
@@ -9942,7 +9943,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9950,10 +9951,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-07-12T14:40:26Z"
+      "lastUpdated": "2026-07-12T14:40:41Z"
     }
   },
-  "lastUpdated": "2026-07-12T13:40:29Z",
+  "lastUpdated": "2026-07-12T13:53:37Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
