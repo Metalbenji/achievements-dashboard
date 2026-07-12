@@ -1698,7 +1698,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3795,
+        "chat": 3800,
         "points_spent": 212453,
         "screenshot": 2,
         "follow": 1,
@@ -1759,11 +1759,11 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-12T12:46:20Z"
+      "lastUpdated": "2026-07-12T12:49:57Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2897,
+        "chat": 2901,
         "points_spent": 65108,
         "interactive": 51,
         "follow": 1,
@@ -1816,7 +1816,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T12:46:02Z"
+      "lastUpdated": "2026-07-12T12:50:19Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1922,10 +1922,10 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 638,
-        "points_spent": 43301,
+        "chat": 639,
+        "points_spent": 43801,
         "interactive": 1,
-        "effects": 24,
+        "effects": 25,
         "sub": 34,
         "clips": 1,
         "sounds": 2,
@@ -1967,9 +1967,10 @@
         "spender_electrum",
         "sound_first",
         "sub_elite",
-        "screenshot_first"
+        "screenshot_first",
+        "effect_master"
       ],
-      "lastUpdated": "2026-07-12T12:46:22Z"
+      "lastUpdated": "2026-07-12T12:51:18Z"
     },
     "tawmae": {
       "counters": {
@@ -2968,7 +2969,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 949,
+        "chat": 954,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3007,7 +3008,7 @@
         "chat_enthusiast",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T12:15:32Z"
+      "lastUpdated": "2026-07-12T12:50:54Z"
     },
     "ppjackson69": {
       "counters": {
@@ -9145,7 +9146,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 923,
+        "chat": 927,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9164,7 +9165,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-12T12:37:48Z"
+      "lastUpdated": "2026-07-12T12:51:10Z"
     },
     "noggen_": {
       "counters": {
@@ -9454,7 +9455,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2046,
+        "chat": 2049,
         "points_spent": 70451,
         "sounds": 4,
         "sub": 30,
@@ -9500,7 +9501,7 @@
         "sub_elite",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T12:46:18Z"
+      "lastUpdated": "2026-07-12T12:49:46Z"
     },
     "infincible": {
       "counters": {
@@ -9936,15 +9937,17 @@
     },
     "lokonak": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 3
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-12T12:46:35Z"
+      "lastUpdated": "2026-07-12T12:47:46Z"
     }
   },
-  "lastUpdated": "2026-07-12T11:46:36Z",
+  "lastUpdated": "2026-07-12T11:51:19Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
