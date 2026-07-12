@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4692,
+        "chat": 4700,
         "points_spent": 133051,
         "effects": 20,
         "sub": 18,
@@ -1596,7 +1596,7 @@
         "gift_champion",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T17:02:03Z"
+      "lastUpdated": "2026-07-12T17:48:28Z"
     },
     "celran": {
       "counters": {
@@ -1700,7 +1700,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3842,
+        "chat": 3848,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1761,7 +1761,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-12T16:44:26Z"
+      "lastUpdated": "2026-07-12T17:26:05Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1822,7 +1822,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 691,
+        "chat": 697,
         "follow": 1,
         "sub": 41,
         "points_spent": 95000,
@@ -1860,7 +1860,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-07-12T17:08:44Z"
+      "lastUpdated": "2026-07-12T17:21:01Z"
     },
     "scoman07": {
       "counters": {
@@ -2280,7 +2280,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 252,
+        "chat": 253,
         "points_spent": 63000,
         "sounds": 2,
         "interactive": 1,
@@ -2309,7 +2309,7 @@
         "raid_tier1_captain",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T15:54:41Z"
+      "lastUpdated": "2026-07-12T17:25:13Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -3145,7 +3145,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1862,
+        "chat": 1863,
         "points_spent": 114701,
         "sounds": 12,
         "effects": 124,
@@ -3229,7 +3229,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-12T17:03:02Z"
+      "lastUpdated": "2026-07-12T17:16:06Z"
     },
     "andilippi": {
       "counters": {
@@ -7205,7 +7205,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 486,
+        "chat": 489,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7229,7 +7229,7 @@
         "spender_iron",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T17:02:23Z"
+      "lastUpdated": "2026-07-12T17:48:59Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9153,7 +9153,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 979,
+        "chat": 981,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9172,7 +9172,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-12T16:53:04Z"
+      "lastUpdated": "2026-07-12T17:48:55Z"
     },
     "noggen_": {
       "counters": {
@@ -9935,7 +9935,7 @@
         "points_spent": 1400,
         "effects": 4,
         "follow": 1,
-        "chat": 10
+        "chat": 25
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -9945,9 +9945,10 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-12T17:10:00Z"
+      "lastUpdated": "2026-07-12T18:42:21Z"
     },
     "lokonak": {
       "counters": {
@@ -9963,7 +9964,7 @@
       "lastUpdated": "2026-07-12T16:08:24Z"
     }
   },
-  "lastUpdated": "2026-07-12T16:10:02Z",
+  "lastUpdated": "2026-07-12T17:42:22Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
