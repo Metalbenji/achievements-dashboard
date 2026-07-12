@@ -1698,7 +1698,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3803,
+        "chat": 3807,
         "points_spent": 212453,
         "screenshot": 2,
         "follow": 1,
@@ -1759,11 +1759,11 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-12T13:22:59Z"
+      "lastUpdated": "2026-07-12T13:30:05Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2902,
+        "chat": 2903,
         "points_spent": 65108,
         "interactive": 51,
         "follow": 1,
@@ -1816,7 +1816,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T12:53:06Z"
+      "lastUpdated": "2026-07-12T13:29:43Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2278,12 +2278,13 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 228,
-        "points_spent": 62650,
+        "chat": 229,
+        "points_spent": 63000,
         "sounds": 2,
         "interactive": 1,
         "screenshot": 1,
-        "raid": 1
+        "raid": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2303,9 +2304,10 @@
         "biggest_fan",
         "chat_regular",
         "chat_frequent",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-11T16:59:01Z"
+      "lastUpdated": "2026-07-12T13:31:18Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2532,7 +2534,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5092,
+        "chat": 5093,
         "points_spent": 92750,
         "effects": 52,
         "sub": 49,
@@ -2620,7 +2622,7 @@
         "sub_legendary",
         "clip_master"
       ],
-      "lastUpdated": "2026-07-12T12:52:07Z"
+      "lastUpdated": "2026-07-12T13:29:26Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7910,7 +7912,7 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 65,
+        "chat": 68,
         "points_spent": 700,
         "screenshot": 1,
         "effects": 1
@@ -7924,7 +7926,7 @@
         "screenshot_first",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T12:03:25Z"
+      "lastUpdated": "2026-07-12T13:29:58Z"
     },
     "mamialex": {
       "counters": {
@@ -9241,7 +9243,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 305,
+        "chat": 309,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9254,7 +9256,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-12T11:35:01Z"
+      "lastUpdated": "2026-07-12T13:31:01Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -9949,7 +9951,7 @@
       "lastUpdated": "2026-07-12T13:26:54Z"
     }
   },
-  "lastUpdated": "2026-07-12T12:26:56Z",
+  "lastUpdated": "2026-07-12T12:31:19Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
