@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4651,
+        "chat": 4652,
         "points_spent": 124851,
         "effects": 20,
         "sub": 18,
@@ -1594,7 +1594,7 @@
         "gift_bombs_regular",
         "gift_champion"
       ],
-      "lastUpdated": "2026-07-12T11:23:42Z"
+      "lastUpdated": "2026-07-12T11:29:41Z"
     },
     "celran": {
       "counters": {
@@ -3272,7 +3272,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 164,
+        "chat": 167,
         "points_spent": 6000,
         "sub": 16
       },
@@ -3295,7 +3295,7 @@
         "chat_regular",
         "spender_iron"
       ],
-      "lastUpdated": "2026-07-12T11:15:22Z"
+      "lastUpdated": "2026-07-12T11:28:58Z"
     },
     "chadrestricted": {
       "counters": {
@@ -7906,16 +7906,19 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 50
+        "chat": 54,
+        "points_spent": 350,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "screenshot_first"
       ],
-      "lastUpdated": "2026-07-12T11:23:58Z"
+      "lastUpdated": "2026-07-12T11:29:46Z"
     },
     "mamialex": {
       "counters": {
@@ -9232,7 +9235,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 300,
+        "chat": 303,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9245,7 +9248,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-12T11:24:35Z"
+      "lastUpdated": "2026-07-12T11:29:10Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -9446,7 +9449,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2013,
+        "chat": 2014,
         "points_spent": 70101,
         "sounds": 4,
         "sub": 30,
@@ -9490,7 +9493,7 @@
         "chat_expert",
         "sub_elite"
       ],
-      "lastUpdated": "2026-07-12T11:19:46Z"
+      "lastUpdated": "2026-07-12T11:28:31Z"
     },
     "infincible": {
       "counters": {
@@ -9922,7 +9925,7 @@
       "lastUpdated": "2026-07-11T14:26:57Z"
     }
   },
-  "lastUpdated": "2026-07-12T10:24:37Z",
+  "lastUpdated": "2026-07-12T10:29:47Z",
   "totalUsers": 508,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
