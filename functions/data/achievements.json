@@ -8939,14 +8939,15 @@
     "killakris": {
       "counters": {
         "follow": 1,
-        "chat": 7
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-04-04T14:01:06Z"
+      "lastUpdated": "2026-07-12T14:56:39Z"
     },
     "tibirius93": {
       "counters": {
@@ -9954,7 +9955,7 @@
       "lastUpdated": "2026-07-12T14:40:41Z"
     }
   },
-  "lastUpdated": "2026-07-12T13:53:37Z",
+  "lastUpdated": "2026-07-12T13:56:43Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
