@@ -1698,7 +1698,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3750,
+        "chat": 3753,
         "points_spent": 212453,
         "screenshot": 2,
         "follow": 1,
@@ -1759,11 +1759,11 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-11T13:21:46Z"
+      "lastUpdated": "2026-07-12T11:35:41Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2881,
+        "chat": 2882,
         "points_spent": 65108,
         "interactive": 51,
         "follow": 1,
@@ -1816,7 +1816,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T11:31:18Z"
+      "lastUpdated": "2026-07-12T11:32:26Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1997,7 +1997,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 568,
+        "chat": 569,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2028,7 +2028,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-12T11:17:30Z"
+      "lastUpdated": "2026-07-12T11:35:07Z"
     },
     "sealdancer": {
       "counters": {
@@ -3446,7 +3446,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4196,
+        "chat": 4198,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3501,7 +3501,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T11:18:47Z"
+      "lastUpdated": "2026-07-12T11:36:07Z"
     },
     "majesty81": {
       "counters": {
@@ -5088,7 +5088,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 411
+        "chat": 412
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5100,7 +5100,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-12T11:19:24Z"
+      "lastUpdated": "2026-07-12T11:35:02Z"
     },
     "dinshara": {
       "counters": {
@@ -6342,7 +6342,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 294,
+        "chat": 297,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 350,
@@ -6368,7 +6368,7 @@
         "sub_platinum",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-12T11:31:58Z"
+      "lastUpdated": "2026-07-12T11:35:39Z"
     },
     "grimlocc": {
       "counters": {
@@ -9143,7 +9143,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 897,
+        "chat": 898,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9162,7 +9162,7 @@
         "night_owl",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-07-11T16:18:31Z"
+      "lastUpdated": "2026-07-12T11:35:27Z"
     },
     "noggen_": {
       "counters": {
@@ -9238,7 +9238,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 303,
+        "chat": 305,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9251,7 +9251,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-12T11:29:10Z"
+      "lastUpdated": "2026-07-12T11:35:01Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -9921,16 +9921,19 @@
     "metalbenji": {
       "counters": {
         "sub": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
-        "sub_first_month"
+        "sub_first_month",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-11T14:26:57Z"
+      "lastUpdated": "2026-07-12T11:36:09Z"
     }
   },
-  "lastUpdated": "2026-07-12T10:32:12Z",
+  "lastUpdated": "2026-07-12T10:36:10Z",
   "totalUsers": 508,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
