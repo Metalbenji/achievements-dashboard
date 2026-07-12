@@ -1763,9 +1763,9 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2880,
-        "points_spent": 64608,
-        "interactive": 50,
+        "chat": 2881,
+        "points_spent": 65108,
+        "interactive": 51,
         "follow": 1,
         "sub": 43,
         "effects": 6,
@@ -1816,7 +1816,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-12T11:19:19Z"
+      "lastUpdated": "2026-07-12T11:31:18Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3272,8 +3272,8 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 167,
-        "points_spent": 6000,
+        "chat": 170,
+        "points_spent": 8000,
         "sub": 16
       },
       "unlockedAchievements": [
@@ -3295,7 +3295,7 @@
         "chat_regular",
         "spender_iron"
       ],
-      "lastUpdated": "2026-07-12T11:28:58Z"
+      "lastUpdated": "2026-07-12T11:30:59Z"
     },
     "chadrestricted": {
       "counters": {
@@ -6344,7 +6344,9 @@
         "follow": 1,
         "chat": 294,
         "sub": 23,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6363,9 +6365,10 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "sub_platinum"
+        "sub_platinum",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-11T16:58:42Z"
+      "lastUpdated": "2026-07-12T11:31:58Z"
     },
     "grimlocc": {
       "counters": {
@@ -7906,7 +7909,7 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 54,
+        "chat": 58,
         "points_spent": 350,
         "screenshot": 1
       },
@@ -7918,7 +7921,7 @@
         "chat_conversationalist",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-07-12T11:29:46Z"
+      "lastUpdated": "2026-07-12T11:31:44Z"
     },
     "mamialex": {
       "counters": {
@@ -9925,7 +9928,7 @@
       "lastUpdated": "2026-07-11T14:26:57Z"
     }
   },
-  "lastUpdated": "2026-07-12T10:29:47Z",
+  "lastUpdated": "2026-07-12T10:31:59Z",
   "totalUsers": 508,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
