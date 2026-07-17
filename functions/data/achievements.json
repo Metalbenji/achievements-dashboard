@@ -9932,8 +9932,8 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 10400,
-        "effects": 12,
+        "points_spent": 20400,
+        "effects": 23,
         "follow": 1,
         "chat": 51
       },
@@ -9951,7 +9951,7 @@
         "effect_collector",
         "spender_silver"
       ],
-      "lastUpdated": "2026-07-12T20:45:31Z"
+      "lastUpdated": "2026-07-17T19:18:55Z"
     },
     "lokonak": {
       "counters": {
@@ -9967,7 +9967,7 @@
       "lastUpdated": "2026-07-12T16:08:24Z"
     }
   },
-  "lastUpdated": "2026-07-12T19:45:33Z",
+  "lastUpdated": "2026-07-17T18:19:01Z",
   "totalUsers": 509,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
