@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4737,
+        "chat": 4738,
         "points_spent": 133051,
         "effects": 20,
         "sub": 18,
@@ -1596,7 +1596,7 @@
         "gift_champion",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-18T10:23:56Z"
+      "lastUpdated": "2026-07-18T11:43:11Z"
     },
     "celran": {
       "counters": {
@@ -3702,7 +3702,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2153,
+        "chat": 2158,
         "points_spent": 68901,
         "effects": 7,
         "interactive": 18,
@@ -3737,7 +3737,7 @@
         "sound_dj",
         "first_caller"
       ],
-      "lastUpdated": "2026-07-18T10:43:19Z"
+      "lastUpdated": "2026-07-18T11:45:44Z"
     },
     "roffelonator": {
       "counters": {
@@ -3939,7 +3939,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 75
+        "chat": 77
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3948,7 +3948,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-18T11:39:20Z"
+      "lastUpdated": "2026-07-18T11:44:17Z"
     },
     "arpi_89": {
       "counters": {
@@ -7534,12 +7534,12 @@
     },
     "vilitingz": {
       "counters": {
-        "chat": 95,
+        "chat": 100,
         "sub": 2,
-        "points_spent": 2301,
+        "points_spent": 2651,
         "interactive": 1,
         "follow": 1,
-        "effects": 4
+        "effects": 5
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7553,9 +7553,10 @@
         "effect_first",
         "spender_bronze",
         "sub_supporter",
-        "first_caller"
+        "first_caller",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-07-18T11:40:40Z"
+      "lastUpdated": "2026-07-18T11:46:21Z"
     },
     "itsladymenace": {
       "counters": {
@@ -9979,15 +9980,15 @@
     },
     "wild_saber1337": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-18T11:40:52Z"
+      "lastUpdated": "2026-07-18T11:43:37Z"
     }
   },
-  "lastUpdated": "2026-07-18T10:40:53Z",
+  "lastUpdated": "2026-07-18T10:46:22Z",
   "totalUsers": 510,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
