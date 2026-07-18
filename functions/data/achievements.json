@@ -4408,7 +4408,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 177,
+        "chat": 178,
         "sub": 19,
         "raid": 3
       },
@@ -4432,7 +4432,7 @@
         "sub_platinum",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-18T12:56:08Z"
+      "lastUpdated": "2026-07-18T12:56:33Z"
     },
     "xykojen": {
       "counters": {
@@ -9999,21 +9999,23 @@
     "ardallox": {
       "counters": {
         "chat": 14,
-        "points_spent": 100,
+        "points_spent": 450,
         "sounds": 1,
-        "follow": 1
+        "follow": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
         "sound_first",
-        "follow_supporter"
+        "follow_supporter",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-18T12:56:23Z"
+      "lastUpdated": "2026-07-18T12:56:37Z"
     }
   },
-  "lastUpdated": "2026-07-18T11:56:25Z",
+  "lastUpdated": "2026-07-18T11:56:38Z",
   "totalUsers": 511,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
