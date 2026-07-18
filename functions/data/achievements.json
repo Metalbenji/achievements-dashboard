@@ -1700,7 +1700,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3901,
+        "chat": 3902,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1761,7 +1761,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-18T12:35:07Z"
+      "lastUpdated": "2026-07-18T12:41:16Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3148,7 +3148,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1889,
+        "chat": 1890,
         "points_spent": 115801,
         "sounds": 12,
         "effects": 126,
@@ -3232,7 +3232,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-18T12:39:19Z"
+      "lastUpdated": "2026-07-18T12:40:59Z"
     },
     "andilippi": {
       "counters": {
@@ -3940,16 +3940,17 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 94
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-07-18T12:39:43Z"
+      "lastUpdated": "2026-07-18T12:41:36Z"
     },
     "arpi_89": {
       "counters": {
@@ -7146,7 +7147,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1652,
+        "chat": 1653,
         "points_spent": 84104,
         "sounds": 25,
         "effects": 19,
@@ -7198,7 +7199,7 @@
         "chat_expert",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-18T12:36:35Z"
+      "lastUpdated": "2026-07-18T12:41:36Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10007,7 +10008,7 @@
       "lastUpdated": "2026-07-18T12:40:22Z"
     }
   },
-  "lastUpdated": "2026-07-18T11:40:23Z",
+  "lastUpdated": "2026-07-18T11:41:37Z",
   "totalUsers": 511,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
