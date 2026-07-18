@@ -3134,15 +3134,16 @@
     "bludshed187": {
       "counters": {
         "follow": 1,
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-12T13:22:18Z"
+      "lastUpdated": "2026-07-18T12:26:13Z"
     },
     "mistycal_eu": {
       "counters": {
@@ -3939,7 +3940,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 88
+        "chat": 89
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3948,7 +3949,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-18T12:25:18Z"
+      "lastUpdated": "2026-07-18T12:25:41Z"
     },
     "arpi_89": {
       "counters": {
@@ -9973,7 +9974,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 22
+        "chat": 23
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9981,7 +9982,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-07-18T12:16:59Z"
+      "lastUpdated": "2026-07-18T12:25:42Z"
     },
     "wild_saber1337": {
       "counters": {
@@ -10004,7 +10005,7 @@
       "lastUpdated": "2026-07-18T12:25:40Z"
     }
   },
-  "lastUpdated": "2026-07-18T11:25:41Z",
+  "lastUpdated": "2026-07-18T11:26:14Z",
   "totalUsers": 511,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
