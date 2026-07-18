@@ -1700,7 +1700,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3890,
+        "chat": 3893,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1761,7 +1761,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-18T11:33:55Z"
+      "lastUpdated": "2026-07-18T12:03:40Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3147,12 +3147,12 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1866,
-        "points_spent": 115201,
+        "chat": 1878,
+        "points_spent": 115801,
         "sounds": 12,
-        "effects": 125,
+        "effects": 126,
         "sub": 51,
-        "bits": 13552,
+        "bits": 13574,
         "interactive": 8,
         "screenshot": 10,
         "gift_subs": 346,
@@ -3231,7 +3231,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-18T11:50:44Z"
+      "lastUpdated": "2026-07-18T12:07:06Z"
     },
     "andilippi": {
       "counters": {
@@ -3279,7 +3279,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 176,
+        "chat": 177,
         "points_spent": 8000,
         "sub": 16
       },
@@ -3302,7 +3302,7 @@
         "chat_regular",
         "spender_iron"
       ],
-      "lastUpdated": "2026-07-12T12:15:51Z"
+      "lastUpdated": "2026-07-18T12:00:35Z"
     },
     "chadrestricted": {
       "counters": {
@@ -3453,7 +3453,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4223,
+        "chat": 4235,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3508,7 +3508,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-18T11:50:40Z"
+      "lastUpdated": "2026-07-18T11:56:39Z"
     },
     "majesty81": {
       "counters": {
@@ -5004,7 +5004,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 202,
+        "chat": 209,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5027,7 +5027,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-18T11:51:41Z"
+      "lastUpdated": "2026-07-18T12:02:22Z"
     },
     "auriaya__": {
       "counters": {
@@ -9257,7 +9257,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 400,
+        "chat": 401,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9270,7 +9270,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:51:14Z"
+      "lastUpdated": "2026-07-18T11:57:52Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -9984,16 +9984,16 @@
     },
     "wild_saber1337": {
       "counters": {
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-18T11:52:12Z"
+      "lastUpdated": "2026-07-18T11:57:00Z"
     }
   },
-  "lastUpdated": "2026-07-18T10:52:13Z",
+  "lastUpdated": "2026-07-18T11:07:10Z",
   "totalUsers": 510,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
