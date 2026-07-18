@@ -5004,7 +5004,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5024,9 +5024,10 @@
         "sub_champion",
         "bday2025_support",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-07-18T11:33:47Z"
+      "lastUpdated": "2026-07-18T11:51:05Z"
     },
     "auriaya__": {
       "counters": {
@@ -5417,7 +5418,7 @@
     "jamie1496": {
       "counters": {
         "follow": 1,
-        "chat": 237,
+        "chat": 238,
         "points_spent": 1600,
         "interactive": 4
       },
@@ -5432,7 +5433,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-18T11:49:45Z"
+      "lastUpdated": "2026-07-18T11:51:01Z"
     },
     "sophplayswow": {
       "counters": {
@@ -7535,11 +7536,12 @@
     "vilitingz": {
       "counters": {
         "chat": 100,
-        "sub": 2,
+        "sub": 4,
         "points_spent": 2651,
         "interactive": 1,
         "follow": 1,
-        "effects": 5
+        "effects": 5,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -7554,9 +7556,11 @@
         "spender_bronze",
         "sub_supporter",
         "first_caller",
-        "chat_regular"
+        "chat_regular",
+        "sub_loyal",
+        "sub_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:46:21Z"
+      "lastUpdated": "2026-07-18T11:50:58Z"
     },
     "itsladymenace": {
       "counters": {
@@ -9988,7 +9992,7 @@
       "lastUpdated": "2026-07-18T11:49:47Z"
     }
   },
-  "lastUpdated": "2026-07-18T10:51:00Z",
+  "lastUpdated": "2026-07-18T10:51:06Z",
   "totalUsers": 510,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
