@@ -5004,7 +5004,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 202,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5027,7 +5027,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-18T11:51:05Z"
+      "lastUpdated": "2026-07-18T11:51:41Z"
     },
     "auriaya__": {
       "counters": {
@@ -7535,12 +7535,12 @@
     },
     "vilitingz": {
       "counters": {
-        "chat": 100,
+        "chat": 101,
         "sub": 4,
-        "points_spent": 2651,
+        "points_spent": 3001,
         "interactive": 1,
         "follow": 1,
-        "effects": 5,
+        "effects": 6,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -7560,7 +7560,7 @@
         "sub_loyal",
         "sub_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:50:58Z"
+      "lastUpdated": "2026-07-18T11:51:56Z"
     },
     "itsladymenace": {
       "counters": {
@@ -9257,7 +9257,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 399,
+        "chat": 400,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9270,11 +9270,11 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:50:48Z"
+      "lastUpdated": "2026-07-18T11:51:14Z"
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 306,
+        "chat": 307,
         "follow": 1,
         "points_spent": 650,
         "effects": 2
@@ -9290,7 +9290,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:48:25Z"
+      "lastUpdated": "2026-07-18T11:52:02Z"
     },
     "discostarz": {
       "counters": {
@@ -9984,15 +9984,16 @@
     },
     "wild_saber1337": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-18T11:49:47Z"
+      "lastUpdated": "2026-07-18T11:52:12Z"
     }
   },
-  "lastUpdated": "2026-07-18T10:51:06Z",
+  "lastUpdated": "2026-07-18T10:52:13Z",
   "totalUsers": 510,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
