@@ -2373,7 +2373,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1255,
+        "chat": 1259,
         "points_spent": 15450,
         "effects": 29,
         "sounds": 5,
@@ -2401,7 +2401,7 @@
         "spender_iron",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-18T14:55:56Z"
+      "lastUpdated": "2026-07-18T14:57:29Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2539,8 +2539,8 @@
       "counters": {
         "follow": 1,
         "chat": 5149,
-        "points_spent": 95500,
-        "effects": 53,
+        "points_spent": 96300,
+        "effects": 54,
         "sub": 49,
         "sounds": 6,
         "bits": 5000,
@@ -2627,7 +2627,7 @@
         "clip_master",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-07-18T14:49:44Z"
+      "lastUpdated": "2026-07-18T14:57:25Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7150,7 +7150,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1663,
+        "chat": 1664,
         "points_spent": 84104,
         "sounds": 25,
         "effects": 19,
@@ -7202,7 +7202,7 @@
         "chat_expert",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-18T14:37:07Z"
+      "lastUpdated": "2026-07-18T14:57:38Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10002,7 +10002,7 @@
     },
     "ardallox": {
       "counters": {
-        "chat": 17,
+        "chat": 18,
         "points_spent": 650,
         "sounds": 1,
         "follow": 1,
@@ -10016,26 +10016,28 @@
         "follow_supporter",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-18T14:55:34Z"
+      "lastUpdated": "2026-07-18T14:56:06Z"
     },
     "elvi0396": {
       "counters": {
         "follow": 1,
         "chat": 21,
-        "points_spent": 300,
-        "effects": 1
+        "points_spent": 700,
+        "effects": 1,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "effect_first"
+        "effect_first",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-07-18T14:56:03Z"
+      "lastUpdated": "2026-07-18T14:58:22Z"
     }
   },
-  "lastUpdated": "2026-07-18T13:56:04Z",
+  "lastUpdated": "2026-07-18T13:58:24Z",
   "totalUsers": 512,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
