@@ -1700,7 +1700,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3893,
+        "chat": 3894,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1761,7 +1761,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-18T12:03:40Z"
+      "lastUpdated": "2026-07-18T12:16:40Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2000,7 +2000,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 599,
+        "chat": 600,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2031,7 +2031,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-18T11:49:54Z"
+      "lastUpdated": "2026-07-18T12:16:29Z"
     },
     "sealdancer": {
       "counters": {
@@ -3147,7 +3147,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1878,
+        "chat": 1884,
         "points_spent": 115801,
         "sounds": 12,
         "effects": 126,
@@ -3231,7 +3231,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-18T12:07:06Z"
+      "lastUpdated": "2026-07-18T12:16:20Z"
     },
     "andilippi": {
       "counters": {
@@ -3702,7 +3702,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2158,
+        "chat": 2159,
         "points_spent": 68901,
         "effects": 7,
         "interactive": 18,
@@ -3737,7 +3737,7 @@
         "sound_dj",
         "first_caller"
       ],
-      "lastUpdated": "2026-07-18T11:45:44Z"
+      "lastUpdated": "2026-07-18T12:09:21Z"
     },
     "roffelonator": {
       "counters": {
@@ -6949,8 +6949,8 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 140,
-        "sub": 7,
+        "chat": 147,
+        "sub": 8,
         "points_spent": 10350,
         "sounds": 1,
         "sub_tier": 1
@@ -6971,9 +6971,10 @@
         "spender_iron",
         "spender_silver",
         "sound_first",
-        "chat_regular"
+        "chat_regular",
+        "sub_veteran"
       ],
-      "lastUpdated": "2026-07-02T16:51:57Z"
+      "lastUpdated": "2026-07-18T12:10:41Z"
     },
     "daddy0ps": {
       "counters": {
@@ -9274,7 +9275,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 307,
+        "chat": 308,
         "follow": 1,
         "points_spent": 650,
         "effects": 2
@@ -9290,7 +9291,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:52:02Z"
+      "lastUpdated": "2026-07-18T12:14:35Z"
     },
     "discostarz": {
       "counters": {
@@ -9991,10 +9992,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-07-18T11:57:00Z"
+    },
+    "ardallox": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-18T12:16:49Z"
     }
   },
-  "lastUpdated": "2026-07-18T11:07:10Z",
-  "totalUsers": 510,
+  "lastUpdated": "2026-07-18T11:16:50Z",
+  "totalUsers": 511,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
