@@ -2000,7 +2000,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 594,
+        "chat": 599,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2031,7 +2031,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-18T11:14:36Z"
+      "lastUpdated": "2026-07-18T11:49:54Z"
     },
     "sealdancer": {
       "counters": {
@@ -3148,9 +3148,9 @@
       "counters": {
         "follow": 1,
         "chat": 1866,
-        "points_spent": 114701,
+        "points_spent": 115201,
         "sounds": 12,
-        "effects": 124,
+        "effects": 125,
         "sub": 51,
         "bits": 13552,
         "interactive": 8,
@@ -3231,7 +3231,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-18T11:38:52Z"
+      "lastUpdated": "2026-07-18T11:50:44Z"
     },
     "andilippi": {
       "counters": {
@@ -3453,7 +3453,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4222,
+        "chat": 4223,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3508,7 +3508,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-18T11:26:28Z"
+      "lastUpdated": "2026-07-18T11:50:40Z"
     },
     "majesty81": {
       "counters": {
@@ -3939,7 +3939,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 77
+        "chat": 80
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3948,7 +3948,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-18T11:44:17Z"
+      "lastUpdated": "2026-07-18T11:50:23Z"
     },
     "arpi_89": {
       "counters": {
@@ -5417,7 +5417,7 @@
     "jamie1496": {
       "counters": {
         "follow": 1,
-        "chat": 235,
+        "chat": 237,
         "points_spent": 1600,
         "interactive": 4
       },
@@ -5432,7 +5432,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-18T11:14:53Z"
+      "lastUpdated": "2026-07-18T11:49:45Z"
     },
     "sophplayswow": {
       "counters": {
@@ -9253,7 +9253,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 396,
+        "chat": 399,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9266,11 +9266,11 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:14:08Z"
+      "lastUpdated": "2026-07-18T11:50:48Z"
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 301,
+        "chat": 306,
         "follow": 1,
         "points_spent": 650,
         "effects": 2
@@ -9286,7 +9286,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-18T11:26:18Z"
+      "lastUpdated": "2026-07-18T11:48:25Z"
     },
     "discostarz": {
       "counters": {
@@ -9968,7 +9968,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 19
+        "chat": 21
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9976,19 +9976,19 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-07-12T16:08:24Z"
+      "lastUpdated": "2026-07-18T11:48:37Z"
     },
     "wild_saber1337": {
       "counters": {
-        "chat": 3
+        "chat": 4
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-18T11:43:37Z"
+      "lastUpdated": "2026-07-18T11:49:47Z"
     }
   },
-  "lastUpdated": "2026-07-18T10:46:22Z",
+  "lastUpdated": "2026-07-18T10:50:59Z",
   "totalUsers": 510,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
