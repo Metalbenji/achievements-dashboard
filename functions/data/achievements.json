@@ -1700,7 +1700,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3905,
+        "chat": 3907,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1761,7 +1761,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-18T12:43:25Z"
+      "lastUpdated": "2026-07-18T12:55:22Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1822,7 +1822,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 704,
+        "chat": 707,
         "follow": 1,
         "sub": 41,
         "points_spent": 95000,
@@ -1860,7 +1860,7 @@
         "early_bird",
         "sub_master"
       ],
-      "lastUpdated": "2026-07-18T12:43:44Z"
+      "lastUpdated": "2026-07-18T12:55:50Z"
     },
     "scoman07": {
       "counters": {
@@ -2000,7 +2000,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 602,
+        "chat": 603,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2031,7 +2031,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-18T12:51:15Z"
+      "lastUpdated": "2026-07-18T12:51:33Z"
     },
     "sealdancer": {
       "counters": {
@@ -4408,7 +4408,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 175,
+        "chat": 177,
         "sub": 19,
         "raid": 3
       },
@@ -4432,7 +4432,7 @@
         "sub_platinum",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-04T22:51:48Z"
+      "lastUpdated": "2026-07-18T12:56:08Z"
     },
     "xykojen": {
       "counters": {
@@ -9901,7 +9901,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 540,
+        "chat": 541,
         "sub": 20,
         "points_spent": 300,
         "effects": 1,
@@ -9928,7 +9928,7 @@
         "chat_dedicated",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-18T12:51:18Z"
+      "lastUpdated": "2026-07-18T12:55:53Z"
     },
     "vrishcath": {
       "counters": {
@@ -9975,7 +9975,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 25
+        "chat": 28
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9984,7 +9984,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-18T12:34:17Z"
+      "lastUpdated": "2026-07-18T12:55:28Z"
     },
     "wild_saber1337": {
       "counters": {
@@ -9998,20 +9998,22 @@
     },
     "ardallox": {
       "counters": {
-        "chat": 10,
+        "chat": 14,
         "points_spent": 100,
-        "sounds": 1
+        "sounds": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "sound_first"
+        "sound_first",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-18T12:51:24Z"
+      "lastUpdated": "2026-07-18T12:56:23Z"
     }
   },
-  "lastUpdated": "2026-07-18T11:51:25Z",
+  "lastUpdated": "2026-07-18T11:56:25Z",
   "totalUsers": 511,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
