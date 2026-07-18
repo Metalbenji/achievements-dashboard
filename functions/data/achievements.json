@@ -1700,7 +1700,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3937,
+        "chat": 3938,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1761,7 +1761,7 @@
         "spender_titanium",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-18T14:37:12Z"
+      "lastUpdated": "2026-07-18T14:41:51Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1825,9 +1825,10 @@
         "chat": 712,
         "follow": 1,
         "sub": 41,
-        "points_spent": 95000,
+        "points_spent": 95350,
         "sounds": 4,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1858,9 +1859,10 @@
         "spender_iron",
         "spender_electrum",
         "early_bird",
-        "sub_master"
+        "sub_master",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-18T14:39:10Z"
+      "lastUpdated": "2026-07-18T14:42:09Z"
     },
     "scoman07": {
       "counters": {
@@ -2371,7 +2373,7 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1234,
+        "chat": 1240,
         "points_spent": 15450,
         "effects": 29,
         "sounds": 5,
@@ -2399,7 +2401,7 @@
         "spender_iron",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-18T14:40:01Z"
+      "lastUpdated": "2026-07-18T14:42:00Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2536,7 +2538,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5146,
+        "chat": 5148,
         "points_spent": 95500,
         "effects": 53,
         "sub": 49,
@@ -2625,7 +2627,7 @@
         "clip_master",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-07-18T14:40:00Z"
+      "lastUpdated": "2026-07-18T14:41:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3148,7 +3150,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1906,
+        "chat": 1907,
         "points_spent": 115801,
         "sounds": 12,
         "effects": 126,
@@ -3232,7 +3234,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-18T14:27:11Z"
+      "lastUpdated": "2026-07-18T14:42:04Z"
     },
     "andilippi": {
       "counters": {
@@ -10019,17 +10021,17 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-18T14:40:01Z"
+      "lastUpdated": "2026-07-18T14:41:57Z"
     }
   },
-  "lastUpdated": "2026-07-18T13:40:02Z",
+  "lastUpdated": "2026-07-18T13:42:10Z",
   "totalUsers": 512,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
