@@ -1765,7 +1765,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2953,
+        "chat": 2954,
         "points_spent": 65108,
         "interactive": 51,
         "follow": 1,
@@ -1818,7 +1818,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T13:25:16Z"
+      "lastUpdated": "2026-07-19T13:57:48Z"
     },
     "aladderinsane": {
       "counters": {
@@ -10056,15 +10056,17 @@
     },
     "00lemonada8": {
       "counters": {
-        "chat": 1
+        "chat": 3,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-19T13:57:16Z"
+      "lastUpdated": "2026-07-19T13:58:45Z"
     }
   },
-  "lastUpdated": "2026-07-19T12:57:18Z",
+  "lastUpdated": "2026-07-19T12:58:49Z",
   "totalUsers": 514,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
