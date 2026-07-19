@@ -1765,7 +1765,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2974,
+        "chat": 2985,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1818,11 +1818,11 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T17:25:57Z"
+      "lastUpdated": "2026-07-19T17:57:36Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 718,
+        "chat": 719,
         "follow": 1,
         "sub": 41,
         "points_spent": 95350,
@@ -1862,7 +1862,7 @@
         "sub_master",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-19T17:27:51Z"
+      "lastUpdated": "2026-07-19T17:28:59Z"
     },
     "scoman07": {
       "counters": {
@@ -2747,7 +2747,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 344,
+        "chat": 345,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 40,
@@ -2795,7 +2795,7 @@
         "gift_angel",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-19T15:10:17Z"
+      "lastUpdated": "2026-07-19T17:51:21Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3458,7 +3458,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4299,
+        "chat": 4302,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3513,7 +3513,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T16:54:15Z"
+      "lastUpdated": "2026-07-19T17:49:38Z"
     },
     "majesty81": {
       "counters": {
@@ -7152,7 +7152,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1705,
+        "chat": 1706,
         "points_spent": 105004,
         "sounds": 26,
         "effects": 22,
@@ -7205,7 +7205,7 @@
         "bits_steady",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-07-19T17:24:13Z"
+      "lastUpdated": "2026-07-19T17:56:47Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9173,7 +9173,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1046,
+        "chat": 1047,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9193,7 +9193,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-07-19T16:54:15Z"
+      "lastUpdated": "2026-07-19T17:49:34Z"
     },
     "noggen_": {
       "counters": {
@@ -10110,10 +10110,19 @@
         "chat_talker"
       ],
       "lastUpdated": "2026-07-19T17:28:40Z"
+    },
+    "uchiha_tarso1": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-19T16:28:41Z",
-  "totalUsers": 518,
+  "lastUpdated": "2026-07-19T16:58:07Z",
+  "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
