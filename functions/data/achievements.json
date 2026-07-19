@@ -9173,7 +9173,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1000,
+        "chat": 1007,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9193,7 +9193,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-07-19T13:38:35Z"
+      "lastUpdated": "2026-07-19T13:56:57Z"
     },
     "noggen_": {
       "counters": {
@@ -10053,10 +10053,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-07-19T11:24:50Z"
+    },
+    "00lemonada8": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-19T13:57:16Z"
     }
   },
-  "lastUpdated": "2026-07-19T12:38:37Z",
-  "totalUsers": 513,
+  "lastUpdated": "2026-07-19T12:57:18Z",
+  "totalUsers": 514,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
