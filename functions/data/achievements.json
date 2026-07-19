@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 541,
+        "chat": 543,
         "points_spent": 49502,
         "follow": 1,
         "sub": 25,
@@ -1501,7 +1501,7 @@
         "sub_diamond",
         "first_caller"
       ],
-      "lastUpdated": "2026-07-19T11:01:08Z"
+      "lastUpdated": "2026-07-19T11:05:28Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4763,
+        "chat": 4765,
         "points_spent": 133051,
         "effects": 20,
         "sub": 18,
@@ -1596,7 +1596,7 @@
         "gift_champion",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T10:13:29Z"
+      "lastUpdated": "2026-07-19T11:03:00Z"
     },
     "celran": {
       "counters": {
@@ -1634,7 +1634,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1381,
+        "chat": 1384,
         "points_spent": 60606,
         "effects": 39,
         "follow": 1,
@@ -1696,7 +1696,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-19T11:00:52Z"
+      "lastUpdated": "2026-07-19T11:03:00Z"
     },
     "ramdon101": {
       "counters": {
@@ -1765,7 +1765,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2942,
+        "chat": 2943,
         "points_spent": 65108,
         "interactive": 51,
         "follow": 1,
@@ -1818,7 +1818,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T09:59:21Z"
+      "lastUpdated": "2026-07-19T11:02:06Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2002,7 +2002,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 619,
+        "chat": 620,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2033,7 +2033,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-19T10:06:12Z"
+      "lastUpdated": "2026-07-19T11:04:56Z"
     },
     "sealdancer": {
       "counters": {
@@ -2538,7 +2538,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5158,
+        "chat": 5160,
         "points_spent": 96300,
         "effects": 54,
         "sub": 49,
@@ -2627,7 +2627,7 @@
         "clip_master",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-07-19T11:00:34Z"
+      "lastUpdated": "2026-07-19T11:02:15Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3150,7 +3150,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1912,
+        "chat": 1913,
         "points_spent": 115801,
         "sounds": 12,
         "effects": 126,
@@ -3234,7 +3234,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-19T10:45:52Z"
+      "lastUpdated": "2026-07-19T11:04:45Z"
     },
     "andilippi": {
       "counters": {
@@ -10039,15 +10039,16 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-19T10:26:32Z"
+      "lastUpdated": "2026-07-19T11:05:32Z"
     }
   },
-  "lastUpdated": "2026-07-19T10:01:13Z",
+  "lastUpdated": "2026-07-19T10:05:32Z",
   "totalUsers": 513,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
