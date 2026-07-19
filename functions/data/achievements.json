@@ -1765,7 +1765,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2965,
+        "chat": 2971,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1818,7 +1818,7 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T17:20:07Z"
+      "lastUpdated": "2026-07-19T17:23:34Z"
     },
     "aladderinsane": {
       "counters": {
@@ -10100,15 +10100,16 @@
     },
     "anonimoyouknow": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-19T17:20:08Z"
+      "lastUpdated": "2026-07-19T17:23:45Z"
     }
   },
-  "lastUpdated": "2026-07-19T16:20:09Z",
+  "lastUpdated": "2026-07-19T16:23:46Z",
   "totalUsers": 518,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
