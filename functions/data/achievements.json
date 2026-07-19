@@ -3419,7 +3419,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 239,
+        "chat": 241,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3453,12 +3453,12 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-19T11:54:42Z"
+      "lastUpdated": "2026-07-19T14:16:16Z"
     },
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4283,
+        "chat": 4284,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3513,7 +3513,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T13:01:12Z"
+      "lastUpdated": "2026-07-19T14:14:01Z"
     },
     "majesty81": {
       "counters": {
@@ -7152,14 +7152,14 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1679,
-        "points_spent": 104454,
+        "chat": 1682,
+        "points_spent": 104654,
         "sounds": 26,
-        "effects": 20,
+        "effects": 21,
         "screenshot": 2,
         "sub": 21,
         "interactive": 11,
-        "bits": 353,
+        "bits": 358,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -7205,7 +7205,7 @@
         "bits_steady",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-07-19T13:11:05Z"
+      "lastUpdated": "2026-07-19T14:28:46Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9173,7 +9173,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1007,
+        "chat": 1017,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9193,7 +9193,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-07-19T13:56:57Z"
+      "lastUpdated": "2026-07-19T14:16:25Z"
     },
     "noggen_": {
       "counters": {
@@ -10064,10 +10064,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-07-19T13:58:45Z"
+    },
+    "eddski76": {
+      "counters": {
+        "points_spent": 8300
+      },
+      "unlockedAchievements": [
+        "spender_bronze"
+      ],
+      "lastUpdated": "2026-07-19T14:30:11Z"
     }
   },
-  "lastUpdated": "2026-07-19T12:58:49Z",
-  "totalUsers": 514,
+  "lastUpdated": "2026-07-19T13:30:12Z",
+  "totalUsers": 515,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
