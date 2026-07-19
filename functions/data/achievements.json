@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4768,
+        "chat": 4769,
         "points_spent": 133051,
         "effects": 20,
         "sub": 18,
@@ -1596,7 +1596,7 @@
         "gift_champion",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T11:08:37Z"
+      "lastUpdated": "2026-07-19T11:15:43Z"
     },
     "celran": {
       "counters": {
@@ -1634,7 +1634,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1384,
+        "chat": 1385,
         "points_spent": 60606,
         "effects": 39,
         "follow": 1,
@@ -1696,7 +1696,7 @@
         "spender_gold",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-19T11:03:00Z"
+      "lastUpdated": "2026-07-19T11:15:59Z"
     },
     "ramdon101": {
       "counters": {
@@ -9953,7 +9953,7 @@
         "points_spent": 20400,
         "effects": 23,
         "follow": 1,
-        "chat": 51,
+        "chat": 52,
         "gift_subs": 2
       },
       "unlockedAchievements": [
@@ -9975,7 +9975,7 @@
         "sub_dedicated",
         "gift_kind"
       ],
-      "lastUpdated": "2026-07-17T19:19:29Z"
+      "lastUpdated": "2026-07-19T11:14:48Z"
     },
     "lokonak": {
       "counters": {
@@ -10003,7 +10003,7 @@
     },
     "ardallox": {
       "counters": {
-        "chat": 23,
+        "chat": 25,
         "points_spent": 650,
         "sounds": 1,
         "follow": 1,
@@ -10015,9 +10015,10 @@
         "chat_talker",
         "sound_first",
         "follow_supporter",
-        "effect_first"
+        "effect_first",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-19T11:13:32Z"
+      "lastUpdated": "2026-07-19T11:16:47Z"
     },
     "elvi0396": {
       "counters": {
@@ -10039,7 +10040,7 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 5,
+        "chat": 6,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10047,10 +10048,10 @@
         "chat_newbie",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-07-19T11:13:36Z"
+      "lastUpdated": "2026-07-19T11:16:15Z"
     }
   },
-  "lastUpdated": "2026-07-19T10:13:38Z",
+  "lastUpdated": "2026-07-19T10:16:48Z",
   "totalUsers": 513,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
