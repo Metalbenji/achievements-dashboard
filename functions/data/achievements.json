@@ -9958,7 +9958,8 @@
         "effects": 23,
         "follow": 1,
         "chat": 53,
-        "gift_subs": 4
+        "gift_subs": 4,
+        "bits": 50000
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -9978,9 +9979,18 @@
         "sub_loyal",
         "sub_dedicated",
         "gift_kind",
-        "gift_caring"
+        "gift_caring",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular",
+        "bits_steady",
+        "bits_dedicated",
+        "bits_committed",
+        "bits_elite",
+        "bits_master",
+        "bits_titan"
       ],
-      "lastUpdated": "2026-07-25T11:41:14Z"
+      "lastUpdated": "2026-07-25T11:43:59Z"
     },
     "lokonak": {
       "counters": {
@@ -10122,7 +10132,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-25T10:44:09Z",
+  "lastUpdated": "2026-07-25T10:58:02Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
