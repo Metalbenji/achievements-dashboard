@@ -9952,13 +9952,13 @@
     },
     "metalbenji": {
       "counters": {
-        "sub": 1,
+        "sub": 4,
         "sub_tier": 1,
         "points_spent": 20400,
         "effects": 23,
         "follow": 1,
         "chat": 53,
-        "gift_subs": 2
+        "gift_subs": 4
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -9977,9 +9977,10 @@
         "sub_supporter",
         "sub_loyal",
         "sub_dedicated",
-        "gift_kind"
+        "gift_kind",
+        "gift_caring"
       ],
-      "lastUpdated": "2026-07-25T11:37:01Z"
+      "lastUpdated": "2026-07-25T11:41:14Z"
     },
     "lokonak": {
       "counters": {
@@ -10121,7 +10122,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-25T10:37:13Z",
+  "lastUpdated": "2026-07-25T10:44:00Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
