@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4807,
+        "chat": 4808,
         "points_spent": 133401,
         "effects": 21,
         "sub": 18,
@@ -1596,7 +1596,7 @@
         "gift_champion",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T16:20:21Z"
+      "lastUpdated": "2026-07-19T18:03:24Z"
     },
     "celran": {
       "counters": {
@@ -1765,7 +1765,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2985,
+        "chat": 2988,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1818,11 +1818,11 @@
         "clip_first",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-19T17:57:36Z"
+      "lastUpdated": "2026-07-19T18:03:05Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 719,
+        "chat": 720,
         "follow": 1,
         "sub": 41,
         "points_spent": 95350,
@@ -1862,7 +1862,7 @@
         "sub_master",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-19T17:28:59Z"
+      "lastUpdated": "2026-07-19T18:01:44Z"
     },
     "scoman07": {
       "counters": {
@@ -7152,14 +7152,14 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1706,
+        "chat": 1710,
         "points_spent": 105004,
         "sounds": 26,
         "effects": 22,
         "screenshot": 2,
         "sub": 21,
         "interactive": 11,
-        "bits": 360,
+        "bits": 370,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -7205,7 +7205,7 @@
         "bits_steady",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-07-19T17:56:47Z"
+      "lastUpdated": "2026-07-19T18:01:59Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9173,7 +9173,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1047,
+        "chat": 1048,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9193,7 +9193,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-07-19T17:49:34Z"
+      "lastUpdated": "2026-07-19T18:02:45Z"
     },
     "noggen_": {
       "counters": {
@@ -9952,12 +9952,12 @@
     },
     "metalbenji": {
       "counters": {
-        "sub": 4,
+        "sub": 1,
         "sub_tier": 1,
         "points_spent": 20400,
         "effects": 23,
         "follow": 1,
-        "chat": 52,
+        "chat": 53,
         "gift_subs": 2
       },
       "unlockedAchievements": [
@@ -9979,7 +9979,7 @@
         "sub_dedicated",
         "gift_kind"
       ],
-      "lastUpdated": "2026-07-19T11:14:48Z"
+      "lastUpdated": "2026-07-25T11:37:01Z"
     },
     "lokonak": {
       "counters": {
@@ -10121,7 +10121,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-19T16:58:07Z",
+  "lastUpdated": "2026-07-25T10:37:13Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
