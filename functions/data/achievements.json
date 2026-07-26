@@ -1526,7 +1526,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4877,
+        "chat": 4884,
         "points_spent": 134101,
         "effects": 23,
         "sub": 19,
@@ -1603,7 +1603,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:19:57Z"
+      "lastUpdated": "2026-07-26T19:56:28Z"
     },
     "celran": {
       "counters": {
@@ -2475,7 +2475,7 @@
       "counters": {
         "points_spent": 115652,
         "follow": 1,
-        "chat": 1320,
+        "chat": 1321,
         "effects": 134,
         "screenshot": 16,
         "sounds": 7,
@@ -2538,7 +2538,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T19:43:46Z"
+      "lastUpdated": "2026-07-26T19:52:46Z"
     },
     "syn__________": {
       "counters": {
@@ -2955,7 +2955,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1081,
+        "chat": 1082,
         "sub": 44,
         "points_spent": 49151,
         "interactive": 4,
@@ -3035,7 +3035,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-07-26T19:47:31Z"
+      "lastUpdated": "2026-07-26T19:50:16Z"
     },
     "umenneske94": {
       "counters": {
@@ -3256,7 +3256,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1970,
+        "chat": 1973,
         "points_spent": 117351,
         "sounds": 12,
         "effects": 129,
@@ -3353,7 +3353,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T18:56:19Z"
+      "lastUpdated": "2026-07-26T19:51:02Z"
     },
     "andilippi": {
       "counters": {
@@ -7312,7 +7312,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1823,
+        "chat": 1825,
         "points_spent": 109854,
         "sounds": 27,
         "effects": 27,
@@ -7368,7 +7368,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-26T19:46:54Z"
+      "lastUpdated": "2026-07-26T19:53:39Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7382,7 +7382,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 506,
+        "chat": 509,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7407,7 +7407,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:37:31Z"
+      "lastUpdated": "2026-07-26T19:56:18Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9329,7 +9329,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1049,
+        "chat": 1058,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9347,9 +9347,10 @@
         "spender_bronze",
         "night_owl",
         "chat_enthusiast",
-        "chat_champion"
+        "chat_champion",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:48:21Z"
+      "lastUpdated": "2026-07-26T19:56:12Z"
     },
     "noggen_": {
       "counters": {
@@ -10231,7 +10232,7 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 22,
+        "chat": 25,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10239,9 +10240,10 @@
         "chat_newbie",
         "follow_supporter",
         "bday2026_attend",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-26T13:22:50Z"
+      "lastUpdated": "2026-07-26T19:56:34Z"
     },
     "00lemonada8": {
       "counters": {
@@ -10623,7 +10625,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T18:48:22Z",
+  "lastUpdated": "2026-07-26T18:56:35Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
