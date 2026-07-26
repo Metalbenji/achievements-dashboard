@@ -1469,7 +1469,7 @@
         "effects": 2,
         "sub_tier": 1,
         "sounds": 1,
-        "gift_subs": 1
+        "gift_subs": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1503,9 +1503,10 @@
         "first_caller",
         "bday2026_attend",
         "gift_starter",
-        "bday2026_support"
+        "bday2026_support",
+        "gift_kind"
       ],
-      "lastUpdated": "2026-07-26T18:55:20Z"
+      "lastUpdated": "2026-07-26T18:57:27Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1906,7 +1907,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 306,
+        "chat": 307,
         "follow": 1,
         "points_spent": 21700,
         "screenshot": 1,
@@ -1939,7 +1940,7 @@
         "bday2026_attend",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-26T18:53:24Z"
+      "lastUpdated": "2026-07-26T18:57:52Z"
     },
     "lottec": {
       "counters": {
@@ -2606,7 +2607,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5303,
+        "chat": 5307,
         "points_spent": 104950,
         "effects": 58,
         "sub": 49,
@@ -2614,7 +2615,7 @@
         "bits": 6000,
         "screenshot": 2,
         "clips": 27,
-        "gift_subs": 487,
+        "gift_subs": 490,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 480,
         "largest_gift_bomb": 445,
@@ -2708,7 +2709,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-07-26T18:56:25Z"
+      "lastUpdated": "2026-07-26T19:03:04Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3423,7 +3424,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2020,
+        "chat": 2025,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3465,7 +3466,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T18:55:38Z"
+      "lastUpdated": "2026-07-26T19:00:11Z"
     },
     "maximusis_": {
       "counters": {
@@ -7376,7 +7377,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 501,
+        "chat": 502,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7401,7 +7402,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T17:00:33Z"
+      "lastUpdated": "2026-07-26T19:03:21Z"
     },
     "kikinplays_": {
       "counters": {
@@ -10617,7 +10618,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T17:57:28Z",
+  "lastUpdated": "2026-07-26T18:04:16Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
