@@ -1614,10 +1614,10 @@
     "dmustain": {
       "counters": {
         "chat": 191,
-        "points_spent": 3300,
-        "effects": 9,
+        "points_spent": 3700,
+        "effects": 10,
         "follow": 1,
-        "sounds": 1
+        "sounds": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1630,9 +1630,11 @@
         "night_owl",
         "sound_first",
         "bday2025_attend",
-        "chat_regular"
+        "chat_regular",
+        "bday2026_attend",
+        "effect_collector"
       ],
-      "lastUpdated": "2026-07-26T18:07:06Z"
+      "lastUpdated": "2026-07-26T18:10:24Z"
     },
     "miromaaldis": {
       "counters": {
@@ -7300,8 +7302,8 @@
       "counters": {
         "follow": 1,
         "chat": 1788,
-        "points_spent": 107854,
-        "sounds": 26,
+        "points_spent": 108354,
+        "sounds": 27,
         "effects": 27,
         "screenshot": 2,
         "sub": 21,
@@ -7355,7 +7357,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-26T18:06:34Z"
+      "lastUpdated": "2026-07-26T18:09:50Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10575,7 +10577,7 @@
     "grrgoyle": {
       "counters": {
         "follow": 1,
-        "chat": 28,
+        "chat": 30,
         "points_spent": 2400,
         "sounds": 1
       },
@@ -10589,7 +10591,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-26T17:26:38Z"
+      "lastUpdated": "2026-07-26T18:10:22Z"
     },
     "lo0k4t": {
       "counters": {
@@ -10609,7 +10611,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T17:07:07Z",
+  "lastUpdated": "2026-07-26T17:10:25Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
