@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1420,
+        "chat": 1422,
         "points_spent": 67357,
         "effects": 41,
         "follow": 1,
@@ -1703,11 +1703,11 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T11:13:47Z"
+      "lastUpdated": "2026-07-26T11:15:50Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3984,
+        "chat": 3987,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1789,11 +1789,11 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-07-26T11:08:47Z"
+      "lastUpdated": "2026-07-26T11:15:49Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2993,
+        "chat": 2998,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1847,7 +1847,7 @@
         "raid_tier1_captain",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:14:19Z"
+      "lastUpdated": "2026-07-26T11:15:35Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2440,10 +2440,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 110602,
+        "points_spent": 110952,
         "follow": 1,
-        "chat": 1296,
-        "effects": 125,
+        "chat": 1298,
+        "effects": 126,
         "screenshot": 15,
         "sounds": 7,
         "bits": 300,
@@ -2499,9 +2499,10 @@
         "screenshot_enthusiast",
         "effect_legend",
         "spender_platinum",
-        "interactive_regular"
+        "interactive_regular",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:14:20Z"
+      "lastUpdated": "2026-07-26T11:15:14Z"
     },
     "syn__________": {
       "counters": {
@@ -7024,7 +7025,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 157,
+        "chat": 159,
         "sub": 8,
         "points_spent": 10350,
         "sounds": 1,
@@ -7050,7 +7051,7 @@
         "sub_veteran",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:12:42Z"
+      "lastUpdated": "2026-07-26T11:15:47Z"
     },
     "daddy0ps": {
       "counters": {
@@ -10040,7 +10041,7 @@
         "points_spent": 20400,
         "effects": 23,
         "follow": 1,
-        "chat": 98,
+        "chat": 99,
         "gift_subs": 4,
         "bits": 100000
       },
@@ -10074,7 +10075,7 @@
         "bits_titan",
         "bits_emperor"
       ],
-      "lastUpdated": "2026-07-25T21:17:45Z"
+      "lastUpdated": "2026-07-26T11:15:51Z"
     },
     "lokonak": {
       "counters": {
@@ -10345,7 +10346,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:14:31Z",
+  "lastUpdated": "2026-07-26T10:15:56Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
