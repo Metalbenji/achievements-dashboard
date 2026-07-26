@@ -2471,7 +2471,7 @@
       "counters": {
         "points_spent": 115302,
         "follow": 1,
-        "chat": 1316,
+        "chat": 1317,
         "effects": 133,
         "screenshot": 16,
         "sounds": 7,
@@ -2531,7 +2531,7 @@
         "interactive_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T18:50:01Z"
+      "lastUpdated": "2026-07-26T18:51:49Z"
     },
     "syn__________": {
       "counters": {
@@ -2611,7 +2611,7 @@
         "bits": 6000,
         "screenshot": 2,
         "clips": 27,
-        "gift_subs": 485,
+        "gift_subs": 486,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 480,
         "largest_gift_bomb": 445,
@@ -2705,7 +2705,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-07-26T18:47:19Z"
+      "lastUpdated": "2026-07-26T18:51:50Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3420,7 +3420,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2009,
+        "chat": 2012,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3462,7 +3462,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T18:50:00Z"
+      "lastUpdated": "2026-07-26T18:52:08Z"
     },
     "maximusis_": {
       "counters": {
@@ -10614,7 +10614,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T17:50:33Z",
+  "lastUpdated": "2026-07-26T17:52:27Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
