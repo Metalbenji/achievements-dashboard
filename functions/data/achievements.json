@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4846,
+        "chat": 4847,
         "points_spent": 133751,
         "effects": 22,
         "sub": 19,
@@ -1598,7 +1598,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:30:19Z"
+      "lastUpdated": "2026-07-26T11:32:13Z"
     },
     "celran": {
       "counters": {
@@ -1707,7 +1707,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3992,
+        "chat": 3993,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-07-26T11:29:23Z"
+      "lastUpdated": "2026-07-26T11:32:03Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3612,9 +3612,9 @@
     },
     "mrmeanor_": {
       "counters": {
-        "chat": 110,
+        "chat": 111,
         "follow": 1,
-        "raid": 4
+        "raid": 5
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3623,9 +3623,10 @@
         "follow_supporter",
         "chat_conversationalist",
         "raid_tier1_captain",
-        "chat_regular"
+        "chat_regular",
+        "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-04-18T10:28:52Z"
+      "lastUpdated": "2026-07-26T11:32:33Z"
     },
     "djindjarinttv": {
       "counters": {
@@ -5079,7 +5080,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 247,
+        "chat": 248,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5103,7 +5104,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:30:36Z"
+      "lastUpdated": "2026-07-26T11:32:01Z"
     },
     "auriaya__": {
       "counters": {
@@ -10353,7 +10354,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:32:01Z",
+  "lastUpdated": "2026-07-26T10:32:35Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
