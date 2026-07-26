@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1392,
+        "chat": 1393,
         "points_spent": 60957,
         "effects": 39,
         "follow": 1,
@@ -1700,11 +1700,11 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:41Z"
+      "lastUpdated": "2026-07-26T10:13:02Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3956,
+        "chat": 3957,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1782,7 +1782,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:51Z"
+      "lastUpdated": "2026-07-26T10:13:02Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3747,7 +3747,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2198,
+        "chat": 2199,
         "points_spent": 68901,
         "effects": 7,
         "interactive": 18,
@@ -3783,7 +3783,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:21Z"
+      "lastUpdated": "2026-07-26T10:13:02Z"
     },
     "roffelonator": {
       "counters": {
@@ -10183,13 +10183,16 @@
     "bludfarts666": {
       "counters": {
         "raid": 1,
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T10:12:57Z"
+      "lastUpdated": "2026-07-26T10:13:07Z"
     },
     "xdrugula": {
       "counters": {
@@ -10202,7 +10205,7 @@
       "lastUpdated": "2026-07-26T10:12:54Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:13:02Z",
+  "lastUpdated": "2026-07-26T09:13:11Z",
   "totalUsers": 521,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
