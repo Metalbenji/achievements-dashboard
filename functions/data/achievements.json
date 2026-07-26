@@ -1706,7 +1706,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3978,
+        "chat": 3979,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1784,7 +1784,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:42:47Z"
+      "lastUpdated": "2026-07-26T10:43:53Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2341,10 +2341,10 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 1003,
-        "points_spent": 54158,
+        "chat": 1005,
+        "points_spent": 54508,
         "interactive": 19,
-        "effects": 40,
+        "effects": 41,
         "sub": 31,
         "sounds": 4,
         "screenshot": 6,
@@ -2397,7 +2397,7 @@
         "bday2026_attend",
         "chat_champion"
       ],
-      "lastUpdated": "2026-07-26T10:41:51Z"
+      "lastUpdated": "2026-07-26T10:44:34Z"
     },
     "redunt86": {
       "counters": {
@@ -2567,7 +2567,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5217,
+        "chat": 5218,
         "points_spent": 102950,
         "effects": 57,
         "sub": 49,
@@ -2667,7 +2667,7 @@
         "total_donation_kind",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:42:59Z"
+      "lastUpdated": "2026-07-26T10:43:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3020,7 +3020,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1036,
+        "chat": 1037,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3061,7 +3061,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:41:03Z"
+      "lastUpdated": "2026-07-26T10:43:46Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4113,7 +4113,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 341,
+        "chat": 343,
         "points_spent": 22003,
         "sounds": 5,
         "effects": 5,
@@ -4135,9 +4135,10 @@
         "interactive_first",
         "chat_frequent",
         "chat_dedicated",
-        "first_caller"
+        "first_caller",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:43:05Z"
+      "lastUpdated": "2026-07-26T10:43:56Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -5161,7 +5162,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 422
+        "chat": 423
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5174,7 +5175,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:42:44Z"
+      "lastUpdated": "2026-07-26T10:44:02Z"
     },
     "dinshara": {
       "counters": {
@@ -9551,7 +9552,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2108,
+        "chat": 2109,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 31,
@@ -9599,7 +9600,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:41:57Z"
+      "lastUpdated": "2026-07-26T10:43:46Z"
     },
     "infincible": {
       "counters": {
@@ -10108,7 +10109,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 21,
+        "chat": 22,
         "points_spent": 700,
         "effects": 1,
         "interactive": 1
@@ -10121,7 +10122,7 @@
         "effect_first",
         "interactive_first"
       ],
-      "lastUpdated": "2026-07-18T14:58:22Z"
+      "lastUpdated": "2026-07-26T10:45:26Z"
     },
     "rahzie1": {
       "counters": {
@@ -10304,7 +10305,7 @@
       "lastUpdated": "2026-07-26T10:38:28Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:43:08Z",
+  "lastUpdated": "2026-07-26T09:45:29Z",
   "totalUsers": 528,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
