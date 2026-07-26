@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1410,
+        "chat": 1411,
         "points_spent": 67357,
         "effects": 41,
         "follow": 1,
@@ -1700,7 +1700,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:37:12Z"
+      "lastUpdated": "2026-07-26T10:38:08Z"
     },
     "ramdon101": {
       "counters": {
@@ -2053,7 +2053,8 @@
         "screenshot_first",
         "chat_dedicated",
         "clip_first",
-        "sub_veteran"
+        "sub_veteran",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:38:00Z"
     },
@@ -10288,10 +10289,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-07-26T10:26:58Z"
+    },
+    "therektening": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-26T10:38:24Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:38:04Z",
-  "totalUsers": 527,
+  "lastUpdated": "2026-07-26T09:38:28Z",
+  "totalUsers": 528,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
