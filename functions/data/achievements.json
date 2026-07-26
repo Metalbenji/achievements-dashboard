@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1452,
+        "chat": 1455,
         "points_spent": 68757,
         "effects": 44,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T16:20:42Z"
+      "lastUpdated": "2026-07-26T16:22:05Z"
     },
     "ramdon101": {
       "counters": {
@@ -3403,7 +3403,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1929,
+        "chat": 1938,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3445,7 +3445,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T16:20:27Z"
+      "lastUpdated": "2026-07-26T16:22:58Z"
     },
     "maximusis_": {
       "counters": {
@@ -7285,7 +7285,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1774,
+        "chat": 1776,
         "points_spent": 107754,
         "sounds": 26,
         "effects": 26,
@@ -7341,7 +7341,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-26T16:19:41Z"
+      "lastUpdated": "2026-07-26T16:22:22Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10182,7 +10182,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 67,
+        "chat": 70,
         "points_spent": 1700,
         "effects": 3,
         "interactive": 1
@@ -10198,7 +10198,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T15:23:20Z"
+      "lastUpdated": "2026-07-26T16:22:35Z"
     },
     "rahzie1": {
       "counters": {
@@ -10574,18 +10574,21 @@
     "lo0k4t": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2026_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-26T16:20:10Z"
+      "lastUpdated": "2026-07-26T16:23:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T15:20:48Z",
+  "lastUpdated": "2026-07-26T15:23:05Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
