@@ -10073,7 +10073,8 @@
         "bits_elite",
         "bits_master",
         "bits_titan",
-        "bits_emperor"
+        "bits_emperor",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T11:15:51Z"
     },
@@ -10123,7 +10124,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 24,
+        "chat": 25,
         "points_spent": 700,
         "effects": 1,
         "interactive": 1
@@ -10135,9 +10136,10 @@
         "chat_talker",
         "effect_first",
         "interactive_first",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-26T11:13:04Z"
+      "lastUpdated": "2026-07-26T11:16:09Z"
     },
     "rahzie1": {
       "counters": {
@@ -10346,7 +10348,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:15:56Z",
+  "lastUpdated": "2026-07-26T10:16:29Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
