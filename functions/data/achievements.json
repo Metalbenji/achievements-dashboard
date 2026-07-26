@@ -1916,7 +1916,8 @@
         "chat_frequent",
         "spender_iron",
         "spender_silver",
-        "sound_first"
+        "sound_first",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:09:08Z"
     },
@@ -3457,7 +3458,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 257,
+        "chat": 258,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3491,7 +3492,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-19T14:50:34Z"
+      "lastUpdated": "2026-07-26T10:09:10Z"
     },
     "awildbubbles": {
       "counters": {
@@ -10174,7 +10175,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:09:10Z",
+  "lastUpdated": "2026-07-26T09:09:12Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
