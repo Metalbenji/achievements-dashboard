@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1385,
+        "chat": 1386,
         "points_spent": 60606,
         "effects": 39,
         "follow": 1,
@@ -1699,11 +1699,11 @@
         "raid_tier2_seasoned",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:05:37Z"
+      "lastUpdated": "2026-07-26T10:06:48Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3954,
+        "chat": 3955,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1781,7 +1781,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:05:44Z"
+      "lastUpdated": "2026-07-26T10:06:39Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -7238,7 +7238,8 @@
         "interactive_regular",
         "chat_expert",
         "bits_steady",
-        "spender_platinum"
+        "spender_platinum",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:06:26Z"
     },
@@ -10169,7 +10170,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:06:28Z",
+  "lastUpdated": "2026-07-26T09:06:49Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
