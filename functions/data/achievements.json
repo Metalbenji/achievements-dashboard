@@ -10157,11 +10157,11 @@
     },
     "ardallox": {
       "counters": {
-        "chat": 25,
-        "points_spent": 650,
+        "chat": 26,
+        "points_spent": 850,
         "sounds": 1,
         "follow": 1,
-        "effects": 2
+        "effects": 3
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -10172,7 +10172,7 @@
         "effect_first",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-19T11:16:47Z"
+      "lastUpdated": "2026-07-26T15:13:22Z"
     },
     "elvi0396": {
       "counters": {
@@ -10537,17 +10537,17 @@
     },
     "eusitafiu": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T15:11:40Z"
+      "lastUpdated": "2026-07-26T15:12:16Z"
     }
   },
-  "lastUpdated": "2026-07-26T14:11:41Z",
+  "lastUpdated": "2026-07-26T14:13:23Z",
   "totalUsers": 540,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
