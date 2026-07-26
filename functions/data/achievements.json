@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1447,
+        "chat": 1450,
         "points_spent": 68407,
         "effects": 43,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T16:05:17Z"
+      "lastUpdated": "2026-07-26T16:17:45Z"
     },
     "ramdon101": {
       "counters": {
@@ -3403,7 +3403,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1917,
+        "chat": 1919,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3445,7 +3445,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T15:58:57Z"
+      "lastUpdated": "2026-07-26T16:18:02Z"
     },
     "maximusis_": {
       "counters": {
@@ -5328,7 +5328,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 327,
+        "chat": 329,
         "points_spent": 21300,
         "interactive": 3,
         "sounds": 1
@@ -5350,7 +5350,7 @@
         "sound_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:52:08Z"
+      "lastUpdated": "2026-07-26T16:17:37Z"
     },
     "theazmaniac": {
       "counters": {
@@ -7285,7 +7285,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1770,
+        "chat": 1773,
         "points_spent": 107254,
         "sounds": 26,
         "effects": 25,
@@ -7341,7 +7341,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-26T16:15:36Z"
+      "lastUpdated": "2026-07-26T16:18:19Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9413,7 +9413,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 353,
+        "chat": 354,
         "follow": 1,
         "points_spent": 850,
         "effects": 3
@@ -9430,7 +9430,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:58:18Z"
+      "lastUpdated": "2026-07-26T16:17:44Z"
     },
     "discostarz": {
       "counters": {
@@ -10502,7 +10502,8 @@
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
-        "largest_gift_bomb": 5
+        "largest_gift_bomb": 5,
+        "points_spent": 350
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10517,7 +10518,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T15:36:05Z"
+      "lastUpdated": "2026-07-26T16:16:31Z"
     },
     "curlit_": {
       "counters": {
@@ -10553,30 +10554,32 @@
     "grrgoyle": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 5,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2026_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T16:13:33Z"
+      "lastUpdated": "2026-07-26T16:18:37Z"
     },
     "lo0k4t": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T16:14:43Z"
+      "lastUpdated": "2026-07-26T16:16:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T15:15:37Z",
+  "lastUpdated": "2026-07-26T15:18:39Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
