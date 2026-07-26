@@ -1963,7 +1963,7 @@
         "points_spent": 43801,
         "interactive": 1,
         "effects": 25,
-        "sub": 34,
+        "sub": 35,
         "clips": 1,
         "sounds": 2,
         "sub_tier": 1,
@@ -2005,9 +2005,10 @@
         "sound_first",
         "sub_elite",
         "screenshot_first",
-        "effect_master"
+        "effect_master",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-12T12:51:18Z"
+      "lastUpdated": "2026-07-26T12:54:12Z"
     },
     "tawmae": {
       "counters": {
@@ -10099,7 +10100,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 39
+        "chat": 41
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10109,7 +10110,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T12:53:17Z"
+      "lastUpdated": "2026-07-26T12:54:26Z"
     },
     "wild_saber1337": {
       "counters": {
@@ -10392,10 +10393,19 @@
         "effect_first"
       ],
       "lastUpdated": "2026-07-26T11:46:13Z"
+    },
+    "larussowow": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-26T12:55:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:54:14Z",
-  "totalUsers": 532,
+  "lastUpdated": "2026-07-26T11:55:15Z",
+  "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
