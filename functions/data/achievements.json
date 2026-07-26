@@ -2563,7 +2563,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5195,
+        "chat": 5196,
         "points_spent": 102650,
         "effects": 57,
         "sub": 49,
@@ -2654,7 +2654,7 @@
         "spender_platinum",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:13:19Z"
+      "lastUpdated": "2026-07-26T10:14:14Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2989,7 +2989,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 148
+        "chat": 149
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3000,7 +3000,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-07-18T14:44:00Z"
+      "lastUpdated": "2026-07-26T10:14:15Z"
     },
     "gwinniejones": {
       "counters": {
@@ -10239,12 +10239,13 @@
         "chat": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:14:10Z"
+      "lastUpdated": "2026-07-26T10:14:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:14:14Z",
+  "lastUpdated": "2026-07-26T09:14:17Z",
   "totalUsers": 525,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
