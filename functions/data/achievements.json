@@ -3008,7 +3008,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1024,
+        "chat": 1025,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3049,7 +3049,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:30:33Z"
+      "lastUpdated": "2026-07-26T10:30:59Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3169,7 +3169,7 @@
     "bludshed187": {
       "counters": {
         "follow": 1,
-        "chat": 40
+        "chat": 41
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3178,7 +3178,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-18T13:39:13Z"
+      "lastUpdated": "2026-07-26T10:31:07Z"
     },
     "mistycal_eu": {
       "counters": {
@@ -8854,7 +8854,8 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:30:54Z"
     },
@@ -10278,7 +10279,7 @@
       "lastUpdated": "2026-07-26T10:26:58Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:30:57Z",
+  "lastUpdated": "2026-07-26T09:31:09Z",
   "totalUsers": 527,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
