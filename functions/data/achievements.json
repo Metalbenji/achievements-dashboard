@@ -2368,7 +2368,8 @@
         "clip_enthusiast",
         "spender_gold",
         "sub_elite",
-        "bday2026_support"
+        "bday2026_support",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:01:09Z"
     },
@@ -10135,7 +10136,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:01:11Z",
+  "lastUpdated": "2026-07-26T09:01:13Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
