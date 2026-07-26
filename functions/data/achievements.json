@@ -9530,7 +9530,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2097,
+        "chat": 2098,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 31,
@@ -9578,7 +9578,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:12:38Z"
+      "lastUpdated": "2026-07-26T10:13:24Z"
     },
     "infincible": {
       "counters": {
@@ -10219,13 +10219,23 @@
         "chat": 1
       },
       "unlockedAchievements": [
+        "weekend_warrior",
+        "bday2026_attend"
+      ],
+      "lastUpdated": "2026-07-26T10:13:22Z"
+    },
+    "jollyson333": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-26T10:13:19Z"
+      "lastUpdated": "2026-07-26T10:13:26Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:13:23Z",
-  "totalUsers": 523,
+  "lastUpdated": "2026-07-26T09:13:29Z",
+  "totalUsers": 524,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
