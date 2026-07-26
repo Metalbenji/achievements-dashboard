@@ -2336,7 +2336,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 994,
+        "chat": 995,
         "points_spent": 53458,
         "interactive": 19,
         "effects": 38,
@@ -2391,7 +2391,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:04:20Z"
+      "lastUpdated": "2026-07-26T10:06:13Z"
     },
     "redunt86": {
       "counters": {
@@ -3175,7 +3175,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1929,
+        "chat": 1930,
         "points_spent": 116301,
         "sounds": 12,
         "effects": 127,
@@ -3270,7 +3270,7 @@
         "total_donation_champion",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:05:42Z"
+      "lastUpdated": "2026-07-26T10:06:11Z"
     },
     "andilippi": {
       "counters": {
@@ -7187,7 +7187,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1710,
+        "chat": 1711,
         "points_spent": 105004,
         "sounds": 26,
         "effects": 22,
@@ -7240,7 +7240,7 @@
         "bits_steady",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-07-26T10:05:11Z"
+      "lastUpdated": "2026-07-26T10:06:26Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9563,7 +9563,8 @@
         "gift_starter",
         "chat_expert",
         "sub_elite",
-        "effect_first"
+        "effect_first",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:05:54Z"
     },
@@ -10168,7 +10169,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:05:56Z",
+  "lastUpdated": "2026-07-26T09:06:28Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
