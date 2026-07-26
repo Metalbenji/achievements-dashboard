@@ -1704,7 +1704,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3955,
+        "chat": 3956,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1782,7 +1782,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:06:39Z"
+      "lastUpdated": "2026-07-26T10:12:51Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3179,7 +3179,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1932,
+        "chat": 1933,
         "points_spent": 116301,
         "sounds": 12,
         "effects": 127,
@@ -3274,7 +3274,7 @@
         "total_donation_champion",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:12:21Z"
+      "lastUpdated": "2026-07-26T10:12:51Z"
     },
     "andilippi": {
       "counters": {
@@ -8401,7 +8401,8 @@
         "sub_champion",
         "chat_regular",
         "sound_first",
-        "bday2026_support"
+        "bday2026_support",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:12:48Z"
     },
@@ -10187,10 +10188,19 @@
         "raid_tier1_captain"
       ],
       "lastUpdated": "2026-07-26T10:12:42Z"
+    },
+    "xdrugula": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-26T10:12:52Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:12:51Z",
-  "totalUsers": 520,
+  "lastUpdated": "2026-07-26T09:12:54Z",
+  "totalUsers": 521,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
