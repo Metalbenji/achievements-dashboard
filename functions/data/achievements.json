@@ -1852,7 +1852,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 720,
+        "chat": 721,
         "follow": 1,
         "sub": 42,
         "points_spent": 95350,
@@ -1893,7 +1893,7 @@
         "effect_first",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T11:55:13Z"
+      "lastUpdated": "2026-07-26T11:59:33Z"
     },
     "scoman07": {
       "counters": {
@@ -2577,7 +2577,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5223,
+        "chat": 5224,
         "points_spent": 104950,
         "effects": 58,
         "sub": 49,
@@ -2677,7 +2677,7 @@
         "total_donation_kind",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T11:53:18Z"
+      "lastUpdated": "2026-07-26T11:58:06Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4015,7 +4015,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 126
+        "chat": 127
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4026,7 +4026,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:53:49Z"
+      "lastUpdated": "2026-07-26T11:58:46Z"
     },
     "arpi_89": {
       "counters": {
@@ -7235,7 +7235,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1722,
+        "chat": 1723,
         "points_spent": 105654,
         "sounds": 26,
         "effects": 23,
@@ -7290,7 +7290,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T11:57:07Z"
+      "lastUpdated": "2026-07-26T11:59:12Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8882,7 +8882,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 212,
+        "chat": 213,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8896,7 +8896,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T11:47:44Z"
+      "lastUpdated": "2026-07-26T11:58:04Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10387,7 +10387,7 @@
       "lastUpdated": "2026-07-26T11:46:13Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:57:51Z",
+  "lastUpdated": "2026-07-26T10:59:35Z",
   "totalUsers": 532,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
