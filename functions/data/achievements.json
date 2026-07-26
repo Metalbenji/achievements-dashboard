@@ -7235,7 +7235,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1720,
+        "chat": 1722,
         "points_spent": 105654,
         "sounds": 26,
         "effects": 23,
@@ -7290,7 +7290,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T11:54:21Z"
+      "lastUpdated": "2026-07-26T11:57:07Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10340,7 +10340,7 @@
     "dealtothhuskynation": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 5,
         "gift_subs": 1
       },
       "unlockedAchievements": [
@@ -10348,9 +10348,10 @@
         "weekend_warrior",
         "bday2026_attend",
         "gift_starter",
-        "bday2026_support"
+        "bday2026_support",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T11:47:46Z"
+      "lastUpdated": "2026-07-26T11:57:49Z"
     },
     "sidequestconnor": {
       "counters": {
@@ -10386,7 +10387,7 @@
       "lastUpdated": "2026-07-26T11:46:13Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:56:03Z",
+  "lastUpdated": "2026-07-26T10:57:51Z",
   "totalUsers": 532,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
