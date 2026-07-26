@@ -2629,7 +2629,8 @@
         "sub_legendary",
         "clip_master",
         "emperor_loyal",
-        "spender_platinum"
+        "spender_platinum",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:02:16Z"
     },
@@ -3154,7 +3155,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1926,
+        "chat": 1927,
         "points_spent": 116301,
         "sounds": 12,
         "effects": 127,
@@ -3238,7 +3239,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-26T09:54:06Z"
+      "lastUpdated": "2026-07-26T10:02:18Z"
     },
     "andilippi": {
       "counters": {
@@ -10136,7 +10137,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:02:17Z",
+  "lastUpdated": "2026-07-26T09:02:19Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
