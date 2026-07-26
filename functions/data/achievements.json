@@ -2316,11 +2316,11 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 990,
+        "chat": 991,
         "points_spent": 53458,
         "interactive": 19,
         "effects": 38,
-        "sub": 29,
+        "sub": 31,
         "sounds": 4,
         "screenshot": 6,
         "clips": 5,
@@ -2366,9 +2366,11 @@
         "night_owl",
         "chat_enthusiast",
         "clip_enthusiast",
-        "spender_gold"
+        "spender_gold",
+        "sub_elite",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-06-21T13:18:44Z"
+      "lastUpdated": "2026-07-26T10:01:09Z"
     },
     "redunt86": {
       "counters": {
@@ -7159,7 +7161,7 @@
         "screenshot": 2,
         "sub": 21,
         "interactive": 11,
-        "bits": 370,
+        "bits": 386,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -7205,7 +7207,7 @@
         "bits_steady",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-07-19T18:01:59Z"
+      "lastUpdated": "2026-07-26T09:58:35Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10133,7 +10135,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T08:58:22Z",
+  "lastUpdated": "2026-07-26T09:01:11Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
