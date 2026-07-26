@@ -10422,13 +10422,23 @@
         "chat": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:03:02Z"
+      "lastUpdated": "2026-07-26T13:03:03Z"
+    },
+    "purplepagan": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-07-26T13:03:19Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:03:03Z",
-  "totalUsers": 534,
+  "lastUpdated": "2026-07-26T12:03:21Z",
+  "totalUsers": 535,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
