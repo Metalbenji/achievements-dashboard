@@ -3401,7 +3401,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1740,
+        "chat": 1766,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3440,7 +3440,7 @@
         "chat_expert",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T14:01:26Z"
+      "lastUpdated": "2026-07-26T14:14:29Z"
     },
     "maximusis_": {
       "counters": {
@@ -3510,12 +3510,16 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 264,
+        "chat": 278,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
         "sounds": 2,
-        "raid": 1
+        "raid": 1,
+        "gift_subs": 7,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 7,
+        "largest_gift_bomb": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3543,9 +3547,16 @@
         "spender_electrum",
         "raid_tier1_captain",
         "chat_frequent",
-        "bday2026_attend"
+        "bday2026_attend",
+        "gift_bomb_5",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T13:58:50Z"
+      "lastUpdated": "2026-07-26T14:14:27Z"
     },
     "awildbubbles": {
       "counters": {
@@ -5111,7 +5122,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 261,
+        "chat": 264,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5135,7 +5146,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:24:04Z"
+      "lastUpdated": "2026-07-26T14:14:58Z"
     },
     "auriaya__": {
       "counters": {
@@ -7267,7 +7278,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1744,
+        "chat": 1745,
         "points_spent": 106154,
         "sounds": 26,
         "effects": 23,
@@ -7322,7 +7333,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T13:41:15Z"
+      "lastUpdated": "2026-07-26T14:13:13Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10474,7 +10485,7 @@
     "asrayya": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -10492,7 +10503,7 @@
         "bday2026_support",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T13:48:44Z"
+      "lastUpdated": "2026-07-26T14:14:13Z"
     },
     "curlit_": {
       "counters": {
@@ -10504,7 +10515,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T13:03:19Z",
+  "lastUpdated": "2026-07-26T13:15:09Z",
   "totalUsers": 538,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
