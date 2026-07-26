@@ -2563,7 +2563,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5194,
+        "chat": 5195,
         "points_spent": 102650,
         "effects": 57,
         "sub": 49,
@@ -2654,7 +2654,7 @@
         "spender_platinum",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:18Z"
+      "lastUpdated": "2026-07-26T10:13:19Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3187,7 +3187,7 @@
         "bits": 13574,
         "interactive": 8,
         "screenshot": 10,
-        "gift_subs": 346,
+        "gift_subs": 347,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 345,
         "largest_gift_bomb": 345,
@@ -3274,7 +3274,7 @@
         "total_donation_champion",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:12:51Z"
+      "lastUpdated": "2026-07-26T10:13:18Z"
     },
     "andilippi": {
       "counters": {
@@ -10209,13 +10209,23 @@
         "chat": 1
       },
       "unlockedAchievements": [
+        "weekend_warrior",
+        "bday2026_attend"
+      ],
+      "lastUpdated": "2026-07-26T10:13:15Z"
+    },
+    "rayge81": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-26T10:13:12Z"
+      "lastUpdated": "2026-07-26T10:13:19Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:13:17Z",
-  "totalUsers": 522,
+  "lastUpdated": "2026-07-26T09:13:21Z",
+  "totalUsers": 523,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
