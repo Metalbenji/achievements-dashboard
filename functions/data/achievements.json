@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4847,
+        "chat": 4849,
         "points_spent": 133751,
         "effects": 22,
         "sub": 19,
@@ -1598,7 +1598,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:32:13Z"
+      "lastUpdated": "2026-07-26T11:33:12Z"
     },
     "celran": {
       "counters": {
@@ -2224,7 +2224,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1897,
+        "chat": 1898,
         "points_spent": 130867,
         "effects": 21,
         "sounds": 10,
@@ -2278,7 +2278,7 @@
         "emperor_loyal",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:31:53Z"
+      "lastUpdated": "2026-07-26T11:34:14Z"
     },
     "anzerou": {
       "counters": {
@@ -3624,7 +3624,8 @@
         "chat_conversationalist",
         "raid_tier1_captain",
         "chat_regular",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T11:32:33Z"
     },
@@ -5080,7 +5081,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 248,
+        "chat": 249,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5104,7 +5105,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:32:01Z"
+      "lastUpdated": "2026-07-26T11:33:02Z"
     },
     "auriaya__": {
       "counters": {
@@ -10129,7 +10130,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 27,
+        "chat": 28,
         "points_spent": 1000,
         "effects": 1,
         "interactive": 1
@@ -10145,7 +10146,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T11:31:48Z"
+      "lastUpdated": "2026-07-26T11:33:30Z"
     },
     "rahzie1": {
       "counters": {
@@ -10352,10 +10353,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-07-26T10:59:59Z"
+    },
+    "eerithelynx": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-26T11:34:30Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:32:35Z",
-  "totalUsers": 530,
+  "lastUpdated": "2026-07-26T10:34:33Z",
+  "totalUsers": 531,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
