@@ -10026,7 +10026,8 @@
         "sub": 20,
         "points_spent": 300,
         "effects": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10048,9 +10049,11 @@
         "sub_platinum",
         "chat_dedicated",
         "night_owl",
-        "bday2026_attend"
+        "bday2026_attend",
+        "gift_starter",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T13:23:59Z"
+      "lastUpdated": "2026-07-26T13:26:30Z"
     },
     "vrishcath": {
       "counters": {
@@ -10477,7 +10480,7 @@
       "lastUpdated": "2026-07-26T13:25:16Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:26:32Z",
+  "lastUpdated": "2026-07-26T12:26:59Z",
   "totalUsers": 538,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
