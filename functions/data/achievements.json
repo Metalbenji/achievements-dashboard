@@ -3243,9 +3243,9 @@
       "counters": {
         "follow": 1,
         "chat": 1962,
-        "points_spent": 116301,
+        "points_spent": 116801,
         "sounds": 12,
-        "effects": 127,
+        "effects": 128,
         "sub": 51,
         "bits": 13574,
         "interactive": 8,
@@ -3339,7 +3339,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T16:58:24Z"
+      "lastUpdated": "2026-07-26T17:06:11Z"
     },
     "andilippi": {
       "counters": {
@@ -3415,7 +3415,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1994,
+        "chat": 1997,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3457,7 +3457,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T16:58:25Z"
+      "lastUpdated": "2026-07-26T17:10:42Z"
     },
     "maximusis_": {
       "counters": {
@@ -10196,7 +10196,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 76,
+        "chat": 77,
         "points_spent": 2200,
         "effects": 3,
         "interactive": 2
@@ -10212,7 +10212,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T17:00:09Z"
+      "lastUpdated": "2026-07-26T17:06:59Z"
     },
     "rahzie1": {
       "counters": {
@@ -10480,13 +10480,15 @@
       "counters": {
         "follow": 1,
         "points_spent": 650,
-        "effects": 1
+        "effects": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "effect_first"
+        "effect_first",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-26T14:18:03Z"
+      "lastUpdated": "2026-07-26T17:17:22Z"
     },
     "moodiemooo": {
       "counters": {
@@ -10571,7 +10573,7 @@
     "grrgoyle": {
       "counters": {
         "follow": 1,
-        "chat": 25,
+        "chat": 26,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -10585,7 +10587,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-26T17:03:49Z"
+      "lastUpdated": "2026-07-26T17:04:29Z"
     },
     "lo0k4t": {
       "counters": {
@@ -10605,7 +10607,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T16:03:50Z",
+  "lastUpdated": "2026-07-26T16:17:23Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
