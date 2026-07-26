@@ -1959,7 +1959,7 @@
     "hairypawter": {
       "counters": {
         "follow": 1,
-        "chat": 639,
+        "chat": 640,
         "points_spent": 43801,
         "interactive": 1,
         "effects": 25,
@@ -2008,7 +2008,7 @@
         "effect_master",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T12:54:12Z"
+      "lastUpdated": "2026-07-26T12:55:17Z"
     },
     "tawmae": {
       "counters": {
@@ -10399,12 +10399,13 @@
         "chat": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T12:55:14Z"
+      "lastUpdated": "2026-07-26T12:55:15Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:55:15Z",
+  "lastUpdated": "2026-07-26T11:55:18Z",
   "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
