@@ -2616,7 +2616,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5381,
+        "chat": 5382,
         "points_spent": 127000,
         "effects": 59,
         "sub": 49,
@@ -2721,7 +2721,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T22:07:32Z"
+      "lastUpdated": "2026-07-26T22:09:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3236,7 +3236,7 @@
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 30
+        "chat": 31
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3247,7 +3247,7 @@
         "bday2026_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-26T22:08:54Z"
+      "lastUpdated": "2026-07-26T22:09:23Z"
     },
     "bludshed187": {
       "counters": {
@@ -3267,7 +3267,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2012,
+        "chat": 2013,
         "points_spent": 119801,
         "sounds": 13,
         "effects": 130,
@@ -3364,7 +3364,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T22:08:28Z"
+      "lastUpdated": "2026-07-26T22:09:27Z"
     },
     "andilippi": {
       "counters": {
@@ -3440,7 +3440,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2113,
+        "chat": 2114,
         "points_spent": 18851,
         "sounds": 9,
         "clips": 1,
@@ -3484,7 +3484,7 @@
         "night_owl",
         "birthday_person"
       ],
-      "lastUpdated": "2026-07-26T22:09:12Z"
+      "lastUpdated": "2026-07-26T22:09:22Z"
     },
     "maximusis_": {
       "counters": {
@@ -4209,7 +4209,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 357,
+        "chat": 358,
         "points_spent": 22003,
         "sounds": 5,
         "effects": 5,
@@ -4235,7 +4235,7 @@
         "bday2026_attend",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-26T22:08:24Z"
+      "lastUpdated": "2026-07-26T22:09:30Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -10684,12 +10684,13 @@
       },
       "unlockedAchievements": [
         "night_owl",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T22:09:17Z"
+      "lastUpdated": "2026-07-26T22:09:20Z"
     }
   },
-  "lastUpdated": "2026-07-26T21:09:21Z",
+  "lastUpdated": "2026-07-26T21:09:35Z",
   "totalUsers": 546,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
