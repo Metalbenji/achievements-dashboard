@@ -3747,7 +3747,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2195,
+        "chat": 2196,
         "points_spent": 68901,
         "effects": 7,
         "interactive": 18,
@@ -3782,7 +3782,7 @@
         "sound_dj",
         "first_caller"
       ],
-      "lastUpdated": "2026-07-18T13:58:47Z"
+      "lastUpdated": "2026-07-26T10:10:59Z"
     },
     "roffelonator": {
       "counters": {
@@ -9529,7 +9529,7 @@
         "chat": 2095,
         "points_spent": 70751,
         "sounds": 4,
-        "sub": 30,
+        "sub": 31,
         "clips": 1,
         "gift_subs": 1,
         "sub_tier": 1,
@@ -9571,9 +9571,10 @@
         "chat_expert",
         "sub_elite",
         "effect_first",
-        "bday2026_attend"
+        "bday2026_attend",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:05:54Z"
+      "lastUpdated": "2026-07-26T10:10:52Z"
     },
     "infincible": {
       "counters": {
@@ -10176,7 +10177,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:10:55Z",
+  "lastUpdated": "2026-07-26T09:11:01Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
