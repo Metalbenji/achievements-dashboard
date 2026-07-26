@@ -1793,7 +1793,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3006,
+        "chat": 3009,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1848,7 +1848,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-26T11:55:28Z"
+      "lastUpdated": "2026-07-26T12:00:53Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1891,7 +1891,8 @@
         "early_bird",
         "sub_master",
         "effect_first",
-        "bday2026_support"
+        "bday2026_support",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T11:59:33Z"
     },
@@ -2915,7 +2916,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1052,
+        "chat": 1054,
         "sub": 44,
         "points_spent": 49151,
         "interactive": 4,
@@ -2985,7 +2986,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:35:53Z"
+      "lastUpdated": "2026-07-26T12:03:16Z"
     },
     "umenneske94": {
       "counters": {
@@ -5664,7 +5665,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 211,
+        "chat": 214,
         "points_spent": 5400,
         "effects": 8
       },
@@ -5683,7 +5684,7 @@
         "spender_iron",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-07-26T11:43:13Z"
+      "lastUpdated": "2026-07-26T12:02:38Z"
     },
     "stellabellas": {
       "counters": {
@@ -7036,7 +7037,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 164,
+        "chat": 165,
         "sub": 8,
         "points_spent": 10850,
         "sounds": 1,
@@ -7064,7 +7065,7 @@
         "bday2026_attend",
         "interactive_first"
       ],
-      "lastUpdated": "2026-07-26T11:56:01Z"
+      "lastUpdated": "2026-07-26T12:03:29Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7235,7 +7236,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1723,
+        "chat": 1726,
         "points_spent": 105654,
         "sounds": 26,
         "effects": 23,
@@ -7290,7 +7291,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T11:59:12Z"
+      "lastUpdated": "2026-07-26T12:01:37Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8882,7 +8883,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 213,
+        "chat": 215,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8896,7 +8897,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T11:58:04Z"
+      "lastUpdated": "2026-07-26T12:03:09Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10138,7 +10139,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 34,
+        "chat": 40,
         "points_spent": 1300,
         "effects": 1,
         "interactive": 1
@@ -10154,7 +10155,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T11:52:04Z"
+      "lastUpdated": "2026-07-26T12:02:42Z"
     },
     "rahzie1": {
       "counters": {
@@ -10387,7 +10388,7 @@
       "lastUpdated": "2026-07-26T11:46:13Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:59:35Z",
+  "lastUpdated": "2026-07-26T11:03:42Z",
   "totalUsers": 532,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
