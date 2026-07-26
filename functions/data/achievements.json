@@ -10399,9 +10399,10 @@
       },
       "unlockedAchievements": [
         "effect_first",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:02:18Z"
+      "lastUpdated": "2026-07-26T13:02:20Z"
     },
     "larussowow": {
       "counters": {
@@ -10415,10 +10416,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-07-26T12:59:14Z"
+    },
+    "mimi2876": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-26T13:03:02Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:02:19Z",
-  "totalUsers": 533,
+  "lastUpdated": "2026-07-26T12:03:03Z",
+  "totalUsers": 534,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
