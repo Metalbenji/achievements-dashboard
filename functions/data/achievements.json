@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1451,
+        "chat": 1452,
         "points_spent": 68407,
         "effects": 43,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T16:19:30Z"
+      "lastUpdated": "2026-07-26T16:19:53Z"
     },
     "ramdon101": {
       "counters": {
@@ -3403,7 +3403,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1926,
+        "chat": 1928,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3445,7 +3445,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T16:19:43Z"
+      "lastUpdated": "2026-07-26T16:19:53Z"
     },
     "maximusis_": {
       "counters": {
@@ -7565,7 +7565,7 @@
     "wigz666": {
       "counters": {
         "follow": 1,
-        "chat": 126
+        "chat": 127
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7573,9 +7573,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T16:19:48Z"
+      "lastUpdated": "2026-07-26T16:20:07Z"
     },
     "chaarleyxo": {
       "counters": {
@@ -10571,17 +10572,18 @@
     "lo0k4t": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T16:19:43Z"
+      "lastUpdated": "2026-07-26T16:20:10Z"
     }
   },
-  "lastUpdated": "2026-07-26T15:19:49Z",
+  "lastUpdated": "2026-07-26T15:20:11Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
