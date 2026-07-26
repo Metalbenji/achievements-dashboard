@@ -1793,7 +1793,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 2998,
+        "chat": 3000,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1845,9 +1845,10 @@
         "spender_gold",
         "clip_first",
         "raid_tier1_captain",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-26T11:15:35Z"
+      "lastUpdated": "2026-07-26T11:17:52Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2440,10 +2441,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 110952,
+        "points_spent": 111252,
         "follow": 1,
-        "chat": 1298,
-        "effects": 126,
+        "chat": 1299,
+        "effects": 127,
         "screenshot": 15,
         "sounds": 7,
         "bits": 300,
@@ -2502,7 +2503,7 @@
         "interactive_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:15:14Z"
+      "lastUpdated": "2026-07-26T11:17:28Z"
     },
     "syn__________": {
       "counters": {
@@ -8869,7 +8870,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 205,
+        "chat": 207,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8883,7 +8884,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T11:12:30Z"
+      "lastUpdated": "2026-07-26T11:17:51Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10348,7 +10349,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:16:29Z",
+  "lastUpdated": "2026-07-26T10:17:57Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
