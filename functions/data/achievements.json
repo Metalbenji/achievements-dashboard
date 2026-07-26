@@ -10183,7 +10183,7 @@
     "bludfarts666": {
       "counters": {
         "raid": 1,
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10192,7 +10192,7 @@
         "bday2026_attend",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T10:13:07Z"
+      "lastUpdated": "2026-07-26T10:13:11Z"
     },
     "xdrugula": {
       "counters": {
@@ -10203,10 +10203,19 @@
         "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:12:54Z"
+    },
+    "4ntonius": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-26T10:13:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:13:11Z",
-  "totalUsers": 521,
+  "lastUpdated": "2026-07-26T09:13:15Z",
+  "totalUsers": 522,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
