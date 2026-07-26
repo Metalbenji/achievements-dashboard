@@ -1853,7 +1853,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 722,
+        "chat": 723,
         "follow": 1,
         "sub": 42,
         "points_spent": 95350,
@@ -1895,7 +1895,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:43:25Z"
+      "lastUpdated": "2026-07-26T13:48:33Z"
     },
     "scoman07": {
       "counters": {
@@ -2320,13 +2320,17 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 264,
+        "chat": 265,
         "points_spent": 63000,
         "sounds": 2,
         "interactive": 1,
         "screenshot": 1,
         "raid": 1,
-        "effects": 1
+        "effects": 1,
+        "gift_subs": 45,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 45,
+        "largest_gift_bomb": 45
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2348,9 +2352,21 @@
         "chat_frequent",
         "raid_tier1_captain",
         "effect_first",
-        "bday2026_attend"
+        "bday2026_attend",
+        "gift_bomb_40",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion",
+        "gift_hero",
+        "gift_angel",
+        "gift_patron",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T13:46:51Z"
+      "lastUpdated": "2026-07-26T13:48:15Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -4266,7 +4282,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 304,
+        "chat": 305,
         "points_spent": 1001,
         "effects": 1
       },
@@ -4285,7 +4301,7 @@
         "effect_first",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-03T09:57:09Z"
+      "lastUpdated": "2026-07-26T13:48:38Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -7049,7 +7065,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 168,
+        "chat": 169,
         "sub": 8,
         "points_spent": 10850,
         "sounds": 1,
@@ -7077,7 +7093,7 @@
         "bday2026_attend",
         "interactive_first"
       ],
-      "lastUpdated": "2026-07-26T13:26:19Z"
+      "lastUpdated": "2026-07-26T13:48:18Z"
     },
     "daddy0ps": {
       "counters": {
@@ -8432,7 +8448,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 157,
+        "chat": 160,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8461,7 +8477,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:14:59Z"
+      "lastUpdated": "2026-07-26T13:48:15Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -10159,7 +10175,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 58,
+        "chat": 59,
         "points_spent": 1700,
         "effects": 3,
         "interactive": 1
@@ -10175,7 +10191,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T13:32:09Z"
+      "lastUpdated": "2026-07-26T13:47:36Z"
     },
     "rahzie1": {
       "counters": {
@@ -10472,7 +10488,7 @@
     "asrayya": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 4,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -10489,7 +10505,7 @@
         "gift_caring",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T13:46:37Z"
+      "lastUpdated": "2026-07-26T13:47:47Z"
     },
     "curlit_": {
       "counters": {
@@ -10501,7 +10517,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:47:33Z",
+  "lastUpdated": "2026-07-26T12:48:40Z",
   "totalUsers": 539,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
