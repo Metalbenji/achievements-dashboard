@@ -1706,7 +1706,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3979,
+        "chat": 3981,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1784,7 +1784,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:43:53Z"
+      "lastUpdated": "2026-07-26T10:46:34Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2567,9 +2567,9 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5218,
-        "points_spent": 102950,
-        "effects": 57,
+        "chat": 5220,
+        "points_spent": 104950,
+        "effects": 58,
         "sub": 49,
         "sounds": 7,
         "bits": 6000,
@@ -2667,7 +2667,7 @@
         "total_donation_kind",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:43:22Z"
+      "lastUpdated": "2026-07-26T10:47:10Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3765,7 +3765,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2235,
+        "chat": 2236,
         "points_spent": 70901,
         "effects": 7,
         "interactive": 18,
@@ -3801,7 +3801,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:41:21Z"
+      "lastUpdated": "2026-07-26T10:47:02Z"
     },
     "roffelonator": {
       "counters": {
@@ -10120,7 +10120,8 @@
         "chat_newbie",
         "chat_talker",
         "effect_first",
-        "interactive_first"
+        "interactive_first",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:45:26Z"
     },
@@ -10303,10 +10304,19 @@
         "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:38:28Z"
+    },
+    "dealtothhuskynation": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-07-26T10:47:35Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:45:29Z",
-  "totalUsers": 528,
+  "lastUpdated": "2026-07-26T09:47:40Z",
+  "totalUsers": 529,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
