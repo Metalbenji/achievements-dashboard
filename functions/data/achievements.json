@@ -6855,7 +6855,8 @@
         "chat_frequent",
         "sub_tier1",
         "spender_iron",
-        "chat_dedicated"
+        "chat_dedicated",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T13:25:26Z"
     },
@@ -7046,7 +7047,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 167,
+        "chat": 168,
         "sub": 8,
         "points_spent": 10850,
         "sounds": 1,
@@ -7074,7 +7075,7 @@
         "bday2026_attend",
         "interactive_first"
       ],
-      "lastUpdated": "2026-07-26T12:27:39Z"
+      "lastUpdated": "2026-07-26T13:26:19Z"
     },
     "daddy0ps": {
       "counters": {
@@ -10476,7 +10477,7 @@
       "lastUpdated": "2026-07-26T13:25:16Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:25:27Z",
+  "lastUpdated": "2026-07-26T12:26:32Z",
   "totalUsers": 538,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
