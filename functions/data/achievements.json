@@ -1793,7 +1793,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3005,
+        "chat": 3006,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1848,13 +1848,13 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-26T11:34:35Z"
+      "lastUpdated": "2026-07-26T11:55:28Z"
     },
     "aladderinsane": {
       "counters": {
         "chat": 720,
         "follow": 1,
-        "sub": 41,
+        "sub": 42,
         "points_spent": 95350,
         "sounds": 4,
         "sub_tier": 1,
@@ -1890,9 +1890,10 @@
         "spender_electrum",
         "early_bird",
         "sub_master",
-        "effect_first"
+        "effect_first",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-19T18:01:44Z"
+      "lastUpdated": "2026-07-26T11:55:13Z"
     },
     "scoman07": {
       "counters": {
@@ -3029,7 +3030,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1051,
+        "chat": 1052,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3070,7 +3071,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:49:54Z"
+      "lastUpdated": "2026-07-26T11:55:20Z"
     },
     "ppjackson69": {
       "counters": {
@@ -7035,11 +7036,12 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 163,
+        "chat": 164,
         "sub": 8,
-        "points_spent": 10350,
+        "points_spent": 10850,
         "sounds": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7059,9 +7061,10 @@
         "sound_first",
         "chat_regular",
         "sub_veteran",
-        "bday2026_attend"
+        "bday2026_attend",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-07-26T11:54:51Z"
+      "lastUpdated": "2026-07-26T11:56:01Z"
     },
     "daddy0ps": {
       "counters": {
@@ -10383,7 +10386,7 @@
       "lastUpdated": "2026-07-26T11:46:13Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:55:16Z",
+  "lastUpdated": "2026-07-26T10:56:03Z",
   "totalUsers": 532,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
