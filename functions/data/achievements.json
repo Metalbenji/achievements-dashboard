@@ -10666,12 +10666,13 @@
         "chat": 1
       },
       "unlockedAchievements": [
-        "night_owl"
+        "night_owl",
+        "weekend_warrior"
       ],
       "lastUpdated": "2026-07-26T22:01:16Z"
     }
   },
-  "lastUpdated": "2026-07-26T21:01:17Z",
+  "lastUpdated": "2026-07-26T21:01:20Z",
   "totalUsers": 545,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
