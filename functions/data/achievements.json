@@ -2952,7 +2952,10 @@
         "bits": 1510,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 75,
-        "largest_gift_bomb": 75
+        "largest_gift_bomb": 75,
+        "donations": 1,
+        "total_donated": 5000,
+        "big_donation": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3009,9 +3012,14 @@
         "bits_committed",
         "chat_champion",
         "bday2026_support",
-        "bday2026_attend"
+        "bday2026_attend",
+        "donation_first_timer",
+        "big_donation_starter",
+        "total_donation_starter",
+        "total_donation_generous",
+        "total_donation_kind"
       ],
-      "lastUpdated": "2026-07-26T12:11:19Z"
+      "lastUpdated": "2026-07-26T16:36:15Z"
     },
     "umenneske94": {
       "counters": {
@@ -10557,7 +10565,7 @@
     "grrgoyle": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -10567,9 +10575,10 @@
         "bday2026_attend",
         "chat_newbie",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T16:36:09Z"
+      "lastUpdated": "2026-07-26T16:36:23Z"
     },
     "lo0k4t": {
       "counters": {
@@ -10589,7 +10598,7 @@
       "lastUpdated": "2026-07-26T16:35:50Z"
     }
   },
-  "lastUpdated": "2026-07-26T15:36:22Z",
+  "lastUpdated": "2026-07-26T15:36:25Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
