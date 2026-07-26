@@ -1640,7 +1640,7 @@
         "points_spent": 60606,
         "effects": 39,
         "follow": 1,
-        "sub": 37,
+        "sub": 38,
         "sounds": 22,
         "screenshot": 2,
         "interactive": 12,
@@ -1696,13 +1696,14 @@
         "interactive_regular",
         "chat_champion",
         "spender_gold",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-19T11:15:59Z"
+      "lastUpdated": "2026-07-26T10:05:37Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3953,
+        "chat": 3954,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1780,7 +1781,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:04:39Z"
+      "lastUpdated": "2026-07-26T10:05:44Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3174,7 +3175,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1928,
+        "chat": 1929,
         "points_spent": 116301,
         "sounds": 12,
         "effects": 127,
@@ -3269,7 +3270,7 @@
         "total_donation_champion",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:04:54Z"
+      "lastUpdated": "2026-07-26T10:05:42Z"
     },
     "andilippi": {
       "counters": {
@@ -9518,7 +9519,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2094,
+        "chat": 2095,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 30,
@@ -9564,7 +9565,7 @@
         "sub_elite",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-19T12:12:28Z"
+      "lastUpdated": "2026-07-26T10:05:54Z"
     },
     "infincible": {
       "counters": {
@@ -10167,7 +10168,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:05:39Z",
+  "lastUpdated": "2026-07-26T09:05:56Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
