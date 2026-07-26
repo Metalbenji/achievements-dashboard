@@ -1793,7 +1793,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3004,
+        "chat": 3005,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1848,7 +1848,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-26T11:29:46Z"
+      "lastUpdated": "2026-07-26T11:34:35Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2224,7 +2224,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1898,
+        "chat": 1901,
         "points_spent": 130867,
         "effects": 21,
         "sounds": 10,
@@ -2278,7 +2278,7 @@
         "emperor_loyal",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:34:14Z"
+      "lastUpdated": "2026-07-26T11:36:01Z"
     },
     "anzerou": {
       "counters": {
@@ -4014,7 +4014,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 105
+        "chat": 106
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4024,7 +4024,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-07-18T12:47:56Z"
+      "lastUpdated": "2026-07-26T11:37:56Z"
     },
     "arpi_89": {
       "counters": {
@@ -5081,7 +5081,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 249,
+        "chat": 251,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5105,7 +5105,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:33:02Z"
+      "lastUpdated": "2026-07-26T11:37:33Z"
     },
     "auriaya__": {
       "counters": {
@@ -8875,7 +8875,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 207,
+        "chat": 208,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8889,7 +8889,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T11:17:51Z"
+      "lastUpdated": "2026-07-26T11:35:38Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10359,12 +10359,13 @@
         "chat": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:34:30Z"
+      "lastUpdated": "2026-07-26T11:34:33Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:34:33Z",
+  "lastUpdated": "2026-07-26T10:37:57Z",
   "totalUsers": 531,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
