@@ -1613,9 +1613,9 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 191,
-        "points_spent": 3700,
-        "effects": 10,
+        "chat": 193,
+        "points_spent": 4050,
+        "effects": 11,
         "follow": 1,
         "sounds": 2
       },
@@ -1634,7 +1634,7 @@
         "bday2026_attend",
         "effect_collector"
       ],
-      "lastUpdated": "2026-07-26T18:10:24Z"
+      "lastUpdated": "2026-07-26T18:14:53Z"
     },
     "miromaaldis": {
       "counters": {
@@ -7301,7 +7301,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1788,
+        "chat": 1794,
         "points_spent": 108354,
         "sounds": 27,
         "effects": 27,
@@ -7357,7 +7357,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-26T18:09:50Z"
+      "lastUpdated": "2026-07-26T18:19:00Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9936,13 +9936,13 @@
     "faydetoblackagain": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-06-27T16:14:30Z"
+      "lastUpdated": "2026-07-26T18:24:30Z"
     },
     "zeems__": {
       "counters": {
@@ -10577,7 +10577,7 @@
     "grrgoyle": {
       "counters": {
         "follow": 1,
-        "chat": 30,
+        "chat": 32,
         "points_spent": 2400,
         "sounds": 1
       },
@@ -10591,7 +10591,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-26T18:10:22Z"
+      "lastUpdated": "2026-07-26T18:13:08Z"
     },
     "lo0k4t": {
       "counters": {
@@ -10611,7 +10611,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T17:10:25Z",
+  "lastUpdated": "2026-07-26T17:24:31Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
