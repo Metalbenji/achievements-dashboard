@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1414,
+        "chat": 1415,
         "points_spent": 67357,
         "effects": 41,
         "follow": 1,
@@ -1702,7 +1702,7 @@
         "bday2026_attend",
         "gift_starter"
       ],
-      "lastUpdated": "2026-07-26T11:04:43Z"
+      "lastUpdated": "2026-07-26T11:05:10Z"
     },
     "ramdon101": {
       "counters": {
@@ -3020,7 +3020,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1040,
+        "chat": 1041,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3061,7 +3061,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:04:03Z"
+      "lastUpdated": "2026-07-26T11:05:31Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3196,7 +3196,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1942,
+        "chat": 1943,
         "points_spent": 116301,
         "sounds": 12,
         "effects": 127,
@@ -3291,7 +3291,7 @@
         "total_donation_champion",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T11:04:18Z"
+      "lastUpdated": "2026-07-26T11:05:44Z"
     },
     "andilippi": {
       "counters": {
@@ -6444,7 +6444,8 @@
         "sub_champion",
         "sub_platinum",
         "effect_first",
-        "chat_dedicated"
+        "chat_dedicated",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T11:04:58Z"
     },
@@ -7017,7 +7018,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 153,
+        "chat": 154,
         "sub": 8,
         "points_spent": 10350,
         "sounds": 1,
@@ -7042,7 +7043,7 @@
         "chat_regular",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-18T13:30:59Z"
+      "lastUpdated": "2026-07-26T11:06:03Z"
     },
     "daddy0ps": {
       "counters": {
@@ -8859,7 +8860,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 202,
+        "chat": 204,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8873,7 +8874,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T11:04:14Z"
+      "lastUpdated": "2026-07-26T11:05:13Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10336,7 +10337,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:05:01Z",
+  "lastUpdated": "2026-07-26T10:06:12Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
