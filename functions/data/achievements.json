@@ -10162,15 +10162,17 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "bday2026_attend",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T12:50:55Z"
+      "lastUpdated": "2026-07-26T12:51:23Z"
     },
     "00lemonada8": {
       "counters": {
@@ -10391,7 +10393,7 @@
       "lastUpdated": "2026-07-26T11:46:13Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:50:56Z",
+  "lastUpdated": "2026-07-26T11:51:24Z",
   "totalUsers": 532,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
