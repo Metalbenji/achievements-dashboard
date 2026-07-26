@@ -2338,7 +2338,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 998,
+        "chat": 999,
         "points_spent": 53808,
         "interactive": 19,
         "effects": 39,
@@ -2393,7 +2393,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:07Z"
+      "lastUpdated": "2026-07-26T10:15:22Z"
     },
     "redunt86": {
       "counters": {
@@ -2563,7 +2563,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5196,
+        "chat": 5197,
         "points_spent": 102650,
         "effects": 57,
         "sub": 49,
@@ -2654,7 +2654,7 @@
         "spender_platinum",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:14:14Z"
+      "lastUpdated": "2026-07-26T10:15:27Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3748,7 +3748,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2199,
+        "chat": 2200,
         "points_spent": 68901,
         "effects": 7,
         "interactive": 18,
@@ -3784,7 +3784,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:13:02Z"
+      "lastUpdated": "2026-07-26T10:15:11Z"
     },
     "roffelonator": {
       "counters": {
@@ -10218,14 +10218,16 @@
     },
     "rayge81": {
       "counters": {
-        "chat": 5
+        "chat": 5,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T10:15:09Z"
+      "lastUpdated": "2026-07-26T10:15:29Z"
     },
     "jollyson333": {
       "counters": {
@@ -10248,7 +10250,7 @@
       "lastUpdated": "2026-07-26T10:14:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:15:11Z",
+  "lastUpdated": "2026-07-26T09:15:33Z",
   "totalUsers": 525,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
