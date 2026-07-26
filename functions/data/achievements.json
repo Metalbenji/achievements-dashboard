@@ -1720,7 +1720,8 @@
         "sub_tier": 1,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 159,
-        "largest_gift_bomb": 159
+        "largest_gift_bomb": 159,
+        "bits": 100
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -1783,9 +1784,12 @@
         "gift_guardian",
         "gift_baron",
         "bday2026_support",
-        "bday2026_attend"
+        "bday2026_attend",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2026-07-26T10:59:19Z"
+      "lastUpdated": "2026-07-26T11:08:47Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -8645,7 +8649,7 @@
     "skyeblue182": {
       "counters": {
         "follow": 1,
-        "chat": 46,
+        "chat": 47,
         "sub": 5
       },
       "unlockedAchievements": [
@@ -8661,7 +8665,7 @@
         "sub_committed",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-06-27T15:27:53Z"
+      "lastUpdated": "2026-07-26T11:09:07Z"
     },
     "zabroke": {
       "counters": {
@@ -10339,7 +10343,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:09:06Z",
+  "lastUpdated": "2026-07-26T10:09:18Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
