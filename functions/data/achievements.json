@@ -2538,7 +2538,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5185,
+        "chat": 5187,
         "points_spent": 102650,
         "effects": 57,
         "sub": 49,
@@ -2628,7 +2628,7 @@
         "emperor_loyal",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-07-19T11:44:39Z"
+      "lastUpdated": "2026-07-26T09:55:16Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3151,7 +3151,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1925,
+        "chat": 1926,
         "points_spent": 116301,
         "sounds": 12,
         "effects": 127,
@@ -3235,7 +3235,7 @@
         "chat_expert",
         "effect_legend"
       ],
-      "lastUpdated": "2026-07-19T11:40:42Z"
+      "lastUpdated": "2026-07-26T09:54:06Z"
     },
     "andilippi": {
       "counters": {
@@ -9952,14 +9952,14 @@
     },
     "metalbenji": {
       "counters": {
-        "sub": 4,
+        "sub": 1,
         "sub_tier": 1,
         "points_spent": 20400,
         "effects": 23,
         "follow": 1,
-        "chat": 53,
+        "chat": 98,
         "gift_subs": 4,
-        "bits": 50000
+        "bits": 100000
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -9988,9 +9988,10 @@
         "bits_committed",
         "bits_elite",
         "bits_master",
-        "bits_titan"
+        "bits_titan",
+        "bits_emperor"
       ],
-      "lastUpdated": "2026-07-25T11:43:59Z"
+      "lastUpdated": "2026-07-25T21:17:45Z"
     },
     "lokonak": {
       "counters": {
@@ -10132,7 +10133,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-25T10:58:02Z",
+  "lastUpdated": "2026-07-26T08:58:20Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
