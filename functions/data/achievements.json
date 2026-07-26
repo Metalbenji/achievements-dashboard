@@ -7286,9 +7286,9 @@
       "counters": {
         "follow": 1,
         "chat": 1770,
-        "points_spent": 106904,
+        "points_spent": 107254,
         "sounds": 26,
-        "effects": 24,
+        "effects": 25,
         "screenshot": 2,
         "sub": 21,
         "interactive": 13,
@@ -7338,9 +7338,10 @@
         "bits_steady",
         "spender_platinum",
         "bday2026_attend",
-        "bits_dedicated"
+        "bits_dedicated",
+        "effect_master"
       ],
-      "lastUpdated": "2026-07-26T16:05:39Z"
+      "lastUpdated": "2026-07-26T16:15:36Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10569,12 +10570,13 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T16:14:42Z"
+      "lastUpdated": "2026-07-26T16:14:43Z"
     }
   },
-  "lastUpdated": "2026-07-26T15:14:43Z",
+  "lastUpdated": "2026-07-26T15:15:37Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
