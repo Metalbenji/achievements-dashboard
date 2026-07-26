@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4851,
+        "chat": 4857,
         "points_spent": 134101,
         "effects": 23,
         "sub": 19,
@@ -1535,7 +1535,7 @@
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 5,
         "sub_tier": 1,
-        "raid": 2
+        "raid": 3
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -1598,7 +1598,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T14:19:52Z"
+      "lastUpdated": "2026-07-26T15:34:45Z"
     },
     "celran": {
       "counters": {
@@ -1636,9 +1636,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1437,
-        "points_spent": 67707,
-        "effects": 42,
+        "chat": 1445,
+        "points_spent": 68407,
+        "effects": 43,
         "follow": 1,
         "sub": 38,
         "sounds": 24,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T11:43:59Z"
+      "lastUpdated": "2026-07-26T15:55:12Z"
     },
     "ramdon101": {
       "counters": {
@@ -2599,7 +2599,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5258,
+        "chat": 5263,
         "points_spent": 104950,
         "effects": 58,
         "sub": 49,
@@ -2613,9 +2613,9 @@
         "largest_gift_bomb": 445,
         "sub_tier": 1,
         "interactive": 2,
-        "donations": 1,
-        "total_donated": 7500,
-        "big_donation": 1
+        "donations": 2,
+        "total_donated": 12500,
+        "big_donation": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2697,9 +2697,11 @@
         "total_donation_starter",
         "total_donation_generous",
         "total_donation_kind",
-        "bday2026_support"
+        "bday2026_support",
+        "donation_kind",
+        "total_donation_champion"
       ],
-      "lastUpdated": "2026-07-26T15:24:55Z"
+      "lastUpdated": "2026-07-26T15:40:35Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3401,7 +3403,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1876,
+        "chat": 1916,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3443,7 +3445,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T15:26:51Z"
+      "lastUpdated": "2026-07-26T15:53:29Z"
     },
     "maximusis_": {
       "counters": {
@@ -3513,7 +3515,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 279,
+        "chat": 281,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3559,7 +3561,7 @@
         "gift_thoughtful",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T14:57:57Z"
+      "lastUpdated": "2026-07-26T15:42:54Z"
     },
     "awildbubbles": {
       "counters": {
@@ -7283,10 +7285,10 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1761,
-        "points_spent": 106554,
+        "chat": 1766,
+        "points_spent": 106904,
         "sounds": 26,
-        "effects": 23,
+        "effects": 24,
         "screenshot": 2,
         "sub": 21,
         "interactive": 13,
@@ -7338,7 +7340,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T15:26:13Z"
+      "lastUpdated": "2026-07-26T15:41:07Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10495,7 +10497,7 @@
     "asrayya": {
       "counters": {
         "follow": 1,
-        "chat": 11,
+        "chat": 12,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -10514,7 +10516,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T14:58:44Z"
+      "lastUpdated": "2026-07-26T15:36:05Z"
     },
     "curlit_": {
       "counters": {
@@ -10546,10 +10548,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-07-26T15:12:16Z"
+    },
+    "grrgoyle": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-07-26T15:57:31Z"
     }
   },
-  "lastUpdated": "2026-07-26T14:27:14Z",
-  "totalUsers": 540,
+  "lastUpdated": "2026-07-26T14:57:32Z",
+  "totalUsers": 541,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
