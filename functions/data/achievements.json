@@ -3187,7 +3187,10 @@
         "total_gift_bomb_subs": 345,
         "largest_gift_bomb": 345,
         "clips": 2,
-        "sub_tier": 2
+        "sub_tier": 2,
+        "donations": 1,
+        "total_donated": 10000,
+        "big_donation": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3257,9 +3260,16 @@
         "spender_platinum",
         "chat_expert",
         "effect_legend",
-        "bday2026_attend"
+        "bday2026_attend",
+        "donation_first_timer",
+        "big_donation_starter",
+        "total_donation_starter",
+        "total_donation_generous",
+        "total_donation_kind",
+        "total_donation_champion",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:02:26Z"
+      "lastUpdated": "2026-07-26T10:04:54Z"
     },
     "andilippi": {
       "counters": {
@@ -7183,7 +7193,7 @@
         "screenshot": 2,
         "sub": 21,
         "interactive": 11,
-        "bits": 386,
+        "bits": 390,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -7229,7 +7239,7 @@
         "bits_steady",
         "spender_platinum"
       ],
-      "lastUpdated": "2026-07-26T09:58:35Z"
+      "lastUpdated": "2026-07-26T10:05:11Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10157,7 +10167,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:05:11Z",
+  "lastUpdated": "2026-07-26T09:05:39Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
