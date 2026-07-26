@@ -4022,7 +4022,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 154
+        "chat": 156
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4033,7 +4033,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:24:35Z"
+      "lastUpdated": "2026-07-26T13:25:25Z"
     },
     "arpi_89": {
       "counters": {
@@ -6824,7 +6824,7 @@
       "counters": {
         "points_spent": 21461,
         "special_rewards": 1,
-        "chat": 413,
+        "chat": 414,
         "effects": 4,
         "follow": 1,
         "sub": 13
@@ -6857,7 +6857,7 @@
         "spender_iron",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-19T12:05:20Z"
+      "lastUpdated": "2026-07-26T13:25:26Z"
     },
     "otocar": {
       "counters": {
@@ -7245,7 +7245,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1740,
+        "chat": 1741,
         "points_spent": 106154,
         "sounds": 26,
         "effects": 23,
@@ -7300,7 +7300,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T13:24:54Z"
+      "lastUpdated": "2026-07-26T13:25:25Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10470,12 +10470,13 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:25:14Z"
+      "lastUpdated": "2026-07-26T13:25:16Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:25:17Z",
+  "lastUpdated": "2026-07-26T12:25:27Z",
   "totalUsers": 538,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
