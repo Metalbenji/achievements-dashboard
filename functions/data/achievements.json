@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1422,
+        "chat": 1424,
         "points_spent": 67357,
         "effects": 41,
         "follow": 1,
@@ -1703,11 +1703,11 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T11:15:50Z"
+      "lastUpdated": "2026-07-26T11:21:14Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3987,
+        "chat": 3988,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1789,11 +1789,11 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-07-26T11:15:49Z"
+      "lastUpdated": "2026-07-26T11:21:18Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3000,
+        "chat": 3001,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1848,7 +1848,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-26T11:17:52Z"
+      "lastUpdated": "2026-07-26T11:18:48Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2441,10 +2441,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 111252,
+        "points_spent": 112002,
         "follow": 1,
         "chat": 1299,
-        "effects": 127,
+        "effects": 128,
         "screenshot": 15,
         "sounds": 7,
         "bits": 300,
@@ -2503,7 +2503,7 @@
         "interactive_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:17:28Z"
+      "lastUpdated": "2026-07-26T11:21:11Z"
     },
     "syn__________": {
       "counters": {
@@ -3011,7 +3011,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 149
+        "chat": 150
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3023,7 +3023,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:14:15Z"
+      "lastUpdated": "2026-07-26T11:18:23Z"
     },
     "gwinniejones": {
       "counters": {
@@ -5658,7 +5658,7 @@
       "counters": {
         "follow": 1,
         "chat": 210,
-        "points_spent": 2450,
+        "points_spent": 2900,
         "effects": 7
       },
       "unlockedAchievements": [
@@ -5673,7 +5673,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-19T12:25:11Z"
+      "lastUpdated": "2026-07-26T11:21:26Z"
     },
     "stellabellas": {
       "counters": {
@@ -6427,7 +6427,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 303,
+        "chat": 304,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 450,
@@ -6455,7 +6455,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:13:19Z"
+      "lastUpdated": "2026-07-26T11:21:41Z"
     },
     "grimlocc": {
       "counters": {
@@ -7223,7 +7223,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1716,
+        "chat": 1717,
         "points_spent": 105354,
         "sounds": 26,
         "effects": 23,
@@ -7278,7 +7278,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T11:08:04Z"
+      "lastUpdated": "2026-07-26T11:18:36Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9386,7 +9386,7 @@
     "discostarz": {
       "counters": {
         "follow": 1,
-        "chat": 15
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9395,7 +9395,7 @@
         "chat_talker",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:48:01Z"
+      "lastUpdated": "2026-07-26T11:18:42Z"
     },
     "wyrmnoodle": {
       "counters": {
@@ -10126,7 +10126,7 @@
       "counters": {
         "follow": 1,
         "chat": 25,
-        "points_spent": 700,
+        "points_spent": 1000,
         "effects": 1,
         "interactive": 1
       },
@@ -10138,9 +10138,10 @@
         "effect_first",
         "interactive_first",
         "bday2026_attend",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T11:16:09Z"
+      "lastUpdated": "2026-07-26T11:22:00Z"
     },
     "rahzie1": {
       "counters": {
@@ -10349,7 +10350,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:17:57Z",
+  "lastUpdated": "2026-07-26T10:22:06Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
