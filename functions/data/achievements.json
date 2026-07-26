@@ -10419,25 +10419,28 @@
     },
     "mimi2876": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "bday2026_attend"
+        "bday2026_attend",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T13:03:03Z"
+      "lastUpdated": "2026-07-26T13:04:59Z"
     },
     "purplepagan": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "points_spent": 300
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T13:03:19Z"
+      "lastUpdated": "2026-07-26T13:03:53Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:03:21Z",
+  "lastUpdated": "2026-07-26T12:05:01Z",
   "totalUsers": 535,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
