@@ -3688,7 +3688,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 250,
+        "chat": 251,
         "points_spent": 902,
         "effects": 2,
         "sounds": 2
@@ -3705,9 +3705,10 @@
         "sound_first",
         "chat_regular",
         "night_owl",
-        "chat_frequent"
+        "chat_frequent",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T12:58:42Z"
+      "lastUpdated": "2026-07-26T12:59:11Z"
     },
     "hero_zappz": {
       "counters": {
@@ -10401,17 +10402,19 @@
     },
     "larussowow": {
       "counters": {
-        "chat": 8
+        "chat": 8,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T12:56:55Z"
+      "lastUpdated": "2026-07-26T12:59:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:58:43Z",
+  "lastUpdated": "2026-07-26T11:59:15Z",
   "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
