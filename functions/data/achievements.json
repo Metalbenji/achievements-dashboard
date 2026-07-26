@@ -7081,7 +7081,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 170,
+        "chat": 171,
         "sub": 8,
         "points_spent": 10850,
         "sounds": 1,
@@ -7109,7 +7109,7 @@
         "bday2026_attend",
         "interactive_first"
       ],
-      "lastUpdated": "2026-07-26T13:50:22Z"
+      "lastUpdated": "2026-07-26T14:23:56Z"
     },
     "daddy0ps": {
       "counters": {
@@ -10522,15 +10522,17 @@
     },
     "kismiraa": {
       "counters": {
-        "points_spent": 1
+        "points_spent": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "birthday_person"
+        "birthday_person",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T14:23:40Z"
+      "lastUpdated": "2026-07-26T14:24:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T13:23:46Z",
+  "lastUpdated": "2026-07-26T13:24:15Z",
   "totalUsers": 539,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
