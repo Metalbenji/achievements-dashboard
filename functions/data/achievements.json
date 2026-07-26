@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4813,
+        "chat": 4814,
         "points_spent": 133401,
         "effects": 21,
         "sub": 19,
@@ -1598,7 +1598,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:28Z"
+      "lastUpdated": "2026-07-26T10:12:57Z"
     },
     "celran": {
       "counters": {
@@ -10182,24 +10182,27 @@
     },
     "bludfarts666": {
       "counters": {
-        "raid": 1
+        "raid": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-26T10:12:42Z"
+      "lastUpdated": "2026-07-26T10:12:57Z"
     },
     "xdrugula": {
       "counters": {
         "chat": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:52Z"
+      "lastUpdated": "2026-07-26T10:12:54Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:12:56Z",
+  "lastUpdated": "2026-07-26T09:12:59Z",
   "totalUsers": 521,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
