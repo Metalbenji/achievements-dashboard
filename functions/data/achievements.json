@@ -2998,7 +2998,8 @@
         "bday2025_attend",
         "night_owl",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:14:15Z"
     },
@@ -10183,16 +10184,17 @@
     "bludfarts666": {
       "counters": {
         "raid": 1,
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
         "weekend_warrior",
         "bday2026_attend",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T10:13:56Z"
+      "lastUpdated": "2026-07-26T10:14:20Z"
     },
     "xdrugula": {
       "counters": {
@@ -10245,7 +10247,7 @@
       "lastUpdated": "2026-07-26T10:14:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:14:17Z",
+  "lastUpdated": "2026-07-26T09:14:23Z",
   "totalUsers": 525,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
