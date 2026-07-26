@@ -1707,7 +1707,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3993,
+        "chat": 3994,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-07-26T11:32:03Z"
+      "lastUpdated": "2026-07-26T12:55:38Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2006,7 +2006,8 @@
         "sub_elite",
         "screenshot_first",
         "effect_master",
-        "bday2026_support"
+        "bday2026_support",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T12:55:17Z"
     },
@@ -10396,16 +10397,16 @@
     },
     "larussowow": {
       "counters": {
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T12:55:15Z"
+      "lastUpdated": "2026-07-26T12:55:33Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:55:18Z",
+  "lastUpdated": "2026-07-26T11:55:46Z",
   "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
