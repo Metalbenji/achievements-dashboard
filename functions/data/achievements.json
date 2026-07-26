@@ -5678,7 +5678,8 @@
         "chat_regular",
         "chat_frequent",
         "bday2026_attend",
-        "spender_iron"
+        "spender_iron",
+        "emperor_loyal"
       ],
       "lastUpdated": "2026-07-26T11:43:13Z"
     },
@@ -10368,7 +10369,7 @@
       "lastUpdated": "2026-07-26T11:34:33Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:43:15Z",
+  "lastUpdated": "2026-07-26T10:43:18Z",
   "totalUsers": 531,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
