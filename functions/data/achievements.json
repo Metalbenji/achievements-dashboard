@@ -9850,7 +9850,7 @@
     },
     "jafewafe": {
       "counters": {
-        "chat": 39,
+        "chat": 42,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
@@ -9867,9 +9867,10 @@
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:00:12Z"
+      "lastUpdated": "2026-07-26T13:00:58Z"
     },
     "durindur": {
       "counters": {
@@ -10393,12 +10394,14 @@
     "arguultal": {
       "counters": {
         "points_spent": 350,
-        "effects": 1
+        "effects": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "effect_first"
+        "effect_first",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-26T11:46:13Z"
+      "lastUpdated": "2026-07-26T13:02:18Z"
     },
     "larussowow": {
       "counters": {
@@ -10414,7 +10417,7 @@
       "lastUpdated": "2026-07-26T12:59:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:00:13Z",
+  "lastUpdated": "2026-07-26T12:02:19Z",
   "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
