@@ -1646,7 +1646,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1481,
+        "chat": 1482,
         "points_spent": 69608,
         "effects": 45,
         "follow": 1,
@@ -1713,7 +1713,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T21:25:10Z"
+      "lastUpdated": "2026-07-26T21:27:13Z"
     },
     "ramdon101": {
       "counters": {
@@ -1948,7 +1948,7 @@
       "counters": {
         "points_spent": 7100,
         "effects": 9,
-        "chat": 166,
+        "chat": 167,
         "sounds": 1,
         "follow": 1
       },
@@ -1964,9 +1964,10 @@
         "night_owl",
         "bday2025_attend",
         "chat_regular",
-        "spender_iron"
+        "spender_iron",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T21:27:03Z"
+      "lastUpdated": "2026-07-26T21:27:21Z"
     },
     "hairypawter": {
       "counters": {
@@ -3258,7 +3259,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1988,
+        "chat": 1989,
         "points_spent": 118701,
         "sounds": 12,
         "effects": 130,
@@ -3355,7 +3356,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T21:25:29Z"
+      "lastUpdated": "2026-07-26T21:28:14Z"
     },
     "andilippi": {
       "counters": {
@@ -3431,7 +3432,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2065,
+        "chat": 2067,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3473,7 +3474,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T21:26:49Z"
+      "lastUpdated": "2026-07-26T21:29:18Z"
     },
     "maximusis_": {
       "counters": {
@@ -6547,7 +6548,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 525,
+        "chat": 526,
         "follow": 1,
         "points_spent": 48200,
         "sounds": 2,
@@ -6574,7 +6575,7 @@
         "spender_electrum",
         "effect_first"
       ],
-      "lastUpdated": "2026-07-19T12:14:31Z"
+      "lastUpdated": "2026-07-26T21:29:39Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7314,7 +7315,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1831,
+        "chat": 1835,
         "points_spent": 110854,
         "sounds": 27,
         "effects": 27,
@@ -7370,7 +7371,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-26T21:25:53Z"
+      "lastUpdated": "2026-07-26T21:29:29Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10651,7 +10652,7 @@
       "lastUpdated": "2026-07-26T20:01:01Z"
     }
   },
-  "lastUpdated": "2026-07-26T20:27:04Z",
+  "lastUpdated": "2026-07-26T20:29:40Z",
   "totalUsers": 544,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
