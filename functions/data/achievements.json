@@ -1702,7 +1702,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3951,
+        "chat": 3953,
         "points_spent": 220553,
         "screenshot": 2,
         "follow": 1,
@@ -1711,8 +1711,11 @@
         "effects": 16,
         "interactive": 6,
         "raid": 6,
-        "gift_subs": 1,
-        "sub_tier": 1
+        "gift_subs": 160,
+        "sub_tier": 1,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 159,
+        "largest_gift_bomb": 159
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -1761,9 +1764,23 @@
         "biggest_fan",
         "chat_master_tier",
         "spender_titanium",
-        "raid_tier2_seasoned"
+        "raid_tier2_seasoned",
+        "gift_bomb_100",
+        "gift_bombs_first",
+        "gift_kind",
+        "gift_caring",
+        "gift_thoughtful",
+        "gift_supporter",
+        "gift_champion",
+        "gift_hero",
+        "gift_angel",
+        "gift_patron",
+        "gift_guardian",
+        "gift_baron",
+        "bday2026_support",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-19T10:12:35Z"
+      "lastUpdated": "2026-07-26T10:04:39Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2318,7 +2335,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 992,
+        "chat": 994,
         "points_spent": 53458,
         "interactive": 19,
         "effects": 38,
@@ -2373,7 +2390,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:02:30Z"
+      "lastUpdated": "2026-07-26T10:04:20Z"
     },
     "redunt86": {
       "counters": {
@@ -2543,7 +2560,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5188,
+        "chat": 5190,
         "points_spent": 102650,
         "effects": 57,
         "sub": 49,
@@ -2634,7 +2651,7 @@
         "spender_platinum",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:02:16Z"
+      "lastUpdated": "2026-07-26T10:04:40Z"
     },
     "purgemonster91": {
       "counters": {
@@ -10140,7 +10157,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:03:17Z",
+  "lastUpdated": "2026-07-26T09:04:57Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
