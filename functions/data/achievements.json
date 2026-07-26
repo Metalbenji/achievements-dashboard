@@ -1618,7 +1618,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 214,
+        "chat": 216,
         "points_spent": 4050,
         "effects": 11,
         "follow": 1,
@@ -1640,7 +1640,7 @@
         "effect_collector",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T19:57:35Z"
+      "lastUpdated": "2026-07-26T20:00:13Z"
     },
     "miromaaldis": {
       "counters": {
@@ -2955,7 +2955,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1082,
+        "chat": 1083,
         "sub": 44,
         "points_spent": 49151,
         "interactive": 4,
@@ -3035,7 +3035,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-07-26T19:50:16Z"
+      "lastUpdated": "2026-07-26T20:00:32Z"
     },
     "umenneske94": {
       "counters": {
@@ -3256,7 +3256,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1973,
+        "chat": 1974,
         "points_spent": 117351,
         "sounds": 12,
         "effects": 129,
@@ -3353,7 +3353,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T19:51:02Z"
+      "lastUpdated": "2026-07-26T20:00:34Z"
     },
     "andilippi": {
       "counters": {
@@ -7382,7 +7382,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 510,
+        "chat": 511,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7407,7 +7407,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:57:51Z"
+      "lastUpdated": "2026-07-26T19:59:45Z"
     },
     "kikinplays_": {
       "counters": {
@@ -10579,16 +10579,17 @@
     },
     "eusitafiu": {
       "counters": {
-        "chat": 7,
+        "chat": 10,
         "raid": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
         "chat_newbie",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T19:58:38Z"
+      "lastUpdated": "2026-07-26T20:00:50Z"
     },
     "grrgoyle": {
       "counters": {
@@ -10628,15 +10629,16 @@
     },
     "edik_uy": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:59:02Z"
+      "lastUpdated": "2026-07-26T19:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T18:59:03Z",
+  "lastUpdated": "2026-07-26T19:00:51Z",
   "totalUsers": 543,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
