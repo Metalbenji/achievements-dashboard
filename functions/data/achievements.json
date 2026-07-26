@@ -1646,7 +1646,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1484,
+        "chat": 1485,
         "points_spent": 71608,
         "effects": 45,
         "follow": 1,
@@ -1713,7 +1713,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T21:32:53Z"
+      "lastUpdated": "2026-07-26T21:59:14Z"
     },
     "ramdon101": {
       "counters": {
@@ -2615,7 +2615,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5368,
+        "chat": 5371,
         "points_spent": 127000,
         "effects": 59,
         "sub": 49,
@@ -2629,9 +2629,9 @@
         "largest_gift_bomb": 445,
         "sub_tier": 1,
         "interactive": 2,
-        "donations": 2,
-        "total_donated": 12500,
-        "big_donation": 2
+        "donations": 3,
+        "total_donated": 21100,
+        "big_donation": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2715,9 +2715,12 @@
         "total_donation_kind",
         "bday2026_support",
         "donation_kind",
-        "total_donation_champion"
+        "total_donation_champion",
+        "donation_caring",
+        "big_donation_regular",
+        "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T21:57:25Z"
+      "lastUpdated": "2026-07-26T22:00:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3216,7 +3219,7 @@
       "counters": {
         "follow": 1,
         "chat": 12,
-        "raid": 1
+        "raid": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3225,12 +3228,12 @@
         "raid_tier1_captain",
         "chat_talker"
       ],
-      "lastUpdated": "2026-01-14T21:56:45Z"
+      "lastUpdated": "2026-07-26T22:00:44Z"
     },
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 17
+        "chat": 18
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3239,7 +3242,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-05-28T22:15:54Z"
+      "lastUpdated": "2026-07-26T22:00:55Z"
     },
     "bludshed187": {
       "counters": {
@@ -3259,7 +3262,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2010,
+        "chat": 2011,
         "points_spent": 118801,
         "sounds": 13,
         "effects": 130,
@@ -3356,7 +3359,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T21:57:16Z"
+      "lastUpdated": "2026-07-26T21:59:38Z"
     },
     "andilippi": {
       "counters": {
@@ -3432,7 +3435,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2099,
+        "chat": 2102,
         "points_spent": 18850,
         "sounds": 9,
         "clips": 1,
@@ -3474,7 +3477,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T21:57:27Z"
+      "lastUpdated": "2026-07-26T21:59:05Z"
     },
     "maximusis_": {
       "counters": {
@@ -3544,7 +3547,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 281,
+        "chat": 283,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3590,7 +3593,7 @@
         "gift_thoughtful",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T15:42:54Z"
+      "lastUpdated": "2026-07-26T22:00:47Z"
     },
     "awildbubbles": {
       "counters": {
@@ -8488,7 +8491,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 203,
+        "chat": 204,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8518,7 +8521,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T21:56:38Z"
+      "lastUpdated": "2026-07-26T21:58:51Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -10655,7 +10658,7 @@
       "lastUpdated": "2026-07-26T20:01:01Z"
     }
   },
-  "lastUpdated": "2026-07-26T20:58:37Z",
+  "lastUpdated": "2026-07-26T21:00:56Z",
   "totalUsers": 544,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
