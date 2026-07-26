@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4832,
+        "chat": 4839,
         "points_spent": 133751,
         "effects": 22,
         "sub": 19,
@@ -1598,7 +1598,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:34:49Z"
+      "lastUpdated": "2026-07-26T10:54:39Z"
     },
     "celran": {
       "counters": {
@@ -3765,7 +3765,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2236,
+        "chat": 2238,
         "points_spent": 70901,
         "effects": 7,
         "interactive": 18,
@@ -3801,7 +3801,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:47:02Z"
+      "lastUpdated": "2026-07-26T10:54:22Z"
     },
     "roffelonator": {
       "counters": {
@@ -9469,14 +9469,15 @@
     },
     "rayahaa": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-06-07T17:03:00Z"
+      "lastUpdated": "2026-07-26T10:55:56Z"
     },
     "inovas_": {
       "counters": {
@@ -10309,16 +10310,17 @@
     "dealtothhuskynation": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:48:26Z"
+      "lastUpdated": "2026-07-26T10:50:15Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:48:36Z",
+  "lastUpdated": "2026-07-26T09:55:59Z",
   "totalUsers": 529,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
