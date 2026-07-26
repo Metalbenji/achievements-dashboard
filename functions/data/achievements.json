@@ -5078,7 +5078,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 236,
+        "chat": 237,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5101,7 +5101,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-18T13:58:33Z"
+      "lastUpdated": "2026-07-26T11:22:43Z"
     },
     "auriaya__": {
       "counters": {
@@ -10350,7 +10350,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:22:06Z",
+  "lastUpdated": "2026-07-26T10:22:47Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
