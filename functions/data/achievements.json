@@ -1618,7 +1618,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 216,
+        "chat": 217,
         "points_spent": 4050,
         "effects": 11,
         "follow": 1,
@@ -1640,7 +1640,7 @@
         "effect_collector",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T20:00:13Z"
+      "lastUpdated": "2026-07-26T20:00:51Z"
     },
     "miromaaldis": {
       "counters": {
@@ -2612,7 +2612,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5307,
+        "chat": 5308,
         "points_spent": 104950,
         "effects": 58,
         "sub": 49,
@@ -2714,7 +2714,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-07-26T19:03:04Z"
+      "lastUpdated": "2026-07-26T20:00:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7382,7 +7382,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 511,
+        "chat": 512,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7407,7 +7407,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:59:45Z"
+      "lastUpdated": "2026-07-26T20:00:51Z"
     },
     "kikinplays_": {
       "counters": {
@@ -10636,10 +10636,19 @@
         "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T19:59:59Z"
+    },
+    "shamankasgot": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-07-26T20:01:00Z"
     }
   },
-  "lastUpdated": "2026-07-26T19:00:51Z",
-  "totalUsers": 543,
+  "lastUpdated": "2026-07-26T19:01:01Z",
+  "totalUsers": 544,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
