@@ -2601,7 +2601,8 @@
         "gift_kind",
         "gift_caring",
         "gift_thoughtful",
-        "bday2026_support"
+        "bday2026_support",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T19:14:56Z"
     },
@@ -10619,7 +10620,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T18:14:57Z",
+  "lastUpdated": "2026-07-26T18:15:03Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
