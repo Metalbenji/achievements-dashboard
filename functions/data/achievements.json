@@ -1644,7 +1644,7 @@
         "sounds": 24,
         "screenshot": 3,
         "interactive": 13,
-        "bits": 200,
+        "bits": 300,
         "raid": 6,
         "clips": 1,
         "sub_tier": 1,
@@ -1700,9 +1700,10 @@
         "raid_tier2_seasoned",
         "bday2026_support",
         "bday2026_attend",
-        "gift_starter"
+        "gift_starter",
+        "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T11:06:24Z"
+      "lastUpdated": "2026-07-26T11:08:41Z"
     },
     "ramdon101": {
       "counters": {
@@ -10338,7 +10339,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:08:47Z",
+  "lastUpdated": "2026-07-26T10:08:53Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
