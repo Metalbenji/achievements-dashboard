@@ -1707,7 +1707,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3997,
+        "chat": 3998,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-07-26T13:20:37Z"
+      "lastUpdated": "2026-07-26T13:23:06Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -7245,7 +7245,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1736,
+        "chat": 1737,
         "points_spent": 106154,
         "sounds": 26,
         "effects": 23,
@@ -7300,7 +7300,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T13:22:13Z"
+      "lastUpdated": "2026-07-26T13:23:13Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10046,7 +10046,8 @@
         "effect_first",
         "sub_platinum",
         "chat_dedicated",
-        "night_owl"
+        "night_owl",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T13:23:00Z"
     },
@@ -10449,10 +10450,19 @@
         "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T13:17:29Z"
+    },
+    "ravensea83": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-07-26T13:23:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:23:02Z",
-  "totalUsers": 536,
+  "lastUpdated": "2026-07-26T12:23:18Z",
+  "totalUsers": 537,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
