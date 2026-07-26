@@ -1805,7 +1805,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3066,
+        "chat": 3068,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1860,7 +1860,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-26T22:07:47Z"
+      "lastUpdated": "2026-07-26T22:07:57Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3441,7 +3441,7 @@
       "counters": {
         "follow": 1,
         "chat": 2109,
-        "points_spent": 18850,
+        "points_spent": 18851,
         "sounds": 9,
         "clips": 1,
         "screenshot": 1,
@@ -3481,9 +3481,10 @@
         "bday2026_attend",
         "gift_starter",
         "bday2026_support",
-        "night_owl"
+        "night_owl",
+        "birthday_person"
       ],
-      "lastUpdated": "2026-07-26T22:07:45Z"
+      "lastUpdated": "2026-07-26T22:08:19Z"
     },
     "maximusis_": {
       "counters": {
@@ -4208,7 +4209,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 355,
+        "chat": 356,
         "points_spent": 22003,
         "sounds": 5,
         "effects": 5,
@@ -4234,7 +4235,7 @@
         "bday2026_attend",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-26T22:07:52Z"
+      "lastUpdated": "2026-07-26T22:07:54Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -10678,7 +10679,7 @@
       "lastUpdated": "2026-07-26T22:03:09Z"
     }
   },
-  "lastUpdated": "2026-07-26T21:07:53Z",
+  "lastUpdated": "2026-07-26T21:08:20Z",
   "totalUsers": 545,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
