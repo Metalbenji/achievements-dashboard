@@ -9381,7 +9381,8 @@
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:48:01Z"
     },
@@ -10307,15 +10308,17 @@
     },
     "dealtothhuskynation": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-26T10:47:35Z"
+      "lastUpdated": "2026-07-26T10:48:26Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:48:04Z",
+  "lastUpdated": "2026-07-26T09:48:33Z",
   "totalUsers": 529,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
