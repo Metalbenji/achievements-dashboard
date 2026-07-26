@@ -1704,7 +1704,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3974,
+        "chat": 3976,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1782,7 +1782,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:36:28Z"
+      "lastUpdated": "2026-07-26T10:39:47Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2565,7 +2565,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5212,
+        "chat": 5213,
         "points_spent": 102950,
         "effects": 57,
         "sub": 49,
@@ -2665,7 +2665,7 @@
         "total_donation_kind",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:33:31Z"
+      "lastUpdated": "2026-07-26T10:39:31Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3018,7 +3018,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1033,
+        "chat": 1034,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3059,7 +3059,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:36:14Z"
+      "lastUpdated": "2026-07-26T10:38:35Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3194,7 +3194,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 1937,
+        "chat": 1938,
         "points_spent": 116301,
         "sounds": 12,
         "effects": 127,
@@ -3289,7 +3289,7 @@
         "total_donation_champion",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:30:09Z"
+      "lastUpdated": "2026-07-26T10:39:53Z"
     },
     "andilippi": {
       "counters": {
@@ -3620,7 +3620,7 @@
       "counters": {
         "sub": 23,
         "follow": 1,
-        "chat": 464
+        "chat": 467
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3644,7 +3644,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:37:52Z"
+      "lastUpdated": "2026-07-26T10:40:02Z"
     },
     "khazan67": {
       "counters": {
@@ -3763,7 +3763,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2231,
+        "chat": 2232,
         "points_spent": 70901,
         "effects": 7,
         "interactive": 18,
@@ -3799,7 +3799,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:36:21Z"
+      "lastUpdated": "2026-07-26T10:38:41Z"
     },
     "roffelonator": {
       "counters": {
@@ -7210,14 +7210,14 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1712,
+        "chat": 1713,
         "points_spent": 105354,
         "sounds": 26,
         "effects": 23,
         "screenshot": 2,
         "sub": 21,
         "interactive": 11,
-        "bits": 890,
+        "bits": 1390,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -7265,7 +7265,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T10:10:46Z"
+      "lastUpdated": "2026-07-26T10:39:35Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8856,7 +8856,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 196,
+        "chat": 199,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8869,7 +8869,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:37:52Z"
+      "lastUpdated": "2026-07-26T10:39:38Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10295,12 +10295,13 @@
         "chat": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:38:24Z"
+      "lastUpdated": "2026-07-26T10:38:28Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:38:32Z",
+  "lastUpdated": "2026-07-26T09:40:05Z",
   "totalUsers": 528,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
