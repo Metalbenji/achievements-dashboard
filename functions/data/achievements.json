@@ -2599,7 +2599,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5237,
+        "chat": 5238,
         "points_spent": 104950,
         "effects": 58,
         "sub": 49,
@@ -2699,7 +2699,7 @@
         "total_donation_kind",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T13:53:47Z"
+      "lastUpdated": "2026-07-26T14:16:13Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3401,7 +3401,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1768,
+        "chat": 1769,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3440,7 +3440,7 @@
         "chat_expert",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T14:15:49Z"
+      "lastUpdated": "2026-07-26T14:16:02Z"
     },
     "maximusis_": {
       "counters": {
@@ -5124,7 +5124,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 267,
+        "chat": 268,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5148,7 +5148,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T14:15:53Z"
+      "lastUpdated": "2026-07-26T14:16:02Z"
     },
     "auriaya__": {
       "counters": {
@@ -10378,8 +10378,9 @@
     "dealtothhuskynation": {
       "counters": {
         "follow": 1,
-        "chat": 5,
-        "gift_subs": 1
+        "chat": 6,
+        "gift_subs": 1,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10387,9 +10388,10 @@
         "bday2026_attend",
         "gift_starter",
         "bday2026_support",
-        "chat_newbie"
+        "chat_newbie",
+        "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-07-26T11:57:49Z"
+      "lastUpdated": "2026-07-26T14:16:25Z"
     },
     "sidequestconnor": {
       "counters": {
@@ -10455,12 +10457,14 @@
     "purplepagan": {
       "counters": {
         "follow": 1,
-        "points_spent": 300
+        "points_spent": 650,
+        "effects": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-26T13:03:53Z"
+      "lastUpdated": "2026-07-26T14:18:03Z"
     },
     "moodiemooo": {
       "counters": {
@@ -10487,7 +10491,7 @@
     "asrayya": {
       "counters": {
         "follow": 1,
-        "chat": 6,
+        "chat": 7,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -10505,7 +10509,7 @@
         "bday2026_support",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T14:14:13Z"
+      "lastUpdated": "2026-07-26T14:16:02Z"
     },
     "curlit_": {
       "counters": {
@@ -10517,7 +10521,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T13:16:02Z",
+  "lastUpdated": "2026-07-26T13:18:07Z",
   "totalUsers": 538,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
