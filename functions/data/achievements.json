@@ -2562,7 +2562,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5191,
+        "chat": 5192,
         "points_spent": 102650,
         "effects": 57,
         "sub": 49,
@@ -2653,7 +2653,7 @@
         "spender_platinum",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:07:21Z"
+      "lastUpdated": "2026-07-26T10:07:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2697,7 +2697,8 @@
         "chat_regular",
         "spender_electrum",
         "chat_frequent",
-        "vip_dreamer"
+        "vip_dreamer",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:07:38Z"
     },
@@ -10172,7 +10173,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:07:40Z",
+  "lastUpdated": "2026-07-26T09:08:06Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
