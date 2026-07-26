@@ -3401,7 +3401,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1767,
+        "chat": 1768,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3440,7 +3440,7 @@
         "chat_expert",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T14:15:09Z"
+      "lastUpdated": "2026-07-26T14:15:49Z"
     },
     "maximusis_": {
       "counters": {
@@ -4659,7 +4659,8 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "bday2026_support"
+        "bday2026_support",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T14:15:18Z"
     },
@@ -5123,7 +5124,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 264,
+        "chat": 267,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5147,7 +5148,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T14:14:58Z"
+      "lastUpdated": "2026-07-26T14:15:53Z"
     },
     "auriaya__": {
       "counters": {
@@ -10516,7 +10517,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T13:15:20Z",
+  "lastUpdated": "2026-07-26T13:16:02Z",
   "totalUsers": 538,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
