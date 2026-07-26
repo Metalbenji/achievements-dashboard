@@ -10099,7 +10099,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 35
+        "chat": 36
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10108,7 +10108,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-18T14:34:03Z"
+      "lastUpdated": "2026-07-26T12:52:51Z"
     },
     "wild_saber1337": {
       "counters": {
@@ -10162,7 +10162,7 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 10,
+        "chat": 12,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10172,7 +10172,7 @@
         "bday2026_attend",
         "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T12:51:23Z"
+      "lastUpdated": "2026-07-26T12:52:18Z"
     },
     "00lemonada8": {
       "counters": {
@@ -10393,7 +10393,7 @@
       "lastUpdated": "2026-07-26T11:46:13Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:51:24Z",
+  "lastUpdated": "2026-07-26T11:52:52Z",
   "totalUsers": 532,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
