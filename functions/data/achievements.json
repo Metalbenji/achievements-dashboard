@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4839,
+        "chat": 4840,
         "points_spent": 133751,
         "effects": 22,
         "sub": 19,
@@ -1598,7 +1598,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:54:39Z"
+      "lastUpdated": "2026-07-26T10:56:07Z"
     },
     "celran": {
       "counters": {
@@ -9469,15 +9469,16 @@
     },
     "rayahaa": {
       "counters": {
-        "chat": 5,
+        "chat": 7,
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:55:56Z"
+      "lastUpdated": "2026-07-26T10:56:07Z"
     },
     "inovas_": {
       "counters": {
@@ -10318,10 +10319,19 @@
         "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T10:50:15Z"
+    },
+    "sidequestconnor": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-07-26T10:56:26Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:56:06Z",
-  "totalUsers": 529,
+  "lastUpdated": "2026-07-26T09:56:32Z",
+  "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
