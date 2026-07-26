@@ -1521,7 +1521,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4812,
+        "chat": 4813,
         "points_spent": 133401,
         "effects": 21,
         "sub": 19,
@@ -1598,7 +1598,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:12:01Z"
+      "lastUpdated": "2026-07-26T10:12:28Z"
     },
     "celran": {
       "counters": {
@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1391,
+        "chat": 1392,
         "points_spent": 60957,
         "effects": 39,
         "follow": 1,
@@ -1700,7 +1700,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:11:02Z"
+      "lastUpdated": "2026-07-26T10:12:41Z"
     },
     "ramdon101": {
       "counters": {
@@ -1887,7 +1887,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 265,
+        "chat": 266,
         "follow": 1,
         "points_spent": 21250,
         "screenshot": 1,
@@ -1919,7 +1919,7 @@
         "sound_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:09:08Z"
+      "lastUpdated": "2026-07-26T10:12:27Z"
     },
     "lottec": {
       "counters": {
@@ -8378,8 +8378,9 @@
         "chat": 155,
         "points_spent": 600,
         "interactive": 1,
-        "sub": 11,
-        "sounds": 1
+        "sub": 13,
+        "sounds": 1,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -8399,9 +8400,10 @@
         "sub_veteran",
         "sub_champion",
         "chat_regular",
-        "sound_first"
+        "sound_first",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-05-09T14:17:01Z"
+      "lastUpdated": "2026-07-26T10:12:24Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -9527,7 +9529,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2095,
+        "chat": 2097,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 31,
@@ -9575,7 +9577,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:10:52Z"
+      "lastUpdated": "2026-07-26T10:12:38Z"
     },
     "infincible": {
       "counters": {
@@ -10178,7 +10180,7 @@
       "lastUpdated": "2026-07-19T17:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:12:27Z",
+  "lastUpdated": "2026-07-26T09:12:47Z",
   "totalUsers": 519,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
