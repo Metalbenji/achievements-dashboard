@@ -2598,7 +2598,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5229,
+        "chat": 5230,
         "points_spent": 104950,
         "effects": 58,
         "sub": 49,
@@ -2698,7 +2698,7 @@
         "total_donation_kind",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T13:38:32Z"
+      "lastUpdated": "2026-07-26T13:48:40Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4299,7 +4299,8 @@
         "chat_frequent",
         "spender_bronze",
         "effect_first",
-        "chat_dedicated"
+        "chat_dedicated",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T13:48:38Z"
     },
@@ -10488,7 +10489,7 @@
     "asrayya": {
       "counters": {
         "follow": 1,
-        "chat": 4,
+        "chat": 5,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -10503,9 +10504,10 @@
         "gift_starter",
         "gift_kind",
         "gift_caring",
-        "bday2026_support"
+        "bday2026_support",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T13:47:47Z"
+      "lastUpdated": "2026-07-26T13:48:44Z"
     },
     "curlit_": {
       "counters": {
@@ -10517,7 +10519,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:48:40Z",
+  "lastUpdated": "2026-07-26T12:48:46Z",
   "totalUsers": 539,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
