@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 561,
+        "chat": 563,
         "points_spent": 49502,
         "follow": 1,
         "sub": 25,
@@ -1499,9 +1499,10 @@
         "chat_dedicated",
         "sound_first",
         "sub_diamond",
-        "first_caller"
+        "first_caller",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T18:47:35Z"
+      "lastUpdated": "2026-07-26T18:48:51Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1613,7 +1614,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 199,
+        "chat": 200,
         "points_spent": 4050,
         "effects": 11,
         "follow": 1,
@@ -1632,9 +1633,10 @@
         "bday2025_attend",
         "chat_regular",
         "bday2026_attend",
-        "effect_collector"
+        "effect_collector",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T18:44:26Z"
+      "lastUpdated": "2026-07-26T18:50:32Z"
     },
     "miromaaldis": {
       "counters": {
@@ -1855,7 +1857,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 725,
+        "chat": 726,
         "follow": 1,
         "sub": 42,
         "points_spent": 95350,
@@ -1897,7 +1899,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T17:59:17Z"
+      "lastUpdated": "2026-07-26T18:47:59Z"
     },
     "scoman07": {
       "counters": {
@@ -2467,10 +2469,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 114952,
+        "points_spent": 115302,
         "follow": 1,
-        "chat": 1315,
-        "effects": 132,
+        "chat": 1316,
+        "effects": 133,
         "screenshot": 16,
         "sounds": 7,
         "bits": 300,
@@ -2529,7 +2531,7 @@
         "interactive_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T16:04:38Z"
+      "lastUpdated": "2026-07-26T18:50:01Z"
     },
     "syn__________": {
       "counters": {
@@ -3246,9 +3248,9 @@
       "counters": {
         "follow": 1,
         "chat": 1969,
-        "points_spent": 117151,
+        "points_spent": 117351,
         "sounds": 12,
-        "effects": 128,
+        "effects": 129,
         "sub": 51,
         "bits": 13574,
         "interactive": 8,
@@ -3342,7 +3344,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T18:46:57Z"
+      "lastUpdated": "2026-07-26T18:50:11Z"
     },
     "andilippi": {
       "counters": {
@@ -3418,7 +3420,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2003,
+        "chat": 2009,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3460,7 +3462,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T18:46:09Z"
+      "lastUpdated": "2026-07-26T18:50:00Z"
     },
     "maximusis_": {
       "counters": {
@@ -7301,7 +7303,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1802,
+        "chat": 1804,
         "points_spent": 108354,
         "sounds": 27,
         "effects": 27,
@@ -7357,7 +7359,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-26T18:47:21Z"
+      "lastUpdated": "2026-07-26T18:50:30Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10612,7 +10614,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T17:47:36Z",
+  "lastUpdated": "2026-07-26T17:50:33Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
