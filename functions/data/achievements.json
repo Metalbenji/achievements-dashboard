@@ -3054,7 +3054,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1063,
+        "chat": 1065,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3095,7 +3095,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:29:36Z"
+      "lastUpdated": "2026-07-26T15:04:47Z"
     },
     "ppjackson69": {
       "counters": {
@@ -10534,15 +10534,16 @@
     },
     "eusitafiu": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T15:03:09Z"
+      "lastUpdated": "2026-07-26T15:03:35Z"
     }
   },
-  "lastUpdated": "2026-07-26T14:03:10Z",
+  "lastUpdated": "2026-07-26T14:05:16Z",
   "totalUsers": 540,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
