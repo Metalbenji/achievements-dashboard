@@ -3929,7 +3929,7 @@
     "kurenaii": {
       "counters": {
         "follow": 1,
-        "chat": 86
+        "chat": 87
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3940,7 +3940,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-18T13:43:48Z"
+      "lastUpdated": "2026-07-26T12:57:00Z"
     },
     "ryanstephenson232": {
       "counters": {
@@ -5347,7 +5347,8 @@
         "chat_talker",
         "chat_conversationalist",
         "sub_elite",
-        "bday2026_support"
+        "bday2026_support",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T12:56:26Z"
     },
@@ -10399,17 +10400,17 @@
     },
     "larussowow": {
       "counters": {
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T12:56:09Z"
+      "lastUpdated": "2026-07-26T12:56:55Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:56:27Z",
+  "lastUpdated": "2026-07-26T11:57:01Z",
   "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
