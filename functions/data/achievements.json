@@ -1805,7 +1805,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3068,
+        "chat": 3069,
         "points_spent": 65608,
         "interactive": 52,
         "follow": 1,
@@ -1860,7 +1860,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-07-26T22:07:57Z"
+      "lastUpdated": "2026-07-26T22:08:59Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3236,7 +3236,7 @@
     "devinespiritgm": {
       "counters": {
         "follow": 1,
-        "chat": 28
+        "chat": 30
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3247,7 +3247,7 @@
         "bday2026_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-26T22:07:43Z"
+      "lastUpdated": "2026-07-26T22:08:54Z"
     },
     "bludshed187": {
       "counters": {
@@ -3267,7 +3267,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2011,
+        "chat": 2012,
         "points_spent": 119801,
         "sounds": 13,
         "effects": 130,
@@ -3364,7 +3364,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-26T22:04:36Z"
+      "lastUpdated": "2026-07-26T22:08:28Z"
     },
     "andilippi": {
       "counters": {
@@ -3440,7 +3440,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2109,
+        "chat": 2113,
         "points_spent": 18851,
         "sounds": 9,
         "clips": 1,
@@ -3484,7 +3484,7 @@
         "night_owl",
         "birthday_person"
       ],
-      "lastUpdated": "2026-07-26T22:08:19Z"
+      "lastUpdated": "2026-07-26T22:09:12Z"
     },
     "maximusis_": {
       "counters": {
@@ -4209,7 +4209,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 356,
+        "chat": 357,
         "points_spent": 22003,
         "sounds": 5,
         "effects": 5,
@@ -4235,7 +4235,7 @@
         "bday2026_attend",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-26T22:07:54Z"
+      "lastUpdated": "2026-07-26T22:08:24Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -8500,7 +8500,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 204,
+        "chat": 205,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8530,7 +8530,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T21:58:51Z"
+      "lastUpdated": "2026-07-26T22:09:13Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -10677,10 +10677,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-07-26T22:03:09Z"
+    },
+    "bamarecon8": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "night_owl"
+      ],
+      "lastUpdated": "2026-07-26T22:09:17Z"
     }
   },
-  "lastUpdated": "2026-07-26T21:08:20Z",
-  "totalUsers": 545,
+  "lastUpdated": "2026-07-26T21:09:18Z",
+  "totalUsers": 546,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
