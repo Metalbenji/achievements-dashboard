@@ -3688,7 +3688,7 @@
     "suze_o_0": {
       "counters": {
         "follow": 1,
-        "chat": 249,
+        "chat": 250,
         "points_spent": 902,
         "effects": 2,
         "sounds": 2
@@ -3707,7 +3707,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-11T12:55:36Z"
+      "lastUpdated": "2026-07-26T12:58:42Z"
     },
     "hero_zappz": {
       "counters": {
@@ -3938,7 +3938,8 @@
         "night_owl",
         "bday2025_attend",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T12:57:00Z"
     },
@@ -5087,7 +5088,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 259,
+        "chat": 260,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5111,7 +5112,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:51:56Z"
+      "lastUpdated": "2026-07-26T12:57:16Z"
     },
     "auriaya__": {
       "counters": {
@@ -10410,7 +10411,7 @@
       "lastUpdated": "2026-07-26T12:56:55Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:57:01Z",
+  "lastUpdated": "2026-07-26T11:58:43Z",
   "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
