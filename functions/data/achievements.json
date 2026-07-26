@@ -1526,7 +1526,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 4884,
+        "chat": 4886,
         "points_spent": 134101,
         "effects": 23,
         "sub": 19,
@@ -1603,7 +1603,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:56:28Z"
+      "lastUpdated": "2026-07-26T19:57:55Z"
     },
     "celran": {
       "counters": {
@@ -1618,7 +1618,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 213,
+        "chat": 214,
         "points_spent": 4050,
         "effects": 11,
         "follow": 1,
@@ -1640,7 +1640,7 @@
         "effect_collector",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T19:39:35Z"
+      "lastUpdated": "2026-07-26T19:57:35Z"
     },
     "miromaaldis": {
       "counters": {
@@ -7382,7 +7382,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 509,
+        "chat": 510,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7407,7 +7407,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:56:18Z"
+      "lastUpdated": "2026-07-26T19:57:51Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9329,7 +9329,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1058,
+        "chat": 1059,
         "follow": 1,
         "points_spent": 1750,
         "effects": 5
@@ -9350,7 +9350,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T19:56:12Z"
+      "lastUpdated": "2026-07-26T19:57:45Z"
     },
     "noggen_": {
       "counters": {
@@ -10579,14 +10579,14 @@
     },
     "eusitafiu": {
       "counters": {
-        "chat": 6
+        "chat": 7
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T15:12:16Z"
+      "lastUpdated": "2026-07-26T19:58:12Z"
     },
     "grrgoyle": {
       "counters": {
@@ -10625,7 +10625,7 @@
       "lastUpdated": "2026-07-26T16:36:40Z"
     }
   },
-  "lastUpdated": "2026-07-26T18:56:35Z",
+  "lastUpdated": "2026-07-26T18:58:39Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
