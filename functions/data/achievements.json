@@ -5327,7 +5327,7 @@
       "counters": {
         "follow": 1,
         "chat": 57,
-        "sub": 29,
+        "sub": 30,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -5345,9 +5345,11 @@
         "sub_diamond",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sub_elite",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-05-25T15:51:53Z"
+      "lastUpdated": "2026-07-26T12:55:45Z"
     },
     "chillconfirmed5": {
       "counters": {
@@ -10397,16 +10399,17 @@
     },
     "larussowow": {
       "counters": {
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T12:55:33Z"
+      "lastUpdated": "2026-07-26T12:56:09Z"
     }
   },
-  "lastUpdated": "2026-07-26T11:55:48Z",
+  "lastUpdated": "2026-07-26T11:56:10Z",
   "totalUsers": 533,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
