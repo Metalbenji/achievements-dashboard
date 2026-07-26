@@ -1637,8 +1637,8 @@
     "miromaaldis": {
       "counters": {
         "chat": 1452,
-        "points_spent": 68407,
-        "effects": 43,
+        "points_spent": 68757,
+        "effects": 44,
         "follow": 1,
         "sub": 38,
         "sounds": 24,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T16:19:53Z"
+      "lastUpdated": "2026-07-26T16:20:42Z"
     },
     "ramdon101": {
       "counters": {
@@ -3403,7 +3403,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1928,
+        "chat": 1929,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3445,7 +3445,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T16:19:53Z"
+      "lastUpdated": "2026-07-26T16:20:27Z"
     },
     "maximusis_": {
       "counters": {
@@ -7565,7 +7565,7 @@
     "wigz666": {
       "counters": {
         "follow": 1,
-        "chat": 127
+        "chat": 128
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7576,7 +7576,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T16:20:07Z"
+      "lastUpdated": "2026-07-26T16:20:31Z"
     },
     "chaarleyxo": {
       "counters": {
@@ -10504,7 +10504,8 @@
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
         "largest_gift_bomb": 5,
-        "points_spent": 350
+        "points_spent": 700,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10517,9 +10518,10 @@
         "gift_caring",
         "bday2026_support",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2026-07-26T16:16:31Z"
+      "lastUpdated": "2026-07-26T16:20:47Z"
     },
     "curlit_": {
       "counters": {
@@ -10583,7 +10585,7 @@
       "lastUpdated": "2026-07-26T16:20:10Z"
     }
   },
-  "lastUpdated": "2026-07-26T15:20:11Z",
+  "lastUpdated": "2026-07-26T15:20:48Z",
   "totalUsers": 542,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
