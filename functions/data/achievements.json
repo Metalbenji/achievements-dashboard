@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1396,
+        "chat": 1397,
         "points_spent": 63757,
         "effects": 40,
         "follow": 1,
@@ -1700,11 +1700,11 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:18:04Z"
+      "lastUpdated": "2026-07-26T10:23:05Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3960,
+        "chat": 3962,
         "points_spent": 221053,
         "screenshot": 2,
         "follow": 1,
@@ -1782,7 +1782,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:22:22Z"
+      "lastUpdated": "2026-07-26T10:23:51Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2338,7 +2338,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 999,
+        "chat": 1000,
         "points_spent": 53808,
         "interactive": 19,
         "effects": 39,
@@ -2391,9 +2391,10 @@
         "spender_gold",
         "sub_elite",
         "bday2026_support",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_champion"
       ],
-      "lastUpdated": "2026-07-26T10:15:22Z"
+      "lastUpdated": "2026-07-26T10:24:02Z"
     },
     "redunt86": {
       "counters": {
@@ -2563,7 +2564,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5207,
+        "chat": 5208,
         "points_spent": 102950,
         "effects": 57,
         "sub": 49,
@@ -2654,7 +2655,7 @@
         "spender_platinum",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:21:44Z"
+      "lastUpdated": "2026-07-26T10:22:58Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3007,7 +3008,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1020,
+        "chat": 1021,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3045,9 +3046,10 @@
         "sub_legendary",
         "chat_enthusiast",
         "raid_tier1_captain",
-        "chat_champion"
+        "chat_champion",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:22:37Z"
+      "lastUpdated": "2026-07-26T10:23:46Z"
     },
     "ppjackson69": {
       "counters": {
@@ -3749,7 +3751,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2214,
+        "chat": 2216,
         "points_spent": 68901,
         "effects": 7,
         "interactive": 18,
@@ -3785,7 +3787,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:21:36Z"
+      "lastUpdated": "2026-07-26T10:23:23Z"
     },
     "roffelonator": {
       "counters": {
@@ -10185,7 +10187,7 @@
     "bludfarts666": {
       "counters": {
         "raid": 1,
-        "chat": 8,
+        "chat": 9,
         "follow": 1,
         "points_spent": 300
       },
@@ -10196,7 +10198,7 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T10:19:55Z"
+      "lastUpdated": "2026-07-26T10:23:18Z"
     },
     "xdrugula": {
       "counters": {
@@ -10210,17 +10212,17 @@
     },
     "4ntonius": {
       "counters": {
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:21:44Z"
+      "lastUpdated": "2026-07-26T10:22:46Z"
     },
     "rayge81": {
       "counters": {
-        "chat": 13,
+        "chat": 14,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10230,7 +10232,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T10:22:10Z"
+      "lastUpdated": "2026-07-26T10:22:44Z"
     },
     "jollyson333": {
       "counters": {
@@ -10253,7 +10255,7 @@
       "lastUpdated": "2026-07-26T10:14:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:22:40Z",
+  "lastUpdated": "2026-07-26T09:24:04Z",
   "totalUsers": 525,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
