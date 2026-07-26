@@ -9469,16 +9469,17 @@
     },
     "rayahaa": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T10:56:44Z"
+      "lastUpdated": "2026-07-26T10:57:12Z"
     },
     "inovas_": {
       "counters": {
@@ -10327,12 +10328,13 @@
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:57:01Z"
+      "lastUpdated": "2026-07-26T10:57:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:57:11Z",
+  "lastUpdated": "2026-07-26T09:57:18Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
