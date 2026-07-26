@@ -2347,7 +2347,8 @@
         "chat_regular",
         "chat_frequent",
         "raid_tier1_captain",
-        "effect_first"
+        "effect_first",
+        "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T13:46:51Z"
     },
@@ -10500,7 +10501,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:46:52Z",
+  "lastUpdated": "2026-07-26T12:47:16Z",
   "totalUsers": 539,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
