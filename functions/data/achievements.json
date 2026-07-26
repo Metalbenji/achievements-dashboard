@@ -10169,12 +10169,13 @@
     },
     "ahux_": {
       "counters": {
-        "chat": 2
+        "chat": 3
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:58:25Z"
+      "lastUpdated": "2026-07-26T10:58:47Z"
     },
     "dankdoctorgreen": {
       "counters": {
@@ -10324,17 +10325,18 @@
     "sidequestconnor": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-07-26T10:58:04Z"
+      "lastUpdated": "2026-07-26T10:59:12Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:58:33Z",
+  "lastUpdated": "2026-07-26T09:59:15Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
