@@ -8375,7 +8375,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 155,
+        "chat": 156,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8403,7 +8403,7 @@
         "sound_first",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T10:12:24Z"
+      "lastUpdated": "2026-07-26T10:12:48Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -10178,10 +10178,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-07-19T17:58:04Z"
+    },
+    "bludfarts666": {
+      "counters": {
+        "raid": 1
+      },
+      "unlockedAchievements": [
+        "raid_tier1_captain"
+      ],
+      "lastUpdated": "2026-07-26T10:12:42Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:12:47Z",
-  "totalUsers": 519,
+  "lastUpdated": "2026-07-26T09:12:51Z",
+  "totalUsers": 520,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
