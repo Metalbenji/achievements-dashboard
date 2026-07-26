@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1436,
+        "chat": 1437,
         "points_spent": 67707,
         "effects": 42,
         "follow": 1,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T11:30:04Z"
+      "lastUpdated": "2026-07-26T11:43:59Z"
     },
     "ramdon101": {
       "counters": {
@@ -2224,7 +2224,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1905,
+        "chat": 1907,
         "points_spent": 130867,
         "effects": 21,
         "sounds": 10,
@@ -2278,7 +2278,7 @@
         "emperor_loyal",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:42:18Z"
+      "lastUpdated": "2026-07-26T11:46:04Z"
     },
     "anzerou": {
       "counters": {
@@ -4014,7 +4014,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 114
+        "chat": 120
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4025,7 +4025,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:42:56Z"
+      "lastUpdated": "2026-07-26T11:45:02Z"
     },
     "arpi_89": {
       "counters": {
@@ -5082,7 +5082,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 252,
+        "chat": 255,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5106,7 +5106,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:38:34Z"
+      "lastUpdated": "2026-07-26T11:45:59Z"
     },
     "auriaya__": {
       "counters": {
@@ -9373,7 +9373,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 323,
+        "chat": 327,
         "follow": 1,
         "points_spent": 850,
         "effects": 3
@@ -9390,7 +9390,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:42:03Z"
+      "lastUpdated": "2026-07-26T11:46:02Z"
     },
     "discostarz": {
       "counters": {
@@ -10367,10 +10367,20 @@
         "bday2026_attend"
       ],
       "lastUpdated": "2026-07-26T11:34:33Z"
+    },
+    "arguultal": {
+      "counters": {
+        "points_spent": 350,
+        "effects": 1
+      },
+      "unlockedAchievements": [
+        "effect_first"
+      ],
+      "lastUpdated": "2026-07-26T11:46:13Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:43:18Z",
-  "totalUsers": 531,
+  "lastUpdated": "2026-07-26T10:46:14Z",
+  "totalUsers": 532,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
