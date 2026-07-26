@@ -1707,7 +1707,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3998,
+        "chat": 3999,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1789,7 +1789,7 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-07-26T13:23:06Z"
+      "lastUpdated": "2026-07-26T13:23:36Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2446,10 +2446,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 114252,
+        "points_spent": 114602,
         "follow": 1,
         "chat": 1307,
-        "effects": 130,
+        "effects": 131,
         "screenshot": 16,
         "sounds": 7,
         "bits": 300,
@@ -2508,7 +2508,7 @@
         "interactive_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:22:14Z"
+      "lastUpdated": "2026-07-26T13:23:29Z"
     },
     "syn__________": {
       "counters": {
@@ -3931,7 +3931,7 @@
     "kurenaii": {
       "counters": {
         "follow": 1,
-        "chat": 92
+        "chat": 93
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3943,7 +3943,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:16:49Z"
+      "lastUpdated": "2026-07-26T13:23:37Z"
     },
     "ryanstephenson232": {
       "counters": {
@@ -4022,7 +4022,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 152
+        "chat": 153
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4033,7 +4033,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:22:31Z"
+      "lastUpdated": "2026-07-26T13:23:31Z"
     },
     "arpi_89": {
       "counters": {
@@ -5090,7 +5090,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 260,
+        "chat": 261,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5114,7 +5114,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T12:57:16Z"
+      "lastUpdated": "2026-07-26T13:24:04Z"
     },
     "auriaya__": {
       "counters": {
@@ -7245,7 +7245,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1737,
+        "chat": 1739,
         "points_spent": 106154,
         "sounds": 26,
         "effects": 23,
@@ -7300,7 +7300,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T13:23:13Z"
+      "lastUpdated": "2026-07-26T13:24:23Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10021,7 +10021,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 562,
+        "chat": 563,
         "sub": 20,
         "points_spent": 300,
         "effects": 1,
@@ -10049,7 +10049,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:23:00Z"
+      "lastUpdated": "2026-07-26T13:23:59Z"
     },
     "vrishcath": {
       "counters": {
@@ -10154,8 +10154,8 @@
       "counters": {
         "follow": 1,
         "chat": 52,
-        "points_spent": 1600,
-        "effects": 2,
+        "points_spent": 1700,
+        "effects": 3,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -10169,7 +10169,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T13:21:11Z"
+      "lastUpdated": "2026-07-26T13:24:07Z"
     },
     "rahzie1": {
       "counters": {
@@ -10453,15 +10453,17 @@
     },
     "ravensea83": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-26T13:23:14Z"
+      "lastUpdated": "2026-07-26T13:24:28Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:23:18Z",
+  "lastUpdated": "2026-07-26T12:24:30Z",
   "totalUsers": 537,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
