@@ -2224,7 +2224,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1901,
+        "chat": 1903,
         "points_spent": 130867,
         "effects": 21,
         "sounds": 10,
@@ -2278,7 +2278,7 @@
         "emperor_loyal",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:36:01Z"
+      "lastUpdated": "2026-07-26T11:39:20Z"
     },
     "anzerou": {
       "counters": {
@@ -4014,7 +4014,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 106
+        "chat": 110
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4022,9 +4022,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:37:56Z"
+      "lastUpdated": "2026-07-26T11:40:01Z"
     },
     "arpi_89": {
       "counters": {
@@ -5081,7 +5082,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 251,
+        "chat": 252,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5105,7 +5106,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:37:33Z"
+      "lastUpdated": "2026-07-26T11:38:34Z"
     },
     "auriaya__": {
       "counters": {
@@ -9370,7 +9371,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 321,
+        "chat": 322,
         "follow": 1,
         "points_spent": 650,
         "effects": 2
@@ -9386,7 +9387,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-19T10:23:00Z"
+      "lastUpdated": "2026-07-26T11:40:17Z"
     },
     "discostarz": {
       "counters": {
@@ -10365,7 +10366,7 @@
       "lastUpdated": "2026-07-26T11:34:33Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:37:57Z",
+  "lastUpdated": "2026-07-26T10:40:19Z",
   "totalUsers": 531,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
