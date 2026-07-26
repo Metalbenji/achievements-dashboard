@@ -1636,9 +1636,9 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1424,
-        "points_spent": 67357,
-        "effects": 41,
+        "chat": 1429,
+        "points_spent": 67707,
+        "effects": 42,
         "follow": 1,
         "sub": 38,
         "sounds": 24,
@@ -1703,7 +1703,7 @@
         "gift_starter",
         "bits_steady"
       ],
-      "lastUpdated": "2026-07-26T11:21:14Z"
+      "lastUpdated": "2026-07-26T11:24:38Z"
     },
     "ramdon101": {
       "counters": {
@@ -5078,7 +5078,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 237,
+        "chat": 240,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5099,9 +5099,10 @@
         "bday2025_support",
         "chat_conversationalist",
         "chat_regular",
-        "chat_frequent"
+        "chat_frequent",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:22:43Z"
+      "lastUpdated": "2026-07-26T11:24:44Z"
     },
     "auriaya__": {
       "counters": {
@@ -5657,7 +5658,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 210,
+        "chat": 211,
         "points_spent": 2900,
         "effects": 7
       },
@@ -5673,7 +5674,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T11:21:26Z"
+      "lastUpdated": "2026-07-26T11:24:48Z"
     },
     "stellabellas": {
       "counters": {
@@ -10350,7 +10351,7 @@
       "lastUpdated": "2026-07-26T10:59:59Z"
     }
   },
-  "lastUpdated": "2026-07-26T10:22:47Z",
+  "lastUpdated": "2026-07-26T10:24:54Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
