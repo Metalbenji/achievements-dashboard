@@ -1636,7 +1636,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1412,
+        "chat": 1413,
         "points_spent": 67357,
         "effects": 41,
         "follow": 1,
@@ -1702,11 +1702,11 @@
         "bday2026_attend",
         "gift_starter"
       ],
-      "lastUpdated": "2026-07-26T10:40:40Z"
+      "lastUpdated": "2026-07-26T10:58:17Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3981,
+        "chat": 3983,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1784,7 +1784,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:46:34Z"
+      "lastUpdated": "2026-07-26T10:58:24Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -4113,7 +4113,7 @@
     "misukonna": {
       "counters": {
         "follow": 1,
-        "chat": 343,
+        "chat": 345,
         "points_spent": 22003,
         "sounds": 5,
         "effects": 5,
@@ -4138,7 +4138,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:43:56Z"
+      "lastUpdated": "2026-07-26T10:58:12Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -10169,12 +10169,12 @@
     },
     "ahux_": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-07-19T15:09:18Z"
+      "lastUpdated": "2026-07-26T10:58:25Z"
     },
     "dankdoctorgreen": {
       "counters": {
@@ -10324,17 +10324,17 @@
     "sidequestconnor": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:57:04Z"
+      "lastUpdated": "2026-07-26T10:58:04Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:57:18Z",
+  "lastUpdated": "2026-07-26T09:58:33Z",
   "totalUsers": 530,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
