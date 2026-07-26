@@ -1707,7 +1707,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 3999,
+        "chat": 4000,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1787,9 +1787,10 @@
         "bday2026_attend",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "chat_elite"
       ],
-      "lastUpdated": "2026-07-26T13:23:36Z"
+      "lastUpdated": "2026-07-26T13:34:20Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2448,7 +2449,7 @@
       "counters": {
         "points_spent": 114602,
         "follow": 1,
-        "chat": 1307,
+        "chat": 1308,
         "effects": 131,
         "screenshot": 16,
         "sounds": 7,
@@ -2508,7 +2509,7 @@
         "interactive_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:23:29Z"
+      "lastUpdated": "2026-07-26T13:33:58Z"
     },
     "syn__________": {
       "counters": {
@@ -3931,7 +3932,7 @@
     "kurenaii": {
       "counters": {
         "follow": 1,
-        "chat": 93
+        "chat": 95
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3943,7 +3944,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:23:37Z"
+      "lastUpdated": "2026-07-26T13:33:54Z"
     },
     "ryanstephenson232": {
       "counters": {
@@ -7246,7 +7247,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 1742,
+        "chat": 1743,
         "points_spent": 106154,
         "sounds": 26,
         "effects": 23,
@@ -7301,7 +7302,7 @@
         "bday2026_attend",
         "bits_dedicated"
       ],
-      "lastUpdated": "2026-07-26T13:28:47Z"
+      "lastUpdated": "2026-07-26T13:33:37Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8895,7 +8896,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 231,
+        "chat": 233,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8909,7 +8910,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T13:28:01Z"
+      "lastUpdated": "2026-07-26T13:33:55Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10022,7 +10023,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 564,
+        "chat": 565,
         "sub": 20,
         "points_spent": 300,
         "effects": 1,
@@ -10053,7 +10054,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-07-26T13:30:08Z"
+      "lastUpdated": "2026-07-26T13:33:51Z"
     },
     "vrishcath": {
       "counters": {
@@ -10499,7 +10500,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T12:32:16Z",
+  "lastUpdated": "2026-07-26T12:34:21Z",
   "totalUsers": 539,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
