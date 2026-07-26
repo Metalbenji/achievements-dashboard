@@ -3401,7 +3401,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 1766,
+        "chat": 1767,
         "points_spent": 16850,
         "sounds": 8,
         "clips": 1,
@@ -3440,7 +3440,7 @@
         "chat_expert",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T14:14:29Z"
+      "lastUpdated": "2026-07-26T14:15:09Z"
     },
     "maximusis_": {
       "counters": {
@@ -4637,10 +4637,10 @@
     "wowsmael": {
       "counters": {
         "follow": 1,
-        "chat": 88,
+        "chat": 89,
         "points_spent": 500,
         "sounds": 1,
-        "sub": 19,
+        "sub": 20,
         "sub_tier": 1
       },
       "unlockedAchievements": [
@@ -4658,9 +4658,10 @@
         "sub_committed",
         "sub_veteran",
         "sub_champion",
-        "sub_platinum"
+        "sub_platinum",
+        "bday2026_support"
       ],
-      "lastUpdated": "2026-07-05T15:48:28Z"
+      "lastUpdated": "2026-07-26T14:15:18Z"
     },
     "dustingorbit": {
       "counters": {
@@ -10515,7 +10516,7 @@
       "lastUpdated": "2026-07-26T13:32:14Z"
     }
   },
-  "lastUpdated": "2026-07-26T13:15:09Z",
+  "lastUpdated": "2026-07-26T13:15:20Z",
   "totalUsers": 538,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
