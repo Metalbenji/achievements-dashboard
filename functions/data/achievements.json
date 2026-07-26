@@ -1637,7 +1637,7 @@
     "miromaaldis": {
       "counters": {
         "chat": 1410,
-        "points_spent": 66957,
+        "points_spent": 67357,
         "effects": 41,
         "follow": 1,
         "sub": 38,
@@ -1700,11 +1700,11 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:35:19Z"
+      "lastUpdated": "2026-07-26T10:37:12Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 3973,
+        "chat": 3974,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1782,7 +1782,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:35:46Z"
+      "lastUpdated": "2026-07-26T10:36:28Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2024,7 +2024,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 630,
+        "chat": 631,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2055,7 +2055,7 @@
         "clip_first",
         "sub_veteran"
       ],
-      "lastUpdated": "2026-07-19T11:33:21Z"
+      "lastUpdated": "2026-07-26T10:38:00Z"
     },
     "sealdancer": {
       "counters": {
@@ -3472,7 +3472,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 260,
+        "chat": 261,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3507,7 +3507,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:33:47Z"
+      "lastUpdated": "2026-07-26T10:36:41Z"
     },
     "awildbubbles": {
       "counters": {
@@ -3619,7 +3619,7 @@
       "counters": {
         "sub": 23,
         "follow": 1,
-        "chat": 459
+        "chat": 464
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3640,9 +3640,10 @@
         "chat_regular",
         "chat_frequent",
         "sub_platinum",
-        "chat_dedicated"
+        "chat_dedicated",
+        "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:36:17Z"
+      "lastUpdated": "2026-07-26T10:37:52Z"
     },
     "khazan67": {
       "counters": {
@@ -3761,7 +3762,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2230,
+        "chat": 2231,
         "points_spent": 70901,
         "effects": 7,
         "interactive": 18,
@@ -3797,7 +3798,7 @@
         "first_caller",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:35:17Z"
+      "lastUpdated": "2026-07-26T10:36:21Z"
     },
     "roffelonator": {
       "counters": {
@@ -5157,7 +5158,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 420
+        "chat": 421
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5170,7 +5171,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:35:41Z"
+      "lastUpdated": "2026-07-26T10:36:49Z"
     },
     "dinshara": {
       "counters": {
@@ -8854,7 +8855,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 194,
+        "chat": 196,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -8867,7 +8868,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T10:32:38Z"
+      "lastUpdated": "2026-07-26T10:37:52Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10289,7 +10290,7 @@
       "lastUpdated": "2026-07-26T10:26:58Z"
     }
   },
-  "lastUpdated": "2026-07-26T09:36:20Z",
+  "lastUpdated": "2026-07-26T09:38:04Z",
   "totalUsers": 527,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
