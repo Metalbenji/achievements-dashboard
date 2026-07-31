@@ -2619,8 +2619,8 @@
       "counters": {
         "follow": 1,
         "chat": 5421,
-        "points_spent": 127350,
-        "effects": 60,
+        "points_spent": 127700,
+        "effects": 61,
         "sub": 49,
         "sounds": 8,
         "bits": 6000,
@@ -2723,7 +2723,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-31T15:55:14Z"
+      "lastUpdated": "2026-07-31T15:55:44Z"
     },
     "purgemonster91": {
       "counters": {
@@ -10302,7 +10302,7 @@
     },
     "ahux_": {
       "counters": {
-        "chat": 24,
+        "chat": 25,
         "points_spent": 700,
         "screenshot": 1,
         "effects": 1
@@ -10313,9 +10313,10 @@
         "chat_newbie",
         "chat_talker",
         "screenshot_first",
-        "effect_first"
+        "effect_first",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-31T15:55:42Z"
+      "lastUpdated": "2026-07-31T15:55:56Z"
     },
     "dankdoctorgreen": {
       "counters": {
@@ -10715,7 +10716,7 @@
       "lastUpdated": "2026-07-31T13:13:59Z"
     }
   },
-  "lastUpdated": "2026-07-31T14:55:43Z",
+  "lastUpdated": "2026-07-31T14:55:57Z",
   "totalUsers": 547,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
