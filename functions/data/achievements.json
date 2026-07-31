@@ -1911,7 +1911,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 313,
+        "chat": 315,
         "follow": 1,
         "points_spent": 21700,
         "screenshot": 1,
@@ -1944,7 +1944,7 @@
         "bday2026_attend",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-07-31T14:24:09Z"
+      "lastUpdated": "2026-07-31T14:27:14Z"
     },
     "lottec": {
       "counters": {
@@ -2386,7 +2386,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 1021,
+        "chat": 1022,
         "points_spent": 54808,
         "interactive": 19,
         "effects": 41,
@@ -2442,7 +2442,7 @@
         "bday2026_attend",
         "chat_champion"
       ],
-      "lastUpdated": "2026-07-31T14:23:51Z"
+      "lastUpdated": "2026-07-31T14:30:21Z"
     },
     "redunt86": {
       "counters": {
@@ -2728,7 +2728,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 200
+        "chat": 202
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2741,7 +2741,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-31T14:26:18Z"
+      "lastUpdated": "2026-07-31T14:29:43Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -3270,7 +3270,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2042,
+        "chat": 2045,
         "points_spent": 120001,
         "sounds": 13,
         "effects": 131,
@@ -3367,7 +3367,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-07-31T14:24:43Z"
+      "lastUpdated": "2026-07-31T14:30:22Z"
     },
     "andilippi": {
       "counters": {
@@ -8510,7 +8510,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 224,
+        "chat": 226,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8540,7 +8540,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-07-31T14:19:02Z"
+      "lastUpdated": "2026-07-31T14:27:11Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -10302,14 +10302,15 @@
     },
     "ahux_": {
       "counters": {
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-31T14:12:29Z"
+      "lastUpdated": "2026-07-31T14:30:22Z"
     },
     "dankdoctorgreen": {
       "counters": {
@@ -10709,7 +10710,7 @@
       "lastUpdated": "2026-07-31T13:13:59Z"
     }
   },
-  "lastUpdated": "2026-07-31T13:26:19Z",
+  "lastUpdated": "2026-07-31T13:30:23Z",
   "totalUsers": 547,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
