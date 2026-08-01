@@ -2243,7 +2243,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1929,
+        "chat": 1930,
         "points_spent": 131269,
         "effects": 22,
         "sounds": 11,
@@ -2297,7 +2297,7 @@
         "emperor_loyal",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T19:39:10Z"
+      "lastUpdated": "2026-08-01T19:44:36Z"
     },
     "anzerou": {
       "counters": {
@@ -6019,7 +6019,7 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 63,
+        "chat": 64,
         "sub": 25,
         "sub_tier": 1
       },
@@ -6040,7 +6040,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2026-08-01T19:29:13Z"
+      "lastUpdated": "2026-08-01T19:42:03Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -7440,7 +7440,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 532,
+        "chat": 533,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7465,7 +7465,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T19:38:27Z"
+      "lastUpdated": "2026-08-01T19:43:06Z"
     },
     "kikinplays_": {
       "counters": {
@@ -10548,16 +10548,17 @@
     },
     "larussowow": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
         "chat_newbie",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-07-26T12:59:14Z"
+      "lastUpdated": "2026-08-01T19:45:13Z"
     },
     "mimi2876": {
       "counters": {
@@ -10792,7 +10793,7 @@
     "realsealy": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10800,10 +10801,10 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-08-01T19:41:55Z"
+      "lastUpdated": "2026-08-01T19:44:43Z"
     }
   },
-  "lastUpdated": "2026-08-01T18:41:57Z",
+  "lastUpdated": "2026-08-01T18:45:16Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
