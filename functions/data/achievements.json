@@ -7140,7 +7140,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 205,
         "sub": 8,
         "points_spent": 10850,
         "sounds": 1,
@@ -7172,7 +7172,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-01T12:58:43Z"
+      "lastUpdated": "2026-08-01T13:00:35Z"
     },
     "daddy0ps": {
       "counters": {
@@ -9502,7 +9502,7 @@
     "discostarz": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 17
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9511,7 +9511,7 @@
         "chat_talker",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T11:18:42Z"
+      "lastUpdated": "2026-08-01T12:58:50Z"
     },
     "wyrmnoodle": {
       "counters": {
@@ -9683,7 +9683,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2137,
+        "chat": 2139,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 31,
@@ -9731,7 +9731,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-01T12:58:29Z"
+      "lastUpdated": "2026-08-01T12:59:16Z"
     },
     "infincible": {
       "counters": {
@@ -10164,7 +10164,7 @@
         "points_spent": 20400,
         "effects": 23,
         "follow": 1,
-        "chat": 99,
+        "chat": 100,
         "gift_subs": 4,
         "bits": 100000
       },
@@ -10197,9 +10197,10 @@
         "bits_master",
         "bits_titan",
         "bits_emperor",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-07-26T11:15:51Z"
+      "lastUpdated": "2026-08-01T13:03:42Z"
     },
     "lokonak": {
       "counters": {
@@ -10270,7 +10271,7 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 34,
+        "chat": 35,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10281,7 +10282,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-07-31T13:32:56Z"
+      "lastUpdated": "2026-08-01T12:59:57Z"
     },
     "00lemonada8": {
       "counters": {
@@ -10736,7 +10737,7 @@
       "lastUpdated": "2026-07-31T15:57:30Z"
     }
   },
-  "lastUpdated": "2026-08-01T11:58:45Z",
+  "lastUpdated": "2026-08-01T12:03:43Z",
   "totalUsers": 548,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
