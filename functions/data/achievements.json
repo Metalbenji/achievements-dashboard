@@ -2618,7 +2618,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5458,
+        "chat": 5459,
         "points_spent": 128200,
         "effects": 62,
         "sub": 49,
@@ -2723,7 +2723,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-01T14:15:03Z"
+      "lastUpdated": "2026-08-01T14:19:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4347,7 +4347,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 307,
+        "chat": 309,
         "points_spent": 1001,
         "effects": 1
       },
@@ -4367,7 +4367,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:49:42Z"
+      "lastUpdated": "2026-08-01T14:19:34Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -6539,7 +6539,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 321,
+        "chat": 322,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6570,7 +6570,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-01T14:15:55Z"
+      "lastUpdated": "2026-08-01T14:16:33Z"
     },
     "grimlocc": {
       "counters": {
@@ -7143,7 +7143,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 211,
+        "chat": 214,
         "sub": 8,
         "points_spent": 10850,
         "sounds": 1,
@@ -7175,7 +7175,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-01T14:07:37Z"
+      "lastUpdated": "2026-08-01T14:18:52Z"
     },
     "daddy0ps": {
       "counters": {
@@ -8632,7 +8632,7 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 99,
+        "chat": 100,
         "follow": 1,
         "sub": 2,
         "sub_tier": 1,
@@ -8650,9 +8650,10 @@
         "effect_first",
         "chat_conversationalist",
         "spender_bronze",
-        "sub_supporter"
+        "sub_supporter",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-08-01T14:14:06Z"
+      "lastUpdated": "2026-08-01T14:19:53Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -10740,7 +10741,7 @@
       "lastUpdated": "2026-07-31T15:57:30Z"
     }
   },
-  "lastUpdated": "2026-08-01T13:15:56Z",
+  "lastUpdated": "2026-08-01T13:19:54Z",
   "totalUsers": 548,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
