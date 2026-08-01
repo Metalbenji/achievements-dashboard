@@ -1719,7 +1719,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4038,
+        "chat": 4041,
         "points_spent": 222303,
         "screenshot": 3,
         "follow": 1,
@@ -1802,7 +1802,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-01T20:18:53Z"
+      "lastUpdated": "2026-08-01T20:23:20Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2480,10 +2480,10 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 122202,
+        "points_spent": 123002,
         "follow": 1,
         "chat": 1360,
-        "effects": 142,
+        "effects": 143,
         "screenshot": 17,
         "sounds": 7,
         "bits": 300,
@@ -2545,7 +2545,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-01T19:20:11Z"
+      "lastUpdated": "2026-08-01T20:22:51Z"
     },
     "syn__________": {
       "counters": {
@@ -3609,7 +3609,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4381,
+        "chat": 4392,
         "sub": 52,
         "points_spent": 350,
         "screenshot": 1,
@@ -3664,7 +3664,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-08-01T13:37:33Z"
+      "lastUpdated": "2026-08-01T20:24:48Z"
     },
     "majesty81": {
       "counters": {
@@ -6894,7 +6894,7 @@
     "betrayaleu": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 104,
         "points_spent": 2
       },
       "unlockedAchievements": [
@@ -6907,7 +6907,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-08-01T20:19:05Z"
+      "lastUpdated": "2026-08-01T20:24:08Z"
     },
     "supra124": {
       "counters": {
@@ -7169,12 +7169,12 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 251,
+        "chat": 253,
         "sub": 8,
-        "points_spent": 11250,
+        "points_spent": 11650,
         "sounds": 1,
         "sub_tier": 1,
-        "interactive": 2,
+        "interactive": 3,
         "raid": 1
       },
       "unlockedAchievements": [
@@ -7201,7 +7201,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-01T19:54:32Z"
+      "lastUpdated": "2026-08-01T20:23:01Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7442,7 +7442,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 539,
+        "chat": 540,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7467,7 +7467,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T20:07:11Z"
+      "lastUpdated": "2026-08-01T20:23:16Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9396,7 +9396,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1241,
+        "chat": 1245,
         "follow": 1,
         "points_spent": 2550,
         "effects": 5,
@@ -9419,7 +9419,7 @@
         "bday2026_attend",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-01T20:18:41Z"
+      "lastUpdated": "2026-08-01T20:20:49Z"
     },
     "noggen_": {
       "counters": {
@@ -10795,18 +10795,19 @@
     "realsealy": {
       "counters": {
         "follow": 1,
-        "chat": 23
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-08-01T20:18:59Z"
+      "lastUpdated": "2026-08-01T20:27:03Z"
     }
   },
-  "lastUpdated": "2026-08-01T19:19:08Z",
+  "lastUpdated": "2026-08-01T19:27:04Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
