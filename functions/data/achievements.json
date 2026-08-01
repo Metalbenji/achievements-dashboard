@@ -6539,11 +6539,12 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 320,
+        "chat": 321,
         "sub": 23,
         "sub_tier": 1,
-        "points_spent": 1450,
-        "effects": 2
+        "points_spent": 1850,
+        "effects": 2,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6566,9 +6567,10 @@
         "effect_first",
         "chat_dedicated",
         "bday2026_attend",
-        "spender_bronze"
+        "spender_bronze",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-08-01T14:15:08Z"
+      "lastUpdated": "2026-08-01T14:15:55Z"
     },
     "grimlocc": {
       "counters": {
@@ -10738,7 +10740,7 @@
       "lastUpdated": "2026-07-31T15:57:30Z"
     }
   },
-  "lastUpdated": "2026-08-01T13:15:10Z",
+  "lastUpdated": "2026-08-01T13:15:56Z",
   "totalUsers": 548,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
