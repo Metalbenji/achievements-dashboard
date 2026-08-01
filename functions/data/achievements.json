@@ -3271,7 +3271,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2138,
+        "chat": 2139,
         "points_spent": 123301,
         "sounds": 13,
         "effects": 132,
@@ -3368,7 +3368,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-01T19:37:49Z"
+      "lastUpdated": "2026-08-01T19:41:41Z"
     },
     "andilippi": {
       "counters": {
@@ -10792,17 +10792,18 @@
     "realsealy": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-08-01T19:39:15Z"
+      "lastUpdated": "2026-08-01T19:41:55Z"
     }
   },
-  "lastUpdated": "2026-08-01T18:39:17Z",
+  "lastUpdated": "2026-08-01T18:41:57Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
