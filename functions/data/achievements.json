@@ -10345,10 +10345,10 @@
     },
     "ahux_": {
       "counters": {
-        "chat": 33,
+        "chat": 35,
         "points_spent": 1200,
         "screenshot": 1,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -10360,7 +10360,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-08-01T21:34:16Z"
+      "lastUpdated": "2026-08-01T21:34:48Z"
     },
     "dankdoctorgreen": {
       "counters": {
@@ -10580,7 +10580,7 @@
     "purplepagan": {
       "counters": {
         "follow": 1,
-        "points_spent": 650,
+        "points_spent": 1000,
         "effects": 1,
         "chat": 1
       },
@@ -10588,9 +10588,10 @@
         "follow_supporter",
         "effect_first",
         "weekend_warrior",
-        "bday2026_attend"
+        "bday2026_attend",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-07-26T17:17:23Z"
+      "lastUpdated": "2026-08-01T21:35:03Z"
     },
     "moodiemooo": {
       "counters": {
@@ -10810,7 +10811,7 @@
       "lastUpdated": "2026-08-01T21:26:28Z"
     }
   },
-  "lastUpdated": "2026-08-01T20:34:17Z",
+  "lastUpdated": "2026-08-01T20:35:05Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
