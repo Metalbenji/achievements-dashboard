@@ -2243,7 +2243,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1924,
+        "chat": 1927,
         "points_spent": 131269,
         "effects": 22,
         "sounds": 11,
@@ -2297,7 +2297,7 @@
         "emperor_loyal",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T19:25:16Z"
+      "lastUpdated": "2026-08-01T19:28:20Z"
     },
     "anzerou": {
       "counters": {
@@ -2563,7 +2563,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 524,
+        "chat": 527,
         "sub": 34,
         "points_spent": 9050,
         "screenshot": 2,
@@ -2614,7 +2614,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-31T13:45:54Z"
+      "lastUpdated": "2026-08-01T19:36:05Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3271,7 +3271,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2134,
+        "chat": 2137,
         "points_spent": 123301,
         "sounds": 13,
         "effects": 132,
@@ -3368,7 +3368,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-01T17:33:03Z"
+      "lastUpdated": "2026-08-01T19:37:07Z"
     },
     "andilippi": {
       "counters": {
@@ -6019,16 +6019,28 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 57
+        "chat": 63,
+        "sub": 25,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond"
       ],
-      "lastUpdated": "2026-05-30T13:41:25Z"
+      "lastUpdated": "2026-08-01T19:29:13Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -6311,14 +6323,14 @@
     },
     "monaziony": {
       "counters": {
-        "chat": 10
+        "chat": 13
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-05-25T16:25:47Z"
+      "lastUpdated": "2026-08-01T19:37:36Z"
     },
     "ghenkhis": {
       "counters": {
@@ -7155,7 +7167,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 246,
+        "chat": 248,
         "sub": 8,
         "points_spent": 11250,
         "sounds": 1,
@@ -7187,7 +7199,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-01T19:16:46Z"
+      "lastUpdated": "2026-08-01T19:30:11Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7428,7 +7440,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 529,
+        "chat": 531,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7453,7 +7465,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T19:02:50Z"
+      "lastUpdated": "2026-08-01T19:37:28Z"
     },
     "kikinplays_": {
       "counters": {
@@ -10776,10 +10788,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-08-01T15:52:55Z"
+    },
+    "realsealy": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-08-01T19:37:45Z"
     }
   },
-  "lastUpdated": "2026-08-01T18:26:02Z",
-  "totalUsers": 550,
+  "lastUpdated": "2026-08-01T18:37:47Z",
+  "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
