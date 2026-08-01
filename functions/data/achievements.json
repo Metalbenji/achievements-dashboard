@@ -2482,7 +2482,7 @@
       "counters": {
         "points_spent": 123002,
         "follow": 1,
-        "chat": 1373,
+        "chat": 1375,
         "effects": 143,
         "screenshot": 17,
         "sounds": 7,
@@ -2545,7 +2545,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-01T21:00:42Z"
+      "lastUpdated": "2026-08-01T21:32:21Z"
     },
     "syn__________": {
       "counters": {
@@ -3074,7 +3074,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 155
+        "chat": 156
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3086,12 +3086,12 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T22:11:15Z"
+      "lastUpdated": "2026-08-01T21:29:37Z"
     },
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1098,
+        "chat": 1100,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3132,7 +3132,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T15:02:18Z"
+      "lastUpdated": "2026-08-01T21:33:20Z"
     },
     "ppjackson69": {
       "counters": {
@@ -9396,7 +9396,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1249,
+        "chat": 1260,
         "follow": 1,
         "points_spent": 2900,
         "effects": 6,
@@ -9419,7 +9419,7 @@
         "bday2026_attend",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-01T20:52:32Z"
+      "lastUpdated": "2026-08-01T21:32:18Z"
     },
     "noggen_": {
       "counters": {
@@ -9849,7 +9849,7 @@
     "tyranus102": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9857,7 +9857,7 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-08-01T21:22:24Z"
+      "lastUpdated": "2026-08-01T21:24:08Z"
     },
     "cradzygd": {
       "counters": {
@@ -10346,7 +10346,7 @@
     "ahux_": {
       "counters": {
         "chat": 33,
-        "points_spent": 700,
+        "points_spent": 1200,
         "screenshot": 1,
         "effects": 1
       },
@@ -10357,9 +10357,10 @@
         "chat_talker",
         "screenshot_first",
         "effect_first",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-07-31T17:31:35Z"
+      "lastUpdated": "2026-08-01T21:34:16Z"
     },
     "dankdoctorgreen": {
       "counters": {
@@ -10566,14 +10567,15 @@
     "mimi2876": {
       "counters": {
         "chat": 1,
-        "follow": 1
+        "follow": 1,
+        "points_spent": 450
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T13:04:59Z"
+      "lastUpdated": "2026-08-01T21:33:40Z"
     },
     "purplepagan": {
       "counters": {
@@ -10796,7 +10798,7 @@
     "realsealy": {
       "counters": {
         "follow": 1,
-        "chat": 32
+        "chat": 38
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10805,10 +10807,10 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-08-01T20:55:22Z"
+      "lastUpdated": "2026-08-01T21:26:28Z"
     }
   },
-  "lastUpdated": "2026-08-01T20:22:25Z",
+  "lastUpdated": "2026-08-01T20:34:17Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
