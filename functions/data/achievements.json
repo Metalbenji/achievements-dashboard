@@ -1647,7 +1647,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1530,
+        "chat": 1534,
         "points_spent": 71959,
         "effects": 46,
         "follow": 1,
@@ -1715,7 +1715,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-08-01T14:12:52Z"
+      "lastUpdated": "2026-08-01T14:24:07Z"
     },
     "ramdon101": {
       "counters": {
@@ -2052,7 +2052,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 648,
+        "chat": 651,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2084,7 +2084,7 @@
         "sub_veteran",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T13:32:04Z"
+      "lastUpdated": "2026-08-01T14:24:13Z"
     },
     "sealdancer": {
       "counters": {
@@ -2334,7 +2334,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 280,
+        "chat": 281,
         "points_spent": 63000,
         "sounds": 2,
         "interactive": 1,
@@ -2381,7 +2381,7 @@
         "bday2026_support",
         "night_owl"
       ],
-      "lastUpdated": "2026-07-26T23:11:49Z"
+      "lastUpdated": "2026-08-01T14:26:16Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2618,7 +2618,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5459,
+        "chat": 5465,
         "points_spent": 128200,
         "effects": 62,
         "sub": 49,
@@ -2723,7 +2723,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-01T14:19:38Z"
+      "lastUpdated": "2026-08-01T14:26:49Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4347,7 +4347,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 309,
+        "chat": 319,
         "points_spent": 1001,
         "effects": 1
       },
@@ -4367,7 +4367,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-01T14:19:34Z"
+      "lastUpdated": "2026-08-01T14:28:31Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -8517,7 +8517,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 245,
+        "chat": 249,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8547,7 +8547,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-01T14:14:08Z"
+      "lastUpdated": "2026-08-01T14:29:08Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -8632,7 +8632,7 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 100,
+        "chat": 103,
         "follow": 1,
         "sub": 2,
         "sub_tier": 1,
@@ -8653,7 +8653,7 @@
         "sub_supporter",
         "chat_regular"
       ],
-      "lastUpdated": "2026-08-01T14:19:53Z"
+      "lastUpdated": "2026-08-01T14:27:03Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -9372,8 +9372,9 @@
       "counters": {
         "chat": 1187,
         "follow": 1,
-        "points_spent": 2150,
-        "effects": 5
+        "points_spent": 2550,
+        "effects": 5,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9389,9 +9390,10 @@
         "night_owl",
         "chat_enthusiast",
         "chat_champion",
-        "bday2026_attend"
+        "bday2026_attend",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-08-01T13:04:42Z"
+      "lastUpdated": "2026-08-01T14:32:23Z"
     },
     "noggen_": {
       "counters": {
@@ -9687,7 +9689,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2139,
+        "chat": 2144,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 31,
@@ -9735,7 +9737,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-01T12:59:16Z"
+      "lastUpdated": "2026-08-01T14:31:09Z"
     },
     "infincible": {
       "counters": {
@@ -10117,7 +10119,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 572,
+        "chat": 573,
         "sub": 21,
         "points_spent": 300,
         "effects": 1,
@@ -10148,7 +10150,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-01T13:41:02Z"
+      "lastUpdated": "2026-08-01T14:25:51Z"
     },
     "vrishcath": {
       "counters": {
@@ -10647,7 +10649,7 @@
     "grrgoyle": {
       "counters": {
         "follow": 1,
-        "chat": 62,
+        "chat": 65,
         "points_spent": 2400,
         "sounds": 1
       },
@@ -10661,7 +10663,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-08-01T14:07:52Z"
+      "lastUpdated": "2026-08-01T14:29:35Z"
     },
     "lo0k4t": {
       "counters": {
@@ -10739,10 +10741,24 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-07-31T15:57:30Z"
+    },
+    "bigb___tv": {
+      "counters": {
+        "follow": 1,
+        "chat": 15,
+        "points_spent": 900
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie",
+        "chat_talker"
+      ],
+      "lastUpdated": "2026-08-01T14:20:39Z"
     }
   },
-  "lastUpdated": "2026-08-01T13:19:54Z",
-  "totalUsers": 548,
+  "lastUpdated": "2026-08-01T13:32:24Z",
+  "totalUsers": 549,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
