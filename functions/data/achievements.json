@@ -2244,7 +2244,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1953,
+        "chat": 1956,
         "points_spent": 221269,
         "effects": 22,
         "sounds": 15,
@@ -2300,7 +2300,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-08-07T20:33:19Z"
+      "lastUpdated": "2026-08-07T20:34:15Z"
     },
     "anzerou": {
       "counters": {
@@ -3561,7 +3561,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 291,
+        "chat": 292,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3607,7 +3607,7 @@
         "gift_thoughtful",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-07T20:24:45Z"
+      "lastUpdated": "2026-08-07T20:33:30Z"
     },
     "awildbubbles": {
       "counters": {
@@ -4757,7 +4757,7 @@
       "counters": {
         "sub": 51,
         "follow": 1,
-        "chat": 807,
+        "chat": 813,
         "points_spent": 1252,
         "sounds": 1,
         "interactive": 1,
@@ -4797,7 +4797,7 @@
         "sub_legendary",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-08-07T20:24:54Z"
+      "lastUpdated": "2026-08-07T20:35:48Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -10671,16 +10671,18 @@
     "eusitafiu": {
       "counters": {
         "chat": 12,
-        "raid": 1
+        "raid": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend",
         "chat_newbie",
         "raid_tier1_captain",
-        "chat_talker"
+        "chat_talker",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-07-26T20:01:30Z"
+      "lastUpdated": "2026-08-07T20:36:06Z"
     },
     "grrgoyle": {
       "counters": {
@@ -10816,7 +10818,7 @@
       "lastUpdated": "2026-08-01T21:39:58Z"
     }
   },
-  "lastUpdated": "2026-08-07T19:33:23Z",
+  "lastUpdated": "2026-08-07T19:36:09Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
