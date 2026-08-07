@@ -2245,9 +2245,9 @@
       "counters": {
         "follow": 1,
         "chat": 1953,
-        "points_spent": 201269,
+        "points_spent": 221269,
         "effects": 22,
-        "sounds": 13,
+        "sounds": 15,
         "sub": 41,
         "screenshot": 7,
         "clips": 1,
@@ -2297,9 +2297,10 @@
         "biggest_fan",
         "emperor_loyal",
         "bday2026_attend",
-        "spender_titanium"
+        "spender_titanium",
+        "sound_dj"
       ],
-      "lastUpdated": "2026-08-07T20:33:13Z"
+      "lastUpdated": "2026-08-07T20:33:19Z"
     },
     "anzerou": {
       "counters": {
@@ -10815,7 +10816,7 @@
       "lastUpdated": "2026-08-01T21:39:58Z"
     }
   },
-  "lastUpdated": "2026-08-07T19:33:18Z",
+  "lastUpdated": "2026-08-07T19:33:23Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
