@@ -2244,7 +2244,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 1956,
+        "chat": 1959,
         "points_spent": 221269,
         "effects": 22,
         "sounds": 15,
@@ -2300,7 +2300,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-08-07T20:34:15Z"
+      "lastUpdated": "2026-08-07T20:41:40Z"
     },
     "anzerou": {
       "counters": {
@@ -4015,7 +4015,7 @@
     "kurenaii": {
       "counters": {
         "follow": 1,
-        "chat": 97
+        "chat": 100
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4025,9 +4025,10 @@
         "bday2025_attend",
         "chat_talker",
         "chat_conversationalist",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-07-31T16:42:40Z"
+      "lastUpdated": "2026-08-07T20:48:02Z"
     },
     "ryanstephenson232": {
       "counters": {
@@ -4757,7 +4758,7 @@
       "counters": {
         "sub": 51,
         "follow": 1,
-        "chat": 813,
+        "chat": 820,
         "points_spent": 1252,
         "sounds": 1,
         "interactive": 1,
@@ -4797,7 +4798,7 @@
         "sub_legendary",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-08-07T20:35:48Z"
+      "lastUpdated": "2026-08-07T20:47:07Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -9401,7 +9402,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1298,
+        "chat": 1301,
         "follow": 1,
         "points_spent": 2900,
         "effects": 6,
@@ -9424,7 +9425,7 @@
         "bday2026_attend",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-01T21:49:24Z"
+      "lastUpdated": "2026-08-07T20:47:15Z"
     },
     "noggen_": {
       "counters": {
@@ -10670,7 +10671,7 @@
     },
     "eusitafiu": {
       "counters": {
-        "chat": 12,
+        "chat": 14,
         "raid": 1,
         "follow": 1
       },
@@ -10682,7 +10683,7 @@
         "chat_talker",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-08-07T20:36:06Z"
+      "lastUpdated": "2026-08-07T20:36:43Z"
     },
     "grrgoyle": {
       "counters": {
@@ -10818,7 +10819,7 @@
       "lastUpdated": "2026-08-01T21:39:58Z"
     }
   },
-  "lastUpdated": "2026-08-07T19:36:09Z",
+  "lastUpdated": "2026-08-07T19:48:03Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
