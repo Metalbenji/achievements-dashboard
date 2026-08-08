@@ -1719,7 +1719,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4091,
+        "chat": 4093,
         "points_spent": 226503,
         "screenshot": 3,
         "follow": 1,
@@ -1802,7 +1802,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-07T22:14:50Z"
+      "lastUpdated": "2026-08-08T09:05:08Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3419,7 +3419,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 185,
+        "chat": 187,
         "points_spent": 8000,
         "sub": 16
       },
@@ -3442,7 +3442,7 @@
         "chat_regular",
         "spender_iron"
       ],
-      "lastUpdated": "2026-08-08T09:02:36Z"
+      "lastUpdated": "2026-08-08T09:04:38Z"
     },
     "chadrestricted": {
       "counters": {
@@ -3561,7 +3561,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 327,
+        "chat": 334,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3608,7 +3608,7 @@
         "bday2026_support",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-08T09:02:56Z"
+      "lastUpdated": "2026-08-08T09:05:48Z"
     },
     "awildbubbles": {
       "counters": {
@@ -4759,13 +4759,14 @@
       "counters": {
         "sub": 51,
         "follow": 1,
-        "chat": 871,
+        "chat": 874,
         "points_spent": 1253,
         "sounds": 1,
         "interactive": 1,
         "clips": 3,
         "screenshot": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "gift_subs": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -4797,9 +4798,10 @@
         "spender_bronze",
         "screenshot_first",
         "sub_legendary",
-        "chat_enthusiast"
+        "chat_enthusiast",
+        "gift_starter"
       ],
-      "lastUpdated": "2026-08-08T09:02:19Z"
+      "lastUpdated": "2026-08-08T09:04:16Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -6560,7 +6562,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 327,
+        "chat": 328,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6591,7 +6593,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-08T09:02:51Z"
+      "lastUpdated": "2026-08-08T09:04:56Z"
     },
     "grimlocc": {
       "counters": {
@@ -10820,7 +10822,7 @@
       "lastUpdated": "2026-08-01T21:39:58Z"
     }
   },
-  "lastUpdated": "2026-08-08T08:03:04Z",
+  "lastUpdated": "2026-08-08T08:05:53Z",
   "totalUsers": 551,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
