@@ -3807,11 +3807,11 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 265,
+        "chat": 266,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1,
-        "raid": 4
+        "raid": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3825,9 +3825,10 @@
         "spender_bronze",
         "sound_first",
         "chat_frequent",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-07-19T15:16:52Z"
+      "lastUpdated": "2026-08-08T15:05:06Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -9544,13 +9545,13 @@
     },
     "wyrmnoodle": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-06-27T14:44:40Z"
+      "lastUpdated": "2026-08-08T15:04:59Z"
     },
     "tulie_kraa": {
       "counters": {
@@ -9779,7 +9780,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 64,
+        "chat": 65,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -9801,7 +9802,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2026-08-08T14:55:20Z"
+      "lastUpdated": "2026-08-08T15:04:59Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10843,10 +10844,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-08-08T13:27:39Z"
+    },
+    "blahzay97": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-08-08T15:05:06Z"
     }
   },
-  "lastUpdated": "2026-08-08T14:04:57Z",
-  "totalUsers": 553,
+  "lastUpdated": "2026-08-08T14:05:09Z",
+  "totalUsers": 554,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
