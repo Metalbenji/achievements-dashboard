@@ -1719,7 +1719,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4159,
+        "chat": 4160,
         "points_spent": 227303,
         "screenshot": 3,
         "follow": 1,
@@ -1802,7 +1802,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-08T19:01:16Z"
+      "lastUpdated": "2026-08-09T13:47:49Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2245,8 +2245,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2015,
-        "points_spent": 221269,
+        "chat": 2016,
+        "points_spent": 221619,
         "effects": 22,
         "sounds": 15,
         "sub": 41,
@@ -2301,7 +2301,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-08-09T12:15:52Z"
+      "lastUpdated": "2026-08-09T12:16:25Z"
     },
     "anzerou": {
       "counters": {
@@ -2338,7 +2338,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 300,
+        "chat": 301,
         "points_spent": 63000,
         "sounds": 2,
         "interactive": 1,
@@ -2386,7 +2386,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-01T16:21:34Z"
+      "lastUpdated": "2026-08-09T13:48:38Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2623,11 +2623,11 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5706,
-        "points_spent": 130350,
+        "chat": 5711,
+        "points_spent": 130750,
         "effects": 66,
         "sub": 49,
-        "sounds": 8,
+        "sounds": 9,
         "bits": 6000,
         "screenshot": 5,
         "clips": 31,
@@ -2728,7 +2728,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-08T19:15:45Z"
+      "lastUpdated": "2026-08-09T13:55:25Z"
     },
     "purgemonster91": {
       "counters": {
@@ -10196,12 +10196,13 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 20400,
+        "points_spent": 20800,
         "effects": 23,
         "follow": 1,
-        "chat": 107,
+        "chat": 108,
         "gift_subs": 4,
-        "bits": 100000
+        "bits": 100000,
+        "interactive": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -10233,9 +10234,10 @@
         "bits_titan",
         "bits_emperor",
         "bday2026_attend",
-        "chat_regular"
+        "chat_regular",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-08-08T15:47:41Z"
+      "lastUpdated": "2026-08-09T13:59:52Z"
     },
     "lokonak": {
       "counters": {
@@ -10859,7 +10861,7 @@
       "lastUpdated": "2026-08-08T15:05:06Z"
     }
   },
-  "lastUpdated": "2026-08-09T11:15:53Z",
+  "lastUpdated": "2026-08-09T12:59:53Z",
   "totalUsers": 554,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
