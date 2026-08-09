@@ -1806,7 +1806,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3165,
+        "chat": 3170,
         "points_spent": 66508,
         "interactive": 54,
         "follow": 1,
@@ -1861,7 +1861,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-08-08T18:15:26Z"
+      "lastUpdated": "2026-08-09T14:25:20Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5711,
+        "chat": 5721,
         "points_spent": 130750,
         "effects": 66,
         "sub": 49,
@@ -2728,12 +2728,12 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-09T13:55:25Z"
+      "lastUpdated": "2026-08-09T15:10:59Z"
     },
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 231
+        "chat": 241
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2746,7 +2746,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-07T20:13:38Z"
+      "lastUpdated": "2026-08-09T14:49:35Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -3870,7 +3870,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2313,
+        "chat": 2321,
         "points_spent": 70901,
         "effects": 7,
         "interactive": 18,
@@ -3908,7 +3908,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-08-08T18:01:33Z"
+      "lastUpdated": "2026-08-09T14:29:21Z"
     },
     "roffelonator": {
       "counters": {
@@ -4590,9 +4590,10 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 196,
-        "sub": 19,
-        "raid": 3
+        "chat": 200,
+        "sub": 21,
+        "raid": 3,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4613,9 +4614,10 @@
         "sub_champion",
         "sub_platinum",
         "raid_tier1_captain",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-07-26T16:55:56Z"
+      "lastUpdated": "2026-08-09T15:11:21Z"
     },
     "xykojen": {
       "counters": {
@@ -5195,7 +5197,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 288,
+        "chat": 289,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5219,7 +5221,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-09T11:59:45Z"
+      "lastUpdated": "2026-08-09T14:38:08Z"
     },
     "auriaya__": {
       "counters": {
@@ -10199,7 +10201,7 @@
         "points_spent": 21150,
         "effects": 24,
         "follow": 1,
-        "chat": 108,
+        "chat": 110,
         "gift_subs": 4,
         "bits": 100000,
         "interactive": 1
@@ -10237,7 +10239,7 @@
         "chat_regular",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-09T14:01:22Z"
+      "lastUpdated": "2026-08-09T14:56:08Z"
     },
     "lokonak": {
       "counters": {
@@ -10865,7 +10867,7 @@
         "points_spent": 350,
         "effects": 1,
         "follow": 1,
-        "chat": 5
+        "chat": 9
       },
       "unlockedAchievements": [
         "effect_first",
@@ -10873,10 +10875,10 @@
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-08-09T14:03:13Z"
+      "lastUpdated": "2026-08-09T14:10:39Z"
     }
   },
-  "lastUpdated": "2026-08-09T13:03:14Z",
+  "lastUpdated": "2026-08-09T14:11:22Z",
   "totalUsers": 555,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
