@@ -10859,10 +10859,20 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-08-08T15:05:06Z"
+    },
+    "atk_69": {
+      "counters": {
+        "points_spent": 350,
+        "effects": 1
+      },
+      "unlockedAchievements": [
+        "effect_first"
+      ],
+      "lastUpdated": "2026-08-09T13:59:56Z"
     }
   },
-  "lastUpdated": "2026-08-09T12:59:53Z",
-  "totalUsers": 554,
+  "lastUpdated": "2026-08-09T12:59:57Z",
+  "totalUsers": 555,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
