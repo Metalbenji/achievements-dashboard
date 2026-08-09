@@ -10200,8 +10200,8 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 23950,
-        "effects": 25,
+        "points_spent": 25300,
+        "effects": 27,
         "follow": 1,
         "chat": 113,
         "gift_subs": 4,
@@ -10242,9 +10242,10 @@
         "chat_regular",
         "interactive_first",
         "sound_first",
-        "effect_master"
+        "effect_master",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-08-09T22:32:57Z"
+      "lastUpdated": "2026-08-09T22:33:34Z"
     },
     "lokonak": {
       "counters": {
@@ -10903,7 +10904,7 @@
       "lastUpdated": "2026-08-09T16:23:33Z"
     }
   },
-  "lastUpdated": "2026-08-09T21:32:58Z",
+  "lastUpdated": "2026-08-09T21:33:35Z",
   "totalUsers": 557,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
