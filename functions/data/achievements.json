@@ -1526,7 +1526,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5158,
+        "chat": 5161,
         "points_spent": 193801,
         "effects": 28,
         "sub": 19,
@@ -1604,7 +1604,7 @@
         "bday2026_attend",
         "effect_master"
       ],
-      "lastUpdated": "2026-08-09T16:07:16Z"
+      "lastUpdated": "2026-08-09T16:11:25Z"
     },
     "celran": {
       "counters": {
@@ -1806,7 +1806,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3172,
+        "chat": 3173,
         "points_spent": 67408,
         "interactive": 56,
         "follow": 1,
@@ -1861,7 +1861,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-08-09T16:06:00Z"
+      "lastUpdated": "2026-08-09T16:11:30Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2054,7 +2054,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 714,
+        "chat": 717,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2086,7 +2086,7 @@
         "sub_veteran",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-08T17:35:15Z"
+      "lastUpdated": "2026-08-09T16:18:11Z"
     },
     "sealdancer": {
       "counters": {
@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5727,
+        "chat": 5728,
         "points_spent": 130750,
         "effects": 66,
         "sub": 49,
@@ -2728,7 +2728,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-09T16:06:18Z"
+      "lastUpdated": "2026-08-09T16:07:53Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3275,10 +3275,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2231,
-        "points_spent": 129901,
+        "chat": 2237,
+        "points_spent": 130401,
         "sounds": 14,
-        "effects": 139,
+        "effects": 140,
         "sub": 52,
         "bits": 13574,
         "interactive": 9,
@@ -3372,7 +3372,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-09T12:13:55Z"
+      "lastUpdated": "2026-08-09T16:20:22Z"
     },
     "andilippi": {
       "counters": {
@@ -4590,7 +4590,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 204,
+        "chat": 207,
         "sub": 21,
         "raid": 3,
         "sub_tier": 1
@@ -4617,7 +4617,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-09T15:27:15Z"
+      "lastUpdated": "2026-08-09T16:18:45Z"
     },
     "xykojen": {
       "counters": {
@@ -5781,7 +5781,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 242,
+        "chat": 243,
         "points_spent": 7402,
         "effects": 8,
         "sounds": 1
@@ -5803,7 +5803,7 @@
         "sound_first",
         "birthday_person"
       ],
-      "lastUpdated": "2026-08-09T15:44:42Z"
+      "lastUpdated": "2026-08-09T16:13:26Z"
     },
     "stellabellas": {
       "counters": {
@@ -10200,13 +10200,13 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 21150,
+        "points_spent": 21650,
         "effects": 24,
         "follow": 1,
         "chat": 110,
         "gift_subs": 4,
         "bits": 100000,
-        "interactive": 1
+        "interactive": 2
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -10241,7 +10241,7 @@
         "chat_regular",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-09T14:56:08Z"
+      "lastUpdated": "2026-08-09T16:17:09Z"
     },
     "lokonak": {
       "counters": {
@@ -10887,10 +10887,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-08-09T16:07:28Z"
+    },
+    "uncbigman": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-08-09T16:21:56Z"
     }
   },
-  "lastUpdated": "2026-08-09T15:07:30Z",
-  "totalUsers": 556,
+  "lastUpdated": "2026-08-09T15:22:12Z",
+  "totalUsers": 557,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
