@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5721,
+        "chat": 5723,
         "points_spent": 130750,
         "effects": 66,
         "sub": 49,
@@ -2728,7 +2728,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-09T15:10:59Z"
+      "lastUpdated": "2026-08-09T15:43:11Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3095,7 +3095,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1145,
+        "chat": 1146,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3136,7 +3136,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-08T16:04:18Z"
+      "lastUpdated": "2026-08-09T15:37:01Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4590,7 +4590,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 204,
         "sub": 21,
         "raid": 3,
         "sub_tier": 1
@@ -4617,7 +4617,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-09T15:11:21Z"
+      "lastUpdated": "2026-08-09T15:27:15Z"
     },
     "xykojen": {
       "counters": {
@@ -5782,7 +5782,7 @@
       "counters": {
         "follow": 1,
         "chat": 242,
-        "points_spent": 7400,
+        "points_spent": 7401,
         "effects": 8,
         "sounds": 1
       },
@@ -5800,9 +5800,10 @@
         "bday2026_attend",
         "spender_iron",
         "emperor_loyal",
-        "sound_first"
+        "sound_first",
+        "birthday_person"
       ],
-      "lastUpdated": "2026-08-08T11:37:06Z"
+      "lastUpdated": "2026-08-09T15:44:25Z"
     },
     "stellabellas": {
       "counters": {
@@ -7185,7 +7186,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 279,
+        "chat": 282,
         "sub": 8,
         "points_spent": 11650,
         "sounds": 1,
@@ -7217,7 +7218,7 @@
         "raid_tier1_captain",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-08T15:32:25Z"
+      "lastUpdated": "2026-08-09T15:41:48Z"
     },
     "daddy0ps": {
       "counters": {
@@ -10878,7 +10879,7 @@
       "lastUpdated": "2026-08-09T14:10:39Z"
     }
   },
-  "lastUpdated": "2026-08-09T14:11:22Z",
+  "lastUpdated": "2026-08-09T14:44:27Z",
   "totalUsers": 555,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
