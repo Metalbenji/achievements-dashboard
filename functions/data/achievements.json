@@ -1806,7 +1806,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3173,
+        "chat": 3176,
         "points_spent": 67408,
         "interactive": 56,
         "follow": 1,
@@ -1861,7 +1861,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-08-09T16:11:30Z"
+      "lastUpdated": "2026-08-09T16:30:47Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1912,7 +1912,7 @@
     },
     "scoman07": {
       "counters": {
-        "chat": 329,
+        "chat": 330,
         "follow": 1,
         "points_spent": 21700,
         "screenshot": 1,
@@ -1945,7 +1945,7 @@
         "bday2026_attend",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-08T12:27:47Z"
+      "lastUpdated": "2026-08-09T17:04:08Z"
     },
     "lottec": {
       "counters": {
@@ -2733,7 +2733,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 241
+        "chat": 242
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2746,7 +2746,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-09T14:49:35Z"
+      "lastUpdated": "2026-08-09T16:25:13Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -2850,7 +2850,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 373,
+        "chat": 374,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 41,
@@ -2899,7 +2899,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-08T19:05:47Z"
+      "lastUpdated": "2026-08-09T16:39:24Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3275,7 +3275,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2237,
+        "chat": 2240,
         "points_spent": 130401,
         "sounds": 14,
         "effects": 140,
@@ -3372,7 +3372,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-09T16:20:22Z"
+      "lastUpdated": "2026-08-09T16:31:18Z"
     },
     "andilippi": {
       "counters": {
@@ -6963,7 +6963,7 @@
       "counters": {
         "points_spent": 21461,
         "special_rewards": 1,
-        "chat": 420,
+        "chat": 421,
         "effects": 4,
         "follow": 1,
         "sub": 13
@@ -6997,7 +6997,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-08T16:35:20Z"
+      "lastUpdated": "2026-08-09T16:39:23Z"
     },
     "otocar": {
       "counters": {
@@ -10200,13 +10200,14 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 21650,
+        "points_spent": 23750,
         "effects": 24,
         "follow": 1,
-        "chat": 110,
+        "chat": 113,
         "gift_subs": 4,
         "bits": 100000,
-        "interactive": 2
+        "interactive": 6,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -10239,9 +10240,10 @@
         "bits_emperor",
         "bday2026_attend",
         "chat_regular",
-        "interactive_first"
+        "interactive_first",
+        "sound_first"
       ],
-      "lastUpdated": "2026-08-09T16:17:09Z"
+      "lastUpdated": "2026-08-09T22:32:52Z"
     },
     "lokonak": {
       "counters": {
@@ -10891,16 +10893,16 @@
     "uncbigman": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-08-09T16:22:15Z"
+      "lastUpdated": "2026-08-09T16:23:33Z"
     }
   },
-  "lastUpdated": "2026-08-09T15:22:21Z",
+  "lastUpdated": "2026-08-09T21:32:54Z",
   "totalUsers": 557,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
