@@ -10890,15 +10890,17 @@
     },
     "uncbigman": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-08-09T16:21:56Z"
+      "lastUpdated": "2026-08-09T16:22:15Z"
     }
   },
-  "lastUpdated": "2026-08-09T15:22:12Z",
+  "lastUpdated": "2026-08-09T15:22:21Z",
   "totalUsers": 557,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
