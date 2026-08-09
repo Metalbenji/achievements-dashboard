@@ -5782,7 +5782,7 @@
       "counters": {
         "follow": 1,
         "chat": 242,
-        "points_spent": 7401,
+        "points_spent": 7402,
         "effects": 8,
         "sounds": 1
       },
@@ -5803,7 +5803,7 @@
         "sound_first",
         "birthday_person"
       ],
-      "lastUpdated": "2026-08-09T15:44:25Z"
+      "lastUpdated": "2026-08-09T15:44:42Z"
     },
     "stellabellas": {
       "counters": {
@@ -7188,7 +7188,7 @@
         "follow": 1,
         "chat": 282,
         "sub": 8,
-        "points_spent": 11650,
+        "points_spent": 11651,
         "sounds": 1,
         "sub_tier": 1,
         "interactive": 3,
@@ -7216,9 +7216,10 @@
         "interactive_first",
         "night_owl",
         "raid_tier1_captain",
-        "chat_frequent"
+        "chat_frequent",
+        "birthday_person"
       ],
-      "lastUpdated": "2026-08-09T15:41:48Z"
+      "lastUpdated": "2026-08-09T15:45:39Z"
     },
     "daddy0ps": {
       "counters": {
@@ -10879,7 +10880,7 @@
       "lastUpdated": "2026-08-09T14:10:39Z"
     }
   },
-  "lastUpdated": "2026-08-09T14:44:27Z",
+  "lastUpdated": "2026-08-09T14:45:41Z",
   "totalUsers": 555,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
