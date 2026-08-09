@@ -1540,7 +1540,7 @@
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 5,
         "sub_tier": 1,
-        "raid": 3
+        "raid": 4
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -1604,7 +1604,7 @@
         "bday2026_attend",
         "effect_master"
       ],
-      "lastUpdated": "2026-08-08T15:06:28Z"
+      "lastUpdated": "2026-08-09T16:07:16Z"
     },
     "celran": {
       "counters": {
@@ -1806,9 +1806,9 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3170,
-        "points_spent": 66508,
-        "interactive": 54,
+        "chat": 3172,
+        "points_spent": 67408,
+        "interactive": 56,
         "follow": 1,
         "sub": 44,
         "effects": 6,
@@ -1861,7 +1861,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-08-09T14:25:20Z"
+      "lastUpdated": "2026-08-09T16:06:00Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5723,
+        "chat": 5727,
         "points_spent": 130750,
         "effects": 66,
         "sub": 49,
@@ -2728,7 +2728,7 @@
         "big_donation_regular",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-09T15:43:11Z"
+      "lastUpdated": "2026-08-09T16:06:18Z"
     },
     "purgemonster91": {
       "counters": {
@@ -9015,7 +9015,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 296,
+        "chat": 297,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9029,7 +9029,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-08T15:38:54Z"
+      "lastUpdated": "2026-08-09T15:47:04Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10878,10 +10878,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-08-09T14:10:39Z"
+    },
+    "j_murkzz": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-08-09T16:07:28Z"
     }
   },
-  "lastUpdated": "2026-08-09T14:45:41Z",
-  "totalUsers": 555,
+  "lastUpdated": "2026-08-09T15:07:30Z",
+  "totalUsers": 556,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
