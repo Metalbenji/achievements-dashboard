@@ -10863,15 +10863,17 @@
     "atk_69": {
       "counters": {
         "points_spent": 350,
-        "effects": 1
+        "effects": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "effect_first"
+        "effect_first",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-08-09T13:59:56Z"
+      "lastUpdated": "2026-08-09T14:00:30Z"
     }
   },
-  "lastUpdated": "2026-08-09T12:59:57Z",
+  "lastUpdated": "2026-08-09T13:00:31Z",
   "totalUsers": 555,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
