@@ -1619,9 +1619,9 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 251,
-        "points_spent": 4550,
-        "effects": 11,
+        "chat": 255,
+        "points_spent": 4850,
+        "effects": 12,
         "follow": 1,
         "sounds": 2,
         "interactive": 1
@@ -1643,7 +1643,7 @@
         "chat_frequent",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-11T21:51:46Z"
+      "lastUpdated": "2026-08-11T22:10:01Z"
     },
     "miromaaldis": {
       "counters": {
@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5818,
+        "chat": 5829,
         "points_spent": 163851,
         "effects": 68,
         "sub": 50,
@@ -2729,7 +2729,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-11T22:01:38Z"
+      "lastUpdated": "2026-08-11T22:11:43Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6120,7 +6120,7 @@
     },
     "esjaytv": {
       "counters": {
-        "chat": 61,
+        "chat": 65,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -6131,7 +6131,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2026-08-11T22:00:17Z"
+      "lastUpdated": "2026-08-11T22:04:02Z"
     },
     "logrador": {
       "counters": {
@@ -7633,7 +7633,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1263,
+        "chat": 1266,
         "points_spent": 56851,
         "screenshot": 1,
         "effects": 5,
@@ -7672,7 +7672,7 @@
         "chat_champion",
         "night_owl"
       ],
-      "lastUpdated": "2026-08-11T22:02:12Z"
+      "lastUpdated": "2026-08-11T22:11:45Z"
     },
     "wigz666": {
       "counters": {
@@ -10205,8 +10205,8 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 30000,
-        "effects": 29,
+        "points_spent": 32000,
+        "effects": 31,
         "follow": 1,
         "chat": 113,
         "gift_subs": 4,
@@ -10253,7 +10253,7 @@
         "screenshot_first",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-08-11T22:00:43Z"
+      "lastUpdated": "2026-08-11T22:11:09Z"
     },
     "lokonak": {
       "counters": {
@@ -10600,9 +10600,9 @@
     "purplepagan": {
       "counters": {
         "follow": 1,
-        "points_spent": 1400,
-        "effects": 2,
-        "chat": 2,
+        "points_spent": 2200,
+        "effects": 3,
+        "chat": 3,
         "interactive": 1
       },
       "unlockedAchievements": [
@@ -10611,9 +10611,10 @@
         "weekend_warrior",
         "bday2026_attend",
         "spender_bronze",
-        "interactive_first"
+        "interactive_first",
+        "night_owl"
       ],
-      "lastUpdated": "2026-08-11T21:24:12Z"
+      "lastUpdated": "2026-08-11T22:12:36Z"
     },
     "moodiemooo": {
       "counters": {
@@ -10944,7 +10945,7 @@
       "lastUpdated": "2026-08-11T21:20:29Z"
     }
   },
-  "lastUpdated": "2026-08-11T21:02:14Z",
+  "lastUpdated": "2026-08-11T21:12:38Z",
   "totalUsers": 559,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
