@@ -7632,7 +7632,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1235,
+        "chat": 1236,
         "points_spent": 56851,
         "screenshot": 1,
         "effects": 5,
@@ -7670,7 +7670,7 @@
         "bday2026_attend",
         "chat_champion"
       ],
-      "lastUpdated": "2026-08-11T21:11:42Z"
+      "lastUpdated": "2026-08-11T21:20:24Z"
     },
     "wigz666": {
       "counters": {
@@ -9504,7 +9504,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 419,
+        "chat": 420,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9517,7 +9517,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-11T21:19:43Z"
+      "lastUpdated": "2026-08-11T21:20:20Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -10300,9 +10300,9 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 128,
-        "points_spent": 2550,
-        "effects": 4,
+        "chat": 129,
+        "points_spent": 2900,
+        "effects": 5,
         "interactive": 2
       },
       "unlockedAchievements": [
@@ -10317,7 +10317,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-07-31T17:55:53Z"
+      "lastUpdated": "2026-08-11T21:20:18Z"
     },
     "rahzie1": {
       "counters": {
@@ -10923,15 +10923,18 @@
     },
     "lettucepray66": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "points_spent": 400,
+        "interactive": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "interactive_first"
       ],
-      "lastUpdated": "2026-08-11T21:20:03Z"
+      "lastUpdated": "2026-08-11T21:20:29Z"
     }
   },
-  "lastUpdated": "2026-08-11T20:20:04Z",
+  "lastUpdated": "2026-08-11T20:20:30Z",
   "totalUsers": 559,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
