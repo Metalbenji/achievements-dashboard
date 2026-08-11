@@ -1806,7 +1806,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3182,
+        "chat": 3184,
         "points_spent": 67408,
         "interactive": 56,
         "follow": 1,
@@ -1861,11 +1861,11 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-08-11T20:54:17Z"
+      "lastUpdated": "2026-08-11T21:13:12Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 771,
+        "chat": 772,
         "follow": 1,
         "sub": 42,
         "points_spent": 95350,
@@ -1908,7 +1908,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-08-11T21:11:38Z"
+      "lastUpdated": "2026-08-11T21:13:42Z"
     },
     "scoman07": {
       "counters": {
@@ -5198,7 +5198,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 297,
+        "chat": 298,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5222,7 +5222,7 @@
         "chat_frequent",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-11T21:12:17Z"
+      "lastUpdated": "2026-08-11T21:14:26Z"
     },
     "auriaya__": {
       "counters": {
@@ -10900,14 +10900,15 @@
     "uncbigman": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-08-11T21:13:04Z"
+      "lastUpdated": "2026-08-11T21:14:33Z"
     },
     "syedrin": {
       "counters": {
@@ -10920,7 +10921,7 @@
       "lastUpdated": "2026-08-11T19:56:07Z"
     }
   },
-  "lastUpdated": "2026-08-11T20:13:05Z",
+  "lastUpdated": "2026-08-11T20:14:35Z",
   "totalUsers": 558,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
