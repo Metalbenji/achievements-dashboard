@@ -1719,7 +1719,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4162,
+        "chat": 4164,
         "points_spent": 227303,
         "screenshot": 3,
         "follow": 1,
@@ -1802,7 +1802,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-11T19:54:58Z"
+      "lastUpdated": "2026-08-11T19:56:31Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5748,
+        "chat": 5754,
         "points_spent": 130751,
         "effects": 66,
         "sub": 50,
@@ -2729,7 +2729,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-11T19:54:05Z"
+      "lastUpdated": "2026-08-11T19:59:52Z"
     },
     "purgemonster91": {
       "counters": {
@@ -8549,7 +8549,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 293,
+        "chat": 300,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8577,9 +8577,10 @@
         "sound_first",
         "bday2026_support",
         "bday2026_attend",
-        "chat_frequent"
+        "chat_frequent",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-08T19:15:39Z"
+      "lastUpdated": "2026-08-11T20:01:48Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -10906,15 +10907,16 @@
     },
     "syedrin": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "follow_supporter"
       ],
-      "lastUpdated": "2026-08-11T19:55:31Z"
+      "lastUpdated": "2026-08-11T19:56:07Z"
     }
   },
-  "lastUpdated": "2026-08-11T18:55:33Z",
+  "lastUpdated": "2026-08-11T19:01:49Z",
   "totalUsers": 558,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
