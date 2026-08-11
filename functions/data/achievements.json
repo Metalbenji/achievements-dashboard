@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5815,
+        "chat": 5818,
         "points_spent": 163851,
         "effects": 68,
         "sub": 50,
@@ -2729,7 +2729,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-11T22:00:22Z"
+      "lastUpdated": "2026-08-11T22:01:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7633,7 +7633,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1262,
+        "chat": 1263,
         "points_spent": 56851,
         "screenshot": 1,
         "effects": 5,
@@ -7669,9 +7669,10 @@
         "biggest_fan",
         "spender_gold",
         "bday2026_attend",
-        "chat_champion"
+        "chat_champion",
+        "night_owl"
       ],
-      "lastUpdated": "2026-08-11T21:32:22Z"
+      "lastUpdated": "2026-08-11T22:02:12Z"
     },
     "wigz666": {
       "counters": {
@@ -10204,8 +10205,8 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 29000,
-        "effects": 28,
+        "points_spent": 30000,
+        "effects": 29,
         "follow": 1,
         "chat": 113,
         "gift_subs": 4,
@@ -10252,7 +10253,7 @@
         "screenshot_first",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-08-11T22:00:38Z"
+      "lastUpdated": "2026-08-11T22:00:43Z"
     },
     "lokonak": {
       "counters": {
@@ -10943,7 +10944,7 @@
       "lastUpdated": "2026-08-11T21:20:29Z"
     }
   },
-  "lastUpdated": "2026-08-11T21:00:39Z",
+  "lastUpdated": "2026-08-11T21:02:14Z",
   "totalUsers": 559,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
