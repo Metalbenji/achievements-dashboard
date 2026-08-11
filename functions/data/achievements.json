@@ -4021,7 +4021,7 @@
     "kurenaii": {
       "counters": {
         "follow": 1,
-        "chat": 107
+        "chat": 109
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4034,7 +4034,7 @@
         "bday2026_attend",
         "chat_regular"
       ],
-      "lastUpdated": "2026-08-11T21:07:47Z"
+      "lastUpdated": "2026-08-11T21:18:17Z"
     },
     "ryanstephenson232": {
       "counters": {
@@ -5198,7 +5198,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 298,
+        "chat": 300,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5220,9 +5220,10 @@
         "chat_conversationalist",
         "chat_regular",
         "chat_frequent",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-11T21:14:26Z"
+      "lastUpdated": "2026-08-11T21:18:33Z"
     },
     "auriaya__": {
       "counters": {
@@ -9503,7 +9504,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 416,
+        "chat": 417,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9516,7 +9517,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-11T21:10:32Z"
+      "lastUpdated": "2026-08-11T21:15:08Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -10087,7 +10088,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 61
+        "chat": 62
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10096,7 +10097,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-08-11T21:08:13Z"
+      "lastUpdated": "2026-08-11T21:15:49Z"
     },
     "no_rep_": {
       "counters": {
@@ -10900,7 +10901,7 @@
     "uncbigman": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 16
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10908,7 +10909,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-08-11T21:14:33Z"
+      "lastUpdated": "2026-08-11T21:16:16Z"
     },
     "syedrin": {
       "counters": {
@@ -10921,7 +10922,7 @@
       "lastUpdated": "2026-08-11T19:56:07Z"
     }
   },
-  "lastUpdated": "2026-08-11T20:14:35Z",
+  "lastUpdated": "2026-08-11T20:18:34Z",
   "totalUsers": 558,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
