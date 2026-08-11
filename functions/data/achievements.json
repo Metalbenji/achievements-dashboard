@@ -2623,7 +2623,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5814,
+        "chat": 5815,
         "points_spent": 163851,
         "effects": 68,
         "sub": 50,
@@ -2729,7 +2729,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-11T22:00:02Z"
+      "lastUpdated": "2026-08-11T22:00:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -10204,13 +10204,13 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 27850,
+        "points_spent": 29000,
         "effects": 28,
         "follow": 1,
         "chat": 113,
         "gift_subs": 4,
         "bits": 100000,
-        "interactive": 9,
+        "interactive": 10,
         "sounds": 2,
         "screenshot": 1
       },
@@ -10249,9 +10249,10 @@
         "sound_first",
         "effect_master",
         "spender_electrum",
-        "screenshot_first"
+        "screenshot_first",
+        "interactive_regular"
       ],
-      "lastUpdated": "2026-08-11T20:52:51Z"
+      "lastUpdated": "2026-08-11T22:00:38Z"
     },
     "lokonak": {
       "counters": {
@@ -10942,7 +10943,7 @@
       "lastUpdated": "2026-08-11T21:20:29Z"
     }
   },
-  "lastUpdated": "2026-08-11T21:00:18Z",
+  "lastUpdated": "2026-08-11T21:00:39Z",
   "totalUsers": 559,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
