@@ -2624,7 +2624,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5840,
+        "chat": 5841,
         "points_spent": 164201,
         "effects": 69,
         "sub": 50,
@@ -2730,7 +2730,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-12T21:35:45Z"
+      "lastUpdated": "2026-08-12T21:45:02Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6574,7 +6574,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 360,
+        "chat": 369,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6605,7 +6605,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-12T21:38:18Z"
+      "lastUpdated": "2026-08-12T21:48:56Z"
     },
     "grimlocc": {
       "counters": {
@@ -9409,11 +9409,12 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1415,
+        "chat": 1419,
         "follow": 1,
-        "points_spent": 3250,
-        "effects": 7,
-        "interactive": 1
+        "points_spent": 3950,
+        "effects": 8,
+        "interactive": 1,
+        "screenshot": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9430,9 +9431,10 @@
         "chat_enthusiast",
         "chat_champion",
         "bday2026_attend",
-        "interactive_first"
+        "interactive_first",
+        "screenshot_first"
       ],
-      "lastUpdated": "2026-08-12T21:14:37Z"
+      "lastUpdated": "2026-08-12T21:49:02Z"
     },
     "noggen_": {
       "counters": {
@@ -9728,7 +9730,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2154,
+        "chat": 2158,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 31,
@@ -9776,7 +9778,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-08T15:02:53Z"
+      "lastUpdated": "2026-08-12T21:48:48Z"
     },
     "infincible": {
       "counters": {
@@ -10092,7 +10094,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 73
+        "chat": 75
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10101,7 +10103,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-08-12T21:23:39Z"
+      "lastUpdated": "2026-08-12T21:42:35Z"
     },
     "no_rep_": {
       "counters": {
@@ -10305,7 +10307,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 162,
+        "chat": 175,
         "points_spent": 3350,
         "effects": 5,
         "interactive": 2
@@ -10322,7 +10324,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-08-12T21:38:10Z"
+      "lastUpdated": "2026-08-12T21:44:44Z"
     },
     "rahzie1": {
       "counters": {
@@ -10947,7 +10949,7 @@
       "lastUpdated": "2026-08-11T21:20:29Z"
     }
   },
-  "lastUpdated": "2026-08-12T20:38:42Z",
+  "lastUpdated": "2026-08-12T20:49:04Z",
   "totalUsers": 559,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
