@@ -7038,7 +7038,7 @@
     },
     "legolich": {
       "counters": {
-        "chat": 111,
+        "chat": 112,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -7051,9 +7051,10 @@
         "chat_conversationalist",
         "spender_bronze",
         "effect_first",
-        "chat_regular"
+        "chat_regular",
+        "night_owl"
       ],
-      "lastUpdated": "2026-07-31T17:34:55Z"
+      "lastUpdated": "2026-08-14T22:53:31Z"
     },
     "provos": {
       "counters": {
@@ -10961,7 +10962,7 @@
       "lastUpdated": "2026-08-12T22:06:36Z"
     }
   },
-  "lastUpdated": "2026-08-14T21:42:13Z",
+  "lastUpdated": "2026-08-14T21:53:32Z",
   "totalUsers": 560,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
