@@ -2487,7 +2487,7 @@
       "counters": {
         "points_spent": 123702,
         "follow": 1,
-        "chat": 1387,
+        "chat": 1388,
         "effects": 145,
         "screenshot": 17,
         "sounds": 7,
@@ -2550,7 +2550,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-22T12:31:31Z"
+      "lastUpdated": "2026-08-22T12:38:50Z"
     },
     "syn__________": {
       "counters": {
@@ -2852,7 +2852,7 @@
     "qyainiana": {
       "counters": {
         "follow": 1,
-        "chat": 380,
+        "chat": 381,
         "points_spent": 22000,
         "sounds": 2,
         "sub": 41,
@@ -2901,7 +2901,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-22T10:52:17Z"
+      "lastUpdated": "2026-08-22T12:39:51Z"
     },
     "invaderzimrulesall6969": {
       "counters": {
@@ -3619,7 +3619,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4460,
+        "chat": 4461,
         "sub": 53,
         "points_spent": 350,
         "screenshot": 1,
@@ -3674,7 +3674,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-08-22T12:17:25Z"
+      "lastUpdated": "2026-08-22T12:49:35Z"
     },
     "majesty81": {
       "counters": {
@@ -6688,7 +6688,7 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 125,
+        "chat": 126,
         "follow": 1,
         "points_spent": 450
       },
@@ -6700,7 +6700,7 @@
         "follow_supporter",
         "chat_regular"
       ],
-      "lastUpdated": "2026-08-22T11:40:26Z"
+      "lastUpdated": "2026-08-22T12:41:08Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -9423,7 +9423,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1441,
+        "chat": 1442,
         "follow": 1,
         "points_spent": 3950,
         "effects": 8,
@@ -9448,7 +9448,7 @@
         "interactive_first",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-08-22T12:37:39Z"
+      "lastUpdated": "2026-08-22T12:40:37Z"
     },
     "noggen_": {
       "counters": {
@@ -10977,16 +10977,17 @@
     "silent_storm24": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-08-22T12:38:34Z"
+      "lastUpdated": "2026-08-22T12:50:40Z"
     }
   },
-  "lastUpdated": "2026-08-22T11:38:35Z",
+  "lastUpdated": "2026-08-22T11:50:41Z",
   "totalUsers": 561,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
