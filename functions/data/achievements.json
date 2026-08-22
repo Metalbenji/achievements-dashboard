@@ -1807,7 +1807,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3212,
+        "chat": 3213,
         "points_spent": 67408,
         "interactive": 56,
         "follow": 1,
@@ -1862,7 +1862,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-08-22T11:10:33Z"
+      "lastUpdated": "2026-08-22T11:32:08Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2624,7 +2624,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5877,
+        "chat": 5880,
         "points_spent": 164201,
         "effects": 69,
         "sub": 50,
@@ -2730,7 +2730,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-22T11:28:52Z"
+      "lastUpdated": "2026-08-22T11:31:42Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4538,11 +4538,13 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 191,
+        "chat": 200,
         "points_spent": 2300,
         "effects": 6,
         "raid": 3,
-        "sounds": 1
+        "sounds": 1,
+        "sub": 16,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4556,9 +4558,18 @@
         "raid_tier1_captain",
         "chat_regular",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-08-22T11:29:15Z"
+      "lastUpdated": "2026-08-22T11:32:40Z"
     },
     "saluda777": {
       "counters": {
@@ -6040,7 +6051,7 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 76,
+        "chat": 77,
         "sub": 25,
         "sub_tier": 1
       },
@@ -6061,7 +6072,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2026-08-22T11:20:18Z"
+      "lastUpdated": "2026-08-22T11:31:12Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -9530,7 +9541,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 430,
+        "chat": 431,
         "follow": 1,
         "points_spent": 850,
         "effects": 3
@@ -9547,7 +9558,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-22T11:28:45Z"
+      "lastUpdated": "2026-08-22T11:30:26Z"
     },
     "discostarz": {
       "counters": {
@@ -10964,7 +10975,7 @@
       "lastUpdated": "2026-08-12T22:06:36Z"
     }
   },
-  "lastUpdated": "2026-08-22T10:30:24Z",
+  "lastUpdated": "2026-08-22T10:32:41Z",
   "totalUsers": 560,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
