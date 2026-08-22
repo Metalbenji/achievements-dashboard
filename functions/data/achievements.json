@@ -9423,7 +9423,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1440,
+        "chat": 1441,
         "follow": 1,
         "points_spent": 3950,
         "effects": 8,
@@ -9448,7 +9448,7 @@
         "interactive_first",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-08-22T12:37:19Z"
+      "lastUpdated": "2026-08-22T12:37:39Z"
     },
     "noggen_": {
       "counters": {
@@ -10976,15 +10976,17 @@
     },
     "silent_storm24": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-08-22T12:37:38Z"
+      "lastUpdated": "2026-08-22T12:38:34Z"
     }
   },
-  "lastUpdated": "2026-08-22T11:37:39Z",
+  "lastUpdated": "2026-08-22T11:38:35Z",
   "totalUsers": 561,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
