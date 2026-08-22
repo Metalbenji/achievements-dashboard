@@ -1807,7 +1807,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3247,
+        "chat": 3255,
         "points_spent": 67408,
         "interactive": 56,
         "follow": 1,
@@ -1862,7 +1862,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-08-22T15:55:42Z"
+      "lastUpdated": "2026-08-22T17:13:48Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2487,7 +2487,7 @@
       "counters": {
         "points_spent": 125802,
         "follow": 1,
-        "chat": 1417,
+        "chat": 1431,
         "effects": 146,
         "screenshot": 18,
         "sounds": 7,
@@ -2550,7 +2550,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-22T14:36:02Z"
+      "lastUpdated": "2026-08-22T17:14:56Z"
     },
     "syn__________": {
       "counters": {
@@ -2819,7 +2819,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 460,
+        "chat": 467,
         "points_spent": 25750,
         "interactive": 10,
         "effects": 5,
@@ -2847,7 +2847,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-22T16:43:16Z"
+      "lastUpdated": "2026-08-22T17:15:19Z"
     },
     "qyainiana": {
       "counters": {
@@ -3277,7 +3277,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2265,
+        "chat": 2269,
         "points_spent": 130901,
         "sounds": 14,
         "effects": 141,
@@ -3374,7 +3374,7 @@
         "donation_kind",
         "total_donation_hero"
       ],
-      "lastUpdated": "2026-08-22T16:04:32Z"
+      "lastUpdated": "2026-08-22T16:49:39Z"
     },
     "andilippi": {
       "counters": {
@@ -4779,7 +4779,7 @@
       "counters": {
         "sub": 51,
         "follow": 1,
-        "chat": 949,
+        "chat": 952,
         "points_spent": 1253,
         "sounds": 1,
         "interactive": 1,
@@ -4822,7 +4822,7 @@
         "gift_starter",
         "gift_kind"
       ],
-      "lastUpdated": "2026-08-22T16:20:32Z"
+      "lastUpdated": "2026-08-22T17:10:40Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -5211,7 +5211,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 387,
+        "chat": 390,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5236,7 +5236,7 @@
         "bday2026_attend",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-22T16:29:55Z"
+      "lastUpdated": "2026-08-22T17:13:06Z"
     },
     "auriaya__": {
       "counters": {
@@ -7203,7 +7203,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 314,
+        "chat": 316,
         "sub": 9,
         "points_spent": 12051,
         "sounds": 1,
@@ -7237,7 +7237,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-22T16:17:17Z"
+      "lastUpdated": "2026-08-22T16:49:21Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7478,7 +7478,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 573,
+        "chat": 575,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7503,7 +7503,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-22T15:58:28Z"
+      "lastUpdated": "2026-08-22T16:53:41Z"
     },
     "kikinplays_": {
       "counters": {
@@ -7648,7 +7648,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1357,
+        "chat": 1359,
         "points_spent": 57251,
         "screenshot": 1,
         "effects": 5,
@@ -7687,7 +7687,7 @@
         "chat_champion",
         "night_owl"
       ],
-      "lastUpdated": "2026-08-22T16:18:46Z"
+      "lastUpdated": "2026-08-22T16:46:10Z"
     },
     "wigz666": {
       "counters": {
@@ -9236,13 +9236,14 @@
     "bucks1973": {
       "counters": {
         "follow": 1,
-        "chat": 3
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-08-08T17:18:35Z"
+      "lastUpdated": "2026-08-22T17:15:22Z"
     },
     "welovebrusselssprouts": {
       "counters": {
@@ -10999,7 +11000,7 @@
       "lastUpdated": "2026-08-22T16:45:27Z"
     }
   },
-  "lastUpdated": "2026-08-22T15:45:28Z",
+  "lastUpdated": "2026-08-22T16:15:22Z",
   "totalUsers": 562,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
