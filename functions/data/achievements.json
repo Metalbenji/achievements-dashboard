@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 678,
+        "chat": 680,
         "points_spent": 59502,
         "follow": 1,
         "sub": 26,
@@ -1507,7 +1507,7 @@
         "gift_kind",
         "spender_gold"
       ],
-      "lastUpdated": "2026-08-23T15:59:40Z"
+      "lastUpdated": "2026-08-23T16:28:12Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -3620,7 +3620,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4532,
+        "chat": 4534,
         "sub": 53,
         "points_spent": 350,
         "screenshot": 1,
@@ -3675,7 +3675,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-08-23T13:25:13Z"
+      "lastUpdated": "2026-08-23T16:27:31Z"
     },
     "majesty81": {
       "counters": {
@@ -6589,7 +6589,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 423,
+        "chat": 425,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6620,7 +6620,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-23T16:24:28Z"
+      "lastUpdated": "2026-08-23T16:27:54Z"
     },
     "grimlocc": {
       "counters": {
@@ -9040,7 +9040,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 401,
+        "chat": 403,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9055,7 +9055,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-23T16:21:36Z"
+      "lastUpdated": "2026-08-23T16:28:27Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9429,7 +9429,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1500,
+        "chat": 1504,
         "follow": 1,
         "points_spent": 4650,
         "effects": 10,
@@ -9456,7 +9456,7 @@
         "effect_collector",
         "chat_expert"
       ],
-      "lastUpdated": "2026-08-23T16:26:35Z"
+      "lastUpdated": "2026-08-23T16:27:39Z"
     },
     "noggen_": {
       "counters": {
@@ -11022,14 +11022,16 @@
     "apostlerp": {
       "counters": {
         "chat": 13,
-        "points_spent": 350
+        "points_spent": 700,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "effect_first"
       ],
-      "lastUpdated": "2026-08-23T16:26:33Z"
+      "lastUpdated": "2026-08-23T16:28:29Z"
     },
     "metalfury666": {
       "counters": {
@@ -11041,7 +11043,7 @@
       "lastUpdated": "2026-08-23T15:12:28Z"
     }
   },
-  "lastUpdated": "2026-08-23T15:26:35Z",
+  "lastUpdated": "2026-08-23T15:28:30Z",
   "totalUsers": 565,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
