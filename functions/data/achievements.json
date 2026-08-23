@@ -1461,8 +1461,8 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 639,
-        "points_spent": 49502,
+        "chat": 646,
+        "points_spent": 59502,
         "follow": 1,
         "sub": 26,
         "interactive": 1,
@@ -1504,9 +1504,10 @@
         "bday2026_attend",
         "gift_starter",
         "bday2026_support",
-        "gift_kind"
+        "gift_kind",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-08-22T16:01:38Z"
+      "lastUpdated": "2026-08-23T14:20:40Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1720,7 +1721,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4268,
+        "chat": 4279,
         "points_spent": 249553,
         "screenshot": 4,
         "follow": 1,
@@ -1803,7 +1804,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-23T13:51:59Z"
+      "lastUpdated": "2026-08-23T14:20:02Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2339,9 +2340,9 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 310,
-        "points_spent": 63000,
-        "sounds": 2,
+        "chat": 315,
+        "points_spent": 73000,
+        "sounds": 3,
         "interactive": 1,
         "screenshot": 1,
         "raid": 1,
@@ -2387,7 +2388,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-23T13:40:07Z"
+      "lastUpdated": "2026-08-23T14:20:07Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -2624,7 +2625,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5918,
+        "chat": 5919,
         "points_spent": 164201,
         "effects": 69,
         "sub": 50,
@@ -2730,7 +2731,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-23T13:32:24Z"
+      "lastUpdated": "2026-08-23T14:04:37Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5411,7 +5412,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 405,
+        "chat": 409,
         "points_spent": 21300,
         "interactive": 3,
         "sounds": 1
@@ -5433,7 +5434,7 @@
         "sound_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-23T13:36:59Z"
+      "lastUpdated": "2026-08-23T14:09:20Z"
     },
     "theazmaniac": {
       "counters": {
@@ -6688,7 +6689,7 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 129,
+        "chat": 131,
         "follow": 1,
         "points_spent": 450
       },
@@ -6700,7 +6701,7 @@
         "follow_supporter",
         "chat_regular"
       ],
-      "lastUpdated": "2026-08-23T13:41:45Z"
+      "lastUpdated": "2026-08-23T13:57:01Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -9036,7 +9037,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 366,
+        "chat": 373,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9051,7 +9052,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-23T13:46:55Z"
+      "lastUpdated": "2026-08-23T14:20:10Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9425,7 +9426,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1482,
+        "chat": 1484,
         "follow": 1,
         "points_spent": 3950,
         "effects": 8,
@@ -9450,7 +9451,7 @@
         "interactive_first",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-08-23T13:17:02Z"
+      "lastUpdated": "2026-08-23T14:19:22Z"
     },
     "noggen_": {
       "counters": {
@@ -11014,16 +11015,16 @@
     },
     "apostlerp": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-08-23T13:52:53Z"
+      "lastUpdated": "2026-08-23T13:53:33Z"
     }
   },
-  "lastUpdated": "2026-08-23T12:52:54Z",
+  "lastUpdated": "2026-08-23T13:20:41Z",
   "totalUsers": 564,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
