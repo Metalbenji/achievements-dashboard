@@ -1526,7 +1526,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5419,
+        "chat": 5421,
         "points_spent": 194601,
         "effects": 28,
         "sub": 19,
@@ -1605,7 +1605,7 @@
         "effect_master",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-08-23T13:49:04Z"
+      "lastUpdated": "2026-08-23T13:50:41Z"
     },
     "celran": {
       "counters": {
@@ -1720,7 +1720,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4267,
+        "chat": 4268,
         "points_spent": 249553,
         "screenshot": 4,
         "follow": 1,
@@ -1803,7 +1803,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-23T13:43:14Z"
+      "lastUpdated": "2026-08-23T13:51:59Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1866,7 +1866,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 803,
+        "chat": 805,
         "follow": 1,
         "sub": 42,
         "points_spent": 95350,
@@ -1909,7 +1909,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-08-23T13:41:04Z"
+      "lastUpdated": "2026-08-23T13:50:55Z"
     },
     "scoman07": {
       "counters": {
@@ -11014,15 +11014,16 @@
     },
     "apostlerp": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-08-23T13:50:14Z"
+      "lastUpdated": "2026-08-23T13:52:53Z"
     }
   },
-  "lastUpdated": "2026-08-23T12:50:14Z",
+  "lastUpdated": "2026-08-23T12:52:54Z",
   "totalUsers": 564,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
