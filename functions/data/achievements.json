@@ -3814,7 +3814,7 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 279,
+        "chat": 280,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1,
@@ -3835,7 +3835,7 @@
         "raid_tier1_captain",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-08-23T15:02:17Z"
+      "lastUpdated": "2026-08-23T15:02:34Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -8882,9 +8882,9 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 42,
+        "chat": 43,
         "follow": 1,
-        "points_spent": 350,
+        "points_spent": 351,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -8894,9 +8894,10 @@
         "chat_talker",
         "effect_first",
         "night_owl",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "first_caller"
       ],
-      "lastUpdated": "2026-07-19T15:11:54Z"
+      "lastUpdated": "2026-08-23T15:02:35Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -11025,7 +11026,7 @@
       "lastUpdated": "2026-08-23T13:53:33Z"
     }
   },
-  "lastUpdated": "2026-08-23T14:02:20Z",
+  "lastUpdated": "2026-08-23T14:02:36Z",
   "totalUsers": 564,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
