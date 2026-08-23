@@ -1721,7 +1721,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4289,
+        "chat": 4291,
         "points_spent": 249553,
         "screenshot": 4,
         "follow": 1,
@@ -1804,7 +1804,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-23T16:22:52Z"
+      "lastUpdated": "2026-08-23T16:25:25Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2247,7 +2247,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2039,
+        "chat": 2040,
         "points_spent": 221619,
         "effects": 22,
         "sounds": 15,
@@ -2303,7 +2303,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-08-23T15:26:59Z"
+      "lastUpdated": "2026-08-23T16:24:36Z"
     },
     "anzerou": {
       "counters": {
@@ -4540,7 +4540,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 234,
+        "chat": 236,
         "points_spent": 2300,
         "effects": 6,
         "raid": 3,
@@ -4571,7 +4571,7 @@
         "sub_champion",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-23T16:21:55Z"
+      "lastUpdated": "2026-08-23T16:25:57Z"
     },
     "saluda777": {
       "counters": {
@@ -6589,7 +6589,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 422,
+        "chat": 423,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6620,7 +6620,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-08-23T16:23:58Z"
+      "lastUpdated": "2026-08-23T16:24:28Z"
     },
     "grimlocc": {
       "counters": {
@@ -9429,7 +9429,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1497,
+        "chat": 1500,
         "follow": 1,
         "points_spent": 4650,
         "effects": 10,
@@ -9453,9 +9453,10 @@
         "bday2026_attend",
         "interactive_first",
         "screenshot_first",
-        "effect_collector"
+        "effect_collector",
+        "chat_expert"
       ],
-      "lastUpdated": "2026-08-23T16:24:23Z"
+      "lastUpdated": "2026-08-23T16:26:35Z"
     },
     "noggen_": {
       "counters": {
@@ -11020,14 +11021,15 @@
     },
     "apostlerp": {
       "counters": {
-        "chat": 10
+        "chat": 13,
+        "points_spent": 350
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-08-23T16:24:27Z"
+      "lastUpdated": "2026-08-23T16:26:33Z"
     },
     "metalfury666": {
       "counters": {
@@ -11039,7 +11041,7 @@
       "lastUpdated": "2026-08-23T15:12:28Z"
     }
   },
-  "lastUpdated": "2026-08-23T15:24:28Z",
+  "lastUpdated": "2026-08-23T15:26:35Z",
   "totalUsers": 565,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
