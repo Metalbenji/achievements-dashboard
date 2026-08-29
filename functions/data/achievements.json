@@ -2625,7 +2625,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 5952,
+        "chat": 5953,
         "points_spent": 164551,
         "effects": 70,
         "sub": 50,
@@ -2731,7 +2731,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-29T10:02:59Z"
+      "lastUpdated": "2026-08-29T10:13:29Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3727,9 +3727,10 @@
     },
     "djindjarinttv": {
       "counters": {
-        "sub": 23,
+        "sub": 24,
         "follow": 1,
-        "chat": 493
+        "chat": 502,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "sub_first_month",
@@ -3751,9 +3752,10 @@
         "chat_frequent",
         "sub_platinum",
         "chat_dedicated",
-        "bday2026_attend"
+        "bday2026_attend",
+        "sub_diamond"
       ],
-      "lastUpdated": "2026-08-29T10:09:51Z"
+      "lastUpdated": "2026-08-29T10:13:46Z"
     },
     "khazan67": {
       "counters": {
@@ -4103,7 +4105,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 408
+        "chat": 410
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4115,7 +4117,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-29T09:46:18Z"
+      "lastUpdated": "2026-08-29T10:11:34Z"
     },
     "akiraownz": {
       "counters": {
@@ -9752,7 +9754,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2210,
+        "chat": 2211,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 32,
@@ -9800,7 +9802,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-29T10:01:43Z"
+      "lastUpdated": "2026-08-29T10:12:52Z"
     },
     "infincible": {
       "counters": {
@@ -11044,15 +11046,17 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 1
+        "chat": 2,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-08-29T10:10:47Z"
+      "lastUpdated": "2026-08-29T10:14:09Z"
     }
   },
-  "lastUpdated": "2026-08-29T09:11:03Z",
+  "lastUpdated": "2026-08-29T09:14:09Z",
   "totalUsers": 566,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
