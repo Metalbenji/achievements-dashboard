@@ -9052,7 +9052,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 486,
+        "chat": 487,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9067,7 +9067,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-29T13:57:53Z"
+      "lastUpdated": "2026-08-29T13:58:37Z"
     },
     "hedgeswine": {
       "counters": {
@@ -11075,10 +11075,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-08-29T12:58:28Z"
+    },
+    "fleabagarcade": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-08-29T13:58:40Z"
     }
   },
-  "lastUpdated": "2026-08-29T12:57:56Z",
-  "totalUsers": 567,
+  "lastUpdated": "2026-08-29T12:58:41Z",
+  "totalUsers": 568,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
