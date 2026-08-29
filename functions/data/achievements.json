@@ -2057,7 +2057,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 753,
+        "chat": 754,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2090,7 +2090,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-08-29T12:42:55Z"
+      "lastUpdated": "2026-08-29T13:38:35Z"
     },
     "sealdancer": {
       "counters": {
@@ -3280,7 +3280,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2299,
+        "chat": 2303,
         "points_spent": 132451,
         "sounds": 14,
         "effects": 145,
@@ -3294,8 +3294,8 @@
         "largest_gift_bomb": 345,
         "clips": 2,
         "sub_tier": 2,
-        "donations": 2,
-        "total_donated": 25000,
+        "donations": 3,
+        "total_donated": 25500,
         "big_donation": 2
       },
       "unlockedAchievements": [
@@ -3375,9 +3375,10 @@
         "total_donation_champion",
         "bday2026_support",
         "donation_kind",
-        "total_donation_hero"
+        "total_donation_hero",
+        "donation_caring"
       ],
-      "lastUpdated": "2026-08-29T12:46:05Z"
+      "lastUpdated": "2026-08-29T13:41:32Z"
     },
     "andilippi": {
       "counters": {
@@ -4785,7 +4786,7 @@
       "counters": {
         "sub": 52,
         "follow": 1,
-        "chat": 1035,
+        "chat": 1040,
         "points_spent": 1253,
         "sounds": 1,
         "interactive": 1,
@@ -4829,7 +4830,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-08-29T13:32:33Z"
+      "lastUpdated": "2026-08-29T13:44:19Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -7417,7 +7418,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2019,
+        "chat": 2020,
         "points_spent": 113804,
         "sounds": 30,
         "effects": 28,
@@ -7473,7 +7474,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-08-29T13:34:23Z"
+      "lastUpdated": "2026-08-29T13:41:07Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8890,7 +8891,7 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 82,
+        "chat": 86,
         "follow": 1,
         "points_spent": 1051,
         "effects": 3
@@ -8906,7 +8907,7 @@
         "first_caller",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-08-29T13:35:59Z"
+      "lastUpdated": "2026-08-29T13:44:16Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -9047,7 +9048,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 474,
+        "chat": 477,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9062,7 +9063,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-29T13:33:35Z"
+      "lastUpdated": "2026-08-29T13:43:39Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10242,7 +10243,7 @@
         "points_spent": 34400,
         "effects": 32,
         "follow": 1,
-        "chat": 156,
+        "chat": 157,
         "gift_subs": 4,
         "bits": 100000,
         "interactive": 10,
@@ -10288,7 +10289,7 @@
         "interactive_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-08-27T19:12:15Z"
+      "lastUpdated": "2026-08-29T13:38:25Z"
     },
     "lokonak": {
       "counters": {
@@ -11071,7 +11072,7 @@
       "lastUpdated": "2026-08-29T12:58:28Z"
     }
   },
-  "lastUpdated": "2026-08-29T12:36:04Z",
+  "lastUpdated": "2026-08-29T12:44:23Z",
   "totalUsers": 567,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
