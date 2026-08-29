@@ -8890,10 +8890,10 @@
     },
     "missallykat": {
       "counters": {
-        "chat": 46,
+        "chat": 56,
         "follow": 1,
         "points_spent": 1051,
-        "effects": 2
+        "effects": 3
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -8906,7 +8906,7 @@
         "first_caller",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-08-29T12:53:32Z"
+      "lastUpdated": "2026-08-29T12:57:15Z"
     },
     "captain_starhawk": {
       "counters": {
@@ -11060,10 +11060,19 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-08-29T11:58:20Z"
+    },
+    "konkrs": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-08-29T12:58:28Z"
     }
   },
-  "lastUpdated": "2026-08-29T11:53:33Z",
-  "totalUsers": 566,
+  "lastUpdated": "2026-08-29T11:58:29Z",
+  "totalUsers": 567,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
