@@ -2494,7 +2494,7 @@
       "counters": {
         "points_spent": 129402,
         "follow": 1,
-        "chat": 1500,
+        "chat": 1501,
         "effects": 150,
         "screenshot": 19,
         "sounds": 7,
@@ -2558,7 +2558,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-08-29T14:40:52Z"
+      "lastUpdated": "2026-08-29T14:41:46Z"
     },
     "syn__________": {
       "counters": {
@@ -9765,7 +9765,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2242,
+        "chat": 2244,
         "points_spent": 70751,
         "sounds": 4,
         "sub": 32,
@@ -9813,7 +9813,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-08-29T14:37:36Z"
+      "lastUpdated": "2026-08-29T14:41:28Z"
     },
     "infincible": {
       "counters": {
@@ -11058,15 +11058,16 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-08-29T11:58:20Z"
+      "lastUpdated": "2026-08-29T14:42:56Z"
     },
     "konkrs": {
       "counters": {
@@ -11090,7 +11091,7 @@
       "lastUpdated": "2026-08-29T14:14:47Z"
     }
   },
-  "lastUpdated": "2026-08-29T13:40:53Z",
+  "lastUpdated": "2026-08-29T13:42:57Z",
   "totalUsers": 568,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
