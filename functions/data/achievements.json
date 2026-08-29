@@ -1722,7 +1722,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4387,
+        "chat": 4390,
         "points_spent": 250053,
         "screenshot": 4,
         "follow": 1,
@@ -1805,7 +1805,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-08-29T12:47:17Z"
+      "lastUpdated": "2026-08-29T13:52:09Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2057,7 +2057,7 @@
     "kripoje": {
       "counters": {
         "follow": 1,
-        "chat": 754,
+        "chat": 756,
         "sub": 8,
         "points_spent": 6750,
         "sounds": 3,
@@ -2090,7 +2090,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-08-29T13:38:35Z"
+      "lastUpdated": "2026-08-29T13:52:07Z"
     },
     "sealdancer": {
       "counters": {
@@ -2352,7 +2352,9 @@
         "gift_subs": 45,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 45,
-        "largest_gift_bomb": 45
+        "largest_gift_bomb": 45,
+        "donations": 1,
+        "total_donated": 1000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2388,9 +2390,11 @@
         "gift_patron",
         "bday2026_support",
         "night_owl",
-        "chat_dedicated"
+        "chat_dedicated",
+        "donation_first_timer",
+        "total_donation_starter"
       ],
-      "lastUpdated": "2026-08-29T13:25:56Z"
+      "lastUpdated": "2026-08-29T13:44:22Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -4786,7 +4790,7 @@
       "counters": {
         "sub": 52,
         "follow": 1,
-        "chat": 1040,
+        "chat": 1043,
         "points_spent": 1253,
         "sounds": 1,
         "interactive": 1,
@@ -4830,7 +4834,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-08-29T13:44:19Z"
+      "lastUpdated": "2026-08-29T13:46:44Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -9048,7 +9052,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 477,
+        "chat": 486,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9063,7 +9067,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-29T13:43:39Z"
+      "lastUpdated": "2026-08-29T13:57:53Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9540,7 +9544,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 529,
+        "chat": 544,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9553,7 +9557,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-29T09:38:41Z"
+      "lastUpdated": "2026-08-29T13:55:01Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -10360,7 +10364,7 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 93,
+        "chat": 95,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10371,7 +10375,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-08-29T12:37:38Z"
+      "lastUpdated": "2026-08-29T13:57:42Z"
     },
     "00lemonada8": {
       "counters": {
@@ -10921,15 +10925,16 @@
         "points_spent": 350,
         "effects": 1,
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "effect_first",
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-08-09T14:10:39Z"
+      "lastUpdated": "2026-08-29T13:57:55Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11072,7 +11077,7 @@
       "lastUpdated": "2026-08-29T12:58:28Z"
     }
   },
-  "lastUpdated": "2026-08-29T12:44:23Z",
+  "lastUpdated": "2026-08-29T12:57:56Z",
   "totalUsers": 567,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
