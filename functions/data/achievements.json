@@ -1527,7 +1527,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5748,
+        "chat": 5751,
         "points_spent": 215001,
         "effects": 28,
         "sub": 20,
@@ -1608,7 +1608,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-08-30T18:54:27Z"
+      "lastUpdated": "2026-08-30T18:58:53Z"
     },
     "celran": {
       "counters": {
@@ -2250,7 +2250,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2177,
+        "chat": 2178,
         "points_spent": 251620,
         "effects": 22,
         "sounds": 16,
@@ -2306,7 +2306,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-08-30T18:54:13Z"
+      "lastUpdated": "2026-08-30T18:56:56Z"
     },
     "anzerou": {
       "counters": {
@@ -2577,7 +2577,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 561,
+        "chat": 562,
         "sub": 35,
         "points_spent": 9400,
         "screenshot": 2,
@@ -2628,7 +2628,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-30T18:54:42Z"
+      "lastUpdated": "2026-08-30T18:55:45Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3286,7 +3286,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2331,
+        "chat": 2333,
         "points_spent": 135101,
         "sounds": 14,
         "effects": 148,
@@ -3384,7 +3384,7 @@
         "total_donation_hero",
         "donation_caring"
       ],
-      "lastUpdated": "2026-08-30T18:38:14Z"
+      "lastUpdated": "2026-08-30T18:57:16Z"
     },
     "andilippi": {
       "counters": {
@@ -4244,7 +4244,7 @@
       "counters": {
         "follow": 1,
         "chat": 385,
-        "points_spent": 24003,
+        "points_spent": 26003,
         "sounds": 6,
         "effects": 5,
         "interactive": 6
@@ -4267,9 +4267,10 @@
         "chat_dedicated",
         "first_caller",
         "bday2026_attend",
-        "night_owl"
+        "night_owl",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-08-23T17:08:23Z"
+      "lastUpdated": "2026-08-30T19:00:19Z"
     },
     "voidzdefiler": {
       "counters": {
@@ -11117,7 +11118,7 @@
       "lastUpdated": "2026-08-30T16:32:07Z"
     }
   },
-  "lastUpdated": "2026-08-30T17:54:45Z",
+  "lastUpdated": "2026-08-30T18:00:20Z",
   "totalUsers": 569,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
