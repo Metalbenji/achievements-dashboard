@@ -5064,9 +5064,10 @@
     "boggieh": {
       "counters": {
         "follow": 1,
-        "chat": 19,
+        "chat": 23,
         "points_spent": 10650,
-        "screenshot": 1
+        "screenshot": 1,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5078,9 +5079,10 @@
         "chat_newbie",
         "chat_talker",
         "spender_iron",
-        "spender_silver"
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2026-08-30T14:05:09Z"
+      "lastUpdated": "2026-08-30T14:06:41Z"
     },
     "mr_beardz": {
       "counters": {
@@ -6422,7 +6424,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 198,
+        "chat": 200,
         "points_spent": 3051,
         "effects": 5,
         "interactive": 2,
@@ -6441,9 +6443,10 @@
         "spender_bronze",
         "chat_regular",
         "sound_first",
-        "screenshot_first"
+        "screenshot_first",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-05-16T15:17:12Z"
+      "lastUpdated": "2026-08-30T14:07:45Z"
     },
     "vezwarmane": {
       "counters": {
@@ -11100,7 +11103,7 @@
       "lastUpdated": "2026-08-29T14:50:02Z"
     }
   },
-  "lastUpdated": "2026-08-30T13:05:10Z",
+  "lastUpdated": "2026-08-30T13:07:46Z",
   "totalUsers": 568,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
