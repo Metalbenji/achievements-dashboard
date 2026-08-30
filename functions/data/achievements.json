@@ -2633,7 +2633,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6043,
+        "chat": 6044,
         "points_spent": 164551,
         "effects": 70,
         "sub": 50,
@@ -2739,7 +2739,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-08-30T13:49:39Z"
+      "lastUpdated": "2026-08-30T14:04:59Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3287,9 +3287,9 @@
       "counters": {
         "follow": 1,
         "chat": 2316,
-        "points_spent": 134101,
+        "points_spent": 134601,
         "sounds": 14,
-        "effects": 146,
+        "effects": 147,
         "sub": 52,
         "bits": 13574,
         "interactive": 9,
@@ -3384,7 +3384,7 @@
         "total_donation_hero",
         "donation_caring"
       ],
-      "lastUpdated": "2026-08-30T12:22:10Z"
+      "lastUpdated": "2026-08-30T14:03:57Z"
     },
     "andilippi": {
       "counters": {
@@ -5065,7 +5065,7 @@
       "counters": {
         "follow": 1,
         "chat": 19,
-        "points_spent": 8650,
+        "points_spent": 10650,
         "screenshot": 1
       },
       "unlockedAchievements": [
@@ -5077,9 +5077,10 @@
         "screenshot_first",
         "chat_newbie",
         "chat_talker",
-        "spender_iron"
+        "spender_iron",
+        "spender_silver"
       ],
-      "lastUpdated": "2026-01-14T21:01:50Z"
+      "lastUpdated": "2026-08-30T14:05:09Z"
     },
     "mr_beardz": {
       "counters": {
@@ -9055,7 +9056,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 512,
+        "chat": 514,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9070,7 +9071,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-30T12:43:21Z"
+      "lastUpdated": "2026-08-30T14:05:07Z"
     },
     "hedgeswine": {
       "counters": {
@@ -11065,7 +11066,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 25,
+        "chat": 28,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11075,7 +11076,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-08-30T14:03:17Z"
+      "lastUpdated": "2026-08-30T14:04:33Z"
     },
     "konkrs": {
       "counters": {
@@ -11099,7 +11100,7 @@
       "lastUpdated": "2026-08-29T14:50:02Z"
     }
   },
-  "lastUpdated": "2026-08-30T13:03:18Z",
+  "lastUpdated": "2026-08-30T13:05:10Z",
   "totalUsers": 568,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
