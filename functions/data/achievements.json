@@ -7442,7 +7442,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2141,
+        "chat": 2142,
         "points_spent": 115654,
         "sounds": 31,
         "effects": 29,
@@ -7499,7 +7499,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-05T22:09:55Z"
+      "lastUpdated": "2026-09-05T22:10:04Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10962,7 +10962,7 @@
         "points_spent": 450,
         "effects": 1,
         "follow": 1,
-        "chat": 136,
+        "chat": 137,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -10976,7 +10976,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-05T22:09:33Z"
+      "lastUpdated": "2026-09-05T22:10:04Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11167,10 +11167,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-09-05T21:07:24Z"
+    },
+    "maxxiimus1": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-09-05T22:10:16Z"
     }
   },
-  "lastUpdated": "2026-09-05T21:09:55Z",
-  "totalUsers": 571,
+  "lastUpdated": "2026-09-05T21:10:17Z",
+  "totalUsers": 572,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
