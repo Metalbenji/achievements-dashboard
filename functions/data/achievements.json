@@ -7442,7 +7442,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2140,
+        "chat": 2141,
         "points_spent": 115654,
         "sounds": 31,
         "effects": 29,
@@ -7496,9 +7496,10 @@
         "spender_platinum",
         "bday2026_attend",
         "bits_dedicated",
-        "effect_master"
+        "effect_master",
+        "night_owl"
       ],
-      "lastUpdated": "2026-09-05T21:46:38Z"
+      "lastUpdated": "2026-09-05T22:09:55Z"
     },
     "wolcenmae": {
       "counters": {
@@ -11168,7 +11169,7 @@
       "lastUpdated": "2026-09-05T21:07:24Z"
     }
   },
-  "lastUpdated": "2026-09-05T21:09:33Z",
+  "lastUpdated": "2026-09-05T21:09:55Z",
   "totalUsers": 571,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
