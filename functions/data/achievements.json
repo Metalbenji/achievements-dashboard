@@ -3240,7 +3240,7 @@
     "chevelletv": {
       "counters": {
         "follow": 1,
-        "chat": 61,
+        "chat": 67,
         "raid": 2
       },
       "unlockedAchievements": [
@@ -3253,7 +3253,7 @@
         "bday2026_attend",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-05T21:05:33Z"
+      "lastUpdated": "2026-09-05T21:09:34Z"
     },
     "devinespiritgm": {
       "counters": {
@@ -6826,16 +6826,17 @@
     "ferbee1": {
       "counters": {
         "follow": 1,
-        "chat": 21
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "night_owl"
+        "night_owl",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-05T20:59:24Z"
+      "lastUpdated": "2026-09-05T21:09:37Z"
     },
     "vishmagesty": {
       "counters": {
@@ -7233,7 +7234,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 377,
+        "chat": 378,
         "sub": 9,
         "points_spent": 12551,
         "sounds": 1,
@@ -7267,7 +7268,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-05T21:04:54Z"
+      "lastUpdated": "2026-09-05T21:07:49Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7688,7 +7689,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1686,
+        "chat": 1689,
         "points_spent": 58751,
         "screenshot": 1,
         "effects": 5,
@@ -7728,7 +7729,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-05T21:01:40Z"
+      "lastUpdated": "2026-09-05T21:08:44Z"
     },
     "wigz666": {
       "counters": {
@@ -11164,7 +11165,7 @@
       "lastUpdated": "2026-09-05T21:07:24Z"
     }
   },
-  "lastUpdated": "2026-09-05T20:07:25Z",
+  "lastUpdated": "2026-09-05T20:09:37Z",
   "totalUsers": 571,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
