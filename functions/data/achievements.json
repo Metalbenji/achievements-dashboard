@@ -1623,7 +1623,7 @@
     },
     "dmustain": {
       "counters": {
-        "chat": 256,
+        "chat": 257,
         "points_spent": 4850,
         "effects": 12,
         "follow": 1,
@@ -1647,11 +1647,11 @@
         "chat_frequent",
         "interactive_first"
       ],
-      "lastUpdated": "2026-09-05T19:07:34Z"
+      "lastUpdated": "2026-09-05T19:16:24Z"
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1739,
+        "chat": 1742,
         "points_spent": 75110,
         "effects": 47,
         "follow": 1,
@@ -1719,11 +1719,11 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-05T19:12:22Z"
+      "lastUpdated": "2026-09-05T19:17:22Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 4537,
+        "chat": 4539,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1806,7 +1806,7 @@
         "bits_regular",
         "chat_elite"
       ],
-      "lastUpdated": "2026-09-05T19:15:49Z"
+      "lastUpdated": "2026-09-05T19:17:25Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1869,7 +1869,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 807,
+        "chat": 809,
         "follow": 1,
         "sub": 43,
         "points_spent": 95350,
@@ -1912,7 +1912,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-05T17:43:55Z"
+      "lastUpdated": "2026-09-05T19:20:55Z"
     },
     "scoman07": {
       "counters": {
@@ -2633,7 +2633,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6144,
+        "chat": 6147,
         "points_spent": 164551,
         "effects": 70,
         "sub": 50,
@@ -2739,7 +2739,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-05T19:11:59Z"
+      "lastUpdated": "2026-09-05T19:17:20Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2792,7 +2792,7 @@
     "insidematt": {
       "counters": {
         "follow": 1,
-        "chat": 439,
+        "chat": 440,
         "points_spent": 27701,
         "screenshot": 1,
         "sounds": 6,
@@ -2823,7 +2823,7 @@
         "biggest_fan",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-05T19:15:45Z"
+      "lastUpdated": "2026-09-05T19:16:14Z"
     },
     "hodbroddpl": {
       "counters": {
@@ -3467,7 +3467,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2399,
+        "chat": 2403,
         "points_spent": 18851,
         "sounds": 9,
         "clips": 1,
@@ -3511,7 +3511,7 @@
         "night_owl",
         "birthday_person"
       ],
-      "lastUpdated": "2026-09-05T17:38:12Z"
+      "lastUpdated": "2026-09-05T19:20:33Z"
     },
     "maximusis_": {
       "counters": {
@@ -6430,7 +6430,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 209,
+        "chat": 211,
         "points_spent": 3401,
         "effects": 6,
         "interactive": 2,
@@ -6452,7 +6452,7 @@
         "screenshot_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-05T19:15:32Z"
+      "lastUpdated": "2026-09-05T19:21:18Z"
     },
     "vezwarmane": {
       "counters": {
@@ -7504,7 +7504,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 594,
+        "chat": 595,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7529,7 +7529,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-05T19:15:06Z"
+      "lastUpdated": "2026-09-05T19:17:00Z"
     },
     "kikinplays_": {
       "counters": {
@@ -8595,7 +8595,7 @@
     "kelpyeeee": {
       "counters": {
         "follow": 1,
-        "chat": 315,
+        "chat": 316,
         "points_spent": 600,
         "interactive": 1,
         "sub": 13,
@@ -8626,7 +8626,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-05T19:16:01Z"
+      "lastUpdated": "2026-09-05T19:16:15Z"
     },
     "eggfriedcheese": {
       "counters": {
@@ -10260,7 +10260,7 @@
         "points_spent": 34400,
         "effects": 32,
         "follow": 1,
-        "chat": 158,
+        "chat": 159,
         "gift_subs": 4,
         "bits": 100000,
         "interactive": 10,
@@ -10306,7 +10306,7 @@
         "interactive_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-05T19:09:15Z"
+      "lastUpdated": "2026-09-05T19:20:24Z"
     },
     "lokonak": {
       "counters": {
@@ -11128,18 +11128,20 @@
     "berns_ie": {
       "counters": {
         "bits": 100,
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
         "bits_tiny",
         "bits_small",
         "bits_regular",
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-05T19:16:10Z"
+      "lastUpdated": "2026-09-05T19:16:12Z"
     }
   },
-  "lastUpdated": "2026-09-05T18:16:11Z",
+  "lastUpdated": "2026-09-05T18:21:57Z",
   "totalUsers": 570,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
