@@ -1810,7 +1810,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3441,
+        "chat": 3442,
         "points_spent": 69408,
         "interactive": 60,
         "follow": 1,
@@ -1865,7 +1865,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-05T16:33:38Z"
+      "lastUpdated": "2026-09-05T19:26:53Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3467,7 +3467,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2403,
+        "chat": 2410,
         "points_spent": 18851,
         "sounds": 9,
         "clips": 1,
@@ -3511,7 +3511,7 @@
         "night_owl",
         "birthday_person"
       ],
-      "lastUpdated": "2026-09-05T19:20:33Z"
+      "lastUpdated": "2026-09-05T19:26:19Z"
     },
     "maximusis_": {
       "counters": {
@@ -6430,8 +6430,8 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 211,
-        "points_spent": 3401,
+        "chat": 223,
+        "points_spent": 3402,
         "effects": 6,
         "interactive": 2,
         "sounds": 1,
@@ -6450,9 +6450,10 @@
         "chat_regular",
         "sound_first",
         "screenshot_first",
-        "chat_frequent"
+        "chat_frequent",
+        "first_caller"
       ],
-      "lastUpdated": "2026-09-05T19:21:18Z"
+      "lastUpdated": "2026-09-05T19:27:07Z"
     },
     "vezwarmane": {
       "counters": {
@@ -7434,7 +7435,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2117,
+        "chat": 2120,
         "points_spent": 114304,
         "sounds": 31,
         "effects": 28,
@@ -7490,7 +7491,7 @@
         "bits_dedicated",
         "effect_master"
       ],
-      "lastUpdated": "2026-09-05T17:39:37Z"
+      "lastUpdated": "2026-09-05T19:24:13Z"
     },
     "wolcenmae": {
       "counters": {
@@ -7504,12 +7505,16 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 595,
+        "chat": 597,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
         "sounds": 1,
-        "effects": 1
+        "effects": 1,
+        "gift_subs": 5,
+        "gift_bombs": 1,
+        "total_gift_bomb_subs": 5,
+        "largest_gift_bomb": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -7527,9 +7532,14 @@
         "sound_first",
         "spender_iron",
         "effect_first",
-        "bday2026_attend"
+        "bday2026_attend",
+        "gift_bomb_5",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring"
       ],
-      "lastUpdated": "2026-09-05T19:17:00Z"
+      "lastUpdated": "2026-09-05T19:22:54Z"
     },
     "kikinplays_": {
       "counters": {
@@ -11141,7 +11151,7 @@
       "lastUpdated": "2026-09-05T19:16:12Z"
     }
   },
-  "lastUpdated": "2026-09-05T18:22:01Z",
+  "lastUpdated": "2026-09-05T18:27:08Z",
   "totalUsers": 570,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
