@@ -1724,7 +1724,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4553,
+        "chat": 4554,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1808,7 +1808,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-05T21:45:57Z"
+      "lastUpdated": "2026-09-05T22:10:22Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -6436,7 +6436,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 240,
+        "chat": 241,
         "points_spent": 3602,
         "effects": 7,
         "interactive": 2,
@@ -6457,9 +6457,10 @@
         "sound_first",
         "screenshot_first",
         "chat_frequent",
-        "first_caller"
+        "first_caller",
+        "night_owl"
       ],
-      "lastUpdated": "2026-09-05T19:54:25Z"
+      "lastUpdated": "2026-09-05T22:10:23Z"
     },
     "vezwarmane": {
       "counters": {
@@ -11181,7 +11182,7 @@
       "lastUpdated": "2026-09-05T22:10:17Z"
     }
   },
-  "lastUpdated": "2026-09-05T21:10:19Z",
+  "lastUpdated": "2026-09-05T21:10:23Z",
   "totalUsers": 572,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
