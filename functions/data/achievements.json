@@ -1435,7 +1435,7 @@
   "users": {
     "flaminjurr": {
       "counters": {
-        "chat": 409,
+        "chat": 411,
         "follow": 1,
         "points_spent": 20002,
         "sounds": 1
@@ -1457,7 +1457,7 @@
         "first_caller",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-05T21:46:35Z"
+      "lastUpdated": "2026-09-05T21:54:53Z"
     },
     "itzsilvah": {
       "counters": {
@@ -2495,11 +2495,11 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 131452,
+        "points_spent": 131802,
         "follow": 1,
         "chat": 1569,
         "effects": 152,
-        "screenshot": 20,
+        "screenshot": 21,
         "sounds": 7,
         "bits": 300,
         "sub": 46,
@@ -2561,7 +2561,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-05T20:54:58Z"
+      "lastUpdated": "2026-09-05T21:54:32Z"
     },
     "syn__________": {
       "counters": {
@@ -3240,7 +3240,7 @@
     "chevelletv": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 101,
         "raid": 2
       },
       "unlockedAchievements": [
@@ -3254,7 +3254,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-05T21:49:51Z"
+      "lastUpdated": "2026-09-05T21:49:54Z"
     },
     "devinespiritgm": {
       "counters": {
@@ -3471,7 +3471,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2430,
+        "chat": 2433,
         "points_spent": 20851,
         "sounds": 10,
         "clips": 1,
@@ -3516,7 +3516,7 @@
         "birthday_person",
         "gift_kind"
       ],
-      "lastUpdated": "2026-09-05T21:15:45Z"
+      "lastUpdated": "2026-09-05T22:03:28Z"
     },
     "maximusis_": {
       "counters": {
@@ -10961,7 +10961,7 @@
         "points_spent": 450,
         "effects": 1,
         "follow": 1,
-        "chat": 130,
+        "chat": 136,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -10972,9 +10972,10 @@
         "chat_talker",
         "chat_conversationalist",
         "sound_first",
-        "chat_regular"
+        "chat_regular",
+        "night_owl"
       ],
-      "lastUpdated": "2026-09-05T21:48:15Z"
+      "lastUpdated": "2026-09-05T22:09:33Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11167,7 +11168,7 @@
       "lastUpdated": "2026-09-05T21:07:24Z"
     }
   },
-  "lastUpdated": "2026-09-05T20:49:52Z",
+  "lastUpdated": "2026-09-05T21:09:33Z",
   "totalUsers": 571,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
