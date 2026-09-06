@@ -3640,7 +3640,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4949,
+        "chat": 4957,
         "sub": 54,
         "points_spent": 350,
         "screenshot": 1,
@@ -3695,7 +3695,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-06T14:01:06Z"
+      "lastUpdated": "2026-09-06T14:02:18Z"
     },
     "majesty81": {
       "counters": {
@@ -6157,13 +6157,14 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 2
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2025-08-24T12:14:00Z"
+      "lastUpdated": "2026-09-06T14:02:51Z"
     },
     "esjaytv": {
       "counters": {
@@ -9478,7 +9479,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1840,
+        "chat": 1844,
         "follow": 1,
         "points_spent": 5000,
         "effects": 11,
@@ -9506,7 +9507,7 @@
         "chat_expert",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-06T14:01:21Z"
+      "lastUpdated": "2026-09-06T14:02:36Z"
     },
     "noggen_": {
       "counters": {
@@ -11212,7 +11213,7 @@
       "lastUpdated": "2026-09-06T14:01:22Z"
     }
   },
-  "lastUpdated": "2026-09-06T13:01:23Z",
+  "lastUpdated": "2026-09-06T13:02:52Z",
   "totalUsers": 574,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
