@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 730,
+        "chat": 731,
         "points_spent": 59852,
         "follow": 1,
         "sub": 26,
@@ -1509,7 +1509,7 @@
         "spender_gold",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-09-06T13:59:51Z"
+      "lastUpdated": "2026-09-06T14:17:57Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -3565,7 +3565,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 285,
+        "chat": 287,
         "follow": 1,
         "points_spent": 2350,
         "effects": 2
@@ -3583,7 +3583,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-08-30T18:50:19Z"
+      "lastUpdated": "2026-09-06T14:18:39Z"
     },
     "justflip": {
       "counters": {
@@ -6158,14 +6158,19 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 8
+        "chat": 10,
+        "sub": 1,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "sub_tier1",
+        "sub_first_month",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-09-06T14:08:26Z"
+      "lastUpdated": "2026-09-06T14:18:56Z"
     },
     "esjaytv": {
       "counters": {
@@ -7450,7 +7455,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2149,
+        "chat": 2150,
         "points_spent": 115654,
         "sounds": 31,
         "effects": 29,
@@ -7507,7 +7512,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-06T14:07:49Z"
+      "lastUpdated": "2026-09-06T14:17:01Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9480,7 +9485,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1845,
+        "chat": 1846,
         "follow": 1,
         "points_spent": 5350,
         "effects": 11,
@@ -9508,7 +9513,7 @@
         "chat_expert",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-06T14:12:24Z"
+      "lastUpdated": "2026-09-06T14:16:45Z"
     },
     "noggen_": {
       "counters": {
@@ -11214,7 +11219,7 @@
       "lastUpdated": "2026-09-06T14:01:22Z"
     }
   },
-  "lastUpdated": "2026-09-06T13:13:46Z",
+  "lastUpdated": "2026-09-06T13:18:57Z",
   "totalUsers": 574,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
