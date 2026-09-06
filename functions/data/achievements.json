@@ -4006,9 +4006,9 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 89,
-        "points_spent": 10151,
-        "effects": 8,
+        "chat": 90,
+        "points_spent": 10351,
+        "effects": 9,
         "screenshot": 5,
         "interactive": 2,
         "sounds": 1
@@ -4031,7 +4031,7 @@
         "night_owl",
         "spender_silver"
       ],
-      "lastUpdated": "2026-09-06T14:09:33Z"
+      "lastUpdated": "2026-09-06T14:10:41Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -9480,12 +9480,12 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1844,
+        "chat": 1845,
         "follow": 1,
-        "points_spent": 5000,
+        "points_spent": 5350,
         "effects": 11,
         "interactive": 1,
-        "screenshot": 1
+        "screenshot": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9508,7 +9508,7 @@
         "chat_expert",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-06T14:02:36Z"
+      "lastUpdated": "2026-09-06T14:12:24Z"
     },
     "noggen_": {
       "counters": {
@@ -11214,7 +11214,7 @@
       "lastUpdated": "2026-09-06T14:01:22Z"
     }
   },
-  "lastUpdated": "2026-09-06T13:09:34Z",
+  "lastUpdated": "2026-09-06T13:13:45Z",
   "totalUsers": 574,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
