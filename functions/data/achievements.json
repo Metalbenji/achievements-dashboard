@@ -3640,7 +3640,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 4947,
+        "chat": 4949,
         "sub": 54,
         "points_spent": 350,
         "screenshot": 1,
@@ -3695,7 +3695,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-06T14:00:49Z"
+      "lastUpdated": "2026-09-06T14:01:06Z"
     },
     "majesty81": {
       "counters": {
@@ -9478,7 +9478,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1839,
+        "chat": 1840,
         "follow": 1,
         "points_spent": 5000,
         "effects": 11,
@@ -9506,7 +9506,7 @@
         "chat_expert",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-06T14:00:53Z"
+      "lastUpdated": "2026-09-06T14:01:21Z"
     },
     "noggen_": {
       "counters": {
@@ -10969,7 +10969,7 @@
         "points_spent": 450,
         "effects": 1,
         "follow": 1,
-        "chat": 171,
+        "chat": 172,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -10983,7 +10983,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-06T14:00:57Z"
+      "lastUpdated": "2026-09-06T14:01:10Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11202,15 +11202,17 @@
     },
     "goldzen_tv": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-06T14:00:58Z"
+      "lastUpdated": "2026-09-06T14:01:22Z"
     }
   },
-  "lastUpdated": "2026-09-06T13:00:59Z",
+  "lastUpdated": "2026-09-06T13:01:23Z",
   "totalUsers": 574,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
