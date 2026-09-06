@@ -1726,7 +1726,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4578,
+        "chat": 4579,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1810,7 +1810,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-06T13:53:22Z"
+      "lastUpdated": "2026-09-06T14:41:39Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2637,7 +2637,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6216,
+        "chat": 6218,
         "points_spent": 164552,
         "effects": 70,
         "sub": 50,
@@ -2743,7 +2743,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-06T13:21:02Z"
+      "lastUpdated": "2026-09-06T14:28:32Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6158,7 +6158,7 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 25,
         "sub": 1,
         "sub_tier": 1
       },
@@ -6168,9 +6168,10 @@
         "chat_newbie",
         "sub_tier1",
         "sub_first_month",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-06T14:18:56Z"
+      "lastUpdated": "2026-09-06T14:42:10Z"
     },
     "esjaytv": {
       "counters": {
@@ -7025,7 +7026,7 @@
       "counters": {
         "points_spent": 21464,
         "special_rewards": 1,
-        "chat": 430,
+        "chat": 432,
         "effects": 4,
         "follow": 1,
         "sub": 13
@@ -7059,7 +7060,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-23T11:11:50Z"
+      "lastUpdated": "2026-09-06T14:37:28Z"
     },
     "otocar": {
       "counters": {
@@ -9096,7 +9097,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 608,
+        "chat": 610,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9111,7 +9112,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-06T13:43:58Z"
+      "lastUpdated": "2026-09-06T14:26:43Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10973,11 +10974,11 @@
     },
     "atk_69": {
       "counters": {
-        "points_spent": 450,
+        "points_spent": 550,
         "effects": 1,
         "follow": 1,
-        "chat": 175,
-        "sounds": 1
+        "chat": 179,
+        "sounds": 2
       },
       "unlockedAchievements": [
         "effect_first",
@@ -10990,7 +10991,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-06T14:06:01Z"
+      "lastUpdated": "2026-09-06T14:33:53Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11219,7 +11220,7 @@
       "lastUpdated": "2026-09-06T14:01:22Z"
     }
   },
-  "lastUpdated": "2026-09-06T13:18:57Z",
+  "lastUpdated": "2026-09-06T13:42:11Z",
   "totalUsers": 574,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
