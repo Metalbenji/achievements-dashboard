@@ -1873,7 +1873,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 816,
+        "chat": 817,
         "follow": 1,
         "sub": 43,
         "points_spent": 95350,
@@ -1916,7 +1916,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-06T12:47:15Z"
+      "lastUpdated": "2026-09-06T13:11:06Z"
     },
     "scoman07": {
       "counters": {
@@ -3473,7 +3473,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2487,
+        "chat": 2500,
         "points_spent": 22851,
         "sounds": 11,
         "clips": 1,
@@ -3518,7 +3518,7 @@
         "birthday_person",
         "gift_kind"
       ],
-      "lastUpdated": "2026-09-06T12:59:12Z"
+      "lastUpdated": "2026-09-06T13:13:19Z"
     },
     "maximusis_": {
       "counters": {
@@ -4805,7 +4805,7 @@
       "counters": {
         "sub": 52,
         "follow": 1,
-        "chat": 1135,
+        "chat": 1141,
         "points_spent": 1253,
         "sounds": 1,
         "interactive": 1,
@@ -4849,7 +4849,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-09-06T12:58:17Z"
+      "lastUpdated": "2026-09-06T13:12:57Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -7088,7 +7088,7 @@
     },
     "legolich": {
       "counters": {
-        "chat": 124,
+        "chat": 131,
         "follow": 1,
         "points_spent": 2000,
         "effects": 1
@@ -7104,7 +7104,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-08-30T16:04:53Z"
+      "lastUpdated": "2026-09-06T13:11:43Z"
     },
     "provos": {
       "counters": {
@@ -9088,7 +9088,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 604,
+        "chat": 605,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9103,7 +9103,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-06T12:51:22Z"
+      "lastUpdated": "2026-09-06T13:01:04Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10967,7 +10967,7 @@
         "points_spent": 450,
         "effects": 1,
         "follow": 1,
-        "chat": 149,
+        "chat": 151,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -10981,7 +10981,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-06T10:43:23Z"
+      "lastUpdated": "2026-09-06T13:13:09Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11184,10 +11184,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-09-05T22:10:17Z"
+    },
+    "swiftjin": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-09-06T13:13:55Z"
     }
   },
-  "lastUpdated": "2026-09-06T12:00:51Z",
-  "totalUsers": 572,
+  "lastUpdated": "2026-09-06T12:13:56Z",
+  "totalUsers": 573,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
