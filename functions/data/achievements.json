@@ -11187,15 +11187,18 @@
     },
     "swiftjin": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-06T13:13:55Z"
+      "lastUpdated": "2026-09-06T13:15:50Z"
     }
   },
-  "lastUpdated": "2026-09-06T12:13:56Z",
+  "lastUpdated": "2026-09-06T12:15:51Z",
   "totalUsers": 573,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
