@@ -1529,7 +1529,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5804,
+        "chat": 5805,
         "points_spent": 215351,
         "effects": 28,
         "sub": 20,
@@ -1610,7 +1610,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-09-06T13:53:31Z"
+      "lastUpdated": "2026-09-06T14:08:22Z"
     },
     "celran": {
       "counters": {
@@ -4006,10 +4006,10 @@
     "thunderhowlerr": {
       "counters": {
         "follow": 1,
-        "chat": 88,
-        "points_spent": 8801,
+        "chat": 89,
+        "points_spent": 10151,
         "effects": 8,
-        "screenshot": 4,
+        "screenshot": 5,
         "interactive": 2,
         "sounds": 1
       },
@@ -4028,9 +4028,10 @@
         "interactive_first",
         "sound_first",
         "spender_iron",
-        "night_owl"
+        "night_owl",
+        "spender_silver"
       ],
-      "lastUpdated": "2026-09-05T22:21:46Z"
+      "lastUpdated": "2026-09-06T14:09:33Z"
     },
     "bubbly_pink93": {
       "counters": {
@@ -6157,14 +6158,14 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-09-06T14:02:51Z"
+      "lastUpdated": "2026-09-06T14:08:26Z"
     },
     "esjaytv": {
       "counters": {
@@ -7449,7 +7450,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2148,
+        "chat": 2149,
         "points_spent": 115654,
         "sounds": 31,
         "effects": 29,
@@ -7506,7 +7507,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-05T22:21:33Z"
+      "lastUpdated": "2026-09-06T14:07:49Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10970,7 +10971,7 @@
         "points_spent": 450,
         "effects": 1,
         "follow": 1,
-        "chat": 172,
+        "chat": 175,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -10984,7 +10985,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-06T14:01:10Z"
+      "lastUpdated": "2026-09-06T14:06:01Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11213,7 +11214,7 @@
       "lastUpdated": "2026-09-06T14:01:22Z"
     }
   },
-  "lastUpdated": "2026-09-06T13:02:52Z",
+  "lastUpdated": "2026-09-06T13:09:34Z",
   "totalUsers": 574,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
