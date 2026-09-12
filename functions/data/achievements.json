@@ -10427,7 +10427,7 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 199,
+        "chat": 200,
         "follow": 1,
         "points_spent": 2000,
         "sounds": 1
@@ -10441,9 +10441,10 @@
         "chat_conversationalist",
         "chat_regular",
         "spender_bronze",
-        "sound_first"
+        "sound_first",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T12:51:39Z"
+      "lastUpdated": "2026-09-12T12:52:07Z"
     },
     "00lemonada8": {
       "counters": {
@@ -11371,7 +11372,7 @@
       "lastUpdated": "2026-09-12T12:18:28Z"
     }
   },
-  "lastUpdated": "2026-09-12T11:51:58Z",
+  "lastUpdated": "2026-09-12T11:52:08Z",
   "totalUsers": 584,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
