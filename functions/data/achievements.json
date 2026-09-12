@@ -1726,7 +1726,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4647,
+        "chat": 4650,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1810,7 +1810,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-12T12:02:10Z"
+      "lastUpdated": "2026-09-12T12:10:51Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1873,7 +1873,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 829,
+        "chat": 830,
         "follow": 1,
         "sub": 43,
         "points_spent": 95350,
@@ -1916,7 +1916,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-12T11:24:08Z"
+      "lastUpdated": "2026-09-12T12:09:54Z"
     },
     "scoman07": {
       "counters": {
@@ -2511,7 +2511,7 @@
       "counters": {
         "points_spent": 133602,
         "follow": 1,
-        "chat": 1603,
+        "chat": 1606,
         "effects": 154,
         "screenshot": 22,
         "sounds": 7,
@@ -2575,7 +2575,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T11:54:46Z"
+      "lastUpdated": "2026-09-12T12:10:24Z"
     },
     "syn__________": {
       "counters": {
@@ -2649,7 +2649,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6310,
+        "chat": 6311,
         "points_spent": 164552,
         "effects": 70,
         "sub": 51,
@@ -2755,7 +2755,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-12T12:03:50Z"
+      "lastUpdated": "2026-09-12T12:09:57Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2844,7 +2844,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 491,
+        "chat": 493,
         "points_spent": 25750,
         "interactive": 10,
         "effects": 5,
@@ -2872,7 +2872,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-12T12:04:40Z"
+      "lastUpdated": "2026-09-12T12:10:38Z"
     },
     "qyainiana": {
       "counters": {
@@ -3487,8 +3487,8 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2808,
-        "points_spent": 24851,
+        "chat": 2814,
+        "points_spent": 26851,
         "sounds": 12,
         "clips": 1,
         "screenshot": 1,
@@ -3530,9 +3530,10 @@
         "bday2026_support",
         "night_owl",
         "birthday_person",
-        "gift_kind"
+        "gift_kind",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-09-12T12:06:29Z"
+      "lastUpdated": "2026-09-12T12:10:53Z"
     },
     "maximusis_": {
       "counters": {
@@ -9886,7 +9887,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 85,
+        "chat": 88,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -9909,7 +9910,7 @@
         "spender_bronze",
         "effect_first"
       ],
-      "lastUpdated": "2026-09-12T12:06:34Z"
+      "lastUpdated": "2026-09-12T12:08:58Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10989,7 +10990,7 @@
         "points_spent": 900,
         "effects": 2,
         "follow": 1,
-        "chat": 279,
+        "chat": 282,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -11004,7 +11005,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T12:06:23Z"
+      "lastUpdated": "2026-09-12T12:08:32Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11351,7 +11352,7 @@
       "lastUpdated": "2026-09-12T12:04:24Z"
     }
   },
-  "lastUpdated": "2026-09-12T11:06:53Z",
+  "lastUpdated": "2026-09-12T11:10:54Z",
   "totalUsers": 583,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
