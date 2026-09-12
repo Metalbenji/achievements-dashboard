@@ -7249,7 +7249,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 426,
+        "chat": 427,
         "sub": 9,
         "points_spent": 12551,
         "sounds": 1,
@@ -7283,7 +7283,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-12T10:29:32Z"
+      "lastUpdated": "2026-09-12T10:38:41Z"
     },
     "daddy0ps": {
       "counters": {
@@ -9612,7 +9612,7 @@
     },
     "llowwkey_paranoid": {
       "counters": {
-        "chat": 460,
+        "chat": 461,
         "follow": 1,
         "points_spent": 850,
         "effects": 3
@@ -9629,7 +9629,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-12T10:36:19Z"
+      "lastUpdated": "2026-09-12T10:38:57Z"
     },
     "discostarz": {
       "counters": {
@@ -11312,17 +11312,18 @@
     "jacksully21355": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-09-12T10:38:27Z"
+      "lastUpdated": "2026-09-12T10:39:07Z"
     }
   },
-  "lastUpdated": "2026-09-12T09:38:28Z",
+  "lastUpdated": "2026-09-12T09:39:08Z",
   "totalUsers": 581,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
