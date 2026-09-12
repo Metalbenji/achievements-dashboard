@@ -3489,7 +3489,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2880,
+        "chat": 2881,
         "points_spent": 26851,
         "sounds": 13,
         "clips": 1,
@@ -3535,7 +3535,7 @@
         "gift_kind",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-09-12T14:46:01Z"
+      "lastUpdated": "2026-09-12T14:46:46Z"
     },
     "maximusis_": {
       "counters": {
@@ -9520,7 +9520,8 @@
         "points_spent": 25750,
         "effects": 11,
         "interactive": 2,
-        "screenshot": 2
+        "screenshot": 2,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9542,9 +9543,11 @@
         "effect_collector",
         "chat_expert",
         "spender_iron",
-        "spender_silver"
+        "spender_silver",
+        "spender_electrum",
+        "sound_first"
       ],
-      "lastUpdated": "2026-09-12T14:46:37Z"
+      "lastUpdated": "2026-09-12T14:46:39Z"
     },
     "noggen_": {
       "counters": {
@@ -9907,7 +9910,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 106,
+        "chat": 107,
         "gift_subs": 10,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 10,
@@ -9936,7 +9939,7 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-09-12T14:45:44Z"
+      "lastUpdated": "2026-09-12T14:46:40Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11351,8 +11354,9 @@
       "counters": {
         "follow": 1,
         "chat": 57,
-        "points_spent": 1000,
-        "effects": 2
+        "points_spent": 1100,
+        "effects": 2,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -11361,9 +11365,10 @@
         "chat_talker",
         "chat_conversationalist",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first"
       ],
-      "lastUpdated": "2026-09-12T14:42:50Z"
+      "lastUpdated": "2026-09-12T14:46:52Z"
     },
     "moravianviking": {
       "counters": {
@@ -11440,7 +11445,7 @@
       "lastUpdated": "2026-09-12T14:44:13Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:46:38Z",
+  "lastUpdated": "2026-09-12T13:46:53Z",
   "totalUsers": 588,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
