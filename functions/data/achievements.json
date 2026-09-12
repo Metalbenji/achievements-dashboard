@@ -2648,7 +2648,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6245,
+        "chat": 6261,
         "points_spent": 164552,
         "effects": 70,
         "sub": 50,
@@ -2754,7 +2754,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-12T08:10:07Z"
+      "lastUpdated": "2026-09-12T08:34:03Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3485,9 +3485,9 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2619,
-        "points_spent": 22851,
-        "sounds": 11,
+        "chat": 2674,
+        "points_spent": 24851,
+        "sounds": 12,
         "clips": 1,
         "screenshot": 1,
         "sub": 22,
@@ -3530,7 +3530,7 @@
         "birthday_person",
         "gift_kind"
       ],
-      "lastUpdated": "2026-09-12T08:11:58Z"
+      "lastUpdated": "2026-09-12T08:37:37Z"
     },
     "maximusis_": {
       "counters": {
@@ -4139,7 +4139,7 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 467
+        "chat": 478
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4151,7 +4151,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-06T13:40:45Z"
+      "lastUpdated": "2026-09-12T08:37:35Z"
     },
     "akiraownz": {
       "counters": {
@@ -7262,7 +7262,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 397,
+        "chat": 409,
         "sub": 9,
         "points_spent": 12551,
         "sounds": 1,
@@ -7296,7 +7296,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-12T08:13:02Z"
+      "lastUpdated": "2026-09-12T08:37:37Z"
     },
     "daddy0ps": {
       "counters": {
@@ -8911,7 +8911,7 @@
     "zabroke": {
       "counters": {
         "follow": 1,
-        "chat": 20,
+        "chat": 21,
         "points_spent": 100,
         "sounds": 1
       },
@@ -8922,7 +8922,7 @@
         "chat_talker",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-12T08:14:03Z"
+      "lastUpdated": "2026-09-12T08:21:27Z"
     },
     "harryrice12345": {
       "counters": {
@@ -10260,7 +10260,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 588,
+        "chat": 596,
         "sub": 22,
         "points_spent": 300,
         "effects": 1,
@@ -10291,7 +10291,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-09-12T08:08:12Z"
+      "lastUpdated": "2026-09-12T08:29:28Z"
     },
     "vrishcath": {
       "counters": {
@@ -11242,16 +11242,17 @@
     "venzaal": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T08:12:45Z"
+      "lastUpdated": "2026-09-12T08:37:39Z"
     }
   },
-  "lastUpdated": "2026-09-12T07:14:04Z",
+  "lastUpdated": "2026-09-12T07:37:40Z",
   "totalUsers": 575,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
