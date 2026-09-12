@@ -2648,7 +2648,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6284,
+        "chat": 6285,
         "points_spent": 164552,
         "effects": 70,
         "sub": 51,
@@ -2754,7 +2754,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-12T10:00:40Z"
+      "lastUpdated": "2026-09-12T10:14:42Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5350,7 +5350,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 502
+        "chat": 504
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5363,7 +5363,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-12T10:07:15Z"
+      "lastUpdated": "2026-09-12T10:15:17Z"
     },
     "dinshara": {
       "counters": {
@@ -6903,20 +6903,6 @@
         "chat_newbie"
       ],
       "lastUpdated": "2025-09-14T16:30:40Z"
-    },
-    "malovanwow": {
-      "counters": {
-        "follow": 1,
-        "chat": 28
-      },
-      "unlockedAchievements": [
-        "follow_supporter",
-        "weekend_warrior",
-        "chat_newbie",
-        "chat_talker",
-        "chat_conversationalist"
-      ],
-      "lastUpdated": "2026-06-21T12:30:34Z"
     },
     "bobinzzzz": {
       "counters": {
@@ -10364,7 +10350,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 55
+        "chat": 58
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10374,7 +10360,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-06T16:46:05Z"
+      "lastUpdated": "2026-09-12T10:14:56Z"
     },
     "wild_saber1337": {
       "counters": {
@@ -11296,16 +11282,39 @@
     },
     "dragornis": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T10:13:09Z"
+      "lastUpdated": "2026-09-12T10:14:18Z"
+    },
+    "malovanw": {
+      "counters": {
+        "follow": 1,
+        "chat": 30
+      },
+      "unlockedAchievements": [
+        "follow_supporter",
+        "weekend_warrior",
+        "chat_newbie",
+        "chat_talker",
+        "chat_conversationalist"
+      ],
+      "lastUpdated": "2026-09-12T10:15:11Z"
+    },
+    "jacksully21355": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-09-12T10:15:37Z"
     }
   },
-  "lastUpdated": "2026-09-12T09:13:10Z",
-  "totalUsers": 580,
+  "lastUpdated": "2026-09-12T09:15:38Z",
+  "totalUsers": 581,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
