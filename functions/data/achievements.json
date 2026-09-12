@@ -3306,7 +3306,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2392,
+        "chat": 2393,
         "points_spent": 138101,
         "sounds": 14,
         "effects": 150,
@@ -3404,7 +3404,7 @@
         "total_donation_hero",
         "donation_caring"
       ],
-      "lastUpdated": "2026-09-12T09:11:26Z"
+      "lastUpdated": "2026-09-12T09:12:35Z"
     },
     "andilippi": {
       "counters": {
@@ -6460,7 +6460,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 359,
+        "chat": 361,
         "points_spent": 4603,
         "effects": 7,
         "interactive": 2,
@@ -6485,7 +6485,7 @@
         "night_owl",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-12T09:11:35Z"
+      "lastUpdated": "2026-09-12T09:12:19Z"
     },
     "vezwarmane": {
       "counters": {
@@ -11253,15 +11253,17 @@
     },
     "daisie_does": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T09:12:15Z"
+      "lastUpdated": "2026-09-12T09:12:37Z"
     }
   },
-  "lastUpdated": "2026-09-12T08:12:17Z",
+  "lastUpdated": "2026-09-12T08:12:38Z",
   "totalUsers": 576,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
