@@ -1726,7 +1726,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4654,
+        "chat": 4655,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1810,7 +1810,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-12T12:15:53Z"
+      "lastUpdated": "2026-09-12T12:18:20Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2511,7 +2511,7 @@
       "counters": {
         "points_spent": 133602,
         "follow": 1,
-        "chat": 1613,
+        "chat": 1615,
         "effects": 154,
         "screenshot": 22,
         "sounds": 7,
@@ -2575,7 +2575,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T12:16:00Z"
+      "lastUpdated": "2026-09-12T12:18:03Z"
     },
     "syn__________": {
       "counters": {
@@ -3487,7 +3487,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2819,
+        "chat": 2821,
         "points_spent": 26851,
         "sounds": 13,
         "clips": 1,
@@ -3533,7 +3533,7 @@
         "gift_kind",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-09-12T12:15:44Z"
+      "lastUpdated": "2026-09-12T12:18:03Z"
     },
     "maximusis_": {
       "counters": {
@@ -3655,7 +3655,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5027,
+        "chat": 5028,
         "sub": 54,
         "points_spent": 350,
         "screenshot": 1,
@@ -3710,7 +3710,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-12T12:00:44Z"
+      "lastUpdated": "2026-09-12T12:17:25Z"
     },
     "majesty81": {
       "counters": {
@@ -9027,7 +9027,7 @@
         "points_spent": 4850,
         "effects": 9,
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "screenshot": 1
       },
       "unlockedAchievements": [
@@ -9039,7 +9039,7 @@
         "screenshot_first",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-12T10:36:49Z"
+      "lastUpdated": "2026-09-12T12:17:27Z"
     },
     "s0fde": {
       "counters": {
@@ -9496,7 +9496,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1912,
+        "chat": 1914,
         "follow": 1,
         "points_spent": 5750,
         "effects": 11,
@@ -9524,7 +9524,7 @@
         "chat_expert",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-12T12:15:22Z"
+      "lastUpdated": "2026-09-12T12:18:01Z"
     },
     "noggen_": {
       "counters": {
@@ -9820,7 +9820,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2269,
+        "chat": 2270,
         "points_spent": 70752,
         "sounds": 4,
         "sub": 32,
@@ -9868,7 +9868,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-09-06T17:22:23Z"
+      "lastUpdated": "2026-09-12T12:17:10Z"
     },
     "infincible": {
       "counters": {
@@ -11295,12 +11295,13 @@
     },
     "dragornis": {
       "counters": {
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T10:18:30Z"
+      "lastUpdated": "2026-09-12T12:18:36Z"
     },
     "malovanw": {
       "counters": {
@@ -11343,28 +11344,28 @@
     "doobieden": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T12:16:18Z"
+      "lastUpdated": "2026-09-12T12:17:56Z"
     },
     "enzi86": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T12:16:21Z"
+      "lastUpdated": "2026-09-12T12:18:28Z"
     }
   },
-  "lastUpdated": "2026-09-12T11:16:22Z",
+  "lastUpdated": "2026-09-12T11:18:37Z",
   "totalUsers": 584,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
