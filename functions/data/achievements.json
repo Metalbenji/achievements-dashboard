@@ -7256,7 +7256,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 436,
+        "chat": 437,
         "sub": 9,
         "points_spent": 12551,
         "sounds": 1,
@@ -7303,7 +7303,7 @@
         "gift_champion",
         "gift_hero"
       ],
-      "lastUpdated": "2026-09-12T14:41:20Z"
+      "lastUpdated": "2026-09-12T14:42:22Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7725,7 +7725,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1722,
+        "chat": 1723,
         "points_spent": 59151,
         "screenshot": 1,
         "effects": 5,
@@ -7765,7 +7765,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:42:16Z"
+      "lastUpdated": "2026-09-12T14:42:45Z"
     },
     "wigz666": {
       "counters": {
@@ -9515,7 +9515,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1938,
+        "chat": 1939,
         "follow": 1,
         "points_spent": 5750,
         "effects": 11,
@@ -9543,7 +9543,7 @@
         "chat_expert",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-12T14:28:48Z"
+      "lastUpdated": "2026-09-12T14:42:43Z"
     },
     "noggen_": {
       "counters": {
@@ -11350,7 +11350,7 @@
       "counters": {
         "follow": 1,
         "chat": 57,
-        "points_spent": 650,
+        "points_spent": 1000,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -11359,9 +11359,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-09-12T14:36:16Z"
+      "lastUpdated": "2026-09-12T14:42:48Z"
     },
     "moravianviking": {
       "counters": {
@@ -11420,24 +11421,24 @@
     },
     "kulgurae": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T14:42:05Z"
+      "lastUpdated": "2026-09-12T14:42:24Z"
     },
     "hotstitute": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T14:42:18Z"
+      "lastUpdated": "2026-09-12T14:42:46Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:42:19Z",
+  "lastUpdated": "2026-09-12T13:42:49Z",
   "totalUsers": 588,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
