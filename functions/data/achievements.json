@@ -1726,7 +1726,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4626,
+        "chat": 4627,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1810,7 +1810,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-12T10:36:24Z"
+      "lastUpdated": "2026-09-12T10:38:14Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -7791,7 +7791,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 253,
+        "chat": 254,
         "points_spent": 20000,
         "sounds": 1,
         "clips": 2
@@ -7811,7 +7811,7 @@
         "clip_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T10:37:28Z"
+      "lastUpdated": "2026-09-12T10:38:13Z"
     },
     "anumra": {
       "counters": {
@@ -11230,7 +11230,7 @@
     "venzaal": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 11,
         "points_spent": 2000,
         "sounds": 1
       },
@@ -11242,7 +11242,7 @@
         "sound_first",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-12T10:38:11Z"
+      "lastUpdated": "2026-09-12T10:38:14Z"
     },
     "daisie_does": {
       "counters": {
@@ -11312,16 +11312,17 @@
     "jacksully21355": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T10:34:44Z"
+      "lastUpdated": "2026-09-12T10:38:27Z"
     }
   },
-  "lastUpdated": "2026-09-12T09:38:12Z",
+  "lastUpdated": "2026-09-12T09:38:28Z",
   "totalUsers": 581,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
