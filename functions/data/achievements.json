@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3515,
+        "chat": 3517,
         "points_spent": 70308,
         "interactive": 62,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-12T12:27:44Z"
+      "lastUpdated": "2026-09-12T12:28:19Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3307,7 +3307,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2402,
+        "chat": 2403,
         "points_spent": 138101,
         "sounds": 14,
         "effects": 150,
@@ -3405,7 +3405,7 @@
         "total_donation_hero",
         "donation_caring"
       ],
-      "lastUpdated": "2026-09-12T12:27:21Z"
+      "lastUpdated": "2026-09-12T12:28:59Z"
     },
     "andilippi": {
       "counters": {
@@ -9470,7 +9470,7 @@
       "counters": {
         "chat": 23,
         "follow": 1,
-        "points_spent": 500,
+        "points_spent": 1150,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -9478,9 +9478,10 @@
         "follow_supporter",
         "chat_newbie",
         "chat_talker",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-09-12T12:28:01Z"
+      "lastUpdated": "2026-09-12T12:29:05Z"
     },
     "philpseyforce": {
       "counters": {
@@ -11369,7 +11370,7 @@
       "lastUpdated": "2026-09-12T12:18:28Z"
     }
   },
-  "lastUpdated": "2026-09-12T11:28:02Z",
+  "lastUpdated": "2026-09-12T11:29:05Z",
   "totalUsers": 584,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
