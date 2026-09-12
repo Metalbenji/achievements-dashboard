@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1782,
+        "chat": 1783,
         "points_spent": 75110,
         "effects": 47,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T13:53:17Z"
+      "lastUpdated": "2026-09-12T13:53:44Z"
     },
     "ramdon101": {
       "counters": {
@@ -2649,7 +2649,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6315,
+        "chat": 6316,
         "points_spent": 164552,
         "effects": 70,
         "sub": 51,
@@ -2755,7 +2755,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-12T13:51:33Z"
+      "lastUpdated": "2026-09-12T13:53:43Z"
     },
     "purgemonster91": {
       "counters": {
@@ -11376,15 +11376,17 @@
     },
     "jerexix": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T13:53:27Z"
+      "lastUpdated": "2026-09-12T13:53:55Z"
     }
   },
-  "lastUpdated": "2026-09-12T12:53:29Z",
+  "lastUpdated": "2026-09-12T12:53:56Z",
   "totalUsers": 585,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
