@@ -1726,7 +1726,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4653,
+        "chat": 4654,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1810,7 +1810,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-12T12:15:34Z"
+      "lastUpdated": "2026-09-12T12:15:53Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2511,7 +2511,7 @@
       "counters": {
         "points_spent": 133602,
         "follow": 1,
-        "chat": 1612,
+        "chat": 1613,
         "effects": 154,
         "screenshot": 22,
         "sounds": 7,
@@ -2575,7 +2575,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T12:15:41Z"
+      "lastUpdated": "2026-09-12T12:16:00Z"
     },
     "syn__________": {
       "counters": {
@@ -9600,7 +9600,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 582,
+        "chat": 586,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9613,7 +9613,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-12T12:14:44Z"
+      "lastUpdated": "2026-09-12T12:16:16Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -11319,7 +11319,7 @@
     "jacksully21355": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 30,
         "points_spent": 300
       },
       "unlockedAchievements": [
@@ -11329,7 +11329,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-12T11:52:54Z"
+      "lastUpdated": "2026-09-12T12:16:16Z"
     },
     "moravianviking": {
       "counters": {
@@ -11343,13 +11343,14 @@
     "doobieden": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T12:04:24Z"
+      "lastUpdated": "2026-09-12T12:16:18Z"
     },
     "enzi86": {
       "counters": {
@@ -11361,7 +11362,7 @@
       "lastUpdated": "2026-09-12T12:15:44Z"
     }
   },
-  "lastUpdated": "2026-09-12T11:15:46Z",
+  "lastUpdated": "2026-09-12T11:16:19Z",
   "totalUsers": 584,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
