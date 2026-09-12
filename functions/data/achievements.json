@@ -7725,7 +7725,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1718,
+        "chat": 1722,
         "points_spent": 59151,
         "screenshot": 1,
         "effects": 5,
@@ -7765,7 +7765,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:41:52Z"
+      "lastUpdated": "2026-09-12T14:42:16Z"
     },
     "wigz666": {
       "counters": {
@@ -11426,10 +11426,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-09-12T14:42:05Z"
+    },
+    "hotstitute": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-12T14:42:18Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:42:05Z",
-  "totalUsers": 587,
+  "lastUpdated": "2026-09-12T13:42:19Z",
+  "totalUsers": 588,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
