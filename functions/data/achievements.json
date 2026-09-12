@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3526,
+        "chat": 3528,
         "points_spent": 70308,
         "interactive": 62,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-12T14:33:45Z"
+      "lastUpdated": "2026-09-12T14:34:33Z"
     },
     "aladderinsane": {
       "counters": {
@@ -9891,10 +9891,10 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 101,
-        "gift_subs": 5,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 5,
+        "chat": 102,
+        "gift_subs": 10,
+        "gift_bombs": 2,
+        "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 5,
         "points_spent": 4000,
         "effects": 2,
@@ -9913,9 +9913,11 @@
         "chat_conversationalist",
         "spender_bronze",
         "effect_first",
-        "chat_regular"
+        "chat_regular",
+        "gift_thoughtful",
+        "gift_supporter"
       ],
-      "lastUpdated": "2026-09-12T14:32:36Z"
+      "lastUpdated": "2026-09-12T14:34:53Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11397,7 +11399,7 @@
       "lastUpdated": "2026-09-12T14:30:08Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:34:00Z",
+  "lastUpdated": "2026-09-12T13:35:18Z",
   "totalUsers": 586,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
