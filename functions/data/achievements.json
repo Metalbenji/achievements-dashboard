@@ -2476,9 +2476,9 @@
     "redunt86": {
       "counters": {
         "follow": 1,
-        "chat": 1286,
-        "points_spent": 15650,
-        "effects": 30,
+        "chat": 1295,
+        "points_spent": 16450,
+        "effects": 31,
         "sounds": 5,
         "interactive": 1
       },
@@ -2504,7 +2504,7 @@
         "spender_iron",
         "effect_master"
       ],
-      "lastUpdated": "2026-07-19T11:52:43Z"
+      "lastUpdated": "2026-09-12T10:11:56Z"
     },
     "oxmacerxo": {
       "counters": {
@@ -2648,7 +2648,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6283,
+        "chat": 6284,
         "points_spent": 164552,
         "effects": 70,
         "sub": 51,
@@ -2754,7 +2754,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-12T09:47:14Z"
+      "lastUpdated": "2026-09-12T10:00:40Z"
     },
     "purgemonster91": {
       "counters": {
@@ -2996,7 +2996,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1129,
+        "chat": 1131,
         "sub": 45,
         "points_spent": 49151,
         "interactive": 4,
@@ -3076,7 +3076,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-09-12T09:51:56Z"
+      "lastUpdated": "2026-09-12T10:07:15Z"
     },
     "umenneske94": {
       "counters": {
@@ -5350,7 +5350,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 496
+        "chat": 502
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5363,7 +5363,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-06T10:47:00Z"
+      "lastUpdated": "2026-09-12T10:07:15Z"
     },
     "dinshara": {
       "counters": {
@@ -7805,7 +7805,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 246,
+        "chat": 248,
         "points_spent": 20000,
         "sounds": 1,
         "clips": 2
@@ -7825,7 +7825,7 @@
         "clip_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T09:50:21Z"
+      "lastUpdated": "2026-09-12T10:09:27Z"
     },
     "anumra": {
       "counters": {
@@ -11286,17 +11286,26 @@
     "pur3chops": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T09:59:21Z"
+      "lastUpdated": "2026-09-12T10:03:24Z"
+    },
+    "dragornis": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-12T10:13:09Z"
     }
   },
-  "lastUpdated": "2026-09-12T08:59:22Z",
-  "totalUsers": 579,
+  "lastUpdated": "2026-09-12T09:13:10Z",
+  "totalUsers": 580,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
