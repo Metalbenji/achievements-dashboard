@@ -9040,7 +9040,7 @@
     "slojdmajjen": {
       "counters": {
         "points_spent": 5200,
-        "effects": 9,
+        "effects": 10,
         "follow": 1,
         "chat": 12,
         "screenshot": 1
@@ -9053,9 +9053,10 @@
         "spender_bronze",
         "screenshot_first",
         "chat_talker",
-        "spender_iron"
+        "spender_iron",
+        "effect_collector"
       ],
-      "lastUpdated": "2026-09-12T15:38:39Z"
+      "lastUpdated": "2026-09-12T15:38:40Z"
     },
     "s0fde": {
       "counters": {
@@ -11451,15 +11452,17 @@
     },
     "moonbeans3": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T15:38:28Z"
+      "lastUpdated": "2026-09-12T15:38:41Z"
     }
   },
-  "lastUpdated": "2026-09-12T14:38:39Z",
+  "lastUpdated": "2026-09-12T14:38:42Z",
   "totalUsers": 589,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
