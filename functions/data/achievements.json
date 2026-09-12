@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1807,
+        "chat": 1808,
         "points_spent": 76410,
         "effects": 48,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:52:28Z"
+      "lastUpdated": "2026-09-12T14:55:43Z"
     },
     "ramdon101": {
       "counters": {
@@ -3307,7 +3307,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2408,
+        "chat": 2410,
         "points_spent": 139401,
         "sounds": 14,
         "effects": 152,
@@ -3407,7 +3407,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-12T14:53:30Z"
+      "lastUpdated": "2026-09-12T15:04:15Z"
     },
     "andilippi": {
       "counters": {
@@ -3489,7 +3489,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2898,
+        "chat": 2925,
         "points_spent": 27201,
         "sounds": 13,
         "clips": 1,
@@ -3535,7 +3535,7 @@
         "gift_kind",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-09-12T14:54:33Z"
+      "lastUpdated": "2026-09-12T15:04:11Z"
     },
     "maximusis_": {
       "counters": {
@@ -3853,11 +3853,11 @@
     "earthkrigare": {
       "counters": {
         "follow": 1,
-        "chat": 302,
+        "chat": 304,
         "points_spent": 2350,
         "effects": 1,
         "sounds": 1,
-        "raid": 6
+        "raid": 7
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3875,7 +3875,7 @@
         "raid_tier2_seasoned",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-08-23T15:10:31Z"
+      "lastUpdated": "2026-09-12T15:03:57Z"
     },
     "vincent_mchale": {
       "counters": {
@@ -9515,7 +9515,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1945,
+        "chat": 1946,
         "follow": 1,
         "points_spent": 26150,
         "effects": 11,
@@ -9547,7 +9547,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-12T14:54:02Z"
+      "lastUpdated": "2026-09-12T15:03:20Z"
     },
     "noggen_": {
       "counters": {
@@ -9623,7 +9623,7 @@
     },
     "tulhur": {
       "counters": {
-        "chat": 586,
+        "chat": 590,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9636,7 +9636,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-12T12:16:16Z"
+      "lastUpdated": "2026-09-12T15:00:35Z"
     },
     "llowwkey_paranoid": {
       "counters": {
@@ -9682,15 +9682,6 @@
         "chat_newbie"
       ],
       "lastUpdated": "2026-08-08T15:04:59Z"
-    },
-    "tulie_kraa": {
-      "counters": {
-        "chat": 1
-      },
-      "unlockedAchievements": [
-        "weekend_warrior"
-      ],
-      "lastUpdated": "2026-05-24T15:09:03Z"
     },
     "grave607": {
       "counters": {
@@ -9915,7 +9906,7 @@
         "gift_bombs": 2,
         "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 5,
-        "points_spent": 4000,
+        "points_spent": 6000,
         "effects": 2,
         "bits": 101
       },
@@ -9937,9 +9928,10 @@
         "gift_supporter",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-09-12T14:51:58Z"
+      "lastUpdated": "2026-09-12T15:04:15Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10110,7 +10102,7 @@
     },
     "jafewafe": {
       "counters": {
-        "chat": 65,
+        "chat": 66,
         "follow": 1,
         "points_spent": 300,
         "effects": 1,
@@ -10130,7 +10122,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-08-23T15:08:28Z"
+      "lastUpdated": "2026-09-12T15:03:38Z"
     },
     "durindur": {
       "counters": {
@@ -11317,7 +11309,7 @@
     "pur3chops": {
       "counters": {
         "follow": 1,
-        "chat": 10
+        "chat": 11
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -11325,7 +11317,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-12T14:54:44Z"
+      "lastUpdated": "2026-09-12T14:54:47Z"
     },
     "dragornis": {
       "counters": {
@@ -11355,7 +11347,7 @@
       "counters": {
         "follow": 1,
         "chat": 58,
-        "points_spent": 1600,
+        "points_spent": 1950,
         "effects": 2,
         "sounds": 2
       },
@@ -11369,7 +11361,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-12T14:52:33Z"
+      "lastUpdated": "2026-09-12T14:55:08Z"
     },
     "moravianviking": {
       "counters": {
@@ -11437,16 +11429,25 @@
     },
     "hotstitute": {
       "counters": {
-        "chat": 5
+        "chat": 6
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T14:44:13Z"
+      "lastUpdated": "2026-09-12T15:03:26Z"
+    },
+    "uednaueda": {
+      "counters": {
+        "chat": 3
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-12T15:04:09Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:54:45Z",
+  "lastUpdated": "2026-09-12T14:04:16Z",
   "totalUsers": 588,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
