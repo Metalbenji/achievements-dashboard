@@ -10988,7 +10988,7 @@
         "points_spent": 900,
         "effects": 2,
         "follow": 1,
-        "chat": 273,
+        "chat": 274,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -11003,7 +11003,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T11:58:56Z"
+      "lastUpdated": "2026-09-12T11:59:24Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11340,15 +11340,17 @@
     },
     "doobieden": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-12T11:59:08Z"
+      "lastUpdated": "2026-09-12T11:59:26Z"
     }
   },
-  "lastUpdated": "2026-09-12T10:59:09Z",
+  "lastUpdated": "2026-09-12T10:59:27Z",
   "totalUsers": 583,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
