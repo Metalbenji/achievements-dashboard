@@ -2648,7 +2648,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6244,
+        "chat": 6245,
         "points_spent": 164552,
         "effects": 70,
         "sub": 50,
@@ -2754,7 +2754,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-06T16:11:42Z"
+      "lastUpdated": "2026-09-12T08:10:07Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3485,7 +3485,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2616,
+        "chat": 2619,
         "points_spent": 22851,
         "sounds": 11,
         "clips": 1,
@@ -3530,7 +3530,7 @@
         "birthday_person",
         "gift_kind"
       ],
-      "lastUpdated": "2026-09-06T15:47:40Z"
+      "lastUpdated": "2026-09-12T08:11:58Z"
     },
     "maximusis_": {
       "counters": {
@@ -7262,7 +7262,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 391,
+        "chat": 393,
         "sub": 9,
         "points_spent": 12551,
         "sounds": 1,
@@ -7296,7 +7296,7 @@
         "birthday_person",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-06T17:11:20Z"
+      "lastUpdated": "2026-09-12T08:11:55Z"
     },
     "daddy0ps": {
       "counters": {
@@ -10257,7 +10257,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 587,
+        "chat": 588,
         "sub": 22,
         "points_spent": 300,
         "effects": 1,
@@ -10288,7 +10288,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-09-05T22:11:09Z"
+      "lastUpdated": "2026-09-12T08:08:12Z"
     },
     "vrishcath": {
       "counters": {
@@ -10308,7 +10308,7 @@
         "points_spent": 34750,
         "effects": 33,
         "follow": 1,
-        "chat": 200,
+        "chat": 223,
         "gift_subs": 4,
         "bits": 100000,
         "interactive": 10,
@@ -10355,7 +10355,7 @@
         "night_owl",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-07T21:29:43Z"
+      "lastUpdated": "2026-09-08T12:28:04Z"
     },
     "lokonak": {
       "counters": {
@@ -11235,10 +11235,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-09-06T14:01:22Z"
+    },
+    "venzaal": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-09-12T08:12:43Z"
     }
   },
-  "lastUpdated": "2026-09-07T20:29:44Z",
-  "totalUsers": 574,
+  "lastUpdated": "2026-09-12T07:12:45Z",
+  "totalUsers": 575,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
