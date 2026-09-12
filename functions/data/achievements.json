@@ -1959,7 +1959,7 @@
       "counters": {
         "points_spent": 7600,
         "effects": 10,
-        "chat": 211,
+        "chat": 212,
         "sounds": 1,
         "follow": 1
       },
@@ -1980,7 +1980,7 @@
         "effect_collector",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T14:30:18Z"
+      "lastUpdated": "2026-09-12T14:35:47Z"
     },
     "hairypawter": {
       "counters": {
@@ -3315,9 +3315,9 @@
         "bits": 13574,
         "interactive": 9,
         "screenshot": 12,
-        "gift_subs": 347,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 345,
+        "gift_subs": 529,
+        "gift_bombs": 2,
+        "total_gift_bomb_subs": 527,
         "largest_gift_bomb": 345,
         "clips": 2,
         "sub_tier": 2,
@@ -3403,9 +3403,11 @@
         "bday2026_support",
         "donation_kind",
         "total_donation_hero",
-        "donation_caring"
+        "donation_caring",
+        "gift_bomb_75",
+        "gift_deity"
       ],
-      "lastUpdated": "2026-09-12T14:35:28Z"
+      "lastUpdated": "2026-09-12T14:35:43Z"
     },
     "andilippi": {
       "counters": {
@@ -9904,7 +9906,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 103,
+        "chat": 104,
         "gift_subs": 10,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 10,
@@ -9930,7 +9932,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-09-12T14:35:28Z"
+      "lastUpdated": "2026-09-12T14:35:46Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11344,17 +11346,19 @@
     "jacksully21355": {
       "counters": {
         "follow": 1,
-        "chat": 56,
-        "points_spent": 300
+        "chat": 57,
+        "points_spent": 650,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2026-09-12T14:30:55Z"
+      "lastUpdated": "2026-09-12T14:36:16Z"
     },
     "moravianviking": {
       "counters": {
@@ -11412,7 +11416,7 @@
       "lastUpdated": "2026-09-12T14:30:08Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:35:44Z",
+  "lastUpdated": "2026-09-12T13:36:19Z",
   "totalUsers": 586,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
