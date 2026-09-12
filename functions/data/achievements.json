@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3553,
+        "chat": 3554,
         "points_spent": 70308,
         "interactive": 62,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-12T15:37:30Z"
+      "lastUpdated": "2026-09-12T15:38:32Z"
     },
     "aladderinsane": {
       "counters": {
@@ -9039,7 +9039,7 @@
     },
     "slojdmajjen": {
       "counters": {
-        "points_spent": 4850,
+        "points_spent": 5200,
         "effects": 9,
         "follow": 1,
         "chat": 12,
@@ -9052,9 +9052,10 @@
         "chat_newbie",
         "spender_bronze",
         "screenshot_first",
-        "chat_talker"
+        "chat_talker",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-09-12T13:35:03Z"
+      "lastUpdated": "2026-09-12T15:38:39Z"
     },
     "s0fde": {
       "counters": {
@@ -9515,7 +9516,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1967,
+        "chat": 1968,
         "follow": 1,
         "points_spent": 26650,
         "effects": 11,
@@ -9547,7 +9548,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-12T15:38:19Z"
+      "lastUpdated": "2026-09-12T15:38:34Z"
     },
     "noggen_": {
       "counters": {
@@ -11458,7 +11459,7 @@
       "lastUpdated": "2026-09-12T15:38:28Z"
     }
   },
-  "lastUpdated": "2026-09-12T14:38:29Z",
+  "lastUpdated": "2026-09-12T14:38:39Z",
   "totalUsers": 589,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
