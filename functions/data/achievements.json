@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1804,
+        "chat": 1806,
         "points_spent": 75110,
         "effects": 47,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:43:32Z"
+      "lastUpdated": "2026-09-12T14:45:08Z"
     },
     "ramdon101": {
       "counters": {
@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3528,
+        "chat": 3533,
         "points_spent": 70308,
         "interactive": 62,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-12T14:34:33Z"
+      "lastUpdated": "2026-09-12T14:46:18Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3489,7 +3489,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2876,
+        "chat": 2880,
         "points_spent": 26851,
         "sounds": 13,
         "clips": 1,
@@ -3535,7 +3535,7 @@
         "gift_kind",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-09-12T14:43:46Z"
+      "lastUpdated": "2026-09-12T14:46:01Z"
     },
     "maximusis_": {
       "counters": {
@@ -3657,7 +3657,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5060,
+        "chat": 5063,
         "sub": 54,
         "points_spent": 350,
         "screenshot": 1,
@@ -3712,7 +3712,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-12T13:55:48Z"
+      "lastUpdated": "2026-09-12T14:46:34Z"
     },
     "majesty81": {
       "counters": {
@@ -5260,7 +5260,7 @@
     "faelora": {
       "counters": {
         "follow": 1,
-        "chat": 434,
+        "chat": 437,
         "sub": 12
       },
       "unlockedAchievements": [
@@ -5285,7 +5285,7 @@
         "bday2026_attend",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-12T14:43:58Z"
+      "lastUpdated": "2026-09-12T14:45:59Z"
     },
     "auriaya__": {
       "counters": {
@@ -7256,7 +7256,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 438,
+        "chat": 441,
         "sub": 9,
         "points_spent": 13551,
         "sounds": 1,
@@ -7303,7 +7303,7 @@
         "gift_champion",
         "gift_hero"
       ],
-      "lastUpdated": "2026-09-12T14:44:09Z"
+      "lastUpdated": "2026-09-12T14:46:23Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7725,7 +7725,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1728,
+        "chat": 1729,
         "points_spent": 59151,
         "screenshot": 1,
         "effects": 5,
@@ -7765,7 +7765,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:44:10Z"
+      "lastUpdated": "2026-09-12T14:45:33Z"
     },
     "wigz666": {
       "counters": {
@@ -9515,9 +9515,9 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 1940,
+        "chat": 1944,
         "follow": 1,
-        "points_spent": 5750,
+        "points_spent": 25750,
         "effects": 11,
         "interactive": 2,
         "screenshot": 2
@@ -9541,9 +9541,10 @@
         "screenshot_first",
         "effect_collector",
         "chat_expert",
-        "spender_iron"
+        "spender_iron",
+        "spender_silver"
       ],
-      "lastUpdated": "2026-09-12T14:42:50Z"
+      "lastUpdated": "2026-09-12T14:46:37Z"
     },
     "noggen_": {
       "counters": {
@@ -9906,7 +9907,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 105,
+        "chat": 106,
         "gift_subs": 10,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 10,
@@ -9935,7 +9936,7 @@
         "bits_small",
         "bits_regular"
       ],
-      "lastUpdated": "2026-09-12T14:41:54Z"
+      "lastUpdated": "2026-09-12T14:45:44Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10278,7 +10279,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 621,
+        "chat": 623,
         "sub": 22,
         "points_spent": 300,
         "effects": 1,
@@ -10309,7 +10310,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-09-12T14:44:01Z"
+      "lastUpdated": "2026-09-12T14:45:50Z"
     },
     "vrishcath": {
       "counters": {
@@ -11439,7 +11440,7 @@
       "lastUpdated": "2026-09-12T14:44:13Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:44:14Z",
+  "lastUpdated": "2026-09-12T13:46:38Z",
   "totalUsers": 588,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
