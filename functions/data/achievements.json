@@ -1726,7 +1726,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4667,
+        "chat": 4668,
         "points_spent": 250353,
         "screenshot": 4,
         "follow": 1,
@@ -1810,7 +1810,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-12T14:16:38Z"
+      "lastUpdated": "2026-09-12T14:41:53Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3307,7 +3307,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2405,
+        "chat": 2406,
         "points_spent": 138601,
         "sounds": 14,
         "effects": 151,
@@ -3407,7 +3407,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-12T14:35:43Z"
+      "lastUpdated": "2026-09-12T14:41:29Z"
     },
     "andilippi": {
       "counters": {
@@ -3489,7 +3489,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 2873,
+        "chat": 2875,
         "points_spent": 26851,
         "sounds": 13,
         "clips": 1,
@@ -3535,7 +3535,7 @@
         "gift_kind",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-09-12T14:17:00Z"
+      "lastUpdated": "2026-09-12T14:41:21Z"
     },
     "maximusis_": {
       "counters": {
@@ -7256,7 +7256,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 435,
+        "chat": 436,
         "sub": 9,
         "points_spent": 12551,
         "sounds": 1,
@@ -7303,7 +7303,7 @@
         "gift_champion",
         "gift_hero"
       ],
-      "lastUpdated": "2026-09-12T14:41:02Z"
+      "lastUpdated": "2026-09-12T14:41:20Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7725,7 +7725,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1715,
+        "chat": 1718,
         "points_spent": 59151,
         "screenshot": 1,
         "effects": 5,
@@ -7765,7 +7765,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:33:46Z"
+      "lastUpdated": "2026-09-12T14:41:52Z"
     },
     "wigz666": {
       "counters": {
@@ -9906,14 +9906,14 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 104,
+        "chat": 105,
         "gift_subs": 10,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 10,
         "largest_gift_bomb": 5,
         "points_spent": 4000,
         "effects": 2,
-        "bits": 1
+        "bits": 101
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9930,9 +9930,12 @@
         "effect_first",
         "chat_regular",
         "gift_thoughtful",
-        "gift_supporter"
+        "gift_supporter",
+        "bits_tiny",
+        "bits_small",
+        "bits_regular"
       ],
-      "lastUpdated": "2026-09-12T14:35:46Z"
+      "lastUpdated": "2026-09-12T14:41:54Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11414,10 +11417,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-09-12T14:30:08Z"
+    },
+    "kulgurae": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-12T14:42:05Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:41:17Z",
-  "totalUsers": 586,
+  "lastUpdated": "2026-09-12T13:42:05Z",
+  "totalUsers": 587,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
