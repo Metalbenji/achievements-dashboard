@@ -3454,7 +3454,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 212,
+        "chat": 213,
         "points_spent": 10350,
         "sub": 16,
         "effects": 1
@@ -3481,7 +3481,7 @@
         "effect_first",
         "spender_silver"
       ],
-      "lastUpdated": "2026-09-12T09:43:45Z"
+      "lastUpdated": "2026-09-12T09:44:11Z"
     },
     "chadrestricted": {
       "counters": {
@@ -4157,7 +4157,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 176
+        "chat": 177
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4168,7 +4168,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-12T09:43:39Z"
+      "lastUpdated": "2026-09-12T09:44:23Z"
     },
     "arpi_89": {
       "counters": {
@@ -4220,7 +4220,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 608,
+        "chat": 609,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -4249,7 +4249,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-12T09:43:35Z"
+      "lastUpdated": "2026-09-12T09:44:06Z"
     },
     "mulquero": {
       "counters": {
@@ -6680,7 +6680,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 551,
+        "chat": 552,
         "follow": 1,
         "points_spent": 48200,
         "sounds": 2,
@@ -6708,7 +6708,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-12T09:33:21Z"
+      "lastUpdated": "2026-09-12T09:44:30Z"
     },
     "sagegaming9": {
       "counters": {
@@ -7805,7 +7805,7 @@
     "spoono_tv": {
       "counters": {
         "follow": 1,
-        "chat": 243,
+        "chat": 244,
         "points_spent": 20000,
         "sounds": 1,
         "clips": 2
@@ -7825,7 +7825,7 @@
         "clip_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T09:41:37Z"
+      "lastUpdated": "2026-09-12T09:44:02Z"
     },
     "anumra": {
       "counters": {
@@ -11271,10 +11271,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-09-12T09:25:36Z"
+    },
+    "rebel_bandit66": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-09-12T09:44:42Z"
     }
   },
-  "lastUpdated": "2026-09-12T08:43:45Z",
-  "totalUsers": 577,
+  "lastUpdated": "2026-09-12T08:44:43Z",
+  "totalUsers": 578,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
