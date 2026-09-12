@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1795,
+        "chat": 1798,
         "points_spent": 75110,
         "effects": 47,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:16:52Z"
+      "lastUpdated": "2026-09-12T14:33:58Z"
     },
     "ramdon101": {
       "counters": {
@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3523,
+        "chat": 3526,
         "points_spent": 70308,
         "interactive": 62,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-12T12:46:23Z"
+      "lastUpdated": "2026-09-12T14:33:45Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3308,9 +3308,9 @@
       "counters": {
         "follow": 1,
         "chat": 2404,
-        "points_spent": 138101,
+        "points_spent": 138601,
         "sounds": 14,
-        "effects": 150,
+        "effects": 151,
         "sub": 53,
         "bits": 13574,
         "interactive": 9,
@@ -3405,7 +3405,7 @@
         "total_donation_hero",
         "donation_caring"
       ],
-      "lastUpdated": "2026-09-12T13:51:36Z"
+      "lastUpdated": "2026-09-12T14:31:57Z"
     },
     "andilippi": {
       "counters": {
@@ -7710,7 +7710,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1712,
+        "chat": 1715,
         "points_spent": 59151,
         "screenshot": 1,
         "effects": 5,
@@ -7750,7 +7750,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-12T14:28:35Z"
+      "lastUpdated": "2026-09-12T14:33:46Z"
     },
     "wigz666": {
       "counters": {
@@ -9891,7 +9891,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 101,
         "gift_subs": 5,
         "gift_bombs": 1,
         "total_gift_bomb_subs": 5,
@@ -9915,7 +9915,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-12T14:31:20Z"
+      "lastUpdated": "2026-09-12T14:32:36Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10428,9 +10428,9 @@
     },
     "rahzie1": {
       "counters": {
-        "chat": 228,
+        "chat": 229,
         "follow": 1,
-        "points_spent": 2000,
+        "points_spent": 3000,
         "sounds": 1
       },
       "unlockedAchievements": [
@@ -10445,7 +10445,7 @@
         "sound_first",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-12T14:24:24Z"
+      "lastUpdated": "2026-09-12T14:33:05Z"
     },
     "00lemonada8": {
       "counters": {
@@ -11397,7 +11397,7 @@
       "lastUpdated": "2026-09-12T14:30:08Z"
     }
   },
-  "lastUpdated": "2026-09-12T13:31:21Z",
+  "lastUpdated": "2026-09-12T13:34:00Z",
   "totalUsers": 586,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
