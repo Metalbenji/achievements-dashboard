@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1818,
+        "chat": 1819,
         "points_spent": 76410,
         "effects": 48,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-14T09:17:39Z"
+      "lastUpdated": "2026-09-14T11:32:05Z"
     },
     "ramdon101": {
       "counters": {
@@ -6190,7 +6190,7 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 29,
+        "chat": 33,
         "sub": 1,
         "sub_tier": 1
       },
@@ -6203,7 +6203,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-14T09:31:08Z"
+      "lastUpdated": "2026-09-14T11:30:29Z"
     },
     "esjaytv": {
       "counters": {
@@ -7268,7 +7268,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 482,
+        "chat": 485,
         "sub": 9,
         "points_spent": 13551,
         "sounds": 1,
@@ -7315,7 +7315,7 @@
         "gift_champion",
         "gift_hero"
       ],
-      "lastUpdated": "2026-09-14T11:26:34Z"
+      "lastUpdated": "2026-09-14T11:32:13Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7558,7 +7558,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 632,
+        "chat": 633,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7592,7 +7592,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-09-14T11:24:11Z"
+      "lastUpdated": "2026-09-14T11:28:45Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9136,7 +9136,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 673,
+        "chat": 674,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9151,7 +9151,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-14T11:15:41Z"
+      "lastUpdated": "2026-09-14T11:30:25Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9848,7 +9848,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2319,
+        "chat": 2325,
         "points_spent": 70752,
         "sounds": 4,
         "sub": 32,
@@ -9896,7 +9896,7 @@
         "bday2026_attend",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-09-14T11:22:33Z"
+      "lastUpdated": "2026-09-14T11:30:55Z"
     },
     "infincible": {
       "counters": {
@@ -11169,7 +11169,7 @@
         "chat": 87,
         "follow": 1,
         "points_spent": 1050,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -11180,7 +11180,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-09-14T11:26:53Z"
+      "lastUpdated": "2026-09-14T11:26:54Z"
     },
     "konkrs": {
       "counters": {
@@ -11487,7 +11487,7 @@
       "lastUpdated": "2026-09-14T09:24:21Z"
     }
   },
-  "lastUpdated": "2026-09-14T10:26:54Z",
+  "lastUpdated": "2026-09-14T10:32:22Z",
   "totalUsers": 590,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
