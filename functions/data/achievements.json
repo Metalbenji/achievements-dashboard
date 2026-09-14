@@ -2659,7 +2659,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6448,
+        "chat": 6449,
         "points_spent": 169952,
         "effects": 72,
         "sub": 51,
@@ -2765,7 +2765,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-14T18:45:50Z"
+      "lastUpdated": "2026-09-14T22:22:56Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3501,7 +3501,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3126,
+        "chat": 3149,
         "points_spent": 27201,
         "sounds": 13,
         "clips": 1,
@@ -3548,7 +3548,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-14T22:17:30Z"
+      "lastUpdated": "2026-09-14T22:23:30Z"
     },
     "maximusis_": {
       "counters": {
@@ -5790,14 +5790,15 @@
     "hazzabella": {
       "counters": {
         "follow": 1,
-        "chat": 9
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-04-03T11:04:40Z"
+      "lastUpdated": "2026-09-14T22:23:30Z"
     },
     "biggestbadjohn": {
       "counters": {
@@ -9556,7 +9557,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2084,
+        "chat": 2091,
         "follow": 1,
         "points_spent": 27000,
         "effects": 12,
@@ -9588,7 +9589,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-14T22:15:56Z"
+      "lastUpdated": "2026-09-14T22:21:38Z"
     },
     "noggen_": {
       "counters": {
@@ -11555,7 +11556,7 @@
       "lastUpdated": "2026-09-14T22:13:23Z"
     }
   },
-  "lastUpdated": "2026-09-14T21:17:36Z",
+  "lastUpdated": "2026-09-14T21:23:31Z",
   "totalUsers": 593,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
