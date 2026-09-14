@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 739,
+        "chat": 740,
         "points_spent": 59852,
         "follow": 1,
         "sub": 27,
@@ -1509,7 +1509,7 @@
         "spender_gold",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-09-12T09:37:50Z"
+      "lastUpdated": "2026-09-14T22:09:32Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2521,7 +2521,7 @@
       "counters": {
         "points_spent": 134602,
         "follow": 1,
-        "chat": 1632,
+        "chat": 1633,
         "effects": 157,
         "screenshot": 22,
         "sounds": 7,
@@ -2585,7 +2585,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-14T22:07:11Z"
+      "lastUpdated": "2026-09-14T22:08:38Z"
     },
     "syn__________": {
       "counters": {
@@ -3501,7 +3501,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3106,
+        "chat": 3112,
         "points_spent": 27201,
         "sounds": 13,
         "clips": 1,
@@ -3548,7 +3548,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-14T22:03:41Z"
+      "lastUpdated": "2026-09-14T22:09:11Z"
     },
     "maximusis_": {
       "counters": {
@@ -11544,15 +11544,17 @@
     },
     "test_restricted": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "night_owl"
+        "night_owl",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-09-14T22:07:44Z"
+      "lastUpdated": "2026-09-14T22:09:33Z"
     }
   },
-  "lastUpdated": "2026-09-14T21:07:46Z",
+  "lastUpdated": "2026-09-14T21:09:34Z",
   "totalUsers": 593,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
