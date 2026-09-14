@@ -1873,7 +1873,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 843,
+        "chat": 849,
         "follow": 1,
         "sub": 43,
         "points_spent": 95350,
@@ -1916,7 +1916,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-14T14:54:22Z"
+      "lastUpdated": "2026-09-14T15:07:29Z"
     },
     "scoman07": {
       "counters": {
@@ -1959,7 +1959,7 @@
       "counters": {
         "points_spent": 8100,
         "effects": 11,
-        "chat": 231,
+        "chat": 234,
         "sounds": 1,
         "follow": 1
       },
@@ -1980,7 +1980,7 @@
         "effect_collector",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-14T14:58:27Z"
+      "lastUpdated": "2026-09-14T15:00:37Z"
     },
     "hairypawter": {
       "counters": {
@@ -2101,7 +2101,7 @@
     "sealdancer": {
       "counters": {
         "follow": 1,
-        "chat": 183,
+        "chat": 186,
         "points_spent": 1,
         "raid": 2,
         "gift_subs": 5,
@@ -2134,7 +2134,7 @@
         "sub_veteran",
         "sub_champion"
       ],
-      "lastUpdated": "2026-09-14T10:03:10Z"
+      "lastUpdated": "2026-09-14T15:02:32Z"
     },
     "incrediblebob": {
       "counters": {
@@ -2770,7 +2770,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 270
+        "chat": 271
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2783,7 +2783,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-14T15:00:04Z"
+      "lastUpdated": "2026-09-14T15:01:39Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -2973,12 +2973,12 @@
     },
     "warl0c13": {
       "counters": {
-        "points_spent": 26750,
-        "effects": 47,
+        "points_spent": 27550,
+        "effects": 48,
         "follow": 1,
         "chat": 308,
         "interactive": 2,
-        "sounds": 3
+        "sounds": 4
       },
       "unlockedAchievements": [
         "effect_first",
@@ -3004,7 +3004,7 @@
         "chat_dedicated",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-09-14T15:00:11Z"
+      "lastUpdated": "2026-09-14T15:06:49Z"
     },
     "s3n71": {
       "counters": {
@@ -3319,10 +3319,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2442,
-        "points_spent": 141251,
+        "chat": 2443,
+        "points_spent": 141451,
         "sounds": 14,
-        "effects": 154,
+        "effects": 155,
         "sub": 53,
         "bits": 13574,
         "interactive": 9,
@@ -3419,7 +3419,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-14T14:59:39Z"
+      "lastUpdated": "2026-09-14T15:02:03Z"
     },
     "andilippi": {
       "counters": {
@@ -7579,7 +7579,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 697,
+        "chat": 698,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7617,7 +7617,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-09-14T14:09:46Z"
+      "lastUpdated": "2026-09-14T15:07:42Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9554,10 +9554,10 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2024,
+        "chat": 2039,
         "follow": 1,
-        "points_spent": 26650,
-        "effects": 11,
+        "points_spent": 27000,
+        "effects": 12,
         "interactive": 4,
         "screenshot": 2,
         "sounds": 1
@@ -9586,7 +9586,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-14T14:59:21Z"
+      "lastUpdated": "2026-09-14T15:08:14Z"
     },
     "noggen_": {
       "counters": {
@@ -11197,7 +11197,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 91,
+        "chat": 95,
         "follow": 1,
         "points_spent": 1050,
         "effects": 2
@@ -11211,7 +11211,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-09-14T11:49:46Z"
+      "lastUpdated": "2026-09-14T15:08:03Z"
     },
     "konkrs": {
       "counters": {
@@ -11528,7 +11528,7 @@
       "lastUpdated": "2026-09-14T14:43:02Z"
     }
   },
-  "lastUpdated": "2026-09-14T14:00:12Z",
+  "lastUpdated": "2026-09-14T14:08:28Z",
   "totalUsers": 591,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
