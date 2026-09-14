@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1850,
+        "chat": 1853,
         "points_spent": 76710,
         "effects": 49,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-14T15:13:14Z"
+      "lastUpdated": "2026-09-14T15:19:55Z"
     },
     "ramdon101": {
       "counters": {
@@ -1873,7 +1873,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 854,
+        "chat": 855,
         "follow": 1,
         "sub": 43,
         "points_spent": 95350,
@@ -1916,7 +1916,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-14T15:16:48Z"
+      "lastUpdated": "2026-09-14T15:18:34Z"
     },
     "scoman07": {
       "counters": {
@@ -2659,7 +2659,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6365,
+        "chat": 6369,
         "points_spent": 167252,
         "effects": 70,
         "sub": 51,
@@ -2765,7 +2765,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-14T15:16:40Z"
+      "lastUpdated": "2026-09-14T15:18:59Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7290,7 +7290,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 508,
+        "chat": 509,
         "sub": 9,
         "points_spent": 13951,
         "sounds": 1,
@@ -7337,7 +7337,7 @@
         "gift_champion",
         "gift_hero"
       ],
-      "lastUpdated": "2026-09-14T15:16:10Z"
+      "lastUpdated": "2026-09-14T15:19:56Z"
     },
     "daddy0ps": {
       "counters": {
@@ -7580,7 +7580,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 702,
+        "chat": 703,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7618,7 +7618,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-09-14T15:13:37Z"
+      "lastUpdated": "2026-09-14T15:20:11Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9162,7 +9162,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 726,
+        "chat": 729,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9177,7 +9177,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-14T14:53:30Z"
+      "lastUpdated": "2026-09-14T15:18:58Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9555,7 +9555,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2050,
+        "chat": 2051,
         "follow": 1,
         "points_spent": 27000,
         "effects": 12,
@@ -9587,7 +9587,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-14T15:15:25Z"
+      "lastUpdated": "2026-09-14T15:19:51Z"
     },
     "noggen_": {
       "counters": {
@@ -10734,7 +10734,7 @@
       "counters": {
         "points_spent": 350,
         "effects": 1,
-        "chat": 10
+        "chat": 13
       },
       "unlockedAchievements": [
         "effect_first",
@@ -10743,7 +10743,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-14T15:15:40Z"
+      "lastUpdated": "2026-09-14T15:17:49Z"
     },
     "larussowow": {
       "counters": {
@@ -11199,7 +11199,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 97,
+        "chat": 100,
         "follow": 1,
         "points_spent": 1050,
         "effects": 2
@@ -11211,9 +11211,10 @@
         "chat_talker",
         "chat_conversationalist",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-09-14T15:16:48Z"
+      "lastUpdated": "2026-09-14T15:21:04Z"
     },
     "konkrs": {
       "counters": {
@@ -11531,15 +11532,15 @@
     },
     "arrngrim": {
       "counters": {
-        "chat": 5
+        "chat": 8
       },
       "unlockedAchievements": [
         "chat_newbie"
       ],
-      "lastUpdated": "2026-09-14T15:17:00Z"
+      "lastUpdated": "2026-09-14T15:19:54Z"
     }
   },
-  "lastUpdated": "2026-09-14T14:17:01Z",
+  "lastUpdated": "2026-09-14T14:21:05Z",
   "totalUsers": 592,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
