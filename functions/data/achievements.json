@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1822,
+        "chat": 1823,
         "points_spent": 76410,
         "effects": 48,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-14T11:34:57Z"
+      "lastUpdated": "2026-09-14T11:36:26Z"
     },
     "ramdon101": {
       "counters": {
@@ -2659,7 +2659,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6328,
+        "chat": 6329,
         "points_spent": 166252,
         "effects": 70,
         "sub": 51,
@@ -2765,7 +2765,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-14T11:35:43Z"
+      "lastUpdated": "2026-09-14T11:37:07Z"
     },
     "purgemonster91": {
       "counters": {
@@ -6192,7 +6192,9 @@
         "follow": 1,
         "chat": 33,
         "sub": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "donations": 1,
+        "total_donated": 2000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6201,9 +6203,12 @@
         "sub_tier1",
         "sub_first_month",
         "chat_talker",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "donation_first_timer",
+        "total_donation_starter",
+        "total_donation_generous"
       ],
-      "lastUpdated": "2026-09-14T11:30:29Z"
+      "lastUpdated": "2026-09-14T11:36:11Z"
     },
     "esjaytv": {
       "counters": {
@@ -11411,7 +11416,7 @@
     "enzi86": {
       "counters": {
         "follow": 1,
-        "chat": 14
+        "chat": 15
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -11419,7 +11424,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-14T11:35:22Z"
+      "lastUpdated": "2026-09-14T11:37:16Z"
     },
     "jerexix": {
       "counters": {
@@ -11492,7 +11497,7 @@
       "lastUpdated": "2026-09-14T09:24:21Z"
     }
   },
-  "lastUpdated": "2026-09-14T10:36:14Z",
+  "lastUpdated": "2026-09-14T10:37:24Z",
   "totalUsers": 590,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
