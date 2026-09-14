@@ -2521,7 +2521,7 @@
       "counters": {
         "points_spent": 134602,
         "follow": 1,
-        "chat": 1633,
+        "chat": 1636,
         "effects": 157,
         "screenshot": 22,
         "sounds": 7,
@@ -2585,7 +2585,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-14T22:08:38Z"
+      "lastUpdated": "2026-09-14T22:13:04Z"
     },
     "syn__________": {
       "counters": {
@@ -3319,7 +3319,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2468,
+        "chat": 2469,
         "points_spent": 141951,
         "sounds": 14,
         "effects": 156,
@@ -3419,7 +3419,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-14T22:07:01Z"
+      "lastUpdated": "2026-09-14T22:13:15Z"
     },
     "andilippi": {
       "counters": {
@@ -3501,7 +3501,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3112,
+        "chat": 3126,
         "points_spent": 27201,
         "sounds": 13,
         "clips": 1,
@@ -3548,7 +3548,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-14T22:09:11Z"
+      "lastUpdated": "2026-09-14T22:17:30Z"
     },
     "maximusis_": {
       "counters": {
@@ -9556,7 +9556,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2077,
+        "chat": 2084,
         "follow": 1,
         "points_spent": 27000,
         "effects": 12,
@@ -9588,7 +9588,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-14T21:51:50Z"
+      "lastUpdated": "2026-09-14T22:15:56Z"
     },
     "noggen_": {
       "counters": {
@@ -11300,13 +11300,14 @@
     "goldzen_tv": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "night_owl"
       ],
-      "lastUpdated": "2026-09-06T14:01:22Z"
+      "lastUpdated": "2026-09-14T22:17:35Z"
     },
     "venzaal": {
       "counters": {
@@ -11544,17 +11545,17 @@
     },
     "test_restricted": {
       "counters": {
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
         "night_owl",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-09-14T22:09:33Z"
+      "lastUpdated": "2026-09-14T22:13:23Z"
     }
   },
-  "lastUpdated": "2026-09-14T21:09:34Z",
+  "lastUpdated": "2026-09-14T21:17:36Z",
   "totalUsers": 593,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
