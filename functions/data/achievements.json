@@ -3501,7 +3501,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3207,
+        "chat": 3208,
         "points_spent": 27201,
         "sounds": 13,
         "clips": 1,
@@ -3548,7 +3548,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-15T21:46:34Z"
+      "lastUpdated": "2026-09-15T22:15:15Z"
     },
     "maximusis_": {
       "counters": {
@@ -9560,7 +9560,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2208,
+        "chat": 2210,
         "follow": 1,
         "points_spent": 27300,
         "effects": 13,
@@ -9592,7 +9592,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-15T22:14:33Z"
+      "lastUpdated": "2026-09-15T22:15:51Z"
     },
     "noggen_": {
       "counters": {
@@ -10474,10 +10474,11 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 221,
+        "chat": 222,
         "points_spent": 5350,
         "effects": 5,
-        "interactive": 2
+        "interactive": 2,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10491,9 +10492,11 @@
         "spender_bronze",
         "chat_regular",
         "chat_frequent",
-        "spender_iron"
+        "spender_iron",
+        "sound_first",
+        "night_owl"
       ],
-      "lastUpdated": "2026-09-15T22:15:10Z"
+      "lastUpdated": "2026-09-15T22:16:21Z"
     },
     "rahzie1": {
       "counters": {
@@ -11560,7 +11563,7 @@
       "lastUpdated": "2026-09-14T22:34:07Z"
     }
   },
-  "lastUpdated": "2026-09-15T21:15:11Z",
+  "lastUpdated": "2026-09-15T21:16:22Z",
   "totalUsers": 593,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
