@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3634,
+        "chat": 3636,
         "points_spent": 70308,
         "interactive": 62,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-15T22:10:11Z"
+      "lastUpdated": "2026-09-15T22:18:35Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2603,7 +2603,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 594,
+        "chat": 595,
         "sub": 35,
         "points_spent": 9400,
         "screenshot": 2,
@@ -2654,7 +2654,7 @@
         "bday2026_support",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-15T20:48:36Z"
+      "lastUpdated": "2026-09-15T22:19:26Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -2770,7 +2770,7 @@
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 284
+        "chat": 287
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2783,12 +2783,12 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-15T22:06:59Z"
+      "lastUpdated": "2026-09-15T22:17:26Z"
     },
     "stumblingpanda": {
       "counters": {
         "follow": 1,
-        "chat": 264,
+        "chat": 266,
         "points_spent": 48300,
         "sounds": 2,
         "effects": 8,
@@ -2813,7 +2813,7 @@
         "vip_dreamer",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-15T22:06:11Z"
+      "lastUpdated": "2026-09-15T22:20:05Z"
     },
     "insidematt": {
       "counters": {
@@ -3319,10 +3319,10 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2483,
-        "points_spent": 141951,
+        "chat": 2487,
+        "points_spent": 142451,
         "sounds": 14,
-        "effects": 156,
+        "effects": 157,
         "sub": 53,
         "bits": 13574,
         "interactive": 9,
@@ -3419,7 +3419,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-15T22:10:47Z"
+      "lastUpdated": "2026-09-15T22:20:10Z"
     },
     "andilippi": {
       "counters": {
@@ -9560,7 +9560,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2210,
+        "chat": 2214,
         "follow": 1,
         "points_spent": 27300,
         "effects": 13,
@@ -9592,7 +9592,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-15T22:15:51Z"
+      "lastUpdated": "2026-09-15T22:20:12Z"
     },
     "noggen_": {
       "counters": {
@@ -10474,7 +10474,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 222,
+        "chat": 223,
         "points_spent": 5350,
         "effects": 5,
         "interactive": 2,
@@ -10496,7 +10496,7 @@
         "sound_first",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-15T22:16:21Z"
+      "lastUpdated": "2026-09-15T22:17:17Z"
     },
     "rahzie1": {
       "counters": {
@@ -10803,13 +10803,13 @@
     },
     "moodiemooo": {
       "counters": {
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-07-26T13:17:29Z"
+      "lastUpdated": "2026-09-16T19:12:41Z"
     },
     "ravensea83": {
       "counters": {
@@ -11561,10 +11561,54 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-09-14T22:34:07Z"
+    },
+    "beefcake_76": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2026-09-16T18:03:35Z"
+    },
+    "cornelis79": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2026-09-16T18:03:42Z"
+    },
+    "stuckinacakee": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2026-09-16T18:04:01Z"
+    },
+    "haggi95": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2026-09-16T18:04:43Z"
+    },
+    "jonessvin": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [],
+      "lastUpdated": "2026-09-16T19:12:16Z"
+    },
+    "papaheals": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-09-16T19:12:54Z"
     }
   },
-  "lastUpdated": "2026-09-15T21:16:22Z",
-  "totalUsers": 593,
+  "lastUpdated": "2026-09-16T18:12:55Z",
+  "totalUsers": 599,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
