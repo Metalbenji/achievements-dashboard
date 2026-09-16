@@ -11616,10 +11616,31 @@
         "sub_first_month"
       ],
       "lastUpdated": "2026-09-16T19:13:35Z"
+    },
+    "arnett7": {
+      "counters": {
+        "sub": 42,
+        "sub_tier": 1
+      },
+      "unlockedAchievements": [
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond",
+        "sub_elite",
+        "sub_master"
+      ],
+      "lastUpdated": "2026-09-16T19:13:38Z"
     }
   },
-  "lastUpdated": "2026-09-16T18:13:48Z",
-  "totalUsers": 600,
+  "lastUpdated": "2026-09-16T18:14:18Z",
+  "totalUsers": 601,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
