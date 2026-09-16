@@ -11605,10 +11605,21 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-09-16T19:12:54Z"
+    },
+    "sirapo6": {
+      "counters": {
+        "sub": 1,
+        "sub_tier": 1
+      },
+      "unlockedAchievements": [
+        "sub_tier1",
+        "sub_first_month"
+      ],
+      "lastUpdated": "2026-09-16T19:13:35Z"
     }
   },
-  "lastUpdated": "2026-09-16T18:13:36Z",
-  "totalUsers": 599,
+  "lastUpdated": "2026-09-16T18:13:38Z",
+  "totalUsers": 600,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
