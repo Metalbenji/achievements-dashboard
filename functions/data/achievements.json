@@ -2266,7 +2266,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2255,
+        "chat": 2256,
         "points_spent": 301921,
         "effects": 23,
         "sounds": 19,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-17T21:57:42Z"
+      "lastUpdated": "2026-09-17T22:02:00Z"
     },
     "anzerou": {
       "counters": {
@@ -6062,7 +6062,7 @@
     "remcotje1986": {
       "counters": {
         "follow": 1,
-        "chat": 27
+        "chat": 29
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -6072,7 +6072,7 @@
         "chat_conversationalist",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-17T22:01:07Z"
+      "lastUpdated": "2026-09-17T22:02:50Z"
     },
     "nezeya_dk": {
       "counters": {
@@ -9563,7 +9563,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2316,
+        "chat": 2318,
         "follow": 1,
         "points_spent": 27400,
         "effects": 13,
@@ -9595,7 +9595,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-17T22:01:01Z"
+      "lastUpdated": "2026-09-17T22:01:53Z"
     },
     "noggen_": {
       "counters": {
@@ -9954,7 +9954,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 182,
+        "chat": 183,
         "gift_subs": 15,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 15,
@@ -9984,9 +9984,10 @@
         "bits_regular",
         "spender_iron",
         "gift_bombs_regular",
-        "gift_champion"
+        "gift_champion",
+        "night_owl"
       ],
-      "lastUpdated": "2026-09-17T21:56:58Z"
+      "lastUpdated": "2026-09-17T22:02:57Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11665,7 +11666,7 @@
       "lastUpdated": "2026-09-16T19:15:01Z"
     }
   },
-  "lastUpdated": "2026-09-17T21:01:08Z",
+  "lastUpdated": "2026-09-17T21:02:57Z",
   "totalUsers": 603,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
