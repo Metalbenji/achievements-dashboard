@@ -2522,7 +2522,7 @@
       "counters": {
         "points_spent": 135552,
         "follow": 1,
-        "chat": 1697,
+        "chat": 1699,
         "effects": 159,
         "screenshot": 22,
         "sounds": 7,
@@ -2586,7 +2586,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-19T16:27:32Z"
+      "lastUpdated": "2026-09-19T16:28:17Z"
     },
     "syn__________": {
       "counters": {
@@ -3502,7 +3502,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3381,
+        "chat": 3383,
         "points_spent": 29201,
         "sounds": 14,
         "clips": 1,
@@ -3549,7 +3549,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-19T16:27:30Z"
+      "lastUpdated": "2026-09-19T16:27:56Z"
     },
     "maximusis_": {
       "counters": {
@@ -3671,7 +3671,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5441,
+        "chat": 5445,
         "sub": 54,
         "points_spent": 350,
         "screenshot": 1,
@@ -3726,7 +3726,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-19T16:25:52Z"
+      "lastUpdated": "2026-09-19T16:29:09Z"
     },
     "majesty81": {
       "counters": {
@@ -9568,7 +9568,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2471,
+        "chat": 2472,
         "follow": 1,
         "points_spent": 27400,
         "effects": 13,
@@ -9600,7 +9600,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-19T16:26:49Z"
+      "lastUpdated": "2026-09-19T16:28:29Z"
     },
     "noggen_": {
       "counters": {
@@ -10797,7 +10797,7 @@
         "follow": 1,
         "points_spent": 2700,
         "effects": 3,
-        "chat": 26,
+        "chat": 27,
         "interactive": 2
       },
       "unlockedAchievements": [
@@ -10812,7 +10812,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-19T15:33:38Z"
+      "lastUpdated": "2026-09-19T16:29:00Z"
     },
     "moodiemooo": {
       "counters": {
@@ -11705,16 +11705,18 @@
     },
     "soultiedinaknot": {
       "counters": {
-        "chat": 5
+        "chat": 6,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-09-19T16:27:33Z"
+      "lastUpdated": "2026-09-19T16:29:23Z"
     }
   },
-  "lastUpdated": "2026-09-19T15:27:34Z",
+  "lastUpdated": "2026-09-19T15:29:24Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
