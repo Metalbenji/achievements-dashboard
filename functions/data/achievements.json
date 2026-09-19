@@ -3502,7 +3502,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3383,
+        "chat": 3387,
         "points_spent": 29201,
         "sounds": 14,
         "clips": 1,
@@ -3549,7 +3549,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-19T16:27:56Z"
+      "lastUpdated": "2026-09-19T16:31:06Z"
     },
     "maximusis_": {
       "counters": {
@@ -9570,8 +9570,8 @@
       "counters": {
         "chat": 2472,
         "follow": 1,
-        "points_spent": 27400,
-        "effects": 13,
+        "points_spent": 27750,
+        "effects": 14,
         "interactive": 4,
         "screenshot": 2,
         "sounds": 2
@@ -9600,7 +9600,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-19T16:28:29Z"
+      "lastUpdated": "2026-09-19T16:29:36Z"
     },
     "noggen_": {
       "counters": {
@@ -11705,18 +11705,22 @@
     },
     "soultiedinaknot": {
       "counters": {
-        "chat": 6,
-        "points_spent": 2000
+        "chat": 9,
+        "points_spent": 2350,
+        "sounds": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
-        "spender_bronze"
+        "spender_bronze",
+        "sound_first",
+        "effect_first"
       ],
-      "lastUpdated": "2026-09-19T16:29:23Z"
+      "lastUpdated": "2026-09-19T16:31:37Z"
     }
   },
-  "lastUpdated": "2026-09-19T15:29:24Z",
+  "lastUpdated": "2026-09-19T15:31:38Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
