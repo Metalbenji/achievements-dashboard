@@ -3502,7 +3502,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3387,
+        "chat": 3388,
         "points_spent": 29201,
         "sounds": 14,
         "clips": 1,
@@ -3549,7 +3549,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-19T16:31:06Z"
+      "lastUpdated": "2026-09-19T16:31:55Z"
     },
     "maximusis_": {
       "counters": {
@@ -11705,7 +11705,7 @@
     },
     "soultiedinaknot": {
       "counters": {
-        "chat": 9,
+        "chat": 10,
         "points_spent": 2350,
         "sounds": 1,
         "effects": 1
@@ -11715,12 +11715,13 @@
         "chat_newbie",
         "spender_bronze",
         "sound_first",
-        "effect_first"
+        "effect_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-09-19T16:31:37Z"
+      "lastUpdated": "2026-09-19T16:32:07Z"
     }
   },
-  "lastUpdated": "2026-09-19T15:31:38Z",
+  "lastUpdated": "2026-09-19T15:32:08Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
