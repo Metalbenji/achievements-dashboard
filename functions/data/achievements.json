@@ -3320,14 +3320,14 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2520,
-        "points_spent": 144301,
+        "chat": 2528,
+        "points_spent": 145101,
         "sounds": 14,
-        "effects": 161,
+        "effects": 163,
         "sub": 53,
         "bits": 13574,
         "interactive": 9,
-        "screenshot": 12,
+        "screenshot": 13,
         "gift_subs": 529,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 527,
@@ -3420,7 +3420,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-19T16:16:50Z"
+      "lastUpdated": "2026-09-19T16:53:03Z"
     },
     "andilippi": {
       "counters": {
@@ -3502,7 +3502,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3388,
+        "chat": 3395,
         "points_spent": 29201,
         "sounds": 14,
         "clips": 1,
@@ -3549,7 +3549,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-19T16:31:55Z"
+      "lastUpdated": "2026-09-19T16:34:00Z"
     },
     "maximusis_": {
       "counters": {
@@ -3671,7 +3671,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5445,
+        "chat": 5460,
         "sub": 54,
         "points_spent": 350,
         "screenshot": 1,
@@ -3726,7 +3726,7 @@
         "gift_patron",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-19T16:29:09Z"
+      "lastUpdated": "2026-09-19T16:47:15Z"
     },
     "majesty81": {
       "counters": {
@@ -8018,7 +8018,7 @@
     },
     "arvidz101": {
       "counters": {
-        "chat": 139,
+        "chat": 140,
         "points_spent": 300,
         "effects": 1
       },
@@ -8030,7 +8030,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-19T16:06:09Z"
+      "lastUpdated": "2026-09-19T16:36:37Z"
     },
     "geniejit": {
       "counters": {
@@ -9174,7 +9174,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 770,
+        "chat": 773,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9190,7 +9190,7 @@
         "chat_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-19T16:04:41Z"
+      "lastUpdated": "2026-09-19T16:35:04Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9568,7 +9568,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2472,
+        "chat": 2485,
         "follow": 1,
         "points_spent": 27750,
         "effects": 14,
@@ -9600,7 +9600,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-19T16:29:36Z"
+      "lastUpdated": "2026-09-19T16:51:02Z"
     },
     "noggen_": {
       "counters": {
@@ -11705,7 +11705,7 @@
     },
     "soultiedinaknot": {
       "counters": {
-        "chat": 10,
+        "chat": 25,
         "points_spent": 2350,
         "sounds": 1,
         "effects": 1
@@ -11716,12 +11716,13 @@
         "spender_bronze",
         "sound_first",
         "effect_first",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-19T16:32:07Z"
+      "lastUpdated": "2026-09-19T16:53:58Z"
     }
   },
-  "lastUpdated": "2026-09-19T15:32:08Z",
+  "lastUpdated": "2026-09-19T15:53:59Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
