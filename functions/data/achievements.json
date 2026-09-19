@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4728,
+        "chat": 4729,
         "points_spent": 250853,
         "screenshot": 4,
         "follow": 1,
@@ -1811,7 +1811,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-19T13:20:09Z"
+      "lastUpdated": "2026-09-19T17:18:07Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -5519,15 +5519,16 @@
     "theazmaniac": {
       "counters": {
         "follow": 1,
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-19T17:16:47Z"
+      "lastUpdated": "2026-09-19T17:18:18Z"
     },
     "richtea1978": {
       "counters": {
@@ -11731,7 +11732,7 @@
       "lastUpdated": "2026-09-19T17:17:23Z"
     }
   },
-  "lastUpdated": "2026-09-19T16:17:24Z",
+  "lastUpdated": "2026-09-19T16:18:18Z",
   "totalUsers": 607,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
