@@ -1655,7 +1655,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1903,
+        "chat": 1904,
         "points_spent": 77060,
         "effects": 50,
         "follow": 1,
@@ -1723,7 +1723,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-19T14:25:58Z"
+      "lastUpdated": "2026-09-19T14:33:34Z"
     },
     "ramdon101": {
       "counters": {
@@ -3010,7 +3010,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1164,
+        "chat": 1167,
         "sub": 45,
         "points_spent": 49151,
         "interactive": 4,
@@ -3090,7 +3090,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-09-19T14:31:19Z"
+      "lastUpdated": "2026-09-19T14:37:39Z"
     },
     "umenneske94": {
       "counters": {
@@ -11692,17 +11692,18 @@
     "vgt_joe": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-09-19T14:32:43Z"
+      "lastUpdated": "2026-09-19T14:37:48Z"
     }
   },
-  "lastUpdated": "2026-09-19T13:32:44Z",
+  "lastUpdated": "2026-09-19T13:37:49Z",
   "totalUsers": 605,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
