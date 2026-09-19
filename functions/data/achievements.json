@@ -4489,7 +4489,7 @@
     },
     "septikknissen": {
       "counters": {
-        "chat": 23,
+        "chat": 24,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -4501,7 +4501,7 @@
         "follow_supporter",
         "effect_first"
       ],
-      "lastUpdated": "2026-09-19T13:57:39Z"
+      "lastUpdated": "2026-09-19T14:11:59Z"
     },
     "m0hmoh21": {
       "counters": {
@@ -11679,15 +11679,17 @@
     },
     "oleboy84": {
       "counters": {
-        "chat": 1
+        "chat": 2,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-09-19T14:10:15Z"
+      "lastUpdated": "2026-09-19T14:13:40Z"
     }
   },
-  "lastUpdated": "2026-09-19T13:10:16Z",
+  "lastUpdated": "2026-09-19T13:13:42Z",
   "totalUsers": 604,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
