@@ -3320,7 +3320,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2528,
+        "chat": 2530,
         "points_spent": 145101,
         "sounds": 14,
         "effects": 163,
@@ -3420,7 +3420,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-19T16:53:03Z"
+      "lastUpdated": "2026-09-19T16:59:50Z"
     },
     "andilippi": {
       "counters": {
@@ -3470,7 +3470,7 @@
     "haggisneepsandpotatoes": {
       "counters": {
         "follow": 1,
-        "chat": 233,
+        "chat": 235,
         "points_spent": 10350,
         "sub": 16,
         "effects": 1
@@ -3497,7 +3497,7 @@
         "effect_first",
         "spender_silver"
       ],
-      "lastUpdated": "2026-09-19T13:15:17Z"
+      "lastUpdated": "2026-09-19T17:14:38Z"
     },
     "chadrestricted": {
       "counters": {
@@ -5519,7 +5519,7 @@
     "theazmaniac": {
       "counters": {
         "follow": 1,
-        "chat": 11
+        "chat": 24
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5527,7 +5527,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2025-08-23T16:16:43Z"
+      "lastUpdated": "2026-09-19T17:16:47Z"
     },
     "richtea1978": {
       "counters": {
@@ -9174,7 +9174,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 773,
+        "chat": 774,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9190,7 +9190,7 @@
         "chat_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-19T16:35:04Z"
+      "lastUpdated": "2026-09-19T17:17:16Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10767,7 +10767,7 @@
     },
     "larussowow": {
       "counters": {
-        "chat": 11,
+        "chat": 14,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -10777,7 +10777,7 @@
         "follow_supporter",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-14T12:09:19Z"
+      "lastUpdated": "2026-09-19T17:15:43Z"
     },
     "mimi2876": {
       "counters": {
@@ -11705,7 +11705,7 @@
     },
     "soultiedinaknot": {
       "counters": {
-        "chat": 25,
+        "chat": 41,
         "points_spent": 2350,
         "sounds": 1,
         "effects": 1
@@ -11719,11 +11719,20 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-19T16:53:58Z"
+      "lastUpdated": "2026-09-19T17:11:28Z"
+    },
+    "donhomer57": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-19T17:17:23Z"
     }
   },
-  "lastUpdated": "2026-09-19T15:53:59Z",
-  "totalUsers": 606,
+  "lastUpdated": "2026-09-19T16:17:24Z",
+  "totalUsers": 607,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
