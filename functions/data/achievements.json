@@ -1530,7 +1530,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5902,
+        "chat": 5903,
         "points_spent": 216351,
         "effects": 28,
         "sub": 20,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-09-20T10:41:53Z"
+      "lastUpdated": "2026-09-20T10:42:47Z"
     },
     "celran": {
       "counters": {
@@ -8512,7 +8512,7 @@
     "suicide_rabbit": {
       "counters": {
         "follow": 1,
-        "chat": 9,
+        "chat": 10,
         "points_spent": 350,
         "effects": 1
       },
@@ -8521,9 +8521,10 @@
         "weekend_warrior",
         "effect_first",
         "chat_newbie",
-        "bday2026_attend"
+        "bday2026_attend",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-09-05T15:23:26Z"
+      "lastUpdated": "2026-09-20T10:42:59Z"
     },
     "kylehdhvd": {
       "counters": {
@@ -11089,7 +11090,7 @@
         "points_spent": 900,
         "effects": 2,
         "follow": 1,
-        "chat": 300,
+        "chat": 304,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -11105,7 +11106,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-20T10:42:22Z"
+      "lastUpdated": "2026-09-20T10:42:59Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11739,7 +11740,7 @@
       "lastUpdated": "2026-09-19T17:18:31Z"
     }
   },
-  "lastUpdated": "2026-09-20T09:42:23Z",
+  "lastUpdated": "2026-09-20T09:43:00Z",
   "totalUsers": 607,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
