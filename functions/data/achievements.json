@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3818,
+        "chat": 3820,
         "points_spent": 77158,
         "interactive": 68,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-26T15:40:48Z"
+      "lastUpdated": "2026-09-26T15:47:31Z"
     },
     "aladderinsane": {
       "counters": {
@@ -1959,7 +1959,7 @@
     },
     "lottec": {
       "counters": {
-        "points_spent": 9100,
+        "points_spent": 10100,
         "effects": 11,
         "chat": 260,
         "sounds": 1,
@@ -1980,9 +1980,10 @@
         "spender_iron",
         "bday2026_attend",
         "effect_collector",
-        "chat_frequent"
+        "chat_frequent",
+        "spender_silver"
       ],
-      "lastUpdated": "2026-09-26T15:34:25Z"
+      "lastUpdated": "2026-09-26T15:48:43Z"
     },
     "hairypawter": {
       "counters": {
@@ -2041,7 +2042,7 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 121,
+        "chat": 127,
         "follow": 1,
         "points_spent": 12600,
         "effects": 1
@@ -2060,7 +2061,7 @@
         "spender_silver",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-26T15:43:45Z"
+      "lastUpdated": "2026-09-26T15:45:54Z"
     },
     "kripoje": {
       "counters": {
@@ -7782,7 +7783,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 2131,
+        "chat": 2133,
         "points_spent": 61551,
         "screenshot": 1,
         "effects": 5,
@@ -7822,7 +7823,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-26T15:43:35Z"
+      "lastUpdated": "2026-09-26T15:44:41Z"
     },
     "wigz666": {
       "counters": {
@@ -11749,7 +11750,7 @@
       "lastUpdated": "2026-09-26T12:56:58Z"
     }
   },
-  "lastUpdated": "2026-09-26T14:44:29Z",
+  "lastUpdated": "2026-09-26T14:48:44Z",
   "totalUsers": 607,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
