@@ -2042,9 +2042,9 @@
     },
     "tawmae": {
       "counters": {
-        "chat": 200,
+        "chat": 229,
         "follow": 1,
-        "points_spent": 13600,
+        "points_spent": 18600,
         "effects": 1
       },
       "unlockedAchievements": [
@@ -2062,7 +2062,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-26T16:48:50Z"
+      "lastUpdated": "2026-09-26T17:02:47Z"
     },
     "kripoje": {
       "counters": {
@@ -2269,8 +2269,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2338,
-        "points_spent": 313922,
+        "chat": 2342,
+        "points_spent": 314922,
         "effects": 23,
         "sounds": 19,
         "sub": 43,
@@ -2325,7 +2325,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-26T16:48:35Z"
+      "lastUpdated": "2026-09-26T17:02:32Z"
     },
     "anzerou": {
       "counters": {
@@ -3123,7 +3123,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 162
+        "chat": 163
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3135,7 +3135,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-05T22:16:18Z"
+      "lastUpdated": "2026-09-26T16:49:29Z"
     },
     "gwinniejones": {
       "counters": {
@@ -9581,7 +9581,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2662,
+        "chat": 2663,
         "follow": 1,
         "points_spent": 39450,
         "effects": 14,
@@ -9613,7 +9613,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-26T16:27:06Z"
+      "lastUpdated": "2026-09-26T16:58:44Z"
     },
     "noggen_": {
       "counters": {
@@ -11491,13 +11491,14 @@
     "jerexix": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T13:55:50Z"
+      "lastUpdated": "2026-09-26T17:02:49Z"
     },
     "snuggzandclaws": {
       "counters": {
@@ -11751,7 +11752,7 @@
       "lastUpdated": "2026-09-26T12:56:58Z"
     }
   },
-  "lastUpdated": "2026-09-26T15:48:51Z",
+  "lastUpdated": "2026-09-26T16:02:49Z",
   "totalUsers": 607,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
