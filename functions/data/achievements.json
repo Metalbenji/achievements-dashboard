@@ -1874,7 +1874,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 878,
+        "chat": 879,
         "follow": 1,
         "sub": 43,
         "points_spent": 95350,
@@ -1917,7 +1917,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-09-27T16:52:49Z"
+      "lastUpdated": "2026-09-27T16:58:50Z"
     },
     "scoman07": {
       "counters": {
@@ -9536,7 +9536,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 47,
+        "chat": 52,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9550,7 +9550,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:56:19Z"
+      "lastUpdated": "2026-09-27T16:58:34Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9963,7 +9963,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 219,
+        "chat": 220,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
@@ -10005,7 +10005,7 @@
         "bits_steady",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-27T16:57:06Z"
+      "lastUpdated": "2026-09-27T16:58:03Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11595,7 +11595,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 74,
+        "chat": 75,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11605,7 +11605,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:56:40Z"
+      "lastUpdated": "2026-09-27T16:57:58Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11641,7 +11641,7 @@
     "the_lightling": {
       "counters": {
         "follow": 1,
-        "chat": 20,
+        "chat": 21,
         "points_spent": 400,
         "effects": 1
       },
@@ -11652,7 +11652,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-27T16:56:03Z"
+      "lastUpdated": "2026-09-27T16:57:15Z"
     },
     "tostigroover": {
       "counters": {
@@ -11665,15 +11665,16 @@
     },
     "soultiedinaknot": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-27T16:57:13Z"
+      "lastUpdated": "2026-09-27T16:59:30Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:57:14Z",
+  "lastUpdated": "2026-09-27T15:59:31Z",
   "totalUsers": 601,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
