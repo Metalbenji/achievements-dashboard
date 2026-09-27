@@ -1741,7 +1741,7 @@
         "gift_bombs": 2,
         "total_gift_bomb_subs": 164,
         "largest_gift_bomb": 159,
-        "bits": 100
+        "bits": 200
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -1811,7 +1811,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-27T12:43:34Z"
+      "lastUpdated": "2026-09-27T15:19:29Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2266,8 +2266,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2249,
-        "points_spent": 319621,
+        "chat": 2251,
+        "points_spent": 320621,
         "effects": 22,
         "sounds": 18,
         "sub": 43,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T15:09:06Z"
+      "lastUpdated": "2026-09-27T15:21:40Z"
     },
     "anzerou": {
       "counters": {
@@ -2660,7 +2660,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6526,
+        "chat": 6531,
         "points_spent": 181652,
         "effects": 74,
         "sub": 51,
@@ -2767,7 +2767,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-27T15:11:36Z"
+      "lastUpdated": "2026-09-27T15:16:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3120,7 +3120,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 163
+        "chat": 164
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3132,7 +3132,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-27T13:19:41Z"
+      "lastUpdated": "2026-09-27T15:17:45Z"
     },
     "gwinniejones": {
       "counters": {
@@ -9962,14 +9962,14 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 159,
+        "chat": 164,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
         "largest_gift_bomb": 5,
-        "points_spent": 20301,
+        "points_spent": 25301,
         "effects": 3,
-        "bits": 101
+        "bits": 172
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9996,9 +9996,10 @@
         "spender_silver",
         "gift_hero",
         "birthday_person",
-        "emperor_loyal"
+        "emperor_loyal",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-09-27T15:08:38Z"
+      "lastUpdated": "2026-09-27T15:22:07Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11610,7 +11611,7 @@
       "lastUpdated": "2026-09-27T14:52:43Z"
     }
   },
-  "lastUpdated": "2026-09-27T14:11:37Z",
+  "lastUpdated": "2026-09-27T14:22:08Z",
   "totalUsers": 596,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
