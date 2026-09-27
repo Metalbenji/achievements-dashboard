@@ -2266,7 +2266,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2278,
+        "chat": 2280,
         "points_spent": 331621,
         "effects": 22,
         "sounds": 18,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T16:27:55Z"
+      "lastUpdated": "2026-09-27T16:29:48Z"
     },
     "anzerou": {
       "counters": {
@@ -3930,7 +3930,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2437,
+        "chat": 2440,
         "points_spent": 78651,
         "effects": 7,
         "interactive": 19,
@@ -3968,7 +3968,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-27T16:27:51Z"
+      "lastUpdated": "2026-09-27T16:29:25Z"
     },
     "roffelonator": {
       "counters": {
@@ -9536,7 +9536,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 38,
+        "chat": 39,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9550,7 +9550,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:27:21Z"
+      "lastUpdated": "2026-09-27T16:28:22Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9569,7 +9569,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2196,
+        "chat": 2199,
         "follow": 1,
         "points_spent": 42000,
         "effects": 12,
@@ -9602,7 +9602,7 @@
         "sound_first",
         "vip_dreamer"
       ],
-      "lastUpdated": "2026-09-27T16:22:18Z"
+      "lastUpdated": "2026-09-27T16:29:43Z"
     },
     "noggen_": {
       "counters": {
@@ -9963,7 +9963,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 201,
+        "chat": 202,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
@@ -10005,7 +10005,7 @@
         "bits_steady",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-27T16:26:40Z"
+      "lastUpdated": "2026-09-27T16:29:57Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11595,7 +11595,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 67,
+        "chat": 68,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11605,7 +11605,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:26:13Z"
+      "lastUpdated": "2026-09-27T16:29:09Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11635,10 +11635,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-09-27T16:28:04Z"
+    },
+    "the_lightling": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-09-27T16:30:03Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:28:05Z",
-  "totalUsers": 598,
+  "lastUpdated": "2026-09-27T15:30:04Z",
+  "totalUsers": 599,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
