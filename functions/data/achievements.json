@@ -3501,7 +3501,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3203,
+        "chat": 3204,
         "points_spent": 30201,
         "sounds": 14,
         "clips": 1,
@@ -3548,7 +3548,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-27T11:29:56Z"
+      "lastUpdated": "2026-09-27T11:30:09Z"
     },
     "maximusis_": {
       "counters": {
@@ -11560,10 +11560,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-09-14T22:34:07Z"
+    },
+    "naaakenjanne": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-27T11:30:44Z"
     }
   },
-  "lastUpdated": "2026-09-27T10:30:08Z",
-  "totalUsers": 593,
+  "lastUpdated": "2026-09-27T10:30:45Z",
+  "totalUsers": 594,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
