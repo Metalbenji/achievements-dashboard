@@ -2660,7 +2660,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6549,
+        "chat": 6550,
         "points_spent": 182652,
         "effects": 74,
         "sub": 51,
@@ -2767,7 +2767,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-27T16:22:44Z"
+      "lastUpdated": "2026-09-27T16:33:34Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7592,7 +7592,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 710,
+        "chat": 712,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7630,7 +7630,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-09-14T18:44:39Z"
+      "lastUpdated": "2026-09-27T16:37:34Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9569,7 +9569,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2199,
+        "chat": 2205,
         "follow": 1,
         "points_spent": 42500,
         "effects": 13,
@@ -9602,7 +9602,7 @@
         "sound_first",
         "vip_dreamer"
       ],
-      "lastUpdated": "2026-09-27T16:30:56Z"
+      "lastUpdated": "2026-09-27T16:37:19Z"
     },
     "noggen_": {
       "counters": {
@@ -11595,7 +11595,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 69,
+        "chat": 71,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11605,7 +11605,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:30:16Z"
+      "lastUpdated": "2026-09-27T16:37:19Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11627,28 +11627,29 @@
     },
     "leviathanbroadcast": {
       "counters": {
-        "chat": 3,
+        "chat": 4,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-09-27T16:30:59Z"
+      "lastUpdated": "2026-09-27T16:33:32Z"
     },
     "the_lightling": {
       "counters": {
         "follow": 1,
-        "chat": 2,
+        "chat": 5,
         "points_spent": 100,
         "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "effect_first"
+        "effect_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-27T16:31:14Z"
+      "lastUpdated": "2026-09-27T16:37:38Z"
     },
     "tostigroover": {
       "counters": {
@@ -11660,7 +11661,7 @@
       "lastUpdated": "2026-09-27T16:30:29Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:31:15Z",
+  "lastUpdated": "2026-09-27T15:37:39Z",
   "totalUsers": 600,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
