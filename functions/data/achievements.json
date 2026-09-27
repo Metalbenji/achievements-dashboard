@@ -2265,8 +2265,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2230,
-        "points_spent": 315621,
+        "chat": 2232,
+        "points_spent": 317621,
         "effects": 22,
         "sounds": 18,
         "sub": 43,
@@ -2321,7 +2321,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T13:08:54Z"
+      "lastUpdated": "2026-09-27T13:11:15Z"
     },
     "anzerou": {
       "counters": {
@@ -2659,8 +2659,8 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6473,
-        "points_spent": 173952,
+        "chat": 6475,
+        "points_spent": 175952,
         "effects": 72,
         "sub": 51,
         "sounds": 10,
@@ -2765,7 +2765,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-27T13:07:32Z"
+      "lastUpdated": "2026-09-27T13:10:48Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5477,7 +5477,7 @@
     "rejuv": {
       "counters": {
         "follow": 1,
-        "chat": 448,
+        "chat": 450,
         "points_spent": 21300,
         "interactive": 3,
         "sounds": 1,
@@ -5511,7 +5511,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2026-09-14T15:00:09Z"
+      "lastUpdated": "2026-09-27T13:11:10Z"
     },
     "theazmaniac": {
       "counters": {
@@ -6795,7 +6795,7 @@
     },
     "s1m0n22": {
       "counters": {
-        "chat": 144,
+        "chat": 145,
         "follow": 1,
         "points_spent": 450
       },
@@ -6807,7 +6807,7 @@
         "follow_supporter",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-14T12:39:08Z"
+      "lastUpdated": "2026-09-27T13:11:22Z"
     },
     "officialshwoopies": {
       "counters": {
@@ -7516,7 +7516,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2161,
+        "chat": 2162,
         "points_spent": 119654,
         "sounds": 31,
         "effects": 29,
@@ -7573,7 +7573,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-27T13:08:54Z"
+      "lastUpdated": "2026-09-27T13:11:41Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9830,14 +9830,14 @@
     "zrkom_xx": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 9
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-09-27T13:03:15Z"
+      "lastUpdated": "2026-09-27T13:11:32Z"
     },
     "mrkraniel": {
       "counters": {
@@ -11580,15 +11580,17 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 1
+        "chat": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-09-27T13:08:58Z"
+      "lastUpdated": "2026-09-27T13:11:51Z"
     }
   },
-  "lastUpdated": "2026-09-27T12:08:59Z",
+  "lastUpdated": "2026-09-27T12:11:52Z",
   "totalUsers": 595,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
