@@ -11596,7 +11596,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 99,
+        "chat": 100,
         "follow": 1,
         "points_spent": 2000
       },
@@ -11606,9 +11606,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "spender_bronze"
+        "spender_bronze",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-09-27T17:29:18Z"
+      "lastUpdated": "2026-09-27T17:29:38Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11679,7 +11680,7 @@
       "lastUpdated": "2026-09-27T17:28:59Z"
     }
   },
-  "lastUpdated": "2026-09-27T16:29:32Z",
+  "lastUpdated": "2026-09-27T16:29:39Z",
   "totalUsers": 601,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
