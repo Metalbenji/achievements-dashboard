@@ -2266,7 +2266,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2280,
+        "chat": 2282,
         "points_spent": 331621,
         "effects": 22,
         "sounds": 18,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T16:29:48Z"
+      "lastUpdated": "2026-09-27T16:31:07Z"
     },
     "anzerou": {
       "counters": {
@@ -9571,8 +9571,8 @@
       "counters": {
         "chat": 2199,
         "follow": 1,
-        "points_spent": 42000,
-        "effects": 12,
+        "points_spent": 42500,
+        "effects": 13,
         "interactive": 4,
         "screenshot": 2,
         "sounds": 1
@@ -9602,7 +9602,7 @@
         "sound_first",
         "vip_dreamer"
       ],
-      "lastUpdated": "2026-09-27T16:29:43Z"
+      "lastUpdated": "2026-09-27T16:30:56Z"
     },
     "noggen_": {
       "counters": {
@@ -11627,25 +11627,28 @@
     },
     "leviathanbroadcast": {
       "counters": {
-        "chat": 2,
+        "chat": 3,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-09-27T16:28:04Z"
+      "lastUpdated": "2026-09-27T16:30:59Z"
     },
     "the_lightling": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2,
+        "points_spent": 100,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "effect_first"
       ],
-      "lastUpdated": "2026-09-27T16:30:04Z"
+      "lastUpdated": "2026-09-27T16:31:14Z"
     },
     "tostigroover": {
       "counters": {
@@ -11657,7 +11660,7 @@
       "lastUpdated": "2026-09-27T16:30:29Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:30:30Z",
+  "lastUpdated": "2026-09-27T15:31:15Z",
   "totalUsers": 600,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
