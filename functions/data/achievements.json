@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3649,
+        "chat": 3650,
         "points_spent": 71808,
         "interactive": 63,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-27T11:56:41Z"
+      "lastUpdated": "2026-09-27T12:14:23Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3501,7 +3501,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3269,
+        "chat": 3284,
         "points_spent": 30201,
         "sounds": 14,
         "clips": 1,
@@ -3548,7 +3548,7 @@
         "spender_electrum",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-27T12:11:16Z"
+      "lastUpdated": "2026-09-27T12:20:04Z"
     },
     "maximusis_": {
       "counters": {
@@ -4837,7 +4837,7 @@
       "counters": {
         "sub": 52,
         "follow": 1,
-        "chat": 1154,
+        "chat": 1156,
         "points_spent": 2253,
         "sounds": 1,
         "interactive": 1,
@@ -4881,7 +4881,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-09-27T12:05:00Z"
+      "lastUpdated": "2026-09-27T12:12:51Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -5915,7 +5915,7 @@
     "jeditojanen": {
       "counters": {
         "follow": 1,
-        "chat": 37,
+        "chat": 38,
         "points_spent": 1000
       },
       "unlockedAchievements": [
@@ -5926,7 +5926,7 @@
         "chat_conversationalist",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-09-27T11:41:56Z"
+      "lastUpdated": "2026-09-27T12:12:45Z"
     },
     "burrman22": {
       "counters": {
@@ -6507,7 +6507,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 472,
+        "chat": 473,
         "points_spent": 6053,
         "effects": 8,
         "interactive": 2,
@@ -6533,7 +6533,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-27T11:59:27Z"
+      "lastUpdated": "2026-09-27T12:15:01Z"
     },
     "vezwarmane": {
       "counters": {
@@ -7515,7 +7515,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2151,
+        "chat": 2155,
         "points_spent": 115654,
         "sounds": 31,
         "effects": 29,
@@ -7572,7 +7572,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-12T09:25:30Z"
+      "lastUpdated": "2026-09-27T12:19:58Z"
     },
     "wolcenmae": {
       "counters": {
@@ -10328,7 +10328,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 630,
+        "chat": 631,
         "sub": 22,
         "points_spent": 300,
         "effects": 1,
@@ -10359,7 +10359,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-09-27T12:10:12Z"
+      "lastUpdated": "2026-09-27T12:11:52Z"
     },
     "vrishcath": {
       "counters": {
@@ -11211,7 +11211,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 107,
+        "chat": 119,
         "follow": 1,
         "points_spent": 1050,
         "effects": 2
@@ -11226,7 +11226,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-14T21:36:34Z"
+      "lastUpdated": "2026-09-27T12:21:40Z"
     },
     "konkrs": {
       "counters": {
@@ -11374,7 +11374,7 @@
     "pur3chops": {
       "counters": {
         "follow": 1,
-        "chat": 16
+        "chat": 20
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -11382,7 +11382,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-27T12:10:55Z"
+      "lastUpdated": "2026-09-27T12:13:41Z"
     },
     "dragornis": {
       "counters": {
@@ -11574,7 +11574,7 @@
       "lastUpdated": "2026-09-27T11:32:03Z"
     }
   },
-  "lastUpdated": "2026-09-27T11:11:30Z",
+  "lastUpdated": "2026-09-27T11:22:24Z",
   "totalUsers": 594,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
