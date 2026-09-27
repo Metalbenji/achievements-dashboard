@@ -1726,7 +1726,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4706,
+        "chat": 4707,
         "points_spent": 250853,
         "screenshot": 4,
         "follow": 1,
@@ -1810,7 +1810,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-09-27T11:54:09Z"
+      "lastUpdated": "2026-09-27T12:37:13Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2426,7 +2426,7 @@
     "ailuridaerob": {
       "counters": {
         "follow": 1,
-        "chat": 1087,
+        "chat": 1088,
         "points_spent": 82209,
         "interactive": 21,
         "effects": 46,
@@ -2482,7 +2482,7 @@
         "bday2026_attend",
         "chat_champion"
       ],
-      "lastUpdated": "2026-09-27T12:36:40Z"
+      "lastUpdated": "2026-09-27T12:37:44Z"
     },
     "redunt86": {
       "counters": {
@@ -3670,9 +3670,9 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5248,
+        "chat": 5250,
         "sub": 54,
-        "points_spent": 350,
+        "points_spent": 1350,
         "screenshot": 1,
         "sub_tier": 1,
         "gift_subs": 72,
@@ -3723,9 +3723,10 @@
         "gift_hero",
         "gift_angel",
         "gift_patron",
-        "raid_tier1_captain"
+        "raid_tier1_captain",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-09-27T12:36:10Z"
+      "lastUpdated": "2026-09-27T12:38:13Z"
     },
     "majesty81": {
       "counters": {
@@ -9563,7 +9564,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2128,
+        "chat": 2130,
         "follow": 1,
         "points_spent": 31000,
         "effects": 12,
@@ -9595,7 +9596,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-27T12:37:00Z"
+      "lastUpdated": "2026-09-27T12:37:52Z"
     },
     "noggen_": {
       "counters": {
@@ -11214,7 +11215,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 143,
+        "chat": 145,
         "follow": 1,
         "points_spent": 1050,
         "effects": 2
@@ -11229,7 +11230,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-27T12:36:35Z"
+      "lastUpdated": "2026-09-27T12:38:07Z"
     },
     "konkrs": {
       "counters": {
@@ -11577,7 +11578,7 @@
       "lastUpdated": "2026-09-27T11:32:03Z"
     }
   },
-  "lastUpdated": "2026-09-27T11:37:05Z",
+  "lastUpdated": "2026-09-27T11:38:13Z",
   "totalUsers": 594,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
