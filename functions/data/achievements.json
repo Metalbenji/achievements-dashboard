@@ -11065,7 +11065,7 @@
         "points_spent": 1900,
         "effects": 2,
         "follow": 1,
-        "chat": 299,
+        "chat": 300,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -11079,9 +11079,10 @@
         "chat_regular",
         "night_owl",
         "chat_frequent",
-        "spender_bronze"
+        "spender_bronze",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-27T11:12:20Z"
+      "lastUpdated": "2026-09-27T11:12:46Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11558,7 +11559,7 @@
       "lastUpdated": "2026-09-14T22:34:07Z"
     }
   },
-  "lastUpdated": "2026-09-27T10:12:21Z",
+  "lastUpdated": "2026-09-27T10:12:47Z",
   "totalUsers": 593,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
