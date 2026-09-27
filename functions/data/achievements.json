@@ -4840,7 +4840,7 @@
       "counters": {
         "sub": 52,
         "follow": 1,
-        "chat": 1156,
+        "chat": 1157,
         "points_spent": 2253,
         "sounds": 1,
         "interactive": 1,
@@ -4884,7 +4884,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-09-27T12:12:51Z"
+      "lastUpdated": "2026-09-27T16:38:55Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -11595,7 +11595,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 71,
+        "chat": 72,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11605,7 +11605,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:37:19Z"
+      "lastUpdated": "2026-09-27T16:37:50Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11627,14 +11627,15 @@
     },
     "leviathanbroadcast": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-27T16:33:32Z"
+      "lastUpdated": "2026-09-27T16:39:08Z"
     },
     "the_lightling": {
       "counters": {
@@ -11661,7 +11662,7 @@
       "lastUpdated": "2026-09-27T16:30:29Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:37:39Z",
+  "lastUpdated": "2026-09-27T15:39:08Z",
   "totalUsers": 600,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
