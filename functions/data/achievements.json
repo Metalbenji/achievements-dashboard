@@ -2266,7 +2266,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2282,
+        "chat": 2284,
         "points_spent": 331621,
         "effects": 22,
         "sounds": 18,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T16:31:07Z"
+      "lastUpdated": "2026-09-27T16:49:06Z"
     },
     "anzerou": {
       "counters": {
@@ -7592,7 +7592,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 712,
+        "chat": 715,
         "points_spent": 5200,
         "interactive": 1,
         "screenshot": 2,
@@ -7630,7 +7630,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-09-27T16:37:34Z"
+      "lastUpdated": "2026-09-27T16:42:38Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9963,7 +9963,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 203,
+        "chat": 210,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
@@ -10005,7 +10005,7 @@
         "bits_steady",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-27T16:30:06Z"
+      "lastUpdated": "2026-09-27T16:49:28Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11627,7 +11627,7 @@
     },
     "leviathanbroadcast": {
       "counters": {
-        "chat": 5,
+        "chat": 9,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11635,22 +11635,23 @@
         "follow_supporter",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-09-27T16:39:08Z"
+      "lastUpdated": "2026-09-27T16:49:07Z"
     },
     "the_lightling": {
       "counters": {
         "follow": 1,
-        "chat": 5,
-        "points_spent": 100,
+        "chat": 10,
+        "points_spent": 400,
         "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "effect_first",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-09-27T16:37:38Z"
+      "lastUpdated": "2026-09-27T16:49:30Z"
     },
     "tostigroover": {
       "counters": {
@@ -11662,7 +11663,7 @@
       "lastUpdated": "2026-09-27T16:30:29Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:39:08Z",
+  "lastUpdated": "2026-09-27T15:49:31Z",
   "totalUsers": 600,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
