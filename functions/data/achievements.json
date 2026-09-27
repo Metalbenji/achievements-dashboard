@@ -1654,7 +1654,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1879,
+        "chat": 1880,
         "points_spent": 81060,
         "effects": 50,
         "follow": 1,
@@ -1722,7 +1722,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-27T11:56:29Z"
+      "lastUpdated": "2026-09-27T12:29:55Z"
     },
     "ramdon101": {
       "counters": {
@@ -1814,7 +1814,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3650,
+        "chat": 3651,
         "points_spent": 71808,
         "interactive": 63,
         "follow": 1,
@@ -1869,7 +1869,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-27T12:14:23Z"
+      "lastUpdated": "2026-09-27T12:29:26Z"
     },
     "aladderinsane": {
       "counters": {
@@ -6507,7 +6507,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 473,
+        "chat": 475,
         "points_spent": 6053,
         "effects": 8,
         "interactive": 2,
@@ -6533,7 +6533,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-27T12:15:01Z"
+      "lastUpdated": "2026-09-27T12:26:51Z"
     },
     "vezwarmane": {
       "counters": {
@@ -7515,7 +7515,7 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2155,
+        "chat": 2157,
         "points_spent": 115654,
         "sounds": 31,
         "effects": 29,
@@ -7572,7 +7572,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-27T12:19:58Z"
+      "lastUpdated": "2026-09-27T12:23:45Z"
     },
     "wolcenmae": {
       "counters": {
@@ -8806,9 +8806,9 @@
     "trippledad": {
       "counters": {
         "raid": 1,
-        "chat": 112,
+        "chat": 114,
         "follow": 1,
-        "sub": 2,
+        "sub": 3,
         "sub_tier": 1,
         "points_spent": 1100,
         "effects": 2
@@ -8825,9 +8825,10 @@
         "chat_conversationalist",
         "spender_bronze",
         "sub_supporter",
-        "chat_regular"
+        "chat_regular",
+        "sub_loyal"
       ],
-      "lastUpdated": "2026-08-08T09:44:26Z"
+      "lastUpdated": "2026-09-27T12:22:44Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -9529,7 +9530,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 24,
+        "chat": 25,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9540,9 +9541,10 @@
         "chat_newbie",
         "chat_talker",
         "effect_first",
-        "spender_bronze"
+        "spender_bronze",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T12:02:45Z"
+      "lastUpdated": "2026-09-27T12:30:13Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9561,7 +9563,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2125,
+        "chat": 2126,
         "follow": 1,
         "points_spent": 29000,
         "effects": 12,
@@ -9593,7 +9595,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-27T11:56:05Z"
+      "lastUpdated": "2026-09-27T12:22:33Z"
     },
     "noggen_": {
       "counters": {
@@ -9952,7 +9954,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 132,
+        "chat": 133,
         "gift_subs": 15,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 15,
@@ -9985,7 +9987,7 @@
         "gift_champion",
         "spender_silver"
       ],
-      "lastUpdated": "2026-09-27T12:11:29Z"
+      "lastUpdated": "2026-09-27T12:22:36Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11211,7 +11213,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 119,
+        "chat": 134,
         "follow": 1,
         "points_spent": 1050,
         "effects": 2
@@ -11226,7 +11228,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-27T12:21:40Z"
+      "lastUpdated": "2026-09-27T12:29:43Z"
     },
     "konkrs": {
       "counters": {
@@ -11574,7 +11576,7 @@
       "lastUpdated": "2026-09-27T11:32:03Z"
     }
   },
-  "lastUpdated": "2026-09-27T11:22:24Z",
+  "lastUpdated": "2026-09-27T11:30:14Z",
   "totalUsers": 594,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
