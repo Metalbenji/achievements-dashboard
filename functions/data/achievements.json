@@ -2265,7 +2265,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2233,
+        "chat": 2234,
         "points_spent": 317621,
         "effects": 22,
         "sounds": 18,
@@ -2321,7 +2321,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T13:12:44Z"
+      "lastUpdated": "2026-09-27T13:20:08Z"
     },
     "anzerou": {
       "counters": {
@@ -2854,7 +2854,7 @@
     "hodbroddpl": {
       "counters": {
         "follow": 1,
-        "chat": 503,
+        "chat": 504,
         "points_spent": 26250,
         "interactive": 10,
         "effects": 5,
@@ -2882,7 +2882,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-27T13:17:05Z"
+      "lastUpdated": "2026-09-27T13:18:40Z"
     },
     "qyainiana": {
       "counters": {
@@ -3118,7 +3118,7 @@
     },
     "soundalerts": {
       "counters": {
-        "chat": 162
+        "chat": 163
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -3130,7 +3130,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-05T22:16:18Z"
+      "lastUpdated": "2026-09-27T13:19:41Z"
     },
     "gwinniejones": {
       "counters": {
@@ -3928,7 +3928,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2429,
+        "chat": 2430,
         "points_spent": 73651,
         "effects": 7,
         "interactive": 19,
@@ -3966,7 +3966,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-27T13:17:22Z"
+      "lastUpdated": "2026-09-27T13:18:00Z"
     },
     "roffelonator": {
       "counters": {
@@ -5876,8 +5876,8 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 329,
-        "points_spent": 8602,
+        "chat": 331,
+        "points_spent": 9602,
         "effects": 11,
         "sounds": 1
       },
@@ -5900,7 +5900,7 @@
         "effect_collector",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-09-27T11:28:38Z"
+      "lastUpdated": "2026-09-27T13:19:54Z"
     },
     "stellabellas": {
       "counters": {
@@ -6510,7 +6510,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 479,
+        "chat": 480,
         "points_spent": 6053,
         "effects": 8,
         "interactive": 2,
@@ -6536,7 +6536,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-27T13:16:46Z"
+      "lastUpdated": "2026-09-27T13:17:52Z"
     },
     "vezwarmane": {
       "counters": {
@@ -9533,7 +9533,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 30,
+        "chat": 31,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9547,7 +9547,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T13:17:06Z"
+      "lastUpdated": "2026-09-27T13:19:37Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9960,9 +9960,9 @@
       "counters": {
         "follow": 1,
         "chat": 140,
-        "gift_subs": 15,
-        "gift_bombs": 3,
-        "total_gift_bomb_subs": 15,
+        "gift_subs": 20,
+        "gift_bombs": 4,
+        "total_gift_bomb_subs": 20,
         "largest_gift_bomb": 5,
         "points_spent": 14000,
         "effects": 3,
@@ -9990,9 +9990,10 @@
         "spender_iron",
         "gift_bombs_regular",
         "gift_champion",
-        "spender_silver"
+        "spender_silver",
+        "gift_hero"
       ],
-      "lastUpdated": "2026-09-27T13:08:42Z"
+      "lastUpdated": "2026-09-27T13:17:43Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10335,7 +10336,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 637,
+        "chat": 638,
         "sub": 22,
         "points_spent": 300,
         "effects": 1,
@@ -10366,7 +10367,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-09-27T13:16:54Z"
+      "lastUpdated": "2026-09-27T13:19:07Z"
     },
     "vrishcath": {
       "counters": {
@@ -11582,18 +11583,19 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 8,
+        "chat": 10,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-09-27T13:16:13Z"
+      "lastUpdated": "2026-09-27T13:20:45Z"
     }
   },
-  "lastUpdated": "2026-09-27T12:17:44Z",
+  "lastUpdated": "2026-09-27T12:20:46Z",
   "totalUsers": 595,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
