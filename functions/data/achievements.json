@@ -2266,8 +2266,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2248,
-        "points_spent": 318621,
+        "chat": 2249,
+        "points_spent": 319621,
         "effects": 22,
         "sounds": 18,
         "sub": 43,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T13:54:23Z"
+      "lastUpdated": "2026-09-27T15:09:06Z"
     },
     "anzerou": {
       "counters": {
@@ -2660,17 +2660,17 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6522,
-        "points_spent": 179302,
-        "effects": 73,
+        "chat": 6526,
+        "points_spent": 181652,
+        "effects": 74,
         "sub": 51,
         "sounds": 10,
         "bits": 6000,
         "screenshot": 7,
         "clips": 34,
-        "gift_subs": 492,
-        "gift_bombs": 2,
-        "total_gift_bomb_subs": 480,
+        "gift_subs": 500,
+        "gift_bombs": 3,
+        "total_gift_bomb_subs": 488,
         "largest_gift_bomb": 445,
         "sub_tier": 1,
         "interactive": 2,
@@ -2764,9 +2764,10 @@
         "donation_caring",
         "big_donation_regular",
         "total_donation_hero",
-        "first_caller"
+        "first_caller",
+        "gift_deity"
       ],
-      "lastUpdated": "2026-09-27T14:49:55Z"
+      "lastUpdated": "2026-09-27T15:11:36Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3930,7 +3931,7 @@
       "counters": {
         "follow": 1,
         "chat": 2432,
-        "points_spent": 74651,
+        "points_spent": 76651,
         "effects": 7,
         "interactive": 19,
         "screenshot": 3,
@@ -3967,7 +3968,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-27T14:39:47Z"
+      "lastUpdated": "2026-09-27T15:10:16Z"
     },
     "roffelonator": {
       "counters": {
@@ -4176,7 +4177,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 179
+        "chat": 181
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4187,7 +4188,7 @@
         "chat_regular",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-27T12:40:28Z"
+      "lastUpdated": "2026-09-27T15:03:24Z"
     },
     "arpi_89": {
       "counters": {
@@ -5877,7 +5878,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 344,
+        "chat": 349,
         "points_spent": 10602,
         "effects": 11,
         "sounds": 1
@@ -5902,7 +5903,7 @@
         "chat_dedicated",
         "spender_silver"
       ],
-      "lastUpdated": "2026-09-27T14:44:40Z"
+      "lastUpdated": "2026-09-27T15:00:35Z"
     },
     "stellabellas": {
       "counters": {
@@ -7520,10 +7521,10 @@
     "epikk__": {
       "counters": {
         "follow": 1,
-        "chat": 2167,
-        "points_spent": 121654,
+        "chat": 2173,
+        "points_spent": 122954,
         "sounds": 31,
-        "effects": 29,
+        "effects": 30,
         "screenshot": 2,
         "sub": 22,
         "interactive": 15,
@@ -7577,7 +7578,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-27T14:32:16Z"
+      "lastUpdated": "2026-09-27T15:02:32Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9570,7 +9571,7 @@
       "counters": {
         "chat": 2188,
         "follow": 1,
-        "points_spent": 35000,
+        "points_spent": 36000,
         "effects": 12,
         "interactive": 4,
         "screenshot": 2,
@@ -9600,7 +9601,7 @@
         "spender_electrum",
         "sound_first"
       ],
-      "lastUpdated": "2026-09-27T14:38:51Z"
+      "lastUpdated": "2026-09-27T14:54:34Z"
     },
     "noggen_": {
       "counters": {
@@ -9961,12 +9962,12 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 150,
+        "chat": 159,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
         "largest_gift_bomb": 5,
-        "points_spent": 18301,
+        "points_spent": 20301,
         "effects": 3,
         "bits": 101
       },
@@ -9997,7 +9998,7 @@
         "birthday_person",
         "emperor_loyal"
       ],
-      "lastUpdated": "2026-09-27T14:52:36Z"
+      "lastUpdated": "2026-09-27T15:08:38Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11598,10 +11599,19 @@
         "chat_conversationalist"
       ],
       "lastUpdated": "2026-09-27T14:03:18Z"
+    },
+    "ananonymousgifter": {
+      "counters": {
+        "gift_subs": 1
+      },
+      "unlockedAchievements": [
+        "gift_starter"
+      ],
+      "lastUpdated": "2026-09-27T14:52:43Z"
     }
   },
-  "lastUpdated": "2026-09-27T13:52:44Z",
-  "totalUsers": 595,
+  "lastUpdated": "2026-09-27T14:11:37Z",
+  "totalUsers": 596,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
