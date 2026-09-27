@@ -9963,7 +9963,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 202,
+        "chat": 203,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
@@ -10005,7 +10005,7 @@
         "bits_steady",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-27T16:29:57Z"
+      "lastUpdated": "2026-09-27T16:30:06Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11595,7 +11595,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 68,
+        "chat": 69,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11605,7 +11605,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:29:09Z"
+      "lastUpdated": "2026-09-27T16:30:16Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11638,16 +11638,27 @@
     },
     "the_lightling": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-09-27T16:30:03Z"
+      "lastUpdated": "2026-09-27T16:30:04Z"
+    },
+    "tostigroover": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-27T16:30:29Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:30:04Z",
-  "totalUsers": 599,
+  "lastUpdated": "2026-09-27T15:30:30Z",
+  "totalUsers": 600,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
