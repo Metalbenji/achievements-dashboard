@@ -1815,7 +1815,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3664,
+        "chat": 3666,
         "points_spent": 71808,
         "interactive": 63,
         "follow": 1,
@@ -1870,7 +1870,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-09-27T14:46:21Z"
+      "lastUpdated": "2026-09-27T15:24:20Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2660,14 +2660,14 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6531,
+        "chat": 6533,
         "points_spent": 181652,
         "effects": 74,
         "sub": 51,
         "sounds": 10,
         "bits": 6000,
         "screenshot": 7,
-        "clips": 34,
+        "clips": 35,
         "gift_subs": 500,
         "gift_bombs": 3,
         "total_gift_bomb_subs": 488,
@@ -2767,7 +2767,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-09-27T15:16:22Z"
+      "lastUpdated": "2026-09-27T15:30:02Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3672,7 +3672,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5293,
+        "chat": 5297,
         "sub": 54,
         "points_spent": 2350,
         "screenshot": 1,
@@ -3728,7 +3728,7 @@
         "raid_tier1_captain",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-09-27T13:57:21Z"
+      "lastUpdated": "2026-09-27T15:25:06Z"
     },
     "majesty81": {
       "counters": {
@@ -9962,14 +9962,15 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 164,
+        "chat": 172,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
         "largest_gift_bomb": 5,
-        "points_spent": 25301,
+        "points_spent": 27301,
         "effects": 3,
-        "bits": 172
+        "bits": 172,
+        "clips": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9997,9 +9998,11 @@
         "gift_hero",
         "birthday_person",
         "emperor_loyal",
-        "spender_electrum"
+        "spender_electrum",
+        "vip_dreamer",
+        "clip_first"
       ],
-      "lastUpdated": "2026-09-27T15:22:07Z"
+      "lastUpdated": "2026-09-27T15:30:23Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10254,14 +10257,14 @@
     },
     "kcdcd": {
       "counters": {
-        "chat": 3,
+        "chat": 4,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter"
       ],
-      "lastUpdated": "2026-06-27T16:19:56Z"
+      "lastUpdated": "2026-09-27T15:22:09Z"
     },
     "lilyoftremere": {
       "counters": {
@@ -11611,7 +11614,7 @@
       "lastUpdated": "2026-09-27T14:52:43Z"
     }
   },
-  "lastUpdated": "2026-09-27T14:22:08Z",
+  "lastUpdated": "2026-09-27T14:30:24Z",
   "totalUsers": 596,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
