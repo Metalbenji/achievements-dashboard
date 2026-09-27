@@ -2265,8 +2265,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2224,
-        "points_spent": 312621,
+        "chat": 2230,
+        "points_spent": 315621,
         "effects": 22,
         "sounds": 18,
         "sub": 43,
@@ -2321,7 +2321,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T13:02:54Z"
+      "lastUpdated": "2026-09-27T13:08:54Z"
     },
     "anzerou": {
       "counters": {
@@ -2659,8 +2659,8 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6469,
-        "points_spent": 171952,
+        "chat": 6473,
+        "points_spent": 173952,
         "effects": 72,
         "sub": 51,
         "sounds": 10,
@@ -2765,7 +2765,7 @@
         "total_donation_hero",
         "first_caller"
       ],
-      "lastUpdated": "2026-09-27T13:02:05Z"
+      "lastUpdated": "2026-09-27T13:07:32Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7517,7 +7517,7 @@
       "counters": {
         "follow": 1,
         "chat": 2161,
-        "points_spent": 118654,
+        "points_spent": 119654,
         "sounds": 31,
         "effects": 29,
         "screenshot": 2,
@@ -7573,7 +7573,7 @@
         "effect_master",
         "night_owl"
       ],
-      "lastUpdated": "2026-09-27T13:01:51Z"
+      "lastUpdated": "2026-09-27T13:08:54Z"
     },
     "wolcenmae": {
       "counters": {
@@ -9962,7 +9962,7 @@
         "gift_bombs": 3,
         "total_gift_bomb_subs": 15,
         "largest_gift_bomb": 5,
-        "points_spent": 12000,
+        "points_spent": 14000,
         "effects": 3,
         "bits": 101
       },
@@ -9990,7 +9990,7 @@
         "gift_champion",
         "spender_silver"
       ],
-      "lastUpdated": "2026-09-27T13:00:51Z"
+      "lastUpdated": "2026-09-27T13:08:42Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11577,10 +11577,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-09-27T11:32:03Z"
+    },
+    "winterguardianpet": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-27T13:08:58Z"
     }
   },
-  "lastUpdated": "2026-09-27T12:03:16Z",
-  "totalUsers": 594,
+  "lastUpdated": "2026-09-27T12:08:59Z",
+  "totalUsers": 595,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
