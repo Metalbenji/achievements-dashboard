@@ -2266,7 +2266,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2275,
+        "chat": 2278,
         "points_spent": 331621,
         "effects": 22,
         "sounds": 18,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T16:23:34Z"
+      "lastUpdated": "2026-09-27T16:27:55Z"
     },
     "anzerou": {
       "counters": {
@@ -3426,7 +3426,7 @@
     "andilippi": {
       "counters": {
         "follow": 1,
-        "chat": 87,
+        "chat": 88,
         "raid": 2
       },
       "unlockedAchievements": [
@@ -3437,7 +3437,7 @@
         "chat_conversationalist",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-27T16:24:05Z"
+      "lastUpdated": "2026-09-27T16:24:38Z"
     },
     "gngrwow": {
       "counters": {
@@ -3930,7 +3930,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2434,
+        "chat": 2437,
         "points_spent": 78651,
         "effects": 7,
         "interactive": 19,
@@ -3968,7 +3968,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-09-27T16:23:29Z"
+      "lastUpdated": "2026-09-27T16:27:51Z"
     },
     "roffelonator": {
       "counters": {
@@ -7775,7 +7775,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1914,
+        "chat": 1917,
         "points_spent": 64951,
         "screenshot": 1,
         "effects": 5,
@@ -7815,7 +7815,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-09-27T16:22:14Z"
+      "lastUpdated": "2026-09-27T16:25:54Z"
     },
     "wigz666": {
       "counters": {
@@ -9536,7 +9536,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 37,
+        "chat": 38,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9550,7 +9550,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T13:53:49Z"
+      "lastUpdated": "2026-09-27T16:27:21Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9963,7 +9963,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 200,
+        "chat": 201,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
@@ -10005,7 +10005,7 @@
         "bits_steady",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-27T16:23:32Z"
+      "lastUpdated": "2026-09-27T16:26:40Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11595,7 +11595,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 66,
+        "chat": 67,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11605,7 +11605,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:23:51Z"
+      "lastUpdated": "2026-09-27T16:26:13Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11627,15 +11627,17 @@
     },
     "leviathanbroadcast": {
       "counters": {
-        "chat": 1
+        "chat": 2,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-09-27T16:24:23Z"
+      "lastUpdated": "2026-09-27T16:28:04Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:24:24Z",
+  "lastUpdated": "2026-09-27T15:28:05Z",
   "totalUsers": 598,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
