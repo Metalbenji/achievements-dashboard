@@ -2266,7 +2266,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2284,
+        "chat": 2287,
         "points_spent": 331621,
         "effects": 22,
         "sounds": 18,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-09-27T16:49:06Z"
+      "lastUpdated": "2026-09-27T16:54:58Z"
     },
     "anzerou": {
       "counters": {
@@ -9536,7 +9536,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 43,
+        "chat": 47,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9550,7 +9550,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:53:12Z"
+      "lastUpdated": "2026-09-27T16:56:19Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9963,7 +9963,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 215,
+        "chat": 219,
         "gift_subs": 20,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 20,
@@ -10005,7 +10005,7 @@
         "bits_steady",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-09-27T16:53:10Z"
+      "lastUpdated": "2026-09-27T16:57:06Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11595,7 +11595,7 @@
     },
     "winterguardianpet": {
       "counters": {
-        "chat": 72,
+        "chat": 74,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11605,7 +11605,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T16:37:50Z"
+      "lastUpdated": "2026-09-27T16:56:40Z"
     },
     "ananonymousgifter": {
       "counters": {
@@ -11627,7 +11627,7 @@
     },
     "leviathanbroadcast": {
       "counters": {
-        "chat": 10,
+        "chat": 12,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -11636,12 +11636,12 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-27T16:53:19Z"
+      "lastUpdated": "2026-09-27T16:57:02Z"
     },
     "the_lightling": {
       "counters": {
         "follow": 1,
-        "chat": 16,
+        "chat": 20,
         "points_spent": 400,
         "effects": 1
       },
@@ -11652,7 +11652,7 @@
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-09-27T16:53:12Z"
+      "lastUpdated": "2026-09-27T16:56:03Z"
     },
     "tostigroover": {
       "counters": {
@@ -11662,10 +11662,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-09-27T16:30:29Z"
+    },
+    "soultiedinaknot": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-09-27T16:57:13Z"
     }
   },
-  "lastUpdated": "2026-09-27T15:53:20Z",
-  "totalUsers": 600,
+  "lastUpdated": "2026-09-27T15:57:14Z",
+  "totalUsers": 601,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
