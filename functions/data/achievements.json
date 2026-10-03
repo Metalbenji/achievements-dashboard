@@ -1875,7 +1875,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 930,
+        "chat": 931,
         "follow": 1,
         "sub": 43,
         "points_spent": 96350,
@@ -1918,7 +1918,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-03T12:05:06Z"
+      "lastUpdated": "2026-10-03T12:18:11Z"
     },
     "scoman07": {
       "counters": {
@@ -6147,7 +6147,7 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 98,
+        "chat": 100,
         "sub": 25,
         "sub_tier": 1
       },
@@ -6166,9 +6166,10 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "sub_diamond"
+        "sub_diamond",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-10-03T12:16:30Z"
+      "lastUpdated": "2026-10-03T12:19:10Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -6518,7 +6519,7 @@
     "bradzilla88": {
       "counters": {
         "follow": 1,
-        "chat": 492,
+        "chat": 494,
         "points_spent": 9353,
         "effects": 8,
         "interactive": 2,
@@ -6544,7 +6545,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-09-27T13:59:58Z"
+      "lastUpdated": "2026-10-03T12:18:32Z"
     },
     "vezwarmane": {
       "counters": {
@@ -7780,7 +7781,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 2009,
+        "chat": 2010,
         "points_spent": 66252,
         "screenshot": 1,
         "effects": 5,
@@ -7820,7 +7821,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-03T12:15:10Z"
+      "lastUpdated": "2026-10-03T12:18:26Z"
     },
     "wigz666": {
       "counters": {
@@ -10363,7 +10364,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 660,
+        "chat": 661,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10394,7 +10395,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-10-03T12:17:15Z"
+      "lastUpdated": "2026-10-03T12:18:50Z"
     },
     "vrishcath": {
       "counters": {
@@ -10466,7 +10467,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 83
+        "chat": 85
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10476,7 +10477,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-03T12:17:56Z"
+      "lastUpdated": "2026-10-03T12:18:42Z"
     },
     "wild_saber1337": {
       "counters": {
@@ -11731,7 +11732,7 @@
       "lastUpdated": "2026-10-03T11:16:06Z"
     }
   },
-  "lastUpdated": "2026-10-03T11:18:06Z",
+  "lastUpdated": "2026-10-03T11:19:11Z",
   "totalUsers": 603,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
