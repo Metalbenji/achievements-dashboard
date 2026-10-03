@@ -3324,7 +3324,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2480,
+        "chat": 2481,
         "points_spent": 143451,
         "sounds": 14,
         "effects": 157,
@@ -3424,7 +3424,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-10-03T13:28:59Z"
+      "lastUpdated": "2026-10-03T13:29:12Z"
     },
     "andilippi": {
       "counters": {
@@ -6744,7 +6744,7 @@
     },
     "grimlocc": {
       "counters": {
-        "chat": 553,
+        "chat": 554,
         "follow": 1,
         "points_spent": 48200,
         "sounds": 2,
@@ -6772,7 +6772,7 @@
         "effect_first",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-09-12T09:47:12Z"
+      "lastUpdated": "2026-10-03T13:30:04Z"
     },
     "sagegaming9": {
       "counters": {
@@ -10521,7 +10521,7 @@
     "elvi0396": {
       "counters": {
         "follow": 1,
-        "chat": 244,
+        "chat": 245,
         "points_spent": 5350,
         "effects": 7,
         "interactive": 3,
@@ -10546,7 +10546,7 @@
         "sub_loyal",
         "spender_iron"
       ],
-      "lastUpdated": "2026-10-03T13:28:24Z"
+      "lastUpdated": "2026-10-03T13:29:29Z"
     },
     "rahzie1": {
       "counters": {
@@ -11108,10 +11108,10 @@
     },
     "atk_69": {
       "counters": {
-        "points_spent": 4900,
+        "points_spent": 5900,
         "effects": 2,
         "follow": 1,
-        "chat": 321,
+        "chat": 332,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -11126,9 +11126,10 @@
         "night_owl",
         "chat_frequent",
         "spender_bronze",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_iron"
       ],
-      "lastUpdated": "2026-10-03T13:28:53Z"
+      "lastUpdated": "2026-10-03T13:32:35Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11206,7 +11207,7 @@
     "tkoybmlf": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 6,
         "points_spent": 3000
       },
       "unlockedAchievements": [
@@ -11215,7 +11216,7 @@
         "spender_bronze",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-10-03T13:29:05Z"
+      "lastUpdated": "2026-10-03T13:31:44Z"
     },
     "zantcha": {
       "counters": {
@@ -11742,7 +11743,7 @@
       "lastUpdated": "2026-10-03T11:16:06Z"
     }
   },
-  "lastUpdated": "2026-10-03T12:29:06Z",
+  "lastUpdated": "2026-10-03T12:32:36Z",
   "totalUsers": 603,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
