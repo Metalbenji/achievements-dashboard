@@ -1655,7 +1655,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1941,
+        "chat": 1942,
         "points_spent": 81760,
         "effects": 52,
         "follow": 1,
@@ -1723,7 +1723,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-03T12:25:33Z"
+      "lastUpdated": "2026-10-03T12:54:55Z"
     },
     "ramdon101": {
       "counters": {
@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3698,
+        "chat": 3700,
         "points_spent": 71808,
         "interactive": 63,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-03T12:53:36Z"
+      "lastUpdated": "2026-10-03T12:55:26Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3675,7 +3675,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5352,
+        "chat": 5353,
         "sub": 54,
         "points_spent": 2350,
         "screenshot": 1,
@@ -3731,7 +3731,7 @@
         "raid_tier1_captain",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-10-03T12:54:36Z"
+      "lastUpdated": "2026-10-03T12:55:27Z"
     },
     "majesty81": {
       "counters": {
@@ -6523,7 +6523,7 @@
       "counters": {
         "follow": 1,
         "chat": 494,
-        "points_spent": 9353,
+        "points_spent": 14353,
         "effects": 8,
         "interactive": 2,
         "sounds": 1,
@@ -6546,9 +6546,10 @@
         "first_caller",
         "night_owl",
         "chat_dedicated",
-        "spender_iron"
+        "spender_iron",
+        "spender_silver"
       ],
-      "lastUpdated": "2026-10-03T12:18:32Z"
+      "lastUpdated": "2026-10-03T12:55:35Z"
     },
     "vezwarmane": {
       "counters": {
@@ -11736,7 +11737,7 @@
       "lastUpdated": "2026-10-03T11:16:06Z"
     }
   },
-  "lastUpdated": "2026-10-03T11:54:47Z",
+  "lastUpdated": "2026-10-03T11:55:36Z",
   "totalUsers": 603,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
