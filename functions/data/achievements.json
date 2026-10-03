@@ -10358,7 +10358,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 653,
+        "chat": 654,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10389,7 +10389,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-10-03T11:36:56Z"
+      "lastUpdated": "2026-10-03T11:40:58Z"
     },
     "vrishcath": {
       "counters": {
@@ -11496,13 +11496,14 @@
     "jerexix": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T13:55:50Z"
+      "lastUpdated": "2026-10-03T11:45:51Z"
     },
     "snuggzandclaws": {
       "counters": {
@@ -11725,7 +11726,7 @@
       "lastUpdated": "2026-10-03T11:16:06Z"
     }
   },
-  "lastUpdated": "2026-10-03T10:39:59Z",
+  "lastUpdated": "2026-10-03T10:45:52Z",
   "totalUsers": 603,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
