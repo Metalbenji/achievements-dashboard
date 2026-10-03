@@ -1530,7 +1530,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5937,
+        "chat": 5939,
         "points_spent": 216351,
         "effects": 28,
         "sub": 20,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-10-03T11:04:05Z"
+      "lastUpdated": "2026-10-03T11:15:40Z"
     },
     "celran": {
       "counters": {
@@ -3138,7 +3138,7 @@
     "gwinniejones": {
       "counters": {
         "follow": 1,
-        "chat": 1206,
+        "chat": 1208,
         "sub": 49,
         "points_spent": 20000,
         "sounds": 1,
@@ -3179,7 +3179,7 @@
         "chat_champion",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-03T10:55:35Z"
+      "lastUpdated": "2026-10-03T11:15:31Z"
     },
     "ppjackson69": {
       "counters": {
@@ -4242,7 +4242,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 630,
+        "chat": 632,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -4271,7 +4271,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-03T11:06:37Z"
+      "lastUpdated": "2026-10-03T11:08:58Z"
     },
     "mulquero": {
       "counters": {
@@ -6146,7 +6146,7 @@
     "blackrobe1": {
       "counters": {
         "follow": 1,
-        "chat": 93,
+        "chat": 94,
         "sub": 25,
         "sub_tier": 1
       },
@@ -6167,7 +6167,7 @@
         "sub_platinum",
         "sub_diamond"
       ],
-      "lastUpdated": "2026-10-03T11:06:06Z"
+      "lastUpdated": "2026-10-03T11:06:57Z"
     },
     "mr_toxicity9000": {
       "counters": {
@@ -9179,7 +9179,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 740,
+        "chat": 745,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9194,7 +9194,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-10-03T11:06:38Z"
+      "lastUpdated": "2026-10-03T11:13:14Z"
     },
     "hedgeswine": {
       "counters": {
@@ -10311,13 +10311,14 @@
     },
     "gnawler": {
       "counters": {
-        "chat": 1,
+        "chat": 2,
         "follow": 1
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "weekend_warrior"
       ],
-      "lastUpdated": "2026-10-03T11:06:39Z"
+      "lastUpdated": "2026-10-03T11:06:41Z"
     },
     "scottishchiddy": {
       "counters": {
@@ -10355,7 +10356,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 646,
+        "chat": 647,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10386,7 +10387,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-10-03T11:05:06Z"
+      "lastUpdated": "2026-10-03T11:08:14Z"
     },
     "vrishcath": {
       "counters": {
@@ -11709,10 +11710,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-10-03T09:20:57Z"
+    },
+    "tyrannicalpie": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-10-03T11:16:05Z"
     }
   },
-  "lastUpdated": "2026-10-03T10:06:40Z",
-  "totalUsers": 602,
+  "lastUpdated": "2026-10-03T10:16:06Z",
+  "totalUsers": 603,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
