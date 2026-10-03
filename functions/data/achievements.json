@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4716,
+        "chat": 4720,
         "points_spent": 250853,
         "screenshot": 4,
         "follow": 1,
@@ -1811,7 +1811,7 @@
         "chat_elite",
         "gift_bomb_5"
       ],
-      "lastUpdated": "2026-10-03T08:19:51Z"
+      "lastUpdated": "2026-10-03T08:22:23Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2266,7 +2266,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2293,
+        "chat": 2295,
         "points_spent": 331621,
         "effects": 22,
         "sounds": 18,
@@ -2322,7 +2322,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-10-03T07:41:19Z"
+      "lastUpdated": "2026-10-03T08:21:05Z"
     },
     "anzerou": {
       "counters": {
@@ -6092,16 +6092,17 @@
     "guldhamstern": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 5,
         "points_spent": 800,
         "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "effect_first"
+        "effect_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-09-12T10:41:34Z"
+      "lastUpdated": "2026-10-03T08:22:28Z"
     },
     "grimmplys": {
       "counters": {
@@ -7776,7 +7777,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 1931,
+        "chat": 1934,
         "points_spent": 64952,
         "screenshot": 1,
         "effects": 5,
@@ -7816,7 +7817,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-03T08:19:45Z"
+      "lastUpdated": "2026-10-03T08:21:56Z"
     },
     "wigz666": {
       "counters": {
@@ -11683,7 +11684,7 @@
       "lastUpdated": "2026-09-27T17:58:15Z"
     }
   },
-  "lastUpdated": "2026-10-03T07:19:58Z",
+  "lastUpdated": "2026-10-03T07:22:29Z",
   "totalUsers": 601,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
