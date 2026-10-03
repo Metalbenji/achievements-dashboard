@@ -1461,8 +1461,8 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 800,
-        "points_spent": 70652,
+        "chat": 802,
+        "points_spent": 72652,
         "follow": 1,
         "sub": 27,
         "interactive": 1,
@@ -1510,7 +1510,7 @@
         "screenshot_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-03T12:23:44Z"
+      "lastUpdated": "2026-10-03T12:29:37Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1530,7 +1530,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5951,
+        "chat": 5955,
         "points_spent": 216351,
         "effects": 28,
         "sub": 20,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-10-03T12:00:09Z"
+      "lastUpdated": "2026-10-03T12:26:18Z"
     },
     "celran": {
       "counters": {
@@ -1655,7 +1655,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1939,
+        "chat": 1941,
         "points_spent": 81760,
         "effects": 52,
         "follow": 1,
@@ -1723,11 +1723,11 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-03T12:23:07Z"
+      "lastUpdated": "2026-10-03T12:25:33Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 4775,
+        "chat": 4779,
         "points_spent": 259553,
         "screenshot": 4,
         "follow": 1,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-03T12:23:20Z"
+      "lastUpdated": "2026-10-03T12:26:18Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1875,7 +1875,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 932,
+        "chat": 933,
         "follow": 1,
         "sub": 43,
         "points_spent": 96350,
@@ -1918,7 +1918,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-03T12:20:25Z"
+      "lastUpdated": "2026-10-03T12:24:29Z"
     },
     "scoman07": {
       "counters": {
@@ -2268,8 +2268,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2359,
-        "points_spent": 332621,
+        "chat": 2360,
+        "points_spent": 334621,
         "effects": 22,
         "sounds": 18,
         "sub": 43,
@@ -2324,7 +2324,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-10-03T12:20:58Z"
+      "lastUpdated": "2026-10-03T12:28:14Z"
     },
     "anzerou": {
       "counters": {
@@ -4163,7 +4163,8 @@
     "camm_23": {
       "counters": {
         "follow": 1,
-        "chat": 537
+        "chat": 542,
+        "points_spent": 1000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4173,9 +4174,10 @@
         "chat_conversationalist",
         "chat_regular",
         "chat_frequent",
-        "chat_dedicated"
+        "chat_dedicated",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-10-03T10:21:31Z"
+      "lastUpdated": "2026-10-03T12:29:57Z"
     },
     "akiraownz": {
       "counters": {
@@ -10315,7 +10317,7 @@
     },
     "gnawler": {
       "counters": {
-        "chat": 16,
+        "chat": 17,
         "follow": 1,
         "points_spent": 500,
         "interactive": 1
@@ -10327,7 +10329,7 @@
         "interactive_first",
         "chat_talker"
       ],
-      "lastUpdated": "2026-10-03T12:23:38Z"
+      "lastUpdated": "2026-10-03T12:26:42Z"
     },
     "scottishchiddy": {
       "counters": {
@@ -10365,7 +10367,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 662,
+        "chat": 663,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10396,7 +10398,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-10-03T12:22:55Z"
+      "lastUpdated": "2026-10-03T12:25:38Z"
     },
     "vrishcath": {
       "counters": {
@@ -10468,7 +10470,7 @@
     "lokonak": {
       "counters": {
         "follow": 1,
-        "chat": 96
+        "chat": 97
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10478,7 +10480,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-03T12:23:41Z"
+      "lastUpdated": "2026-10-03T12:23:58Z"
     },
     "wild_saber1337": {
       "counters": {
@@ -11733,7 +11735,7 @@
       "lastUpdated": "2026-10-03T11:16:06Z"
     }
   },
-  "lastUpdated": "2026-10-03T11:23:49Z",
+  "lastUpdated": "2026-10-03T11:29:58Z",
   "totalUsers": 603,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
