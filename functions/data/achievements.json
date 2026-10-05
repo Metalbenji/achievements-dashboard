@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4812,
+        "chat": 4813,
         "points_spent": 259554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-05T19:23:45Z"
+      "lastUpdated": "2026-10-05T19:26:29Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2662,7 +2662,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6569,
+        "chat": 6570,
         "points_spent": 182653,
         "effects": 74,
         "sub": 51,
@@ -2670,7 +2670,7 @@
         "bits": 6000,
         "screenshot": 7,
         "clips": 35,
-        "gift_subs": 510,
+        "gift_subs": 511,
         "gift_bombs": 4,
         "total_gift_bomb_subs": 498,
         "largest_gift_bomb": 445,
@@ -2769,7 +2769,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-10-05T19:24:06Z"
+      "lastUpdated": "2026-10-05T19:26:05Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7320,9 +7320,9 @@
         "sub_tier": 1,
         "interactive": 6,
         "raid": 1,
-        "gift_subs": 27,
-        "gift_bombs": 1,
-        "total_gift_bomb_subs": 27,
+        "gift_subs": 32,
+        "gift_bombs": 2,
+        "total_gift_bomb_subs": 32,
         "largest_gift_bomb": 27
       },
       "unlockedAchievements": [
@@ -7358,7 +7358,9 @@
         "gift_thoughtful",
         "gift_supporter",
         "gift_champion",
-        "gift_hero"
+        "gift_hero",
+        "gift_bomb_5",
+        "gift_angel"
       ],
       "lastUpdated": "2026-10-05T19:21:08Z"
     },
@@ -9550,7 +9552,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 66,
+        "chat": 68,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9564,7 +9566,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-09-27T17:12:36Z"
+      "lastUpdated": "2026-10-05T19:25:32Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9583,7 +9585,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2319,
+        "chat": 2320,
         "follow": 1,
         "points_spent": 54500,
         "effects": 13,
@@ -9617,7 +9619,7 @@
         "vip_dreamer",
         "spender_gold"
       ],
-      "lastUpdated": "2026-10-05T19:23:38Z"
+      "lastUpdated": "2026-10-05T19:26:30Z"
     },
     "noggen_": {
       "counters": {
@@ -11764,7 +11766,7 @@
       "lastUpdated": "2026-10-05T19:25:21Z"
     }
   },
-  "lastUpdated": "2026-10-05T18:25:22Z",
+  "lastUpdated": "2026-10-05T18:26:38Z",
   "totalUsers": 604,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
