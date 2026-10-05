@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4790,
+        "chat": 4791,
         "points_spent": 259554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-05T18:59:41Z"
+      "lastUpdated": "2026-10-05T19:03:00Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -11748,15 +11748,17 @@
     },
     "discodiddy": {
       "counters": {
-        "follow": 1
+        "follow": 1,
+        "chat": 5
       },
       "unlockedAchievements": [
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-10-05T19:02:34Z"
+      "lastUpdated": "2026-10-05T19:03:11Z"
     }
   },
-  "lastUpdated": "2026-10-05T18:02:36Z",
+  "lastUpdated": "2026-10-05T18:03:12Z",
   "totalUsers": 604,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
