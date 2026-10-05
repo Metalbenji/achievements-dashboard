@@ -1530,7 +1530,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5994,
+        "chat": 6001,
         "points_spent": 216351,
         "effects": 28,
         "sub": 20,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-10-05T19:08:24Z"
+      "lastUpdated": "2026-10-05T19:12:46Z"
     },
     "celran": {
       "counters": {
@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4796,
+        "chat": 4803,
         "points_spent": 259554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-05T19:06:40Z"
+      "lastUpdated": "2026-10-05T19:12:42Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3675,7 +3675,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5375,
+        "chat": 5379,
         "sub": 55,
         "points_spent": 2350,
         "screenshot": 1,
@@ -3731,7 +3731,7 @@
         "raid_tier1_captain",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-10-05T19:08:48Z"
+      "lastUpdated": "2026-10-05T19:10:19Z"
     },
     "majesty81": {
       "counters": {
@@ -9583,9 +9583,9 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2308,
+        "chat": 2313,
         "follow": 1,
-        "points_spent": 48500,
+        "points_spent": 50500,
         "effects": 13,
         "interactive": 4,
         "screenshot": 2,
@@ -9614,9 +9614,10 @@
         "spender_silver",
         "spender_electrum",
         "sound_first",
-        "vip_dreamer"
+        "vip_dreamer",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-10-05T19:06:40Z"
+      "lastUpdated": "2026-10-05T19:12:52Z"
     },
     "noggen_": {
       "counters": {
@@ -10374,7 +10375,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 701,
+        "chat": 704,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10405,7 +10406,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-10-03T15:02:12Z"
+      "lastUpdated": "2026-10-05T19:11:19Z"
     },
     "vrishcath": {
       "counters": {
@@ -11759,7 +11760,7 @@
       "lastUpdated": "2026-10-05T19:08:29Z"
     }
   },
-  "lastUpdated": "2026-10-05T18:08:49Z",
+  "lastUpdated": "2026-10-05T18:12:54Z",
   "totalUsers": 604,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
