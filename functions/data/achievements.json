@@ -1530,7 +1530,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 5985,
+        "chat": 5988,
         "points_spent": 216351,
         "effects": 28,
         "sub": 20,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-10-05T19:01:22Z"
+      "lastUpdated": "2026-10-05T19:04:37Z"
     },
     "celran": {
       "counters": {
@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4791,
+        "chat": 4793,
         "points_spent": 259554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-05T19:03:00Z"
+      "lastUpdated": "2026-10-05T19:04:19Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2361,7 +2361,7 @@
     "stevenbonk": {
       "counters": {
         "follow": 1,
-        "chat": 469,
+        "chat": 470,
         "points_spent": 73000,
         "sounds": 3,
         "interactive": 1,
@@ -2424,7 +2424,7 @@
         "sub_champion",
         "sub_platinum"
       ],
-      "lastUpdated": "2026-10-05T18:57:16Z"
+      "lastUpdated": "2026-10-05T19:03:13Z"
     },
     "ailuridaerob": {
       "counters": {
@@ -4669,7 +4669,7 @@
     "kailthaz": {
       "counters": {
         "follow": 1,
-        "chat": 229,
+        "chat": 230,
         "sub": 22,
         "raid": 5,
         "sub_tier": 1
@@ -4697,7 +4697,7 @@
         "chat_frequent",
         "raid_tier2_seasoned"
       ],
-      "lastUpdated": "2026-09-27T15:42:05Z"
+      "lastUpdated": "2026-10-05T19:04:34Z"
     },
     "xykojen": {
       "counters": {
@@ -7037,7 +7037,7 @@
     "betrayaleu": {
       "counters": {
         "follow": 1,
-        "chat": 125,
+        "chat": 126,
         "points_spent": 2
       },
       "unlockedAchievements": [
@@ -7050,7 +7050,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-08-23T15:16:59Z"
+      "lastUpdated": "2026-10-05T19:03:57Z"
     },
     "supra124": {
       "counters": {
@@ -11749,16 +11749,17 @@
     "discodiddy": {
       "counters": {
         "follow": 1,
-        "chat": 5
+        "chat": 10
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-10-05T19:03:11Z"
+      "lastUpdated": "2026-10-05T19:04:40Z"
     }
   },
-  "lastUpdated": "2026-10-05T18:03:12Z",
+  "lastUpdated": "2026-10-05T18:04:41Z",
   "totalUsers": 604,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
