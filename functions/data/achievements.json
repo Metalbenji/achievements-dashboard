@@ -1464,7 +1464,7 @@
         "chat": 813,
         "points_spent": 72652,
         "follow": 1,
-        "sub": 27,
+        "sub": 28,
         "interactive": 1,
         "effects": 2,
         "sub_tier": 1,
@@ -1510,7 +1510,7 @@
         "screenshot_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-03T13:47:28Z"
+      "lastUpdated": "2026-10-17T13:14:08Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1655,7 +1655,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 1964,
+        "chat": 1967,
         "points_spent": 82110,
         "effects": 53,
         "follow": 1,
@@ -1723,11 +1723,11 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-05T20:36:20Z"
+      "lastUpdated": "2026-10-17T13:13:38Z"
     },
     "ramdon101": {
       "counters": {
-        "chat": 4867,
+        "chat": 4869,
         "points_spent": 259554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-17T13:06:51Z"
+      "lastUpdated": "2026-10-17T13:13:04Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -3506,7 +3506,7 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3365,
+        "chat": 3368,
         "points_spent": 33201,
         "sounds": 15,
         "clips": 1,
@@ -3554,7 +3554,7 @@
         "chat_master_tier",
         "sound_dj"
       ],
-      "lastUpdated": "2026-10-17T13:11:54Z"
+      "lastUpdated": "2026-10-17T13:13:53Z"
     },
     "maximusis_": {
       "counters": {
@@ -8035,7 +8035,7 @@
     },
     "arvidz101": {
       "counters": {
-        "chat": 118,
+        "chat": 120,
         "points_spent": 300,
         "effects": 1
       },
@@ -8047,7 +8047,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-17T13:11:47Z"
+      "lastUpdated": "2026-10-17T13:13:28Z"
     },
     "geniejit": {
       "counters": {
@@ -8964,7 +8964,7 @@
     "skyeblue182": {
       "counters": {
         "follow": 1,
-        "chat": 80,
+        "chat": 85,
         "sub": 5
       },
       "unlockedAchievements": [
@@ -8981,7 +8981,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-17T13:11:35Z"
+      "lastUpdated": "2026-10-17T13:13:30Z"
     },
     "zabroke": {
       "counters": {
@@ -9236,7 +9236,7 @@
     "epicure1217": {
       "counters": {
         "follow": 1,
-        "chat": 169
+        "chat": 170
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -9247,7 +9247,7 @@
         "chat_regular",
         "night_owl"
       ],
-      "lastUpdated": "2026-10-17T12:57:39Z"
+      "lastUpdated": "2026-10-17T13:13:06Z"
     },
     "mrlawson__": {
       "counters": {
@@ -9587,9 +9587,9 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2343,
+        "chat": 2345,
         "follow": 1,
-        "points_spent": 57500,
+        "points_spent": 58500,
         "effects": 13,
         "interactive": 4,
         "screenshot": 2,
@@ -9621,7 +9621,7 @@
         "vip_dreamer",
         "spender_gold"
       ],
-      "lastUpdated": "2026-10-17T13:11:44Z"
+      "lastUpdated": "2026-10-17T13:13:39Z"
     },
     "noggen_": {
       "counters": {
@@ -11783,7 +11783,7 @@
       "lastUpdated": "2026-10-05T19:33:41Z"
     }
   },
-  "lastUpdated": "2026-10-17T12:11:55Z",
+  "lastUpdated": "2026-10-17T12:14:09Z",
   "totalUsers": 605,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
