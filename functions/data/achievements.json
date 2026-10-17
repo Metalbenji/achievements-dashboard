@@ -3506,9 +3506,9 @@
     "chadrestricted": {
       "counters": {
         "follow": 1,
-        "chat": 3358,
-        "points_spent": 31201,
-        "sounds": 14,
+        "chat": 3365,
+        "points_spent": 33201,
+        "sounds": 15,
         "clips": 1,
         "screenshot": 1,
         "sub": 22,
@@ -3551,9 +3551,10 @@
         "birthday_person",
         "gift_kind",
         "spender_electrum",
-        "chat_master_tier"
+        "chat_master_tier",
+        "sound_dj"
       ],
-      "lastUpdated": "2026-10-17T13:09:43Z"
+      "lastUpdated": "2026-10-17T13:11:54Z"
     },
     "maximusis_": {
       "counters": {
@@ -8034,7 +8035,7 @@
     },
     "arvidz101": {
       "counters": {
-        "chat": 116,
+        "chat": 118,
         "points_spent": 300,
         "effects": 1
       },
@@ -8046,7 +8047,7 @@
         "effect_first",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-17T13:09:11Z"
+      "lastUpdated": "2026-10-17T13:11:47Z"
     },
     "geniejit": {
       "counters": {
@@ -8963,7 +8964,7 @@
     "skyeblue182": {
       "counters": {
         "follow": 1,
-        "chat": 75,
+        "chat": 80,
         "sub": 5
       },
       "unlockedAchievements": [
@@ -8980,7 +8981,7 @@
         "chat_conversationalist",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-17T13:08:55Z"
+      "lastUpdated": "2026-10-17T13:11:35Z"
     },
     "zabroke": {
       "counters": {
@@ -9553,7 +9554,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 71,
+        "chat": 72,
         "follow": 1,
         "points_spent": 1850,
         "effects": 4
@@ -9567,7 +9568,7 @@
         "spender_bronze",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-10-17T12:55:04Z"
+      "lastUpdated": "2026-10-17T13:11:45Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9586,7 +9587,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2339,
+        "chat": 2343,
         "follow": 1,
         "points_spent": 57500,
         "effects": 13,
@@ -9620,7 +9621,7 @@
         "vip_dreamer",
         "spender_gold"
       ],
-      "lastUpdated": "2026-10-17T13:07:36Z"
+      "lastUpdated": "2026-10-17T13:11:44Z"
     },
     "noggen_": {
       "counters": {
@@ -11782,7 +11783,7 @@
       "lastUpdated": "2026-10-05T19:33:41Z"
     }
   },
-  "lastUpdated": "2026-10-17T12:09:54Z",
+  "lastUpdated": "2026-10-17T12:11:55Z",
   "totalUsers": 605,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
