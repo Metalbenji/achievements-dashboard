@@ -1530,8 +1530,8 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 6113,
-        "points_spent": 216551,
+        "chat": 6124,
+        "points_spent": 217551,
         "effects": 29,
         "sub": 20,
         "bits": 1894,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-10-21T20:16:28Z"
+      "lastUpdated": "2026-10-21T20:24:34Z"
     },
     "celran": {
       "counters": {
@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3858,
+        "chat": 3859,
         "points_spent": 72808,
         "interactive": 63,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-21T20:17:08Z"
+      "lastUpdated": "2026-10-21T20:24:39Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2268,7 +2268,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2409,
+        "chat": 2410,
         "points_spent": 342621,
         "effects": 22,
         "sounds": 18,
@@ -2324,7 +2324,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-10-21T20:17:43Z"
+      "lastUpdated": "2026-10-21T20:23:10Z"
     },
     "anzerou": {
       "counters": {
@@ -2606,7 +2606,7 @@
     "initiis_novum": {
       "counters": {
         "follow": 1,
-        "chat": 603,
+        "chat": 612,
         "sub": 37,
         "points_spent": 9400,
         "screenshot": 2,
@@ -2658,7 +2658,7 @@
         "bday2026_attend",
         "sub_master"
       ],
-      "lastUpdated": "2026-10-21T20:18:52Z"
+      "lastUpdated": "2026-10-21T20:24:25Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3625,7 +3625,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 408,
+        "chat": 410,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3672,7 +3672,7 @@
         "bday2026_support",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-10-21T20:16:33Z"
+      "lastUpdated": "2026-10-21T20:23:25Z"
     },
     "awildbubbles": {
       "counters": {
@@ -3935,7 +3935,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2503,
+        "chat": 2504,
         "points_spent": 87651,
         "effects": 7,
         "interactive": 19,
@@ -3973,7 +3973,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-10-21T20:15:51Z"
+      "lastUpdated": "2026-10-21T20:20:18Z"
     },
     "roffelonator": {
       "counters": {
@@ -7612,7 +7612,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 738,
+        "chat": 742,
         "points_spent": 5550,
         "interactive": 1,
         "screenshot": 2,
@@ -7650,7 +7650,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-10-21T20:12:52Z"
+      "lastUpdated": "2026-10-21T20:23:56Z"
     },
     "kikinplays_": {
       "counters": {
@@ -8331,7 +8331,7 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 78,
+        "chat": 81,
         "points_spent": 1400,
         "screenshot": 2,
         "effects": 2
@@ -8346,7 +8346,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-10-21T20:18:49Z"
+      "lastUpdated": "2026-10-21T20:21:26Z"
     },
     "mamialex": {
       "counters": {
@@ -11449,15 +11449,16 @@
     "pur3chops": {
       "counters": {
         "follow": 1,
-        "chat": 24
+        "chat": 25
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "chat_conversationalist"
       ],
-      "lastUpdated": "2026-10-17T17:45:22Z"
+      "lastUpdated": "2026-10-21T20:24:52Z"
     },
     "dragornis": {
       "counters": {
@@ -11796,7 +11797,7 @@
       "lastUpdated": "2026-10-05T19:33:41Z"
     }
   },
-  "lastUpdated": "2026-10-21T19:18:54Z",
+  "lastUpdated": "2026-10-21T19:24:53Z",
   "totalUsers": 605,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
