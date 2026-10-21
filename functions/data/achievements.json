@@ -1655,12 +1655,12 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 2006,
-        "points_spent": 82310,
+        "chat": 2007,
+        "points_spent": 84310,
         "effects": 54,
         "follow": 1,
         "sub": 41,
-        "sounds": 28,
+        "sounds": 29,
         "screenshot": 3,
         "interactive": 16,
         "bits": 300,
@@ -1723,7 +1723,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-21T21:50:07Z"
+      "lastUpdated": "2026-10-21T21:55:26Z"
     },
     "ramdon101": {
       "counters": {
@@ -2524,7 +2524,7 @@
       "counters": {
         "points_spent": 136402,
         "follow": 1,
-        "chat": 1723,
+        "chat": 1724,
         "effects": 161,
         "screenshot": 22,
         "sounds": 7,
@@ -2588,7 +2588,7 @@
         "bday2026_support",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-21T21:51:00Z"
+      "lastUpdated": "2026-10-21T21:57:43Z"
     },
     "syn__________": {
       "counters": {
@@ -4248,7 +4248,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 632,
+        "chat": 633,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -4277,7 +4277,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-03T11:08:58Z"
+      "lastUpdated": "2026-10-21T21:57:36Z"
     },
     "mulquero": {
       "counters": {
@@ -9594,7 +9594,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2428,
+        "chat": 2433,
         "follow": 1,
         "points_spent": 66500,
         "effects": 13,
@@ -9628,7 +9628,7 @@
         "vip_dreamer",
         "spender_gold"
       ],
-      "lastUpdated": "2026-10-21T21:51:51Z"
+      "lastUpdated": "2026-10-21T21:56:30Z"
     },
     "noggen_": {
       "counters": {
@@ -9886,16 +9886,17 @@
     "warcraftthor": {
       "counters": {
         "follow": 1,
-        "chat": 5,
+        "chat": 10,
         "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
         "raid_tier1_captain",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-10-21T21:54:47Z"
+      "lastUpdated": "2026-10-21T21:58:03Z"
     },
     "delpz10": {
       "counters": {
@@ -10404,7 +10405,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 727,
+        "chat": 729,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10435,7 +10436,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-10-21T20:29:47Z"
+      "lastUpdated": "2026-10-21T21:57:26Z"
     },
     "vrishcath": {
       "counters": {
@@ -11815,7 +11816,7 @@
       "lastUpdated": "2026-10-21T21:08:44Z"
     }
   },
-  "lastUpdated": "2026-10-21T20:54:48Z",
+  "lastUpdated": "2026-10-21T20:58:04Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
