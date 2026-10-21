@@ -4642,7 +4642,7 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 199,
+        "chat": 200,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -4655,9 +4655,10 @@
         "chat_regular",
         "night_owl",
         "bday2026_attend",
-        "spender_bronze"
+        "spender_bronze",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-10-21T21:07:54Z"
+      "lastUpdated": "2026-10-21T21:08:33Z"
     },
     "neburgy": {
       "counters": {
@@ -7614,7 +7615,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 748,
+        "chat": 749,
         "points_spent": 5550,
         "interactive": 1,
         "screenshot": 2,
@@ -7652,7 +7653,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-10-21T21:07:23Z"
+      "lastUpdated": "2026-10-21T21:08:30Z"
     },
     "kikinplays_": {
       "counters": {
@@ -11810,7 +11811,7 @@
       "lastUpdated": "2026-10-21T21:08:27Z"
     }
   },
-  "lastUpdated": "2026-10-21T20:08:28Z",
+  "lastUpdated": "2026-10-21T20:08:34Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
