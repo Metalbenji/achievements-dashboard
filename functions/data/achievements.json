@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3862,
+        "chat": 3863,
         "points_spent": 72808,
         "interactive": 63,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-21T21:05:37Z"
+      "lastUpdated": "2026-10-21T21:06:16Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2268,8 +2268,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2418,
-        "points_spent": 343621,
+        "chat": 2419,
+        "points_spent": 344621,
         "effects": 22,
         "sounds": 18,
         "sub": 44,
@@ -2324,7 +2324,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-10-21T21:05:43Z"
+      "lastUpdated": "2026-10-21T21:07:12Z"
     },
     "anzerou": {
       "counters": {
@@ -3325,7 +3325,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2514,
+        "chat": 2515,
         "points_spent": 145801,
         "sounds": 14,
         "effects": 158,
@@ -3425,7 +3425,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-10-21T21:05:52Z"
+      "lastUpdated": "2026-10-21T21:08:16Z"
     },
     "andilippi": {
       "counters": {
@@ -4642,8 +4642,8 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 198,
-        "points_spent": 1000
+        "chat": 199,
+        "points_spent": 2000
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4657,7 +4657,7 @@
         "bday2026_attend",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-10-21T21:06:15Z"
+      "lastUpdated": "2026-10-21T21:07:54Z"
     },
     "neburgy": {
       "counters": {
@@ -7614,7 +7614,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 747,
+        "chat": 748,
         "points_spent": 5550,
         "interactive": 1,
         "screenshot": 2,
@@ -7652,7 +7652,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-10-21T21:03:33Z"
+      "lastUpdated": "2026-10-21T21:07:23Z"
     },
     "kikinplays_": {
       "counters": {
@@ -11798,10 +11798,20 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-10-05T19:33:41Z"
+    },
+    "jaymorrison83": {
+      "counters": {
+        "chat": 1,
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-10-21T21:08:27Z"
     }
   },
-  "lastUpdated": "2026-10-21T20:06:16Z",
-  "totalUsers": 605,
+  "lastUpdated": "2026-10-21T20:08:28Z",
+  "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
