@@ -1530,7 +1530,7 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 6124,
+        "chat": 6125,
         "points_spent": 217551,
         "effects": 29,
         "sub": 20,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-10-21T20:24:34Z"
+      "lastUpdated": "2026-10-21T22:00:01Z"
     },
     "celran": {
       "counters": {
@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4894,
+        "chat": 4895,
         "points_spent": 259554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,11 +1812,11 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-21T21:09:21Z"
+      "lastUpdated": "2026-10-21T21:59:04Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3869,
+        "chat": 3870,
         "points_spent": 72808,
         "interactive": 63,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-21T21:41:04Z"
+      "lastUpdated": "2026-10-21T21:58:36Z"
     },
     "aladderinsane": {
       "counters": {
@@ -3325,7 +3325,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2517,
+        "chat": 2520,
         "points_spent": 145801,
         "sounds": 14,
         "effects": 158,
@@ -3425,7 +3425,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-10-21T21:24:18Z"
+      "lastUpdated": "2026-10-21T22:00:02Z"
     },
     "andilippi": {
       "counters": {
@@ -4248,7 +4248,7 @@
     "lunamists": {
       "counters": {
         "follow": 1,
-        "chat": 633,
+        "chat": 634,
         "points_spent": 86605,
         "sounds": 2,
         "effects": 2
@@ -4277,7 +4277,7 @@
         "night_owl",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-21T21:57:36Z"
+      "lastUpdated": "2026-10-21T21:58:11Z"
     },
     "mulquero": {
       "counters": {
@@ -4642,7 +4642,7 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 223,
+        "chat": 225,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -4658,7 +4658,7 @@
         "spender_bronze",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-10-21T21:53:08Z"
+      "lastUpdated": "2026-10-21T21:59:43Z"
     },
     "neburgy": {
       "counters": {
@@ -9886,7 +9886,7 @@
     "warcraftthor": {
       "counters": {
         "follow": 1,
-        "chat": 10,
+        "chat": 12,
         "raid": 1
       },
       "unlockedAchievements": [
@@ -9894,9 +9894,10 @@
         "weekend_warrior",
         "raid_tier1_captain",
         "chat_newbie",
-        "chat_talker"
+        "chat_talker",
+        "night_owl"
       ],
-      "lastUpdated": "2026-10-21T21:58:03Z"
+      "lastUpdated": "2026-10-21T22:00:06Z"
     },
     "delpz10": {
       "counters": {
@@ -10405,7 +10406,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 729,
+        "chat": 730,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10436,7 +10437,7 @@
         "gift_starter",
         "bday2026_support"
       ],
-      "lastUpdated": "2026-10-21T21:57:26Z"
+      "lastUpdated": "2026-10-21T21:58:59Z"
     },
     "vrishcath": {
       "counters": {
@@ -11816,7 +11817,7 @@
       "lastUpdated": "2026-10-21T21:08:44Z"
     }
   },
-  "lastUpdated": "2026-10-21T20:58:04Z",
+  "lastUpdated": "2026-10-21T21:00:07Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
