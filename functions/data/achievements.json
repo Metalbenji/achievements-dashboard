@@ -1530,9 +1530,9 @@
     },
     "little_lilith_": {
       "counters": {
-        "chat": 6089,
-        "points_spent": 216351,
-        "effects": 28,
+        "chat": 6113,
+        "points_spent": 216551,
+        "effects": 29,
         "sub": 20,
         "bits": 1894,
         "interactive": 12,
@@ -1611,7 +1611,7 @@
         "gift_hero",
         "spender_titanium"
       ],
-      "lastUpdated": "2026-10-17T18:02:04Z"
+      "lastUpdated": "2026-10-21T20:16:28Z"
     },
     "celran": {
       "counters": {
@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4890,
+        "chat": 4892,
         "points_spent": 259554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,11 +1812,11 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-21T19:05:38Z"
+      "lastUpdated": "2026-10-21T20:11:36Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3824,
+        "chat": 3858,
         "points_spent": 72808,
         "interactive": 63,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-21T19:34:15Z"
+      "lastUpdated": "2026-10-21T20:17:08Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2268,8 +2268,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2386,
-        "points_spent": 340621,
+        "chat": 2409,
+        "points_spent": 342621,
         "effects": 22,
         "sounds": 18,
         "sub": 44,
@@ -2324,7 +2324,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-10-21T19:44:55Z"
+      "lastUpdated": "2026-10-21T20:17:43Z"
     },
     "anzerou": {
       "counters": {
@@ -2607,7 +2607,7 @@
       "counters": {
         "follow": 1,
         "chat": 603,
-        "sub": 35,
+        "sub": 37,
         "points_spent": 9400,
         "screenshot": 2,
         "sounds": 1,
@@ -2655,9 +2655,10 @@
         "gift_caring",
         "gift_thoughtful",
         "bday2026_support",
-        "bday2026_attend"
+        "bday2026_attend",
+        "sub_master"
       ],
-      "lastUpdated": "2026-10-05T20:38:33Z"
+      "lastUpdated": "2026-10-21T20:18:52Z"
     },
     "nicolaswuffwuff": {
       "counters": {
@@ -3624,7 +3625,7 @@
     "justflip": {
       "counters": {
         "follow": 1,
-        "chat": 405,
+        "chat": 408,
         "sub": 21,
         "points_spent": 40800,
         "interactive": 1,
@@ -3671,12 +3672,12 @@
         "bday2026_support",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-10-17T19:40:27Z"
+      "lastUpdated": "2026-10-21T20:16:33Z"
     },
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5417,
+        "chat": 5427,
         "sub": 55,
         "points_spent": 2350,
         "screenshot": 1,
@@ -3732,7 +3733,7 @@
         "raid_tier1_captain",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-10-21T19:32:41Z"
+      "lastUpdated": "2026-10-21T20:10:42Z"
     },
     "majesty81": {
       "counters": {
@@ -3934,8 +3935,8 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2500,
-        "points_spent": 86651,
+        "chat": 2503,
+        "points_spent": 87651,
         "effects": 7,
         "interactive": 19,
         "screenshot": 3,
@@ -3972,7 +3973,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-10-21T19:44:20Z"
+      "lastUpdated": "2026-10-21T20:15:51Z"
     },
     "roffelonator": {
       "counters": {
@@ -4847,7 +4848,7 @@
       "counters": {
         "sub": 53,
         "follow": 1,
-        "chat": 1232,
+        "chat": 1233,
         "points_spent": 2253,
         "sounds": 1,
         "interactive": 1,
@@ -4891,7 +4892,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-10-21T19:34:23Z"
+      "lastUpdated": "2026-10-21T19:58:31Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -5378,7 +5379,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 514
+        "chat": 515
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5391,7 +5392,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-21T19:39:45Z"
+      "lastUpdated": "2026-10-21T20:10:27Z"
     },
     "dinshara": {
       "counters": {
@@ -6225,7 +6226,7 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 46,
+        "chat": 48,
         "sub": 1,
         "sub_tier": 1,
         "donations": 2,
@@ -6247,7 +6248,7 @@
         "total_donation_kind",
         "gift_starter"
       ],
-      "lastUpdated": "2026-10-17T18:35:47Z"
+      "lastUpdated": "2026-10-21T20:04:47Z"
     },
     "esjaytv": {
       "counters": {
@@ -7611,7 +7612,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 727,
+        "chat": 738,
         "points_spent": 5550,
         "interactive": 1,
         "screenshot": 2,
@@ -7649,7 +7650,7 @@
         "donation_first_timer",
         "total_donation_starter"
       ],
-      "lastUpdated": "2026-10-21T19:41:22Z"
+      "lastUpdated": "2026-10-21T20:12:52Z"
     },
     "kikinplays_": {
       "counters": {
@@ -8330,7 +8331,7 @@
     "fluffless_live": {
       "counters": {
         "follow": 1,
-        "chat": 75,
+        "chat": 78,
         "points_spent": 1400,
         "screenshot": 2,
         "effects": 2
@@ -8345,7 +8346,7 @@
         "effect_first",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-09-05T20:31:41Z"
+      "lastUpdated": "2026-10-21T20:18:49Z"
     },
     "mamialex": {
       "counters": {
@@ -9589,7 +9590,7 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2415,
+        "chat": 2424,
         "follow": 1,
         "points_spent": 66500,
         "effects": 13,
@@ -9623,7 +9624,7 @@
         "vip_dreamer",
         "spender_gold"
       ],
-      "lastUpdated": "2026-10-21T19:33:50Z"
+      "lastUpdated": "2026-10-21T20:09:44Z"
     },
     "noggen_": {
       "counters": {
@@ -9915,7 +9916,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2399,
+        "chat": 2421,
         "points_spent": 71752,
         "sounds": 4,
         "sub": 33,
@@ -9968,7 +9969,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-10-21T19:44:50Z"
+      "lastUpdated": "2026-10-21T20:03:05Z"
     },
     "infincible": {
       "counters": {
@@ -11795,7 +11796,7 @@
       "lastUpdated": "2026-10-05T19:33:41Z"
     }
   },
-  "lastUpdated": "2026-10-21T18:44:56Z",
+  "lastUpdated": "2026-10-21T19:18:54Z",
   "totalUsers": 605,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
