@@ -9886,13 +9886,16 @@
     "warcraftthor": {
       "counters": {
         "follow": 1,
-        "chat": 4
+        "chat": 5,
+        "raid": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
-        "weekend_warrior"
+        "weekend_warrior",
+        "raid_tier1_captain",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-05-30T11:45:35Z"
+      "lastUpdated": "2026-10-21T21:54:47Z"
     },
     "delpz10": {
       "counters": {
@@ -11812,7 +11815,7 @@
       "lastUpdated": "2026-10-21T21:08:44Z"
     }
   },
-  "lastUpdated": "2026-10-21T20:54:27Z",
+  "lastUpdated": "2026-10-21T20:54:48Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
