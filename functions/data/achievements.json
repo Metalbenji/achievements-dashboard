@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3967,
+        "chat": 3969,
         "points_spent": 73809,
         "interactive": 65,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-24T16:49:36Z"
+      "lastUpdated": "2026-10-24T16:52:14Z"
     },
     "aladderinsane": {
       "counters": {
@@ -9576,7 +9576,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 147,
+        "chat": 149,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5
@@ -9591,7 +9591,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T16:49:46Z"
+      "lastUpdated": "2026-10-24T16:53:51Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9941,7 +9941,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2495,
+        "chat": 2502,
         "points_spent": 73752,
         "sounds": 4,
         "sub": 33,
@@ -9994,7 +9994,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-10-24T16:50:17Z"
+      "lastUpdated": "2026-10-24T16:54:16Z"
     },
     "infincible": {
       "counters": {
@@ -11872,17 +11872,18 @@
     },
     "doakzhasoleds": {
       "counters": {
-        "chat": 8
+        "chat": 10
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "chat_newbie"
+        "chat_newbie",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-10-24T16:42:36Z"
+      "lastUpdated": "2026-10-24T16:54:18Z"
     },
     "bungamoose": {
       "counters": {
-        "chat": 10,
+        "chat": 11,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -11894,10 +11895,10 @@
         "effect_first",
         "chat_talker"
       ],
-      "lastUpdated": "2026-10-24T16:50:29Z"
+      "lastUpdated": "2026-10-24T16:51:17Z"
     }
   },
-  "lastUpdated": "2026-10-24T15:50:30Z",
+  "lastUpdated": "2026-10-24T15:54:19Z",
   "totalUsers": 611,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
