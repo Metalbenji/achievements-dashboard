@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 5051,
+        "chat": 5053,
         "points_spent": 269554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,11 +1812,11 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-24T16:09:20Z"
+      "lastUpdated": "2026-10-24T16:48:35Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3962,
+        "chat": 3966,
         "points_spent": 73809,
         "interactive": 65,
         "follow": 1,
@@ -1871,11 +1871,11 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-24T16:42:20Z"
+      "lastUpdated": "2026-10-24T16:49:26Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 964,
+        "chat": 969,
         "follow": 1,
         "sub": 43,
         "points_spent": 97350,
@@ -1918,7 +1918,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-24T16:42:36Z"
+      "lastUpdated": "2026-10-24T16:44:38Z"
     },
     "scoman07": {
       "counters": {
@@ -4611,7 +4611,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 242,
+        "chat": 253,
         "points_spent": 2300,
         "effects": 6,
         "raid": 3,
@@ -4642,7 +4642,7 @@
         "sub_champion",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-10-24T16:42:35Z"
+      "lastUpdated": "2026-10-24T16:48:19Z"
     },
     "saluda777": {
       "counters": {
@@ -7809,7 +7809,7 @@
     },
     "reci_oh_pizza": {
       "counters": {
-        "chat": 2341,
+        "chat": 2342,
         "points_spent": 68652,
         "screenshot": 1,
         "effects": 5,
@@ -7849,7 +7849,7 @@
         "night_owl",
         "chat_expert"
       ],
-      "lastUpdated": "2026-10-24T16:34:42Z"
+      "lastUpdated": "2026-10-24T16:47:05Z"
     },
     "wigz666": {
       "counters": {
@@ -9576,7 +9576,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 145,
+        "chat": 146,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5
@@ -9591,7 +9591,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T16:27:59Z"
+      "lastUpdated": "2026-10-24T16:49:10Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9941,7 +9941,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2485,
+        "chat": 2494,
         "points_spent": 73752,
         "sounds": 4,
         "sub": 33,
@@ -9994,7 +9994,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-10-24T16:41:44Z"
+      "lastUpdated": "2026-10-24T16:49:17Z"
     },
     "infincible": {
       "counters": {
@@ -11312,7 +11312,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 208,
+        "chat": 209,
         "follow": 1,
         "points_spent": 2200,
         "effects": 4
@@ -11328,7 +11328,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-10-24T16:41:41Z"
+      "lastUpdated": "2026-10-24T16:45:48Z"
     },
     "konkrs": {
       "counters": {
@@ -11882,18 +11882,21 @@
     },
     "bungamoose": {
       "counters": {
-        "chat": 5,
-        "follow": 1
+        "chat": 7,
+        "follow": 1,
+        "points_spent": 350,
+        "effects": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "follow_supporter",
-        "chat_newbie"
+        "chat_newbie",
+        "effect_first"
       ],
-      "lastUpdated": "2026-10-24T16:42:37Z"
+      "lastUpdated": "2026-10-24T16:49:32Z"
     }
   },
-  "lastUpdated": "2026-10-24T15:42:38Z",
+  "lastUpdated": "2026-10-24T15:49:33Z",
   "totalUsers": 611,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
