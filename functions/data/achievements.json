@@ -3101,7 +3101,7 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 116,
+        "chat": 117,
         "points_spent": 6250,
         "interactive": 2,
         "effects": 9,
@@ -3121,7 +3121,7 @@
         "spender_iron",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T15:04:29Z"
+      "lastUpdated": "2026-10-24T15:09:50Z"
     },
     "soundalerts": {
       "counters": {
@@ -3274,7 +3274,7 @@
     "chevelletv": {
       "counters": {
         "follow": 1,
-        "chat": 160,
+        "chat": 162,
         "raid": 2
       },
       "unlockedAchievements": [
@@ -3288,7 +3288,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T15:04:28Z"
+      "lastUpdated": "2026-10-24T15:08:44Z"
     },
     "devinespiritgm": {
       "counters": {
@@ -5384,7 +5384,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 520
+        "chat": 521
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5397,7 +5397,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-24T15:01:02Z"
+      "lastUpdated": "2026-10-24T15:10:14Z"
     },
     "dinshara": {
       "counters": {
@@ -9571,7 +9571,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 100,
+        "chat": 104,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5
@@ -9586,7 +9586,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T15:06:17Z"
+      "lastUpdated": "2026-10-24T15:09:52Z"
     },
     "philpseyforce": {
       "counters": {
@@ -11158,7 +11158,7 @@
         "points_spent": 6900,
         "effects": 2,
         "follow": 1,
-        "chat": 400,
+        "chat": 401,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -11176,7 +11176,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-10-24T15:04:06Z"
+      "lastUpdated": "2026-10-24T15:06:54Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11849,10 +11849,19 @@
         "follow_supporter"
       ],
       "lastUpdated": "2026-10-24T15:00:21Z"
+    },
+    "saulisko": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-10-24T15:10:32Z"
     }
   },
-  "lastUpdated": "2026-10-24T14:06:18Z",
-  "totalUsers": 608,
+  "lastUpdated": "2026-10-24T14:10:33Z",
+  "totalUsers": 609,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
