@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3966,
+        "chat": 3967,
         "points_spent": 73809,
         "interactive": 65,
         "follow": 1,
@@ -1871,11 +1871,11 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-24T16:49:26Z"
+      "lastUpdated": "2026-10-24T16:49:36Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 969,
+        "chat": 970,
         "follow": 1,
         "sub": 43,
         "points_spent": 97350,
@@ -1918,7 +1918,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-24T16:44:38Z"
+      "lastUpdated": "2026-10-24T16:49:35Z"
     },
     "scoman07": {
       "counters": {
@@ -6237,7 +6237,7 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 63,
+        "chat": 64,
         "sub": 1,
         "sub_tier": 1,
         "donations": 2,
@@ -6259,7 +6259,7 @@
         "total_donation_kind",
         "gift_starter"
       ],
-      "lastUpdated": "2026-10-24T16:40:06Z"
+      "lastUpdated": "2026-10-24T16:49:34Z"
     },
     "esjaytv": {
       "counters": {
@@ -9576,7 +9576,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 146,
+        "chat": 147,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5
@@ -9591,7 +9591,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T16:49:10Z"
+      "lastUpdated": "2026-10-24T16:49:46Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9941,7 +9941,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2494,
+        "chat": 2495,
         "points_spent": 73752,
         "sounds": 4,
         "sub": 33,
@@ -9994,7 +9994,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-10-24T16:49:17Z"
+      "lastUpdated": "2026-10-24T16:50:17Z"
     },
     "infincible": {
       "counters": {
@@ -11882,7 +11882,7 @@
     },
     "bungamoose": {
       "counters": {
-        "chat": 7,
+        "chat": 10,
         "follow": 1,
         "points_spent": 350,
         "effects": 1
@@ -11891,12 +11891,13 @@
         "weekend_warrior",
         "follow_supporter",
         "chat_newbie",
-        "effect_first"
+        "effect_first",
+        "chat_talker"
       ],
-      "lastUpdated": "2026-10-24T16:49:32Z"
+      "lastUpdated": "2026-10-24T16:50:29Z"
     }
   },
-  "lastUpdated": "2026-10-24T15:49:33Z",
+  "lastUpdated": "2026-10-24T15:50:30Z",
   "totalUsers": 611,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
