@@ -3101,11 +3101,11 @@
     "umenneske94": {
       "counters": {
         "follow": 1,
-        "chat": 115,
-        "points_spent": 5900,
+        "chat": 116,
+        "points_spent": 6250,
         "interactive": 2,
         "effects": 9,
-        "screenshot": 3
+        "screenshot": 4
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -3121,7 +3121,7 @@
         "spender_iron",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T14:58:19Z"
+      "lastUpdated": "2026-10-24T15:04:29Z"
     },
     "soundalerts": {
       "counters": {
@@ -3274,7 +3274,7 @@
     "chevelletv": {
       "counters": {
         "follow": 1,
-        "chat": 158,
+        "chat": 160,
         "raid": 2
       },
       "unlockedAchievements": [
@@ -3288,7 +3288,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T14:55:52Z"
+      "lastUpdated": "2026-10-24T15:04:28Z"
     },
     "devinespiritgm": {
       "counters": {
@@ -3937,7 +3937,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2504,
+        "chat": 2507,
         "points_spent": 87651,
         "effects": 7,
         "interactive": 19,
@@ -3975,7 +3975,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-10-21T20:20:18Z"
+      "lastUpdated": "2026-10-24T15:04:02Z"
     },
     "roffelonator": {
       "counters": {
@@ -4186,7 +4186,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 261
+        "chat": 262
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4198,7 +4198,7 @@
         "bday2026_attend",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-10-24T14:56:43Z"
+      "lastUpdated": "2026-10-24T15:03:37Z"
     },
     "arpi_89": {
       "counters": {
@@ -5384,7 +5384,7 @@
     "xxemz": {
       "counters": {
         "follow": 1,
-        "chat": 519
+        "chat": 520
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5397,7 +5397,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-10-24T14:56:58Z"
+      "lastUpdated": "2026-10-24T15:01:02Z"
     },
     "dinshara": {
       "counters": {
@@ -9571,7 +9571,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 99,
+        "chat": 100,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5
@@ -9583,9 +9583,10 @@
         "chat_talker",
         "effect_first",
         "spender_bronze",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "chat_regular"
       ],
-      "lastUpdated": "2026-10-17T19:25:18Z"
+      "lastUpdated": "2026-10-24T15:06:17Z"
     },
     "philpseyforce": {
       "counters": {
@@ -10007,7 +10008,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 322,
+        "chat": 326,
         "gift_subs": 25,
         "gift_bombs": 5,
         "total_gift_bomb_subs": 25,
@@ -10015,7 +10016,7 @@
         "points_spent": 40301,
         "effects": 3,
         "bits": 472,
-        "clips": 2,
+        "clips": 3,
         "sub": 3,
         "sub_tier": 1
       },
@@ -10057,7 +10058,7 @@
         "sub_supporter",
         "sub_loyal"
       ],
-      "lastUpdated": "2026-10-24T14:38:32Z"
+      "lastUpdated": "2026-10-24T15:01:35Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11157,7 +11158,7 @@
         "points_spent": 6900,
         "effects": 2,
         "follow": 1,
-        "chat": 382,
+        "chat": 400,
         "sounds": 2
       },
       "unlockedAchievements": [
@@ -11175,7 +11176,7 @@
         "chat_dedicated",
         "spender_iron"
       ],
-      "lastUpdated": "2026-10-03T15:00:00Z"
+      "lastUpdated": "2026-10-24T15:04:06Z"
     },
     "j_murkzz": {
       "counters": {
@@ -11850,7 +11851,7 @@
       "lastUpdated": "2026-10-24T15:00:21Z"
     }
   },
-  "lastUpdated": "2026-10-24T14:00:23Z",
+  "lastUpdated": "2026-10-24T14:06:18Z",
   "totalUsers": 608,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
