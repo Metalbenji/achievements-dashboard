@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 4935,
+        "chat": 4940,
         "points_spent": 269554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,11 +1812,11 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-24T12:05:28Z"
+      "lastUpdated": "2026-10-24T12:18:50Z"
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3893,
+        "chat": 3896,
         "points_spent": 73309,
         "interactive": 64,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-24T12:04:06Z"
+      "lastUpdated": "2026-10-24T12:18:53Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2268,7 +2268,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2495,
+        "chat": 2498,
         "points_spent": 349621,
         "effects": 22,
         "sounds": 18,
@@ -2324,7 +2324,7 @@
         "spender_titanium",
         "sound_dj"
       ],
-      "lastUpdated": "2026-10-24T12:05:36Z"
+      "lastUpdated": "2026-10-24T12:18:47Z"
     },
     "anzerou": {
       "counters": {
@@ -2529,7 +2529,7 @@
         "screenshot": 22,
         "sounds": 7,
         "bits": 300,
-        "sub": 46,
+        "sub": 48,
         "interactive": 20,
         "sub_tier": 1,
         "gift_subs": 1
@@ -2586,9 +2586,10 @@
         "bday2026_attend",
         "gift_starter",
         "bday2026_support",
-        "chat_expert"
+        "chat_expert",
+        "sub_legendary"
       ],
-      "lastUpdated": "2026-10-21T21:57:43Z"
+      "lastUpdated": "2026-10-24T12:19:59Z"
     },
     "syn__________": {
       "counters": {
@@ -2663,7 +2664,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6749,
+        "chat": 6750,
         "points_spent": 185003,
         "effects": 75,
         "sub": 52,
@@ -2770,7 +2771,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-10-24T12:00:17Z"
+      "lastUpdated": "2026-10-24T12:07:41Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7319,7 +7320,7 @@
     "kornukopian": {
       "counters": {
         "follow": 1,
-        "chat": 566,
+        "chat": 568,
         "sub": 11,
         "points_spent": 25951,
         "sounds": 1,
@@ -7371,7 +7372,7 @@
         "sub_champion",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-10-24T12:06:17Z"
+      "lastUpdated": "2026-10-24T12:19:13Z"
     },
     "daddy0ps": {
       "counters": {
@@ -9927,7 +9928,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2456,
+        "chat": 2462,
         "points_spent": 73752,
         "sounds": 4,
         "sub": 33,
@@ -9980,7 +9981,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-10-24T11:28:13Z"
+      "lastUpdated": "2026-10-24T12:19:07Z"
     },
     "infincible": {
       "counters": {
@@ -10408,7 +10409,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 759,
+        "chat": 761,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10440,7 +10441,7 @@
         "bday2026_support",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-24T12:03:12Z"
+      "lastUpdated": "2026-10-24T12:11:01Z"
     },
     "vrishcath": {
       "counters": {
@@ -11820,7 +11821,7 @@
       "lastUpdated": "2026-10-21T21:08:44Z"
     }
   },
-  "lastUpdated": "2026-10-24T11:06:18Z",
+  "lastUpdated": "2026-10-24T11:20:01Z",
   "totalUsers": 606,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
