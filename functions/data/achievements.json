@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3907,
+        "chat": 3909,
         "points_spent": 73309,
         "interactive": 64,
         "follow": 1,
@@ -1871,7 +1871,7 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-24T13:04:46Z"
+      "lastUpdated": "2026-10-24T13:06:55Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2268,7 +2268,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2508,
+        "chat": 2509,
         "points_spent": 352621,
         "effects": 22,
         "sounds": 18,
@@ -2325,7 +2325,7 @@
         "sound_dj",
         "spender_diamond"
       ],
-      "lastUpdated": "2026-10-24T13:04:24Z"
+      "lastUpdated": "2026-10-24T13:06:31Z"
     },
     "anzerou": {
       "counters": {
@@ -5773,16 +5773,17 @@
     "derxgamin": {
       "counters": {
         "follow": 1,
-        "chat": 3,
+        "chat": 5,
         "points_spent": 800,
         "effects": 3
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior",
-        "effect_first"
+        "effect_first",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-10-24T10:38:07Z"
+      "lastUpdated": "2026-10-24T13:08:51Z"
     },
     "glissov": {
       "counters": {
@@ -9203,7 +9204,7 @@
     },
     "galithoreu": {
       "counters": {
-        "chat": 785,
+        "chat": 787,
         "follow": 1
       },
       "unlockedAchievements": [
@@ -9219,7 +9220,7 @@
         "chat_dedicated",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-24T13:00:45Z"
+      "lastUpdated": "2026-10-24T13:08:44Z"
     },
     "hedgeswine": {
       "counters": {
@@ -9929,7 +9930,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2470,
+        "chat": 2471,
         "points_spent": 73752,
         "sounds": 4,
         "sub": 33,
@@ -9982,7 +9983,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-10-24T12:58:28Z"
+      "lastUpdated": "2026-10-24T13:07:17Z"
     },
     "infincible": {
       "counters": {
@@ -10410,7 +10411,7 @@
     "gullible84": {
       "counters": {
         "follow": 1,
-        "chat": 777,
+        "chat": 779,
         "sub": 23,
         "points_spent": 300,
         "effects": 1,
@@ -10442,7 +10443,7 @@
         "bday2026_support",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-24T13:05:05Z"
+      "lastUpdated": "2026-10-24T13:08:50Z"
     },
     "vrishcath": {
       "counters": {
@@ -11824,16 +11825,16 @@
     "sedtv_": {
       "counters": {
         "follow": 1,
-        "chat": 1
+        "chat": 2
       },
       "unlockedAchievements": [
         "follow_supporter",
         "weekend_warrior"
       ],
-      "lastUpdated": "2026-10-24T13:05:07Z"
+      "lastUpdated": "2026-10-24T13:05:52Z"
     }
   },
-  "lastUpdated": "2026-10-24T12:05:08Z",
+  "lastUpdated": "2026-10-24T12:08:53Z",
   "totalUsers": 607,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
