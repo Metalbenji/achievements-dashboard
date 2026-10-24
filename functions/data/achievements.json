@@ -11882,15 +11882,17 @@
     },
     "bungamoose": {
       "counters": {
-        "chat": 4
+        "chat": 4,
+        "follow": 1
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-10-24T16:36:45Z"
+      "lastUpdated": "2026-10-24T16:37:21Z"
     }
   },
-  "lastUpdated": "2026-10-24T15:37:04Z",
+  "lastUpdated": "2026-10-24T15:37:22Z",
   "totalUsers": 611,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
