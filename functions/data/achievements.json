@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 5046,
+        "chat": 5047,
         "points_spent": 269554,
         "screenshot": 4,
         "follow": 1,
@@ -1741,7 +1741,7 @@
         "gift_bombs": 2,
         "total_gift_bomb_subs": 164,
         "largest_gift_bomb": 159,
-        "bits": 400
+        "bits": 500
       },
       "unlockedAchievements": [
         "chat_newbie",
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-10-24T16:01:20Z"
+      "lastUpdated": "2026-10-24T16:03:02Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2268,7 +2268,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2547,
+        "chat": 2548,
         "points_spent": 355621,
         "effects": 22,
         "sounds": 18,
@@ -2327,7 +2327,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-10-24T16:02:01Z"
+      "lastUpdated": "2026-10-24T16:03:02Z"
     },
     "anzerou": {
       "counters": {
@@ -7333,9 +7333,9 @@
         "sub_tier": 2,
         "interactive": 6,
         "raid": 1,
-        "gift_subs": 32,
-        "gift_bombs": 2,
-        "total_gift_bomb_subs": 32,
+        "gift_subs": 37,
+        "gift_bombs": 3,
+        "total_gift_bomb_subs": 37,
         "largest_gift_bomb": 27
       },
       "unlockedAchievements": [
@@ -7376,7 +7376,8 @@
         "gift_angel",
         "sub_tier2",
         "sub_champion",
-        "spender_electrum"
+        "spender_electrum",
+        "gift_bombs_regular"
       ],
       "lastUpdated": "2026-10-24T16:00:43Z"
     },
@@ -11308,7 +11309,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 193,
+        "chat": 194,
         "follow": 1,
         "points_spent": 2100,
         "effects": 4
@@ -11323,7 +11324,7 @@
         "spender_bronze",
         "chat_regular"
       ],
-      "lastUpdated": "2026-10-24T16:01:21Z"
+      "lastUpdated": "2026-10-24T16:03:11Z"
     },
     "konkrs": {
       "counters": {
@@ -11876,7 +11877,7 @@
       "lastUpdated": "2026-10-24T15:56:52Z"
     }
   },
-  "lastUpdated": "2026-10-24T15:02:27Z",
+  "lastUpdated": "2026-10-24T15:03:16Z",
   "totalUsers": 610,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
