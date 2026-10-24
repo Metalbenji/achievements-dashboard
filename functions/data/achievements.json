@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3959,
+        "chat": 3962,
         "points_spent": 73809,
         "interactive": 65,
         "follow": 1,
@@ -1871,11 +1871,11 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-24T16:35:30Z"
+      "lastUpdated": "2026-10-24T16:42:20Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 962,
+        "chat": 964,
         "follow": 1,
         "sub": 43,
         "points_spent": 97350,
@@ -1918,7 +1918,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-24T16:36:01Z"
+      "lastUpdated": "2026-10-24T16:42:36Z"
     },
     "scoman07": {
       "counters": {
@@ -3681,7 +3681,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5488,
+        "chat": 5489,
         "sub": 55,
         "points_spent": 2350,
         "screenshot": 1,
@@ -3737,7 +3737,7 @@
         "raid_tier1_captain",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-10-24T16:01:06Z"
+      "lastUpdated": "2026-10-24T16:37:41Z"
     },
     "majesty81": {
       "counters": {
@@ -4188,7 +4188,7 @@
     "akiraownz": {
       "counters": {
         "follow": 1,
-        "chat": 312
+        "chat": 317
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -4201,7 +4201,7 @@
         "chat_frequent",
         "chat_dedicated"
       ],
-      "lastUpdated": "2026-10-24T16:36:46Z"
+      "lastUpdated": "2026-10-24T16:39:12Z"
     },
     "arpi_89": {
       "counters": {
@@ -4611,7 +4611,7 @@
     "bitter5weet": {
       "counters": {
         "follow": 1,
-        "chat": 240,
+        "chat": 242,
         "points_spent": 2300,
         "effects": 6,
         "raid": 3,
@@ -4642,7 +4642,7 @@
         "sub_champion",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-10-24T16:33:44Z"
+      "lastUpdated": "2026-10-24T16:42:35Z"
     },
     "saluda777": {
       "counters": {
@@ -6237,7 +6237,7 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 61,
+        "chat": 63,
         "sub": 1,
         "sub_tier": 1,
         "donations": 2,
@@ -6259,7 +6259,7 @@
         "total_donation_kind",
         "gift_starter"
       ],
-      "lastUpdated": "2026-10-24T15:47:28Z"
+      "lastUpdated": "2026-10-24T16:40:06Z"
     },
     "esjaytv": {
       "counters": {
@@ -9941,7 +9941,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2482,
+        "chat": 2485,
         "points_spent": 73752,
         "sounds": 4,
         "sub": 33,
@@ -9994,7 +9994,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-10-24T13:57:53Z"
+      "lastUpdated": "2026-10-24T16:41:44Z"
     },
     "infincible": {
       "counters": {
@@ -10013,7 +10013,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 341,
+        "chat": 342,
         "gift_subs": 30,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 30,
@@ -10066,7 +10066,7 @@
         "gift_angel",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-10-24T16:33:19Z"
+      "lastUpdated": "2026-10-24T16:41:53Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11312,7 +11312,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 200,
+        "chat": 208,
         "follow": 1,
         "points_spent": 2200,
         "effects": 4
@@ -11328,7 +11328,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-10-24T16:37:03Z"
+      "lastUpdated": "2026-10-24T16:41:41Z"
     },
     "konkrs": {
       "counters": {
@@ -11872,27 +11872,28 @@
     },
     "doakzhasoleds": {
       "counters": {
-        "chat": 7
+        "chat": 8
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie"
       ],
-      "lastUpdated": "2026-10-24T15:56:52Z"
+      "lastUpdated": "2026-10-24T16:42:36Z"
     },
     "bungamoose": {
       "counters": {
-        "chat": 4,
+        "chat": 5,
         "follow": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
-        "follow_supporter"
+        "follow_supporter",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-10-24T16:37:21Z"
+      "lastUpdated": "2026-10-24T16:42:37Z"
     }
   },
-  "lastUpdated": "2026-10-24T15:37:22Z",
+  "lastUpdated": "2026-10-24T15:42:38Z",
   "totalUsers": 611,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
