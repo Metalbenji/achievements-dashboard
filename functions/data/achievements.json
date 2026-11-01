@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 3982,
+        "chat": 3986,
         "points_spent": 73809,
         "interactive": 65,
         "follow": 1,
@@ -1871,13 +1871,13 @@
         "bday2026_attend",
         "chat_master_tier"
       ],
-      "lastUpdated": "2026-10-24T17:06:59Z"
+      "lastUpdated": "2026-11-01T10:19:28Z"
     },
     "aladderinsane": {
       "counters": {
         "chat": 972,
         "follow": 1,
-        "sub": 43,
+        "sub": 45,
         "points_spent": 97350,
         "sounds": 4,
         "sub_tier": 1,
@@ -1918,7 +1918,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-10-24T17:07:17Z"
+      "lastUpdated": "2026-11-01T10:27:04Z"
     },
     "scoman07": {
       "counters": {
@@ -2667,7 +2667,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6836,
+        "chat": 6854,
         "points_spent": 186003,
         "effects": 75,
         "sub": 52,
@@ -2774,7 +2774,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-01T10:07:32Z"
+      "lastUpdated": "2026-11-01T10:24:21Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3329,14 +3329,14 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2533,
-        "points_spent": 146151,
+        "chat": 2535,
+        "points_spent": 146501,
         "sounds": 14,
         "effects": 159,
         "sub": 54,
         "bits": 13574,
         "interactive": 9,
-        "screenshot": 12,
+        "screenshot": 13,
         "gift_subs": 529,
         "gift_bombs": 2,
         "total_gift_bomb_subs": 527,
@@ -3429,7 +3429,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-01T10:02:39Z"
+      "lastUpdated": "2026-11-01T10:24:59Z"
     },
     "andilippi": {
       "counters": {
@@ -6723,7 +6723,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 482,
+        "chat": 487,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6754,7 +6754,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-10-03T11:33:30Z"
+      "lastUpdated": "2026-11-01T10:25:53Z"
     },
     "grimlocc": {
       "counters": {
@@ -10014,7 +10014,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 343,
+        "chat": 344,
         "gift_subs": 30,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 30,
@@ -10067,7 +10067,7 @@
         "gift_angel",
         "screenshot_first"
       ],
-      "lastUpdated": "2026-10-24T17:03:36Z"
+      "lastUpdated": "2026-11-01T10:25:22Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11318,7 +11318,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 223,
+        "chat": 227,
         "follow": 1,
         "points_spent": 2200,
         "effects": 4
@@ -11334,7 +11334,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-11-01T09:51:16Z"
+      "lastUpdated": "2026-11-01T10:25:52Z"
     },
     "konkrs": {
       "counters": {
@@ -11448,7 +11448,7 @@
     "daisie_does": {
       "counters": {
         "follow": 1,
-        "chat": 44,
+        "chat": 45,
         "points_spent": 800,
         "effects": 1
       },
@@ -11460,7 +11460,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-11-01T09:27:56Z"
+      "lastUpdated": "2026-11-01T10:17:23Z"
     },
     "kr1ppy": {
       "counters": {
@@ -11915,7 +11915,7 @@
       "lastUpdated": "2026-11-01T10:08:14Z"
     }
   },
-  "lastUpdated": "2026-11-01T10:08:15Z",
+  "lastUpdated": "2026-11-01T10:27:05Z",
   "totalUsers": 612,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
