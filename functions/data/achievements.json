@@ -1655,7 +1655,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 2024,
+        "chat": 2025,
         "points_spent": 84310,
         "effects": 54,
         "follow": 1,
@@ -1723,7 +1723,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-11-01T09:32:41Z"
+      "lastUpdated": "2026-11-01T09:44:18Z"
     },
     "ramdon101": {
       "counters": {
@@ -2667,7 +2667,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6808,
+        "chat": 6811,
         "points_spent": 186003,
         "effects": 75,
         "sub": 52,
@@ -2774,7 +2774,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-01T09:37:48Z"
+      "lastUpdated": "2026-11-01T09:42:30Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3329,7 +3329,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2527,
+        "chat": 2529,
         "points_spent": 145801,
         "sounds": 14,
         "effects": 158,
@@ -3429,7 +3429,7 @@
         "gift_bomb_75",
         "gift_deity"
       ],
-      "lastUpdated": "2026-10-24T11:52:02Z"
+      "lastUpdated": "2026-11-01T09:44:38Z"
     },
     "andilippi": {
       "counters": {
@@ -3681,7 +3681,7 @@
     "awildbubbles": {
       "counters": {
         "follow": 1,
-        "chat": 5497,
+        "chat": 5506,
         "sub": 55,
         "points_spent": 2350,
         "screenshot": 1,
@@ -3737,7 +3737,7 @@
         "raid_tier1_captain",
         "spender_bronze"
       ],
-      "lastUpdated": "2026-10-24T17:01:03Z"
+      "lastUpdated": "2026-11-01T09:44:29Z"
     },
     "majesty81": {
       "counters": {
@@ -10372,11 +10372,12 @@
     },
     "gnawler": {
       "counters": {
-        "chat": 31,
+        "chat": 32,
         "follow": 1,
-        "points_spent": 500,
+        "points_spent": 850,
         "interactive": 1,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "effects": 1
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -10386,9 +10387,10 @@
         "chat_talker",
         "sub_tier1",
         "sub_first_month",
-        "chat_conversationalist"
+        "chat_conversationalist",
+        "effect_first"
       ],
-      "lastUpdated": "2026-11-01T09:32:49Z"
+      "lastUpdated": "2026-11-01T09:46:45Z"
     },
     "scottishchiddy": {
       "counters": {
@@ -11899,7 +11901,7 @@
       "lastUpdated": "2026-10-24T17:01:21Z"
     }
   },
-  "lastUpdated": "2026-11-01T09:39:38Z",
+  "lastUpdated": "2026-11-01T09:46:46Z",
   "totalUsers": 611,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
