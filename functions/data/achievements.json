@@ -1655,7 +1655,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 2025,
+        "chat": 2026,
         "points_spent": 84310,
         "effects": 54,
         "follow": 1,
@@ -1723,7 +1723,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-11-01T09:44:18Z"
+      "lastUpdated": "2026-11-01T09:46:46Z"
     },
     "ramdon101": {
       "counters": {
@@ -2667,7 +2667,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 6811,
+        "chat": 6812,
         "points_spent": 186003,
         "effects": 75,
         "sub": 52,
@@ -2774,7 +2774,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-01T09:42:30Z"
+      "lastUpdated": "2026-11-01T09:47:08Z"
     },
     "purgemonster91": {
       "counters": {
@@ -10374,7 +10374,7 @@
       "counters": {
         "chat": 32,
         "follow": 1,
-        "points_spent": 850,
+        "points_spent": 2850,
         "interactive": 1,
         "sub_tier": 1,
         "effects": 1
@@ -10388,9 +10388,10 @@
         "sub_tier1",
         "sub_first_month",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-11-01T09:46:45Z"
+      "lastUpdated": "2026-11-01T09:47:23Z"
     },
     "scottishchiddy": {
       "counters": {
@@ -11315,7 +11316,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 214,
+        "chat": 216,
         "follow": 1,
         "points_spent": 2200,
         "effects": 4
@@ -11331,7 +11332,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-11-01T09:32:33Z"
+      "lastUpdated": "2026-11-01T09:47:00Z"
     },
     "konkrs": {
       "counters": {
@@ -11901,7 +11902,7 @@
       "lastUpdated": "2026-10-24T17:01:21Z"
     }
   },
-  "lastUpdated": "2026-11-01T09:46:46Z",
+  "lastUpdated": "2026-11-01T09:47:24Z",
   "totalUsers": 611,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
