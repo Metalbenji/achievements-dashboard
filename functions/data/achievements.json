@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 845,
+        "chat": 851,
         "points_spent": 72652,
         "follow": 1,
         "sub": 28,
@@ -1510,7 +1510,7 @@
         "screenshot_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-11-04T20:32:52Z"
+      "lastUpdated": "2026-11-04T20:41:18Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2269,7 +2269,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2608,
+        "chat": 2618,
         "points_spent": 355621,
         "effects": 22,
         "sounds": 18,
@@ -2328,7 +2328,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T20:32:12Z"
+      "lastUpdated": "2026-11-04T20:41:18Z"
     },
     "anzerou": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7146,
+        "chat": 7153,
         "points_spent": 186753,
         "effects": 76,
         "sub": 52,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-04T20:32:24Z"
+      "lastUpdated": "2026-11-04T20:38:55Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4649,7 +4649,7 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 231,
+        "chat": 237,
         "points_spent": 2000
       },
       "unlockedAchievements": [
@@ -4665,7 +4665,7 @@
         "spender_bronze",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-11-01T17:24:41Z"
+      "lastUpdated": "2026-11-04T20:41:15Z"
     },
     "neburgy": {
       "counters": {
@@ -9582,7 +9582,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 195,
+        "chat": 200,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5,
@@ -9601,9 +9601,10 @@
         "sub_tier1",
         "sub_first_month",
         "sub_supporter",
-        "sub_loyal"
+        "sub_loyal",
+        "chat_frequent"
       ],
-      "lastUpdated": "2026-11-04T20:29:56Z"
+      "lastUpdated": "2026-11-04T20:41:46Z"
     },
     "philpseyforce": {
       "counters": {
@@ -11953,7 +11954,7 @@
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-04T20:32:57Z",
+  "lastUpdated": "2026-11-04T20:41:47Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
