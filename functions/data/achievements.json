@@ -11946,12 +11946,14 @@
         "sub_platinum",
         "sub_diamond",
         "follow_supporter",
-        "spender_bronze"
+        "spender_bronze",
+        "spender_iron",
+        "vip_dreamer"
       ],
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-04T20:32:54Z",
+  "lastUpdated": "2026-11-04T20:32:57Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
