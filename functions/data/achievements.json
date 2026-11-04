@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 843,
+        "chat": 845,
         "points_spent": 72652,
         "follow": 1,
         "sub": 28,
@@ -1510,7 +1510,7 @@
         "screenshot_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-11-01T18:33:33Z"
+      "lastUpdated": "2026-11-04T20:32:52Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2269,7 +2269,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2606,
+        "chat": 2608,
         "points_spent": 355621,
         "effects": 22,
         "sounds": 18,
@@ -2328,7 +2328,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T20:29:16Z"
+      "lastUpdated": "2026-11-04T20:32:12Z"
     },
     "anzerou": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7143,
+        "chat": 7146,
         "points_spent": 186753,
         "effects": 76,
         "sub": 52,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-04T20:28:43Z"
+      "lastUpdated": "2026-11-04T20:32:24Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3330,7 +3330,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2603,
+        "chat": 2605,
         "points_spent": 149001,
         "sounds": 14,
         "effects": 160,
@@ -3431,7 +3431,7 @@
         "gift_deity",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-11-04T20:28:51Z"
+      "lastUpdated": "2026-11-04T20:32:13Z"
     },
     "andilippi": {
       "counters": {
@@ -9582,7 +9582,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 194,
+        "chat": 195,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5,
@@ -9603,7 +9603,7 @@
         "sub_supporter",
         "sub_loyal"
       ],
-      "lastUpdated": "2026-11-04T20:27:52Z"
+      "lastUpdated": "2026-11-04T20:29:56Z"
     },
     "philpseyforce": {
       "counters": {
@@ -11930,7 +11930,9 @@
       "counters": {
         "sub": 25,
         "sub_tier": 1,
-        "follow": 1
+        "follow": 1,
+        "chat": 2,
+        "points_spent": 5000
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -11943,12 +11945,13 @@
         "sub_champion",
         "sub_platinum",
         "sub_diamond",
-        "follow_supporter"
+        "follow_supporter",
+        "spender_bronze"
       ],
-      "lastUpdated": "2026-11-04T20:29:21Z"
+      "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-04T20:29:22Z",
+  "lastUpdated": "2026-11-04T20:32:54Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
