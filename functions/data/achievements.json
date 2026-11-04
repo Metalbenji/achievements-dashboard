@@ -2269,7 +2269,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2682,
+        "chat": 2685,
         "points_spent": 358621,
         "effects": 22,
         "sounds": 18,
@@ -2328,7 +2328,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T22:08:15Z"
+      "lastUpdated": "2026-11-04T22:10:45Z"
     },
     "anzerou": {
       "counters": {
@@ -3330,7 +3330,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2634,
+        "chat": 2635,
         "points_spent": 152351,
         "sounds": 14,
         "effects": 161,
@@ -3431,7 +3431,7 @@
         "gift_deity",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-11-04T22:05:04Z"
+      "lastUpdated": "2026-11-04T22:10:55Z"
     },
     "andilippi": {
       "counters": {
@@ -10363,7 +10363,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 86,
+        "chat": 87,
         "points_spent": 200,
         "effects": 1
       },
@@ -10373,9 +10373,10 @@
         "chat_newbie",
         "chat_talker",
         "chat_conversationalist",
-        "effect_first"
+        "effect_first",
+        "night_owl"
       ],
-      "lastUpdated": "2026-10-05T19:28:37Z"
+      "lastUpdated": "2026-11-04T22:11:40Z"
     },
     "no_rep_": {
       "counters": {
@@ -11963,7 +11964,7 @@
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-04T22:08:22Z",
+  "lastUpdated": "2026-11-04T22:11:41Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
