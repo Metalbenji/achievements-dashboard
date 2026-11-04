@@ -9583,7 +9583,9 @@
         "chat": 170,
         "follow": 1,
         "points_spent": 3850,
-        "effects": 5
+        "effects": 5,
+        "sub": 3,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9593,9 +9595,13 @@
         "effect_first",
         "spender_bronze",
         "chat_conversationalist",
-        "chat_regular"
+        "chat_regular",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal"
       ],
-      "lastUpdated": "2026-11-01T19:51:00Z"
+      "lastUpdated": "2026-11-04T19:13:49Z"
     },
     "philpseyforce": {
       "counters": {
@@ -11919,7 +11925,7 @@
       "lastUpdated": "2026-11-01T10:08:14Z"
     }
   },
-  "lastUpdated": "2026-11-04T19:13:00Z",
+  "lastUpdated": "2026-11-04T19:13:51Z",
   "totalUsers": 612,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
