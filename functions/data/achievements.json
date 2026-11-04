@@ -2269,7 +2269,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2600,
+        "chat": 2605,
         "points_spent": 355621,
         "effects": 22,
         "sounds": 18,
@@ -2328,7 +2328,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T20:25:00Z"
+      "lastUpdated": "2026-11-04T20:29:00Z"
     },
     "anzerou": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7137,
+        "chat": 7143,
         "points_spent": 186753,
         "effects": 76,
         "sub": 52,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-04T20:25:16Z"
+      "lastUpdated": "2026-11-04T20:28:43Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3330,7 +3330,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2600,
+        "chat": 2603,
         "points_spent": 149001,
         "sounds": 14,
         "effects": 160,
@@ -3431,7 +3431,7 @@
         "gift_deity",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-11-04T20:25:13Z"
+      "lastUpdated": "2026-11-04T20:28:51Z"
     },
     "andilippi": {
       "counters": {
@@ -7627,11 +7627,11 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 767,
+        "chat": 768,
         "points_spent": 25550,
         "interactive": 1,
         "screenshot": 2,
-        "sounds": 1,
+        "sounds": 2,
         "effects": 2,
         "gift_subs": 5,
         "gift_bombs": 1,
@@ -7665,9 +7665,10 @@
         "donation_first_timer",
         "total_donation_starter",
         "chat_enthusiast",
-        "spender_silver"
+        "spender_silver",
+        "spender_electrum"
       ],
-      "lastUpdated": "2026-11-04T20:25:48Z"
+      "lastUpdated": "2026-11-04T20:28:39Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9581,7 +9582,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 193,
+        "chat": 194,
         "follow": 1,
         "points_spent": 3850,
         "effects": 5,
@@ -9602,7 +9603,7 @@
         "sub_supporter",
         "sub_loyal"
       ],
-      "lastUpdated": "2026-11-04T20:15:56Z"
+      "lastUpdated": "2026-11-04T20:27:52Z"
     },
     "philpseyforce": {
       "counters": {
@@ -11924,10 +11925,29 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-11-01T10:08:14Z"
+    },
+    "rekona": {
+      "counters": {
+        "sub": 25,
+        "sub_tier": 1
+      },
+      "unlockedAchievements": [
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed",
+        "sub_veteran",
+        "sub_champion",
+        "sub_platinum",
+        "sub_diamond"
+      ],
+      "lastUpdated": "2026-11-04T20:29:05Z"
     }
   },
-  "lastUpdated": "2026-11-04T20:25:49Z",
-  "totalUsers": 612,
+  "lastUpdated": "2026-11-04T20:29:08Z",
+  "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
