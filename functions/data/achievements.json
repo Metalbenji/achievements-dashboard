@@ -2269,7 +2269,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2685,
+        "chat": 2691,
         "points_spent": 358621,
         "effects": 22,
         "sounds": 18,
@@ -2328,7 +2328,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T22:10:45Z"
+      "lastUpdated": "2026-11-04T22:26:42Z"
     },
     "anzerou": {
       "counters": {
@@ -2668,12 +2668,12 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7203,
+        "chat": 7217,
         "points_spent": 188103,
         "effects": 77,
         "sub": 52,
         "sounds": 10,
-        "bits": 6000,
+        "bits": 6100,
         "screenshot": 7,
         "clips": 38,
         "gift_subs": 513,
@@ -2775,12 +2775,12 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-04T22:08:14Z"
+      "lastUpdated": "2026-11-04T22:27:10Z"
     },
     "purgemonster91": {
       "counters": {
         "follow": 1,
-        "chat": 276
+        "chat": 287
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -2793,7 +2793,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-10-17T15:19:27Z"
+      "lastUpdated": "2026-11-04T22:25:23Z"
     },
     "stumblingpanda": {
       "counters": {
@@ -3330,12 +3330,12 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2635,
+        "chat": 2639,
         "points_spent": 152351,
         "sounds": 14,
         "effects": 161,
         "sub": 55,
-        "bits": 14874,
+        "bits": 14974,
         "interactive": 11,
         "screenshot": 13,
         "gift_subs": 530,
@@ -3431,7 +3431,7 @@
         "gift_deity",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-11-04T22:10:55Z"
+      "lastUpdated": "2026-11-04T22:27:12Z"
     },
     "andilippi": {
       "counters": {
@@ -10034,7 +10034,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 357,
+        "chat": 358,
         "gift_subs": 30,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 30,
@@ -10085,9 +10085,10 @@
         "sub_supporter",
         "sub_loyal",
         "gift_angel",
-        "screenshot_first"
+        "screenshot_first",
+        "night_owl"
       ],
-      "lastUpdated": "2026-11-04T21:14:42Z"
+      "lastUpdated": "2026-11-04T22:27:13Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -10363,7 +10364,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 87,
+        "chat": 97,
         "points_spent": 200,
         "effects": 1
       },
@@ -10376,7 +10377,7 @@
         "effect_first",
         "night_owl"
       ],
-      "lastUpdated": "2026-11-04T22:11:40Z"
+      "lastUpdated": "2026-11-04T22:26:08Z"
     },
     "no_rep_": {
       "counters": {
@@ -11964,7 +11965,7 @@
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-04T22:11:41Z",
+  "lastUpdated": "2026-11-04T22:27:14Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
