@@ -2269,7 +2269,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2605,
+        "chat": 2606,
         "points_spent": 355621,
         "effects": 22,
         "sounds": 18,
@@ -2328,7 +2328,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T20:29:00Z"
+      "lastUpdated": "2026-11-04T20:29:16Z"
     },
     "anzerou": {
       "counters": {
@@ -7627,7 +7627,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 768,
+        "chat": 769,
         "points_spent": 25550,
         "interactive": 1,
         "screenshot": 2,
@@ -7668,7 +7668,7 @@
         "spender_silver",
         "spender_electrum"
       ],
-      "lastUpdated": "2026-11-04T20:28:39Z"
+      "lastUpdated": "2026-11-04T20:29:20Z"
     },
     "kikinplays_": {
       "counters": {
@@ -11929,7 +11929,8 @@
     "rekona": {
       "counters": {
         "sub": 25,
-        "sub_tier": 1
+        "sub_tier": 1,
+        "follow": 1
       },
       "unlockedAchievements": [
         "sub_tier1",
@@ -11941,12 +11942,13 @@
         "sub_veteran",
         "sub_champion",
         "sub_platinum",
-        "sub_diamond"
+        "sub_diamond",
+        "follow_supporter"
       ],
-      "lastUpdated": "2026-11-04T20:29:05Z"
+      "lastUpdated": "2026-11-04T20:29:21Z"
     }
   },
-  "lastUpdated": "2026-11-04T20:29:08Z",
+  "lastUpdated": "2026-11-04T20:29:22Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
