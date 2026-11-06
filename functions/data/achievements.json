@@ -2269,7 +2269,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2691,
+        "chat": 2694,
         "points_spent": 358621,
         "effects": 22,
         "sounds": 18,
@@ -2328,7 +2328,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T22:26:42Z"
+      "lastUpdated": "2026-11-04T22:29:15Z"
     },
     "anzerou": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7217,
+        "chat": 7222,
         "points_spent": 188103,
         "effects": 77,
         "sub": 52,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-04T22:27:10Z"
+      "lastUpdated": "2026-11-04T22:29:22Z"
     },
     "purgemonster91": {
       "counters": {
@@ -10364,7 +10364,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 97,
+        "chat": 98,
         "points_spent": 200,
         "effects": 1
       },
@@ -10377,7 +10377,7 @@
         "effect_first",
         "night_owl"
       ],
-      "lastUpdated": "2026-11-04T22:26:08Z"
+      "lastUpdated": "2026-11-04T22:28:24Z"
     },
     "no_rep_": {
       "counters": {
@@ -10503,7 +10503,7 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 42450,
+        "points_spent": 48450,
         "effects": 34,
         "follow": 1,
         "chat": 275,
@@ -10551,9 +10551,10 @@
         "screenshot_first",
         "interactive_regular",
         "night_owl",
-        "chat_frequent"
+        "chat_frequent",
+        "emperor_loyal"
       ],
-      "lastUpdated": "2026-11-04T21:15:30Z"
+      "lastUpdated": "2026-11-06T19:12:36Z"
     },
     "lokonak": {
       "counters": {
@@ -11965,7 +11966,7 @@
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-04T22:27:14Z",
+  "lastUpdated": "2026-11-06T19:12:38Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
