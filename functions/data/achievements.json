@@ -10503,7 +10503,7 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 48450,
+        "points_spent": 50050,
         "effects": 34,
         "follow": 1,
         "chat": 275,
@@ -10552,9 +10552,10 @@
         "interactive_regular",
         "night_owl",
         "chat_frequent",
-        "emperor_loyal"
+        "emperor_loyal",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-11-06T19:12:36Z"
+      "lastUpdated": "2026-11-06T19:23:59Z"
     },
     "lokonak": {
       "counters": {
@@ -11966,7 +11967,7 @@
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-06T19:12:38Z",
+  "lastUpdated": "2026-11-06T19:24:00Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
