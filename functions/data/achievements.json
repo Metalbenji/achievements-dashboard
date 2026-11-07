@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 858,
+        "chat": 862,
         "points_spent": 72652,
         "follow": 1,
         "sub": 28,
@@ -1510,7 +1510,7 @@
         "screenshot_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-11-04T20:50:01Z"
+      "lastUpdated": "2026-11-07T13:49:37Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1816,8 +1816,8 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 4054,
-        "points_spent": 75810,
+        "chat": 4055,
+        "points_spent": 76210,
         "interactive": 65,
         "follow": 1,
         "sub": 47,
@@ -1872,11 +1872,11 @@
         "chat_master_tier",
         "chat_elite"
       ],
-      "lastUpdated": "2026-11-07T13:36:08Z"
+      "lastUpdated": "2026-11-07T13:40:30Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 973,
+        "chat": 977,
         "follow": 1,
         "sub": 45,
         "points_spent": 97350,
@@ -1919,7 +1919,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-11-01T10:33:29Z"
+      "lastUpdated": "2026-11-07T13:45:08Z"
     },
     "scoman07": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7239,
+        "chat": 7249,
         "points_spent": 188103,
         "effects": 77,
         "sub": 52,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-07T13:35:19Z"
+      "lastUpdated": "2026-11-07T14:06:04Z"
     },
     "purgemonster91": {
       "counters": {
@@ -3608,7 +3608,7 @@
     },
     "william_murdurface": {
       "counters": {
-        "chat": 291,
+        "chat": 300,
         "follow": 1,
         "points_spent": 2750,
         "effects": 2,
@@ -3626,9 +3626,10 @@
         "effect_first",
         "chat_regular",
         "chat_frequent",
-        "interactive_first"
+        "interactive_first",
+        "chat_dedicated"
       ],
-      "lastUpdated": "2026-11-07T13:37:58Z"
+      "lastUpdated": "2026-11-07T14:08:02Z"
     },
     "justflip": {
       "counters": {
@@ -4439,7 +4440,7 @@
     "vrflad": {
       "counters": {
         "follow": 1,
-        "chat": 380,
+        "chat": 387,
         "points_spent": 1001,
         "effects": 1
       },
@@ -4459,7 +4460,7 @@
         "chat_dedicated",
         "bday2026_attend"
       ],
-      "lastUpdated": "2026-11-07T13:37:44Z"
+      "lastUpdated": "2026-11-07T13:44:46Z"
     },
     "theperfectblunt": {
       "counters": {
@@ -7631,7 +7632,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 798,
+        "chat": 799,
         "points_spent": 25550,
         "interactive": 1,
         "screenshot": 2,
@@ -7674,7 +7675,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-11-07T13:29:02Z"
+      "lastUpdated": "2026-11-07T13:43:44Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9588,7 +9589,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 238,
+        "chat": 243,
         "follow": 1,
         "points_spent": 4550,
         "effects": 6,
@@ -9623,7 +9624,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-11-07T13:33:47Z"
+      "lastUpdated": "2026-11-07T14:01:33Z"
     },
     "philpseyforce": {
       "counters": {
@@ -10514,7 +10515,7 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 55450,
+        "points_spent": 55850,
         "effects": 34,
         "follow": 1,
         "chat": 276,
@@ -10566,7 +10567,7 @@
         "emperor_loyal",
         "spender_gold"
       ],
-      "lastUpdated": "2026-11-07T13:28:26Z"
+      "lastUpdated": "2026-11-07T13:40:11Z"
     },
     "lokonak": {
       "counters": {
@@ -11354,7 +11355,7 @@
     },
     "dangerduck_": {
       "counters": {
-        "chat": 231,
+        "chat": 233,
         "follow": 1,
         "points_spent": 2550,
         "effects": 5
@@ -11370,7 +11371,7 @@
         "chat_regular",
         "chat_frequent"
       ],
-      "lastUpdated": "2026-11-01T19:35:52Z"
+      "lastUpdated": "2026-11-07T13:58:22Z"
     },
     "konkrs": {
       "counters": {
@@ -11978,7 +11979,7 @@
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-07T13:37:58Z",
+  "lastUpdated": "2026-11-07T14:08:02Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
