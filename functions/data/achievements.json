@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 881,
+        "chat": 883,
         "points_spent": 72652,
         "follow": 1,
         "sub": 28,
@@ -1510,7 +1510,7 @@
         "screenshot_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-11-07T14:50:21Z"
+      "lastUpdated": "2026-11-07T16:12:29Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -2668,8 +2668,8 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7253,
-        "points_spent": 188103,
+        "chat": 7254,
+        "points_spent": 188603,
         "effects": 77,
         "sub": 52,
         "sounds": 10,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-07T16:10:54Z"
+      "lastUpdated": "2026-11-07T16:12:09Z"
     },
     "purgemonster91": {
       "counters": {
@@ -11980,15 +11980,16 @@
     },
     "nhotchoanh": {
       "counters": {
-        "chat": 1
+        "chat": 5
       },
       "unlockedAchievements": [
-        "weekend_warrior"
+        "weekend_warrior",
+        "chat_newbie"
       ],
-      "lastUpdated": "2026-11-07T16:11:09Z"
+      "lastUpdated": "2026-11-07T16:12:46Z"
     }
   },
-  "lastUpdated": "2026-11-07T16:11:10Z",
+  "lastUpdated": "2026-11-07T16:12:46Z",
   "totalUsers": 614,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
