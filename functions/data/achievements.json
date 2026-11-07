@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 4048,
+        "chat": 4050,
         "points_spent": 75809,
         "interactive": 65,
         "follow": 1,
@@ -1872,7 +1872,7 @@
         "chat_master_tier",
         "chat_elite"
       ],
-      "lastUpdated": "2026-11-04T21:55:51Z"
+      "lastUpdated": "2026-11-07T13:24:02Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7222,
+        "chat": 7229,
         "points_spent": 188103,
         "effects": 77,
         "sub": 52,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-04T22:29:22Z"
+      "lastUpdated": "2026-11-07T13:01:38Z"
     },
     "purgemonster91": {
       "counters": {
@@ -7629,7 +7629,7 @@
     "draxenthor": {
       "counters": {
         "follow": 1,
-        "chat": 792,
+        "chat": 796,
         "points_spent": 25550,
         "interactive": 1,
         "screenshot": 2,
@@ -7672,7 +7672,7 @@
         "gift_thoughtful",
         "gift_supporter"
       ],
-      "lastUpdated": "2026-11-04T21:53:29Z"
+      "lastUpdated": "2026-11-07T13:15:49Z"
     },
     "kikinplays_": {
       "counters": {
@@ -9592,7 +9592,11 @@
         "effects": 6,
         "sub": 3,
         "sub_tier": 1,
-        "bits": 100
+        "bits": 100,
+        "gift_subs": 5,
+        "total_gift_bomb_subs": 5,
+        "gift_bombs": 1,
+        "largest_gift_bomb": 5
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9610,7 +9614,12 @@
         "chat_frequent",
         "bits_tiny",
         "bits_small",
-        "bits_regular"
+        "bits_regular",
+        "gift_bomb_5",
+        "gift_bombs_first",
+        "gift_starter",
+        "gift_kind",
+        "gift_caring"
       ],
       "lastUpdated": "2026-11-04T21:40:24Z"
     },
@@ -10503,14 +10512,14 @@
       "counters": {
         "sub": 1,
         "sub_tier": 1,
-        "points_spent": 50050,
+        "points_spent": 52950,
         "effects": 34,
         "follow": 1,
-        "chat": 275,
+        "chat": 276,
         "gift_subs": 4,
         "bits": 100000,
-        "interactive": 13,
-        "sounds": 4,
+        "interactive": 14,
+        "sounds": 5,
         "screenshot": 2
       },
       "unlockedAchievements": [
@@ -10555,7 +10564,7 @@
         "emperor_loyal",
         "spender_gold"
       ],
-      "lastUpdated": "2026-11-06T19:23:59Z"
+      "lastUpdated": "2026-11-07T13:25:45Z"
     },
     "lokonak": {
       "counters": {
@@ -11967,7 +11976,7 @@
       "lastUpdated": "2026-11-04T20:32:53Z"
     }
   },
-  "lastUpdated": "2026-11-06T19:24:00Z",
+  "lastUpdated": "2026-11-07T13:25:53Z",
   "totalUsers": 613,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
