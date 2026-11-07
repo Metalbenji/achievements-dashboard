@@ -1461,7 +1461,7 @@
     },
     "itzsilvah": {
       "counters": {
-        "chat": 883,
+        "chat": 889,
         "points_spent": 72652,
         "follow": 1,
         "sub": 28,
@@ -1510,7 +1510,7 @@
         "screenshot_first",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-11-07T16:12:29Z"
+      "lastUpdated": "2026-11-07T16:21:51Z"
     },
     "notoriouskiwi": {
       "counters": {
@@ -1655,7 +1655,7 @@
     },
     "miromaaldis": {
       "counters": {
-        "chat": 2041,
+        "chat": 2053,
         "points_spent": 86310,
         "effects": 54,
         "follow": 1,
@@ -1723,7 +1723,7 @@
         "bits_steady",
         "chat_expert"
       ],
-      "lastUpdated": "2026-11-07T16:13:43Z"
+      "lastUpdated": "2026-11-07T16:29:24Z"
     },
     "ramdon101": {
       "counters": {
@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 4067,
+        "chat": 4080,
         "points_spent": 76210,
         "interactive": 65,
         "follow": 1,
@@ -1872,11 +1872,11 @@
         "chat_master_tier",
         "chat_elite"
       ],
-      "lastUpdated": "2026-11-07T14:37:31Z"
+      "lastUpdated": "2026-11-07T16:20:31Z"
     },
     "aladderinsane": {
       "counters": {
-        "chat": 985,
+        "chat": 999,
         "follow": 1,
         "sub": 45,
         "points_spent": 97350,
@@ -1919,7 +1919,7 @@
         "bday2026_attend",
         "chat_enthusiast"
       ],
-      "lastUpdated": "2026-11-07T15:16:19Z"
+      "lastUpdated": "2026-11-07T16:35:07Z"
     },
     "scoman07": {
       "counters": {
@@ -2668,7 +2668,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7254,
+        "chat": 7265,
         "points_spent": 188603,
         "effects": 77,
         "sub": 52,
@@ -2775,7 +2775,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-07T16:12:09Z"
+      "lastUpdated": "2026-11-07T16:24:54Z"
     },
     "purgemonster91": {
       "counters": {
@@ -5906,7 +5906,7 @@
     "i_am_t3x": {
       "counters": {
         "follow": 1,
-        "chat": 419,
+        "chat": 420,
         "points_spent": 14102,
         "effects": 12,
         "sounds": 1
@@ -5931,7 +5931,7 @@
         "chat_dedicated",
         "spender_silver"
       ],
-      "lastUpdated": "2026-11-07T16:03:32Z"
+      "lastUpdated": "2026-11-07T16:18:47Z"
     },
     "stellabellas": {
       "counters": {
@@ -6730,7 +6730,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 489,
+        "chat": 494,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6761,7 +6761,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-11-01T12:56:02Z"
+      "lastUpdated": "2026-11-07T16:23:35Z"
     },
     "grimlocc": {
       "counters": {
@@ -9383,7 +9383,7 @@
     },
     "trilani": {
       "counters": {
-        "chat": 51,
+        "chat": 53,
         "follow": 1,
         "points_spent": 2000,
         "sounds": 1
@@ -9398,7 +9398,7 @@
         "spender_bronze",
         "sound_first"
       ],
-      "lastUpdated": "2026-11-01T18:13:19Z"
+      "lastUpdated": "2026-11-07T16:30:01Z"
     },
     "killakris": {
       "counters": {
@@ -10046,7 +10046,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 364,
+        "chat": 365,
         "gift_subs": 30,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 30,
@@ -10100,7 +10100,7 @@
         "screenshot_first",
         "night_owl"
       ],
-      "lastUpdated": "2026-11-07T16:08:27Z"
+      "lastUpdated": "2026-11-07T16:40:35Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11980,18 +11980,27 @@
     },
     "nhotchoanh": {
       "counters": {
-        "chat": 10
+        "chat": 12
       },
       "unlockedAchievements": [
         "weekend_warrior",
         "chat_newbie",
         "chat_talker"
       ],
-      "lastUpdated": "2026-11-07T16:13:52Z"
+      "lastUpdated": "2026-11-07T16:14:50Z"
+    },
+    "goofy922": {
+      "counters": {
+        "follow": 1
+      },
+      "unlockedAchievements": [
+        "follow_supporter"
+      ],
+      "lastUpdated": "2026-11-07T16:41:29Z"
     }
   },
-  "lastUpdated": "2026-11-07T16:13:53Z",
-  "totalUsers": 614,
+  "lastUpdated": "2026-11-07T16:41:30Z",
+  "totalUsers": 615,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
