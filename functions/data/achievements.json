@@ -10524,7 +10524,7 @@
         "follow": 1,
         "chat": 283,
         "gift_subs": 4,
-        "bits": 100000,
+        "bits": 200010,
         "interactive": 14,
         "sounds": 6,
         "screenshot": 2
@@ -10569,9 +10569,10 @@
         "night_owl",
         "chat_frequent",
         "emperor_loyal",
-        "spender_gold"
+        "spender_gold",
+        "bits_deity"
       ],
-      "lastUpdated": "2026-11-08T14:20:56Z"
+      "lastUpdated": "2026-11-08T17:24:27Z"
     },
     "lokonak": {
       "counters": {
@@ -12021,7 +12022,7 @@
       "lastUpdated": "2026-11-08T15:51:54Z"
     }
   },
-  "lastUpdated": "2026-11-08T17:23:43Z",
+  "lastUpdated": "2026-11-08T17:35:01Z",
   "totalUsers": 617,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
