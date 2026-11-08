@@ -1876,13 +1876,13 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 1004,
+        "chat": 1005,
         "follow": 1,
         "sub": 45,
-        "points_spent": 97350,
+        "points_spent": 97650,
         "sounds": 4,
         "sub_tier": 1,
-        "effects": 1
+        "effects": 2
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -1920,7 +1920,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-11-08T15:23:19Z"
+      "lastUpdated": "2026-11-08T15:48:11Z"
     },
     "scoman07": {
       "counters": {
@@ -2527,9 +2527,9 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 142302,
+        "points_spent": 143302,
         "follow": 1,
-        "chat": 1774,
+        "chat": 1795,
         "effects": 166,
         "screenshot": 23,
         "sounds": 7,
@@ -2594,7 +2594,7 @@
         "chat_expert",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-11-08T15:19:42Z"
+      "lastUpdated": "2026-11-08T15:44:30Z"
     },
     "syn__________": {
       "counters": {
@@ -3945,7 +3945,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2529,
+        "chat": 2531,
         "points_spent": 87651,
         "effects": 7,
         "interactive": 19,
@@ -3983,7 +3983,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-11-08T13:37:11Z"
+      "lastUpdated": "2026-11-08T15:50:53Z"
     },
     "roffelonator": {
       "counters": {
@@ -10379,7 +10379,7 @@
     "moqvistan": {
       "counters": {
         "follow": 1,
-        "chat": 100,
+        "chat": 108,
         "points_spent": 200,
         "effects": 1
       },
@@ -10393,7 +10393,7 @@
         "night_owl",
         "chat_regular"
       ],
-      "lastUpdated": "2026-11-08T15:23:59Z"
+      "lastUpdated": "2026-11-08T15:36:59Z"
     },
     "no_rep_": {
       "counters": {
@@ -12010,10 +12010,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-11-08T13:16:39Z"
+    },
+    "d3_schizo": {
+      "counters": {
+        "chat": 1
+      },
+      "unlockedAchievements": [
+        "weekend_warrior"
+      ],
+      "lastUpdated": "2026-11-08T15:51:54Z"
     }
   },
-  "lastUpdated": "2026-11-08T15:23:59Z",
-  "totalUsers": 616,
+  "lastUpdated": "2026-11-08T15:51:55Z",
+  "totalUsers": 617,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
