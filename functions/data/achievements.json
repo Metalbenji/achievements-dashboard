@@ -10522,9 +10522,9 @@
         "points_spent": 55850,
         "effects": 34,
         "follow": 1,
-        "chat": 283,
+        "chat": 285,
         "gift_subs": 4,
-        "bits": 200010,
+        "bits": 200020,
         "interactive": 14,
         "sounds": 6,
         "screenshot": 2
@@ -10572,7 +10572,7 @@
         "spender_gold",
         "bits_deity"
       ],
-      "lastUpdated": "2026-11-08T17:24:27Z"
+      "lastUpdated": "2026-11-08T18:39:43Z"
     },
     "lokonak": {
       "counters": {
@@ -12020,10 +12020,19 @@
         "weekend_warrior"
       ],
       "lastUpdated": "2026-11-08T15:51:54Z"
+    },
+    "jlozm22": {
+      "counters": {
+        "raid": 1
+      },
+      "unlockedAchievements": [
+        "raid_tier1_captain"
+      ],
+      "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-08T17:35:01Z",
-  "totalUsers": 617,
+  "lastUpdated": "2026-11-08T18:39:44Z",
+  "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
 }
