@@ -10523,7 +10523,7 @@
         "effects": 34,
         "follow": 1,
         "chat": 286,
-        "gift_subs": 5,
+        "gift_subs": 6,
         "bits": 200120,
         "interactive": 14,
         "sounds": 6,
@@ -10573,7 +10573,7 @@
         "bits_deity",
         "sub_tier2"
       ],
-      "lastUpdated": "2026-11-08T21:59:14Z"
+      "lastUpdated": "2026-11-08T21:59:32Z"
     },
     "lokonak": {
       "counters": {
@@ -12032,7 +12032,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-08T21:59:15Z",
+  "lastUpdated": "2026-11-08T21:59:44Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
