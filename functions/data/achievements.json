@@ -1876,7 +1876,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 1005,
+        "chat": 1008,
         "follow": 1,
         "sub": 45,
         "points_spent": 97650,
@@ -1920,7 +1920,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-11-08T15:48:11Z"
+      "lastUpdated": "2026-11-08T16:05:04Z"
     },
     "scoman07": {
       "counters": {
@@ -3945,7 +3945,7 @@
     "richie_fit": {
       "counters": {
         "follow": 1,
-        "chat": 2531,
+        "chat": 2533,
         "points_spent": 87651,
         "effects": 7,
         "interactive": 19,
@@ -3983,7 +3983,7 @@
         "bday2026_attend",
         "raid_tier1_captain"
       ],
-      "lastUpdated": "2026-11-08T15:50:53Z"
+      "lastUpdated": "2026-11-08T15:53:09Z"
     },
     "roffelonator": {
       "counters": {
@@ -6245,7 +6245,7 @@
     "isleenaa": {
       "counters": {
         "follow": 1,
-        "chat": 70,
+        "chat": 72,
         "sub": 1,
         "sub_tier": 1,
         "donations": 2,
@@ -6267,7 +6267,7 @@
         "total_donation_kind",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-08T14:20:50Z"
+      "lastUpdated": "2026-11-08T16:20:36Z"
     },
     "esjaytv": {
       "counters": {
@@ -6731,7 +6731,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 500,
+        "chat": 501,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6762,7 +6762,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-11-08T13:56:03Z"
+      "lastUpdated": "2026-11-08T16:15:56Z"
     },
     "grimlocc": {
       "counters": {
@@ -9977,7 +9977,7 @@
     "shard_lin": {
       "counters": {
         "follow": 1,
-        "chat": 2505,
+        "chat": 2507,
         "points_spent": 73752,
         "sounds": 4,
         "sub": 33,
@@ -10030,7 +10030,7 @@
         "total_donation_starter",
         "total_donation_generous"
       ],
-      "lastUpdated": "2026-11-07T20:39:22Z"
+      "lastUpdated": "2026-11-08T16:08:54Z"
     },
     "infincible": {
       "counters": {
@@ -12021,7 +12021,7 @@
       "lastUpdated": "2026-11-08T15:51:54Z"
     }
   },
-  "lastUpdated": "2026-11-08T15:51:55Z",
+  "lastUpdated": "2026-11-08T17:23:43Z",
   "totalUsers": 617,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
