@@ -10518,13 +10518,13 @@
     "metalbenji": {
       "counters": {
         "sub": 1,
-        "sub_tier": 1,
+        "sub_tier": 2,
         "points_spent": 55850,
         "effects": 34,
         "follow": 1,
-        "chat": 285,
-        "gift_subs": 4,
-        "bits": 200020,
+        "chat": 286,
+        "gift_subs": 5,
+        "bits": 200120,
         "interactive": 14,
         "sounds": 6,
         "screenshot": 2
@@ -10570,9 +10570,10 @@
         "chat_frequent",
         "emperor_loyal",
         "spender_gold",
-        "bits_deity"
+        "bits_deity",
+        "sub_tier2"
       ],
-      "lastUpdated": "2026-11-08T18:39:43Z"
+      "lastUpdated": "2026-11-08T21:59:14Z"
     },
     "lokonak": {
       "counters": {
@@ -12031,7 +12032,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-08T18:39:44Z",
+  "lastUpdated": "2026-11-08T21:59:15Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
