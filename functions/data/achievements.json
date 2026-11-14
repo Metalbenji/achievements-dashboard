@@ -1727,7 +1727,7 @@
     },
     "ramdon101": {
       "counters": {
-        "chat": 5066,
+        "chat": 5079,
         "points_spent": 269554,
         "screenshot": 4,
         "follow": 1,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-11-14T08:38:12Z"
+      "lastUpdated": "2026-11-14T08:53:11Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -1876,7 +1876,7 @@
     },
     "aladderinsane": {
       "counters": {
-        "chat": 1008,
+        "chat": 1011,
         "follow": 1,
         "sub": 45,
         "points_spent": 97650,
@@ -1920,7 +1920,7 @@
         "chat_enthusiast",
         "chat_champion"
       ],
-      "lastUpdated": "2026-11-08T16:05:04Z"
+      "lastUpdated": "2026-11-14T08:55:21Z"
     },
     "scoman07": {
       "counters": {
@@ -2270,7 +2270,7 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2722,
+        "chat": 2734,
         "points_spent": 362622,
         "effects": 22,
         "sounds": 18,
@@ -2329,7 +2329,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-14T08:36:48Z"
+      "lastUpdated": "2026-11-14T08:51:15Z"
     },
     "anzerou": {
       "counters": {
@@ -3020,9 +3020,9 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1168,
+        "chat": 1173,
         "sub": 47,
-        "points_spent": 49151,
+        "points_spent": 50151,
         "interactive": 4,
         "sounds": 3,
         "effects": 21,
@@ -3098,9 +3098,10 @@
         "total_donation_generous",
         "total_donation_kind",
         "donation_kind",
-        "total_donation_champion"
+        "total_donation_champion",
+        "spender_gold"
       ],
-      "lastUpdated": "2026-11-14T08:33:38Z"
+      "lastUpdated": "2026-11-14T08:57:32Z"
     },
     "umenneske94": {
       "counters": {
@@ -3331,7 +3332,7 @@
     "mistycal_eu": {
       "counters": {
         "follow": 1,
-        "chat": 2639,
+        "chat": 2641,
         "points_spent": 152351,
         "sounds": 14,
         "effects": 161,
@@ -3432,7 +3433,7 @@
         "gift_deity",
         "interactive_regular"
       ],
-      "lastUpdated": "2026-11-04T22:27:12Z"
+      "lastUpdated": "2026-11-14T08:46:37Z"
     },
     "andilippi": {
       "counters": {
@@ -5028,7 +5029,7 @@
     "zuivereyy": {
       "counters": {
         "follow": 1,
-        "chat": 185
+        "chat": 189
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5039,7 +5040,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-11-14T08:37:24Z"
+      "lastUpdated": "2026-11-14T08:53:26Z"
     },
     "zx_emma_xz": {
       "counters": {
@@ -11492,7 +11493,7 @@
     "daisie_does": {
       "counters": {
         "follow": 1,
-        "chat": 50,
+        "chat": 53,
         "points_spent": 800,
         "effects": 1
       },
@@ -11504,7 +11505,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-11-14T08:23:16Z"
+      "lastUpdated": "2026-11-14T08:43:56Z"
     },
     "kr1ppy": {
       "counters": {
@@ -12033,7 +12034,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-14T08:38:13Z",
+  "lastUpdated": "2026-11-14T08:57:33Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
