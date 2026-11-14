@@ -2270,11 +2270,11 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2694,
-        "points_spent": 358621,
+        "chat": 2705,
+        "points_spent": 358622,
         "effects": 22,
         "sounds": 18,
-        "sub": 44,
+        "sub": 45,
         "screenshot": 7,
         "clips": 1,
         "sub_tier": 1,
@@ -2329,7 +2329,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-04T22:29:15Z"
+      "lastUpdated": "2026-11-14T08:18:14Z"
     },
     "anzerou": {
       "counters": {
@@ -2529,7 +2529,7 @@
       "counters": {
         "points_spent": 143302,
         "follow": 1,
-        "chat": 1795,
+        "chat": 1798,
         "effects": 166,
         "screenshot": 23,
         "sounds": 7,
@@ -2594,7 +2594,7 @@
         "chat_expert",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-11-08T15:44:30Z"
+      "lastUpdated": "2026-11-14T08:18:06Z"
     },
     "syn__________": {
       "counters": {
@@ -10522,7 +10522,7 @@
         "points_spent": 55850,
         "effects": 34,
         "follow": 1,
-        "chat": 288,
+        "chat": 294,
         "gift_subs": 7,
         "bits": 200120,
         "interactive": 14,
@@ -10574,7 +10574,7 @@
         "sub_tier2",
         "gift_thoughtful"
       ],
-      "lastUpdated": "2026-11-11T19:52:28Z"
+      "lastUpdated": "2026-11-14T08:15:07Z"
     },
     "lokonak": {
       "counters": {
@@ -11492,7 +11492,7 @@
     "daisie_does": {
       "counters": {
         "follow": 1,
-        "chat": 46,
+        "chat": 48,
         "points_spent": 800,
         "effects": 1
       },
@@ -11504,7 +11504,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-11-01T10:30:08Z"
+      "lastUpdated": "2026-11-14T08:15:12Z"
     },
     "kr1ppy": {
       "counters": {
@@ -12033,7 +12033,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-11T19:52:30Z",
+  "lastUpdated": "2026-11-14T08:18:16Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
