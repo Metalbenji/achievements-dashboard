@@ -2270,8 +2270,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2705,
-        "points_spent": 358622,
+        "chat": 2711,
+        "points_spent": 360622,
         "effects": 22,
         "sounds": 18,
         "sub": 45,
@@ -2329,7 +2329,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-14T08:18:14Z"
+      "lastUpdated": "2026-11-14T08:21:39Z"
     },
     "anzerou": {
       "counters": {
@@ -2527,9 +2527,9 @@
     },
     "oxmacerxo": {
       "counters": {
-        "points_spent": 143302,
+        "points_spent": 143802,
         "follow": 1,
-        "chat": 1798,
+        "chat": 1801,
         "effects": 166,
         "screenshot": 23,
         "sounds": 7,
@@ -2594,7 +2594,7 @@
         "chat_expert",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-11-14T08:18:06Z"
+      "lastUpdated": "2026-11-14T08:23:12Z"
     },
     "syn__________": {
       "counters": {
@@ -3021,7 +3021,7 @@
       "counters": {
         "follow": 1,
         "chat": 1162,
-        "sub": 46,
+        "sub": 47,
         "points_spent": 49151,
         "interactive": 4,
         "sounds": 3,
@@ -3100,7 +3100,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-10-03T10:31:40Z"
+      "lastUpdated": "2026-11-14T08:23:21Z"
     },
     "umenneske94": {
       "counters": {
@@ -11492,7 +11492,7 @@
     "daisie_does": {
       "counters": {
         "follow": 1,
-        "chat": 48,
+        "chat": 50,
         "points_spent": 800,
         "effects": 1
       },
@@ -11504,7 +11504,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-11-14T08:15:12Z"
+      "lastUpdated": "2026-11-14T08:23:16Z"
     },
     "kr1ppy": {
       "counters": {
@@ -12033,7 +12033,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-14T08:18:16Z",
+  "lastUpdated": "2026-11-14T08:23:22Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
