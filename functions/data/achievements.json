@@ -4863,7 +4863,7 @@
     },
     "kallam19": {
       "counters": {
-        "sub": 53,
+        "sub": 54,
         "follow": 1,
         "chat": 1246,
         "points_spent": 2253,
@@ -4909,7 +4909,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-10-24T14:01:45Z"
+      "lastUpdated": "2026-11-14T15:21:12Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -8864,7 +8864,7 @@
     "trippledad": {
       "counters": {
         "raid": 2,
-        "chat": 122,
+        "chat": 127,
         "follow": 1,
         "sub": 4,
         "sub_tier": 1,
@@ -8891,7 +8891,7 @@
         "spender_silver",
         "sound_first"
       ],
-      "lastUpdated": "2026-11-14T15:09:20Z"
+      "lastUpdated": "2026-11-14T15:11:19Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -12038,7 +12038,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-14T15:09:21Z",
+  "lastUpdated": "2026-11-14T15:21:14Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
