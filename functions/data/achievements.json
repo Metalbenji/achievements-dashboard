@@ -1731,7 +1731,7 @@
         "points_spent": 269554,
         "screenshot": 4,
         "follow": 1,
-        "sub": 58,
+        "sub": 59,
         "sounds": 13,
         "effects": 23,
         "interactive": 9,
@@ -1812,7 +1812,7 @@
         "gift_bomb_5",
         "bits_steady"
       ],
-      "lastUpdated": "2026-11-08T13:34:08Z"
+      "lastUpdated": "2026-11-14T08:38:12Z"
     },
     "marcusmaximi": {
       "counters": {
@@ -2270,8 +2270,8 @@
     "mattyuk937": {
       "counters": {
         "follow": 1,
-        "chat": 2711,
-        "points_spent": 360622,
+        "chat": 2722,
+        "points_spent": 362622,
         "effects": 22,
         "sounds": 18,
         "sub": 45,
@@ -2329,7 +2329,7 @@
         "spender_diamond",
         "gift_starter"
       ],
-      "lastUpdated": "2026-11-14T08:21:39Z"
+      "lastUpdated": "2026-11-14T08:36:48Z"
     },
     "anzerou": {
       "counters": {
@@ -2529,7 +2529,7 @@
       "counters": {
         "points_spent": 143802,
         "follow": 1,
-        "chat": 1801,
+        "chat": 1803,
         "effects": 166,
         "screenshot": 23,
         "sounds": 7,
@@ -2594,7 +2594,7 @@
         "chat_expert",
         "sub_legendary"
       ],
-      "lastUpdated": "2026-11-14T08:23:12Z"
+      "lastUpdated": "2026-11-14T08:28:50Z"
     },
     "syn__________": {
       "counters": {
@@ -3020,7 +3020,7 @@
     "s3n71": {
       "counters": {
         "follow": 1,
-        "chat": 1162,
+        "chat": 1168,
         "sub": 47,
         "points_spent": 49151,
         "interactive": 4,
@@ -3100,7 +3100,7 @@
         "donation_kind",
         "total_donation_champion"
       ],
-      "lastUpdated": "2026-11-14T08:23:21Z"
+      "lastUpdated": "2026-11-14T08:33:38Z"
     },
     "umenneske94": {
       "counters": {
@@ -5028,7 +5028,7 @@
     "zuivereyy": {
       "counters": {
         "follow": 1,
-        "chat": 180
+        "chat": 185
       },
       "unlockedAchievements": [
         "follow_supporter",
@@ -5039,7 +5039,7 @@
         "chat_conversationalist",
         "chat_regular"
       ],
-      "lastUpdated": "2026-09-14T10:08:17Z"
+      "lastUpdated": "2026-11-14T08:37:24Z"
     },
     "zx_emma_xz": {
       "counters": {
@@ -6731,7 +6731,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 501,
+        "chat": 506,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6762,7 +6762,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-11-08T16:15:56Z"
+      "lastUpdated": "2026-11-14T08:36:39Z"
     },
     "grimlocc": {
       "counters": {
@@ -12033,7 +12033,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-14T08:23:22Z",
+  "lastUpdated": "2026-11-14T08:38:13Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
