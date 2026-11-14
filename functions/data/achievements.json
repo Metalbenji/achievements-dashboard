@@ -2672,7 +2672,7 @@
         "chat": 7294,
         "points_spent": 189603,
         "effects": 77,
-        "sub": 52,
+        "sub": 53,
         "sounds": 10,
         "bits": 6100,
         "screenshot": 7,
@@ -2776,7 +2776,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-07T21:12:07Z"
+      "lastUpdated": "2026-11-14T08:58:18Z"
     },
     "purgemonster91": {
       "counters": {
@@ -12034,7 +12034,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-14T08:57:33Z",
+  "lastUpdated": "2026-11-14T08:58:19Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
