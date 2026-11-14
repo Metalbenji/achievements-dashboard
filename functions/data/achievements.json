@@ -8869,7 +8869,8 @@
         "sub": 4,
         "sub_tier": 1,
         "points_spent": 11100,
-        "effects": 2
+        "effects": 2,
+        "sounds": 1
       },
       "unlockedAchievements": [
         "raid_tier1_captain",
@@ -8886,9 +8887,11 @@
         "chat_regular",
         "sub_loyal",
         "sub_dedicated",
-        "spender_iron"
+        "spender_iron",
+        "spender_silver",
+        "sound_first"
       ],
-      "lastUpdated": "2026-11-14T15:09:18Z"
+      "lastUpdated": "2026-11-14T15:09:20Z"
     },
     "rainbowunicornwatchdog": {
       "counters": {
@@ -12035,7 +12038,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-14T15:09:19Z",
+  "lastUpdated": "2026-11-14T15:09:21Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
