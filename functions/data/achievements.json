@@ -1816,7 +1816,7 @@
     },
     "marcusmaximi": {
       "counters": {
-        "chat": 4131,
+        "chat": 4137,
         "points_spent": 76211,
         "interactive": 65,
         "follow": 1,
@@ -1872,7 +1872,7 @@
         "chat_master_tier",
         "chat_elite"
       ],
-      "lastUpdated": "2026-11-14T13:38:44Z"
+      "lastUpdated": "2026-11-14T16:42:41Z"
     },
     "aladderinsane": {
       "counters": {
@@ -2669,7 +2669,7 @@
     "nicolaswuffwuff": {
       "counters": {
         "follow": 1,
-        "chat": 7370,
+        "chat": 7375,
         "points_spent": 191903,
         "effects": 78,
         "sub": 53,
@@ -2776,7 +2776,7 @@
         "first_caller",
         "gift_deity"
       ],
-      "lastUpdated": "2026-11-14T11:59:43Z"
+      "lastUpdated": "2026-11-14T16:34:04Z"
     },
     "purgemonster91": {
       "counters": {
@@ -4654,7 +4654,7 @@
     "saluda777": {
       "counters": {
         "follow": 1,
-        "chat": 292,
+        "chat": 294,
         "points_spent": 2700,
         "effects": 2
       },
@@ -4672,7 +4672,7 @@
         "chat_frequent",
         "effect_first"
       ],
-      "lastUpdated": "2026-11-08T14:19:00Z"
+      "lastUpdated": "2026-11-14T16:36:38Z"
     },
     "neburgy": {
       "counters": {
@@ -4865,7 +4865,7 @@
       "counters": {
         "sub": 54,
         "follow": 1,
-        "chat": 1246,
+        "chat": 1267,
         "points_spent": 2253,
         "sounds": 1,
         "interactive": 1,
@@ -4909,7 +4909,7 @@
         "gift_kind",
         "chat_champion"
       ],
-      "lastUpdated": "2026-11-14T15:21:12Z"
+      "lastUpdated": "2026-11-14T15:35:06Z"
     },
     "tiickiingb0mb2": {
       "counters": {
@@ -6732,7 +6732,7 @@
     "cas_ttv": {
       "counters": {
         "follow": 1,
-        "chat": 506,
+        "chat": 512,
         "sub": 23,
         "sub_tier": 1,
         "points_spent": 1850,
@@ -6763,7 +6763,7 @@
         "spender_bronze",
         "interactive_first"
       ],
-      "lastUpdated": "2026-11-14T08:36:39Z"
+      "lastUpdated": "2026-11-14T16:14:31Z"
     },
     "grimlocc": {
       "counters": {
@@ -9597,7 +9597,7 @@
     },
     "recedetv": {
       "counters": {
-        "chat": 279,
+        "chat": 284,
         "follow": 1,
         "points_spent": 4550,
         "effects": 6,
@@ -9632,7 +9632,7 @@
         "gift_kind",
         "gift_caring"
       ],
-      "lastUpdated": "2026-11-14T14:44:58Z"
+      "lastUpdated": "2026-11-14T15:35:26Z"
     },
     "philpseyforce": {
       "counters": {
@@ -9651,13 +9651,15 @@
     },
     "plexhii": {
       "counters": {
-        "chat": 2598,
+        "chat": 2600,
         "follow": 1,
         "points_spent": 76500,
         "effects": 13,
         "interactive": 4,
         "screenshot": 2,
-        "sounds": 1
+        "sounds": 1,
+        "sub": 5,
+        "sub_tier": 1
       },
       "unlockedAchievements": [
         "weekend_warrior",
@@ -9683,9 +9685,15 @@
         "spender_electrum",
         "sound_first",
         "vip_dreamer",
-        "spender_gold"
+        "spender_gold",
+        "sub_tier1",
+        "sub_first_month",
+        "sub_supporter",
+        "sub_loyal",
+        "sub_dedicated",
+        "sub_committed"
       ],
-      "lastUpdated": "2026-11-14T14:30:03Z"
+      "lastUpdated": "2026-11-22T12:12:26Z"
     },
     "noggen_": {
       "counters": {
@@ -10054,7 +10062,7 @@
     "chillidragon": {
       "counters": {
         "follow": 1,
-        "chat": 374,
+        "chat": 378,
         "gift_subs": 30,
         "gift_bombs": 6,
         "total_gift_bomb_subs": 30,
@@ -10108,7 +10116,7 @@
         "screenshot_first",
         "night_owl"
       ],
-      "lastUpdated": "2026-11-14T09:51:58Z"
+      "lastUpdated": "2026-11-14T17:17:19Z"
     },
     "prestoncodes3": {
       "counters": {
@@ -11497,7 +11505,7 @@
     "daisie_does": {
       "counters": {
         "follow": 1,
-        "chat": 69,
+        "chat": 74,
         "points_spent": 800,
         "effects": 1
       },
@@ -11509,7 +11517,7 @@
         "chat_talker",
         "chat_conversationalist"
       ],
-      "lastUpdated": "2026-11-14T15:07:29Z"
+      "lastUpdated": "2026-11-22T12:11:40Z"
     },
     "kr1ppy": {
       "counters": {
@@ -12038,7 +12046,7 @@
       "lastUpdated": "2026-11-08T17:35:00Z"
     }
   },
-  "lastUpdated": "2026-11-14T15:21:14Z",
+  "lastUpdated": "2026-11-22T12:12:29Z",
   "totalUsers": 618,
   "totalAchievements": 159,
   "generatedBy": "Streamer.bot Achievement System"
